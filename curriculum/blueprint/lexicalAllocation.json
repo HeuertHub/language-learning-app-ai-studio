@@ -1,0 +1,84 @@
+{
+  "summary": {
+    "totalUnits": 256,
+    "totalProductiveCoreLemmas": 5329,
+    "totalReceptiveCoreLemmas": 4112,
+    "totalCoreLexicalLemmas": 9441,
+    "totalMultiwordExpressions": 2692,
+    "targetBandLemmas": "8,000–10,000 core lexical lemmas",
+    "targetBandExpressions": "1,500–3,000 fixed expressions / idioms",
+    "reconciliationStatus": "VERIFIED_COMPLIANT"
+  },
+  "byLevel": {
+    "Pre-A1": {
+      "cefrLevel": "Pre-A1",
+      "units": 15,
+      "domainSpecificLemmas": 123,
+      "generalPurposeLemmas": 45,
+      "productiveCoreLemmas": 122,
+      "receptiveCoreLemmas": 46,
+      "totalCoreLemmas": 168,
+      "multiwordExpressions": 47
+    },
+    "A1": {
+      "cefrLevel": "A1",
+      "units": 48,
+      "domainSpecificLemmas": 876,
+      "generalPurposeLemmas": 239,
+      "productiveCoreLemmas": 822,
+      "receptiveCoreLemmas": 293,
+      "totalCoreLemmas": 1115,
+      "multiwordExpressions": 300
+    },
+    "A2": {
+      "cefrLevel": "A2",
+      "units": 48,
+      "domainSpecificLemmas": 1136,
+      "generalPurposeLemmas": 323,
+      "productiveCoreLemmas": 987,
+      "receptiveCoreLemmas": 472,
+      "totalCoreLemmas": 1459,
+      "multiwordExpressions": 404
+    },
+    "B1": {
+      "cefrLevel": "B1",
+      "units": 44,
+      "domainSpecificLemmas": 1202,
+      "generalPurposeLemmas": 378,
+      "productiveCoreLemmas": 934,
+      "receptiveCoreLemmas": 646,
+      "totalCoreLemmas": 1580,
+      "multiwordExpressions": 448
+    },
+    "B2": {
+      "cefrLevel": "B2",
+      "units": 42,
+      "domainSpecificLemmas": 1606,
+      "generalPurposeLemmas": 382,
+      "productiveCoreLemmas": 1068,
+      "receptiveCoreLemmas": 920,
+      "totalCoreLemmas": 1988,
+      "multiwordExpressions": 566
+    },
+    "C1": {
+      "cefrLevel": "C1",
+      "units": 31,
+      "domainSpecificLemmas": 1288,
+      "generalPurposeLemmas": 284,
+      "productiveCoreLemmas": 734,
+      "receptiveCoreLemmas": 838,
+      "totalCoreLemmas": 1572,
+      "multiwordExpressions": 449
+    },
+    "C2": {
+      "cefrLevel": "C2",
+      "units": 28,
+      "domainSpecificLemmas": 1307,
+      "generalPurposeLemmas": 252,
+      "productiveCoreLemmas": 662,
+      "receptiveCoreLemmas": 897,
+      "totalCoreLemmas": 1559,
+      "multiwordExpressions": 478
+    }
+  }
+}

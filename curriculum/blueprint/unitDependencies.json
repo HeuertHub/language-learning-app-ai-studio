@@ -1,0 +1,3874 @@
+{
+  "totalUnits": 256,
+  "units": [
+    {
+      "unitId": "unit_pre_a1_01_alphabet_consonants_intro",
+      "sequencePosition": 1,
+      "cefrLevel": "Pre-A1",
+      "prerequisites": [],
+      "reviews": [],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_pre_a1_02_mongolian_distinct_letters",
+      "sequencePosition": 2,
+      "cefrLevel": "Pre-A1",
+      "prerequisites": [
+        "unit_pre_a1_01_alphabet_consonants_intro"
+      ],
+      "reviews": [],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_pre_a1_03_cardinal_short_vowels",
+      "sequencePosition": 3,
+      "cefrLevel": "Pre-A1",
+      "prerequisites": [
+        "unit_pre_a1_02_mongolian_distinct_letters"
+      ],
+      "reviews": [],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_pre_a1_04_consonants_inventory_stops",
+      "sequencePosition": 4,
+      "cefrLevel": "Pre-A1",
+      "prerequisites": [
+        "unit_pre_a1_03_cardinal_short_vowels"
+      ],
+      "reviews": [],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_pre_a1_05_cyrillic_keyboard_mastery",
+      "sequencePosition": 5,
+      "cefrLevel": "Pre-A1",
+      "prerequisites": [
+        "unit_pre_a1_04_consonants_inventory_stops"
+      ],
+      "reviews": [
+        "unit_pre_a1_01_alphabet_consonants_intro"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_pre_a1_06_digits_and_classroom_prompts",
+      "sequencePosition": 6,
+      "cefrLevel": "Pre-A1",
+      "prerequisites": [
+        "unit_pre_a1_05_cyrillic_keyboard_mastery"
+      ],
+      "reviews": [
+        "unit_pre_a1_03_cardinal_short_vowels"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_pre_a1_07_personal_names_and_identification",
+      "sequencePosition": 7,
+      "cefrLevel": "Pre-A1",
+      "prerequisites": [
+        "unit_pre_a1_06_digits_and_classroom_prompts"
+      ],
+      "reviews": [
+        "unit_pre_a1_01_alphabet_consonants_intro",
+        "unit_pre_a1_02_mongolian_distinct_letters"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_pre_a1_08_vowel_length_pairs",
+      "sequencePosition": 8,
+      "cefrLevel": "Pre-A1",
+      "prerequisites": [
+        "unit_pre_a1_07_personal_names_and_identification"
+      ],
+      "reviews": [
+        "unit_pre_a1_03_cardinal_short_vowels"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_pre_a1_09_diphthongs_inventory",
+      "sequencePosition": 9,
+      "cefrLevel": "Pre-A1",
+      "prerequisites": [
+        "unit_pre_a1_08_vowel_length_pairs"
+      ],
+      "reviews": [
+        "unit_pre_a1_08_vowel_length_pairs"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_pre_a1_10_masculine_feminine_harmony",
+      "sequencePosition": 10,
+      "cefrLevel": "Pre-A1",
+      "prerequisites": [
+        "unit_pre_a1_09_diphthongs_inventory"
+      ],
+      "reviews": [
+        "unit_pre_a1_03_cardinal_short_vowels",
+        "unit_pre_a1_08_vowel_length_pairs"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_pre_a1_11_iotated_vowels_signs",
+      "sequencePosition": 11,
+      "cefrLevel": "Pre-A1",
+      "prerequisites": [
+        "unit_pre_a1_10_masculine_feminine_harmony"
+      ],
+      "reviews": [
+        "unit_pre_a1_04_consonants_inventory_stops"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_pre_a1_12_survival_greetings_farewells",
+      "sequencePosition": 12,
+      "cefrLevel": "Pre-A1",
+      "prerequisites": [
+        "unit_pre_a1_11_iotated_vowels_signs"
+      ],
+      "reviews": [
+        "unit_pre_a1_01_alphabet_consonants_intro"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_pre_a1_13_gratitude_apologies_politeness",
+      "sequencePosition": 13,
+      "cefrLevel": "Pre-A1",
+      "prerequisites": [
+        "unit_pre_a1_12_survival_greetings_farewells"
+      ],
+      "reviews": [
+        "unit_pre_a1_12_survival_greetings_farewells"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_pre_a1_14_public_signs_and_notices",
+      "sequencePosition": 14,
+      "cefrLevel": "Pre-A1",
+      "prerequisites": [
+        "unit_pre_a1_13_gratitude_apologies_politeness"
+      ],
+      "reviews": [
+        "unit_pre_a1_01_alphabet_consonants_intro",
+        "unit_pre_a1_05_cyrillic_keyboard_mastery"
+      ],
+      "competencies": [
+        "macro_a1_physical_environment"
+      ]
+    },
+    {
+      "unitId": "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+      "sequencePosition": 15,
+      "cefrLevel": "Pre-A1",
+      "prerequisites": [
+        "unit_pre_a1_14_public_signs_and_notices"
+      ],
+      "reviews": [
+        "unit_pre_a1_01_alphabet_consonants_intro",
+        "unit_pre_a1_03_cardinal_short_vowels",
+        "unit_pre_a1_08_vowel_length_pairs"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_a1_16_standard_salutations_time_of_day_gr",
+      "sequencePosition": 16,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone"
+      ],
+      "reviews": [
+        "unit_pre_a1_14_public_signs_and_notices",
+        "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_a1_17_personal_pronouns_direct_address_pr",
+      "sequencePosition": 17,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_16_standard_salutations_time_of_day_gr"
+      ],
+      "reviews": [
+        "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_a1_18_zero_copula_identity_origin_predica",
+      "sequencePosition": 18,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_17_personal_pronouns_direct_address_pr"
+      ],
+      "reviews": [
+        "unit_a1_16_standard_salutations_time_of_day_gr"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_a1_19_polar_inquiries_polar_question_part",
+      "sequencePosition": 19,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_18_zero_copula_identity_origin_predica"
+      ],
+      "reviews": [
+        "unit_a1_17_personal_pronouns_direct_address_pr",
+        "unit_a1_16_standard_salutations_time_of_day_gr"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_a1_20_demonstrative_deixis_",
+      "sequencePosition": 20,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_19_polar_inquiries_polar_question_part"
+      ],
+      "reviews": [
+        "unit_a1_17_personal_pronouns_direct_address_pr",
+        "unit_a1_18_zero_copula_identity_origin_predica",
+        "unit_a1_16_standard_salutations_time_of_day_gr"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_a1_21_negative_nominal_assertion_the_copu",
+      "sequencePosition": 21,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_20_demonstrative_deixis_"
+      ],
+      "reviews": [
+        "unit_a1_18_zero_copula_identity_origin_predica",
+        "unit_a1_19_polar_inquiries_polar_question_part",
+        "unit_a1_16_standard_salutations_time_of_day_gr"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_a1_22_formal_departure_social_gratitude_f",
+      "sequencePosition": 22,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_21_negative_nominal_assertion_the_copu"
+      ],
+      "reviews": [
+        "unit_a1_20_demonstrative_deixis_",
+        "unit_a1_16_standard_salutations_time_of_day_gr"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_a1_23_section_synthesis_social_reception_",
+      "sequencePosition": 23,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_22_formal_departure_social_gratitude_f"
+      ],
+      "reviews": [
+        "unit_a1_21_negative_nominal_assertion_the_copu",
+        "unit_a1_16_standard_salutations_time_of_day_gr"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_a1_24_existential_assertion_vs_",
+      "sequencePosition": 24,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_23_section_synthesis_social_reception_"
+      ],
+      "reviews": [
+        "unit_a1_23_section_synthesis_social_reception_"
+      ],
+      "competencies": [
+        "macro_a1_physical_environment"
+      ]
+    },
+    {
+      "unitId": "unit_a1_25_dative_locative_spatial_anchoring_s",
+      "sequencePosition": 25,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_24_existential_assertion_vs_",
+        "unit_a1_18_zero_copula_identity_origin_predica"
+      ],
+      "reviews": [
+        "unit_a1_18_zero_copula_identity_origin_predica",
+        "unit_a1_23_section_synthesis_social_reception_"
+      ],
+      "competencies": [
+        "macro_a1_physical_environment"
+      ]
+    },
+    {
+      "unitId": "unit_a1_26_content_question_particles_and_",
+      "sequencePosition": 26,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_25_dative_locative_spatial_anchoring_s"
+      ],
+      "reviews": [
+        "unit_a1_23_section_synthesis_social_reception_",
+        "unit_a1_24_existential_assertion_vs_"
+      ],
+      "competencies": [
+        "macro_a1_physical_environment"
+      ]
+    },
+    {
+      "unitId": "unit_a1_27_cardinal_numbers_counting_up_to_one",
+      "sequencePosition": 27,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_26_content_question_particles_and_"
+      ],
+      "reviews": [
+        "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+        "unit_a1_24_existential_assertion_vs_"
+      ],
+      "competencies": [
+        "macro_a1_physical_environment"
+      ]
+    },
+    {
+      "unitId": "unit_a1_28_telephone_numbers_digital_contact_e",
+      "sequencePosition": 28,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_27_cardinal_numbers_counting_up_to_one"
+      ],
+      "reviews": [
+        "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+        "unit_a1_24_existential_assertion_vs_"
+      ],
+      "competencies": [
+        "macro_a1_physical_environment"
+      ]
+    },
+    {
+      "unitId": "unit_a1_29_nominal_plurality_suffixes_",
+      "sequencePosition": 29,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_28_telephone_numbers_digital_contact_e"
+      ],
+      "reviews": [
+        "unit_a1_20_demonstrative_deixis_",
+        "unit_a1_25_dative_locative_spatial_anchoring_s",
+        "unit_a1_24_existential_assertion_vs_"
+      ],
+      "competencies": [
+        "macro_a1_physical_environment"
+      ]
+    },
+    {
+      "unitId": "unit_a1_30_definite_direct_objects_the_accusat",
+      "sequencePosition": 30,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_29_nominal_plurality_suffixes_",
+        "unit_a1_18_zero_copula_identity_origin_predica"
+      ],
+      "reviews": [
+        "unit_a1_25_dative_locative_spatial_anchoring_s",
+        "unit_a1_24_existential_assertion_vs_"
+      ],
+      "competencies": [
+        "macro_a1_physical_environment"
+      ]
+    },
+    {
+      "unitId": "unit_a1_31_measure_words_nominal_counting_clas",
+      "sequencePosition": 31,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_30_definite_direct_objects_the_accusat"
+      ],
+      "reviews": [
+        "unit_a1_28_telephone_numbers_digital_contact_e",
+        "unit_a1_24_existential_assertion_vs_"
+      ],
+      "competencies": [
+        "macro_a1_physical_environment"
+      ]
+    },
+    {
+      "unitId": "unit_a1_32_classroom_discourse_spatial_instruc",
+      "sequencePosition": 32,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_31_measure_words_nominal_counting_clas"
+      ],
+      "reviews": [
+        "unit_a1_26_content_question_particles_and_",
+        "unit_a1_24_existential_assertion_vs_"
+      ],
+      "competencies": [
+        "macro_a1_physical_environment"
+      ]
+    },
+    {
+      "unitId": "unit_a1_33_spatial_inventory_capstone_office_s",
+      "sequencePosition": 33,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_32_classroom_discourse_spatial_instruc"
+      ],
+      "reviews": [
+        "unit_a1_30_definite_direct_objects_the_accusat",
+        "unit_a1_24_existential_assertion_vs_"
+      ],
+      "competencies": [
+        "macro_a1_physical_environment"
+      ]
+    },
+    {
+      "unitId": "unit_a1_34_telling_clock_time_",
+      "sequencePosition": 34,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_33_spatial_inventory_capstone_office_s"
+      ],
+      "reviews": [
+        "unit_a1_31_measure_words_nominal_counting_clas",
+        "unit_a1_33_spatial_inventory_capstone_office_s"
+      ],
+      "competencies": [
+        "macro_a1_time_routines_transport"
+      ]
+    },
+    {
+      "unitId": "unit_a1_35_days_of_the_week_weekly_calendars",
+      "sequencePosition": 35,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_34_telling_clock_time_"
+      ],
+      "reviews": [
+        "unit_a1_31_measure_words_nominal_counting_clas",
+        "unit_a1_33_spatial_inventory_capstone_office_s"
+      ],
+      "competencies": [
+        "macro_a1_time_routines_transport"
+      ]
+    },
+    {
+      "unitId": "unit_a1_36_calendar_dates_months_seasons",
+      "sequencePosition": 36,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_35_days_of_the_week_weekly_calendars"
+      ],
+      "reviews": [
+        "unit_a1_34_telling_clock_time_"
+      ],
+      "competencies": [
+        "macro_a1_time_routines_transport"
+      ]
+    },
+    {
+      "unitId": "unit_a1_37_verbal_dictionary_infinitive_suffix",
+      "sequencePosition": 37,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_36_calendar_dates_months_seasons"
+      ],
+      "reviews": [
+        "unit_a1_35_days_of_the_week_weekly_calendars",
+        "unit_a1_34_telling_clock_time_"
+      ],
+      "competencies": [
+        "macro_a1_time_routines_transport"
+      ]
+    },
+    {
+      "unitId": "unit_a1_38_habitual_present_participle_aspect_",
+      "sequencePosition": 38,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_37_verbal_dictionary_infinitive_suffix"
+      ],
+      "reviews": [
+        "unit_a1_36_calendar_dates_months_seasons",
+        "unit_a1_34_telling_clock_time_"
+      ],
+      "competencies": [
+        "macro_a1_time_routines_transport"
+      ]
+    },
+    {
+      "unitId": "unit_a1_39_temporal_dative_locative_times_dead",
+      "sequencePosition": 39,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_38_habitual_present_participle_aspect_"
+      ],
+      "reviews": [
+        "unit_a1_30_definite_direct_objects_the_accusat",
+        "unit_a1_37_verbal_dictionary_infinitive_suffix",
+        "unit_a1_34_telling_clock_time_"
+      ],
+      "competencies": [
+        "macro_a1_time_routines_transport"
+      ]
+    },
+    {
+      "unitId": "unit_a1_40_ablative_of_spatial_temporal_origin",
+      "sequencePosition": 40,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_39_temporal_dative_locative_times_dead"
+      ],
+      "reviews": [
+        "unit_pre_a1_14_public_signs_and_notices",
+        "unit_a1_34_telling_clock_time_"
+      ],
+      "competencies": [
+        "macro_a1_time_routines_transport"
+      ]
+    },
+    {
+      "unitId": "unit_a1_41_witnessed_past_verbal_tense_suffix_",
+      "sequencePosition": 41,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_40_ablative_of_spatial_temporal_origin"
+      ],
+      "reviews": [
+        "unit_a1_38_habitual_present_participle_aspect_",
+        "unit_a1_39_temporal_dative_locative_times_dead",
+        "unit_a1_34_telling_clock_time_"
+      ],
+      "competencies": [
+        "macro_a1_time_routines_transport"
+      ]
+    },
+    {
+      "unitId": "unit_a1_42_coordinating_converb_clause_linking",
+      "sequencePosition": 42,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_41_witnessed_past_verbal_tense_suffix_",
+        "unit_a1_37_verbal_dictionary_infinitive_suffix"
+      ],
+      "reviews": [
+        "unit_a1_39_temporal_dative_locative_times_dead",
+        "unit_a1_34_telling_clock_time_"
+      ],
+      "competencies": [
+        "macro_a1_time_routines_transport"
+      ]
+    },
+    {
+      "unitId": "unit_a1_43_public_transit_commuting_bus_routes",
+      "sequencePosition": 43,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_42_coordinating_converb_clause_linking"
+      ],
+      "reviews": [
+        "unit_a1_40_ablative_of_spatial_temporal_origin",
+        "unit_a1_34_telling_clock_time_"
+      ],
+      "competencies": [
+        "macro_a1_time_routines_transport"
+      ]
+    },
+    {
+      "unitId": "unit_a1_44_workday_schedule_synthesis_chronolo",
+      "sequencePosition": 44,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_43_public_transit_commuting_bus_routes"
+      ],
+      "reviews": [
+        "unit_a1_42_coordinating_converb_clause_linking",
+        "unit_a1_34_telling_clock_time_"
+      ],
+      "competencies": [
+        "macro_a1_time_routines_transport"
+      ]
+    },
+    {
+      "unitId": "unit_a1_45_traditional_cuisine_restaurant_orde",
+      "sequencePosition": 45,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_44_workday_schedule_synthesis_chronolo"
+      ],
+      "reviews": [
+        "unit_a1_29_nominal_plurality_suffixes_",
+        "unit_pre_a1_09_diphthongs_inventory",
+        "unit_a1_44_workday_schedule_synthesis_chronolo"
+      ],
+      "competencies": [
+        "macro_a1_food_and_commerce"
+      ]
+    },
+    {
+      "unitId": "unit_a1_46_beverages_tea_traditional_dairy_off",
+      "sequencePosition": 46,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_45_traditional_cuisine_restaurant_orde"
+      ],
+      "reviews": [
+        "unit_pre_a1_09_diphthongs_inventory",
+        "unit_a1_44_workday_schedule_synthesis_chronolo"
+      ],
+      "competencies": [
+        "macro_a1_food_and_commerce"
+      ]
+    },
+    {
+      "unitId": "unit_a1_47_comitative_case_suffixes_",
+      "sequencePosition": 47,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_46_beverages_tea_traditional_dairy_off"
+      ],
+      "reviews": [
+        "unit_a1_40_ablative_of_spatial_temporal_origin",
+        "unit_a1_45_traditional_cuisine_restaurant_orde"
+      ],
+      "competencies": [
+        "macro_a1_food_and_commerce"
+      ]
+    },
+    {
+      "unitId": "unit_a1_48_volitional_intention_suffixes_",
+      "sequencePosition": 48,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_47_comitative_case_suffixes_"
+      ],
+      "reviews": [
+        "unit_a1_42_coordinating_converb_clause_linking",
+        "unit_a1_46_beverages_tea_traditional_dairy_off",
+        "unit_a1_45_traditional_cuisine_restaurant_orde"
+      ],
+      "competencies": [
+        "macro_a1_food_and_commerce"
+      ]
+    },
+    {
+      "unitId": "unit_a1_49_polite_request_imperative_suffixes_",
+      "sequencePosition": 49,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_48_volitional_intention_suffixes_"
+      ],
+      "reviews": [
+        "unit_a1_47_comitative_case_suffixes_",
+        "unit_a1_45_traditional_cuisine_restaurant_orde"
+      ],
+      "competencies": [
+        "macro_a1_food_and_commerce"
+      ]
+    },
+    {
+      "unitId": "unit_a1_50_sequential_converb_clause_connector",
+      "sequencePosition": 50,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_49_polite_request_imperative_suffixes_",
+        "unit_a1_37_verbal_dictionary_infinitive_suffix",
+        "unit_a1_42_coordinating_converb_clause_linking"
+      ],
+      "reviews": [
+        "unit_a1_42_coordinating_converb_clause_linking",
+        "unit_a1_48_volitional_intention_suffixes_",
+        "unit_a1_45_traditional_cuisine_restaurant_orde"
+      ],
+      "competencies": [
+        "macro_a1_food_and_commerce"
+      ]
+    },
+    {
+      "unitId": "unit_a1_51_settling_the_bill_canteen_transacti",
+      "sequencePosition": 51,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_50_sequential_converb_clause_connector"
+      ],
+      "reviews": [
+        "unit_a1_49_polite_request_imperative_suffixes_",
+        "unit_a1_45_traditional_cuisine_restaurant_orde"
+      ],
+      "competencies": [
+        "macro_a1_food_and_commerce"
+      ]
+    },
+    {
+      "unitId": "unit_a1_52_open_market_grocery_shopping_bulk_q",
+      "sequencePosition": 52,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_51_settling_the_bill_canteen_transacti"
+      ],
+      "reviews": [
+        "unit_a1_50_sequential_converb_clause_connector",
+        "unit_a1_45_traditional_cuisine_restaurant_orde"
+      ],
+      "competencies": [
+        "macro_a1_food_and_commerce"
+      ]
+    },
+    {
+      "unitId": "unit_a1_53_hospitality_protocol_receiving_food",
+      "sequencePosition": 53,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_52_open_market_grocery_shopping_bulk_q"
+      ],
+      "reviews": [
+        "unit_a1_51_settling_the_bill_canteen_transacti",
+        "unit_a1_45_traditional_cuisine_restaurant_orde"
+      ],
+      "competencies": [
+        "macro_a1_food_and_commerce"
+      ]
+    },
+    {
+      "unitId": "unit_a1_54_nuclear_kinship_parents_siblings_ch",
+      "sequencePosition": 54,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_53_hospitality_protocol_receiving_food"
+      ],
+      "reviews": [
+        "unit_a1_47_comitative_case_suffixes_",
+        "unit_a1_53_hospitality_protocol_receiving_food"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_a1_55_possessive_pronouns_",
+      "sequencePosition": 55,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_54_nuclear_kinship_parents_siblings_ch"
+      ],
+      "reviews": [
+        "unit_a1_53_hospitality_protocol_receiving_food"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_a1_56_family_milestones_ages_marital_stat",
+      "sequencePosition": 56,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_55_possessive_pronouns_"
+      ],
+      "reviews": [
+        "unit_a1_54_nuclear_kinship_parents_siblings_ch"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_a1_57_ongoing_progressive_aspect_verbal_s",
+      "sequencePosition": 57,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_56_family_milestones_ages_marital_stat"
+      ],
+      "reviews": [
+        "unit_a1_50_sequential_converb_clause_connector",
+        "unit_a1_33_spatial_inventory_capstone_office_s",
+        "unit_a1_54_nuclear_kinship_parents_siblings_ch"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_a1_58_perfective_past_participle_suffixes",
+      "sequencePosition": 58,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_57_ongoing_progressive_aspect_verbal_s"
+      ],
+      "reviews": [
+        "unit_a1_56_family_milestones_ages_marital_stat",
+        "unit_a1_54_nuclear_kinship_parents_siblings_ch"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_a1_59_prospective_future_marker_suffixes_",
+      "sequencePosition": 59,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_58_perfective_past_participle_suffixes"
+      ],
+      "reviews": [
+        "unit_a1_43_public_transit_commuting_bus_routes",
+        "unit_a1_54_nuclear_kinship_parents_siblings_ch"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_a1_60_prohibitive_imperative_the_particle",
+      "sequencePosition": 60,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_59_prospective_future_marker_suffixes_"
+      ],
+      "reviews": [
+        "unit_a1_54_nuclear_kinship_parents_siblings_ch"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_a1_61_spatial_postpositions_",
+      "sequencePosition": 61,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_60_prohibitive_imperative_the_particle"
+      ],
+      "reviews": [
+        "unit_a1_57_ongoing_progressive_aspect_verbal_s",
+        "unit_a1_54_nuclear_kinship_parents_siblings_ch"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_a1_62_weather_temperatures_seasonal_sensa",
+      "sequencePosition": 62,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_61_spatial_postpositions_"
+      ],
+      "reviews": [
+        "unit_a1_56_family_milestones_ages_marital_stat",
+        "unit_a1_57_ongoing_progressive_aspect_verbal_s",
+        "unit_a1_54_nuclear_kinship_parents_siblings_ch"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_a1_63_a1_capstone_family_story_living_env",
+      "sequencePosition": 63,
+      "cefrLevel": "A1",
+      "prerequisites": [
+        "unit_a1_62_weather_temperatures_seasonal_sensa"
+      ],
+      "reviews": [
+        "unit_a1_58_perfective_past_participle_suffixes",
+        "unit_a1_54_nuclear_kinship_parents_siblings_ch"
+      ],
+      "competencies": [
+        "macro_a1_social_survival"
+      ]
+    },
+    {
+      "unitId": "unit_a2_64_navigating_ulaanbaatar_bus_routes_d",
+      "sequencePosition": 64,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a1_63_a1_capstone_family_story_living_env"
+      ],
+      "reviews": [
+        "unit_a1_62_weather_temperatures_seasonal_sensa",
+        "unit_a1_59_prospective_future_marker_suffixes_",
+        "unit_a1_63_a1_capstone_family_story_living_env"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_65_hailing_street_taxis_giving_micro_d",
+      "sequencePosition": 65,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_64_navigating_ulaanbaatar_bus_routes_d"
+      ],
+      "reviews": [
+        "unit_a1_59_prospective_future_marker_suffixes_",
+        "unit_a1_63_a1_capstone_family_story_living_env"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_66_intercity_bus_passenger_train_trave",
+      "sequencePosition": 66,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_65_hailing_street_taxis_giving_micro_d"
+      ],
+      "reviews": [
+        "unit_a2_64_navigating_ulaanbaatar_bus_routes_d"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_67_pedestrian_wayfinding_landmark_rela",
+      "sequencePosition": 67,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_66_intercity_bus_passenger_train_trave"
+      ],
+      "reviews": [
+        "unit_a2_65_hailing_street_taxis_giving_micro_d",
+        "unit_a2_64_navigating_ulaanbaatar_bus_routes_d"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_68_handling_transit_delays_traffic_jam",
+      "sequencePosition": 68,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_67_pedestrian_wayfinding_landmark_rela"
+      ],
+      "reviews": [
+        "unit_a2_66_intercity_bus_passenger_train_trave",
+        "unit_a2_64_navigating_ulaanbaatar_bus_routes_d"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_69_postal_courier_package_delivery_ser",
+      "sequencePosition": 69,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_68_handling_transit_delays_traffic_jam"
+      ],
+      "reviews": [
+        "unit_a1_60_prohibitive_imperative_the_particle",
+        "unit_a2_64_navigating_ulaanbaatar_bus_routes_d"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_70_banking_basics_atms_cash_withdrawal",
+      "sequencePosition": 70,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_69_postal_courier_package_delivery_ser"
+      ],
+      "reviews": [
+        "unit_a1_60_prohibitive_imperative_the_particle",
+        "unit_a2_64_navigating_ulaanbaatar_bus_routes_d"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_71_currency_exchange_international_rem",
+      "sequencePosition": 71,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_70_banking_basics_atms_cash_withdrawal"
+      ],
+      "reviews": [
+        "unit_a2_69_postal_courier_package_delivery_ser",
+        "unit_a2_64_navigating_ulaanbaatar_bus_routes_d"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_72_urban_transit_capstone_navigating_t",
+      "sequencePosition": 72,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_71_currency_exchange_international_rem"
+      ],
+      "reviews": [
+        "unit_a2_68_handling_transit_delays_traffic_jam",
+        "unit_a2_64_navigating_ulaanbaatar_bus_routes_d"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_73_department_stores_shopping_mall_nav",
+      "sequencePosition": 73,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_72_urban_transit_capstone_navigating_t"
+      ],
+      "reviews": [
+        "unit_a1_27_cardinal_numbers_counting_up_to_one",
+        "unit_a2_71_currency_exchange_international_rem",
+        "unit_a2_72_urban_transit_capstone_navigating_t"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_74_clothing_sizes_fabrics_fitting_room",
+      "sequencePosition": 74,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_73_department_stores_shopping_mall_nav"
+      ],
+      "reviews": [
+        "unit_a2_71_currency_exchange_international_rem",
+        "unit_a2_72_urban_transit_capstone_navigating_t"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_75_reflexive_possessive_base_suffixes_",
+      "sequencePosition": 75,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_74_clothing_sizes_fabrics_fitting_room"
+      ],
+      "reviews": [
+        "unit_a2_73_department_stores_shopping_mall_nav"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_76_reflexive_case_combinations_",
+      "sequencePosition": 76,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_75_reflexive_possessive_base_suffixes_"
+      ],
+      "reviews": [
+        "unit_a2_74_clothing_sizes_fabrics_fitting_room",
+        "unit_a2_73_department_stores_shopping_mall_nav"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_77_third_person_possessive_enclitic_th",
+      "sequencePosition": 77,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_76_reflexive_case_combinations_"
+      ],
+      "reviews": [
+        "unit_a2_75_reflexive_possessive_base_suffixes_",
+        "unit_a2_73_department_stores_shopping_mall_nav"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_78_comparative_superlative_vs_",
+      "sequencePosition": 78,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_77_third_person_possessive_enclitic_th"
+      ],
+      "reviews": [
+        "unit_a2_76_reflexive_case_combinations_",
+        "unit_a2_73_department_stores_shopping_mall_nav"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_79_open_air_market_bargaining_at_naran",
+      "sequencePosition": 79,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_78_comparative_superlative_vs_",
+        "unit_a1_37_verbal_dictionary_infinitive_suffix",
+        "unit_a1_42_coordinating_converb_clause_linking"
+      ],
+      "reviews": [
+        "unit_a1_50_sequential_converb_clause_connector",
+        "unit_a2_77_third_person_possessive_enclitic_th",
+        "unit_a2_73_department_stores_shopping_mall_nav"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_80_tailoring_traditional_deel_alterati",
+      "sequencePosition": 80,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_79_open_air_market_bargaining_at_naran"
+      ],
+      "reviews": [
+        "unit_a2_73_department_stores_shopping_mall_nav",
+        "unit_a2_78_comparative_superlative_vs_"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_81_cashmere_shopping_wool_grade_certif",
+      "sequencePosition": 81,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_80_tailoring_traditional_deel_alterati"
+      ],
+      "reviews": [
+        "unit_a2_79_open_air_market_bargaining_at_naran",
+        "unit_a2_73_department_stores_shopping_mall_nav"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_82_retail_service_transaction_capstone",
+      "sequencePosition": 82,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_81_cashmere_shopping_wool_grade_certif"
+      ],
+      "reviews": [
+        "unit_a2_80_tailoring_traditional_deel_alterati",
+        "unit_a2_73_department_stores_shopping_mall_nav"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_83_human_anatomy_somatic_pain_location",
+      "sequencePosition": 83,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_82_retail_service_transaction_capstone"
+      ],
+      "reviews": [
+        "unit_a2_82_retail_service_transaction_capstone"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_84_describing_illness_symptoms_to_a_ph",
+      "sequencePosition": 84,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_83_human_anatomy_somatic_pain_location",
+        "unit_a1_37_verbal_dictionary_infinitive_suffix",
+        "unit_a1_42_coordinating_converb_clause_linking"
+      ],
+      "reviews": [
+        "unit_a2_79_open_air_market_bargaining_at_naran",
+        "unit_a2_82_retail_service_transaction_capstone"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_85_purchasing_medicine_pharmacy_consul",
+      "sequencePosition": 85,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_84_describing_illness_symptoms_to_a_ph"
+      ],
+      "reviews": [
+        "unit_a2_83_human_anatomy_somatic_pain_location"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_86_modal_obligation_modals_vs_",
+      "sequencePosition": 86,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_85_purchasing_medicine_pharmacy_consul"
+      ],
+      "reviews": [
+        "unit_a2_84_describing_illness_symptoms_to_a_ph",
+        "unit_a2_83_human_anatomy_somatic_pain_location"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_87_modal_permission_possibility_suffix",
+      "sequencePosition": 87,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_86_modal_obligation_modals_vs_"
+      ],
+      "reviews": [
+        "unit_a2_85_purchasing_medicine_pharmacy_consul",
+        "unit_a2_83_human_anatomy_somatic_pain_location"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_88_modal_potentiality_verbs_vs_",
+      "sequencePosition": 88,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_87_modal_permission_possibility_suffix"
+      ],
+      "reviews": [
+        "unit_a2_86_modal_obligation_modals_vs_",
+        "unit_a2_83_human_anatomy_somatic_pain_location"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_89_scheduling_clinic_dental_appointmen",
+      "sequencePosition": 89,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_88_modal_potentiality_verbs_vs_"
+      ],
+      "reviews": [
+        "unit_a2_87_modal_permission_possibility_suffix",
+        "unit_a2_83_human_anatomy_somatic_pain_location"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_90_medical_encounters_capstone_full_cl",
+      "sequencePosition": 90,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_89_scheduling_clinic_dental_appointmen"
+      ],
+      "reviews": [
+        "unit_a2_88_modal_potentiality_verbs_vs_",
+        "unit_a2_83_human_anatomy_somatic_pain_location"
+      ],
+      "competencies": [
+        "macro_a2_practical_survival_services"
+      ]
+    },
+    {
+      "unitId": "unit_a2_91_extended_kinship_clans_vs_relatives",
+      "sequencePosition": 91,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_90_medical_encounters_capstone_full_cl"
+      ],
+      "reviews": [
+        "unit_a1_63_a1_capstone_family_story_living_env",
+        "unit_a2_90_medical_encounters_capstone_full_cl"
+      ],
+      "competencies": [
+        "macro_a2_personal_history_and_social"
+      ]
+    },
+    {
+      "unitId": "unit_a2_92_describing_physical_appearance_groo",
+      "sequencePosition": 92,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_91_extended_kinship_clans_vs_relatives"
+      ],
+      "reviews": [
+        "unit_a2_82_retail_service_transaction_capstone",
+        "unit_a2_90_medical_encounters_capstone_full_cl"
+      ],
+      "competencies": [
+        "macro_a2_personal_history_and_social"
+      ]
+    },
+    {
+      "unitId": "unit_a2_93_personality_traits_moral_character_",
+      "sequencePosition": 93,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_92_describing_physical_appearance_groo"
+      ],
+      "reviews": [
+        "unit_a1_32_classroom_discourse_spatial_instruc",
+        "unit_a2_91_extended_kinship_clans_vs_relatives"
+      ],
+      "competencies": [
+        "macro_a2_personal_history_and_social"
+      ]
+    },
+    {
+      "unitId": "unit_a2_94_childhood_hometown_recollections_ea",
+      "sequencePosition": 94,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_93_personality_traits_moral_character_"
+      ],
+      "reviews": [
+        "unit_a2_84_describing_illness_symptoms_to_a_ph",
+        "unit_a2_91_extended_kinship_clans_vs_relatives"
+      ],
+      "competencies": [
+        "macro_a2_personal_history_and_social"
+      ]
+    },
+    {
+      "unitId": "unit_a2_95_narrating_past_vacations_countrysid",
+      "sequencePosition": 95,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_94_childhood_hometown_recollections_ea"
+      ],
+      "reviews": [
+        "unit_a2_72_urban_transit_capstone_navigating_t",
+        "unit_a2_91_extended_kinship_clans_vs_relatives"
+      ],
+      "competencies": [
+        "macro_a2_personal_history_and_social"
+      ]
+    },
+    {
+      "unitId": "unit_a2_96_recent_weekend_pastimes_cultural_ou",
+      "sequencePosition": 96,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_95_narrating_past_vacations_countrysid"
+      ],
+      "reviews": [
+        "unit_a1_44_workday_schedule_synthesis_chronolo",
+        "unit_a2_91_extended_kinship_clans_vs_relatives"
+      ],
+      "competencies": [
+        "macro_a2_personal_history_and_social"
+      ]
+    },
+    {
+      "unitId": "unit_a2_97_extending_social_invitations_to_gat",
+      "sequencePosition": 97,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_96_recent_weekend_pastimes_cultural_ou"
+      ],
+      "reviews": [
+        "unit_a2_93_personality_traits_moral_character_",
+        "unit_a2_91_extended_kinship_clans_vs_relatives"
+      ],
+      "competencies": [
+        "macro_a2_personal_history_and_social"
+      ]
+    },
+    {
+      "unitId": "unit_a2_98_graceful_declination_softening_soci",
+      "sequencePosition": 98,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_97_extending_social_invitations_to_gat",
+        "unit_a1_37_verbal_dictionary_infinitive_suffix",
+        "unit_a1_42_coordinating_converb_clause_linking"
+      ],
+      "reviews": [
+        "unit_a2_84_describing_illness_symptoms_to_a_ph",
+        "unit_a2_93_personality_traits_moral_character_",
+        "unit_a2_91_extended_kinship_clans_vs_relatives"
+      ],
+      "competencies": [
+        "macro_a2_personal_history_and_social"
+      ]
+    },
+    {
+      "unitId": "unit_a2_99_reporting_third_party_statements_ve",
+      "sequencePosition": 99,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_98_graceful_declination_softening_soci"
+      ],
+      "reviews": [
+        "unit_a2_97_extending_social_invitations_to_gat",
+        "unit_a2_91_extended_kinship_clans_vs_relatives"
+      ],
+      "competencies": [
+        "macro_a2_personal_history_and_social"
+      ]
+    },
+    {
+      "unitId": "unit_a2_100_celebration_milestones_anniversarie",
+      "sequencePosition": 100,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_99_reporting_third_party_statements_ve"
+      ],
+      "reviews": [
+        "unit_a2_98_graceful_declination_softening_soci",
+        "unit_a2_91_extended_kinship_clans_vs_relatives"
+      ],
+      "competencies": [
+        "macro_a2_personal_history_and_social"
+      ]
+    },
+    {
+      "unitId": "unit_a2_101_personal_history_capstone_autobiogr",
+      "sequencePosition": 101,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_100_celebration_milestones_anniversarie"
+      ],
+      "reviews": [
+        "unit_a2_97_extending_social_invitations_to_gat",
+        "unit_a2_94_childhood_hometown_recollections_ea",
+        "unit_a2_91_extended_kinship_clans_vs_relatives"
+      ],
+      "competencies": [
+        "macro_a2_personal_history_and_social"
+      ]
+    },
+    {
+      "unitId": "unit_a2_102_apartment_rental_leases_furnishings",
+      "sequencePosition": 102,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_101_personal_history_capstone_autobiogr"
+      ],
+      "reviews": [
+        "unit_a2_101_personal_history_capstone_autobiogr"
+      ],
+      "competencies": [
+        "macro_a2_housing_and_hospitality"
+      ]
+    },
+    {
+      "unitId": "unit_a2_103_domestic_living_spaces_furnishing_l",
+      "sequencePosition": 103,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_102_apartment_rental_leases_furnishings"
+      ],
+      "reviews": [
+        "unit_a2_101_personal_history_capstone_autobiogr"
+      ],
+      "competencies": [
+        "macro_a2_housing_and_hospitality"
+      ]
+    },
+    {
+      "unitId": "unit_a2_104_the_mongolian_ger_architectural_ana",
+      "sequencePosition": 104,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_103_domestic_living_spaces_furnishing_l"
+      ],
+      "reviews": [
+        "unit_a2_102_apartment_rental_leases_furnishings"
+      ],
+      "competencies": [
+        "macro_a2_housing_and_hospitality"
+      ]
+    },
+    {
+      "unitId": "unit_a2_105_ger_etiquette_sacred_threshold_hear",
+      "sequencePosition": 105,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_104_the_mongolian_ger_architectural_ana",
+        "unit_a1_37_verbal_dictionary_infinitive_suffix",
+        "unit_a1_42_coordinating_converb_clause_linking"
+      ],
+      "reviews": [
+        "unit_a2_98_graceful_declination_softening_soci",
+        "unit_a2_103_domestic_living_spaces_furnishing_l",
+        "unit_a2_102_apartment_rental_leases_furnishings"
+      ],
+      "competencies": [
+        "macro_a2_housing_and_hospitality"
+      ]
+    },
+    {
+      "unitId": "unit_a2_106_the_five_animals_of_pastoral_nomadi",
+      "sequencePosition": 106,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_105_ger_etiquette_sacred_threshold_hear"
+      ],
+      "reviews": [
+        "unit_a2_102_apartment_rental_leases_furnishings"
+      ],
+      "competencies": [
+        "macro_a2_housing_and_hospitality"
+      ]
+    },
+    {
+      "unitId": "unit_a2_107_pastoral_dairy_processing_",
+      "sequencePosition": 107,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_106_the_five_animals_of_pastoral_nomadi",
+        "unit_a1_37_verbal_dictionary_infinitive_suffix",
+        "unit_a1_42_coordinating_converb_clause_linking"
+      ],
+      "reviews": [
+        "unit_a2_105_ger_etiquette_sacred_threshold_hear",
+        "unit_a2_102_apartment_rental_leases_furnishings"
+      ],
+      "competencies": [
+        "macro_a2_housing_and_hospitality"
+      ]
+    },
+    {
+      "unitId": "unit_a2_108_countryside_travel_logistics_season",
+      "sequencePosition": 108,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_107_pastoral_dairy_processing_"
+      ],
+      "reviews": [
+        "unit_a2_106_the_five_animals_of_pastoral_nomadi",
+        "unit_a2_102_apartment_rental_leases_furnishings"
+      ],
+      "competencies": [
+        "macro_a2_housing_and_hospitality"
+      ]
+    },
+    {
+      "unitId": "unit_a2_109_reporting_lost_possessions_in_the_c",
+      "sequencePosition": 109,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_108_countryside_travel_logistics_season"
+      ],
+      "reviews": [
+        "unit_a2_105_ger_etiquette_sacred_threshold_hear",
+        "unit_a2_102_apartment_rental_leases_furnishings"
+      ],
+      "competencies": [
+        "macro_a2_housing_and_hospitality"
+      ]
+    },
+    {
+      "unitId": "unit_a2_110_telephone_courtesy_leaving_messages",
+      "sequencePosition": 110,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_109_reporting_lost_possessions_in_the_c"
+      ],
+      "reviews": [
+        "unit_a2_107_pastoral_dairy_processing_",
+        "unit_a2_100_celebration_milestones_anniversarie",
+        "unit_a2_102_apartment_rental_leases_furnishings"
+      ],
+      "competencies": [
+        "macro_a2_housing_and_hospitality"
+      ]
+    },
+    {
+      "unitId": "unit_a2_111_waystage_pastoral_capstone_rural_ho",
+      "sequencePosition": 111,
+      "cefrLevel": "A2",
+      "prerequisites": [
+        "unit_a2_110_telephone_courtesy_leaving_messages"
+      ],
+      "reviews": [
+        "unit_a2_108_countryside_travel_logistics_season",
+        "unit_a2_102_apartment_rental_leases_furnishings"
+      ],
+      "competencies": [
+        "macro_a2_housing_and_hospitality"
+      ]
+    },
+    {
+      "unitId": "unit_b1_112_job_searching_cv_preparation_qualif",
+      "sequencePosition": 112,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_a2_111_waystage_pastoral_capstone_rural_ho"
+      ],
+      "reviews": [
+        "unit_a2_108_countryside_travel_logistics_season",
+        "unit_a2_111_waystage_pastoral_capstone_rural_ho"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_113_job_interview_strategies_answering_",
+      "sequencePosition": 113,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_112_job_searching_cv_preparation_qualif"
+      ],
+      "reviews": [
+        "unit_a2_110_telephone_courtesy_leaving_messages",
+        "unit_a2_111_waystage_pastoral_capstone_rural_ho"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_114_formal_workplace_email_business_cor",
+      "sequencePosition": 114,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_113_job_interview_strategies_answering_"
+      ],
+      "reviews": [
+        "unit_b1_112_job_searching_cv_preparation_qualif"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_115_causative_voice_base_suffixes_and_",
+      "sequencePosition": 115,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_114_formal_workplace_email_business_cor",
+        "unit_a1_30_definite_direct_objects_the_accusat",
+        "unit_a2_75_reflexive_possessive_base_suffixes_"
+      ],
+      "reviews": [
+        "unit_b1_113_job_interview_strategies_answering_",
+        "unit_b1_112_job_searching_cv_preparation_qualif"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_116_causative_argument_structure_dative",
+      "sequencePosition": 116,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_115_causative_voice_base_suffixes_and_",
+        "unit_a1_30_definite_direct_objects_the_accusat",
+        "unit_a2_75_reflexive_possessive_base_suffixes_"
+      ],
+      "reviews": [
+        "unit_b1_114_formal_workplace_email_business_cor",
+        "unit_b1_112_job_searching_cv_preparation_qualif"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_117_passive_voice_morphosyntax_suffixes",
+      "sequencePosition": 117,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_116_causative_argument_structure_dative",
+        "unit_a1_30_definite_direct_objects_the_accusat",
+        "unit_a2_75_reflexive_possessive_base_suffixes_"
+      ],
+      "reviews": [
+        "unit_b1_115_causative_voice_base_suffixes_and_",
+        "unit_b1_112_job_searching_cv_preparation_qualif"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_118_reciprocal_collaborative_voice_suff",
+      "sequencePosition": 118,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_117_passive_voice_morphosyntax_suffixes",
+        "unit_a1_30_definite_direct_objects_the_accusat",
+        "unit_a2_75_reflexive_possessive_base_suffixes_"
+      ],
+      "reviews": [
+        "unit_b1_116_causative_argument_structure_dative",
+        "unit_b1_112_job_searching_cv_preparation_qualif"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_119_intensive_completive_aspect_suffix_",
+      "sequencePosition": 119,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_118_reciprocal_collaborative_voice_suff"
+      ],
+      "reviews": [
+        "unit_a1_57_ongoing_progressive_aspect_verbal_s",
+        "unit_b1_117_passive_voice_morphosyntax_suffixes",
+        "unit_b1_112_job_searching_cv_preparation_qualif"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_120_workplace_conflict_resolution_clari",
+      "sequencePosition": 120,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_119_intensive_completive_aspect_suffix_"
+      ],
+      "reviews": [
+        "unit_b1_118_reciprocal_collaborative_voice_suff",
+        "unit_b1_112_job_searching_cv_preparation_qualif"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_121_hotel_bookings_service_inquiries_lo",
+      "sequencePosition": 121,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_120_workplace_conflict_resolution_clari"
+      ],
+      "reviews": [
+        "unit_b1_119_intensive_completive_aspect_suffix_",
+        "unit_b1_112_job_searching_cv_preparation_qualif"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_122_vehicle_breakdowns_roadside_repair_",
+      "sequencePosition": 122,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_121_hotel_bookings_service_inquiries_lo"
+      ],
+      "reviews": [
+        "unit_b1_120_workplace_conflict_resolution_clari",
+        "unit_b1_112_job_searching_cv_preparation_qualif"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_123_complex_banking_electronic_funds_tr",
+      "sequencePosition": 123,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_122_vehicle_breakdowns_roadside_repair_"
+      ],
+      "reviews": [
+        "unit_a2_99_reporting_third_party_statements_ve",
+        "unit_b1_121_hotel_bookings_service_inquiries_lo",
+        "unit_b1_112_job_searching_cv_preparation_qualif"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_124_formulating_nuanced_personal_stance",
+      "sequencePosition": 124,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_123_complex_banking_electronic_funds_tr"
+      ],
+      "reviews": [
+        "unit_b1_123_complex_banking_electronic_funds_tr"
+      ],
+      "competencies": [
+        "macro_b1_opinion_discourse_causality"
+      ]
+    },
+    {
+      "unitId": "unit_b1_125_respectful_disagreement_constructiv",
+      "sequencePosition": 125,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_124_formulating_nuanced_personal_stance"
+      ],
+      "reviews": [
+        "unit_b1_123_complex_banking_electronic_funds_tr"
+      ],
+      "competencies": [
+        "macro_b1_opinion_discourse_causality"
+      ]
+    },
+    {
+      "unitId": "unit_b1_126_causal_conjunctions_connectors_",
+      "sequencePosition": 126,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_125_respectful_disagreement_constructiv"
+      ],
+      "reviews": [
+        "unit_a2_101_personal_history_capstone_autobiogr",
+        "unit_b1_124_formulating_nuanced_personal_stance"
+      ],
+      "competencies": [
+        "macro_b1_opinion_discourse_causality"
+      ]
+    },
+    {
+      "unitId": "unit_b1_127_contemporaneous_converb_suffixes_",
+      "sequencePosition": 127,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_126_causal_conjunctions_connectors_",
+        "unit_a1_37_verbal_dictionary_infinitive_suffix",
+        "unit_a1_42_coordinating_converb_clause_linking"
+      ],
+      "reviews": [
+        "unit_a2_107_pastoral_dairy_processing_",
+        "unit_b1_123_complex_banking_electronic_funds_tr",
+        "unit_b1_124_formulating_nuanced_personal_stance"
+      ],
+      "competencies": [
+        "macro_b1_opinion_discourse_causality"
+      ]
+    },
+    {
+      "unitId": "unit_b1_128_durative_converb_suffixes_",
+      "sequencePosition": 128,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_127_contemporaneous_converb_suffixes_",
+        "unit_a1_37_verbal_dictionary_infinitive_suffix",
+        "unit_a1_42_coordinating_converb_clause_linking"
+      ],
+      "reviews": [
+        "unit_b1_123_complex_banking_electronic_funds_tr",
+        "unit_b1_124_formulating_nuanced_personal_stance"
+      ],
+      "competencies": [
+        "macro_b1_opinion_discourse_causality"
+      ]
+    },
+    {
+      "unitId": "unit_b1_129_modal_converb_of_manner_suffix_",
+      "sequencePosition": 129,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_128_durative_converb_suffixes_",
+        "unit_a1_37_verbal_dictionary_infinitive_suffix",
+        "unit_a1_42_coordinating_converb_clause_linking"
+      ],
+      "reviews": [
+        "unit_b1_127_contemporaneous_converb_suffixes_",
+        "unit_b1_124_formulating_nuanced_personal_stance"
+      ],
+      "competencies": [
+        "macro_b1_opinion_discourse_causality"
+      ]
+    },
+    {
+      "unitId": "unit_b1_130_limiting_incidental_converb_suffixe",
+      "sequencePosition": 130,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_129_modal_converb_of_manner_suffix_",
+        "unit_a1_37_verbal_dictionary_infinitive_suffix",
+        "unit_a1_42_coordinating_converb_clause_linking"
+      ],
+      "reviews": [
+        "unit_b1_128_durative_converb_suffixes_",
+        "unit_b1_124_formulating_nuanced_personal_stance"
+      ],
+      "competencies": [
+        "macro_b1_opinion_discourse_causality"
+      ]
+    },
+    {
+      "unitId": "unit_b1_131_abnutative_converb_suffix_",
+      "sequencePosition": 131,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_130_limiting_incidental_converb_suffixe",
+        "unit_a1_37_verbal_dictionary_infinitive_suffix",
+        "unit_a1_42_coordinating_converb_clause_linking"
+      ],
+      "reviews": [
+        "unit_b1_126_causal_conjunctions_connectors_",
+        "unit_b1_124_formulating_nuanced_personal_stance"
+      ],
+      "competencies": [
+        "macro_b1_opinion_discourse_causality"
+      ]
+    },
+    {
+      "unitId": "unit_b1_132_epistemic_probability_particles_vs_",
+      "sequencePosition": 132,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_131_abnutative_converb_suffix_"
+      ],
+      "reviews": [
+        "unit_b1_126_causal_conjunctions_connectors_",
+        "unit_b1_124_formulating_nuanced_personal_stance"
+      ],
+      "competencies": [
+        "macro_b1_opinion_discourse_causality"
+      ]
+    },
+    {
+      "unitId": "unit_b1_133_giving_professional_advice_actionab",
+      "sequencePosition": 133,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_132_epistemic_probability_particles_vs_"
+      ],
+      "reviews": [
+        "unit_b1_130_limiting_incidental_converb_suffixe",
+        "unit_b1_124_formulating_nuanced_personal_stance"
+      ],
+      "competencies": [
+        "macro_b1_opinion_discourse_causality"
+      ]
+    },
+    {
+      "unitId": "unit_b1_134_film_literary_criticism_evaluating_",
+      "sequencePosition": 134,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_133_giving_professional_advice_actionab"
+      ],
+      "reviews": [
+        "unit_b1_132_epistemic_probability_particles_vs_",
+        "unit_b1_124_formulating_nuanced_personal_stance"
+      ],
+      "competencies": [
+        "macro_b1_opinion_discourse_causality"
+      ]
+    },
+    {
+      "unitId": "unit_b1_135_geographical_landscapes_khangai_mou",
+      "sequencePosition": 135,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_134_film_literary_criticism_evaluating_"
+      ],
+      "reviews": [
+        "unit_b1_134_film_literary_criticism_evaluating_"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_136_administrative_geography_the_21_aim",
+      "sequencePosition": 136,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_135_geographical_landscapes_khangai_mou"
+      ],
+      "reviews": [
+        "unit_b1_134_film_literary_criticism_evaluating_"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_137_nominalization_of_participles_in_ob",
+      "sequencePosition": 137,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_136_administrative_geography_the_21_aim"
+      ],
+      "reviews": [
+        "unit_b1_135_geographical_landscapes_khangai_mou"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_138_subordinate_subject_genitive_case_m",
+      "sequencePosition": 138,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_137_nominalization_of_participles_in_ob"
+      ],
+      "reviews": [
+        "unit_b1_136_administrative_geography_the_21_aim",
+        "unit_b1_135_geographical_landscapes_khangai_mou"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_139_purposive_clauses_conjunctions_and_",
+      "sequencePosition": 139,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_138_subordinate_subject_genitive_case_m"
+      ],
+      "reviews": [
+        "unit_b1_126_causal_conjunctions_connectors_",
+        "unit_b1_137_nominalization_of_participles_in_ob",
+        "unit_b1_135_geographical_landscapes_khangai_mou"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_140_agentive_participle_nominal_derivat",
+      "sequencePosition": 140,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_139_purposive_clauses_conjunctions_and_"
+      ],
+      "reviews": [
+        "unit_b1_137_nominalization_of_participles_in_ob",
+        "unit_b1_133_giving_professional_advice_actionab",
+        "unit_b1_135_geographical_landscapes_khangai_mou"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_141_similative_postpositions_",
+      "sequencePosition": 141,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_140_agentive_participle_nominal_derivat"
+      ],
+      "reviews": [
+        "unit_a1_61_spatial_postpositions_",
+        "unit_b1_139_purposive_clauses_conjunctions_and_",
+        "unit_b1_135_geographical_landscapes_khangai_mou"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_142_temporal_framing_clauses_",
+      "sequencePosition": 142,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_141_similative_postpositions_"
+      ],
+      "reviews": [
+        "unit_b1_139_purposive_clauses_conjunctions_and_",
+        "unit_b1_135_geographical_landscapes_khangai_mou"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_143_environmental_conservation_pasture_",
+      "sequencePosition": 143,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_142_temporal_framing_clauses_"
+      ],
+      "reviews": [
+        "unit_b1_135_geographical_landscapes_khangai_mou"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_144_expedition_itinerary_capstone_great",
+      "sequencePosition": 144,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_143_environmental_conservation_pasture_"
+      ],
+      "reviews": [
+        "unit_b1_142_temporal_framing_clauses_",
+        "unit_b1_135_geographical_landscapes_khangai_mou"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_145_national_pride_the_three_manly_game",
+      "sequencePosition": 145,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_144_expedition_itinerary_capstone_great"
+      ],
+      "reviews": [
+        "unit_b1_144_expedition_itinerary_capstone_great"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_146_mongolian_wrestling_titles_garudas_",
+      "sequencePosition": 146,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_145_national_pride_the_three_manly_game"
+      ],
+      "reviews": [
+        "unit_b1_144_expedition_itinerary_capstone_great"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_147_horse_racing_age_classes_giingoo",
+      "sequencePosition": 147,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_146_mongolian_wrestling_titles_garudas_"
+      ],
+      "reviews": [
+        "unit_b1_145_national_pride_the_three_manly_game"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_148_archery_ankle_bone_shooting_",
+      "sequencePosition": 148,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_147_horse_racing_age_classes_giingoo"
+      ],
+      "reviews": [
+        "unit_b1_146_mongolian_wrestling_titles_garudas_",
+        "unit_b1_145_national_pride_the_three_manly_game"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_149_tsagaan_sar_white_moon_bit_n_eve_pr",
+      "sequencePosition": 149,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_148_archery_ankle_bone_shooting_"
+      ],
+      "reviews": [
+        "unit_b1_147_horse_racing_age_classes_giingoo",
+        "unit_b1_145_national_pride_the_three_manly_game"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_150_zolgokh_greeting_ritual_supporting_",
+      "sequencePosition": 150,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_149_tsagaan_sar_white_moon_bit_n_eve_pr"
+      ],
+      "reviews": [
+        "unit_b1_148_archery_ankle_bone_shooting_",
+        "unit_b1_145_national_pride_the_three_manly_game"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_151_traditional_blessing_poetry_recitin",
+      "sequencePosition": 151,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_150_zolgokh_greeting_ritual_supporting_"
+      ],
+      "reviews": [
+        "unit_b1_149_tsagaan_sar_white_moon_bit_n_eve_pr",
+        "unit_b1_145_national_pride_the_three_manly_game"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_152_hearsay_evidentiality_particles_and",
+      "sequencePosition": 152,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_151_traditional_blessing_poetry_recitin"
+      ],
+      "reviews": [
+        "unit_b1_150_zolgokh_greeting_ritual_supporting_",
+        "unit_b1_145_national_pride_the_three_manly_game"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_153_expressing_deep_emotional_reactions",
+      "sequencePosition": 153,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_152_hearsay_evidentiality_particles_and"
+      ],
+      "reviews": [
+        "unit_b1_151_traditional_blessing_poetry_recitin",
+        "unit_b1_145_national_pride_the_three_manly_game"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_154_hypothetical_wishes_conditional_yea",
+      "sequencePosition": 154,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_153_expressing_deep_emotional_reactions"
+      ],
+      "reviews": [
+        "unit_b1_152_hearsay_evidentiality_particles_and",
+        "unit_b1_145_national_pride_the_three_manly_game"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b1_155_threshold_independence_capstone_cul",
+      "sequencePosition": 155,
+      "cefrLevel": "B1",
+      "prerequisites": [
+        "unit_b1_154_hypothetical_wishes_conditional_yea"
+      ],
+      "reviews": [
+        "unit_b1_153_expressing_deep_emotional_reactions",
+        "unit_b1_145_national_pride_the_three_manly_game"
+      ],
+      "competencies": [
+        "macro_b1_professional_and_cultural"
+      ]
+    },
+    {
+      "unitId": "unit_b2_156_democratic_governance_parliamentary",
+      "sequencePosition": 156,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b1_155_threshold_independence_capstone_cul"
+      ],
+      "reviews": [
+        "unit_b1_155_threshold_independence_capstone_cul"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_157_civil_society_advocacy_protests_pub",
+      "sequencePosition": 157,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_156_democratic_governance_parliamentary"
+      ],
+      "reviews": [
+        "unit_b1_155_threshold_independence_capstone_cul"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_158_converb_chaining_in_complex_discour",
+      "sequencePosition": 158,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_157_civil_society_advocacy_protests_pub",
+        "unit_a1_37_verbal_dictionary_infinitive_suffix",
+        "unit_a1_42_coordinating_converb_clause_linking"
+      ],
+      "reviews": [
+        "unit_b1_131_abnutative_converb_suffix_",
+        "unit_b2_156_democratic_governance_parliamentary"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_159_switch_reference_constraints_in_dis",
+      "sequencePosition": 159,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_158_converb_chaining_in_complex_discour",
+        "unit_a1_37_verbal_dictionary_infinitive_suffix",
+        "unit_a1_42_coordinating_converb_clause_linking"
+      ],
+      "reviews": [
+        "unit_b2_157_civil_society_advocacy_protests_pub",
+        "unit_b2_156_democratic_governance_parliamentary"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_160_rhetorical_connectors_macro_discour",
+      "sequencePosition": 160,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_159_switch_reference_constraints_in_dis"
+      ],
+      "reviews": [
+        "unit_b2_158_converb_chaining_in_complex_discour",
+        "unit_b2_156_democratic_governance_parliamentary"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_161_causal_consequence_in_institutional",
+      "sequencePosition": 161,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_160_rhetorical_connectors_macro_discour"
+      ],
+      "reviews": [
+        "unit_b2_159_switch_reference_constraints_in_dis",
+        "unit_b2_156_democratic_governance_parliamentary"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_162_pragmatic_emphatic_nuance_particles",
+      "sequencePosition": 162,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_161_causal_consequence_in_institutional"
+      ],
+      "reviews": [
+        "unit_b2_160_rhetorical_connectors_macro_discour",
+        "unit_b2_156_democratic_governance_parliamentary"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_163_formal_oxford_style_debate_cross_ex",
+      "sequencePosition": 163,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_162_pragmatic_emphatic_nuance_particles"
+      ],
+      "reviews": [
+        "unit_b2_161_causal_consequence_in_institutional",
+        "unit_b2_156_democratic_governance_parliamentary"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_164_drafting_official_press_releases_ci",
+      "sequencePosition": 164,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_163_formal_oxford_style_debate_cross_ex"
+      ],
+      "reviews": [
+        "unit_b2_162_pragmatic_emphatic_nuance_particles",
+        "unit_b2_156_democratic_governance_parliamentary"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_165_moderating_multi_speaker_panel_disc",
+      "sequencePosition": 165,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_164_drafting_official_press_releases_ci"
+      ],
+      "reviews": [
+        "unit_b2_163_formal_oxford_style_debate_cross_ex",
+        "unit_b2_156_democratic_governance_parliamentary"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_166_public_policy_capstone_municipal_ur",
+      "sequencePosition": 166,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_165_moderating_multi_speaker_panel_disc"
+      ],
+      "reviews": [
+        "unit_b2_164_drafting_official_press_releases_ci",
+        "unit_b2_156_democratic_governance_parliamentary"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_167_the_meteorology_of_dzud_frost_ice_s",
+      "sequencePosition": 167,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_166_public_policy_capstone_municipal_ur"
+      ],
+      "reviews": [
+        "unit_b1_143_environmental_conservation_pasture_",
+        "unit_b2_166_public_policy_capstone_municipal_ur"
+      ],
+      "competencies": [
+        "macro_b2_commercial_and_analytical"
+      ]
+    },
+    {
+      "unitId": "unit_b2_168_gradual_proportional_converb_suffix",
+      "sequencePosition": 168,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_167_the_meteorology_of_dzud_frost_ice_s",
+        "unit_a1_37_verbal_dictionary_infinitive_suffix",
+        "unit_a1_42_coordinating_converb_clause_linking"
+      ],
+      "reviews": [
+        "unit_b2_159_switch_reference_constraints_in_dis",
+        "unit_b1_143_environmental_conservation_pasture_",
+        "unit_b2_166_public_policy_capstone_municipal_ur"
+      ],
+      "competencies": [
+        "macro_b2_commercial_and_analytical"
+      ]
+    },
+    {
+      "unitId": "unit_b2_169_durative_adversative_converb_suffix",
+      "sequencePosition": 169,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_168_gradual_proportional_converb_suffix",
+        "unit_a1_37_verbal_dictionary_infinitive_suffix",
+        "unit_a1_42_coordinating_converb_clause_linking"
+      ],
+      "reviews": [
+        "unit_b2_167_the_meteorology_of_dzud_frost_ice_s"
+      ],
+      "competencies": [
+        "macro_b2_commercial_and_analytical"
+      ]
+    },
+    {
+      "unitId": "unit_b2_170_negative_framing_converb_suffixes_",
+      "sequencePosition": 170,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_169_durative_adversative_converb_suffix",
+        "unit_a1_37_verbal_dictionary_infinitive_suffix",
+        "unit_a1_42_coordinating_converb_clause_linking"
+      ],
+      "reviews": [
+        "unit_b2_168_gradual_proportional_converb_suffix",
+        "unit_b2_167_the_meteorology_of_dzud_frost_ice_s"
+      ],
+      "competencies": [
+        "macro_b2_commercial_and_analytical"
+      ]
+    },
+    {
+      "unitId": "unit_b2_171_stacked_voice_causative_passive_mor",
+      "sequencePosition": 171,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_170_negative_framing_converb_suffixes_",
+        "unit_a1_30_definite_direct_objects_the_accusat",
+        "unit_a2_75_reflexive_possessive_base_suffixes_"
+      ],
+      "reviews": [
+        "unit_b1_118_reciprocal_collaborative_voice_suff",
+        "unit_b2_167_the_meteorology_of_dzud_frost_ice_s"
+      ],
+      "competencies": [
+        "macro_b2_commercial_and_analytical"
+      ]
+    },
+    {
+      "unitId": "unit_b2_172_double_causative_morphology_delegat",
+      "sequencePosition": 172,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_171_stacked_voice_causative_passive_mor",
+        "unit_a1_30_definite_direct_objects_the_accusat",
+        "unit_a2_75_reflexive_possessive_base_suffixes_"
+      ],
+      "reviews": [
+        "unit_b2_167_the_meteorology_of_dzud_frost_ice_s"
+      ],
+      "competencies": [
+        "macro_b2_commercial_and_analytical"
+      ]
+    },
+    {
+      "unitId": "unit_b2_173_past_counterfactual_conditionals_su",
+      "sequencePosition": 173,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_172_double_causative_morphology_delegat"
+      ],
+      "reviews": [
+        "unit_b2_170_negative_framing_converb_suffixes_",
+        "unit_b2_167_the_meteorology_of_dzud_frost_ice_s"
+      ],
+      "competencies": [
+        "macro_b2_commercial_and_analytical"
+      ]
+    },
+    {
+      "unitId": "unit_b2_174_interpreting_environmental_statisti",
+      "sequencePosition": 174,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_173_past_counterfactual_conditionals_su"
+      ],
+      "reviews": [
+        "unit_b2_170_negative_framing_converb_suffixes_",
+        "unit_b2_167_the_meteorology_of_dzud_frost_ice_s"
+      ],
+      "competencies": [
+        "macro_b2_commercial_and_analytical"
+      ]
+    },
+    {
+      "unitId": "unit_b2_175_commercial_resource_negotiations_pa",
+      "sequencePosition": 175,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_174_interpreting_environmental_statisti"
+      ],
+      "reviews": [
+        "unit_b2_172_double_causative_morphology_delegat",
+        "unit_b2_167_the_meteorology_of_dzud_frost_ice_s"
+      ],
+      "competencies": [
+        "macro_b2_commercial_and_analytical"
+      ]
+    },
+    {
+      "unitId": "unit_b2_176_ecological_resilience_capstone_cris",
+      "sequencePosition": 176,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_175_commercial_resource_negotiations_pa"
+      ],
+      "reviews": [
+        "unit_b2_174_interpreting_environmental_statisti",
+        "unit_b2_167_the_meteorology_of_dzud_frost_ice_s"
+      ],
+      "competencies": [
+        "macro_b2_commercial_and_analytical"
+      ]
+    },
+    {
+      "unitId": "unit_b2_177_the_morin_khuur_acoustic_engineerin",
+      "sequencePosition": 177,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_176_ecological_resilience_capstone_cris"
+      ],
+      "reviews": [
+        "unit_b2_176_ecological_resilience_capstone_cris"
+      ],
+      "competencies": [
+        "macro_b2_commercial_and_analytical"
+      ]
+    },
+    {
+      "unitId": "unit_b2_178_urtyn_duu_long_song_vocal_melisma_g",
+      "sequencePosition": 178,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_177_the_morin_khuur_acoustic_engineerin"
+      ],
+      "reviews": [
+        "unit_b2_176_ecological_resilience_capstone_cris"
+      ],
+      "competencies": [
+        "macro_b2_commercial_and_analytical"
+      ]
+    },
+    {
+      "unitId": "unit_b2_179_kh_mii_throat_singing_overtone_phys",
+      "sequencePosition": 179,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_178_urtyn_duu_long_song_vocal_melisma_g"
+      ],
+      "reviews": [
+        "unit_b2_177_the_morin_khuur_acoustic_engineerin"
+      ],
+      "competencies": [
+        "macro_b2_commercial_and_analytical"
+      ]
+    },
+    {
+      "unitId": "unit_b2_180_concessive_contrast_discourse_conju",
+      "sequencePosition": 180,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_179_kh_mii_throat_singing_overtone_phys"
+      ],
+      "reviews": [
+        "unit_a2_105_ger_etiquette_sacred_threshold_hear",
+        "unit_b2_178_urtyn_duu_long_song_vocal_melisma_g",
+        "unit_b2_177_the_morin_khuur_acoustic_engineerin"
+      ],
+      "competencies": [
+        "macro_b2_commercial_and_analytical"
+      ]
+    },
+    {
+      "unitId": "unit_b2_181_epistemic_stance_presumption_the_ma",
+      "sequencePosition": 181,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_180_concessive_contrast_discourse_conju"
+      ],
+      "reviews": [
+        "unit_b1_132_epistemic_probability_particles_vs_",
+        "unit_b2_179_kh_mii_throat_singing_overtone_phys",
+        "unit_b2_177_the_morin_khuur_acoustic_engineerin"
+      ],
+      "competencies": [
+        "macro_b2_commercial_and_analytical"
+      ]
+    },
+    {
+      "unitId": "unit_b2_182_sensory_appearance_modals_suffixes_",
+      "sequencePosition": 182,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_181_epistemic_stance_presumption_the_ma"
+      ],
+      "reviews": [
+        "unit_b2_180_concessive_contrast_discourse_conju",
+        "unit_b2_177_the_morin_khuur_acoustic_engineerin"
+      ],
+      "competencies": [
+        "macro_b2_commercial_and_analytical"
+      ]
+    },
+    {
+      "unitId": "unit_b2_183_indirect_discourse_framing_verbs_",
+      "sequencePosition": 183,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_182_sensory_appearance_modals_suffixes_"
+      ],
+      "reviews": [
+        "unit_b1_123_complex_banking_electronic_funds_tr",
+        "unit_b2_181_epistemic_stance_presumption_the_ma",
+        "unit_b2_177_the_morin_khuur_acoustic_engineerin"
+      ],
+      "competencies": [
+        "macro_b2_commercial_and_analytical"
+      ]
+    },
+    {
+      "unitId": "unit_b2_184_limiting_scalar_particles_the_phras",
+      "sequencePosition": 184,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_183_indirect_discourse_framing_verbs_"
+      ],
+      "reviews": [
+        "unit_b1_130_limiting_incidental_converb_suffixe",
+        "unit_b2_182_sensory_appearance_modals_suffixes_",
+        "unit_b2_177_the_morin_khuur_acoustic_engineerin"
+      ],
+      "competencies": [
+        "macro_b2_commercial_and_analytical"
+      ]
+    },
+    {
+      "unitId": "unit_b2_185_cross_cultural_comparative_heritage",
+      "sequencePosition": 185,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_184_limiting_scalar_particles_the_phras"
+      ],
+      "reviews": [
+        "unit_b2_177_the_morin_khuur_acoustic_engineerin"
+      ],
+      "competencies": [
+        "macro_b2_commercial_and_analytical"
+      ]
+    },
+    {
+      "unitId": "unit_b2_186_performing_arts_capstone_musicologi",
+      "sequencePosition": 186,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_185_cross_cultural_comparative_heritage"
+      ],
+      "reviews": [
+        "unit_b2_184_limiting_scalar_particles_the_phras",
+        "unit_b2_177_the_morin_khuur_acoustic_engineerin"
+      ],
+      "competencies": [
+        "macro_b2_commercial_and_analytical"
+      ]
+    },
+    {
+      "unitId": "unit_b2_187_scholarly_research_methodology_hypo",
+      "sequencePosition": 187,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_186_performing_arts_capstone_musicologi"
+      ],
+      "reviews": [
+        "unit_b2_186_performing_arts_capstone_musicologi"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_188_purposive_clausal_distinctions_vs_v",
+      "sequencePosition": 188,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_187_scholarly_research_methodology_hypo"
+      ],
+      "reviews": [
+        "unit_b1_139_purposive_clauses_conjunctions_and_",
+        "unit_b2_186_performing_arts_capstone_musicologi"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_189_hypothetical_conditionals_in_academ",
+      "sequencePosition": 189,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_188_purposive_clausal_distinctions_vs_v"
+      ],
+      "reviews": [
+        "unit_b2_173_past_counterfactual_conditionals_su",
+        "unit_b2_187_scholarly_research_methodology_hypo"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_190_complex_modal_obligation_the_modal_",
+      "sequencePosition": 190,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_189_hypothetical_conditionals_in_academ"
+      ],
+      "reviews": [
+        "unit_b1_129_modal_converb_of_manner_suffix_",
+        "unit_b2_188_purposive_clausal_distinctions_vs_v",
+        "unit_b2_187_scholarly_research_methodology_hypo"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_191_relative_clause_subject_genitive_no",
+      "sequencePosition": 191,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_190_complex_modal_obligation_the_modal_"
+      ],
+      "reviews": [
+        "unit_b1_140_agentive_participle_nominal_derivat",
+        "unit_b2_189_hypothetical_conditionals_in_academ",
+        "unit_b2_187_scholarly_research_methodology_hypo"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_192_delivering_prepared_academic_confer",
+      "sequencePosition": 192,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_191_relative_clause_subject_genitive_no"
+      ],
+      "reviews": [
+        "unit_b2_190_complex_modal_obligation_the_modal_",
+        "unit_b2_187_scholarly_research_methodology_hypo"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_193_handling_rigorous_academic_q_a_sess",
+      "sequencePosition": 193,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_192_delivering_prepared_academic_confer"
+      ],
+      "reviews": [
+        "unit_b2_191_relative_clause_subject_genitive_no",
+        "unit_b2_187_scholarly_research_methodology_hypo"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_194_commercial_legal_contract_parsing_l",
+      "sequencePosition": 194,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_193_handling_rigorous_academic_q_a_sess"
+      ],
+      "reviews": [
+        "unit_b2_187_scholarly_research_methodology_hypo"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_195_mediation_of_professional_conflicts",
+      "sequencePosition": 195,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_194_commercial_legal_contract_parsing_l"
+      ],
+      "reviews": [
+        "unit_b1_140_agentive_participle_nominal_derivat",
+        "unit_b2_187_scholarly_research_methodology_hypo"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_196_popularizing_scientific_discoveries",
+      "sequencePosition": 196,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_195_mediation_of_professional_conflicts"
+      ],
+      "reviews": [
+        "unit_b1_134_film_literary_criticism_evaluating_",
+        "unit_b2_187_scholarly_research_methodology_hypo"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_b2_197_b2_vantage_capstone_academic_sympos",
+      "sequencePosition": 197,
+      "cefrLevel": "B2",
+      "prerequisites": [
+        "unit_b2_196_popularizing_scientific_discoveries"
+      ],
+      "reviews": [
+        "unit_b2_193_handling_rigorous_academic_q_a_sess",
+        "unit_b2_187_scholarly_research_methodology_hypo"
+      ],
+      "competencies": [
+        "macro_b2_scholarly_debate_critique"
+      ]
+    },
+    {
+      "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+      "sequencePosition": 198,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_b2_197_b2_vantage_capstone_academic_sympos"
+      ],
+      "reviews": [
+        "unit_b2_194_commercial_legal_contract_parsing_l",
+        "unit_b2_197_b2_vantage_capstone_academic_sympos"
+      ],
+      "competencies": [
+        "macro_c1_executive_and_legislative"
+      ]
+    },
+    {
+      "unitId": "unit_c1_199_archaic_classical_jussives_suffixes",
+      "sequencePosition": 199,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_198_the_1992_democratic_constitution_of"
+      ],
+      "reviews": [
+        "unit_b2_194_commercial_legal_contract_parsing_l",
+        "unit_b2_197_b2_vantage_capstone_academic_sympos"
+      ],
+      "competencies": [
+        "macro_c1_executive_and_legislative"
+      ]
+    },
+    {
+      "unitId": "unit_c1_200_statutory_drafting_legal_framing_fo",
+      "sequencePosition": 200,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_199_archaic_classical_jussives_suffixes"
+      ],
+      "reviews": [
+        "unit_c1_198_the_1992_democratic_constitution_of"
+      ],
+      "competencies": [
+        "macro_c1_executive_and_legislative"
+      ]
+    },
+    {
+      "unitId": "unit_c1_201_appositive_titles_epithets_chancell",
+      "sequencePosition": 201,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_200_statutory_drafting_legal_framing_fo"
+      ],
+      "reviews": [
+        "unit_b2_190_complex_modal_obligation_the_modal_",
+        "unit_c1_199_archaic_classical_jussives_suffixes",
+        "unit_c1_198_the_1992_democratic_constitution_of"
+      ],
+      "competencies": [
+        "macro_c1_executive_and_legislative"
+      ]
+    },
+    {
+      "unitId": "unit_c1_202_causative_nominalizations_in_instit",
+      "sequencePosition": 202,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_201_appositive_titles_epithets_chancell"
+      ],
+      "reviews": [
+        "unit_b2_172_double_causative_morphology_delegat",
+        "unit_c1_200_statutory_drafting_legal_framing_fo",
+        "unit_c1_198_the_1992_democratic_constitution_of"
+      ],
+      "competencies": [
+        "macro_c1_executive_and_legislative"
+      ]
+    },
+    {
+      "unitId": "unit_c1_203_courtroom_argumentation_prosecutor_",
+      "sequencePosition": 203,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_202_causative_nominalizations_in_instit"
+      ],
+      "reviews": [
+        "unit_c1_201_appositive_titles_epithets_chancell",
+        "unit_c1_198_the_1992_democratic_constitution_of"
+      ],
+      "competencies": [
+        "macro_c1_executive_and_legislative"
+      ]
+    },
+    {
+      "unitId": "unit_c1_204_constitutional_court_jurisprudence_",
+      "sequencePosition": 204,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_203_courtroom_argumentation_prosecutor_"
+      ],
+      "reviews": [
+        "unit_c1_202_causative_nominalizations_in_instit",
+        "unit_c1_198_the_1992_democratic_constitution_of"
+      ],
+      "competencies": [
+        "macro_c1_executive_and_legislative"
+      ]
+    },
+    {
+      "unitId": "unit_c1_205_bilateral_concession_contracts_inve",
+      "sequencePosition": 205,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_204_constitutional_court_jurisprudence_"
+      ],
+      "reviews": [
+        "unit_c1_203_courtroom_argumentation_prosecutor_",
+        "unit_c1_198_the_1992_democratic_constitution_of"
+      ],
+      "competencies": [
+        "macro_c1_executive_and_legislative"
+      ]
+    },
+    {
+      "unitId": "unit_c1_206_drafting_executive_ministerial_decr",
+      "sequencePosition": 206,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_205_bilateral_concession_contracts_inve"
+      ],
+      "reviews": [
+        "unit_c1_204_constitutional_court_jurisprudence_",
+        "unit_c1_198_the_1992_democratic_constitution_of"
+      ],
+      "competencies": [
+        "macro_c1_executive_and_legislative"
+      ]
+    },
+    {
+      "unitId": "unit_c1_207_constitutional_jurisprudence_capsto",
+      "sequencePosition": 207,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_206_drafting_executive_ministerial_decr"
+      ],
+      "reviews": [
+        "unit_c1_205_bilateral_concession_contracts_inve",
+        "unit_c1_198_the_1992_democratic_constitution_of"
+      ],
+      "competencies": [
+        "macro_c1_executive_and_legislative"
+      ]
+    },
+    {
+      "unitId": "unit_c1_208_macroeconomic_stabilization_monetar",
+      "sequencePosition": 208,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_207_constitutional_jurisprudence_capsto"
+      ],
+      "reviews": [
+        "unit_b2_175_commercial_resource_negotiations_pa",
+        "unit_c1_207_constitutional_jurisprudence_capsto"
+      ],
+      "competencies": [
+        "macro_c1_executive_and_legislative"
+      ]
+    },
+    {
+      "unitId": "unit_c1_209_mining_megaprojects_oyu_tolgoi_tava",
+      "sequencePosition": 209,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_208_macroeconomic_stabilization_monetar"
+      ],
+      "reviews": [
+        "unit_b2_175_commercial_resource_negotiations_pa",
+        "unit_c1_207_constitutional_jurisprudence_capsto"
+      ],
+      "competencies": [
+        "macro_c1_executive_and_legislative"
+      ]
+    },
+    {
+      "unitId": "unit_c1_210_journalistic_evidential_distancing_",
+      "sequencePosition": 210,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_209_mining_megaprojects_oyu_tolgoi_tava"
+      ],
+      "reviews": [
+        "unit_c1_208_macroeconomic_stabilization_monetar"
+      ],
+      "competencies": [
+        "macro_c1_executive_and_legislative"
+      ]
+    },
+    {
+      "unitId": "unit_c1_211_rhetorical_inversion_clefting_in_an",
+      "sequencePosition": 211,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_210_journalistic_evidential_distancing_"
+      ],
+      "reviews": [
+        "unit_b2_160_rhetorical_connectors_macro_discour",
+        "unit_c1_209_mining_megaprojects_oyu_tolgoi_tava",
+        "unit_c1_208_macroeconomic_stabilization_monetar"
+      ],
+      "competencies": [
+        "macro_c1_executive_and_legislative"
+      ]
+    },
+    {
+      "unitId": "unit_c1_212_formal_adversative_concessive_conne",
+      "sequencePosition": 212,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_211_rhetorical_inversion_clefting_in_an"
+      ],
+      "reviews": [
+        "unit_b2_169_durative_adversative_converb_suffix",
+        "unit_c1_210_journalistic_evidential_distancing_",
+        "unit_c1_208_macroeconomic_stabilization_monetar"
+      ],
+      "competencies": [
+        "macro_c1_executive_and_legislative"
+      ]
+    },
+    {
+      "unitId": "unit_c1_213_sovereign_wealth_funds_future_herit",
+      "sequencePosition": 213,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_212_formal_adversative_concessive_conne"
+      ],
+      "reviews": [
+        "unit_c1_211_rhetorical_inversion_clefting_in_an",
+        "unit_c1_208_macroeconomic_stabilization_monetar"
+      ],
+      "competencies": [
+        "macro_c1_executive_and_legislative"
+      ]
+    },
+    {
+      "unitId": "unit_c1_214_investigative_financial_journalism_",
+      "sequencePosition": 214,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_213_sovereign_wealth_funds_future_herit"
+      ],
+      "reviews": [
+        "unit_c1_212_formal_adversative_concessive_conne",
+        "unit_c1_208_macroeconomic_stabilization_monetar"
+      ],
+      "competencies": [
+        "macro_c1_executive_and_legislative"
+      ]
+    },
+    {
+      "unitId": "unit_c1_215_commodity_trade_logistics_rail_infr",
+      "sequencePosition": 215,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_214_investigative_financial_journalism_"
+      ],
+      "reviews": [
+        "unit_c1_213_sovereign_wealth_funds_future_herit",
+        "unit_c1_208_macroeconomic_stabilization_monetar"
+      ],
+      "competencies": [
+        "macro_c1_executive_and_legislative"
+      ]
+    },
+    {
+      "unitId": "unit_c1_216_editorial_counter_argumentation_on_",
+      "sequencePosition": 216,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_215_commodity_trade_logistics_rail_infr"
+      ],
+      "reviews": [
+        "unit_c1_214_investigative_financial_journalism_",
+        "unit_c1_208_macroeconomic_stabilization_monetar"
+      ],
+      "competencies": [
+        "macro_c1_executive_and_legislative"
+      ]
+    },
+    {
+      "unitId": "unit_c1_217_macroeconomic_policy_capstone_natio",
+      "sequencePosition": 217,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_216_editorial_counter_argumentation_on_"
+      ],
+      "reviews": [
+        "unit_c1_215_commodity_trade_logistics_rail_infr",
+        "unit_c1_208_macroeconomic_stabilization_monetar"
+      ],
+      "competencies": [
+        "macro_c1_executive_and_legislative"
+      ]
+    },
+    {
+      "unitId": "unit_c1_218_mongolia_s_third_neighbor_foreign_p",
+      "sequencePosition": 218,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_217_macroeconomic_policy_capstone_natio"
+      ],
+      "reviews": [
+        "unit_c1_217_macroeconomic_policy_capstone_natio"
+      ],
+      "competencies": [
+        "macro_c1_epistemic_and_philosophical"
+      ]
+    },
+    {
+      "unitId": "unit_c1_219_honorific_lexical_verbs_",
+      "sequencePosition": 219,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_218_mongolia_s_third_neighbor_foreign_p",
+        "unit_a1_16_standard_salutations_time_of_day_gr",
+        "unit_a1_22_formal_departure_social_gratitude_f"
+      ],
+      "reviews": [
+        "unit_c1_217_macroeconomic_policy_capstone_natio"
+      ],
+      "competencies": [
+        "macro_c1_epistemic_and_philosophical"
+      ]
+    },
+    {
+      "unitId": "unit_c1_220_suppletive_honorific_existentials_",
+      "sequencePosition": 220,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_219_honorific_lexical_verbs_",
+        "unit_a1_16_standard_salutations_time_of_day_gr",
+        "unit_a1_22_formal_departure_social_gratitude_f"
+      ],
+      "reviews": [
+        "unit_c1_218_mongolia_s_third_neighbor_foreign_p"
+      ],
+      "competencies": [
+        "macro_c1_epistemic_and_philosophical"
+      ]
+    },
+    {
+      "unitId": "unit_c1_221_honorific_nouns_somatic_terms_",
+      "sequencePosition": 221,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_220_suppletive_honorific_existentials_",
+        "unit_a1_16_standard_salutations_time_of_day_gr",
+        "unit_a1_22_formal_departure_social_gratitude_f"
+      ],
+      "reviews": [
+        "unit_c1_219_honorific_lexical_verbs_",
+        "unit_c1_218_mongolia_s_third_neighbor_foreign_p"
+      ],
+      "competencies": [
+        "macro_c1_epistemic_and_philosophical"
+      ]
+    },
+    {
+      "unitId": "unit_c1_222_humble_self_lowering_forms_object_e",
+      "sequencePosition": 222,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_221_honorific_nouns_somatic_terms_",
+        "unit_a1_16_standard_salutations_time_of_day_gr",
+        "unit_a1_22_formal_departure_social_gratitude_f"
+      ],
+      "reviews": [
+        "unit_c1_220_suppletive_honorific_existentials_",
+        "unit_c1_218_mongolia_s_third_neighbor_foreign_p"
+      ],
+      "competencies": [
+        "macro_c1_epistemic_and_philosophical"
+      ]
+    },
+    {
+      "unitId": "unit_c1_223_honorific_imperatives_the_suffixes_",
+      "sequencePosition": 223,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_222_humble_self_lowering_forms_object_e",
+        "unit_a1_16_standard_salutations_time_of_day_gr",
+        "unit_a1_22_formal_departure_social_gratitude_f"
+      ],
+      "reviews": [
+        "unit_c1_221_honorific_nouns_somatic_terms_",
+        "unit_c1_218_mongolia_s_third_neighbor_foreign_p"
+      ],
+      "competencies": [
+        "macro_c1_epistemic_and_philosophical"
+      ]
+    },
+    {
+      "unitId": "unit_c1_224_classical_converb_relics_suffixes_",
+      "sequencePosition": 224,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_223_honorific_imperatives_the_suffixes_",
+        "unit_a1_37_verbal_dictionary_infinitive_suffix",
+        "unit_a1_42_coordinating_converb_clause_linking"
+      ],
+      "reviews": [
+        "unit_c1_222_humble_self_lowering_forms_object_e",
+        "unit_c1_218_mongolia_s_third_neighbor_foreign_p"
+      ],
+      "competencies": [
+        "macro_c1_epistemic_and_philosophical"
+      ]
+    },
+    {
+      "unitId": "unit_c1_225_drafting_diplomatic_communiqu_s_joi",
+      "sequencePosition": 225,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_224_classical_converb_relics_suffixes_"
+      ],
+      "reviews": [
+        "unit_c1_223_honorific_imperatives_the_suffixes_",
+        "unit_c1_218_mongolia_s_third_neighbor_foreign_p"
+      ],
+      "competencies": [
+        "macro_c1_epistemic_and_philosophical"
+      ]
+    },
+    {
+      "unitId": "unit_c1_226_consecutive_interpreting_support_re",
+      "sequencePosition": 226,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_225_drafting_diplomatic_communiqu_s_joi"
+      ],
+      "reviews": [
+        "unit_c1_224_classical_converb_relics_suffixes_",
+        "unit_c1_218_mongolia_s_third_neighbor_foreign_p"
+      ],
+      "competencies": [
+        "macro_c1_epistemic_and_philosophical"
+      ]
+    },
+    {
+      "unitId": "unit_c1_227_critical_peer_review_of_scholarly_t",
+      "sequencePosition": 227,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_226_consecutive_interpreting_support_re"
+      ],
+      "reviews": [
+        "unit_b2_197_b2_vantage_capstone_academic_sympos",
+        "unit_c1_218_mongolia_s_third_neighbor_foreign_p"
+      ],
+      "competencies": [
+        "macro_c1_epistemic_and_philosophical"
+      ]
+    },
+    {
+      "unitId": "unit_c1_228_c1_operational_proficiency_capstone",
+      "sequencePosition": 228,
+      "cefrLevel": "C1",
+      "prerequisites": [
+        "unit_c1_227_critical_peer_review_of_scholarly_t"
+      ],
+      "reviews": [
+        "unit_c1_226_consecutive_interpreting_support_re",
+        "unit_c1_218_mongolia_s_third_neighbor_foreign_p"
+      ],
+      "competencies": [
+        "macro_c1_epistemic_and_philosophical"
+      ]
+    },
+    {
+      "unitId": "unit_c2_229_rapid_khalkha_spoken_phonotactics_r",
+      "sequencePosition": 229,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c1_228_c1_operational_proficiency_capstone"
+      ],
+      "reviews": [
+        "unit_c1_228_c1_operational_proficiency_capstone"
+      ],
+      "competencies": [
+        "macro_c2_colloquial_and_satirical_virtuosity"
+      ]
+    },
+    {
+      "unitId": "unit_c2_230_conversational_repair_turn_taking_p",
+      "sequencePosition": 230,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_229_rapid_khalkha_spoken_phonotactics_r"
+      ],
+      "reviews": [
+        "unit_c1_228_c1_operational_proficiency_capstone"
+      ],
+      "competencies": [
+        "macro_c2_colloquial_and_satirical_virtuosity"
+      ]
+    },
+    {
+      "unitId": "unit_c2_231_tag_consensus_markers_",
+      "sequencePosition": 231,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_230_conversational_repair_turn_taking_p"
+      ],
+      "reviews": [
+        "unit_c2_229_rapid_khalkha_spoken_phonotactics_r"
+      ],
+      "competencies": [
+        "macro_c2_colloquial_and_satirical_virtuosity"
+      ]
+    },
+    {
+      "unitId": "unit_c2_232_pragmatic_irony_sarcasm_understatem",
+      "sequencePosition": 232,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_231_tag_consensus_markers_"
+      ],
+      "reviews": [
+        "unit_c2_230_conversational_repair_turn_taking_p",
+        "unit_c2_229_rapid_khalkha_spoken_phonotactics_r"
+      ],
+      "competencies": [
+        "macro_c2_colloquial_and_satirical_virtuosity"
+      ]
+    },
+    {
+      "unitId": "unit_c2_233_somatic_steppe_metaphors_liver_gall",
+      "sequencePosition": 233,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_232_pragmatic_irony_sarcasm_understatem"
+      ],
+      "reviews": [
+        "unit_c1_221_honorific_nouns_somatic_terms_",
+        "unit_c2_231_tag_consensus_markers_",
+        "unit_c2_229_rapid_khalkha_spoken_phonotactics_r"
+      ],
+      "competencies": [
+        "macro_c2_colloquial_and_satirical_virtuosity"
+      ]
+    },
+    {
+      "unitId": "unit_c2_234_satirical_cultural_critique_polemic",
+      "sequencePosition": 234,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_233_somatic_steppe_metaphors_liver_gall"
+      ],
+      "reviews": [
+        "unit_c2_232_pragmatic_irony_sarcasm_understatem",
+        "unit_c2_229_rapid_khalkha_spoken_phonotactics_r"
+      ],
+      "competencies": [
+        "macro_c2_colloquial_and_satirical_virtuosity"
+      ]
+    },
+    {
+      "unitId": "unit_c2_235_literary_polyphony_interior_monolog",
+      "sequencePosition": 235,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_234_satirical_cultural_critique_polemic"
+      ],
+      "reviews": [
+        "unit_c1_227_critical_peer_review_of_scholarly_t",
+        "unit_c2_229_rapid_khalkha_spoken_phonotactics_r"
+      ],
+      "competencies": [
+        "macro_c2_colloquial_and_satirical_virtuosity"
+      ]
+    },
+    {
+      "unitId": "unit_c2_236_pan_mongolian_dialectal_morphosynta",
+      "sequencePosition": 236,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_235_literary_polyphony_interior_monolog"
+      ],
+      "reviews": [
+        "unit_c1_227_critical_peer_review_of_scholarly_t",
+        "unit_c2_229_rapid_khalkha_spoken_phonotactics_r"
+      ],
+      "competencies": [
+        "macro_c2_colloquial_and_satirical_virtuosity"
+      ]
+    },
+    {
+      "unitId": "unit_c2_237_contemporary_literature_capstone_sa",
+      "sequencePosition": 237,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_236_pan_mongolian_dialectal_morphosynta"
+      ],
+      "reviews": [
+        "unit_c2_234_satirical_cultural_critique_polemic",
+        "unit_c2_229_rapid_khalkha_spoken_phonotactics_r"
+      ],
+      "competencies": [
+        "macro_c2_colloquial_and_satirical_virtuosity"
+      ]
+    },
+    {
+      "unitId": "unit_c2_238_the_secret_history_of_the_mongols_p",
+      "sequencePosition": 238,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_237_contemporary_literature_capstone_sa"
+      ],
+      "reviews": [
+        "unit_c2_237_contemporary_literature_capstone_sa"
+      ],
+      "competencies": [
+        "macro_c2_poetic_philological_heritage"
+      ]
+    },
+    {
+      "unitId": "unit_c2_239_classical_epic_syntax_in_the_secret",
+      "sequencePosition": 239,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_238_the_secret_history_of_the_mongols_p"
+      ],
+      "reviews": [
+        "unit_c1_224_classical_converb_relics_suffixes_",
+        "unit_c2_237_contemporary_literature_capstone_sa"
+      ],
+      "competencies": [
+        "macro_c2_poetic_philological_heritage"
+      ]
+    },
+    {
+      "unitId": "unit_c2_240_archaic_case_morphology_suffixes_",
+      "sequencePosition": 240,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_239_classical_epic_syntax_in_the_secret"
+      ],
+      "reviews": [
+        "unit_c1_199_archaic_classical_jussives_suffixes",
+        "unit_c2_238_the_secret_history_of_the_mongols_p"
+      ],
+      "competencies": [
+        "macro_c2_poetic_philological_heritage"
+      ]
+    },
+    {
+      "unitId": "unit_c2_241_the_alan_qo_a_parable_of_the_five_a",
+      "sequencePosition": 241,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_240_archaic_case_morphology_suffixes_"
+      ],
+      "reviews": [
+        "unit_c2_239_classical_epic_syntax_in_the_secret",
+        "unit_c2_238_the_secret_history_of_the_mongols_p"
+      ],
+      "competencies": [
+        "macro_c2_poetic_philological_heritage"
+      ]
+    },
+    {
+      "unitId": "unit_c2_242_chinggis_khaan_jamukha_the_oath_of_",
+      "sequencePosition": 242,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_241_the_alan_qo_a_parable_of_the_five_a"
+      ],
+      "reviews": [
+        "unit_c2_240_archaic_case_morphology_suffixes_",
+        "unit_c2_238_the_secret_history_of_the_mongols_p"
+      ],
+      "competencies": [
+        "macro_c2_poetic_philological_heritage"
+      ]
+    },
+    {
+      "unitId": "unit_c2_243_the_great_yasa_nomadic_jurisprudenc",
+      "sequencePosition": 243,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_242_chinggis_khaan_jamukha_the_oath_of_"
+      ],
+      "reviews": [
+        "unit_c1_200_statutory_drafting_legal_framing_fo",
+        "unit_c1_207_constitutional_jurisprudence_capsto",
+        "unit_c2_238_the_secret_history_of_the_mongols_p"
+      ],
+      "competencies": [
+        "macro_c2_poetic_philological_heritage"
+      ]
+    },
+    {
+      "unitId": "unit_c2_244_seamless_register_navigating_steppe",
+      "sequencePosition": 244,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_243_the_great_yasa_nomadic_jurisprudenc"
+      ],
+      "reviews": [
+        "unit_c2_242_chinggis_khaan_jamukha_the_oath_of_",
+        "unit_c2_238_the_secret_history_of_the_mongols_p"
+      ],
+      "competencies": [
+        "macro_c2_poetic_philological_heritage"
+      ]
+    },
+    {
+      "unitId": "unit_c2_245_classical_inscriptions_the_stele_of",
+      "sequencePosition": 245,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_244_seamless_register_navigating_steppe"
+      ],
+      "reviews": [
+        "unit_c2_242_chinggis_khaan_jamukha_the_oath_of_",
+        "unit_c2_238_the_secret_history_of_the_mongols_p"
+      ],
+      "competencies": [
+        "macro_c2_poetic_philological_heritage"
+      ]
+    },
+    {
+      "unitId": "unit_c2_246_secret_history_capstone_philologica",
+      "sequencePosition": 246,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_245_classical_inscriptions_the_stele_of"
+      ],
+      "reviews": [
+        "unit_c2_244_seamless_register_navigating_steppe",
+        "unit_c2_238_the_secret_history_of_the_mongols_p"
+      ],
+      "competencies": [
+        "macro_c2_poetic_philological_heritage"
+      ]
+    },
+    {
+      "unitId": "unit_c2_247_gnomic_wisdom_traditional_proverbs_",
+      "sequencePosition": 247,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_246_secret_history_capstone_philologica"
+      ],
+      "reviews": [
+        "unit_c2_237_contemporary_literature_capstone_sa",
+        "unit_c2_246_secret_history_capstone_philologica"
+      ],
+      "competencies": [
+        "macro_c2_poetic_philological_heritage"
+      ]
+    },
+    {
+      "unitId": "unit_c2_248_poetic_parallelism_head_alliteratio",
+      "sequencePosition": 248,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_247_gnomic_wisdom_traditional_proverbs_"
+      ],
+      "reviews": [
+        "unit_c1_211_rhetorical_inversion_clefting_in_an",
+        "unit_c2_237_contemporary_literature_capstone_sa",
+        "unit_c2_246_secret_history_capstone_philologica"
+      ],
+      "competencies": [
+        "macro_c2_poetic_philological_heritage"
+      ]
+    },
+    {
+      "unitId": "unit_c2_249_syntactic_parallelism_in_epic_strop",
+      "sequencePosition": 249,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_248_poetic_parallelism_head_alliteratio"
+      ],
+      "reviews": [
+        "unit_c2_247_gnomic_wisdom_traditional_proverbs_"
+      ],
+      "competencies": [
+        "macro_c2_poetic_philological_heritage"
+      ]
+    },
+    {
+      "unitId": "unit_c2_250_heroic_epics_the_epic_of_jangar_",
+      "sequencePosition": 250,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_249_syntactic_parallelism_in_epic_strop"
+      ],
+      "reviews": [
+        "unit_c2_247_gnomic_wisdom_traditional_proverbs_"
+      ],
+      "competencies": [
+        "macro_c2_poetic_philological_heritage"
+      ]
+    },
+    {
+      "unitId": "unit_c2_251_the_epic_of_geser_steppe_chivalry_c",
+      "sequencePosition": 251,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_250_heroic_epics_the_epic_of_jangar_"
+      ],
+      "reviews": [
+        "unit_c2_247_gnomic_wisdom_traditional_proverbs_"
+      ],
+      "competencies": [
+        "macro_c2_poetic_philological_heritage"
+      ]
+    },
+    {
+      "unitId": "unit_c2_252_ceremonial_blessings_suffixes_in_we",
+      "sequencePosition": 252,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_251_the_epic_of_geser_steppe_chivalry_c"
+      ],
+      "reviews": [
+        "unit_c2_250_heroic_epics_the_epic_of_jangar_",
+        "unit_c2_247_gnomic_wisdom_traditional_proverbs_"
+      ],
+      "competencies": [
+        "macro_c2_poetic_philological_heritage"
+      ]
+    },
+    {
+      "unitId": "unit_c2_253_praise_poetry_steppe_steeds_sacred_",
+      "sequencePosition": 253,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_252_ceremonial_blessings_suffixes_in_we"
+      ],
+      "reviews": [
+        "unit_c2_251_the_epic_of_geser_steppe_chivalry_c",
+        "unit_c2_247_gnomic_wisdom_traditional_proverbs_"
+      ],
+      "competencies": [
+        "macro_c2_poetic_philological_heritage"
+      ]
+    },
+    {
+      "unitId": "unit_c2_254_tengrist_cosmology_munkh_tenger_et_",
+      "sequencePosition": 254,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_253_praise_poetry_steppe_steeds_sacred_"
+      ],
+      "reviews": [
+        "unit_c2_252_ceremonial_blessings_suffixes_in_we",
+        "unit_c2_247_gnomic_wisdom_traditional_proverbs_"
+      ],
+      "competencies": [
+        "macro_c2_poetic_philological_heritage"
+      ]
+    },
+    {
+      "unitId": "unit_c2_255_nomadic_buddhism_the_heritage_of_za",
+      "sequencePosition": 255,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_254_tengrist_cosmology_munkh_tenger_et_"
+      ],
+      "reviews": [
+        "unit_c2_253_praise_poetry_steppe_steeds_sacred_",
+        "unit_c2_247_gnomic_wisdom_traditional_proverbs_"
+      ],
+      "competencies": [
+        "macro_c2_poetic_philological_heritage"
+      ]
+    },
+    {
+      "unitId": "unit_c2_256_supreme_stylistic_virtuosity_capsto",
+      "sequencePosition": 256,
+      "cefrLevel": "C2",
+      "prerequisites": [
+        "unit_c2_255_nomadic_buddhism_the_heritage_of_za"
+      ],
+      "reviews": [
+        "unit_c2_249_syntactic_parallelism_in_epic_strop",
+        "unit_c2_247_gnomic_wisdom_traditional_proverbs_"
+      ],
+      "competencies": [
+        "macro_c2_poetic_philological_heritage"
+      ]
+    }
+  ]
+}

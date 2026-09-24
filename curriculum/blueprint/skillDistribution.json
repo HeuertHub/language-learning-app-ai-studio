@@ -1,0 +1,80 @@
+{
+  "speechSynthesisSuitability": {
+    "standard_speech_synthesis_acceptable": 72,
+    "mongolian_voice_required": 67,
+    "native_speaker_preferred": 70,
+    "native_speaker_required": 47
+  },
+  "byLevelSummary": [
+    {
+      "cefrLevel": "Pre-A1",
+      "unitCount": 15,
+      "audioSuitabilityBreakdown": {
+        "standard_speech_synthesis_acceptable": 7,
+        "mongolian_voice_required": 7,
+        "native_speaker_preferred": 1,
+        "native_speaker_required": 0
+      }
+    },
+    {
+      "cefrLevel": "A1",
+      "unitCount": 48,
+      "audioSuitabilityBreakdown": {
+        "standard_speech_synthesis_acceptable": 43,
+        "mongolian_voice_required": 3,
+        "native_speaker_preferred": 2,
+        "native_speaker_required": 0
+      }
+    },
+    {
+      "cefrLevel": "A2",
+      "unitCount": 48,
+      "audioSuitabilityBreakdown": {
+        "standard_speech_synthesis_acceptable": 22,
+        "mongolian_voice_required": 23,
+        "native_speaker_preferred": 3,
+        "native_speaker_required": 0
+      }
+    },
+    {
+      "cefrLevel": "B1",
+      "unitCount": 44,
+      "audioSuitabilityBreakdown": {
+        "standard_speech_synthesis_acceptable": 0,
+        "mongolian_voice_required": 21,
+        "native_speaker_preferred": 22,
+        "native_speaker_required": 1
+      }
+    },
+    {
+      "cefrLevel": "B2",
+      "unitCount": 42,
+      "audioSuitabilityBreakdown": {
+        "standard_speech_synthesis_acceptable": 0,
+        "mongolian_voice_required": 13,
+        "native_speaker_preferred": 26,
+        "native_speaker_required": 3
+      }
+    },
+    {
+      "cefrLevel": "C1",
+      "unitCount": 31,
+      "audioSuitabilityBreakdown": {
+        "standard_speech_synthesis_acceptable": 0,
+        "mongolian_voice_required": 0,
+        "native_speaker_preferred": 16,
+        "native_speaker_required": 15
+      }
+    },
+    {
+      "cefrLevel": "C2",
+      "unitCount": 28,
+      "audioSuitabilityBreakdown": {
+        "standard_speech_synthesis_acceptable": 0,
+        "mongolian_voice_required": 0,
+        "native_speaker_preferred": 0,
+        "native_speaker_required": 28
+      }
+    }
+  ]
+}

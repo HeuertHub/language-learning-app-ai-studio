@@ -1,0 +1,4191 @@
+[
+  {
+    "lessonId": "les_a2_73_01_ordinal_numerals_floors",
+    "unitId": "unit_a2_73_department_stores_shopping_mall_nav",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "Floors & Sequences: Ordinal Numerals (-дугаар/-дүгээр, -дахь/-дэх)",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce ordinal numeral derivation using suffixes -дугаар/-дүгээр and -дахь/-дэх for floor levels, sequential rankings, and retail departments.",
+    "communicativeOutcome": "Ask and explain which floor a retail department or store is located on (e.g. 'Гуравдугаар давхарт', 'Тав дахь давхар луу гараарай').",
+    "objectivesIntroduced": [
+      "obj_a2_73_01_ordinal_numeral_derivation"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_65_01_directional_suffix_marking"
+    ],
+    "grammarIntroduced": [
+      "gram_a2_numerals_ordinal"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_numerals_cardinal_counting",
+      "gram_a1_case_dative_locative_location"
+    ],
+    "phonologyIntroduced": [
+      "phono_a2_ordinal_vocalic_harmony"
+    ],
+    "phonologyPracticed": [
+      "phono_a1_masculine_feminine_harmony"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_23_comparing_items_places"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_19_inquiring_location"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions",
+      "lex_domain_city_urban_life"
+    ],
+    "previousVocabularyReused": [
+      "давхар",
+      "дэлгүүр",
+      "нэг",
+      "хоёр",
+      "гурав",
+      "дөрөв",
+      "тав"
+    ],
+    "readingObjective": "Read floor directories of major department stores (State Department Store, Shangri-La Mall).",
+    "listeningObjective": "Identify floor numbers and store names from mall directory help desk speech.",
+    "writingObjective": "Write 3 sentences detailing which products are found on specific floors.",
+    "spokenProductionObjective": "Direct a shopper: 'Эмэгтэй хувцасны тасаг хоёрдугаар давхарт байгаа'.",
+    "registerTarget": "Standard polite retail informative register",
+    "pragmaticTarget": "Using formal ordinals (-дугаар) for formal directories and colloquial ordinals (-дахь) for speech.",
+    "prerequisiteLessonIds": [
+      "les_a2_72_05_urban_transit_benchmark_checkpoint"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_27_01_counting_tens_hundreds"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_27_cardinal_numbers_counting_up_to_one"
+    ],
+    "reviewReason": "Transforms cardinal roots into ordinal markers for hierarchical physical navigation.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model vowel harmony alternation between back (-дугаар, -дахь) and front (-дүгээр, -дэх) suffixes.",
+    "successCriteria": [
+      "Selects appropriate ordinal suffix according to root vowel harmony and stylistic register",
+      "Accurately constructs locative phrases specifying floor locations"
+    ],
+    "masteryEvidence": "Produces 'Номын дэлгүүр зургаадугаар давхарт байна' accurately matching phonology.",
+    "recommendedExerciseModalities": [
+      "suffix_selection",
+      "sentence_construction",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_73_02_mall_directories_department_lexicon",
+    "unitId": "unit_a2_73_department_stores_shopping_mall_nav",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Ikh Delguur & Modern Malls: Department Store Vocabulary",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce specific vocabulary for shopping mall sections (гоо сайхан, цахилгаан бараа, бэлэг дурсгал, цахилгаан шат, урсдаг шат).",
+    "communicativeOutcome": "Identify mall departments, locate escalators/elevators, and ask for specific product categories.",
+    "objectivesIntroduced": [
+      "obj_a2_73_02_mall_departments_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_73_01_ordinal_numeral_derivation"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_numerals_ordinal"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_genitive_possession",
+      "gram_a1_case_dative_locative_location"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_23_comparing_items_places"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_22_making_purchases"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 8,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions",
+      "lex_domain_city_urban_life"
+    ],
+    "previousVocabularyReused": [
+      "бараа",
+      "хувцас",
+      "гутал",
+      "нохой",
+      "цахилгаан шат",
+      "шат"
+    ],
+    "readingObjective": "Read hanging overhead mall signs directing foot traffic to escalators and restrooms.",
+    "listeningObjective": "Understand mall directory audio kiosk prompts and category selections.",
+    "writingObjective": "Create a shopping checklist organized by department store floor.",
+    "spokenProductionObjective": "Ask a store clerk: 'Цахилгаан барааны тасаг хэддүгээр давхарт байдаг вэ?'.",
+    "registerTarget": "Everyday retail customer register",
+    "pragmaticTarget": "Navigating multi-story shopping centers independently and efficiently.",
+    "prerequisiteLessonIds": [
+      "les_a2_73_01_ordinal_numerals_floors"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_22_01_making_purchases_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_22_shopping_transactions_making_purch"
+    ],
+    "reviewReason": "Expands basic convenience store shopping to multi-department commercial complexes.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce compound departmental terms clearly.",
+    "successCriteria": [
+      "Identifies key retail sections: гэр ахуйн бараа (home goods), бэлэг дурсгал (souvenirs), хүнс (groceries)",
+      "Distinguishes урсдаг шат (escalator) from цахилгаан шат (elevator)"
+    ],
+    "masteryEvidence": "Accurately categorizes 8 everyday items into their corresponding department store floors.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_73_03_information_desk_inquiries_dialogue",
+    "unitId": "unit_a2_73_department_stores_shopping_mall_nav",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "At the Information Desk: Inquiring About Brands & Services",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Develop spoken interaction skills with shopping mall information desk staff, inquiring about specific boutiques, lost property, and wheelchair access.",
+    "communicativeOutcome": "Ask information desk staff where a specific brand is sold, locate customer service, and ask about gift wrapping.",
+    "objectivesIntroduced": [
+      "obj_a2_73_03_mall_inquiry_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_73_01_ordinal_numeral_derivation",
+      "obj_a2_73_02_mall_departments_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_19_01_polar_questions"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_numerals_ordinal"
+    ],
+    "grammarReviewed": [
+      "gram_a1_polar_questions_uu_uu",
+      "gram_a1_case_directional_towards"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_diphthongs"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_23_comparing_items_places",
+      "comm_a1_19_inquiring_location"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_13_apologies_politeness"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 3,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions",
+      "lex_domain_city_urban_life"
+    ],
+    "previousVocabularyReused": [
+      "уучлаарай",
+      "хаана",
+      "байх",
+      "орох",
+      "бэлэг",
+      "боох"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Follow information officer's instructions: 'Та урсдаг шатаар гуравдугаар давхарт гараад зүүн тийш эргээрэй'.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Ask information clerk: 'Уучлаарай, монгол бэлэг дурсгалын тасаг аль давхарт байдаг вэ?'.",
+    "registerTarget": "Courteous customer service exchange register",
+    "pragmaticTarget": "Using respectful conversational openers ('Танаас нэг зүйл лавлаж болох уу?').",
+    "prerequisiteLessonIds": [
+      "les_a2_73_02_mall_directories_department_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_16_05_reception_desk_simulation"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_16_canonical_sov_word_order_declarat"
+    ],
+    "reviewReason": "Builds on service counter inquiry routines established in A1.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Model polite, professional concierge responses in a busy mall lobby.",
+    "successCriteria": [
+      "Inquires about store location using ordinal numbers and polite phrasing",
+      "Comprehends spoken directions combining floor number, escalator, and cardinal turns"
+    ],
+    "masteryEvidence": "Successfully completes simulated concierge dialogue finding the cashmere boutique.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_73_04_mall_promotions_pa_listening",
+    "unitId": "unit_a2_73_department_stores_shopping_mall_nav",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Acoustic Lab: Mall Promotional Announcements & Store Hours",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic listening comprehension of mall-wide promotional announcements (хямдрал, урамшуулал), flash sales, and closing announcements.",
+    "communicativeOutcome": "Extract discount percentages, participating store departments, and evening closing times from public address audio.",
+    "objectivesIntroduced": [
+      "obj_a2_73_04_decode_mall_promotions"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_73_02_mall_departments_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_27_01_counting_tens_hundreds"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_numerals_cardinal_counting",
+      "gram_a1_case_ablative_origin"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_23_comparing_items_places"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_22_making_purchases"
+    ],
+    "newProductiveLemmaTarget": 1,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "хямдрал",
+      "хувь",
+      "хаагдах",
+      "цаг",
+      "бараа",
+      "үйлчлүүлэгч"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Identify discount percentages (20%-50%), affected departments, and closing announcement ('Манай их дэлгүүр 21 цагт хаагдана') from mall audio.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Inform shopping companion of closing time: 'Дэлгүүр 30 минутын дараа хаагдах гэж байна'.",
+    "registerTarget": "Public commercial announcement broadcast register",
+    "pragmaticTarget": "Parsing recorded announcements with musical jingles and customer background noise.",
+    "prerequisiteLessonIds": [
+      "les_a2_73_02_mall_directories_department_lexicon",
+      "les_a2_73_01_ordinal_numerals_floors"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_52_03_listening_market_vendors"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_52_open_market_grocery_shopping_bulk_q"
+    ],
+    "reviewReason": "Advances from market stall vendor calls to polished commercial store announcements.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic audio with mall background music, cashier beeps, and echoing loudspeaker voice.",
+    "successCriteria": [
+      "Extracts discount percentages (хорин хувь, тавин хувь) accurately from audio",
+      "Identifies floor number and department hosting the promotional event"
+    ],
+    "masteryEvidence": "Fills in promotional summary table correctly for 3 distinct mall broadcast announcements.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "phonetic_discrimination",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_73_05_mall_directory_memo_writing",
+    "unitId": "unit_a2_73_department_stores_shopping_mall_nav",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 5,
+    "title": "Shopping Guide: Writing Floor Directory Guides & Store Notes",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Synthesize ordinal numerals, departmental vocabulary, and spatial postpositions in a written shopping guide and personal errand plan.",
+    "communicativeOutcome": "Draft a written floor-by-floor shopping guide advising a visitor where to buy gifts, electronics, and clothing.",
+    "objectivesIntroduced": [
+      "obj_a2_73_05_write_shopping_guide"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_73_01_ordinal_numeral_derivation",
+      "obj_a2_73_02_mall_departments_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_61_01_spatial_postpositions"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_numerals_ordinal"
+    ],
+    "grammarReviewed": [
+      "gram_a1_spatial_postpositions_deeree_door",
+      "gram_a1_case_dative_locative_location"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_23_comparing_items_places"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions",
+      "lex_domain_city_urban_life"
+    ],
+    "previousVocabularyReused": [
+      "давхар",
+      "тасаг",
+      "худалдаж авах",
+      "бараа",
+      "бэлэг",
+      "сонгох"
+    ],
+    "readingObjective": "Review a sample floor plan guide to model written layout.",
+    "listeningObjective": "",
+    "writingObjective": "Write a 5-point floor guide listing ordinal numbers, departments, and recommended items to purchase.",
+    "spokenProductionObjective": "",
+    "registerTarget": "Informational guidebook and memo register",
+    "pragmaticTarget": "Clear structural layout with bulleted or numbered floor listings.",
+    "prerequisiteLessonIds": [
+      "les_a2_73_01_ordinal_numerals_floors"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_61_03_reading_spatial_signs"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_61_spatial_postpositions_"
+    ],
+    "reviewReason": "Combines spatial relations with ordinal hierarchy in organized written prose.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Read back generated directory text for spelling verification.",
+    "successCriteria": [
+      "Produces written guide accurately using ordinal suffixes (-дугаар/-дүгээр) across at least 4 floors",
+      "Correctly spells specialized retail categories: бэлэг дурсгал, гоо сайхан, цахилгаан бараа"
+    ],
+    "masteryEvidence": "Drafts '1-р давхарт: супермаркет ба эмийн сан; 2-р давхарт: эмэгтэй бэлэн хувцас...' correctly.",
+    "recommendedExerciseModalities": [
+      "short-answer writing",
+      "sentence construction",
+      "error correction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_74_02_fabrics_sizes_fitting_room_lexicon",
+    "unitId": "unit_a2_74_clothing_sizes_fabrics_fitting_room",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "Cotton, Wool & Silk: Garment Fabrics & Fitting Rooms",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce vocabulary for clothing materials (хөвөн даавуу, ноос, ноолуур, торго), international size conversions, and fitting room amenities (өлгүүр, толь).",
+    "communicativeOutcome": "Ask for clothing sizes (S, M, L or European sizes), identify textile composition, and locate fitting rooms.",
+    "objectivesIntroduced": [
+      "obj_a2_74_02_textile_fitting_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_74_01_garment_fit_adjectives"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_genitive_possession",
+      "gram_a1_case_dative_locative_location"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_23_comparing_items_places"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_22_making_purchases"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_clothing_fashion",
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "материал",
+      "өнгө",
+      "хэмжээ",
+      "өрөө",
+      "толь",
+      "үзэх"
+    ],
+    "readingObjective": "Read clothing care labels specifying fabric percentages (100% даавуу) and washing icons.",
+    "listeningObjective": "Understand sales assistant explaining size numbering differences (Asian vs European).",
+    "writingObjective": "List personal clothing measurements and fabric preferences in Cyrillic.",
+    "spokenProductionObjective": "Ask sales clerk: 'Энэ цамцнаас M хэмжээтэй нь байна уу? Би өмсөж үзэж болох уу?'.",
+    "registerTarget": "Customer-to-clerk retail register",
+    "pragmaticTarget": "Checking fabric care requirements before committing to a purchase.",
+    "prerequisiteLessonIds": [
+      "les_a2_73_05_mall_directory_memo_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_22_02_clothing_colors_shopping"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_22_shopping_transactions_making_purch"
+    ],
+    "reviewReason": "Deepens basic garment naming from A1 into textile science and sizing systems.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce textile materials and size terms clearly.",
+    "successCriteria": [
+      "Identifies key fabrics: даавуу (cotton), ноос (wool), ноолуур (cashmere), торго (silk)",
+      "Asks politely to use the fitting room (хувцас солих өрөө)"
+    ],
+    "masteryEvidence": "Correctly matches 6 fabric descriptions with their thermal and aesthetic properties.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_74_01_clothing_fit_adjectives",
+    "unitId": "unit_a2_74_clothing_sizes_fabrics_fitting_room",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Too Tight or Just Right: Clothing Fit & Proportion Adjectives",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce qualitative adjectives for garment fit, length, and tightness (бариу, сул, урт, богино, таарах) and the degree adverb хэт (too / excessively).",
+    "communicativeOutcome": "Describe how clothing fits the body and state whether an item is too tight, loose, long, or short.",
+    "objectivesIntroduced": [
+      "obj_a2_74_01_garment_fit_adjectives"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_73_01_ordinal_numeral_derivation"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_noun_phrase_attributive_adjective",
+      "gram_a1_predicate_adjective_nominal"
+    ],
+    "phonologyIntroduced": [
+      "phono_a2_adjective_emphasis_stress"
+    ],
+    "phonologyPracticed": [
+      "phono_a1_long_vowels"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_masculine_feminine_harmony"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_23_comparing_items_places"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_22_making_purchases"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_clothing_fashion",
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "том",
+      "жижиг",
+      "урт",
+      "хувцас",
+      "өмсөх",
+      "болох"
+    ],
+    "readingObjective": "Read garment fit advice columns discussing contemporary trends (сул загвар / oversized).",
+    "listeningObjective": "Recognize fit descriptors when shoppers discuss trying on garments.",
+    "writingObjective": "Write 3 sentences evaluating garment dimensions using fit adjectives and 'хэт' (too).",
+    "spokenProductionObjective": "State fit assessment: 'Энэ өмд надад хэтэрхий бариу байна, арай сул нь байна уу?'.",
+    "registerTarget": "Everyday retail boutique register",
+    "pragmaticTarget": "Expressing dissatisfaction with fit politely without criticizing garment quality.",
+    "prerequisiteLessonIds": [
+      "les_a2_74_02_fabrics_sizes_fitting_room_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_21_01_attributive_adjectives_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_21_attributive_predicative_adjective"
+    ],
+    "reviewReason": "Expands basic size adjectives (том, жижиг) to nuanced garment fitting terminology.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model emphatic pitch accent on degree modifiers (хэт, арай, яг).",
+    "successCriteria": [
+      "Differentiates бариу (tight) from сул (loose/baggy) and богино (short) from урт (long)",
+      "Uses verb таарах (to fit/suit) correctly with dative subject: 'Надад яг таарч байна'"
+    ],
+    "masteryEvidence": "Produces 'Энэ цамц мөрөөрөө бариу боловч ханцуй нь урт байна' accurately.",
+    "recommendedExerciseModalities": [
+      "contextual_cloze",
+      "sentence_construction",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_74_03_fitting_room_audio_lab",
+    "unitId": "unit_a2_74_clothing_sizes_fabrics_fitting_room",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Lab: Fitting Room Conversations & Size Inquiries",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic listening comprehension of spontaneous shopper-clerk dialogues through fitting room curtains and mirrors.",
+    "communicativeOutcome": "Understand sales assistants offering alternative sizes, colorways, or fits while trying on clothes.",
+    "objectivesIntroduced": [
+      "obj_a2_74_03_decode_fitting_room_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_74_01_garment_fit_adjectives",
+      "obj_a2_74_02_textile_fitting_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_converb_coordinating_j_ch",
+      "gram_a1_polar_questions_uu_uu"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_23_comparing_items_places",
+      "comm_a1_22_making_purchases"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 1,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_clothing_fashion",
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "хэмжээ",
+      "өнгө",
+      "авчрах",
+      "солих",
+      "таарах",
+      "ямар"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Identify whether shopper accepts the tried garment or requests a different size/color from audio clips.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Explain to a friend what the sales clerk suggested from behind the curtain.",
+    "registerTarget": "Muffled spontaneous indoor conversational register",
+    "pragmaticTarget": "Parsing speech muffled by fitting room drapery and store acoustics.",
+    "prerequisiteLessonIds": [
+      "les_a2_74_02_fabrics_sizes_fitting_room_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_22_03_shopping_listening_comprehension"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_22_shopping_transactions_making_purch"
+    ],
+    "reviewReason": "Tests listening acuity in conversational retail settings.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Deliver authentic fitting room dialogue with acoustic curtain dampening and clothing hanger clatter.",
+    "successCriteria": [
+      "Identifies whether garment is described as too tight, too loose, or ideal fit",
+      "Extracts requested replacement size (e.g. 'Нэг размер том') correctly"
+    ],
+    "masteryEvidence": "Scores 100% on 4 fitting room interaction comprehension audio items.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "phonetic_discrimination",
+      "role-play response"
+    ]
+  },
+  {
+    "lessonId": "les_a2_74_04_boutique_fitting_room_dialogue",
+    "unitId": "unit_a2_74_clothing_sizes_fabrics_fitting_room",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "In the Boutique: Requesting Different Sizes & Colors",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Master spoken interaction in a clothing boutique: asking to try on garments, requesting a different size or shade, and asking for a mirror assessment.",
+    "communicativeOutcome": "Engage with a boutique clerk to exchange sizes, ask for a matching color, and make a purchasing decision.",
+    "objectivesIntroduced": [
+      "obj_a2_74_04_boutique_shopping_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_74_01_garment_fit_adjectives",
+      "obj_a2_74_02_textile_fitting_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_22_01_making_purchases"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_verb_imperative_polite_aarai",
+      "gram_a1_verb_volitional_intention_ya"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_23_comparing_items_places",
+      "comm_a1_22_making_purchases"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_clothing_fashion",
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "өмсөх",
+      "үзэх",
+      "том",
+      "жижиг",
+      "солих",
+      "авах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand sales clerk offering opinions: 'Энэ өнгө танд их сайхан зохиж байна'.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Request another size: 'Уучлаарай, энэ жаахан бариу байна. Үүнээс нэг размер томыг авчирч өгөөч?'.",
+    "registerTarget": "Courteous boutique commercial register",
+    "pragmaticTarget": "Using constructive polite requests while evaluating clothing in front of a mirror.",
+    "prerequisiteLessonIds": [
+      "les_a2_74_02_fabrics_sizes_fitting_room_lexicon",
+      "les_a2_74_01_clothing_fit_adjectives"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_49_01_polite_imperative_aarai"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_49_polite_request_imperative_suffixes_"
+    ],
+    "reviewReason": "Utilizes polite request imperatives (-аач/-ээч) during retail service requests.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Provide natural native speaker boutique dialogue with realistic compliments and advice.",
+    "successCriteria": [
+      "Conducts a complete 5-turn exchange trying on an item, requesting an adjustment, and deciding to purchase",
+      "Uses verb зохих (to suit/flatter) accurately: 'Танд сайхан зохиж байна'"
+    ],
+    "masteryEvidence": "Executes full unscripted fitting room roleplay without communication breakdown.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_74_05_garment_review_tag_reading_writing",
+    "unitId": "unit_a2_74_clothing_sizes_fabrics_fitting_room",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 5,
+    "title": "Online Boutique Review: Garment Fit & Fabric Evaluation",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Synthesize fabric vocabulary, size ratings, and fit adjectives in a written customer review on a local clothing website.",
+    "communicativeOutcome": "Write a 4-sentence clothing review assessing material softness, true-to-size fit, and color fidelity.",
+    "objectivesIntroduced": [
+      "obj_a2_74_05_write_clothing_review"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_74_01_garment_fit_adjectives",
+      "obj_a2_74_02_textile_fitting_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_21_01_adjectives_review"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_predicate_adjective_nominal",
+      "gram_a1_converb_sequential_aad"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_23_comparing_items_places"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_clothing_fashion",
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "материал",
+      "хэмжээ",
+      "зузаан",
+      "нимгэн",
+      "чанар",
+      "сэтгэгдэл"
+    ],
+    "readingObjective": "Read customer reviews on a Mongolian e-commerce boutique assessing fabric shrinkage and color fading.",
+    "listeningObjective": "",
+    "writingObjective": "Draft a written customer review stating garment size, material quality, and fit verdict.",
+    "spokenProductionObjective": "",
+    "registerTarget": "Public e-commerce customer review register",
+    "pragmaticTarget": "Providing helpful, balanced consumer feedback on fit and fabric quality.",
+    "prerequisiteLessonIds": [
+      "les_a2_74_01_clothing_fit_adjectives",
+      "les_a2_74_04_boutique_fitting_room_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_21_02_describing_objects_adjectives"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_21_attributive_predicative_adjective"
+    ],
+    "reviewReason": "Applies descriptive adjective syntax to contemporary online consumer culture.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Audio read-back of written reviews.",
+    "successCriteria": [
+      "Composes a coherent review detailing fabric composition, size accuracy, and comfort",
+      "Uses qualitative fit vocabulary (таарсан, хэт бариу, зөөлөн) without error"
+    ],
+    "masteryEvidence": "Writes 'Энэ ноолууран цамц маш зөөлөн, биед эвтэйхэн байна. Размер нь яг таарлаа' accurately.",
+    "recommendedExerciseModalities": [
+      "short-answer writing",
+      "sentence construction",
+      "error correction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_75_01_reflexive_possessive_base_intro",
+    "unitId": "unit_a2_75_reflexive_possessive_base_suffixes_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "One's Own Belongings: The Reflexive Suffix (-аа/-ээ/-оо/-өө)",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the core reflexive-possessive suffix (-аа4) indicating that the possessed noun belongs to the grammatical subject of the clause.",
+    "communicativeOutcome": "Distinguish between one's own possessions and another person's possessions (e.g. 'Би дээлээ өмслөө' vs 'Би түүний дээлийг өмслөө').",
+    "objectivesIntroduced": [
+      "obj_a2_75_01_reflexive_possessive_marking"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_74_01_garment_fit_adjectives"
+    ],
+    "grammarIntroduced": [
+      "gram_a2_reflexive_possessive_base"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_genitive_possession",
+      "gram_a1_case_accusative_definite"
+    ],
+    "phonologyIntroduced": [
+      "phono_a2_reflexive_vocalic_harmony"
+    ],
+    "phonologyPracticed": [
+      "phono_a1_masculine_feminine_harmony"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_long_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_17_describing_daily_routines"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_clothing_fashion",
+      "lex_domain_family_kinship"
+    ],
+    "previousVocabularyReused": [
+      "дээл",
+      "гутал",
+      "цүнх",
+      "ном",
+      "авах",
+      "өмсөх"
+    ],
+    "readingObjective": "Read narrative sentences distinguishing subject-owned items from third-party items.",
+    "listeningObjective": "Identify the reflexive suffix (-аа4) in spoken accounts of dressing and preparing personal belongings.",
+    "writingObjective": "Transform 4 sentences replacing genitive pronouns ('миний ном') with the reflexive-possessive suffix ('номоо').",
+    "spokenProductionObjective": "Explain personal actions: 'Би малгайгаа өмсөөд, цүнхээ авлаа'.",
+    "registerTarget": "Standard grammatical discourse register",
+    "pragmaticTarget": "Using reflexive possession naturally to avoid unnatural repetitive genitive pronouns ('миний', 'чиний').",
+    "prerequisiteLessonIds": [
+      "les_a2_74_05_garment_review_tag_reading_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_29_01_genitive_possession_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_29_genitive_possession_relational_suff"
+    ],
+    "reviewReason": "Transforms analytical genitive possession (миний X) into synthetic reflexive possession (X-аа).",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model quadruple vowel harmony (-аа, -ээ, -оо, -өө) and long vowel acoustic quality.",
+    "successCriteria": [
+      "Selects correct reflexive allomorph according to root vowel harmony",
+      "Uses reflexive suffix when object belongs to clause subject"
+    ],
+    "masteryEvidence": "Correctly converts 'Би миний дээлийг авлаа' to 'Би дээлээ авлаа' consistently.",
+    "recommendedExerciseModalities": [
+      "suffix_selection",
+      "sentence_transformation",
+      "case_marking"
+    ]
+  },
+  {
+    "lessonId": "les_a2_75_02_wardrobe_dressing_reflexive_lexicon",
+    "unitId": "unit_a2_75_reflexive_possessive_base_suffixes_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Dressing Up: Wardrobe Items & Daily Dressing Routines",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce expanded wardrobe vocabulary (бүс, ороолт, бээлий, оймс, хүрэм, гутал) paired with specialized dressing verbs (өмсөх, бүслэх, зүүх, углах).",
+    "communicativeOutcome": "Describe getting dressed for different weather conditions using reflexive possession on each article of clothing.",
+    "objectivesIntroduced": [
+      "obj_a2_75_02_wardrobe_verbs_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_75_01_reflexive_possessive_marking"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_reflexive_possessive_base"
+    ],
+    "grammarReviewed": [
+      "gram_a1_verb_tense_present_habitual_dag",
+      "gram_a1_converb_coordinating_j_ch"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_17_describing_daily_routines"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 9,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_clothing_fashion",
+      "lex_domain_daily_routines"
+    ],
+    "previousVocabularyReused": [
+      "хүйтэн",
+      "гадаа",
+      "гарах",
+      "өмсөх",
+      "зүүх",
+      "хүрэм"
+    ],
+    "readingObjective": "Read a weather advisory instructing citizens how to bundle up for -30°C winter temperatures.",
+    "listeningObjective": "Understand parent instructing child to put on hat, scarf, and mittens before leaving.",
+    "writingObjective": "Write a 4-sentence daily morning dressing checklist using reflexive nouns.",
+    "spokenProductionObjective": "Describe your winter outfit: 'Би дулаан хүрэм өмсөж, ороолтоо зүүж, бээлийгээ өмсөнө'.",
+    "registerTarget": "Everyday personal and family routine register",
+    "pragmaticTarget": "Selecting culturally accurate dressing verbs (өмсөх for garments, зүүх for scarves/jewelry/watches, бүслэх for sashes).",
+    "prerequisiteLessonIds": [
+      "les_a2_75_01_reflexive_possessive_base_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_38_01_habitual_routines_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_38_habitual_present_verbal_aspect_suff"
+    ],
+    "reviewReason": "Links habitual daily routines (-даг) with reflexive wardrobe dressing.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce paired clothing items and corresponding dressing verbs.",
+    "successCriteria": [
+      "Applies appropriate verb for each accessory: малгайгаа өмсөх, ороолтоо зүүх, бүсээ бүслэх",
+      "Marks all possessed clothing items with reflexive-possessive suffix"
+    ],
+    "masteryEvidence": "Accurately matches 6 clothing articles with their specific dressing verbs and adds reflexive endings.",
+    "recommendedExerciseModalities": [
+      "matching",
+      "contextual_cloze",
+      "sentence_construction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_75_03_dressing_for_celebration_dialogue",
+    "unitId": "unit_a2_75_reflexive_possessive_base_suffixes_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Deciphering Personal Narrative Letters & Reflexive-Possessive Diary Entries",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Analyze personal journal entries and letters employing reflexive possessive suffixes (-аа4).",
+    "communicativeOutcome": "Discuss what you and your family are wearing for a major holiday (Tsagaan Sar or Naadam) using reflexive forms.",
+    "objectivesIntroduced": [
+      "obj_a2_75_03_festive_attire_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_75_01_reflexive_possessive_marking",
+      "obj_a2_75_02_wardrobe_verbs_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_22_01_making_purchases"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_reflexive_possessive_base"
+    ],
+    "grammarReviewed": [
+      "gram_a1_verb_tense_future_prospective_na",
+      "gram_a1_converb_sequential_aad"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_diphthongs"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_20_expressing_intentions"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "newProductiveLemmaTarget": 2,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_clothing_fashion",
+      "lex_domain_culture_traditions"
+    ],
+    "previousVocabularyReused": [
+      "баяр",
+      "дээл",
+      "өнгө",
+      "бүс",
+      "гутал",
+      "сайхан"
+    ],
+    "readingObjective": "Identify self-referential possession ('өөрийнхөө гэр бүл', 'ахдаа') in written Cyrillic narratives.",
+    "listeningObjective": "Follow a family member's description of tailoring new silk deels for the coming celebration.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Describe festival preparation: 'Би энэ Цагаан сараар цэнхэр торгон дээлээ өмсөж, шар бүсээ бүслэнэ'.",
+    "registerTarget": "Warm cultural conversational register",
+    "pragmaticTarget": "Appreciating the cultural pride associated with wearing finely coordinated national costume.",
+    "prerequisiteLessonIds": [
+      "les_a2_75_02_wardrobe_dressing_reflexive_lexicon",
+      "les_a2_75_01_reflexive_possessive_base_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_48_01_volitional_ya_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_48_volitional_intention_suffixes_"
+    ],
+    "reviewReason": "Combines prospective and volitional intentions with traditional holiday wear.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic conversational tone of family holiday preparations.",
+    "successCriteria": [
+      "Accurately describes traditional festival attire using reflexive suffixes",
+      "Distinguishes between subject's own deel (дээлээ) and another person's deel (дээлийг нь)"
+    ],
+    "masteryEvidence": "Engages in a 4-turn dialogue describing personal festival outfit and family accessories.",
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "syntax_transformation",
+      "true_false"
+    ]
+  },
+  {
+    "lessonId": "les_a2_75_04_wardrobe_narrative_listening",
+    "unitId": "unit_a2_75_reflexive_possessive_base_suffixes_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Acoustic Lab: Parsing Reflexive Pronouns in Narrative Monologues",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop focused auditory discrimination between reflexive-possessive nouns (-аа4) and non-reflexive accusative/genitive nouns in narrative speech.",
+    "communicativeOutcome": "Distinguish whether an actor in a narrative is taking their own belongings or someone else's belongings based solely on auditory case morphology.",
+    "objectivesIntroduced": [
+      "obj_a2_75_04_discriminate_reflexive_audio"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_75_01_reflexive_possessive_marking"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_30_01_accusative_definite"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_accusative_definite_object",
+      "gram_a1_case_genitive_possession"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 2,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_clothing_fashion",
+      "lex_domain_family_kinship"
+    ],
+    "previousVocabularyReused": [
+      "машин",
+      "түлхүүр",
+      "цүнх",
+      "авах",
+      "өгөх",
+      "гэр"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Determine possession ownership (own vs another's) across 6 audio sentence pairs (e.g. 'Машинаа уналаа' vs 'Машиныг нь уналаа').",
+    "writingObjective": "",
+    "spokenProductionObjective": "Explain to a peer who owned the item in each audio clip.",
+    "registerTarget": "Standard narrative audio register",
+    "pragmaticTarget": "Auditory precision in identifying crucial possessive grammatical distinctions.",
+    "prerequisiteLessonIds": [
+      "les_a2_75_02_wardrobe_dressing_reflexive_lexicon",
+      "les_a2_75_03_dressing_for_celebration_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_30_03_accusative_listening_comprehension"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_30_accusative_definite_direct_object_s"
+    ],
+    "reviewReason": "Sharpens phonological discrimination between accusative (-ыг/-ийг) and reflexive (-аа4).",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Provide high-clarity native speech contrasting minimal pairs in possessive endings.",
+    "successCriteria": [
+      "Achieves 100% accuracy distinguishing reflexive -аа from third-person -ийг нь in audio pairs",
+      "Correctly identifies the owner of lost or exchanged items in short audio stories"
+    ],
+    "masteryEvidence": "Accurately categorizes 6 audio sentences into 'subject's own property' vs 'other person's property'.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "phonetic_discrimination",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_75_05_festival_wardrobe_essay_writing",
+    "unitId": "unit_a2_75_reflexive_possessive_base_suffixes_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 5,
+    "title": "Festive Wardrobe: Writing an Account of Personal Holiday Attire",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Synthesize reflexive-possessive morphology, clothing terminology, and colors in a coherent personal written description.",
+    "communicativeOutcome": "Compose a 5-6 sentence descriptive paragraph explaining your holiday attire, boots, accessories, and preparation routine.",
+    "objectivesIntroduced": [
+      "obj_a2_75_05_write_wardrobe_account"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_75_01_reflexive_possessive_marking",
+      "obj_a2_75_02_wardrobe_verbs_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_50_01_sequential_converb"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_reflexive_possessive_base"
+    ],
+    "grammarReviewed": [
+      "gram_a1_converb_sequential_aad",
+      "gram_a1_noun_phrase_attributive_adjective"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_clothing_fashion",
+      "lex_domain_culture_traditions"
+    ],
+    "previousVocabularyReused": [
+      "дээл",
+      "хүрэм",
+      "гутал",
+      "малгай",
+      "бэлтгэх",
+      "гоёх"
+    ],
+    "readingObjective": "Read a peer's festival attire essay to check for correct reflexive suffixation.",
+    "listeningObjective": "",
+    "writingObjective": "Draft a 6-sentence paragraph describing your festival clothing using at least 4 reflexive-possessive nouns.",
+    "spokenProductionObjective": "",
+    "registerTarget": "Descriptive personal narrative register",
+    "pragmaticTarget": "Expressing cultural elegance and personal identity through polished written Mongolian.",
+    "prerequisiteLessonIds": [
+      "les_a2_75_01_reflexive_possessive_base_intro",
+      "les_a2_75_03_dressing_for_celebration_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_50_02_sequential_daily_routine_texts"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_50_sequential_converb_clause_connector"
+    ],
+    "reviewReason": "Utilizes sequential converb clauses (-аад) to structure the sequence of dressing up.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Read back written personal essay for grammatical auditing.",
+    "successCriteria": [
+      "Writes a coherent paragraph with at least 4 correctly formed reflexive-possessive nouns",
+      "Accurately pairs garments with appropriate dressing verbs (өмсөх, зүүх, бүслэх)"
+    ],
+    "masteryEvidence": "Produces 'Би баяраар шинэ дээлээ өмсөж, тоногтой мөнгөн бүсээ бүслээд, монгол гутлаа өмсөнө' flawlessly.",
+    "recommendedExerciseModalities": [
+      "short-answer writing",
+      "sentence construction",
+      "error correction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_76_01_reflexive_case_morphology_overview",
+    "unitId": "unit_a2_76_reflexive_case_combinations_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "Fused Suffixes: Combining Cases with Reflexive Possession",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the synthetic fusion of case suffixes with the reflexive-possessive morpheme: Ablative (-аасаа4), Dative-Locative (-даа4), Instrumental (-аараа4), and Comitative (-тайгаа4).",
+    "communicativeOutcome": "Express actions originating from, located at, or done with one's own people and possessions (e.g. 'Гэрээсээ гарлаа', 'Ахтайгаа уулзлаа', 'Машинаараа явлаа').",
+    "objectivesIntroduced": [
+      "obj_a2_76_01_reflexive_case_combination"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_75_01_reflexive_possessive_marking"
+    ],
+    "grammarIntroduced": [
+      "gram_a2_reflexive_case_combinations"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_ablative_origin",
+      "gram_a1_case_comitative_association"
+    ],
+    "phonologyIntroduced": [
+      "phono_a2_reflexive_case_allomorphy"
+    ],
+    "phonologyPracticed": [
+      "phono_a1_masculine_feminine_harmony"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_long_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_17_describing_daily_routines"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_family_kinship",
+      "lex_domain_daily_routines"
+    ],
+    "previousVocabularyReused": [
+      "гэр",
+      "сургууль",
+      "найз",
+      "ах",
+      "эгч",
+      "явах"
+    ],
+    "readingObjective": "Read personal journal entries highlighting reflexive case combinations.",
+    "listeningObjective": "Identify fused reflexive case endings in conversational speech.",
+    "writingObjective": "Combine 4 root nouns with ablative-reflexive, comitative-reflexive, and instrumental-reflexive suffixes.",
+    "spokenProductionObjective": "Explain personal movements: 'Би гэрээсээ гараад, найзтайгаа хамт сургууль руугаа явлаа'.",
+    "registerTarget": "Standard everyday conversational and narrative register",
+    "pragmaticTarget": "Using synthetic fused case-reflexive endings effortlessly in continuous speech.",
+    "prerequisiteLessonIds": [
+      "les_a2_75_05_festival_wardrobe_essay_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_40_01_ablative_origin_intro",
+      "les_a1_32_01_comitative_case_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_40_ablative_of_spatial_temporal_origin",
+      "unit_a1_32_comitative_case_accompaniment_instr"
+    ],
+    "reviewReason": "Fuses previously mastered A1 independent case suffixes with the A2 reflexive system.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Demonstrate phonological fusion and long vowel duration in fused case-reflexive endings.",
+    "successCriteria": [
+      "Correctly selects fused form: -аасаа (from own), -даа (at/to own), -аараа (by own), -тайгаа (with own)",
+      "Respects root vowel harmony across all four cases"
+    ],
+    "masteryEvidence": "Produces 'Би өөрийнхөө машинаараа найзынхаа гэр рүү явлаа' without morphological error.",
+    "recommendedExerciseModalities": [
+      "suffix_selection",
+      "sentence_construction",
+      "case_marking"
+    ]
+  },
+  {
+    "lessonId": "les_a2_76_02_comitative_reflexive_social_lexicon",
+    "unitId": "unit_a2_76_reflexive_case_combinations_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "With My Family & Friends: The Comitative Reflexive (-тайгаа4)",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Master the comitative reflexive suffix (-тайгаа4 / -тойгоо / -тэйгээ / -төөгөө) in social contexts: spending time with one's spouse, children, colleagues, and siblings.",
+    "communicativeOutcome": "Describe social gatherings and family leisure activities with one's own companions (e.g. 'Гэр бүлийнхэнтэйгээ амарлаа', 'Хүүхдүүдтэйгээ тоглолоо').",
+    "objectivesIntroduced": [
+      "obj_a2_76_02_comitative_reflexive_social"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_76_01_reflexive_case_combination"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_reflexive_case_combinations"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_comitative_association",
+      "gram_a1_verb_tense_past_witnessed_laa"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_17_describing_daily_routines"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_family_kinship",
+      "lex_domain_social_interaction"
+    ],
+    "previousVocabularyReused": [
+      "гэр бүл",
+      "хүүхэд",
+      "найз",
+      "хамт",
+      "уулзах",
+      "ярилцах"
+    ],
+    "readingObjective": "Read social media posts describing weekend outings with one's relatives and peers.",
+    "listeningObjective": "Understand friends recounting weekend trips taken with their respective families.",
+    "writingObjective": "List 4 weekend activities performed together with your own family members.",
+    "spokenProductionObjective": "Explain weekend plans: 'Би амралтын өдрөөр аав ээжтэйгээ хөдөө явна'.",
+    "registerTarget": "Warm interpersonal conversational register",
+    "pragmaticTarget": "Expressing affectionate familial closeness naturally through comitative-reflexive marking.",
+    "prerequisiteLessonIds": [
+      "les_a2_76_01_reflexive_case_morphology_overview"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_32_02_comitative_family_companions"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_32_comitative_case_accompaniment_instr"
+    ],
+    "reviewReason": "Expands simple comitative companion phrases into reflexive family togetherness.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model comitative reflexive vowel harmony combinations.",
+    "successCriteria": [
+      "Selects correct vowel harmony allomorph (-тайгаа, -тэйгээ, -тойгоо, -төөгөө)",
+      "Expresses shared activities with family without redundant possessive pronouns"
+    ],
+    "masteryEvidence": "Utters 'Би дүүтэйгээ хамт кино үзсэн' with fluent pronunciation and correct suffixation.",
+    "recommendedExerciseModalities": [
+      "contextual_cloze",
+      "sentence_construction",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_76_03_reflexive_acoustic_discrimination_lab",
+    "unitId": "unit_a2_76_reflexive_case_combinations_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Lab: Discriminating Case-Reflexive Fusions in Fast Speech",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic listening comprehension of fast conversational contractions of case-reflexive fusions (-аасаа, -даа, -аараа, -тайгаа) in rapid speech.",
+    "communicativeOutcome": "Correctly identify originating place (-аасаа), destination/location (-даа), instrument (-аараа), or companion (-тайгаа) from rapid spoken clips.",
+    "objectivesIntroduced": [
+      "obj_a2_76_03_decode_reflexive_case_speech"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_76_01_reflexive_case_combination"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a2_reflexive_case_combinations"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 1,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_family_kinship",
+      "lex_domain_actions_movement"
+    ],
+    "previousVocabularyReused": [
+      "гэр",
+      "өрөө",
+      "машин",
+      "найз",
+      "гарах",
+      "орох"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Identify specific case-reflexive suffix across 8 rapid speech audio items and match with semantic role.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Repeat overheard case-reflexive phrases with accurate vowel harmony.",
+    "registerTarget": "Rapid natural conversational register",
+    "pragmaticTarget": "Parsing reduced case-reflexive vowels in unscripted colloquial exchanges.",
+    "prerequisiteLessonIds": [
+      "les_a2_76_02_comitative_reflexive_social_lexicon",
+      "les_a2_76_01_reflexive_case_morphology_overview"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_40_03_ablative_listening_comprehension"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_40_ablative_of_spatial_temporal_origin"
+    ],
+    "reviewReason": "Tests auditory comprehension of complex fused ablative endings.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Provide natural native conversational clips with fast elision of case endings.",
+    "successCriteria": [
+      "Correctly classifies auditory stimuli into ablative (-аасаа), dative (-даа), instrumental (-аараа), or comitative (-тайгаа)",
+      "Differentiates 'гэртээ' (at/to own home) from 'гэрээсээ' (from own home) without hesitation"
+    ],
+    "masteryEvidence": "Achieves 100% accuracy on an 8-item rapid speech case-reflexive discrimination quiz.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "phonetic_discrimination",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_76_04_reading_family_memoirs_letters",
+    "unitId": "unit_a2_76_reflexive_case_combinations_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Deciphering Personal Letters: Family Chronicles & Homecoming",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Develop reading comprehension for personal correspondence, family emails, and travel memoirs rich in case-reflexive structures.",
+    "communicativeOutcome": "Read an authentic personal email describing leaving one's hometown, traveling with siblings, and returning to one's parents.",
+    "objectivesIntroduced": [
+      "obj_a2_76_04_read_family_memoirs"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_76_01_reflexive_case_combination"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_reflexive_case_combinations"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_ablative_origin",
+      "gram_a1_case_dative_locative_location"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_family_kinship",
+      "lex_domain_transportation_travel"
+    ],
+    "previousVocabularyReused": [
+      "нутгаасаа",
+      "гэртээ",
+      "аавтайгаа",
+      "буцах",
+      "хүрэх",
+      "санах"
+    ],
+    "readingObjective": "Extract chronological travel milestones and family encounters from a 120-word personal email.",
+    "listeningObjective": "",
+    "writingObjective": "Transcribe key case-reflexive sentences from the letter into a study journal.",
+    "spokenProductionObjective": "Summarize the writer's journey to a partner in 3 Mongolian sentences.",
+    "registerTarget": "Intimate personal correspondence register",
+    "pragmaticTarget": "Appreciating emotional resonance of homecoming themes in Mongolian cultural writing.",
+    "prerequisiteLessonIds": [
+      "les_a2_76_02_comitative_reflexive_social_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_33_02_reading_short_family_narratives"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_33_immediate_family_kinship_terms_ex"
+    ],
+    "reviewReason": "Expands basic kinship narratives into syntactically complex autobiographical letters.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Expressive narration of personal family letter.",
+    "successCriteria": [
+      "Answers 5 comprehension questions regarding who traveled with whom, from where, and to whose home",
+      "Identifies all 4 case-reflexive suffix instances in the text"
+    ],
+    "masteryEvidence": "Accurately maps the writer's itinerary and companion interactions based on reading passage.",
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_76_05_family_reunion_dialogue",
+    "unitId": "unit_a2_76_reflexive_case_combinations_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 5,
+    "title": "Family Reunion: Sharing News of Relatives & Travel Plans",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Develop spoken conversational fluency during family gatherings, discussing travel from one's hometown, visiting siblings, and shared projects.",
+    "communicativeOutcome": "Conduct a conversation at a family reunion explaining who you traveled with, how you arrived, and whose home you are staying at.",
+    "objectivesIntroduced": [
+      "obj_a2_76_05_family_reunion_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_76_01_reflexive_case_combination",
+      "obj_a2_76_02_comitative_reflexive_social"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_16_01_greet_time_of_day"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_reflexive_case_combinations"
+    ],
+    "grammarReviewed": [
+      "gram_a1_converb_coordinating_j_ch",
+      "gram_a1_verb_tense_past_witnessed_laa"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_02_describing_appearance_clothing",
+      "comm_a1_17_describing_daily_routines"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_family_kinship",
+      "lex_domain_social_interaction"
+    ],
+    "previousVocabularyReused": [
+      "уулзах",
+      "ярих",
+      "сонин",
+      "сайхан",
+      "хөдөө",
+      "хот"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand relative asking about your trip: 'Та хэзээ нутгаасаа гарсан бэ? Машинаараа ирсэн үү?'.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Explain trip details: 'Би өчигдөр өглөө хотоосоо гараад, ахтайгаа хамт машинтайгаа ирлээ'.",
+    "registerTarget": "Warm respectful kinship conversational register",
+    "pragmaticTarget": "Greeting elder relatives with appropriate respectful questions and sharing news modestly.",
+    "prerequisiteLessonIds": [
+      "les_a2_76_02_comitative_reflexive_social_lexicon",
+      "les_a2_76_01_reflexive_case_morphology_overview"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_33_03_kinship_dialogues"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_33_immediate_family_kinship_terms_ex"
+    ],
+    "reviewReason": "Recycles kinship vocabulary in spontaneous adult social gatherings.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Deliver warm, authentic family reunion dialogue with authentic elder and peer voices.",
+    "successCriteria": [
+      "Conducts a smooth 5-turn exchange using at least 3 distinct case-reflexive endings",
+      "Answers kinship questions accurately without hesitation"
+    ],
+    "masteryEvidence": "Completes simulated family reunion dialogue with accurate case endings and natural politeness.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_76_06_personal_journey_written_memoir",
+    "unitId": "unit_a2_76_reflexive_case_combinations_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 6,
+    "title": "Homecoming Memoir: Writing Personal Travel Chronology",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Consolidate all four reflexive case combinations (-аасаа, -даа, -аараа, -тайгаа) into an extended written autobiographical reflection.",
+    "communicativeOutcome": "Write a 6-8 sentence personal narrative detailing leaving home, traveling with loved ones, and returning to one's own hearth.",
+    "objectivesIntroduced": [
+      "obj_a2_76_06_write_homecoming_memoir"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_76_01_reflexive_case_combination",
+      "obj_a2_76_05_family_reunion_dialogue"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_50_01_sequential_clauses"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_reflexive_case_combinations"
+    ],
+    "grammarReviewed": [
+      "gram_a1_converb_sequential_aad",
+      "gram_a1_verb_tense_past_perfective_san"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_family_kinship",
+      "lex_domain_actions_movement"
+    ],
+    "previousVocabularyReused": [
+      "гэр",
+      "нутаг",
+      "аялал",
+      "дурсамж",
+      "буцах",
+      "хүрэх"
+    ],
+    "readingObjective": "Proofread a peer's draft memoir for case harmony and spelling accuracy.",
+    "listeningObjective": "",
+    "writingObjective": "Draft a 6-8 sentence memoir including ablative-reflexive, dative-reflexive, instrumental-reflexive, and comitative-reflexive structures.",
+    "spokenProductionObjective": "",
+    "registerTarget": "Expressive written autobiographical register",
+    "pragmaticTarget": "Synthesizing morphological complexity into fluent, emotionally coherent Mongolian prose.",
+    "prerequisiteLessonIds": [
+      "les_a2_76_01_reflexive_case_morphology_overview",
+      "les_a2_76_05_family_reunion_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_50_01_sequential_converb_aad"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_50_sequential_converb_clause_connector"
+    ],
+    "reviewReason": "Links sequential converb chains with advanced synthetic case-reflexive nominals.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Read back generated memoir for prosodic and syntactic validation.",
+    "successCriteria": [
+      "Produces a coherent narrative correctly integrating all 4 case-reflexive fusions",
+      "Demonstrates accurate vowel harmony across all suffixed stems"
+    ],
+    "masteryEvidence": "Drafts 'Би зун нутгаасаа гараад, дүүтэйгээ машинаараа явж, ээжийнхээ гэртээ очсон...' flawlessly.",
+    "recommendedExerciseModalities": [
+      "short-answer writing",
+      "clause_combination",
+      "error correction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_77_01_possessive_enclitic_ni_intro",
+    "unitId": "unit_a2_77_third_person_possessive_enclitic_th",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "Its Price & Its Quality: The Third-Person Enclitic 'нь'",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the unstressed third-person possessive enclitic particle 'нь' marking third-person possession ('its/his/her/their') and functioning as an informational topic marker.",
+    "communicativeOutcome": "Describe attributes of products and places using 'нь' (e.g. 'Үнэ нь боломжийн, чанар нь сайн', 'Өнгө нь гоё юм').",
+    "objectivesIntroduced": [
+      "obj_a2_77_01_enclitic_ni_marking"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_76_01_reflexive_case_combination"
+    ],
+    "grammarIntroduced": [
+      "gram_a2_possessive_third_person_enclitic_ni"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_genitive_possession",
+      "gram_a1_predicate_adjective_nominal"
+    ],
+    "phonologyIntroduced": [
+      "phono_a2_enclitic_cliticization_prosody"
+    ],
+    "phonologyPracticed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_24_superlative_best_in_town"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_23_comparing_items_places"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions",
+      "lex_domain_evaluative_descriptions"
+    ],
+    "previousVocabularyReused": [
+      "үнэ",
+      "чанар",
+      "өнгө",
+      "хэмжээ",
+      "сайн",
+      "муу"
+    ],
+    "readingObjective": "Read consumer reviews highlighting product attributes marked with the enclitic 'нь'.",
+    "listeningObjective": "Identify 'нь' functioning as a topic marker in product reviews and retail advice.",
+    "writingObjective": "Write 3 sentences evaluating products using 'X нь Y' topic-comment structure.",
+    "spokenProductionObjective": "Evaluate an item: 'Энэ цамцны өнгө нь гоё боловч, үнэ нь арай өндөр байна'.",
+    "registerTarget": "Everyday evaluative retail register",
+    "pragmaticTarget": "Using 'нь' to soften statements and present topic-comment evaluations naturally.",
+    "prerequisiteLessonIds": [
+      "les_a2_76_06_personal_journey_written_memoir"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_29_01_genitive_possession_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_29_genitive_possession_relational_suff"
+    ],
+    "reviewReason": "Expands nominal possession from genitive case into third-person enclitic topic marking.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model prosodic integration of clitic 'нь' without vowel elongation.",
+    "successCriteria": [
+      "Places 'нь' correctly following nominal head without attaching it as a bound suffix",
+      "Constructs well-formed topic-comment evaluations of products"
+    ],
+    "masteryEvidence": "Produces 'Энэ дэлгүүрийн бараа нь чанартай боловч үнэ нь үнэтэй' correctly.",
+    "recommendedExerciseModalities": [
+      "sentence_construction",
+      "contextual_cloze",
+      "error_correction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_77_04_product_consultation_dialogue",
+    "unitId": "unit_a2_77_third_person_possessive_enclitic_th",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Store Consultation: Asking About Origin, Warranty & Performance",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Develop spoken communicative fluency for consulting with store specialists, asking about warranty terms (баталгаат хугацаа), origin, and accessories.",
+    "communicativeOutcome": "Conduct a product consultation with a retail specialist: ask about warranty duration, where the product was made, and whether spare parts are available.",
+    "objectivesIntroduced": [
+      "obj_a2_77_04_product_consultation_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_77_01_enclitic_ni_marking",
+      "obj_a2_77_02_product_spec_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_19_01_polar_questions"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_possessive_third_person_enclitic_ni"
+    ],
+    "grammarReviewed": [
+      "gram_a1_polar_questions_uu_uu",
+      "gram_a1_case_ablative_origin"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_24_superlative_best_in_town",
+      "comm_a1_22_making_purchases"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions",
+      "lex_domain_technology_devices"
+    ],
+    "previousVocabularyReused": [
+      "баталгаа",
+      "хугацаа",
+      "хаана",
+      "үйлдвэрлэх",
+      "сэлбэг",
+      "асуух"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand specialist explaining warranty terms: 'Баталгаат хугацаа нь нэг жил, гэхдээ засвар нь үнэгүй'.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Ask specialist: 'Энэ төхөөрөмжийн баталгаа нь хэдэн сар байдаг вэ? Сэлбэг нь олдоцтой юу?'.",
+    "registerTarget": "Courteous informative customer-specialist register",
+    "pragmaticTarget": "Inquiring about after-sales support before paying for expensive consumer durables.",
+    "prerequisiteLessonIds": [
+      "les_a2_77_01_possessive_enclitic_ni_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_19_01_polar_questions_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_19_polar_inquiries_polar_question_part"
+    ],
+    "reviewReason": "Spirals polar question syntax (уу/үү, юу/юү) into technical retail queries.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Provide authentic customer-specialist dialogue in an electronics retailer.",
+    "successCriteria": [
+      "Asks about warranty, origin, and maintenance using 'нь' topic structures",
+      "Understands technical explanation of product limitations and strengths"
+    ],
+    "masteryEvidence": "Completes full simulated consultation asking 3 distinct technical feature questions.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_77_03_shopper_critique_audio_lab",
+    "unitId": "unit_a2_77_third_person_possessive_enclitic_th",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Lab: Shopper Critiques & Honest Reviews",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic listening comprehension of authentic colloquial shopper discussions comparing alternative brands and weighing pros and cons.",
+    "communicativeOutcome": "Extract which features are praised and which are criticized by shoppers discussing purchases in an electronics or clothing store.",
+    "objectivesIntroduced": [
+      "obj_a2_77_03_decode_shopper_critiques"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_77_01_enclitic_ni_marking",
+      "obj_a2_77_02_product_spec_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_ablative_comparative",
+      "gram_a1_converb_coordinating_j_ch"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_24_superlative_best_in_town",
+      "comm_a2_23_comparing_items_places"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 1,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "үнэ",
+      "дэлгүүр",
+      "сонгох",
+      "авах",
+      "дуртай",
+      "бодол"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Identify specific features praised ('дуу нь сайн') vs faulted ('батарей нь муу') across 4 shopper dialogue audio clips.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Summarize shoppers' consensus on the best purchase option.",
+    "registerTarget": "Spontaneous colloquial consumer conversation register",
+    "pragmaticTarget": "Distinguishing genuine consumer feedback from paid promotional talk.",
+    "prerequisiteLessonIds": [
+      "les_a2_77_01_possessive_enclitic_ni_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_52_03_listening_market_vendors"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_52_open_market_grocery_shopping_bulk_q"
+    ],
+    "reviewReason": "Sharpening consumer listening acuity in multi-speaker retail environments.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Multi-speaker dialogue between two friends deliberating between two laptop models in a store.",
+    "successCriteria": [
+      "Identifies which of 2 products is selected by the speakers and why",
+      "Extracts specific complaints regarding price, battery, or build quality"
+    ],
+    "masteryEvidence": "Completes product comparison balance sheet accurately based on 90 seconds of dialogue.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "phonetic_discrimination",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_77_02_evaluating_specs_features_lexicon",
+    "unitId": "unit_a2_77_third_person_possessive_enclitic_th",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Specs & Features: Weight, Durability & Origin",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce technical and practical product evaluation vocabulary (хөнгөн, бат бөх, эдэлгээ, загвар, гарал үүсэл) commonly paired with the topic marker 'нь'.",
+    "communicativeOutcome": "Evaluate consumer goods across multiple dimensions (weight, durability, design, brand reputation).",
+    "objectivesIntroduced": [
+      "obj_a2_77_02_product_spec_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_77_01_enclitic_ni_marking"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_possessive_third_person_enclitic_ni"
+    ],
+    "grammarReviewed": [
+      "gram_a1_predicate_adjective_nominal",
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_24_superlative_best_in_town"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_23_comparing_items_places"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions",
+      "lex_domain_technology_devices"
+    ],
+    "previousVocabularyReused": [
+      "жин",
+      "хүнд",
+      "хөнгөн",
+      "шинэ",
+      "хуучин",
+      "бараа"
+    ],
+    "readingObjective": "Read technical spec sheets for electronics and home appliances comparing dimensions and power.",
+    "listeningObjective": "Understand salesperson explaining product durability and warranty coverage.",
+    "writingObjective": "List 5 key evaluation criteria for purchasing a smartphone or winter boots.",
+    "spokenProductionObjective": "Compare two items: 'Энэ гуталны эдэлгээ нь сайн, жин нь их хөнгөн юм байна'.",
+    "registerTarget": "Informed consumer and sales consultation register",
+    "pragmaticTarget": "Balancing positive and negative features constructively before buying.",
+    "prerequisiteLessonIds": [
+      "les_a2_77_01_possessive_enclitic_ni_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_21_01_attributive_adjectives_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_21_attributive_predicative_adjective"
+    ],
+    "reviewReason": "Expands basic physical adjectives to technical performance criteria.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce technical product specifications clearly.",
+    "successCriteria": [
+      "Accurately defines эдэлгээ (durability), загвар (design/model), бат бөх (sturdy), гарал үүсэл (origin)",
+      "Forms comparative evaluations using 'нь' naturally"
+    ],
+    "masteryEvidence": "Accurately analyzes 4 consumer items across 3 separate quality dimensions.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_77_05_comparative_product_review_writing",
+    "unitId": "unit_a2_77_third_person_possessive_enclitic_th",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 5,
+    "title": "Tech Review: Writing a Feature-by-Feature Product Comparison",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Synthesize the third-person possessive enclitic 'нь', comparative vocabulary, and evaluative adjectives into a written product review.",
+    "communicativeOutcome": "Write a 5-sentence comparative review contrasting two electronic devices or appliances on performance, price, and battery life.",
+    "objectivesIntroduced": [
+      "obj_a2_77_05_write_product_comparison"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_77_01_enclitic_ni_marking",
+      "obj_a2_77_04_product_consultation_dialogue"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_40_01_ablative_comparative"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_possessive_third_person_enclitic_ni"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_ablative_comparative",
+      "gram_a1_predicate_adjective_nominal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_24_superlative_best_in_town",
+      "comm_a2_23_comparing_items_places"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions",
+      "lex_domain_technology_devices"
+    ],
+    "previousVocabularyReused": [
+      "үнэ",
+      "хүчин чадал",
+      "жижиг",
+      "том",
+      "сайн",
+      "дүгнэлт"
+    ],
+    "readingObjective": "Read professional gadget reviews comparing battery benchmarks and screen resolutions.",
+    "listeningObjective": "",
+    "writingObjective": "Draft a 5-sentence written comparative review utilizing 'нь' in every sentence.",
+    "spokenProductionObjective": "",
+    "registerTarget": "Public analytical consumer review register",
+    "pragmaticTarget": "Clear structured prose contrasting multiple specs systematically.",
+    "prerequisiteLessonIds": [
+      "les_a2_77_01_possessive_enclitic_ni_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_40_01_ablative_origin_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_40_ablative_of_spatial_temporal_origin"
+    ],
+    "reviewReason": "Combines comparative ablative (-аас) with 'нь' topic marker: 'Түүнээс үнэ нь хямд'.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Audio read-back of written comparative review.",
+    "successCriteria": [
+      "Produces written review comparing at least 2 distinct attributes using 'нь'",
+      "Correctly spells specialized technical terms: баталгаа, хүчин чадал, батарей"
+    ],
+    "masteryEvidence": "Drafts 'Энэ утасны дэлгэц нь тод, батарей нь удаан барьдаг боловч үнэ нь арай өндөр байна' correctly.",
+    "recommendedExerciseModalities": [
+      "short-answer writing",
+      "sentence construction",
+      "error correction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_78_01_superlative_khamgiin_comparative_iluu",
+    "unitId": "unit_a2_78_comparative_superlative_vs_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "The Very Best: Superlative 'Хамгийн' & Comparative 'Илүү'",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce the superlative modifier хамгийн (the most / -est) and comparative adverbs илүү (more / superior) and дутуу (less / deficient) in evaluative sentences.",
+    "communicativeOutcome": "Identify the best, cheapest, fastest, or most famous items in town (e.g. 'Хамгийн амттай хоол', 'Үүнээс илүү сайн чанартай').",
+    "objectivesIntroduced": [
+      "obj_a2_78_01_superlative_comparative_adverbs"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_77_01_enclitic_ni_marking"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_ablative_comparative",
+      "gram_a1_noun_phrase_attributive_adjective"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_long_vowels"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_masculine_feminine_harmony"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_24_superlative_best_in_town"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_23_comparing_items_places"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 9,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions",
+      "lex_domain_evaluative_descriptions"
+    ],
+    "previousVocabularyReused": [
+      "хамгийн",
+      "илүү",
+      "сайн",
+      "хямд",
+      "үнэтэй",
+      "том"
+    ],
+    "readingObjective": "Read 'Best of Ulaanbaatar' lifestyle rankings and restaurant awards.",
+    "listeningObjective": "Recognize superlative claims ('хамгийн том дэлгүүр') in commercial promotional audio.",
+    "writingObjective": "Write 3 superlative sentences declaring personal favorites in food, sports, and music.",
+    "spokenProductionObjective": "Declare local recommendations: 'Манай хотын хамгийн амттай бууз энэ гуанзанд байдаг'.",
+    "registerTarget": "Enthusiastic evaluative recommendation register",
+    "pragmaticTarget": "Offering genuine local recommendations to visitors without hyperbolic exaggeration.",
+    "prerequisiteLessonIds": [
+      "les_a2_77_05_comparative_product_review_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_40_01_ablative_origin_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_40_ablative_of_spatial_temporal_origin"
+    ],
+    "reviewReason": "Connects ablative comparative base (-аас илүү) with absolute superlative (хамгийн).",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model emphatic pitch accent on superlative 'хамгийн'.",
+    "successCriteria": [
+      "Uses хамгийн immediately preceding adjectives to form absolute superlatives",
+      "Contrasts илүү (more) with дутуу (less/incomplete) in functional contexts"
+    ],
+    "masteryEvidence": "Produces 'Энэ бол Улаанбаатарын хамгийн хуучин барилга мөн' accurately.",
+    "recommendedExerciseModalities": [
+      "sentence_construction",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_78_02_city_rankings_awards_reading",
+    "unitId": "unit_a2_78_comparative_superlative_vs_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Deciphering City Rankings, Top 10 Guides & Consumer Awards",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Develop targeted reading skills for top-ten city rankings, consumer choice awards (Шилдэг бүтээгдэхүүн), and restaurant guidebooks.",
+    "communicativeOutcome": "Inspect a 'Top 5 Coffee Shops in UB' article to identify which venue has the best coffee, quietest atmosphere, and fastest Wi-Fi.",
+    "objectivesIntroduced": [
+      "obj_a2_78_02_read_city_rankings"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_78_01_superlative_comparative_adverbs"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_genitive_possession",
+      "gram_a1_predicate_adjective_nominal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_24_superlative_best_in_town"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_city_urban_life",
+      "lex_domain_evaluative_descriptions"
+    ],
+    "previousVocabularyReused": [
+      "шилдэг",
+      "нэгдүгээр",
+      "байр",
+      "үйлчилгээ",
+      "орчин",
+      "сонголт"
+    ],
+    "readingObjective": "Locate ranking criteria (үнэ, чанар, орчин) and top-rated venue names from a 150-word magazine article.",
+    "listeningObjective": "",
+    "writingObjective": "Note down top-rated recommendations in a travel notebook.",
+    "spokenProductionObjective": "Explain why a restaurant won first place to a peer based on text evidence.",
+    "registerTarget": "Journalistic lifestyle and rankings register",
+    "pragmaticTarget": "Understanding criteria behind municipal awards and public certifications.",
+    "prerequisiteLessonIds": [
+      "les_a2_78_01_superlative_khamgiin_comparative_iluu"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_36_02_reading_calendar_dates"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_36_calendar_dates_months_seasons"
+    ],
+    "reviewReason": "Interprets award years and annual competition timelines in published articles.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Read magazine excerpts aloud with lively journalistic cadence.",
+    "successCriteria": [
+      "Identifies which business won 'Шилдэг үйлдвэрлэгч' (Best Producer) from article",
+      "Extracts specific superlative reasons cited for top ranking"
+    ],
+    "masteryEvidence": "Correctly answers 4 comprehension questions based on an authentic Top-5 ranking list.",
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "contextual_cloze",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_78_03_critic_deliberation_listening",
+    "unitId": "unit_a2_78_comparative_superlative_vs_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Lab: Food Critics & Local Guide Deliberations",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic listening comprehension of food critics and culture bloggers debating which establishment deserves the title of 'Best in Town'.",
+    "communicativeOutcome": "Follow dynamic spoken debates comparing hospitality, portion sizes, authentic flavor, and atmosphere across different establishments.",
+    "objectivesIntroduced": [
+      "obj_a2_78_03_decode_critic_debates"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_78_01_superlative_comparative_adverbs"
+    ],
+    "objectivesReviewed": [
+      "obj_a2_77_01_enclitic_ni_marking"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_ablative_comparative",
+      "gram_a2_possessive_third_person_enclitic_ni"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_24_superlative_best_in_town"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 1,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_food_dining",
+      "lex_domain_city_urban_life"
+    ],
+    "previousVocabularyReused": [
+      "хоол",
+      "амттай",
+      "үйлчилгээ",
+      "илүү",
+      "хамгийн",
+      "бодол"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Track shifting speaker opinions across a 2-minute podcast debate evaluating 3 traditional Mongolian restaurants.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Summarize which restaurant the hosts finally selected as their top pick.",
+    "registerTarget": "Informative broadcast debate and podcast register",
+    "pragmaticTarget": "Understanding nuanced opinion markers ('Миний хувьд бол...', 'Гэхдээ нөгөө талаар...').",
+    "prerequisiteLessonIds": [
+      "les_a2_78_01_superlative_khamgiin_comparative_iluu",
+      "les_a2_78_02_city_rankings_awards_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_54_03_listening_cafe_orders"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_54_coffee_shops_teahouses_beverage_cu"
+    ],
+    "reviewReason": "Advances from basic cafe ordering to evaluating food quality and dining atmosphere.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Two podcast hosts exchanging candid banter over Ulaanbaatar's culinary scene.",
+    "successCriteria": [
+      "Identifies final restaurant winner chosen by both podcast hosts",
+      "Extracts specific comparative claims made about buuz crust thickness and broth flavor"
+    ],
+    "masteryEvidence": "Accurately maps out the pros and cons table for all 3 discussed dining venues from audio.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "phonetic_discrimination",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_78_04_recommending_best_spots_dialogue",
+    "unitId": "unit_a2_78_comparative_superlative_vs_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Local Guide: Recommending the City's Hidden Gems & Top Spots",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Develop spoken conversational fluency for acting as a local host, recommending the best spots for cashmere, book shopping, or dining.",
+    "communicativeOutcome": "Recommend the top 3 spots in Ulaanbaatar to a foreign visitor, defending your choices with comparative and superlative justifications.",
+    "objectivesIntroduced": [
+      "obj_a2_78_04_recommend_local_spots_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_78_01_superlative_comparative_adverbs",
+      "obj_a2_78_02_read_city_rankings"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_16_01_greet_time_of_day"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_ablative_comparative",
+      "gram_a1_converb_coordinating_j_ch"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_24_superlative_best_in_town"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_23_comparing_items_places"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_19_inquiring_location"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_city_urban_life",
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "газар",
+      "очих",
+      "үзэх",
+      "зөвлөх",
+      "дуртай",
+      "сайхан"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand visitor's preferences (e.g. wants affordable cashmere vs luxury showroom).",
+    "writingObjective": "",
+    "spokenProductionObjective": "Provide detailed recommendation: 'Хэрэв та чанартай ноолуур авахыг хүсвэл Говь хамгийн сайн нь. Харин хямд сонголт хэрэгтэй бол Нарантуул илүү дээр'.",
+    "registerTarget": "Warm hospitable cultural guide register",
+    "pragmaticTarget": "Tailoring recommendations to visitor's budget and specific personal interests.",
+    "prerequisiteLessonIds": [
+      "les_a2_78_01_superlative_khamgiin_comparative_iluu",
+      "les_a2_78_02_city_rankings_awards_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_63_05_interactive_checkpoint_simulation"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_63_a1_comprehensive_review_checkpoint_c"
+    ],
+    "reviewReason": "Applies conversational host skills to authentic urban recommendations.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Deliver natural spoken recommendations with hospitable and enthusiastic tone.",
+    "successCriteria": [
+      "Provides at least 2 distinct recommendations utilizing хамгийн and илүү",
+      "Justifies each recommendation with reference to quality, price, or convenience"
+    ],
+    "masteryEvidence": "Completes a 5-turn unscripted dialogue advising a foreign student on where to buy winter gear.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_79_01_conditional_converb_val_intro",
+    "unitId": "unit_a2_79_open_air_market_bargaining_at_naran",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "If You Buy Two: The Conditional Converb (-бал/-бэл/-бол/-бөл, -вал/-вэл)",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the conditional converb suffix (-бал4 after consonants / -вал4 after vowels) to construct conditional clauses and bargaining propositions.",
+    "communicativeOutcome": "Negotiate volume discounts and conditional agreements (e.g. 'Хоёрыг авбал хэдээр өгөх вэ?', 'Бэлэн мөнгөөр төлбөл хямдруулах уу?').",
+    "objectivesIntroduced": [
+      "obj_a2_79_01_conditional_converb_val"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_78_01_superlative_comparative_adverbs"
+    ],
+    "grammarIntroduced": [
+      "gram_a2_converb_conditional_val"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_converb_coordinating_j_ch",
+      "gram_a1_polar_questions_uu_uu"
+    ],
+    "phonologyIntroduced": [
+      "phono_a2_conditional_allomorph_harmony"
+    ],
+    "phonologyPracticed": [
+      "phono_a1_masculine_feminine_harmony"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_long_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_23_comparing_items_places",
+      "comm_a1_23_bargaining_clarifying_price"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_22_making_purchases"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions",
+      "lex_domain_actions_movement"
+    ],
+    "previousVocabularyReused": [
+      "авах",
+      "өгөх",
+      "төлөх",
+      "хямдрах",
+      "хэд",
+      "болно"
+    ],
+    "readingObjective": "Read market promotional placards offering conditional bulk discounts ('3-ыг авбал 1 үнэгүй').",
+    "listeningObjective": "Identify conditional converb endings (-бал/-вал) in vendor discount offers.",
+    "writingObjective": "Combine 3 premise clauses with consequence clauses using conditional converbs.",
+    "spokenProductionObjective": "Propose conditional bargaining offers: 'Би хоёрыг авбал арай хямд өгөх үү?'.",
+    "registerTarget": "Open-air market commercial negotiation register",
+    "pragmaticTarget": "Using conditional propositions politely to test seller flexibility without offending.",
+    "prerequisiteLessonIds": [
+      "les_a2_78_04_recommending_best_spots_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_52_01_open_market_grocery_shopping"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_52_open_market_grocery_shopping_bulk_q"
+    ],
+    "reviewReason": "Expands basic A1 market shopping into sophisticated hypothetical bargaining syntax.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model allomorph selection (-бал after consonants, -вал after vowels) and vowel harmony.",
+    "successCriteria": [
+      "Selects correct allomorph (-бал vs -вал) based on stem coda",
+      "Constructs valid conditional sentence connecting premise and outcome"
+    ],
+    "masteryEvidence": "Produces 'Бэлнээр төлбөл таван мянган төгрөг хасаж болох уу?' accurately.",
+    "recommendedExerciseModalities": [
+      "suffix_selection",
+      "sentence_construction",
+      "clause_combination"
+    ]
+  },
+  {
+    "lessonId": "les_a2_79_02_narantuul_market_geography_lexicon",
+    "unitId": "unit_a2_79_open_air_market_bargaining_at_naran",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Narantuul Market: Rows, Stalls & Open-Air Commerce",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce specific vocabulary for navigating the massive Narantuul open-air market (хар зах, лангуу, эгнээ, бөөний үнэ, жижиглэн, гар тэрэг).",
+    "communicativeOutcome": "Navigate market rows, locate wholesale vs retail sections, and ask stallholders about bulk pricing.",
+    "objectivesIntroduced": [
+      "obj_a2_79_02_open_market_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_79_01_conditional_converb_val"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_converb_conditional_val"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_case_genitive_possession"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a1_23_bargaining_clarifying_price"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_22_making_purchases"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions",
+      "lex_domain_city_urban_life"
+    ],
+    "previousVocabularyReused": [
+      "зах",
+      "лангуу",
+      "бараа",
+      "хямд",
+      "үнэ",
+      "хүн"
+    ],
+    "readingObjective": "Read Narantuul perimeter signage directing visitors to boot rows, felt sections, and fabric rows.",
+    "listeningObjective": "Understand porter shouts ('Зам тавиарай!') and stall vendors advertising fresh arrivals.",
+    "writingObjective": "List 5 distinct shopping zones of Narantuul market in Cyrillic.",
+    "spokenProductionObjective": "Ask a vendor: 'Энэ барааг бөөний үнээр авбал хэд вэ?'.",
+    "registerTarget": "Lively open-air marketplace register",
+    "pragmaticTarget": "Maintaining awareness of personal belongings while navigating crowded market alleyways.",
+    "prerequisiteLessonIds": [
+      "les_a2_79_01_conditional_converb_val_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_52_02_vegetable_meat_pricing"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_52_open_market_grocery_shopping_bulk_q"
+    ],
+    "reviewReason": "Expands open-air grocery shopping to consumer durables and traditional goods.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce open-air market trading terminology clearly.",
+    "successCriteria": [
+      "Defines лангуу (stall), эгнээ (row), бөөний үнэ (wholesale price), жижиглэн (retail)",
+      "Distinguishes market sectors for boots, saddles, fabric, and home goods"
+    ],
+    "masteryEvidence": "Correctly matches 6 traditional market commodities with their designated Narantuul rows.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_79_03_narantuul_acoustic_bargaining_lab",
+    "unitId": "unit_a2_79_open_air_market_bargaining_at_naran",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Lab: Market Hustle & Rapid Price Wrangling",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic listening comprehension of intense, rapid market bargaining dialogues amidst background yelling, wind, and cart wheels.",
+    "communicativeOutcome": "Extract initial asking price, buyer counter-offer, vendor conditional compromises, and agreed settlement from noisy market audio.",
+    "objectivesIntroduced": [
+      "obj_a2_79_03_decode_market_bargaining_audio"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_79_01_conditional_converb_val",
+      "obj_a2_79_02_open_market_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_27_01_counting_tens_hundreds"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_numerals_cardinal_counting",
+      "gram_a2_converb_conditional_val"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_23_bargaining_clarifying_price"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_22_making_purchases"
+    ],
+    "newProductiveLemmaTarget": 1,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "төгрөг",
+      "мянга",
+      "өгөхгүй",
+      "авах",
+      "ярих",
+      "буух"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Extract starting price, counter-offer, and final agreed price across 3 recorded vendor-buyer bargaining exchanges.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Explain how much the buyer managed to save in each audio clip.",
+    "registerTarget": "High-tempo colloquial market transaction register",
+    "pragmaticTarget": "Parsing rapid price elisions (e.g. 'хорин тав' for 25,000) under intense auditory noise.",
+    "prerequisiteLessonIds": [
+      "les_a2_79_02_narantuul_market_geography_lexicon",
+      "les_a2_79_01_conditional_converb_val_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_52_03_listening_market_vendors"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_52_open_market_grocery_shopping_bulk_q"
+    ],
+    "reviewReason": "Tests listening acuity under authentic high-density open-air acoustic conditions.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Field audio recorded at Narantuul with outdoor wind, vendor banter, and customer haggling.",
+    "successCriteria": [
+      "Identifies final settlement price accurately without being confused by intermediary counter-offers",
+      "Recognizes the conditional converb structure used by the vendor to offer a deal"
+    ],
+    "masteryEvidence": "Logs all financial figures correctly across 3 distinct bargaining audio clips.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "dictation",
+      "phonetic_discrimination"
+    ]
+  },
+  {
+    "lessonId": "les_a2_79_04_reading_stallholder_receipts_signs",
+    "unitId": "unit_a2_79_open_air_market_bargaining_at_naran",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "At the Market Stall: Initial Inquiries, Price Tag Probing & Quality Checks",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Execute opening conversational moves with open-air market vendors to test initial asking prices.",
+    "communicativeOutcome": "Inspect market signs to determine whether prices are fixed or negotiable, and verify handwritten receipt tallies.",
+    "objectivesIntroduced": [
+      "obj_a2_79_04_read_market_signs_receipts"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_79_02_open_market_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_numerals_cardinal_counting",
+      "gram_a1_noun_plural_markers"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_23_bargaining_clarifying_price"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "үнэ",
+      "бэлэн",
+      "тооцоо",
+      "баримт",
+      "бараа",
+      "ширхэг"
+    ],
+    "readingObjective": "Read handwritten cardboard signs ('Яриа байхгүй', '5-аас дээш бөөний үнээр') and verify receipt items.",
+    "listeningObjective": "",
+    "writingObjective": "Transcribe purchased market items and total expenditures into a budgeting log.",
+    "spokenProductionObjective": "Inquire about base prices: 'Энэ ямар үнэтэй вэ? Бөөний үнээр өгөх үү?'.",
+    "registerTarget": "Informal handwritten commercial signage register",
+    "pragmaticTarget": "Respecting 'Яриа байхгүй' (no bargaining / firm price) signs to avoid pointless haggling.",
+    "prerequisiteLessonIds": [
+      "les_a2_79_02_narantuul_market_geography_lexicon",
+      "les_a2_79_03_narantuul_acoustic_bargaining_lab"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_52_04_reading_price_placards"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_52_open_market_grocery_shopping_bulk_q"
+    ],
+    "reviewReason": "Applies handwriting recognition to market receipts and Cyrillic placards.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce colloquial stall sign slogans.",
+    "successCriteria": [
+      "Understands meaning of 'Яриа байхгүй' (firm price) and 'Бөөний үнэ' (wholesale price)",
+      "Calculates total on a handwritten market invoice accurately"
+    ],
+    "masteryEvidence": "Answers 4 comprehension questions based on authentic photographed handwritten market tags.",
+    "recommendedExerciseModalities": [
+      "dialogue_completion",
+      "role-play response",
+      "speed_identification"
+    ]
+  },
+  {
+    "lessonId": "les_a2_79_05_stallholder_haggling_dialogue",
+    "unitId": "unit_a2_79_open_air_market_bargaining_at_naran",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 5,
+    "title": "Haggling at the Stall: Polite Negotiation with Stallholders",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Master spoken bargaining exchanges with Narantuul stallholders: inspecting goods, pointing out flaws, proposing conditional package deals, and reaching consensus.",
+    "communicativeOutcome": "Negotiate a fair price for a traditional felt rug or pair of boots using conditional converbs and polite bargaining expressions.",
+    "objectivesIntroduced": [
+      "obj_a2_79_05_bargaining_negotiation_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_79_01_conditional_converb_val",
+      "obj_a2_79_02_open_market_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_23_01_bargaining_basics"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_converb_conditional_val"
+    ],
+    "grammarReviewed": [
+      "gram_a1_verb_volitional_intention_ya",
+      "gram_a1_polar_questions_uu_uu"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a1_23_bargaining_clarifying_price"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_22_making_purchases"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "үнэ",
+      "буулгах",
+      "авах",
+      "өгөх",
+      "хэд",
+      "болох"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand vendor's counter-offer: 'За яахав, та хоёрыг авбал дөчин мянгаар өгье'.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Haggle politely: 'Эгч ээ, би бэлэн мөнгөөр шууд авбал жаахан буулгаж өгөх үү?'.",
+    "registerTarget": "Good-humored respectful market bargaining register",
+    "pragmaticTarget": "Maintaining a warm, friendly rapport with respectful address terms ('эгч ээ', 'ах аа') during price negotiation.",
+    "prerequisiteLessonIds": [
+      "les_a2_79_02_narantuul_market_geography_lexicon",
+      "les_a2_79_03_narantuul_acoustic_bargaining_lab"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_52_05_market_transaction_simulation"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_52_open_market_grocery_shopping_bulk_q"
+    ],
+    "reviewReason": "Builds on A1 market bargaining with advanced conditional syntax (-бал/-вал).",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Deliver lively, warm banter between friendly customer and stallholder.",
+    "successCriteria": [
+      "Initiates negotiation politely using conditional converb clause",
+      "Accepts or counter-proposes within realistic market pricing bounds without friction"
+    ],
+    "masteryEvidence": "Completes a 5-turn bargaining roleplay reaching a 10% discount on boots.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_79_06_market_bargaining_summary_writing",
+    "unitId": "unit_a2_79_open_air_market_bargaining_at_naran",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 6,
+    "title": "Market Chronicle: Writing a Personal Bargaining Narrative",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Synthesize conditional converbs, numerical prices, and marketplace vocabulary into a written narrative of a shopping expedition.",
+    "communicativeOutcome": "Write a 5-6 sentence journal entry recounting a trip to Narantuul, the goods purchased, the bargaining process, and final savings.",
+    "objectivesIntroduced": [
+      "obj_a2_79_06_write_market_narrative"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_79_01_conditional_converb_val",
+      "obj_a2_79_05_bargaining_negotiation_dialogue"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_41_01_witnessed_past_laa"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_converb_conditional_val"
+    ],
+    "grammarReviewed": [
+      "gram_a1_verb_tense_past_witnessed_laa",
+      "gram_a1_converb_sequential_aad"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_23_bargaining_clarifying_price",
+      "comm_a2_23_comparing_items_places"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions",
+      "lex_domain_city_urban_life"
+    ],
+    "previousVocabularyReused": [
+      "зах",
+      "бараа",
+      "худалдаж авах",
+      "үнэ",
+      "хямдрах",
+      "дурсамж"
+    ],
+    "readingObjective": "Review a peer's draft market chronicle for conditional converb usage.",
+    "listeningObjective": "",
+    "writingObjective": "Draft a 6-sentence narrative describing purchases and conditional bargaining agreements at the market.",
+    "spokenProductionObjective": "",
+    "registerTarget": "Engaging personal journal chronicle register",
+    "pragmaticTarget": "Reflecting on consumer experiences and financial stewardship in written form.",
+    "prerequisiteLessonIds": [
+      "les_a2_79_01_conditional_converb_val_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_52_06_market_shopping_diary_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_52_open_market_grocery_shopping_bulk_q"
+    ],
+    "reviewReason": "Deepens market shopping diary entries with advanced conditional syntax.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Audio read-back of written market chronicle.",
+    "successCriteria": [
+      "Produces a coherent paragraph containing at least 2 correctly formed conditional converbs (-бал/-вал)",
+      "Accurately quotes pricing dialogue and final savings"
+    ],
+    "masteryEvidence": "Writes 'Би Нарантуул захаас гутал авахдаа: 'Хоёрыг авбал хямдруулах уу?' гэж асуугаад, 10 мянган төгрөг хасуулж авлаа' correctly.",
+    "recommendedExerciseModalities": [
+      "short-answer writing",
+      "clause_combination",
+      "error correction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_80_01_collective_approximate_numerals_intro",
+    "unitId": "unit_a2_80_tailoring_traditional_deel_alterati",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "All of Us & About Twenty: Collective & Approximate Numerals",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce collective numerals (-уул4: хоёул, гурвуул, дөрвүүл) and approximate numerals (-аад4: аравtrans, хориод, гучаад, зуугаад) for groups and approximations.",
+    "communicativeOutcome": "Express group participation ('Бид гурвуул хамт оёдолчинд очлоо') and approximate measurements/costs ('Энэ дээл хориод метр торго орно').",
+    "objectivesIntroduced": [
+      "obj_a2_80_01_collective_approximate_numerals"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_79_01_conditional_converb_val"
+    ],
+    "grammarIntroduced": [
+      "gram_a2_numerals_collective_approximate"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_numerals_cardinal_counting",
+      "gram_a1_case_comitative_association"
+    ],
+    "phonologyIntroduced": [
+      "phono_a2_collective_numeral_elision"
+    ],
+    "phonologyPracticed": [
+      "phono_a1_masculine_feminine_harmony"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_23_comparing_items_places"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_clothing_fashion",
+      "lex_domain_measurements_quantities"
+    ],
+    "previousVocabularyReused": [
+      "нэг",
+      "хоёр",
+      "гурав",
+      "дөрөв",
+      "тав",
+      "арав"
+    ],
+    "readingObjective": "Read tailor's workshop pricing estimates utilizing approximate numbers (-аад).",
+    "listeningObjective": "Identify collective numerals in group errand descriptions ('Бид хоёул явъя').",
+    "writingObjective": "Write 3 sentences contrasting exact vs approximate quantities in tailoring.",
+    "spokenProductionObjective": "Explain group outing: 'Бид дөрвүүл баярын дээлээ захиалахаар оёдлын газар очсон'.",
+    "registerTarget": "Standard collaborative everyday register",
+    "pragmaticTarget": "Using collective numerals to emphasize unified group action rather than separate individuals.",
+    "prerequisiteLessonIds": [
+      "les_a2_79_06_market_bargaining_summary_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_27_01_counting_tens_hundreds"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_27_cardinal_numbers_counting_up_to_one"
+    ],
+    "reviewReason": "Expands cardinal number roots into collective (-уул) and approximate (-аад) numerical derivatives.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model phonological reduction in collective forms (хоёр + уул = хоёул).",
+    "successCriteria": [
+      "Forms collective numerals accurately for roots 2 through 7 (хоёул, гурвуул, дөрвүүл, тавуул, зургаул, долуулаа)",
+      "Applies approximate suffix -аад to decades (арав -> аравtrans, хорь -> хориод)"
+    ],
+    "masteryEvidence": "Produces 'Бид тавуул хориод метр торго авлаа' without morphological hesitation.",
+    "recommendedExerciseModalities": [
+      "suffix_selection",
+      "sentence_construction",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_80_02_tailoring_measurements_alterations_lexicon",
+    "unitId": "unit_a2_80_tailoring_traditional_deel_alterati",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "At the Atelier: Deel Tailoring, Seams & Measurements",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce traditional tailoring and alterations vocabulary (оёдолчин, хэмжээ авах, энгэр, нударга, зах, хажлага, ханцуй богиносгох, хасах).",
+    "communicativeOutcome": "Explain tailoring instructions to a seamstress: taking measurements, altering sleeve lengths, selecting collar styles, and adjusting waist seams.",
+    "objectivesIntroduced": [
+      "obj_a2_80_02_tailoring_alterations_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_80_01_collective_approximate_numerals"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_numerals_collective_approximate"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_genitive_possession",
+      "gram_a1_spatial_postpositions_deeree_door"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_22_making_purchases"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_clothing_fashion",
+      "lex_domain_crafts_artisans"
+    ],
+    "previousVocabularyReused": [
+      "дээл",
+      "хэмжээ",
+      "оёх",
+      "богино",
+      "урт",
+      "газар"
+    ],
+    "readingObjective": "Read tailor atelier alteration pricelists (өмдний шуумаг хасах, цахилгаан солих, зах янзлах).",
+    "listeningObjective": "Understand tailor taking bodily measurements aloud (мөр, цээжний тойрог, ханцуйны урт).",
+    "writingObjective": "List 5 essential components of a Mongolian deel with Cyrillic anatomical terms.",
+    "spokenProductionObjective": "Explain an alteration request: 'Энэ өмдний шуумгийг гурван сантиметр хасаад өгөөч'.",
+    "registerTarget": "Artisanal craftsmanship consultation register",
+    "pragmaticTarget": "Understanding traditional deel anatomy (энгэр, нударга, хажлага) with cultural appreciation.",
+    "prerequisiteLessonIds": [
+      "les_a2_80_01_collective_approximate_numerals_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_22_02_clothing_colors_shopping"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_22_shopping_transactions_making_purch"
+    ],
+    "reviewReason": "Expands commercial clothing terms to bespoke craftsmanship and tailoring.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce traditional garment component terminology accurately.",
+    "successCriteria": [
+      "Identifies key parts of a deel: энгэр (flap/lapel), зах (collar), нударга (cuffs), бүс (sash)",
+      "Uses alteration verbs accurately: хасах (shorten), танах (take in), өргөсгөх (let out)"
+    ],
+    "masteryEvidence": "Accurately labels 6 parts of a traditional deel and explains 2 alteration requests.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "matching",
+      "contextual_cloze"
+    ]
+  },
+  {
+    "lessonId": "les_a2_80_03_tailor_consultation_dialogue",
+    "unitId": "unit_a2_80_tailoring_traditional_deel_alterati",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Fitting Session: Ordering a Custom Deel for Naadam",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Develop spoken conversational fluency for custom garment ordering: selecting silk and lining fabrics, agreeing on completion deadlines, and scheduling fittings.",
+    "communicativeOutcome": "Order a custom-made deel at an atelier: choose fabric, discuss design details, establish pickup date, and pay deposit.",
+    "objectivesIntroduced": [
+      "obj_a2_80_03_custom_tailoring_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_80_01_collective_approximate_numerals",
+      "obj_a2_80_02_tailoring_alterations_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_20_01_expressing_intentions"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_numerals_collective_approximate"
+    ],
+    "grammarReviewed": [
+      "gram_a1_verb_tense_future_prospective_na",
+      "gram_a1_verb_imperative_polite_aarai"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_diphthongs"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_22_making_purchases"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_clothing_fashion",
+      "lex_domain_crafts_artisans"
+    ],
+    "previousVocabularyReused": [
+      "захиалах",
+      "торго",
+      "өнгө",
+      "бэлэн",
+      "болох",
+      "тооцоо"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand tailor explaining preparation timeline: 'Наадмаас өмнө бэлэн болно, гэхдээ ирэх долоо хоногт нэг удаа өмсөж үзээрэй'.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Place custom order: 'Би энэ ногоон торгоор дан дээл оёулмаар байна. Нударгыг нь торгон хажлагаар эмжээрэй'.",
+    "registerTarget": "Artisanal respectful service register",
+    "pragmaticTarget": "Establishing realistic craftsmanship timelines ahead of major national holiday surges.",
+    "prerequisiteLessonIds": [
+      "les_a2_80_02_tailoring_measurements_alterations_lexicon",
+      "les_a2_80_01_collective_approximate_numerals_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_49_01_polite_imperative_aarai"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_49_polite_request_imperative_suffixes_"
+    ],
+    "reviewReason": "Utilizes polite request imperatives (-аарай/-ээрэй) in tailoring instructions.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic dialogue between seasoned Mongolian tailor and client measuring up for Naadam.",
+    "successCriteria": [
+      "Communicates design specifications clearly using traditional garment terms",
+      "Confirms fitting appointment date and deposit amount"
+    ],
+    "masteryEvidence": "Conducts a 5-turn custom tailoring consultation with complete clarity.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_80_04_atelier_acoustic_measurements_listening",
+    "unitId": "unit_a2_80_tailoring_traditional_deel_alterati",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Bespoke Craftsmanship: Deel Patterns, Trims, Collars & Silk Classifications",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce specialized artisanal terms for collar styles (босоо зах), cuffs (нударга), silk trims (торго), and custom stitching.",
+    "communicativeOutcome": "Specify exact custom embellishments and fabric choices to an artisanal Mongolian tailor.",
+    "objectivesIntroduced": [
+      "obj_a2_80_04_decode_tailor_measurements"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_80_02_tailoring_alterations_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_27_01_counting_tens_hundreds"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_numerals_cardinal_counting",
+      "gram_a1_case_genitive_possession"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_clothing_fashion",
+      "lex_domain_measurements_quantities"
+    ],
+    "previousVocabularyReused": [
+      "хэмжээ",
+      "сантиметр",
+      "урт",
+      "өргөн",
+      "бичих",
+      "тойрог"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Accurately write down 5 numerical measurements called out rapidly in a working tailoring atelier.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Read back the dictated measurements to verify accuracy.",
+    "registerTarget": "High-speed workshop professional dictation register",
+    "pragmaticTarget": "Auditory precision parsing measurements in a busy artisan workshop environment.",
+    "prerequisiteLessonIds": [
+      "les_a2_80_01_collective_approximate_numerals_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_27_02_listening_measurements"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_27_cardinal_numbers_counting_up_to_one"
+    ],
+    "reviewReason": "Applies number dictation listening skills to professional tailoring metrics.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Sewing machine whir, fabric shears snip, and clear rhythmic measurement dictation.",
+    "successCriteria": [
+      "Transcribes all 5 anatomical measurement figures without numerical error",
+      "Associates each measurement with correct body location (ханцуй, бэлхүүс, мөр)"
+    ],
+    "masteryEvidence": "Fills in complete tailor measurement order card with 100% numerical accuracy.",
+    "recommendedExerciseModalities": [
+      "matching",
+      "categorization",
+      "contextual_cloze"
+    ]
+  },
+  {
+    "lessonId": "les_a2_80_05_tailoring_order_receipt_writing",
+    "unitId": "unit_a2_80_tailoring_traditional_deel_alterati",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 5,
+    "title": "Custom Order Specification: Drafting a Tailoring Work Order",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Synthesize collective/approximate numerals, deel anatomy vocabulary, and alteration verbs in a written bespoke tailoring work order.",
+    "communicativeOutcome": "Draft a written custom order specification for a family set of festival deels, specifying silk meterage, lining type, and deadline.",
+    "objectivesIntroduced": [
+      "obj_a2_80_05_write_tailoring_order"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_80_01_collective_approximate_numerals",
+      "obj_a2_80_02_tailoring_alterations_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_50_01_sequential_converb"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_numerals_collective_approximate"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_instrumental_transport_language",
+      "gram_a1_case_genitive_possession"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_clothing_fashion",
+      "lex_domain_crafts_artisans"
+    ],
+    "previousVocabularyReused": [
+      "захиалга",
+      "хугацаа",
+      "дээл",
+      "торго",
+      "үнэ",
+      "хүлээж авах"
+    ],
+    "readingObjective": "Review authentic atelier order forms to understand standardized layout.",
+    "listeningObjective": "",
+    "writingObjective": "Draft a written order specification including fabric meters, collective participants, design notes, and delivery date.",
+    "spokenProductionObjective": "",
+    "registerTarget": "Artisanal commercial work order register",
+    "pragmaticTarget": "Ensuring all bespoke specifications and approximate meterages are documented unambiguously.",
+    "prerequisiteLessonIds": [
+      "les_a2_80_01_collective_approximate_numerals_intro",
+      "les_a2_80_03_tailor_consultation_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_50_01_sequential_converb_aad"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_50_sequential_converb_clause_connector"
+    ],
+    "reviewReason": "Uses sequential converbs to structure fabrication and fitting milestones.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Audio read-back of written tailoring specification.",
+    "successCriteria": [
+      "Produces written order including approximate quantity suffix (-аад) and collective numeral (-уул)",
+      "Accurately documents deel components: зах, энгэр, нударга, дотор"
+    ],
+    "masteryEvidence": "Drafts 'Бид гурвуул Наадмаар өмсөх дээл захиаллаа. Нийт гучаад метр торго орно...' accurately.",
+    "recommendedExerciseModalities": [
+      "short-answer writing",
+      "sentence construction",
+      "error correction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_81_01_cashmere_ply_fiber_certification_lexicon",
+    "unitId": "unit_a2_81_cashmere_shopping_wool_grade_certif",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "Gobi Cashmere: Fiber Micron, Ply & Quality Grades",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce premium wool and cashmere terminology (ноолуур, сарлагийн хөөвөр, тэмээний ноос, утсан утас/ply, микрон, баталгааны гэрчилгээ).",
+    "communicativeOutcome": "Distinguish between goat cashmere, yak down, and camel wool; inquire about yarn thickness (1-ply vs 2-ply) and organic certification.",
+    "objectivesIntroduced": [
+      "obj_a2_81_01_cashmere_fiber_lexicon"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_80_01_collective_approximate_numerals"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_noun_phrase_attributive_adjective",
+      "gram_a1_case_genitive_possession"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_long_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_24_superlative_best_in_town"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_23_comparing_items_places"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 8,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_clothing_fashion",
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "ноос",
+      "цамц",
+      "дулаан",
+      "зөөлөн",
+      "үнэ",
+      "үйлдвэр"
+    ],
+    "readingObjective": "Read hangtags on cashmere garments specifying micron count, fiber purity (100% цэвэр ноолуур), and wash care.",
+    "listeningObjective": "Understand cashmere brand showroom presentation on nomadic sustainable shearing.",
+    "writingObjective": "List 3 distinctive natural wool fibers of Mongolia and their thermal qualities.",
+    "spokenProductionObjective": "Ask sales specialist: 'Энэ цамц 100 хувь ямааны ноолуур уу, эсвэл сарлагийн хөөвөртэй хольсон уу?'.",
+    "registerTarget": "Specialized luxury textile retail register",
+    "pragmaticTarget": "Appreciating the distinction between raw nomadic fibers and industrial blends.",
+    "prerequisiteLessonIds": [
+      "les_a2_80_05_tailoring_order_receipt_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_22_01_making_purchases_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_22_shopping_transactions_making_purch"
+    ],
+    "reviewReason": "Expands general retail vocabulary into iconic Mongolian luxury export industries.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce technical textile terms clearly.",
+    "successCriteria": [
+      "Distinguishes ноолуур (cashmere), сарлагийн хөөвөр (yak down), and тэмээний ноос (camel wool)",
+      "Identifies fiber purity markings (100% цэвэр, холимог)"
+    ],
+    "masteryEvidence": "Accurately defines 7 luxury textile terms and explains differences in thermal softness.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_81_02_cashmere_certificate_label_reading",
+    "unitId": "unit_a2_81_cashmere_shopping_wool_grade_certif",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Deciphering Cashmere Certificates, Export Seals & Care Tags",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Develop reading comprehension for authentic export certificates (Чанартай ноолуурын гэрчилгээ), origin stamps, eco-certifications, and specialized care instructions.",
+    "communicativeOutcome": "Inspect cashmere tags to confirm genuine Mongolian origin, hand-wash temperature limits, and anti-pilling guarantees.",
+    "objectivesIntroduced": [
+      "obj_a2_81_02_read_cashmere_certifications"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_81_01_cashmere_fiber_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_ablative_origin",
+      "gram_a1_predicate_adjective_nominal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_24_superlative_best_in_town"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_clothing_fashion",
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "гэрчилгээ",
+      "чанар",
+      "угаах",
+      "цэвэрлэх",
+      "халуун",
+      "хориглох"
+    ],
+    "readingObjective": "Extract fiber micron thickness, washing temperature (30°C гараар угаах), and origin verification from a garment booklet.",
+    "listeningObjective": "",
+    "writingObjective": "Transcribe proper care steps for luxury knitwear into a home memo.",
+    "spokenProductionObjective": "Explain to a peer how to wash a pure cashmere cardigan without shrinking it.",
+    "registerTarget": "Technical product labeling and certification register",
+    "pragmaticTarget": "Heeding non-ironing and hand-wash icons to protect delicate protein fibers.",
+    "prerequisiteLessonIds": [
+      "les_a2_81_01_cashmere_ply_fiber_certification_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_40_01_ablative_origin_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_40_ablative_of_spatial_temporal_origin"
+    ],
+    "reviewReason": "Utilizes ablative case of origin ('Монголоос гаралтай', 'ямаанаас самнасан').",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Read garment care tags aloud with precise pronunciation.",
+    "successCriteria": [
+      "Locates washing and drying restrictions accurately on Mongolian textile tag",
+      "Verifies whether item is certified 100% Mongolian organic cashmere"
+    ],
+    "masteryEvidence": "Answers 4 comprehension questions based on an authentic Gobi Cashmere certification booklet.",
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "contextual_cloze",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_81_03_cashmere_showroom_tour_listening",
+    "unitId": "unit_a2_81_cashmere_shopping_wool_grade_certif",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Lab: Cashmere Showroom Tour & Gift Consultation",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic comprehension of showroom sales consultants guiding high-end shoppers through fiber collections, seasonal colors, and export packaging.",
+    "communicativeOutcome": "Understand consultant recommendations regarding weight (нимгэн зуны ноолуур vs зузаан өвлийн сүлжмэл), natural dye-free shades, and tax-free export forms.",
+    "objectivesIntroduced": [
+      "obj_a2_81_03_decode_cashmere_consultation"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_81_01_cashmere_fiber_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a2_77_01_enclitic_ni_marking"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a2_possessive_third_person_enclitic_ni",
+      "gram_a1_converb_coordinating_j_ch"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_24_superlative_best_in_town"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 1,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_clothing_fashion",
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "өнгө",
+      "будаггүй",
+      "байгалийн",
+      "хөнгөн",
+      "дулаан",
+      "бэлэг"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Identify natural dye-free colors (цагаан, шаргал, саарал, хөх саарал) and knit weights from consultant audio.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Explain to a travel companion why natural un-dyed cashmere is softer.",
+    "registerTarget": "Polished luxury boutique consultation register",
+    "pragmaticTarget": "Understanding sustainability and chemical-free dyeing advantages.",
+    "prerequisiteLessonIds": [
+      "les_a2_81_01_cashmere_ply_fiber_certification_lexicon",
+      "les_a2_81_02_cashmere_certificate_label_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_73_03_mall_promotions_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_73_department_stores_shopping_mall_nav"
+    ],
+    "reviewReason": "Elevates retail store listening to high-end specialist boutique guidance.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Elegant, gentle boutique consultant voice with soft ambient showroom background.",
+    "successCriteria": [
+      "Identifies the 4 natural un-dyed cashmere colors mentioned in audio",
+      "Extracts tax-free refund (НӨАТ буцаан олголт) procedure explained by consultant"
+    ],
+    "masteryEvidence": "Accurately maps out consultant's product recommendations across 3 customer profiles.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "phonetic_discrimination",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_81_04_cashmere_boutique_purchasing_dialogue",
+    "unitId": "unit_a2_81_cashmere_shopping_wool_grade_certif",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Boutique Encounter: Selecting Cashmere Gifts & Requesting Tax-Free",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Master spoken communication in a premier cashmere boutique: comparing sweater weaves, selecting scarves as gifts, requesting gift boxes, and completing tax-free forms.",
+    "communicativeOutcome": "Purchase cashmere knitwear, compare yarn weights, request gift packaging, and obtain a tax refund receipt.",
+    "objectivesIntroduced": [
+      "obj_a2_81_04_cashmere_shopping_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_81_01_cashmere_fiber_lexicon",
+      "obj_a2_81_02_read_cashmere_certifications"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_22_01_making_purchases"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_verb_imperative_polite_aarai",
+      "gram_a1_case_instrumental_transport_language"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_24_superlative_best_in_town"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_22_making_purchases"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_clothing_fashion",
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "ороолт",
+      "бэлэг",
+      "хайрцаг",
+      "баримт",
+      "боох",
+      "карт"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand cashier explaining tax refund kiosk at Chinggis Khaan International Airport.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Purchase items: 'Энэ байгалийн шаргал өнгийн ноолууран ороолтыг бэлгийн хайрцагт хийгээд, татварын буцаан олголтын баримт бичиж өгөөч'.",
+    "registerTarget": "Refined commercial transaction register",
+    "pragmaticTarget": "Requesting export documentation and proper gift packaging politely.",
+    "prerequisiteLessonIds": [
+      "les_a2_81_01_cashmere_ply_fiber_certification_lexicon",
+      "les_a2_81_03_cashmere_showroom_tour_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_22_05_making_purchases_simulation"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_22_shopping_transactions_making_purch"
+    ],
+    "reviewReason": "Synthesizes advanced retail purchasing with export formalities.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Polite native speaker showroom dialogue with authentic transaction pacing.",
+    "successCriteria": [
+      "Conducts a complete purchase specifying natural fiber type and requesting gift wrapping",
+      "Requests and verifies tax refund document (НӨАТ буцаан олголт)"
+    ],
+    "masteryEvidence": "Completes a 5-turn showroom transaction roleplay with complete linguistic accuracy.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_82_01_consumer_rights_service_disputes_lexicon",
+    "unitId": "unit_a2_82_retail_service_transaction_capstone",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "Consumer Rights: Exchanges, Returns & Defective Merchandise",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce high-level consumer protection vocabulary (хэрэглэгчийн эрх, буцаалт, бараа солих, гэмтэлтэй бараа, төлбөр буцаах, гомдол гаргах) to resolve retail disputes.",
+    "communicativeOutcome": "Explain consumer rights, request a replacement for a defective product, or demand a refund in compliance with consumer law.",
+    "objectivesIntroduced": [
+      "obj_a2_82_01_consumer_rights_lexicon"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_79_01_conditional_converb_val",
+      "obj_a2_77_01_enclitic_ni_marking"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_converb_conditional_val",
+      "gram_a2_possessive_third_person_enclitic_ni"
+    ],
+    "grammarReviewed": [
+      "gram_a1_converb_sequential_aad"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_23_comparing_items_places",
+      "comm_a2_24_superlative_best_in_town"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 12,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions",
+      "lex_domain_civic_administrative"
+    ],
+    "previousVocabularyReused": [
+      "бараа",
+      "мөнгө",
+      "буцаах",
+      "солих",
+      "гомдол",
+      "баримт"
+    ],
+    "readingObjective": "Read consumer protection regulations regarding 14-day return policies for non-perishable goods.",
+    "listeningObjective": "Understand customer service representative explaining exchange criteria.",
+    "writingObjective": "List 4 valid grounds for returning merchandise under Mongolian consumer law.",
+    "spokenProductionObjective": "Explain a consumer complaint: 'Энэ бараа гэмтэлтэй гарсан тул солих эсвэл мөнгийг нь буцааж авмаар байна'.",
+    "registerTarget": "Assertive polite administrative consumer register",
+    "pragmaticTarget": "Advocating for consumer rights calmly and firmly with legal and policy terminology.",
+    "prerequisiteLessonIds": [
+      "les_a2_81_04_cashmere_boutique_purchasing_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_63_06_elementary_stage_synthesis_capstone"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_63_a1_comprehensive_review_checkpoint_c"
+    ],
+    "reviewReason": "Synthesizes retail vocabulary into assertive intermediate consumer autonomy.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce formal consumer protection and legal terms.",
+    "successCriteria": [
+      "Defines гомдол (complaint), буцаалт (refund/return), гэмтэл (defect), хууль (law)",
+      "Forms conditional sentences expressing return requirements: 'Баримт нь байвал буцаана'"
+    ],
+    "masteryEvidence": "Articulates a clear 3-point explanation of consumer return conditions in Mongolian.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "contextual_cloze",
+      "sentence_construction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_82_02_consumer_service_acoustic_decoding_lab",
+    "unitId": "unit_a2_82_retail_service_transaction_capstone",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Acoustic Lab: Customer Service Disputes & Resolution Audio",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic listening comprehension of intense multi-speaker customer service disputes, manager interventions, and policy compromise solutions.",
+    "communicativeOutcome": "Follow a multi-speaker debate between an upset customer, a sales clerk, and a department manager to identify the root cause and eventual settlement.",
+    "objectivesIntroduced": [
+      "obj_a2_82_02_decode_customer_disputes"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_82_01_consumer_rights_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a2_79_03_decode_market_bargaining_audio"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a2_verb_past_recent_witnessed_laa",
+      "gram_a2_converb_conditional_val"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_23_comparing_items_places"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 2,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "менежер",
+      "солих",
+      "гомдол",
+      "мөнгө",
+      "өгөх",
+      "зөв"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Comprehend a 2-minute customer service dispute regarding a faded coat, extracting whether a refund or replacement was agreed.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Summarize the manager's resolution to a partner.",
+    "registerTarget": "Tense conversational conflict resolution register",
+    "pragmaticTarget": "Parsing emotional, fast-paced dialogue and separating emotional complaints from contractual facts.",
+    "prerequisiteLessonIds": [
+      "les_a2_82_01_consumer_rights_service_disputes_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_63_03_auditory_comprehension_lab"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_63_a1_comprehensive_review_checkpoint_c"
+    ],
+    "reviewReason": "Elevates listening stamina to multi-speaker conflict scenarios.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Realistic 2-minute customer service desk audio featuring frustrated buyer and calm manager.",
+    "successCriteria": [
+      "Identifies root issue (torn seam / incorrect sizing / lack of original box)",
+      "Extracts final outcome (immediate replacement with valid receipt)"
+    ],
+    "masteryEvidence": "Answers 6 comprehensive questions following a single hearing of the customer service audio.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "sequencing",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_82_03_retail_policy_warranty_terms_reading",
+    "unitId": "unit_a2_82_retail_service_transaction_capstone",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Deciphering Retail Return Policies & Warranty Agreements",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Develop targeted reading comprehension of an authentic store return policy document, warranty booklet exclusions, and consumer complaint forms.",
+    "communicativeOutcome": "Inspect store policy documentation to locate deadlines (7 хоног, 14 хоног), required condition (шошготой, өмсөөгүй), and non-refundable categories.",
+    "objectivesIntroduced": [
+      "obj_a2_82_03_read_return_policies"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_82_01_consumer_rights_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_ablative_origin",
+      "gram_a1_spatial_postpositions_deeree_door"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_23_comparing_items_places"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions",
+      "lex_domain_civic_administrative"
+    ],
+    "previousVocabularyReused": [
+      "журам",
+      "шошго",
+      "хугацаа",
+      "баталгаа",
+      "буцаах",
+      "нөхцөл"
+    ],
+    "readingObjective": "Extract return conditions from a 150-word official store policy brochure.",
+    "listeningObjective": "",
+    "writingObjective": "Summarize key consumer rights into a checklist for personal shopping trips.",
+    "spokenProductionObjective": "Explain to a peer why intimate apparel or customized goods cannot be returned.",
+    "registerTarget": "Commercial legal and administrative register",
+    "pragmaticTarget": "Distinguishing mandatory statutory rights from voluntary merchant store policies.",
+    "prerequisiteLessonIds": [
+      "les_a2_82_01_consumer_rights_service_disputes_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_63_02_textual_synthesis_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_63_a1_comprehensive_review_checkpoint_c"
+    ],
+    "reviewReason": "Applies rigorous reading analysis to authentic retail contracts and policies.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Read administrative return conditions aloud.",
+    "successCriteria": [
+      "Identifies the 14-day statutory return deadline and proof-of-purchase requirement",
+      "Determines which product categories are exempt from exchange"
+    ],
+    "masteryEvidence": "Scores 100% on a 5-question comprehension quiz based on an official store return charter.",
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "contextual_cloze",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_82_04_customer_service_desk_simulation",
+    "unitId": "unit_a2_82_retail_service_transaction_capstone",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Interactive Simulation: Resolving a Product Dispute at the Service Desk",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Synthesize all spoken interaction capabilities developed across Section 2 in an unscripted multi-stage retail service desk simulation.",
+    "communicativeOutcome": "Successfully resolve a complex retail dispute: present receipt, explain defect using 'нь' topic structures, negotiate exchange using conditional converb, and obtain replacement.",
+    "objectivesIntroduced": [
+      "obj_a2_82_04_simulate_retail_dispute_resolution"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_82_01_consumer_rights_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a2_73_03_mall_inquiry_dialogue",
+      "obj_a2_74_04_boutique_shopping_dialogue",
+      "obj_a2_79_05_bargaining_negotiation_dialogue"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_possessive_third_person_enclitic_ni",
+      "gram_a2_converb_conditional_val",
+      "gram_a2_numerals_ordinal"
+    ],
+    "grammarReviewed": [
+      "gram_a2_reflexive_case_combinations"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_23_comparing_items_places",
+      "comm_a2_24_superlative_best_in_town"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_13_apologies_politeness"
+    ],
+    "newProductiveLemmaTarget": 7,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 5,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "бараа",
+      "баримт",
+      "солих",
+      "буцаах",
+      "гэмтэл",
+      "шийдэх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Respond adaptively to dynamic situational hurdles introduced by the clerk (e.g. lost tags, manager approval needed).",
+    "writingObjective": "",
+    "spokenProductionObjective": "Conduct consecutive dialogue turns across 4 simulated service desk stages without reverting to English.",
+    "registerTarget": "Spontaneous assertive diplomatic register",
+    "pragmaticTarget": "Maintaining composure and polite firmness while navigating bureaucracy.",
+    "prerequisiteLessonIds": [
+      "les_a2_82_01_consumer_rights_service_disputes_lexicon",
+      "les_a2_82_03_retail_policy_warranty_terms_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_63_05_interactive_checkpoint_simulation"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_63_a1_comprehensive_review_checkpoint_c"
+    ],
+    "reviewReason": "Builds upon A1 capstone interactive simulations with higher situational complexity.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Provide responsive native speaker voice prompts for the interactive simulation.",
+    "successCriteria": [
+      "Presents return case clearly using receipt and appropriate legal terminology",
+      "Negotiates acceptable replacement using conditional phrasing without escalating conflict"
+    ],
+    "masteryEvidence": "Completes full 4-stage simulation with zero communicative breakdowns.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "sequencing"
+    ]
+  },
+  {
+    "lessonId": "les_a2_82_05_retail_service_transaction_checkpoint",
+    "unitId": "unit_a2_82_retail_service_transaction_capstone",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 5,
+    "title": "Benchmark Checkpoint: Retail Variety, Consumer Rights & Public Dining",
+    "lessonType": "checkpoint",
+    "primaryPurpose": "Formal milestone evaluation assessing productive and receptive mastery of Section 2: ordinal numerals, clothing fit, reflexive-possessive base (-аа4), fused case-reflexive endings, third-person enclitic 'нь', superlative 'хамгийн', conditional converb (-бал4/-вал4), collective/approximate numerals, and luxury textile trade.",
+    "communicativeOutcome": "Demonstrate comprehensive communicative competence across all Section 2 commercial, retail, and artisanal domains without reference materials.",
+    "objectivesIntroduced": [],
+    "objectivesPracticed": [
+      "obj_a2_82_01_consumer_rights_lexicon",
+      "obj_a2_82_04_simulate_retail_dispute_resolution"
+    ],
+    "objectivesReviewed": [
+      "obj_a2_73_01_ordinal_numeral_derivation",
+      "obj_a2_75_01_reflexive_possessive_marking",
+      "obj_a2_76_01_reflexive_case_combination",
+      "obj_a2_77_01_enclitic_ni_marking",
+      "obj_a2_78_01_superlative_comparative_adverbs",
+      "obj_a2_79_01_conditional_converb_val",
+      "obj_a2_80_01_collective_approximate_numerals"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_numerals_ordinal",
+      "gram_a2_reflexive_possessive_base",
+      "gram_a2_reflexive_case_combinations",
+      "gram_a2_possessive_third_person_enclitic_ni",
+      "gram_a2_converb_conditional_val",
+      "gram_a2_numerals_collective_approximate"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_ablative_comparative"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_23_comparing_items_places",
+      "comm_a2_24_superlative_best_in_town",
+      "comm_a1_23_bargaining_clarifying_price",
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_commerce_transactions",
+      "lex_domain_clothing_fashion"
+    ],
+    "previousVocabularyReused": [
+      "дэлгүүр",
+      "хувцас",
+      "зах",
+      "ноолуур",
+      "хямдрал",
+      "баталгаа"
+    ],
+    "readingObjective": "Demonstrate unassisted comprehension of an authentic consumer warranty dispute case study.",
+    "listeningObjective": "Demonstrate unassisted comprehension of an authentic high-speed retail transaction debate.",
+    "writingObjective": "Draft a formal written consumer complaint and request for exchange or refund.",
+    "spokenProductionObjective": "Conduct a live spoken negotiation resolving a complex commercial purchase complication.",
+    "registerTarget": "Standard formal evaluation register",
+    "pragmaticTarget": "Demonstrating holistic linguistic control and situational independence in commercial life.",
+    "prerequisiteLessonIds": [
+      "les_a2_82_04_customer_service_desk_simulation"
+    ],
+    "reviewsLessonIds": [
+      "les_a2_73_05_mall_directory_memo_writing",
+      "les_a2_74_05_garment_review_tag_reading_writing",
+      "les_a2_75_05_festival_wardrobe_essay_writing",
+      "les_a2_76_06_personal_journey_written_memoir",
+      "les_a2_77_05_comparative_product_review_writing",
+      "les_a2_78_04_recommending_best_spots_dialogue",
+      "les_a2_79_06_market_bargaining_summary_writing",
+      "les_a2_80_05_tailoring_order_receipt_writing",
+      "les_a2_81_04_cashmere_boutique_purchasing_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_73_department_stores_shopping_mall_nav",
+      "unit_a2_74_clothing_sizes_fabrics_fitting_room",
+      "unit_a2_75_reflexive_possessive_base_suffixes_",
+      "unit_a2_76_reflexive_case_combinations_",
+      "unit_a2_77_third_person_possessive_enclitic_th",
+      "unit_a2_78_comparative_superlative_vs_",
+      "unit_a2_79_open_air_market_bargaining_at_naran",
+      "unit_a2_80_tailoring_traditional_deel_alterati",
+      "unit_a2_81_cashmere_shopping_wool_grade_certif"
+    ],
+    "reviewReason": "Milestone synthesis certifying learner readiness to proceed to Section 3 health, domestic life, and civic services.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Deliver high-fidelity audio stimuli for formal benchmark assessment items.",
+    "successCriteria": [
+      "Demonstrates mastery of ordinal numerals, reflexive combinations, 'нь' enclitic, and conditional converbs in context",
+      "Completes receptive and productive tasks across all 4 skill modalities without communicative breakdown"
+    ],
+    "masteryEvidence": "Successfully navigates all 4 benchmark assessment modalities achieving independent task completion.",
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "listening_comprehension",
+      "role-play response",
+      "short-answer writing"
+    ]
+  }
+]

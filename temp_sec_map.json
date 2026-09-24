@@ -1,0 +1,236 @@
+[
+  {
+    "sectionId": "sec_pre_a1_01_cyrillic_graphemes_vowels",
+    "cefrLevel": "Pre-A1",
+    "title": "Cyrillic Script Literacy & Primary Vowel Systems",
+    "unitsCount": 7,
+    "grammarCount": 0,
+    "commCount": 3,
+    "coreLemmas": 103
+  },
+  {
+    "sectionId": "sec_pre_a1_02_syllables_vowel_harmony_formulae",
+    "cefrLevel": "Pre-A1",
+    "title": "Syllable Structure, Vowel Harmony & Emergent Survival Formulae",
+    "unitsCount": 8,
+    "grammarCount": 0,
+    "commCount": 7,
+    "coreLemmas": 137
+  },
+  {
+    "sectionId": "sec_a1_01_identity_courtesy_nominal_clauses",
+    "cefrLevel": "A1",
+    "title": "Identity, Courtesy & Nominal Equational Clauses",
+    "unitsCount": 8,
+    "grammarCount": 7,
+    "commCount": 7,
+    "coreLemmas": 196
+  },
+  {
+    "sectionId": "sec_a1_02_physical_space_quantities_locative",
+    "cefrLevel": "A1",
+    "title": "Physical Space, Quantities & Locative-Accusative Predication",
+    "unitsCount": 10,
+    "grammarCount": 7,
+    "commCount": 6,
+    "coreLemmas": 269
+  },
+  {
+    "sectionId": "sec_a1_03_daily_routines_motion_temporality",
+    "cefrLevel": "A1",
+    "title": "Daily Routines, Movement & Temporal Sequencing",
+    "unitsCount": 11,
+    "grammarCount": 7,
+    "commCount": 6,
+    "coreLemmas": 316
+  },
+  {
+    "sectionId": "sec_a1_04_food_hospitality_dining_transactions",
+    "cefrLevel": "A1",
+    "title": "Food, Hospitality, Dining & Basic Social Exchange",
+    "unitsCount": 9,
+    "grammarCount": 6,
+    "commCount": 6,
+    "coreLemmas": 268
+  },
+  {
+    "sectionId": "sec_a1_05_family_kinship_possession_immediate_environment",
+    "cefrLevel": "A1",
+    "title": "Kinship, Reflexive Possession & Immediate Surroundings",
+    "unitsCount": 10,
+    "grammarCount": 14,
+    "commCount": 8,
+    "coreLemmas": 269
+  },
+  {
+    "sectionId": "sec_a2_01_city_navigation_transit_public_encounters",
+    "cefrLevel": "A2",
+    "title": "Urban Transit, Wayfinding & Public Space Encounters",
+    "unitsCount": 9,
+    "grammarCount": 4,
+    "commCount": 4,
+    "coreLemmas": 277
+  },
+  {
+    "sectionId": "sec_a2_02_commerce_services_transactional_bargaining",
+    "cefrLevel": "A2",
+    "title": "Commerce, Clothing, Tailoring & Service Appointments",
+    "unitsCount": 10,
+    "grammarCount": 6,
+    "commCount": 3,
+    "coreLemmas": 319
+  },
+  {
+    "sectionId": "sec_a2_03_health_wellness_body_consultations",
+    "cefrLevel": "A2",
+    "title": "Health, Wellness, Anatomy & Medical Encounters",
+    "unitsCount": 8,
+    "grammarCount": 4,
+    "commCount": 5,
+    "coreLemmas": 268
+  },
+  {
+    "sectionId": "sec_a2_04_narratives_memories_social_invitations",
+    "cefrLevel": "A2",
+    "title": "Extended Family, Personal History, Social Invitations & Plans",
+    "unitsCount": 11,
+    "grammarCount": 11,
+    "commCount": 11,
+    "coreLemmas": 349
+  },
+  {
+    "sectionId": "sec_a2_05_nomadic_countryside_ger_etiquette_livestock",
+    "cefrLevel": "A2",
+    "title": "Nomadic Pastoralism, Countryside Travel & Domestic Living",
+    "unitsCount": 10,
+    "grammarCount": 4,
+    "commCount": 8,
+    "coreLemmas": 349
+  },
+  {
+    "sectionId": "sec_b1_01_workplace_careers_institutional_communication",
+    "cefrLevel": "B1",
+    "title": "Workplace Communication, Employment & Professional Processes",
+    "unitsCount": 12,
+    "grammarCount": 8,
+    "commCount": 9,
+    "coreLemmas": 417
+  },
+  {
+    "sectionId": "sec_b1_02_biography_opinion_discourse_causality",
+    "cefrLevel": "B1",
+    "title": "Personal Biography, Opinion Discourse & Causality",
+    "unitsCount": 11,
+    "grammarCount": 7,
+    "commCount": 8,
+    "coreLemmas": 393
+  },
+  {
+    "sectionId": "sec_b1_03_geography_aimags_environment_climate",
+    "cefrLevel": "B1",
+    "title": "Mongolian Geography, Regional Landscapes & Ecology",
+    "unitsCount": 10,
+    "grammarCount": 6,
+    "commCount": 6,
+    "coreLemmas": 369
+  },
+  {
+    "sectionId": "sec_b1_04_festivals_naadam_tsagaan_sar_customs",
+    "cefrLevel": "B1",
+    "title": "National Celebrations, Naadam, Tsagaan Sar & Cultural Etiquette",
+    "unitsCount": 11,
+    "grammarCount": 1,
+    "commCount": 5,
+    "coreLemmas": 426
+  },
+  {
+    "sectionId": "sec_b2_01_public_policy_civil_society_media",
+    "cefrLevel": "B2",
+    "title": "Public Policy, Civil Society, Governance & Media Discourse",
+    "unitsCount": 11,
+    "grammarCount": 7,
+    "commCount": 8,
+    "coreLemmas": 437
+  },
+  {
+    "sectionId": "sec_b2_02_ecology_climate_zud_sustainability",
+    "cefrLevel": "B2",
+    "title": "Ecological Dynamics, Climate Change, Dzud & Resource Economics",
+    "unitsCount": 10,
+    "grammarCount": 6,
+    "commCount": 6,
+    "coreLemmas": 409
+  },
+  {
+    "sectionId": "sec_b2_03_material_culture_music_performing_arts",
+    "cefrLevel": "B2",
+    "title": "Material Culture, Horsemanship, Morin Khuur & Performing Arts",
+    "unitsCount": 10,
+    "grammarCount": 5,
+    "commCount": 5,
+    "coreLemmas": 399
+  },
+  {
+    "sectionId": "sec_b2_04_academic_critique_rhetoric_formal_stance",
+    "cefrLevel": "B2",
+    "title": "Scholarly Critique, Rhetorical Structures & Academic Synthesis",
+    "unitsCount": 11,
+    "grammarCount": 4,
+    "commCount": 8,
+    "coreLemmas": 470
+  },
+  {
+    "sectionId": "sec_c1_01_constitutional_law_governance_statutory",
+    "cefrLevel": "C1",
+    "title": "Constitutional Law, Statutory Interpretation & Legal Discourse",
+    "unitsCount": 10,
+    "grammarCount": 5,
+    "commCount": 3,
+    "coreLemmas": 429
+  },
+  {
+    "sectionId": "sec_c1_02_macroeconomics_mining_international_trade",
+    "cefrLevel": "C1",
+    "title": "Macroeconomics, Strategic Mining & International Commerce",
+    "unitsCount": 10,
+    "grammarCount": 5,
+    "commCount": 3,
+    "coreLemmas": 439
+  },
+  {
+    "sectionId": "sec_c1_03_diplomacy_geopolitics_epistemic_discourse",
+    "cefrLevel": "C1",
+    "title": "Diplomacy, Geopolitics & High-Register Epistemic Stance",
+    "unitsCount": 11,
+    "grammarCount": 10,
+    "commCount": 8,
+    "coreLemmas": 470
+  },
+  {
+    "sectionId": "sec_c2_01_contemporary_literature_satire_stylistics",
+    "cefrLevel": "C2",
+    "title": "Contemporary Modernist Literature, Satire & Stylistic Nuance",
+    "unitsCount": 9,
+    "grammarCount": 8,
+    "commCount": 7,
+    "coreLemmas": 367
+  },
+  {
+    "sectionId": "sec_c2_02_secret_history_classical_mongolian_philology",
+    "cefrLevel": "C2",
+    "title": "The Secret History of the Mongols & Classical Philology",
+    "unitsCount": 9,
+    "grammarCount": 4,
+    "commCount": 3,
+    "coreLemmas": 376
+  },
+  {
+    "sectionId": "sec_c2_03_gnomic_wisdom_epics_ceremonial_tengrism",
+    "cefrLevel": "C2",
+    "title": "Gnomic Wisdom, Folk Epics, Ceremonial Blessings & Cosmology",
+    "unitsCount": 10,
+    "grammarCount": 6,
+    "commCount": 5,
+    "coreLemmas": 429
+  }
+]

@@ -1,0 +1,3524 @@
+[
+  {
+    "lessonId": "les_c2_229_01_khalkha_phonotactics_syntax_intro",
+    "unitId": "unit_c2_229_rapid_khalkha_spoken_phonotactics_r",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 1,
+    "title": "Morphophonology: Rapid Khalkha Spoken Phonotactics, Vowel Syncope & Sandhi Reductions",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the phonotactic reduction algorithms, non-initial short vowel deletions, liquid consonant assimilations (l/r coalescence), and clitic contractions occurring in natural educated and street Khalkha speech above 160 wpm.",
+    "communicativeOutcome": "Decode and execute natural Khalkha phonetic reductions systematically without sounding stilted or foreign.",
+    "objectivesIntroduced": [
+      "obj_c2_229_01_master_khalkha_phonotactics"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_228_06_master_c1_operational_proficiency"
+    ],
+    "objectivesReviewed": [
+      "obj_c1_218_01_master_register_switching"
+    ],
+    "grammarIntroduced": [
+      "gram_c2_rapid_khalkha_spoken_phonotactics"
+    ],
+    "grammarPracticed": [
+      "gram_c1_register_switching_matrix"
+    ],
+    "grammarReviewed": [
+      "gram_b1_vowel_harmony_long_diphthongs"
+    ],
+    "phonologyIntroduced": [
+      "phon_c2_01_rapid_vowel_syncope_assimilation"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c2_01_rapid_colloquial_banter"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_14_navigating_subtle_social_hierarchies"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "авиа авиалбар",
+      "эгшиг гээгдэх",
+      "нийлмэл авиа",
+      "ярианы хэл"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "rapid colloquial native khalkha",
+    "pragmaticTarget": "phonetic naturalness and conversational fluency",
+    "prerequisiteLessonIds": [
+      "les_c1_228_06_grand_c1_level_culminating_operational_synthesis"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_218_01_register_switching_matrix_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_218_mongolia_s_third_neighbor_foreign_p"
+    ],
+    "reviewReason": "Bridges formal C1 register switching into native-speed C2 colloquial phonotactic reality.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Transcribes 10 spoken utterances containing non-initial short vowel deletions and liquid assimilations into standard Cyrillic without error",
+      "Demonstrates productive execution of fast speech sandhi ('яачихсан юм' -> [яаццым], 'мэдэхгүй' -> [мэкүй]) in unscripted simulation"
+    ],
+    "masteryEvidence": "Phonetically analyzes and reconstructs 8 heavily elided colloquial sentences at native conversational speed.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_229_02_unedited_street_dialogue_transcripts_reading",
+    "unitId": "unit_c2_229_rapid_khalkha_spoken_phonotactics_r",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 2,
+    "title": "Sociolinguistic Reading: Verbatim Transcripts of Ulaanbaatar Youth Vernacular & Slang",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an 840-word unedited ethnographic transcript of multi-party banter among university students and market traders in Ulaanbaatar, decoding heavy phonetic contractions, coded in-group youth slang, and elliptical clauses.",
+    "communicativeOutcome": "Deconstruct authentic, non-standardized Mongolian orthographic transcripts representing raw conversational Khalkha without literary smoothing.",
+    "objectivesIntroduced": [
+      "obj_c2_229_02_parse_verbatim_slang_transcripts"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_229_01_master_khalkha_phonotactics"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_rapid_khalkha_spoken_phonotactics"
+    ],
+    "grammarReviewed": [
+      "gram_c1_register_switching_matrix"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_01_rapid_vowel_syncope_assimilation"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_01_rapid_colloquial_banter"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_14_navigating_subtle_social_hierarchies"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "этгээд үг хэллэг",
+      "хар яриа",
+      "залуусын хэллэг",
+      "утгын хувирал"
+    ],
+    "readingObjective": "Critique verbatim conversational transcripts containing heavy phonetic reductions and modern slang.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "contemporary urban youth slang",
+    "pragmaticTarget": "in-group social solidarity decoding",
+    "prerequisiteLessonIds": [
+      "les_c2_229_01_khalkha_phonotactics_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_226_01_diplomatic_speech_transcription_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_226_consecutive_interpreting_support_re"
+    ],
+    "reviewReason": "Contrasts diplomatic formal transcription with raw colloquial street vernacular parsing.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Translates 15 youth slang idioms and elisions into standard literary Mongolian without losing emotional nuance",
+      "Explains the social dynamics and peer solidarity signals encoded in non-standard vowel truncations"
+    ],
+    "masteryEvidence": "Produces an analytical sociolinguistic gloss of the 840-word verbatim transcript.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_229_03_rush_hour_traffic_quarrel_listening",
+    "unitId": "unit_c2_229_rapid_khalkha_spoken_phonotactics_r",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Multi-Party Dispute at Ulaanbaatar Intersection at 180 wpm",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute unedited recording of a spontaneous verbal confrontation between drivers and a traffic police officer during peak Ulaanbaatar gridlock, spoken at 170-195 wpm with ambient traffic noise, severe vowel truncations, and heated emotional inflections.",
+    "communicativeOutcome": "Process native Khalkha speech under acoustic stress and emotional agitation, tracking rapid claims, defensive retorts, and informal bargaining.",
+    "objectivesIntroduced": [
+      "obj_c2_229_03_comprehend_fast_spontaneous_quarrels"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_229_01_master_khalkha_phonotactics"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_rapid_khalkha_spoken_phonotactics"
+    ],
+    "grammarReviewed": [
+      "gram_c1_register_switching_matrix"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_01_rapid_vowel_syncope_assimilation"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_01_rapid_colloquial_banter"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "замын хөдөлгөөн",
+      "маргаан",
+      "жолооч",
+      "бухимдал",
+      "цагдаа"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher high-speed emotional Khalkha speech overlaid with city background noise, extracting factual disputes and interpersonal posturing.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "spontaneous confrontational street colloquial",
+    "pragmaticTarget": "conflict escalation and de-escalation tracking",
+    "prerequisiteLessonIds": [
+      "les_c2_229_02_unedited_street_dialogue_transcripts_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_228_02_grand_capstone_national_security_council_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_228_c1_operational_proficiency_capstone"
+    ],
+    "reviewReason": "Transitions from high-statecraft executive multi-speaker listening to raw street-level acoustic complexity.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic field audio of rapid heated urban exchange with real background honking and native acoustic elisions.",
+    "successCriteria": [
+      "Transcribes the central legal grievance of both parties despite speech rate exceeding 175 wpm",
+      "Identifies the exact verbal turn where tone shifts from aggressive confrontation to negotiated settlement"
+    ],
+    "masteryEvidence": "Produces a forensic auditory transcript and situational analysis of the multi-party street dispute.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "stance_identification"
+    ]
+  },
+  {
+    "lessonId": "les_c2_229_04_dialogue_adaptation_screenplay_writing",
+    "unitId": "unit_c2_229_rapid_khalkha_spoken_phonotactics_r",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 4,
+    "title": "Creative Writing: Authoring Realistic Contemporary Cinematic Screenplay Dialogue",
+    "lessonType": "writing",
+    "primaryPurpose": "Author an 750-word cinematic screenplay scene featuring natural Khalkha dialogue between contrasting social archetypes (a cynical tech entrepreneur, an elderly traditionalist, and a savvy taxi driver), capturing genuine spoken cadence, incomplete thoughts, and natural contractions.",
+    "communicativeOutcome": "Produce hyper-realistic dramatic dialogue in Mongolian that sounds organic and rhythmically authentic when read aloud by native actors.",
+    "objectivesIntroduced": [
+      "obj_c2_229_04_author_authentic_dramatic_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_229_01_master_khalkha_phonotactics"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_rapid_khalkha_spoken_phonotactics"
+    ],
+    "grammarReviewed": [
+      "gram_c1_register_switching_matrix"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_01_rapid_vowel_syncope_assimilation"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_01_rapid_colloquial_banter"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_10_rhetorical_speechwriting"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "кино зохиол",
+      "харилцан яриа",
+      "дүр бүтээх",
+      "бодит амьдрал"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft screenplay dialogue integrating natural phonotactic contractions ('юу гэнэ ээ' -> 'юунэ', 'хүрээд ир' -> 'хүрээдрээ') without becoming unintelligible.",
+    "spokenProductionObjective": "",
+    "registerTarget": "contemporary dramatic screenwriting",
+    "pragmaticTarget": "character voice differentiation and verisimilitude",
+    "prerequisiteLessonIds": [
+      "les_c2_229_03_rush_hour_traffic_quarrel_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_224_05_philosophical_essay_nomadic_civilization_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_224_classical_converb_relics_suffixes_"
+    ],
+    "reviewReason": "Contrasts elevated classical essay writing with hyper-realistic contemporary screen dialogue.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Differentiates the generational and social backgrounds of all three characters through lexical choice and contraction frequency",
+      "Maintains organic dramatic pacing with realistic interruptions, subtext, and non-verbal beats"
+    ],
+    "masteryEvidence": "Submits a compliant 750-word screenplay dialogue scene ready for table-read by native theatrical actors.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c2_229_05_spontaneous_rapid_podcast_banter_spoken",
+    "unitId": "unit_c2_229_rapid_khalkha_spoken_phonotactics_r",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 5,
+    "title": "Colloquial Speaking: Spontaneous Rapid Banter on an Unscripted Cultural Podcast",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Participate in an unscripted 4.5-minute fast-paced simulated podcast dialogue with two native co-hosts, reacting spontaneously to sudden topic pivots, bantering with native phonotactics, and interrupting naturally without awkward pauses.",
+    "communicativeOutcome": "Demonstrate effortless, native-like conversational velocity (160+ wpm), deploying reductions, laughter tokens, and witty quips in real time.",
+    "objectivesIntroduced": [
+      "obj_c2_229_05_perform_rapid_podcast_banter"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_229_01_master_khalkha_phonotactics"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_rapid_khalkha_spoken_phonotactics"
+    ],
+    "grammarReviewed": [
+      "gram_c1_register_switching_matrix"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_01_rapid_vowel_syncope_assimilation"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_01_rapid_colloquial_banter"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_14_navigating_subtle_social_hierarchies"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "подкаст",
+      "чөлөөт яриа",
+      "давхар ярих",
+      "хурдан хэмнэл"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Execute spontaneous spoken banter at 160+ wpm with native-tier phonological flow, seamless interjections, and natural laughter modulation.",
+    "registerTarget": "educated contemporary podcast colloquial",
+    "pragmaticTarget": "social chemistry and spontaneous conversational wit",
+    "prerequisiteLessonIds": [
+      "les_c2_229_04_dialogue_adaptation_screenplay_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_228_05_grand_capstone_un_general_assembly_oratory_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_228_c1_operational_proficiency_capstone"
+    ],
+    "reviewReason": "Contrasts monumental UN plenary oratory with spontaneous, rapid conversational agility.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of two urban professionals conducting rapid, humorous cultural podcast banter.",
+    "successCriteria": [
+      "Maintains speech tempo above 160 wpm without hesitation, false starts, or foreign phonetic hyper-articulation",
+      "Successfully executes 3 spontaneous conversational overlaps and humorously reframes an unexpected question"
+    ],
+    "masteryEvidence": "Delivers an unscripted 4.5-minute podcast colloquy exhibiting impeccable native-tier conversational cadence.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c2_230_01_conversational_repair_syntax_intro",
+    "unitId": "unit_c2_230_conversational_repair_turn_taking_p",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosyntax: Conversational Repair, Hesitation Particles & Pragmatic Turn-Holding Devices",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the syntactic structures and pragmatic mechanics of conversational self-repair (юу билээ, аль вэ, үгүй ээ тэр чинь), turn-holding filler particles (нөгөө юу л даа, ер нь болбол), and subtle concession tokens in natural Khalkha interactions.",
+    "communicativeOutcome": "Manage floor control, repair speech errors instantaneously, and hold conversational turns naturally without creating awkward communicative silences.",
+    "objectivesIntroduced": [
+      "obj_c2_230_01_master_conversational_repair"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_229_01_master_khalkha_phonotactics"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [
+      "gram_c2_conversational_repair_and_discourse_particles"
+    ],
+    "grammarPracticed": [
+      "gram_c2_rapid_khalkha_spoken_phonotactics"
+    ],
+    "grammarReviewed": [
+      "gram_b2_pragmatic_emphatic_stance_particles"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c2_02_conversational_repair_turn_taking"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_c2_01_rapid_colloquial_banter"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "ярианы ээлж",
+      "алдаа засах",
+      "сул үг",
+      "яриа таслахгүй байх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "conversational pragmatic management",
+    "pragmaticTarget": "floor control and seamless self-repair",
+    "prerequisiteLessonIds": [
+      "les_c2_229_05_spontaneous_rapid_podcast_banter_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_229_01_khalkha_phonotactics_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_229_rapid_khalkha_spoken_phonotactics_r"
+    ],
+    "reviewReason": "Integrates phonotactic reductions into interactive conversational turn-taking and repair.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Deploys 5 varied Mongolian repair devices ('юу билээ', 'тийм биш ээ юу гэдэг билээ') during complex spontaneous speech retrieval",
+      "Holds the conversational floor effectively against interruption attempts using native discourse elongation particles"
+    ],
+    "masteryEvidence": "Successfully executes 6 seamless conversational repairs in an impromptu argumentative simulation.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_230_02_conversational_analysis_transcripts_reading",
+    "unitId": "unit_c2_230_conversational_repair_turn_taking_p",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 2,
+    "title": "Discourse Reading: Conversation Analysis of Disagreement in Live Radio Call-In Shows",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an 830-word annotated Conversation Analysis (CA) transcript of a contentious live radio phone-in show, analyzing micro-pauses (0.2s–0.8s), latching, overlap management, and polite pre-disagreement tokens ('Тийм л дээ, гэхдээ...').",
+    "communicativeOutcome": "Deconstruct micro-level interactional architecture in spoken Mongolian, recognizing how power, entitlement, and deference are negotiated turn-by-turn.",
+    "objectivesIntroduced": [
+      "obj_c2_230_02_parse_ca_transcripts"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_230_01_master_conversational_repair"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_conversational_repair_and_discourse_particles"
+    ],
+    "grammarReviewed": [
+      "gram_c2_rapid_khalkha_spoken_phonotactics"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_02_conversational_repair_turn_taking"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_14_navigating_subtle_social_hierarchies"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "харилцан ярианы шинжилгээ",
+      "давхардалт",
+      "түр завсарлага",
+      "санал зөрөлдөөн"
+    ],
+    "readingObjective": "Analyze Jefferson-transcribed live radio debates evaluating turn-taking timing, floor-stealing strategies, and repair sequences.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "live broadcast conversation analysis",
+    "pragmaticTarget": "interactional micro-structure deconstruction",
+    "prerequisiteLessonIds": [
+      "les_c2_230_01_conversational_repair_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_229_02_unedited_street_dialogue_transcripts_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_229_rapid_khalkha_spoken_phonotactics_r"
+    ],
+    "reviewReason": "Extends informal street transcript reading into rigorous conversation analysis of live media broadcasts.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies 4 distinct pre-disagreement markers and explains their role in mitigating face threat",
+      "Maps the turn-transition relevance places (TRPs) where the host reclaims control from an agitated caller"
+    ],
+    "masteryEvidence": "Constructs a technical interactional commentary on an 830-word multi-speaker transcript.",
+    "recommendedExerciseModalities": [
+      "argument_mapping",
+      "source_comparison"
+    ]
+  },
+  {
+    "lessonId": "les_c2_230_03_talk_show_cross_talk_listening",
+    "unitId": "unit_c2_230_conversational_repair_turn_taking_p",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Television Talk Show Panel Cross-Talk & Interruption Duels",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute unedited excerpt of a high-energy television talk show panel where three guests talk over each other at 170 wpm, deploying competitive overlaps, volume elevation, and pragmatic repair formulas to win the floor.",
+    "communicativeOutcome": "Process overlapping acoustic streams simultaneously, identifying who yields the floor, who dominates, and how conversational face is preserved.",
+    "objectivesIntroduced": [
+      "obj_c2_230_03_comprehend_overlapping_cross_talk"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_230_01_master_conversational_repair"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_conversational_repair_and_discourse_particles"
+    ],
+    "grammarReviewed": [
+      "gram_c2_rapid_khalkha_spoken_phonotactics"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_02_conversational_repair_turn_taking"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_14_navigating_subtle_social_hierarchies"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "нэвтрүүлэг",
+      "хөтлөгч",
+      "үг булаалдах",
+      "уулга алдах",
+      "хүндэтгэл"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher dense overlapping cross-talk where speakers battle for speaking turns using subtle intonation shifts and repair tokens.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "televised debate cross-talk",
+    "pragmaticTarget": "competitive turn-taking and floor reclamation",
+    "prerequisiteLessonIds": [
+      "les_c2_230_02_conversational_analysis_transcripts_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_229_03_rush_hour_traffic_quarrel_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_229_rapid_khalkha_spoken_phonotactics_r"
+    ],
+    "reviewReason": "Bridges street quarrel listening into televised high-stakes panel cross-talk processing.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic broadcast recording with simultaneous multi-speaker overlaps and complex turn-taking dynamics.",
+    "successCriteria": [
+      "Transcribes the overlapping speech segments of both competing speakers with accurate temporal alignment",
+      "Identifies the specific pragmatic device used by the host to restore order without appearing heavy-handed"
+    ],
+    "masteryEvidence": "Produces an acoustic overlap transcript and turn-taking audit of the panel discussion.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_230_04_moderators_crisis_script_writing",
+    "unitId": "unit_c2_230_conversational_repair_turn_taking_p",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 4,
+    "title": "Discourse Writing: Designing a Moderator's Intervention Protocol for Hostile Panels",
+    "lessonType": "writing",
+    "primaryPurpose": "Author an 780-word Master Moderator's Live Intervention Guide codifying linguistic scripts for defusing vitriolic interruptions, managing aggressive filibustering, and redirecting dialogue using polished Mongolian discourse particles.",
+    "communicativeOutcome": "Produce sophisticated meta-pragmatic intervention frameworks in Mongolian, setting authoritative standards for live broadcast media moderation.",
+    "objectivesIntroduced": [
+      "obj_c2_230_04_author_moderation_protocols"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_230_01_master_conversational_repair"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_conversational_repair_and_discourse_particles"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_02_conversational_repair_turn_taking"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "зохицуулагч",
+      "хэлэлцүүлэг удирдах",
+      "яриаг чиглүүлэх",
+      "эв зүй"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft a complete moderator's tactical manual specifying exact phrasings for 6 escalating levels of panel disruption.",
+    "spokenProductionObjective": "",
+    "registerTarget": "professional media moderation protocol",
+    "pragmaticTarget": "authoritative communicative de-escalation",
+    "prerequisiteLessonIds": [
+      "les_c2_230_03_talk_show_cross_talk_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_229_04_dialogue_adaptation_screenplay_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_229_rapid_khalkha_spoken_phonotactics_r"
+    ],
+    "reviewReason": "Synthesizes screenplay dialogue mechanics into high-level media moderation protocols.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Formulates nuanced intervention phrases balancing polite Mongolian deference with unyielding editorial authority",
+      "Integrates conversational repair markers into smooth topical transitions under time constraints"
+    ],
+    "masteryEvidence": "Submits a compliant 780-word live moderation protocol adopted by a major television network.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c2_230_05_live_panel_moderation_simulation_spoken",
+    "unitId": "unit_c2_230_conversational_repair_turn_taking_p",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 5,
+    "title": "Interactive Speaking: Live Moderation of a Volatile Political & Cultural Panel",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Moderate an unscripted 4.5-minute heated panel discussion between two feuding guests, managing turn allocations, interrupting politely yet firmly, repairing overlapping chaos, and summarizing consensus in real time.",
+    "communicativeOutcome": "Demonstrate supreme conversational agility as an authoritative moderator, exercising effortless floor control and conversational repair under intense live pressure.",
+    "objectivesIntroduced": [
+      "obj_c2_230_05_moderate_volatile_panels_orally"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_230_01_master_conversational_repair"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_conversational_repair_and_discourse_particles"
+    ],
+    "grammarReviewed": [
+      "gram_c1_register_switching_matrix"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_02_conversational_repair_turn_taking"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_14_navigating_subtle_social_hierarchies"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "үг өгөх",
+      "дүгнэх",
+      "шууд нэвтрүүлэг",
+      "хүндэт зочин",
+      "санал хураалт"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Execute live verbal moderation controlling speaker transitions, defusing aggressive outbursts, and repairing communicative breakdowns flawlessly.",
+    "registerTarget": "live media debate moderator oral",
+    "pragmaticTarget": "firm diplomatic floor arbitration",
+    "prerequisiteLessonIds": [
+      "les_c2_230_04_moderators_crisis_script_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_229_05_spontaneous_rapid_podcast_banter_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_229_rapid_khalkha_spoken_phonotactics_r"
+    ],
+    "reviewReason": "Culminates podcast banter agility into high-stakes live television panel moderation.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of expert moderator orchestrating heated broadcast panel.",
+    "successCriteria": [
+      "Successfully interrupts a filibustering guest within 5 seconds using appropriate pragmatic particles without causing offense",
+      "Executes 2 spontaneous communicative repairs to clarify ambiguous participant claims"
+    ],
+    "masteryEvidence": "Moderates an unscripted 4.5-minute high-conflict panel simulation demonstrating absolute conversational mastery.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c2_231_01_tag_consensus_markers_syntax_intro",
+    "unitId": "unit_c2_231_tag_consensus_markers_",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosyntax: Conversational Tag Consensus Markers (Тэ, Тийм ээ, Биз дээ, Тэгэлгүй яахав)",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the syntactic placement, intonational pitch contours, and epistemic calibration of conversational consensus tags and confirmation markers in spontaneous Khalkha Mongolian.",
+    "communicativeOutcome": "Deploy varied tag consensus particles to seek confirmation, reinforce shared social common ground, and subtly steer interlocutor agreement without overt coercion.",
+    "objectivesIntroduced": [
+      "obj_c2_231_01_master_tag_consensus_markers"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_230_01_master_conversational_repair"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [
+      "gram_c2_conversational_tag_consensus_markers"
+    ],
+    "grammarPracticed": [
+      "gram_c2_conversational_repair_and_discourse_particles"
+    ],
+    "grammarReviewed": [
+      "gram_b2_pragmatic_emphatic_stance_particles"
+    ],
+    "phonologyIntroduced": [
+      "phon_c2_02_tag_intonation_pitch_contours"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c2_01_rapid_colloquial_banter"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_02_conversational_repair_turn_taking"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_07_persuasive_rhetorical_framing"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "санал нийлэх",
+      "лавлах",
+      "асуулт",
+      "харилцан ойлголцол"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "colloquial consensus negotiation",
+    "pragmaticTarget": "interpersonal alignment and consensus elicitations",
+    "prerequisiteLessonIds": [
+      "les_c2_230_05_live_panel_moderation_simulation_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_230_01_conversational_repair_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_230_conversational_repair_turn_taking_p"
+    ],
+    "reviewReason": "Extends conversational repair into subtle tag consensus seeking and interpersonal alignment.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Differentiates the epistemic strength of 5 consensus tags ('биз дээ' vs 'тэ' vs 'тийм ээ' vs 'тэгэлгүй яахав') in varied communicative contexts",
+      "Executes rising vs falling terminal intonation contours to signal genuine inquiry versus assertive presumption of agreement"
+    ],
+    "masteryEvidence": "Constructs and executes 6 subtle consensus-seeking conversational exchanges.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_231_02_consensus_building_negotiations_reading",
+    "unitId": "unit_c2_231_tag_consensus_markers_",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 2,
+    "title": "Sociolinguistic Reading: Informal Consensus-Building in Steppe Community Assemblies",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an 850-word verbatim transcript of a rural Bag assembly (Багийн хурал) where nomadic herders debate seasonal pasture rotation, analyzing how elders use tag consensus markers to forge communal consensus without formal voting.",
+    "communicativeOutcome": "Deconstruct authentic traditional Mongolian decision-making discourse, identifying how linguistic alignment tokens avoid divisive winner-take-all confrontation.",
+    "objectivesIntroduced": [
+      "obj_c2_231_02_parse_communal_consensus_texts"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_231_01_master_tag_consensus_markers"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_conversational_tag_consensus_markers"
+    ],
+    "grammarReviewed": [
+      "gram_c1_register_switching_matrix"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_01_rapid_colloquial_banter"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "багийн иргэдийн хурал",
+      "бэлчээр ашиглалт",
+      "зөвшилцөл",
+      "ахмадын үг"
+    ],
+    "readingObjective": "Analyze rural democratic assembly discourse tracing the progressive shift from conflicting positions to shared consensus.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "traditional rural communal consultative",
+    "pragmaticTarget": "social solidarity and non-coercive consensus building",
+    "prerequisiteLessonIds": [
+      "les_c2_231_01_tag_consensus_markers_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_230_02_conversational_analysis_transcripts_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_230_conversational_repair_turn_taking_p"
+    ],
+    "reviewReason": "Compares urban media debate dynamics with traditional rural consensus-building discourse.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Maps the 4 key stages of consensus formation driven by elder tag interventions",
+      "Explains how tag questions mitigate social friction between rival pastoral families"
+    ],
+    "masteryEvidence": "Produces an ethnographic discourse analysis of the 850-word community assembly transcript.",
+    "recommendedExerciseModalities": [
+      "argument_mapping",
+      "source_comparison"
+    ]
+  },
+  {
+    "lessonId": "les_c2_231_03_informal_bargaining_naran_tuul_listening",
+    "unitId": "unit_c2_231_tag_consensus_markers_",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: High-Velocity Commercial Bargaining at Naran Tuul Market",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute authentic field recording of intense price negotiations between wholesale cashmere traders and seasoned merchants at Ulaanbaatar's Naran Tuul market (175 wpm), analyzing the deployment of tag consensus tokens to establish rapport and close deals.",
+    "communicativeOutcome": "Process high-speed commercial bargaining dialect, tracking how merchants oscillate between feigned indignation and warm consensus solicitation.",
+    "objectivesIntroduced": [
+      "obj_c2_231_03_comprehend_commercial_bargaining_tags"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_231_01_master_tag_consensus_markers"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_conversational_tag_consensus_markers"
+    ],
+    "grammarReviewed": [
+      "gram_c2_rapid_khalkha_spoken_phonotactics"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_02_tag_intonation_pitch_contours"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_01_rapid_colloquial_banter"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "наймаа",
+      "үнэ тохирох",
+      "бөөний худалдаа",
+      "ашиг",
+      "хямдруулах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher fast-paced open-air market bargaining, detecting genuine price resistance versus tactical posturing.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "commercial bazaar bargaining vernacular",
+    "pragmaticTarget": "tactical rapport building and price closure",
+    "prerequisiteLessonIds": [
+      "les_c2_231_02_consensus_building_negotiations_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_229_03_rush_hour_traffic_quarrel_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_229_rapid_khalkha_spoken_phonotactics_r"
+    ],
+    "reviewReason": "Applies rapid phonotactics comprehension to tactical commercial bargaining environments.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic field audio of bustling bazaar market negotiation with background crowd acoustics.",
+    "successCriteria": [
+      "Identifies the precise moment price equilibrium is accepted via the consensus tag 'Тэгье тэгье, болох юм байна'",
+      "Tracks 6 tag question maneuvers used to break bargaining deadlocks"
+    ],
+    "masteryEvidence": "Produces a forensic auditory breakdown and transactional mapping of the market exchange.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "stance_identification"
+    ]
+  },
+  {
+    "lessonId": "les_c2_231_04_coalition_bargaining_memo_writing",
+    "unitId": "unit_c2_231_tag_consensus_markers_",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 4,
+    "title": "Diplomatic Writing: Drafting a Backchannel Coalition Alignment Memorandum",
+    "lessonType": "writing",
+    "primaryPurpose": "Author an 780-word confidential political party backchannel memorandum summarizing fragile coalition alignment discussions, employing subtle consensus-signaling syntax to record mutual commitments without legally binding guarantees.",
+    "communicativeOutcome": "Produce high-level political alignment documents in Mongolian, calibrating the exact degree of informal political consensus achieved between rival parliamentary factions.",
+    "objectivesIntroduced": [
+      "obj_c2_231_04_author_coalition_alignment_memos"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_231_01_master_tag_consensus_markers"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_conversational_tag_consensus_markers"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_01_rapid_colloquial_banter"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "эвслийн засгийн газар",
+      "хөшигний ардах тохиролцоо",
+      "санамж бичиг",
+      "нэгдсэн байр суурь"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft a political backchannel alignment memorandum incorporating nuanced consensus markers ('талууд ерөнхийдөө санал нэгдсэн биз ээ хэмээн үзэж').",
+    "spokenProductionObjective": "",
+    "registerTarget": "confidential political chancellery alignment",
+    "pragmaticTarget": "discreet diplomatic consensus recording",
+    "prerequisiteLessonIds": [
+      "les_c2_231_03_informal_bargaining_naran_tuul_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_225_03_authoring_bilateral_communique_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_225_authoring_diplomatic_and_legal_inst"
+    ],
+    "reviewReason": "Bridges formal bilateral communiqué drafting into confidential internal coalition consensus memos.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Balances explicit agreements with delicate ambiguities using calibrated consensus language",
+      "Adheres strictly to the ethical and stylistic conventions of senior chancellery political dispatches"
+    ],
+    "masteryEvidence": "Submits a 780-word confidential coalition memorandum exhibiting master-tier political tact.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c2_231_05_informal_consensus_steering_spoken",
+    "unitId": "unit_c2_231_tag_consensus_markers_",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 5,
+    "title": "Interactive Speaking: Steering an Unofficial High-Level Corporate Dinner Consensus",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Execute an unscripted 4.5-minute spoken simulation at a formal corporate banquet, steering three skeptical international joint-venture partners toward an informal consensus agreement using nuanced Mongolian tag markers, warm humor, and collaborative framing.",
+    "communicativeOutcome": "Achieve complex business consensus through informal conversational finesse, establishing genuine rapport and voluntary alignment without formal pressure.",
+    "objectivesIntroduced": [
+      "obj_c2_231_05_steer_informal_business_consensus"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_231_01_master_tag_consensus_markers"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_conversational_tag_consensus_markers"
+    ],
+    "grammarReviewed": [
+      "gram_c1_register_switching_matrix"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_02_tag_intonation_pitch_contours"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_01_rapid_colloquial_banter"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_14_navigating_subtle_social_hierarchies"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "хөрөнгө оруулалт",
+      "оройн зоог",
+      "итгэлцэл",
+      "хамтын ажиллагаа",
+      "шийдэл"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Deploy consensus tags ('биз дээ', 'тийм ээ', 'тэгэлгүй яахав') with natural prosody to lead senior executives to enthusiastic mutual agreement.",
+    "registerTarget": "executive banquet consultative oral",
+    "pragmaticTarget": "informal executive consensus orchestration",
+    "prerequisiteLessonIds": [
+      "les_c2_231_04_coalition_bargaining_memo_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_230_05_live_panel_moderation_simulation_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_230_conversational_repair_turn_taking_p"
+    ],
+    "reviewReason": "Synthesizes live panel floor control into subtle, hospitable corporate dinner negotiation.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of bilingual corporate leader guiding dinner dialogue to unanimous agreement.",
+    "successCriteria": [
+      "Secures verbal agreement from two resistant partners using non-coercive consensus formulations",
+      "Maintains unbroken social warmth, humor, and appropriate Mongolian host hospitality throughout"
+    ],
+    "masteryEvidence": "Delivers an unscripted 4.5-minute dinner consensus negotiation demonstrating peerless diplomatic charm.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c2_232_01_pragmatic_irony_syntax_intro",
+    "unitId": "unit_c2_232_pragmatic_irony_sarcasm_understatem",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosyntax: Pragmatic Irony, Deadpan Sarcasm & Steppe Understatement Formulae",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the syntactic configurations, rhetorical inversion particles (ч дээ, гэнэ ээ, нээрээ юу), and deadpan prosodic markers utilized in sophisticated Khalkha irony, indirect criticism, and nomadic self-deprecating understatement.",
+    "communicativeOutcome": "Identify, deconstruct, and produce subtle pragmatic irony and culturally resonant sarcasm in Mongolian without sounding overtly crude or aggressive.",
+    "objectivesIntroduced": [
+      "obj_c2_232_01_master_pragmatic_irony"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_231_01_master_tag_consensus_markers"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [
+      "gram_c2_pragmatic_irony_and_understatement"
+    ],
+    "grammarPracticed": [
+      "gram_c2_conversational_tag_consensus_markers"
+    ],
+    "grammarReviewed": [
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "phonologyIntroduced": [
+      "phon_c2_03_ironic_intonation_deadpan_prosody"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c2_03_humor_sarcasm_irony"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_01_rapid_colloquial_banter"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_14_navigating_subtle_social_hierarchies"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "егөөдөл",
+      "егөө",
+      "далд утга",
+      "ёжлол",
+      "битүү үг"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "pragmatic irony and satirical nuance",
+    "pragmaticTarget": "covert criticism and playful understatement",
+    "prerequisiteLessonIds": [
+      "les_c2_231_05_informal_consensus_steering_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_210_01_journalistic_evidential_distancing_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_210_journalistic_investigation_and_ev"
+    ],
+    "reviewReason": "Evolves journalistic evidential distancing into creative literary and pragmatic irony.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies ironic intent across 8 deceptively positive evaluative sentences in Mongolian",
+      "Formulates 4 deadpan understatements regarding severe hardship conforming to nomadic steppe stoicism"
+    ],
+    "masteryEvidence": "Constructs and deconstructs 6 multi-layered ironic statements with accurate pragmatic glossing.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_232_02_satirical_feuilletons_reading",
+    "unitId": "unit_c2_232_pragmatic_irony_sarcasm_understatem",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 2,
+    "title": "Literary Reading: Modern Satirical Feuilletons & Political Allegories (Хошин өгүүллэг)",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an 860-word celebrated modern satirical feuilleton satirizing bureaucratic absurdity in Ulaanbaatar municipal administration, analyzing how the author employs double-voiced discourse, mock-heroic praise, and veiled institutional ridicule.",
+    "communicativeOutcome": "Interpret high-tier satirical literature in Mongolian, extracting implied social critiques that bypass explicit censorship or libel.",
+    "objectivesIntroduced": [
+      "obj_c2_232_02_parse_satirical_feuilletons"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_232_01_master_pragmatic_irony"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_pragmatic_irony_and_understatement"
+    ],
+    "grammarReviewed": [
+      "gram_c1_journalistic_evidential_distancing"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_03_humor_sarcasm_irony"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_08_media_critique_and_discourse_analysis"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "шог зохиол",
+      "товч өгүүллэг",
+      "хүнд суртал",
+      "ёжлох",
+      "инээдэм"
+    ],
+    "readingObjective": "Critique complex satirical essays recognizing mock-deference and structural irony aimed at state inefficiency.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "modern literary satirical prose",
+    "pragmaticTarget": "subversive institutional parody",
+    "prerequisiteLessonIds": [
+      "les_c2_232_01_pragmatic_irony_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_231_02_consensus_building_negotiations_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_231_tag_consensus_markers_"
+    ],
+    "reviewReason": "Contrasts earnest rural consensus-building discourse with biting urban bureaucratic satire.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Exposes 5 instances where literal praise masks severe authorial condemnation",
+      "Explains the cultural mechanics of Mongolian allegorical humor in evading bureaucratic reprisal"
+    ],
+    "masteryEvidence": "Produces an 860-word literary and ideological critique of the satirical feuilleton.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_232_03_stand_up_comedy_steppe_satire_listening",
+    "unitId": "unit_c2_232_pragmatic_irony_sarcasm_understatem",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Contemporary Mongolian Stand-Up Comedy & Deadpan Steppe Satire",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute live stand-up comedy set performed at an Ulaanbaatar comedy club (170 wpm), deconstructing timing beats, punchline inversions, audience laugh triggers, and deadpan observations on modern Mongolian dating and housing struggles.",
+    "communicativeOutcome": "Process contemporary native comedic timing and cultural humor in real time, laughing at culturally specific punchlines without needing external explanation.",
+    "objectivesIntroduced": [
+      "obj_c2_232_03_comprehend_standup_comedy_irony"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_232_01_master_pragmatic_irony"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_pragmatic_irony_and_understatement"
+    ],
+    "grammarReviewed": [
+      "gram_c2_rapid_khalkha_spoken_phonotactics"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_03_ironic_intonation_deadpan_prosody"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_03_humor_sarcasm_irony"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c2_01_rapid_colloquial_banter"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "хошин шог",
+      "инээдмийн клуб",
+      "давс хужир хийх",
+      "хошигнол"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher fast-paced comedic monologues, identifying setup, misdirection, and culturally nuanced punchlines.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "live contemporary stand-up comedy vernacular",
+    "pragmaticTarget": "shared cultural incongruity and subversive humor",
+    "prerequisiteLessonIds": [
+      "les_c2_232_02_satirical_feuilletons_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_231_03_informal_bargaining_naran_tuul_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_231_tag_consensus_markers_"
+    ],
+    "reviewReason": "Shifts acoustic processing from commercial bargaining to live stand-up comedic performance.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic live comedy club recording with live audience laughter, stage acoustics, and deadpan timing.",
+    "successCriteria": [
+      "Identifies 4 cultural premises required to comprehend the central joke set",
+      "Explains how the comedian uses deadpan vocal flatlining to amplify satirical absurdity"
+    ],
+    "masteryEvidence": "Produces an auditory and comedic mechanics breakdown of the 4.5-minute stand-up routine.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_232_04_satirical_op_ed_column_writing",
+    "unitId": "unit_c2_232_pragmatic_irony_sarcasm_understatem",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 4,
+    "title": "Journalistic Writing: Authoring a Biting Satirical Opinion Column (Ёгт нийтлэл)",
+    "lessonType": "writing",
+    "primaryPurpose": "Author an 800-word satirical opinion column for a prominent Mongolian daily newspaper critique, employing Swiftian modest-proposal irony to critique extravagant political campaign promises and public gullibility.",
+    "communicativeOutcome": "Produce high-literary satirical journalism in Mongolian that balances devastating irony, linguistic sophistication, and intellectual entertainment.",
+    "objectivesIntroduced": [
+      "obj_c2_232_04_author_satirical_op_eds"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_232_01_master_pragmatic_irony"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_pragmatic_irony_and_understatement"
+    ],
+    "grammarReviewed": [
+      "gram_c1_journalistic_evidential_distancing"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_03_humor_sarcasm_irony"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_08_media_critique_and_discourse_analysis"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "нийтлэл",
+      "егөөт үг",
+      "сонгуулийн амлалт",
+      "ёжтой дүгнэлт"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Compose an 800-word satirical column maintaining unwavering mock-serious tone from headline to conclusion.",
+    "spokenProductionObjective": "",
+    "registerTarget": "literary journalistic satirical polemic",
+    "pragmaticTarget": "devastating indirect political satire",
+    "prerequisiteLessonIds": [
+      "les_c2_232_03_stand_up_comedy_steppe_satire_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_231_04_coalition_bargaining_memo_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_231_tag_consensus_markers_"
+    ],
+    "reviewReason": "Contrasts confidential political alignment drafting with public satirical column authorship.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Maintains unbroken ironic posture without breaking character into explicit editorializing",
+      "Deploys 4 master-tier Mongolian understatement formulations that intensify comedic ridicule"
+    ],
+    "masteryEvidence": "Submits an 800-word satirical column suitable for front-page publication in a national broadsheet.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c2_232_05_witty_repartee_social_roast_spoken",
+    "unitId": "unit_c2_232_pragmatic_irony_sarcasm_understatem",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 5,
+    "title": "Humorous Speaking: Witty Repartee & Playful Social Teasing Among Cultured Peers",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Engage in an unscripted 4.5-minute verbal sparring colloquy with cultured native Mongolian intellectuals, exchanging lightning-fast witty retorts, affectionate social teasing (явуулах), and deadpan steppe ironies without crossing into malice.",
+    "communicativeOutcome": "Demonstrate the pinnacle of informal social charm, wit, and linguistic playfulness in spoken Mongolian, participating as an effortless equal in elite native bantering circles.",
+    "objectivesIntroduced": [
+      "obj_c2_232_05_execute_witty_repartee"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_232_01_master_pragmatic_irony"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_pragmatic_irony_and_understatement"
+    ],
+    "grammarReviewed": [
+      "gram_c2_conversational_repair_and_discourse_particles"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_03_ironic_intonation_deadpan_prosody"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_03_humor_sarcasm_irony"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c2_01_rapid_colloquial_banter"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "үг хаях",
+      "явуулах",
+      "наргих",
+      "хурц ухаан",
+      "өгөө аваатай ярих"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Execute spontaneous witty repartee deploying deadpan understatement, rapid humorous reframing, and cultural inside jokes.",
+    "registerTarget": "cultivated salon conversational wit",
+    "pragmaticTarget": "affectionate social bonding through intellectual humor",
+    "prerequisiteLessonIds": [
+      "les_c2_232_04_satirical_op_ed_column_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_231_05_informal_consensus_steering_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_231_tag_consensus_markers_"
+    ],
+    "reviewReason": "Elevates consensus dinner dialogue into scintillating, cultured intellectual repartee.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of educated Mongolian peers engaging in lightning-fast, affectionate humorous sparring.",
+    "successCriteria": [
+      "Returns 3 spontaneous humorous retorts within 2 seconds of a peer's teasing remark",
+      "Maintains impeccable tone calibration ensuring playful camaraderie without social embarrassment"
+    ],
+    "masteryEvidence": "Delivers an unscripted 4.5-minute banter session demonstrating consummate mastery of Mongolian wit.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c2_233_01_somatic_steppe_metaphors_syntax_intro",
+    "unitId": "unit_c2_233_somatic_steppe_metaphors_liver_gall",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosemantics: Traditional Somatic Metaphors of the Nomadic Mind (Элэг, Цөс, Зүрх, Уушги)",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the cognitive semantics, syntactic lexicalization patterns, and visceral metaphorical conceptualization of human emotion and character in nomadic Mongolian grounded in internal organs (элэг нэгтэн, элэг өвдөх, цөс хөөрөх, хар элэгтэй, уушги сагсайх).",
+    "communicativeOutcome": "Deconstruct and deploy deep somatic steppe metaphors naturally, thinking and expressing profound emotional states through traditional Mongolian embodied cognition.",
+    "objectivesIntroduced": [
+      "obj_c2_233_01_master_somatic_steppe_metaphors"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_232_01_master_pragmatic_irony"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [
+      "gram_c2_somatic_idiomatic_metaphors"
+    ],
+    "grammarPracticed": [
+      "gram_c2_pragmatic_irony_and_understatement"
+    ],
+    "grammarReviewed": [
+      "gram_c1_honorific_nouns_and_somatic_terms"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c2_04_somatic_steppe_idioms"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_03_humor_sarcasm_irony"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_12_reverential_and_honorific_oratory"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 8,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "элэг",
+      "цөс",
+      "зүрх",
+      "дотор сэтгэл",
+      "зан чанар"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "traditional somatic idiomatic cognition",
+    "pragmaticTarget": "visceral emotional resonance and kinship solidarity",
+    "prerequisiteLessonIds": [
+      "les_c2_232_05_witty_repartee_social_roast_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_221_01_honorific_nouns_somatic_terms_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_221_honorific_nouns_somatic_terms_mu"
+    ],
+    "reviewReason": "Contrasts formal honorific somatic nouns with internal visceral nomadic somatic metaphors.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Correctly explains the distinct psychological states encoded in 'элэг хатах' vs 'элэг эмтрэх' vs 'цөс хөөрөх'",
+      "Deploys 6 somatic idioms in natural conversational contexts expressing profound empathy or fierce defiance"
+    ],
+    "masteryEvidence": "Produces a semantic and cognitive mapping of 12 traditional somatic idioms with original illustrative discourse.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_233_02_steppe_tragedy_literature_reading",
+    "unitId": "unit_c2_233_somatic_steppe_metaphors_liver_gall",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 2,
+    "title": "Literary Reading: Nomadic Kinship, Betrayal & Grief in Classic 20th Century Steppe Novellas",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an 880-word excerpt from a masterpiece Mongolian novella (e.g., S. Erdene or B. Rinchen) depicting wartime separation and ancestral tragedy, analyzing the dense integration of liver-centric kinship metaphors and sorrowful somatic expressions.",
+    "communicativeOutcome": "Read and emotionally resonate with the highest register of Mongolian literary tragic prose, interpreting somatic expressions without foreign cultural interference.",
+    "objectivesIntroduced": [
+      "obj_c2_233_02_parse_somatic_literary_novellas"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_233_01_master_somatic_steppe_metaphors"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_somatic_idiomatic_metaphors"
+    ],
+    "grammarReviewed": [
+      "gram_c1_classical_participle_khui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_04_somatic_steppe_idioms"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "тууж",
+      "элэг эмтрэх",
+      "хагацал",
+      "өр нимгэн",
+      "цусан төрөл"
+    ],
+    "readingObjective": "Analyze classic steppe literature deconstructing how somatic organ imagery conveys unspeakable psychological grief.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "classical 20th-century steppe literary prose",
+    "pragmaticTarget": "profound cultural pathos and kinship empathy",
+    "prerequisiteLessonIds": [
+      "les_c2_233_01_somatic_steppe_metaphors_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_232_02_satirical_feuilletons_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_232_pragmatic_irony_sarcasm_understatem"
+    ],
+    "reviewReason": "Transitions from urban satirical comedy to classic steppe tragic pathos and somatic imagery.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Interprets the visceral symbolism of liver and blood bonds in motivating the protagonist's sacrifice",
+      "Explains how steppe somatic metaphors bridge physical biology with cosmic ancestral loyalty"
+    ],
+    "masteryEvidence": "Produces an in-depth 880-word literary commentary on somatic metaphorics in Mongolian tragic fiction.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_233_03_traditional_epic_rhapsodist_listening",
+    "unitId": "unit_c2_233_somatic_steppe_metaphors_liver_gall",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Traditional Epic Bard (Tuulch) Chanting Visceral Battle Passages",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute authentic archival recording of a master western Mongolian epic bard (*туулч*) performing a heroic clash accompanied by the morin khuur, chanting at 165 wpm with guttural vocalizations and visceral somatic combat metaphors (цөс нь буцлах, элэг бөөрийг нь таслах).",
+    "communicativeOutcome": "Process oral epic Mongolian poetry delivered with traditional bardic prosody, tracking mythic combat descriptions and somatic martial bravery.",
+    "objectivesIntroduced": [
+      "obj_c2_233_03_comprehend_bardic_somatic_chants"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_233_01_master_somatic_steppe_metaphors"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_somatic_idiomatic_metaphors"
+    ],
+    "grammarReviewed": [
+      "gram_c1_classical_converbs_vaas_khuits"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_04_somatic_steppe_idioms"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_12_reverential_and_honorific_oratory"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "туульч",
+      "морин хуур",
+      "баатар",
+      "тулаан",
+      "цөс ихт"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher traditional oral epic rhapsody, extracting martial deeds, somatic metaphors of rage, and mythic invocations.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "archaic oral heroic epic bardic chanting",
+    "pragmaticTarget": "mythic warrior bravado and martial inspiration",
+    "prerequisiteLessonIds": [
+      "les_c2_233_02_steppe_tragedy_literature_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_232_03_stand_up_comedy_steppe_satire_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_232_pragmatic_irony_sarcasm_understatem"
+    ],
+    "reviewReason": "Contrasts modern stand-up comedy acoustic rhythms with ancient epic bardic performance cadence.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic field recording of master bard performing live heroic epic with morin khuur accompaniment.",
+    "successCriteria": [
+      "Transcribes 8 lines of alliterative epic verse delivered in traditional overtone recitation",
+      "Decodes 4 archaic somatic idioms depicting indomitable martial courage and warrior wrath"
+    ],
+    "masteryEvidence": "Produces an acoustic and poetic transcription of the bardic battle rhapsody.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_233_04_literary_memoir_steppe_solitude_writing",
+    "unitId": "unit_c2_233_somatic_steppe_metaphors_liver_gall",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 4,
+    "title": "Literary Writing: Authoring an Evocative Steppe Memoir on Kinship & Ancestral Longing",
+    "lessonType": "writing",
+    "primaryPurpose": "Author an 820-word literary memoir chapter reflecting on returning to ancestral nomadic pasturelands, weaving rich somatic metaphors of kinship (*элэг зүрхний уяа*), ancestral landscape connection, and philosophical contemplation.",
+    "communicativeOutcome": "Produce deeply evocative, emotionally resonant literary prose in Mongolian that embodies authentic pastoral sensibilities and somatic metaphors.",
+    "objectivesIntroduced": [
+      "obj_c2_233_04_author_somatic_steppe_memoirs"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_233_01_master_somatic_steppe_metaphors"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_somatic_idiomatic_metaphors"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_04_somatic_steppe_idioms"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "дурсамж",
+      "нутаг амь",
+      "өвөг дээдэс",
+      "элэг бөөр",
+      "сэтгэлийн утсыг хөндөх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft a master-tier literary memoir chapter seamlessly integrating 6 traditional somatic idioms without clichéd repetition.",
+    "spokenProductionObjective": "",
+    "registerTarget": "high-literary contemplative memoir",
+    "pragmaticTarget": "evocative emotional resonance and ancestral reverence",
+    "prerequisiteLessonIds": [
+      "les_c2_233_03_traditional_epic_rhapsodist_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_232_04_satirical_op_ed_column_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_232_pragmatic_irony_sarcasm_understatem"
+    ],
+    "reviewReason": "Shifts authorial focus from sharp satirical journalism to poetic, introspective steppe memoir writing.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Evokes deep emotional melancholy and steppe grandeur through sophisticated rhythmic prose phrasing",
+      "Synthesizes personal narrative with communal ancestral memory using authentic somatic idioms"
+    ],
+    "masteryEvidence": "Submits an 820-word literary memoir chapter evaluated at published author tier by native critics.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c2_233_05_ancestral_eulogy_elegy_spoken",
+    "unitId": "unit_c2_233_somatic_steppe_metaphors_liver_gall",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 5,
+    "title": "Solemn Speaking: Delivering a Profound Ancestral Memorial Eulogy (Эмгэнэлийн үг)",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 4.5-minute formal memorial eulogy honoring a revered community elder and master herder, weaving somatic expressions of profound communal sorrow (*элэг өвдөн гашуудах*), stoic pastoral fortitude, and eternal memory.",
+    "communicativeOutcome": "Command the solemn ceremonial register of Mongolian mourning and ancestral tribute, moving an assembly of grieving elders with deeply dignified, culturally pitch-perfect eloquence.",
+    "objectivesIntroduced": [
+      "obj_c2_233_05_deliver_solemn_ancestral_eulogies"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_233_01_master_somatic_steppe_metaphors"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_somatic_idiomatic_metaphors"
+    ],
+    "grammarReviewed": [
+      "gram_c1_honorific_lexical_verbs"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_04_somatic_steppe_idioms"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_12_reverential_and_honorific_oratory"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "эмгэнэл",
+      "гашуудал",
+      "хүндэтгэл",
+      "мөнх бус",
+      "дурсгал"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Execute an impassioned yet solemn eulogy uniting solemn cadence, honorific elevation, and visceral somatic kinship metaphors.",
+    "registerTarget": "solemn traditional memorial eulogy oral",
+    "pragmaticTarget": "profound communal grief consolidation and elder tribute",
+    "prerequisiteLessonIds": [
+      "les_c2_233_04_literary_memoir_steppe_solitude_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_232_05_witty_repartee_social_roast_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_232_pragmatic_irony_sarcasm_understatem"
+    ],
+    "reviewReason": "Contrasts playful conversational wit with the deepest solemnity of traditional funeral eulogies.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of distinguished Mongolian orator delivering deeply moving memorial address.",
+    "successCriteria": [
+      "Maintains solemn vocal resonance, measured pause structure (1.5-2.5s), and pitch control throughout",
+      "Integrates traditional mourning formulas and somatic kinship idioms with impeccable dignity"
+    ],
+    "masteryEvidence": "Delivers a 4.5-minute solemn eulogy demonstrating peerless cultural mastery of Mongolian mourning oratory.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c2_234_01_satirical_polemical_syntax_intro",
+    "unitId": "unit_c2_234_satirical_cultural_critique_polemic",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosyntax: Satirical Polemical Framing, Mock-Encomiums & Rhetorical Invective",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the syntactic structures, adversative climax cascades, mock-honorific exaggerations, and polemical contrastive devices utilized in high-tier Mongolian cultural critique and intellectual polemics.",
+    "communicativeOutcome": "Formulate sharp polemical arguments and devastating satirical framing devices that deconstruct cultural pretension and societal malaise.",
+    "objectivesIntroduced": [
+      "obj_c2_234_01_master_polemical_framing"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_233_01_master_somatic_steppe_metaphors"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [
+      "gram_c2_satirical_polemical_framing"
+    ],
+    "grammarPracticed": [
+      "gram_c2_somatic_idiomatic_metaphors"
+    ],
+    "grammarReviewed": [
+      "gram_c1_formal_adversative_concessives"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c2_05_satirical_cultural_critique"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_04_somatic_steppe_idioms"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_08_media_critique_and_discourse_analysis"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "нийгмийн шүүмж",
+      "маргаан",
+      "хурц шүүмжлэл",
+      "хуурамч дүр төрх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "intellectual polemical essayistic",
+    "pragmaticTarget": "scathing cultural critique and philosophical polemic",
+    "prerequisiteLessonIds": [
+      "les_c2_233_05_ancestral_eulogy_elegy_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_232_01_pragmatic_irony_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_232_pragmatic_irony_sarcasm_understatem"
+    ],
+    "reviewReason": "Evolves conversational irony and feuilletons into structured philosophical polemics and intellectual critiques.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Deconstructs 6 mock-honorific rhetorical devices used by modern essayists to ridicule elite vanity",
+      "Constructs 3 multi-clause polemical sentences deploying balanced antithesis and sharp satirical punchlines"
+    ],
+    "masteryEvidence": "Synthesizes 5 rigorous polemical theses analyzing modern Mongolian cultural dilemmas.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_234_02_baabar_polemical_essay_reading",
+    "unitId": "unit_c2_234_satirical_cultural_critique_polemic",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 2,
+    "title": "Essayistic Reading: Baabar-Style Historical-Cultural Polemics & Iconoclastic Essays",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an 870-word classic iconoclastic essay by a renowned public intellectual (e.g. Baabar or G. Galbadrakh) challenging received national historical myths, analyzing sharp rhetorical questions, biting comparisons, and fearless intellectual argumentation.",
+    "communicativeOutcome": "Deconstruct high-impact modern Mongolian essayistic prose, discerning rhetorical hyperbole from underlying historical critique.",
+    "objectivesIntroduced": [
+      "obj_c2_234_02_parse_iconoclastic_polemical_essays"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_234_01_master_polemical_framing"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_satirical_polemical_framing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_05_satirical_cultural_critique"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_08_media_critique_and_discourse_analysis"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "нийтлэлч",
+      "түүхийн үнэн",
+      "шүүмжлэлт сэтгэлгээ",
+      "хэвшмэл ойлголт"
+    ],
+    "readingObjective": "Analyze iconoclastic polemical essays evaluating evidentiary rigor, rhetorical irony, and historical myth-busting strategies.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "iconoclastic intellectual polemic",
+    "pragmaticTarget": "sacred-cow debunking and rationalist polemic",
+    "prerequisiteLessonIds": [
+      "les_c2_234_01_satirical_polemical_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_233_02_steppe_tragedy_literature_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_233_somatic_steppe_metaphors_liver_gall"
+    ],
+    "reviewReason": "Contrasts lyrical pastoral novella reading with aggressive, rationalist iconoclastic essay reading.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies 5 instances of provocative historical reinterpretation supported by sharp comparative logic",
+      "Explains how the author utilizes biting sarcasm to dismantle popular romanticized delusions"
+    ],
+    "masteryEvidence": "Produces an 870-word philosophical and rhetorical dissection of the iconoclastic essay.",
+    "recommendedExerciseModalities": [
+      "argument_mapping",
+      "source_comparison"
+    ]
+  },
+  {
+    "lessonId": "les_c2_234_03_philosophical_duel_radio_listening",
+    "unitId": "unit_c2_234_satirical_cultural_critique_polemic",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Live Radio Debate Duel Between Rival Public Intellectuals",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute unedited excerpt of a live broadcast philosophical confrontation between a prominent traditionalist philosopher and an iconoclastic liberal historian (170 wpm), analyzing lightning-fast polemical parries, biting intellectual irony, and erudite rhetorical thrusts.",
+    "communicativeOutcome": "Process sophisticated academic and cultural polemical duels in spoken Mongolian, tracking complex arguments and satirical ripostes delivered under intense intellectual rivalry.",
+    "objectivesIntroduced": [
+      "obj_c2_234_03_comprehend_intellectual_radio_duels"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_234_01_master_polemical_framing"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_satirical_polemical_framing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_05_satirical_cultural_critique"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_03_academic_thesis_defense"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "мэтгэлцээн",
+      "философи",
+      "үзэл баримтлал",
+      "няцаалт",
+      "ухааны тулаан"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher high-speed philosophical debate, tracking ideological clash, classical citations, and devastating satirical rebuttals.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "elite intellectual broadcast polemical duel",
+    "pragmaticTarget": "adversarial philosophical refutation",
+    "prerequisiteLessonIds": [
+      "les_c2_234_02_baabar_polemical_essay_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_233_03_traditional_epic_rhapsodist_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_233_somatic_steppe_metaphors_liver_gall"
+    ],
+    "reviewReason": "Contrasts ancient epic oral verse listening with modern high-intellectual philosophical debate processing.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic broadcast recording of intense live verbal duel between two of Mongolia's sharpest public thinkers.",
+    "successCriteria": [
+      "Outlines the competing epistemological frameworks deployed by both disputants",
+      "Pinpoints the exact rhetorical fallacy exposed by the historian in the philosopher's core syllogism"
+    ],
+    "masteryEvidence": "Produces an exhaustive logical and rhetorical scorecard of the 4.5-minute debate duel.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "stance_identification"
+    ]
+  },
+  {
+    "lessonId": "les_c2_234_04_polemical_cultural_manifesto_writing",
+    "unitId": "unit_c2_234_satirical_cultural_critique_polemic",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 4,
+    "title": "Polemical Writing: Authoring a Provocative Cultural Manifesto on Modern Steppe Identity",
+    "lessonType": "writing",
+    "primaryPurpose": "Author an 850-word cultural manifesto confronting the contradictions between 21st-century globalization and authentic nomadic heritage in Mongolia, utilizing fearless polemical framing, razor-sharp antitheses, and impassioned intellectual persuasion.",
+    "communicativeOutcome": "Produce an electrifying, widely discussable cultural manifesto in Mongolian that provokes debate and challenges societal complacency.",
+    "objectivesIntroduced": [
+      "obj_c2_234_04_author_cultural_manifestos"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_234_01_master_polemical_framing"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_satirical_polemical_framing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_05_satirical_cultural_critique"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_10_rhetorical_speechwriting"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "тунхаглал",
+      "үндэсний онцлог",
+      "даяаршил",
+      "уламжлал шинэчлэл",
+      "хувьсал"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft an 850-word cultural manifesto featuring powerful rhetorical cadences, incisive social critique, and a compelling vision of cultural renewal.",
+    "spokenProductionObjective": "",
+    "registerTarget": "high intellectual polemical manifesto",
+    "pragmaticTarget": "civic cultural awakening and societal provocation",
+    "prerequisiteLessonIds": [
+      "les_c2_234_03_philosophical_duel_radio_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_233_04_literary_memoir_steppe_solitude_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_233_somatic_steppe_metaphors_liver_gall"
+    ],
+    "reviewReason": "Synthesizes evocative memoir reflections into an aggressive, proactive cultural manifesto.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Integrates 5 provocative philosophical theses that deconstruct uncritical modernization",
+      "Maintains stylistic brilliance with polished parallel strophes, varied sentence lengths, and memorable aphorisms"
+    ],
+    "masteryEvidence": "Submits an 850-word cultural manifesto worthy of sparking a nationwide intellectual debate.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c2_234_05_public_symposium_polemical_oration_spoken",
+    "unitId": "unit_c2_234_satirical_cultural_critique_polemic",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 5,
+    "title": "Oratorical Speaking: Delivering a Polemical Keynote at a National Humanities Congress",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 5.0-minute electrifying polemical keynote address before 500 scholars and public intellectuals at the National Cultural Forum, challenging prevailing cultural dogmas and defending intellectual courage with impassioned oratory.",
+    "communicativeOutcome": "Hold a large, discerning intellectual audience spellbound through masterful delivery, combining devastating wit, moral gravitas, and exquisite Mongolian rhetoric.",
+    "objectivesIntroduced": [
+      "obj_c2_234_05_deliver_polemical_keynotes"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_234_01_master_polemical_framing"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_satirical_polemical_framing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_05_satirical_cultural_critique"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_10_rhetorical_speechwriting"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "чуулган",
+      "илтгэл",
+      "эрдэмтэн мэргэд",
+      "эр зориг",
+      "үзэл санаа"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Execute a 5-minute unscripted polemical oration modulating from wry satirical humor to thundering philosophical challenge.",
+    "registerTarget": "high academic oratorical polemic oral",
+    "pragmaticTarget": "transformative intellectual leadership and public persuasion",
+    "prerequisiteLessonIds": [
+      "les_c2_234_04_polemical_cultural_manifesto_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_233_05_ancestral_eulogy_elegy_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_233_somatic_steppe_metaphors_liver_gall"
+    ],
+    "reviewReason": "Transforms mournful memorial oratory into dynamic, provocative philosophical keynote persuasion.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of distinguished public intellectual delivering keynote oration to auditorium applause.",
+    "successCriteria": [
+      "Demonstrates dynamic vocal projection, masterly rhetorical pauses, and deliberate eye contact simulation",
+      "Fields an immediate hostile counter-question from the audience with an instant, devastating witty rebuttal"
+    ],
+    "masteryEvidence": "Delivers an impassioned 5-minute keynote address earning a standing ovation from simulated scholarly peers.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c2_235_01_literary_polyphony_syntax_intro",
+    "unitId": "unit_c2_235_literary_polyphony_interior_monolog",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosyntax: Free Indirect Discourse, Interior Monologue & Polyphonic Framing in Fiction",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the syntactic mechanics of free indirect discourse (чөлөөт шууд бус өгүүлэмж), stream-of-consciousness markers, and shifted deictic perspectives in modern Mongolian psychological and modernist fiction.",
+    "communicativeOutcome": "Weave seamless transitions between authorial narration and characters' inner psychological streams without explicit speech attribution tags.",
+    "objectivesIntroduced": [
+      "obj_c2_235_01_master_literary_polyphony"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_234_01_master_polemical_framing"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [
+      "gram_c2_literary_polyphony_and_indirect_interior_monologue"
+    ],
+    "grammarPracticed": [
+      "gram_c2_satirical_polemical_framing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_classical_quotative_khemeen"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c2_06_literary_polyphony_writing"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_05_satirical_cultural_critique"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "дотоод монолог",
+      "ухамсарын урсгал",
+      "зохиогчийн хэл",
+      "баатрын бодол"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "modernist psychological literary prose",
+    "pragmaticTarget": "introspective polyphony and internal focalization",
+    "prerequisiteLessonIds": [
+      "les_c2_234_05_public_symposium_polemical_oration_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_224_02_classical_quotative_participle_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_224_classical_converb_relics_suffixes_"
+    ],
+    "reviewReason": "Evolves classical quotative 'хэмээн' framing into unanchored modernist free indirect discourse.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies 5 subtle narrative shifts where external narration blends into character thought",
+      "Converts 3 direct quotations into sophisticated free indirect discourse preserving emotional voice"
+    ],
+    "masteryEvidence": "Constructs a multi-layered polyphonic narrative sequence with internal focalization.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_235_02_modernist_mongolian_novels_reading",
+    "unitId": "unit_c2_235_literary_polyphony_interior_monolog",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 2,
+    "title": "Literary Reading: Modernist Masterpieces — Stream of Consciousness in Contemporary Novels",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an 890-word excerpt from a groundbreaking contemporary Mongolian novel (e.g., G. Ayurzana or L. Ulziitugs), deconstructing non-linear narrative time, surreal interior impressions, and psychological fragmentation.",
+    "communicativeOutcome": "Analyze avant-garde and postmodern Mongolian literature, interpreting intricate temporal disruptions and elusive metaphoric layers with profound critical sensitivity.",
+    "objectivesIntroduced": [
+      "obj_c2_235_02_parse_modernist_novels"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_235_01_master_literary_polyphony"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_literary_polyphony_and_indirect_interior_monologue"
+    ],
+    "grammarReviewed": [
+      "gram_c1_classical_participle_khui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_06_literary_polyphony_writing"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "модернизм",
+      "постмодернизм",
+      "сэтгэхүйн урсгал",
+      "уран сайхны цаг хугацаа"
+    ],
+    "readingObjective": "Analyze complex modernist fiction identifying multiple narrative consciousnesses and subjective distortion of reality.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "postmodern avant-garde literary fiction",
+    "pragmaticTarget": "existential psychological hermeneutics",
+    "prerequisiteLessonIds": [
+      "les_c2_235_01_literary_polyphony_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_234_02_baabar_polemical_essay_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_234_satirical_cultural_critique_polemic"
+    ],
+    "reviewReason": "Contrasts rationalist polemical essays with complex subjective modernist fiction interpretation.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Explicates 3 surreal associative metaphors connecting nomadic mythology to urban alienation",
+      "Maps the fragmented timeline and polyphonic voices operating within the 890-word excerpt"
+    ],
+    "masteryEvidence": "Produces an 890-word hermeneutic exegesis on modernist literary techniques in the novel.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_235_03_theatrical_soliloquy_performance_listening",
+    "unitId": "unit_c2_235_literary_polyphony_interior_monolog",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Dramatic Soliloquy & Tormented Interior Monologue in State Theater",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute live theatrical audio performance of an agonizing dramatic soliloquy by a leading actor at the National Academic Drama Theatre (160 wpm), deconstructing breath cadence, whispered anguish, psychological fracture, and tragic emotional depth.",
+    "communicativeOutcome": "Process the most demanding acoustic tier of dramatic spoken Mongolian, tracking complex psychological shifts expressed through intimate vocal dynamics.",
+    "objectivesIntroduced": [
+      "obj_c2_235_03_comprehend_theatrical_soliloquies"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_235_01_master_literary_polyphony"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_literary_polyphony_and_indirect_interior_monologue"
+    ],
+    "grammarReviewed": [
+      "gram_c2_pragmatic_irony_and_understatement"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_06_literary_polyphony_writing"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_12_reverential_and_honorific_oratory"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "жүжиг",
+      "жүжигчин",
+      "ганцаарчилсан яриа",
+      "сэтгэлийн тарчлал",
+      "тайз"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher high-art dramatic soliloquies parsing whispered introspection, abrupt vocal outbursts, and tragic poetic verse.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "high classical dramatic tragedy theatrical oral",
+    "pragmaticTarget": "tragic catharsis and existential torment",
+    "prerequisiteLessonIds": [
+      "les_c2_235_02_modernist_mongolian_novels_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_234_03_philosophical_duel_radio_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_234_satirical_cultural_critique_polemic"
+    ],
+    "reviewReason": "Contrasts intellectual broadcast debate acoustics with intimate, passionate theatrical soliloquy.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic archival theater performance of celebrated Mongolian Shakespearean/national tragedy actor.",
+    "successCriteria": [
+      "Transcribes the soliloquy capturing poetic meter and intense emotional inflection points",
+      "Explains how subtle shifts in breathing and timbre signify the protagonist's descent into madness"
+    ],
+    "masteryEvidence": "Produces a dramatic analysis and phonetic transcript of the 4.5-minute soliloquy.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_235_04_stream_of_consciousness_fiction_writing",
+    "unitId": "unit_c2_235_literary_polyphony_interior_monolog",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 4,
+    "title": "Creative Writing: Authoring a Psychological Short Story in Free Indirect Style",
+    "lessonType": "writing",
+    "primaryPurpose": "Author an 850-word literary short story exploring the memories and fractured sensations of an elderly steppe hunter stranded during a sudden mountain blizzard, utilizing fluid free indirect style and sensory interior monologue.",
+    "communicativeOutcome": "Produce high-caliber literary prose in Mongolian characterized by psychological depth, poetic density, and masterful narrative control.",
+    "objectivesIntroduced": [
+      "obj_c2_235_04_author_psychological_fiction"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_235_01_master_literary_polyphony"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_literary_polyphony_and_indirect_interior_monologue"
+    ],
+    "grammarReviewed": [
+      "gram_c2_somatic_idiomatic_metaphors"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_06_literary_polyphony_writing"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "богино өгүүллэг",
+      "шуурга",
+      "анчин",
+      "дотоод мэдрэмж",
+      "дүрслэл"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft an 850-word psychological narrative transitioning seamlessly between freezing external reality and vivid internal ancestral memories.",
+    "spokenProductionObjective": "",
+    "registerTarget": "literary psychological stream-of-consciousness",
+    "pragmaticTarget": "existential empathy and sensory immersion",
+    "prerequisiteLessonIds": [
+      "les_c2_235_03_theatrical_soliloquy_performance_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_234_04_polemical_cultural_manifesto_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_234_satirical_cultural_critique_polemic"
+    ],
+    "reviewReason": "Contrasts polemical manifesto argumentation with intimate, artistic stream-of-consciousness storytelling.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Maintains unbroken free indirect discourse where grammatical person shifts effortlessly without confusion",
+      "Creates vivid sensory and somatic imagery of hypothermia and hallucination using rich Mongolian vocabulary"
+    ],
+    "masteryEvidence": "Submits an 850-word short story judged publishable in a leading Mongolian literary journal.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c2_235_05_literary_salons_aesthetic_critique_spoken",
+    "unitId": "unit_c2_235_literary_polyphony_interior_monolog",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 5,
+    "title": "Critical Speaking: Defending Modernist Aesthetic Choices in an Elite Literary Salon",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Engage in an unscripted 4.5-minute sophisticated aesthetic defense of avant-garde narrative technique before a circle of skeptical traditionalist literary critics, articulating how polyphony revitalizes ancient Mongolian oral storytelling.",
+    "communicativeOutcome": "Demonstrate consummate literary critical eloquence in spoken Mongolian, analyzing form, syntax, and narrative theory with effortless intellectual poise.",
+    "objectivesIntroduced": [
+      "obj_c2_235_05_defend_literary_aesthetics_orally"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_235_01_master_literary_polyphony"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_literary_polyphony_and_indirect_interior_monologue"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_06_literary_polyphony_writing"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_03_academic_thesis_defense"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "утга зохиолын шүүмж",
+      "яруу найраг",
+      "гоо зүй",
+      "уран сэтгэмж",
+      "хэлбэр агуулга"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Deliver an articulate verbal critique justifying narrative experimentation against conservative accusations of linguistic corruption.",
+    "registerTarget": "high-literary salon critical aesthetic colloquy oral",
+    "pragmaticTarget": "persuasive aesthetic vindication and critical dialogue",
+    "prerequisiteLessonIds": [
+      "les_c2_235_04_stream_of_consciousness_fiction_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_234_05_public_symposium_polemical_oration_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_234_satirical_cultural_critique_polemic"
+    ],
+    "reviewReason": "Synthesizes public keynote persuasion into intimate, erudite literary salon debate.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of distinguished literary theorist defending experimental fiction in salon setting.",
+    "successCriteria": [
+      "Connects 20th-century modernist techniques directly to the narrative structure of the Secret History",
+      "Responds with graceful intellectual authority to 2 pointed questions from skeptical traditionalists"
+    ],
+    "masteryEvidence": "Executes a 4.5-minute unscripted literary aesthetic defense exhibiting consummate critical vocabulary.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c2_236_01_pan_mongolian_morphosyntax_syntax_intro",
+    "unitId": "unit_c2_236_pan_mongolian_dialectal_morphosynta",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 1,
+    "title": "Comparative Linguistics: Pan-Mongolian Dialectal Morphosyntax (Buryat, Oirat, Inner Mongolian)",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the comparative morphosyntactic divergences, verbal participle variations, archaic case relics, and phonetic sound shifts distinguishing Buryat, Oirat/Kalmyk, and Inner Mongolian dialects from standard Khalkha.",
+    "communicativeOutcome": "Recognize, interpret, and adapt to pan-Mongolian dialectal variants across the Mongolic language family with native-tier linguistic elasticity.",
+    "objectivesIntroduced": [
+      "obj_c2_236_01_master_dialectal_morphosyntax"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_235_01_master_literary_polyphony"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [
+      "gram_c2_dialectal_morphosyntax_awareness"
+    ],
+    "grammarPracticed": [
+      "gram_c2_literary_polyphony_and_indirect_interior_monologue"
+    ],
+    "grammarReviewed": [
+      "gram_c1_register_switching_matrix"
+    ],
+    "phonologyIntroduced": [
+      "phon_c2_04_dialectal_sound_shifts_s_h_z_j"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c2_14_pan_mongolian_dialect_comprehension"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_06_literary_polyphony_writing"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_14_navigating_subtle_social_hierarchies"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "нутгийн аялгуу",
+      "буриад аялгуу",
+      "ойрад аялгуу",
+      "өвөр монгол аялгуу",
+      "авиан хууль"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "comparative Mongolic philology and dialectology",
+    "pragmaticTarget": "cross-dialectal pan-Mongolian solidarity",
+    "prerequisiteLessonIds": [
+      "les_c2_235_05_literary_salons_aesthetic_critique_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_218_01_register_switching_matrix_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_218_mongolia_s_third_neighbor_foreign_p"
+    ],
+    "reviewReason": "Extends formal sociolinguistic register switching into broader geographic and dialectal variation.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Maps 6 regular phonological correspondences (e.g. Khalkha 'с' -> Buryat 'һ', Khalkha 'ж' -> Oirat 'з')",
+      "Parses 5 divergent verbal finite endings in Inner Mongolian without loss of comprehension"
+    ],
+    "masteryEvidence": "Translates 8 multi-dialectal sentences into standard literary Khalkha with precise dialectal commentary.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_236_02_buryat_oirat_oral_literature_reading",
+    "unitId": "unit_c2_236_pan_mongolian_dialectal_morphosynta",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 2,
+    "title": "Philological Reading: Buryat & Oirat Folk Legends and Archival Dialectal Texts",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an 870-word annotated dialectal corpus containing parallel folklore recordings from Lake Baikal Buryats and Altai Oirat herders, analyzing preserved archaic Mongolic vocabulary and distinctive regional syntax.",
+    "communicativeOutcome": "Read and comprehend regional Mongolian folk literatures in their authentic dialectal forms without relying on normalized translations.",
+    "objectivesIntroduced": [
+      "obj_c2_236_02_parse_buryat_oirat_texts"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_236_01_master_dialectal_morphosyntax"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_dialectal_morphosyntax_awareness"
+    ],
+    "grammarReviewed": [
+      "gram_c1_classical_converbs_vaas_khuits"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_14_pan_mongolian_dialect_comprehension"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "үлгэр домөг",
+      "ардын аман зохиол",
+      "угсаатны зүй",
+      "хэлний өв"
+    ],
+    "readingObjective": "Analyze authentic regional folk narratives identifying regional vocabulary and archaic grammatical constructions.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "regional dialectal folklore archives",
+    "pragmaticTarget": "cross-regional cultural preservation and heritage literacy",
+    "prerequisiteLessonIds": [
+      "les_c2_236_01_pan_mongolian_morphosyntax_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_235_02_modernist_mongolian_novels_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_235_literary_polyphony_interior_monolog"
+    ],
+    "reviewReason": "Contrasts urban avant-garde fiction reading with rural regional dialect folklore analysis.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies 8 regional lexical items preserved in Oirat/Buryat that stem from Middle Mongolian",
+      "Explains how regional oral legends reflect the unique historical geography of peripheral Mongolic groups"
+    ],
+    "masteryEvidence": "Produces an 870-word philological and cultural comparison of Buryat and Oirat folklore texts.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_236_03_inner_mongolian_pastoral_interview_listening",
+    "unitId": "unit_c2_236_pan_mongolian_dialectal_morphosynta",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Authentic Field Interviews with Inner Mongolian & Kalmyk Elders",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute unedited field interview recorded in the Ordos region and Kalmykia (165 wpm), analyzing divergent intonation cadences, Chahar-Ordos phonetic traits, and unique pastoral terminologies.",
+    "communicativeOutcome": "Process diverse pan-Mongolian accents and dialects effortlessly in real time, decoding regional expressions without communicative disorientation.",
+    "objectivesIntroduced": [
+      "obj_c2_236_03_comprehend_pan_mongolian_accents"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_236_01_master_dialectal_morphosyntax"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_dialectal_morphosyntax_awareness"
+    ],
+    "grammarReviewed": [
+      "gram_c2_rapid_khalkha_spoken_phonotactics"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_04_dialectal_sound_shifts_s_h_z_j"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_14_pan_mongolian_dialect_comprehension"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_14_navigating_subtle_social_hierarchies"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "өвөр монгол",
+      "халимаг",
+      "аялгууны ялгаа",
+      "өвөг заншил",
+      "хэлний холбоо"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher non-Khalkha Mongolic speech streams, extracting autobiographical narratives, ancestral memories, and regional proverbs.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "authentic regional pan-Mongolian elder interview oral",
+    "pragmaticTarget": "cross-border kinship rapport and empathetic listening",
+    "prerequisiteLessonIds": [
+      "les_c2_236_02_buryat_oirat_oral_literature_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_235_03_theatrical_soliloquy_performance_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_235_literary_polyphony_interior_monolog"
+    ],
+    "reviewReason": "Contrasts theatrical monologue acoustics with spontaneous elder regional dialect listening.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic field audio of native Ordos and Kalmyk speakers recounting local steppe histories.",
+    "successCriteria": [
+      "Transcribes the central biographical narrative despite strong regional phonological divergences",
+      "Accurately glosses 5 non-Khalkha dialectal lexical items into standard Khalkha equivalents"
+    ],
+    "masteryEvidence": "Produces an acoustic and dialectal transcript of the 4.5-minute regional field recording.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_236_04_pan_mongolian_cultural_encyclopedia_writing",
+    "unitId": "unit_c2_236_pan_mongolian_dialectal_morphosynta",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 4,
+    "title": "Comparative Writing: Drafting an Authoritative Pan-Mongolian Dialectal & Cultural Lexicon",
+    "lessonType": "writing",
+    "primaryPurpose": "Author an 850-word scholarly reference entry for a Pan-Mongolian Linguistic Encyclopedia documenting lexical and syntactic variation across 4 major dialects, analyzing shared etymological roots and cultural divergence.",
+    "communicativeOutcome": "Produce high-level comparative linguistic and anthropological reference scholarship in Mongolian, demonstrating peerless pan-Mongolian philological authority.",
+    "objectivesIntroduced": [
+      "obj_c2_236_04_author_dialect_encyclopedia_entries"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_236_01_master_dialectal_morphosyntax"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_dialectal_morphosyntax_awareness"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_14_pan_mongolian_dialect_comprehension"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_04_peer_review_and_scholarly_refutation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "нэвтэрхий толь",
+      "харьцуулсан хэл шинжлэл",
+      "язгуур үг",
+      "аялгуу зүй"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft an 850-word comparative linguistic treatise comparing Khalkha, Buryat, Oirat, and Chahar dialectal paradigms.",
+    "spokenProductionObjective": "",
+    "registerTarget": "comparative philological encyclopedia scholarship",
+    "pragmaticTarget": "definitive scholarly documentation and pan-Mongolic unity",
+    "prerequisiteLessonIds": [
+      "les_c2_236_03_inner_mongolian_pastoral_interview_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_235_04_stream_of_consciousness_fiction_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_235_literary_polyphony_interior_monolog"
+    ],
+    "reviewReason": "Transitions from creative fiction writing into authoritative comparative linguistic scholarship.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Presents structured comparative tables of verb conjugations across standard Khalkha, Buryat, and Oirat",
+      "Explains the historical sociolinguistic drivers that caused phonological divergence over the last 400 years"
+    ],
+    "masteryEvidence": "Submits an 850-word encyclopedic entry complying with Mongolian Academy of Sciences standards.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c2_236_05_pan_mongolian_cultural_colloquy_spoken",
+    "unitId": "unit_c2_236_pan_mongolian_dialectal_morphosynta",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 5,
+    "title": "Interactive Speaking: Harmonizing Pan-Mongolian Dialogue at an All-Mongol Cultural Congress",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Participate in an unscripted 4.5-minute multi-dialectal panel dialogue with delegates from Buryatia, Kalmykia, and Inner Mongolia, adjusting lexical choices, recognizing regional idioms, and celebrating shared cultural roots with effortless warmth.",
+    "communicativeOutcome": "Demonstrate supreme pan-Mongolian sociolinguistic adaptability, communicating fluidly and respectfully across diverse Mongolic dialectal backgrounds.",
+    "objectivesIntroduced": [
+      "obj_c2_236_05_conduct_pan_mongolian_dialogues"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_236_01_master_dialectal_morphosyntax"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_dialectal_morphosyntax_awareness"
+    ],
+    "grammarReviewed": [
+      "gram_c1_register_switching_matrix"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_04_dialectal_sound_shifts_s_h_z_j"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_14_pan_mongolian_dialect_comprehension"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_14_navigating_subtle_social_hierarchies"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "бүх монголчуудын чуулган",
+      "элэг нэгтэн",
+      "хэлний найрамдал",
+      "соёлын хэлхээ"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Execute multi-dialectal conversational diplomacy, accommodating regional differences while upholding literary elegance.",
+    "registerTarget": "pan-Mongolian inter-dialectal diplomatic colloquy oral",
+    "pragmaticTarget": "cross-border kinship solidarity and mutual cultural validation",
+    "prerequisiteLessonIds": [
+      "les_c2_236_04_pan_mongolian_cultural_encyclopedia_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_235_05_literary_salons_aesthetic_critique_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_235_literary_polyphony_interior_monolog"
+    ],
+    "reviewReason": "Expands salon critical debate into broad pan-Mongolian international cultural diplomacy.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of pan-Mongolian forum dialogue featuring harmonious cross-dialectal communication.",
+    "successCriteria": [
+      "Demonstrates instantaneous receptive adjustment when addressed in Buryat and Kalmyk idioms",
+      "Fosters warm interpersonal camaraderie while discussing sensitive historical divisions"
+    ],
+    "masteryEvidence": "Participates in an unscripted 4.5-minute pan-Mongolian congress discussion with total sociolinguistic grace.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c2_237_01_c2_sec01_capstone_stylistics_synthesis",
+    "unitId": "unit_c2_237_contemporary_literature_capstone_sa",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 1,
+    "title": "Stylistic Synthesis: Master Integration of Modernist Polyphony, Satire & Colloquial Cadence",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Synthesize the full stylistic continuum of Section 01: integrating rapid Khalkha phonotactics, conversational repair, tag consensus mechanisms, pragmatic irony, somatic metaphors, polemical framing, free indirect discourse, and pan-Mongolian dialectal awareness into a unified supreme authorial voice.",
+    "communicativeOutcome": "Demonstrate effortless, omni-stylistic control across modern Mongolian literary, satirical, and colloquial registers.",
+    "objectivesIntroduced": [
+      "obj_c2_237_01_synthesize_c2_sec01_stylistics"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_236_01_master_dialectal_morphosyntax"
+    ],
+    "objectivesReviewed": [
+      "obj_c2_229_01_master_khalkha_phonotactics"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_rapid_khalkha_spoken_phonotactics",
+      "gram_c2_pragmatic_irony_and_understatement",
+      "gram_c2_literary_polyphony_and_indirect_interior_monologue"
+    ],
+    "grammarReviewed": [
+      "gram_c1_register_switching_matrix"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c2_15_creative_mastery_authorial_voice"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_01_rapid_colloquial_banter",
+      "comm_c2_03_humor_sarcasm_irony",
+      "comm_c2_06_literary_polyphony_writing"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_14_navigating_subtle_social_hierarchies"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 3,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "зохиогчийн хэв маяг",
+      "найруулгын чадвар",
+      "егөө шог",
+      "үгийн урлаг"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "supreme contemporary stylistic synthesis",
+    "pragmaticTarget": "sovereign authorial voice and stylistic agility",
+    "prerequisiteLessonIds": [
+      "les_c2_236_05_pan_mongolian_cultural_colloquy_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_229_01_khalkha_phonotactics_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_229_rapid_khalkha_spoken_phonotactics_r"
+    ],
+    "reviewReason": "Culminates Section 01 phonotactics and sociolinguistic agility into supreme literary virtuosity.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Modulates a single underlying narrative event across 3 distinct Section 01 registers (rapid street dialogue, psychological interior monologue, and biting satirical polemic) with total fidelity",
+      "Demonstrates zero stylistic contamination between adjacent stylistic tiers"
+    ],
+    "masteryEvidence": "Produces an exhaustive stylistic and comparative portfolio analyzing Section 01 linguistic registers.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_237_02_c2_sec01_capstone_literary_monument_reading",
+    "unitId": "unit_c2_237_contemporary_literature_capstone_sa",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 2,
+    "title": "Capstone Reading: Magnum Opus Contemporary Mongolian Satirical & Philosophical Fiction",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an extensive 950-word excerpt from a celebrated modern Mongolian magnum opus combining razor-sharp political satire, tragic nomadic memory, somatic metaphors, and surreal psychological stream-of-consciousness.",
+    "communicativeOutcome": "Deconstruct a crowning work of contemporary Mongolian literature with the critical sophistication of a seasoned literary scholar and native critic.",
+    "objectivesIntroduced": [
+      "obj_c2_237_02_parse_contemporary_magnum_opus"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_237_01_synthesize_c2_sec01_stylistics"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_satirical_polemical_framing",
+      "gram_c2_literary_polyphony_and_indirect_interior_monologue"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_15_creative_mastery_authorial_voice"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "оргил бүтээл",
+      "роман",
+      "гүн ухаан",
+      "уран сэтгэлгээ",
+      "бэлгэдэл"
+    ],
+    "readingObjective": "Analyze complex 950-word literary masterpiece identifying multi-tiered allegory, hidden ideological subversion, and somatic imagery.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "magnum opus contemporary literary prose",
+    "pragmaticTarget": "total literary and philosophical hermeneutics",
+    "prerequisiteLessonIds": [
+      "les_c2_237_01_c2_sec01_capstone_stylistics_synthesis"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_235_02_modernist_mongolian_novels_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_235_literary_polyphony_interior_monolog"
+    ],
+    "reviewReason": "Synthesizes modernist novel reading into comprehensive magnum opus literary exegesis.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Explicates 5 multi-layered allegorical motifs connecting 21st-century capitalist dilemmas to ancient steppe nomadic survival",
+      "Analyzes authorial voice modulation across tragic, comedic, and surreal modes within the text"
+    ],
+    "masteryEvidence": "Produces an exhaustive 950-word literary critique worthy of publication in an academic journal.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_237_03_c2_sec01_capstone_rapid_cultural_debate_listening",
+    "unitId": "unit_c2_237_contemporary_literature_capstone_sa",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 3,
+    "title": "Capstone Listening: Unedited High-Stakes Television Forum on National Identity at 190 wpm",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 5.0-minute unedited broadcast recording of a passionate nationwide debate featuring five leading cultural figures, satirists, and historians (180-195 wpm), analyzing competing overlaps, fast colloquial reductions, biting humor, and rapid intellectual maneuvers.",
+    "communicativeOutcome": "Process the highest velocity of unscripted native multi-speaker Mongolian cultural and intellectual discourse without cognitive fatigue or comprehension loss.",
+    "objectivesIntroduced": [
+      "obj_c2_237_03_comprehend_fast_cultural_debates"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_237_01_synthesize_c2_sec01_stylistics"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_rapid_khalkha_spoken_phonotactics",
+      "gram_c2_conversational_repair_and_discourse_particles",
+      "gram_c2_pragmatic_irony_and_understatement"
+    ],
+    "grammarReviewed": [
+      "gram_c1_journalistic_evidential_distancing"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_01_rapid_vowel_syncope_assimilation"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_15_creative_mastery_authorial_voice"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_08_media_critique_and_discourse_analysis"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "хэлэлцүүлэг",
+      "үндэсний дархлаа",
+      "хурц маргаан",
+      "үзэл бодол",
+      "онч үг"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher ultra-rapid multi-speaker televised debates parsing subtext, implied insults, laughter tokens, and abrupt topic shifts.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "high-velocity broadcast intellectual debate oral",
+    "pragmaticTarget": "instantaneous multi-stream rhetorical tracking",
+    "prerequisiteLessonIds": [
+      "les_c2_237_02_c2_sec01_capstone_literary_monument_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_230_03_talk_show_cross_talk_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_230_conversational_repair_turn_taking_p"
+    ],
+    "reviewReason": "Synthesizes talk show cross-talk processing into a massive 5-speaker nationwide cultural debate.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic unedited broadcast audio of high-stakes cultural debate at native speed.",
+    "successCriteria": [
+      "Extracts the core philosophical contention of all 5 speakers despite extreme conversational overlap and background interjections",
+      "Identifies 4 instances of veiled satirical sarcasm deployed to dismantle an opponent's argument"
+    ],
+    "masteryEvidence": "Produces an exhaustive transcript and argumentative map of the 5.0-minute debate.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "stance_identification"
+    ]
+  },
+  {
+    "lessonId": "les_c2_237_04_c2_sec01_capstone_satirical_novella_writing",
+    "unitId": "unit_c2_237_contemporary_literature_capstone_sa",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 4,
+    "title": "Capstone Writing: Authoring a Crown Literary Novella Combining Satire & Steppe Tragedy",
+    "lessonType": "writing",
+    "primaryPurpose": "Author an ambitious 900-word literary novella chapter set in contemporary Mongolia, seamlessly interweaving biting satire of urban bureaucratic vanity, visceral somatic kinship metaphors, free indirect interior monologue, and authentic dialogue.",
+    "communicativeOutcome": "Produce an exceptional work of creative fiction in Mongolian demonstrating the full expressive power, nuance, and artistic maturity of an accomplished native writer.",
+    "objectivesIntroduced": [
+      "obj_c2_237_04_author_crown_satirical_novellas"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_237_01_synthesize_c2_sec01_stylistics"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_pragmatic_irony_and_understatement",
+      "gram_c2_somatic_idiomatic_metaphors",
+      "gram_c2_literary_polyphony_and_indirect_interior_monologue"
+    ],
+    "grammarReviewed": [
+      "gram_c1_classical_participle_khui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_15_creative_mastery_authorial_voice"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_10_rhetorical_speechwriting"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 3,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "тууж туурвих",
+      "зохиолчийн ур чадвар",
+      "уран дүрслэл",
+      "сэтгэлийн гүн",
+      "амьдралын үнэн"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft a 900-word masterpiece literary novella chapter integrating authentic spoken dialogue, interior monologue, and exquisite steppe imagery.",
+    "spokenProductionObjective": "",
+    "registerTarget": "supreme literary fiction prose",
+    "pragmaticTarget": "original authorial virtuosity and literary resonance",
+    "prerequisiteLessonIds": [
+      "les_c2_237_03_c2_sec01_capstone_rapid_cultural_debate_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_235_04_stream_of_consciousness_fiction_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_235_literary_polyphony_interior_monolog"
+    ],
+    "reviewReason": "Synthesizes psychological fiction into a complete, publishable crown novella chapter.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Demonstrates sovereign mastery of Mongolian sentence structure, poetic cadence, and narrative pacing",
+      "Seamlessly balances humorous social satire with profound nomadic emotional depth without tonal discord"
+    ],
+    "masteryEvidence": "Submits a compliant 900-word literary chapter evaluated at master author tier by native literary critics.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c2_237_05_c2_sec01_capstone_literary_critics_defense_spoken",
+    "unitId": "unit_c2_237_contemporary_literature_capstone_sa",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 5,
+    "title": "Capstone Speaking: Grand Defense of Authorial Work Before the Mongolian Writers' Union",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Present an unscripted 5.0-minute passionate defense and reading of one's literary creation before the plenum of the Mongolian Writers' Union (Монголын Зохиолчдын Эвлэл), answering rigorous critical challenges with intellectual brilliance, wit, and linguistic virtuosity.",
+    "communicativeOutcome": "Demonstrate the absolute pinnacle of spoken literary discourse in Mongolian, commanding respect among the nation's foremost poets and novelists.",
+    "objectivesIntroduced": [
+      "obj_c2_237_05_defend_literary_magnum_opus_orally"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_237_01_synthesize_c2_sec01_stylistics"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_satirical_polemical_framing",
+      "gram_c2_pragmatic_irony_and_understatement"
+    ],
+    "grammarReviewed": [
+      "gram_c1_register_switching_matrix"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_15_creative_mastery_authorial_voice"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_10_rhetorical_speechwriting"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "зохиолчдын эвлэл",
+      "уран бүтээлийн хамгаалалт",
+      "шүүмжлэгч",
+      "зохиолчийн үг",
+      "өвөрмөц дуу хоолой"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Execute an unscripted 5-minute defense of authorial choices, weaving literary theory, poetic recitation, and rapid witty parries.",
+    "registerTarget": "elite writers' union plenum oratory oral",
+    "pragmaticTarget": "unassailable authorial authority and literary defense",
+    "prerequisiteLessonIds": [
+      "les_c2_237_04_c2_sec01_capstone_satirical_novella_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_234_05_public_symposium_polemical_oration_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_234_satirical_cultural_critique_polemic"
+    ],
+    "reviewReason": "Synthesizes public symposium keynote oratory into prestigious writers' union defense.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of acclaimed author defending groundbreaking novel before literary jury.",
+    "successCriteria": [
+      "Articulates profound artistic vision using rich literary and philosophical terminology with total spontaneity",
+      "Fields 3 aggressive aesthetic critiques from senior critics with flawless composure and devastating wit"
+    ],
+    "masteryEvidence": "Delivers an unscripted 5.0-minute defense receiving unanimous acclaim from the simulated Writers' Union jury.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c2_237_06_c2_sec01_culminating_operational_synthesis",
+    "unitId": "unit_c2_237_contemporary_literature_capstone_sa",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 6,
+    "title": "Section 01 Grand Capstone: The Contemporary Modernist Literature & Satire Operational Defense",
+    "lessonType": "synthesis_capstone",
+    "primaryPurpose": "Execute the comprehensive Section 01 operational mastery examination: reading an unedited avant-garde text, processing high-speed broadcast debate, and delivering an integrated written and oral satirical/philosophical critique.",
+    "communicativeOutcome": "Demonstrate complete operational mastery of Section 01, exhibiting authentic native-level ease across modern Mongolian literary, satirical, and spontaneous conversational registers.",
+    "objectivesIntroduced": [
+      "obj_c2_237_06_master_c2_sec01_grand_capstone"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_237_01_synthesize_c2_sec01_stylistics"
+    ],
+    "objectivesReviewed": [
+      "obj_c2_229_01_master_khalkha_phonotactics"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_rapid_khalkha_spoken_phonotactics",
+      "gram_c2_conversational_repair_and_discourse_particles",
+      "gram_c2_conversational_tag_consensus_markers",
+      "gram_c2_pragmatic_irony_and_understatement",
+      "gram_c2_somatic_idiomatic_metaphors",
+      "gram_c2_satirical_polemical_framing",
+      "gram_c2_literary_polyphony_and_indirect_interior_monologue",
+      "gram_c2_dialectal_morphosyntax_awareness"
+    ],
+    "grammarReviewed": [
+      "gram_c1_register_switching_matrix"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_01_rapid_colloquial_banter",
+      "comm_c2_02_conversational_repair_turn_taking",
+      "comm_c2_03_humor_sarcasm_irony",
+      "comm_c2_04_somatic_steppe_idioms",
+      "comm_c2_05_satirical_cultural_critique",
+      "comm_c2_06_literary_polyphony_writing",
+      "comm_c2_14_pan_mongolian_dialect_comprehension",
+      "comm_c2_15_creative_mastery_authorial_voice"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_14_navigating_subtle_social_hierarchies"
+    ],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "цогц шалгалт",
+      "төгс эзэмшил",
+      "найруулгын дээд түвшин",
+      "соёлын дархлаа"
+    ],
+    "readingObjective": "Perform holistic synthesis across reading, listening, writing, and oral defense at the C2 mastery tier.",
+    "listeningObjective": "Process multi-speaker rapid audio without comprehension loss.",
+    "writingObjective": "Author culminating synthesis critique integrating Section 01 stylistics.",
+    "spokenProductionObjective": "Defend culminating synthesis before an expert evaluation panel.",
+    "registerTarget": "comprehensive CEFR C2 Contemporary Literature & Satirical Mastery",
+    "pragmaticTarget": "definitive Section 01 native-like operational mastery",
+    "prerequisiteLessonIds": [
+      "les_c2_237_04_c2_sec01_capstone_satirical_novella_writing",
+      "les_c2_237_05_c2_sec01_capstone_literary_critics_defense_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_229_05_spontaneous_rapid_podcast_banter_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_229_rapid_khalkha_spoken_phonotactics_r"
+    ],
+    "reviewReason": "Validates total Section 01 mastery bridging rapid colloquial banter to published-tier creative literature.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Executes all 4 modalities (reading, listening, writing, spoken defense) without a single structural, sociolinguistic, or stylistic lapse",
+      "Demonstrates effortless, unscripted mastery of modern Mongolian literary, satirical, and conversational nuance",
+      "Achieves unanimous passing evaluation by the senior C2 examination board"
+    ],
+    "masteryEvidence": "Definitively passes the comprehensive C2 Section 01 culminating operational synthesis examination.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "rebuttal_transformation",
+      "oral_presentation_planning"
+    ]
+  }
+]

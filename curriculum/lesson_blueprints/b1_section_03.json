@@ -1,0 +1,3518 @@
+[
+  {
+    "lessonId": "les_b1_135_01_topography_landscapes_lexicon",
+    "unitId": "unit_b1_135_geographical_landscapes_khangai_mou",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Topographical Contrasts: Khangai Alpine Forests vs Gobi Steppe Formations",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Acquire precise geographical and ecological terminology contrasting Mongolia's biomes: Khangai alpine peaks, taiga coniferous forests, freshwater river basins versus Gobi arid gravel plains, sand dunes (манхан), oases, and saksaul forests (заг).",
+    "communicativeOutcome": "Describe and compare regional ecosystems, landforms, and flora with scientific and descriptive accuracy.",
+    "objectivesIntroduced": [
+      "obj_b1_135_01_geographical_landforms_lexicon"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_134_01_aesthetic_criticism_lexicon"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_contemporaneous_magts"
+    ],
+    "grammarReviewed": [
+      "gram_a1_noun_phrase_attributive_adjective",
+      "gram_a1_nominal_negation_bish"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_topographical_compound_stress"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_23_comparing_city_country_lifestyles"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_environment_geography_climate"
+    ],
+    "previousVocabularyReused": [
+      "уул",
+      "говь",
+      "ой",
+      "гол",
+      "нуур",
+      "элс"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft 5 sentences contrasting the climatic moisture, tree cover, and grazing conditions of the Khangai and Gobi regions.",
+    "spokenProductionObjective": "Describe the terrain and visual scenery of your favorite natural region in Mongolia.",
+    "registerTarget": "Descriptive geographic and environmental register",
+    "pragmaticTarget": "Using vivid sensory landform adjectives to capture dramatic physical transitions across biomes.",
+    "prerequisiteLessonIds": [
+      "les_b1_134_06_section_02_milestone_synthesis_checkpoint"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_134_01_critical_appraisal_lexicon"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_134_film_literary_criticism_evaluating_"
+    ],
+    "reviewReason": "Bridges aesthetic sensory description into ecological and geographical landscape analysis.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce compound landform terms and geographical names.",
+    "successCriteria": [
+      "Distinguishes Khangai landforms (тайга, сарьдаг уул, хөндий) from Gobi landforms (говь, манхан, заг, баянбүрд)",
+      "Forms comparative sentences contrasting soil, water availability, and vegetation"
+    ],
+    "masteryEvidence": "Produces 'Хангайн нутаг ой хөвч, гол горхиор баялаг бол говийн бүс элсэн манхан, заган ойгоороо онцлог' accurately.",
+    "recommendedExerciseModalities": [
+      "topographical_matching",
+      "biome_contrast_table",
+      "sentence_completion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_135_02_nomadic_adaptation_reading",
+    "unitId": "unit_b1_135_geographical_landscapes_khangai_mou",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Reading Analysis: Ecological Adaptation of Pastoral Nomads Across Ecological Zones",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Deconstruct authentic ethnographic and ecological articles analyzing how traditional pastoral practices, seasonal camp movements (отор нүүдэл), and livestock herd compositions differ between the forested north and the arid south.",
+    "communicativeOutcome": "Comprehend ethnographic analyses of pastoral resilience, seasonal migration cycles, and climate adaptation strategies.",
+    "objectivesIntroduced": [
+      "obj_b1_135_02_read_ecological_adaptation"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_135_01_geographical_landforms_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_epistemic_probability_bololtoi_magadgui"
+    ],
+    "grammarReviewed": [
+      "gram_a1_converb_coordinating_j_ch",
+      "gram_a2_verb_past_recent_witnessed_laa"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_23_comparing_city_country_lifestyles"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_environment_geography_climate",
+      "lex_b1_culture_traditions_heritage"
+    ],
+    "previousVocabularyReused": [
+      "малаа маллах",
+      "нүүдэл",
+      "өвөлжөө",
+      "зуслан",
+      "бэлчээр"
+    ],
+    "readingObjective": "Read a 300-word ecological study comparing herd compositions (camels in Gobi vs yaks in Khangai) and summarize the adaptive rationale.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "Formal ecological research and ethnographic register",
+    "pragmaticTarget": "Appreciating traditional ecological knowledge (нутгийн иргэдийн байгаль хамгаалах ухаан).",
+    "prerequisiteLessonIds": [
+      "les_b1_135_01_topography_landscapes_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_130_03_travelogue_errands_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_130_limiting_incidental_converb_suffixe"
+    ],
+    "reviewReason": "Expands geographic reading into ecological anthropology and pastoral subsistence.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration of ethnographic field analysis.",
+    "successCriteria": [
+      "Identifies ecological factors determining seasonal migration distances",
+      "Extracts specific livestock ratios suited to differing regional pasture grasses"
+    ],
+    "masteryEvidence": "Identifies that camels and goats thrive on desert scrub shrubs while cattle and sheep require lush mountain meadows.",
+    "recommendedExerciseModalities": [
+      "ecological_table_extraction",
+      "true_false_justification",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_135_03_pastoral_lifestyles_comparative_discussion",
+    "unitId": "unit_b1_135_geographical_landscapes_khangai_mou",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Discussion: Nomadic Subsistence Strategies in Northern Taiga vs Southern Desert",
+    "lessonType": "discussion",
+    "primaryPurpose": "Participate in a comparative seminar debating the advantages and harsh survival realities of pastoral herding across Mongolia's extreme geographical zones.",
+    "communicativeOutcome": "Debate how climate change, water scarcity, and forest fires impact traditional herding in distinct ecological regions.",
+    "objectivesIntroduced": [
+      "obj_b1_135_03_debate_pastoral_geography"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_135_01_geographical_landforms_lexicon",
+      "obj_b1_135_02_read_ecological_adaptation"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_124_03_debate_civic_development"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_contemporaneous_magts"
+    ],
+    "grammarReviewed": [
+      "gram_a1_converb_coordinating_j_ch"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_topographical_compound_stress"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_23_comparing_city_country_lifestyles"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_03_expressing_opinions_agreements"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_environment_geography_climate"
+    ],
+    "previousVocabularyReused": [
+      "харьцуулах",
+      "давуу тал",
+      "бэрхшээл",
+      "усны хомсдол",
+      "өвөл"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Contribute 4 speaking turns comparing how a herder in Khövsgöl prepares for winter versus a camel herder in Ömnögovi.",
+    "registerTarget": "Analytical ecological seminar discussion register",
+    "pragmaticTarget": "Synthesizing geography with human survival and cultural ingenuity.",
+    "prerequisiteLessonIds": [
+      "les_b1_135_01_topography_landscapes_lexicon",
+      "les_b1_135_02_nomadic_adaptation_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_124_03_civic_issues_discussion"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_124_formulating_nuanced_personal_stance"
+    ],
+    "reviewReason": "Applies seminar discussion protocols to rural ecological and geographical comparisons.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Provide discussion questions and contrasting regional case studies.",
+    "successCriteria": [
+      "Contributes 4 analytical speaking turns integrating topographical and pastoral terms",
+      "Substantiates arguments with specific climatic and geographic realities"
+    ],
+    "masteryEvidence": "Articulates 'Хангайд өвлийн хүйтэн, их цас гол бэрхшээл болдог бол говьд усны хомсдол, хуурайшилт хамгийн хүнд сорилт болдог' convincingly.",
+    "recommendedExerciseModalities": [
+      "roundtable_debate",
+      "regional_comparison_chart",
+      "peer_critique"
+    ]
+  },
+  {
+    "lessonId": "les_b1_135_04_geographic_landscape_monologue_spoken",
+    "unitId": "unit_b1_135_geographical_landscapes_khangai_mou",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Spoken Production: Delivering a Geographical Feature Presentation",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an engaging 2-minute geographical presentation profiling a specific natural landmark (e.g. Altai Tavan Bogd, Gobi Gurvansaikhan, or Lake Khövsgöl) covering topography, wildlife, and climatic zones.",
+    "communicativeOutcome": "Present a comprehensive geographical profile to an audience of eco-travelers or students.",
+    "objectivesIntroduced": [
+      "obj_b1_135_04_present_geographical_profile"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_135_01_geographical_landforms_lexicon",
+      "obj_b1_135_03_debate_pastoral_geography"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_127_04_deliver_eyewitness_account"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_epistemic_probability_bololtoi_magadgui"
+    ],
+    "grammarReviewed": [
+      "gram_a1_noun_phrase_attributive_adjective"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_topographical_compound_stress"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_23_comparing_city_country_lifestyles"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_08_speculating_visual_evidence"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_environment_geography_climate",
+      "lex_b1_travel_transport_tourism"
+    ],
+    "previousVocabularyReused": [
+      "байгалийн дурсгал",
+      "уулс",
+      "онгон байгаль",
+      "хамгаалах",
+      "аялагч"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Deliver a 2-minute oral presentation detailing the landscape, climate, and unique flora/fauna of a chosen Mongolian national park.",
+    "registerTarget": "Engaging eco-documentary and geographical lecture register",
+    "pragmaticTarget": "Inspiring environmental appreciation while communicating factual geographic metrics.",
+    "prerequisiteLessonIds": [
+      "les_b1_135_02_nomadic_adaptation_reading",
+      "les_b1_135_03_pastoral_lifestyles_comparative_discussion"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_126_05_explaining_systemic_causes_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_126_causal_conjunctions_connectors_"
+    ],
+    "reviewReason": "Synthesizes structured briefing skills with descriptive environmental and geographical fluency.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Provide benchmark recording of an articulate nature documentary presenter.",
+    "successCriteria": [
+      "Delivers a 2-minute cohesive monologue detailing landforms, climate, and ecological adaptation",
+      "Integrates descriptive landform adjectives and evidential probability markers appropriately"
+    ],
+    "masteryEvidence": "Delivers 'Говь Гурвансайхан нь цөлийн дунд орших сүрлэг хавцал, мөст хөндий бүхий байгалийн өвөрмөц тогтоцтой газар юм' eloquently.",
+    "recommendedExerciseModalities": [
+      "geographical_monologue",
+      "map_talk",
+      "peer_rubric_evaluation"
+    ]
+  },
+  {
+    "lessonId": "les_b1_136_01_administrative_aimags_lexicon",
+    "unitId": "unit_b1_136_administrative_geography_the_21_aim",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Administrative Geography: Aimags, Soums, Regional Centers & Natural Sanctuaries",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Acquire administrative geography terminology for territorial divisions (аймаг, сум, баг, төв), regional economic clusters (Баруун, Зүүн, Төв, Хангай, Говийн бүс), and designated protected areas (Дархан цаазат газар, Байгалийн цогцолборт газар).",
+    "communicativeOutcome": "Discuss Mongolia's territorial administration, regional capitals, distance relationships, and conservation zones accurately.",
+    "objectivesIntroduced": [
+      "obj_b1_136_01_administrative_geography_lexicon"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_135_01_geographical_landforms_lexicon"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_durative_saar"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_noun_plural_markers"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_aimag_toponym_pronunciation"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_23_comparing_city_country_lifestyles"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_environment_geography_climate"
+    ],
+    "previousVocabularyReused": [
+      "аймаг",
+      "сум",
+      "хот",
+      "газар",
+      "хөдөө",
+      "төв"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "List the 5 geographic regions of Mongolia and identify 2 aimags and their administrative centers in each.",
+    "spokenProductionObjective": "Explain the administrative hierarchy (аймаг -> сум -> баг) to a foreigner visiting Mongolia.",
+    "registerTarget": "Official administrative and geographic informational register",
+    "pragmaticTarget": "Navigating territorial jurisdictions and conservation boundaries accurately.",
+    "prerequisiteLessonIds": [
+      "les_b1_135_04_geographic_landscape_monologue_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_135_01_topography_landscapes_lexicon"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_135_geographical_landscapes_khangai_mou"
+    ],
+    "reviewReason": "Transitions from physical landscape features to political-administrative territorial organization.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Correct native pronunciation of all 21 aimag names and their provincial capitals.",
+    "successCriteria": [
+      "Identifies aimag names, regional centers, and administrative divisions without error",
+      "Uses proper dative/locative case suffixes for place names"
+    ],
+    "masteryEvidence": "Produces 'Монгол улс 21 аймаг, 330 гаруй суманд хуваагддаг бөгөөд нийслэл нь Улаанбаатар хот юм' accurately.",
+    "recommendedExerciseModalities": [
+      "map_labeling",
+      "aimag_center_matching",
+      "flashcard_drill"
+    ]
+  },
+  {
+    "lessonId": "les_b1_136_02_regional_development_whitepaper_reading",
+    "unitId": "unit_b1_136_administrative_geography_the_21_aim",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Reading Analysis: Regional Economic Development & Infrastructure Corridor Whitepapers",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Deconstruct authentic government policy whitepapers outlining regional economic hubs (Баруун бүсийн хөгжлийн тулгуур төв - Ховд хот, Зүүн бүс - Чойбалсан) and transportation corridors connecting remote aimags to the capital.",
+    "communicativeOutcome": "Analyze regional development plans, transport logistics, and economic specializations of different aimags.",
+    "objectivesIntroduced": [
+      "obj_b1_136_02_read_regional_development_plans"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_136_01_administrative_geography_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_durative_saar"
+    ],
+    "grammarReviewed": [
+      "gram_a2_verb_habitual_present_dag"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_23_comparing_city_country_lifestyles"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_environment_geography_climate",
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "дэд бүтэц",
+      "зам",
+      "хөгжил",
+      "бодлого",
+      "бүс нутаг"
+    ],
+    "readingObjective": "Read a 300-word government policy brief on the Millennium Road (Мянганы зам) and extract the targeted transport connectivity improvements for Western aimags.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "Formal administrative and economic planning register",
+    "pragmaticTarget": "Understanding national infrastructure decentralization priorities.",
+    "prerequisiteLessonIds": [
+      "les_b1_136_01_administrative_aimags_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_126_03_socio_economic_causality_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_126_causal_conjunctions_connectors_"
+    ],
+    "reviewReason": "Connects rural migration whitepapers with regional infrastructure development plans.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration of regional policy summary.",
+    "successCriteria": [
+      "Identifies targeted regional economic specializations for at least 3 distinct aimags",
+      "Extracts transportation infrastructure milestones and paved highway connectivity statistics"
+    ],
+    "masteryEvidence": "Identifies that paved road connectivity reduced travel time from Ulaanbaatar to Ulaangom by more than half.",
+    "recommendedExerciseModalities": [
+      "corridor_mapping",
+      "data_extraction_table",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_136_03_regional_tourism_dispatch_listening",
+    "unitId": "unit_b1_136_administrative_geography_the_21_aim",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Comprehension: Radio Broadcast on Aimag Ecotourism & Cultural Heritage Trails",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop auditory listening comprehension for a National Radio travel program detailing unique tourism destinations across aimags: reindeer herders in Khövsgöl, dinosaur fossils in Ömnögovi, and Chinggis Khaan historic sites in Khentii.",
+    "communicativeOutcome": "Understand spoken travel guides, cultural itinerary descriptions, and seasonal highlights from regional correspondents across Mongolia.",
+    "objectivesIntroduced": [
+      "obj_b1_136_03_comprehend_aimag_travel_broadcast"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_136_01_administrative_geography_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_135_01_geographical_landforms_lexicon"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_durative_saar"
+    ],
+    "grammarReviewed": [
+      "gram_a1_nominal_predicate_zero_copula"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_aimag_toponym_pronunciation"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_23_comparing_city_country_lifestyles"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_environment_geography_climate",
+      "lex_b1_travel_transport_tourism"
+    ],
+    "previousVocabularyReused": [
+      "аялал жуулчлал",
+      "радио",
+      "түүхт газар",
+      "онцлог",
+      "үзэсгэлэнт"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Listen to a 2.5-minute radio report and identify the 3 aimags featured along with their signature natural or historical attraction.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "Enthusiastic educational travel journalism broadcast register",
+    "pragmaticTarget": "Navigating diverse regional accents and local idioms in spoken radio dispatches.",
+    "prerequisiteLessonIds": [
+      "les_b1_136_01_administrative_aimags_lexicon",
+      "les_b1_136_02_regional_development_whitepaper_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_134_03_film_podcast_cultural_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_134_film_literary_criticism_evaluating_"
+    ],
+    "reviewReason": "Expands broadcast listening from urban cultural podcasts to nationwide geographical travel dispatches.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic radio broadcast with field acoustic ambiance and regional soundscapes.",
+    "successCriteria": [
+      "Matches featured aimags with their corresponding cultural attractions",
+      "Transcribes local travel advice and ideal seasonal visitation windows"
+    ],
+    "masteryEvidence": "Correctly transcribes that Khentii was featured for the Burkhan Khaldun sacred mountain trail.",
+    "recommendedExerciseModalities": [
+      "audio_itinerary_mapping",
+      "destination_matching",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_136_04_aimag_itinerary_consultation_dialogue",
+    "unitId": "unit_b1_136_administrative_geography_the_21_aim",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Interactive Dialogue: Designing an Aimag Exploration Itinerary for Travelers",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Simulate an interactive travel consultation between an expedition planner and foreign visitors recommending which aimags to prioritize based on interests (mountains, history, desert, nomad culture).",
+    "communicativeOutcome": "Provide expert geographical travel recommendations, balancing driving distances, road conditions, and seasonal festivals.",
+    "objectivesIntroduced": [
+      "obj_b1_136_04_plan_aimag_travel_route"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_136_01_administrative_geography_lexicon",
+      "obj_b1_136_03_comprehend_aimag_travel_broadcast"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_133_01_professional_advisory_formulas"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_durative_saar"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_aimag_toponym_pronunciation"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_23_comparing_city_country_lifestyles"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_16_giving_advice_recommendations"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_environment_geography_climate",
+      "lex_b1_travel_transport_tourism"
+    ],
+    "previousVocabularyReused": [
+      "маршрут",
+      "хоног",
+      "замын нөхцөл",
+      "захиалах",
+      "онгоц"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Enact an 8-turn dialogue advising a client on choosing between a Western Altai mountaineering trek or a Southern Gobi paleontological tour.",
+    "registerTarget": "Professional travel advisory and geographical consulting register",
+    "pragmaticTarget": "Realistically counseling travelers on vast distances and unpaved terrain logistics.",
+    "prerequisiteLessonIds": [
+      "les_b1_136_02_regional_development_whitepaper_reading",
+      "les_b1_136_03_regional_tourism_dispatch_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_133_03_executive_advisory_consultation_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_133_giving_professional_advice_actionab"
+    ],
+    "reviewReason": "Applies professional consulting dialogue techniques to nationwide geographic route design.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Realistic dialogue between an experienced expedition guide and an inquisitive traveler.",
+    "successCriteria": [
+      "Negotiates a realistic multi-aimag itinerary considering distances and road infrastructure",
+      "Integrates aimag names, geographic landmarks, and durative aspectual forms smoothly"
+    ],
+    "masteryEvidence": "Negotiates 'Баян-Өлгий, Увс аймгуудаар аялбал байгалийн үзэсгэлэн төгс боловч замын бартаа ихтэй тул найдвартай машинтай явах хэрэгтэй' fluently.",
+    "recommendedExerciseModalities": [
+      "branching_route_planning",
+      "travel_counseling_simulation",
+      "spoken_roleplay"
+    ]
+  },
+  {
+    "lessonId": "les_b1_137_01_participle_oblique_nominalization_intro",
+    "unitId": "unit_b1_137_nominalization_of_participles_in_ob",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Nominalized Participles in Oblique Cases: Accusative, Dative, Ablative & Instrumental",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the foundational morphosyntactic engine of B1 Mongolian complex sentence structure: fully nominalizing verbal participles (-сан/-даг/-х/-аагүй) and declining them in oblique cases: 1) Accusative -ыг (direct object clause: мэдэхийг хүсэх), 2) Dative -д (temporal/spatial locus: ирэхэд, болсонд), 3) Ablative -аас (causal/comparative origin: дууссанаас хойш, хэлснээс), and 4) Instrumental -аар (manner/means: бичсэнээр).",
+    "communicativeOutcome": "Embed entire propositional clauses as case-marked nominal arguments inside main clauses.",
+    "objectivesIntroduced": [
+      "obj_b1_137_01_decline_nominalized_participles"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_136_01_administrative_geography_lexicon"
+    ],
+    "grammarIntroduced": [
+      "gram_b1_nominalization_participles_cases"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_accusative_definite",
+      "gram_a1_verb_tense_past_perfective_san"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_participle_case_vowel_harmony"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_vowel_harmony_basic"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_06_stating_purpose_long_term_goals"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_education_career_workplace",
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "мэдэх",
+      "хүсэх",
+      "хэлэх",
+      "хийх",
+      "сонсох",
+      "ойлгох"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Transform 8 simple verbs into nominalized participles declined in Accusative (-ыг), Dative (-д), Ablative (-аас), and Instrumental (-аар).",
+    "spokenProductionObjective": "Explain what someone told you, embedding their statement as a nominalized direct object clause.",
+    "registerTarget": "Standard formal spoken and written syntactic register",
+    "pragmaticTarget": "Using nominalized participles to create dense, interconnected analytical sentences.",
+    "prerequisiteLessonIds": [
+      "les_b1_136_04_aimag_itinerary_consultation_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_126_01_causal_connectors_morphosyntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_126_causal_conjunctions_connectors_"
+    ],
+    "reviewReason": "Generalizes participial subordination (seen in -сан учраас) to all oblique nominal case declensions.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Demonstrate the phonological assimilation of case suffixes to participial stems (бичсэнийг, явсанд, хэлснээс, хийснээр).",
+    "successCriteria": [
+      "Declines past (-сан), habitual (-даг), and future (-х) participles through all 4 oblique cases",
+      "Applies correct connecting vowels and reflexive possessive suffixes when required"
+    ],
+    "masteryEvidence": "Produces 'Би түүний хэлснийг ойлгосон', 'Түүнийг ирэхэд бид бэлэн байлаа', and 'Цас орсноос болж зам хаагдсан' without error.",
+    "recommendedExerciseModalities": [
+      "case_inflection_drill",
+      "subordinate_clause_building",
+      "sentence_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_b1_137_02_complex_nominalized_clauses_guided_practice",
+    "unitId": "unit_b1_137_nominalization_of_participles_in_ob",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Guided Practice: Precision in Participial Complementation & Case Selection",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Master the semantic and syntactic distinction between different oblique cases attached to participles: 1) -хыг хүсэх / шаардах (volitional/imperative complementation), 2) -санд баярлах / харамсах (affective evaluation complementation), 3) -снаар батлагдах (instrumental evidential proof).",
+    "communicativeOutcome": "Accurately select the governing case demanded by matrix psychological and modal verbs.",
+    "objectivesIntroduced": [
+      "obj_b1_137_02_master_participle_case_governance"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_137_01_decline_nominalized_participles"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_nominalization_participles_cases"
+    ],
+    "grammarReviewed": [
+      "gram_a2_participle_desire_inclination_maar",
+      "gram_b1_noun_derivation_abstract_dal_laga"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_06_stating_purpose_long_term_goals"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "баярлах",
+      "гомдох",
+      "шаардах",
+      "зөвшөөрөх",
+      "батлах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Complete 8 complex sentences requiring distinct oblique case endings on embedded verbal participles.",
+    "spokenProductionObjective": "Express gratitude for a specific past action completed by a team member using -санд баярлалаа.",
+    "registerTarget": "Formal professional and interpersonal communicative register",
+    "pragmaticTarget": "Matching matrix verb valency to embedded participial case suffixes automatically.",
+    "prerequisiteLessonIds": [
+      "les_b1_137_01_participle_oblique_nominalization_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_137_01_participle_oblique_nominalization_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_137_nominalization_of_participles_in_ob"
+    ],
+    "reviewReason": "Intensive practice refining participial case governance before encountering complex texts.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Synthesize spoken complex sentences contrasting governing verb prepositions.",
+    "successCriteria": [
+      "Selects dative -д for emotional reaction matrix verbs (баярлах, талархах, харамсах)",
+      "Selects accusative -ыг for cognitive and volitional matrix verbs (мэдэх, санах, шаардах)"
+    ],
+    "masteryEvidence": "Produces 'Бидэнд тусалсанд тань маш их баярлалаа' and 'Төслийг хугацаанд нь дуусгахыг шаардав' accurately.",
+    "recommendedExerciseModalities": [
+      "matrix_verb_valency_matching",
+      "case_selection_cloze",
+      "error_correction"
+    ]
+  },
+  {
+    "lessonId": "les_b1_137_03_environmental_legislation_reading",
+    "unitId": "unit_b1_137_nominalization_of_participles_in_ob",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Reading Analysis: Environmental Protection Statutes & Legal Obligations",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Deconstruct authentic statutory provisions from the Mongolian Environmental Protection Law (Байгаль орчныг хамгаалах тухай хууль) featuring heavy nominalized participial clauses in oblique cases.",
+    "communicativeOutcome": "Interpret statutory prohibitions, citizen rights, and corporate environmental obligations in legislative Mongolian.",
+    "objectivesIntroduced": [
+      "obj_b1_137_03_read_environmental_statutes"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_137_01_decline_nominalized_participles"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_nominalization_participles_cases"
+    ],
+    "grammarReviewed": [
+      "gram_b1_converb_modal_manner_n"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_06_stating_purpose_long_term_goals"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_environment_geography_climate",
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "хууль",
+      "зөрчих",
+      "хамгаалах",
+      "үүрэг",
+      "хориглох",
+      "торгууль"
+    ],
+    "readingObjective": "Read a 300-word legal statute on protected watershed zones and identify 3 actions citizens are prohibited from taking.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "High statutory legal and regulatory register",
+    "pragmaticTarget": "Parsing dense legislative sentences with multiple nested participial nominalizations.",
+    "prerequisiteLessonIds": [
+      "les_b1_137_01_participle_oblique_nominalization_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_123_03_banking_terms_conditions_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_123_complex_banking_electronic_funds_tr"
+    ],
+    "reviewReason": "Extends contractual legal reading from banking to state environmental jurisprudence.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration of formal statutory articles.",
+    "successCriteria": [
+      "Unpacks complex nominalized participial clauses (-сныг хориглоно, -хад торгоно)",
+      "Identifies legal actor responsibilities and regulatory penalties"
+    ],
+    "masteryEvidence": "Identifies that discharging wastewater into river protective strips is subject to administrative fines.",
+    "recommendedExerciseModalities": [
+      "statute_clause_unbundling",
+      "obligation_extraction",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_137_04_environmental_advocacy_speech_listening",
+    "unitId": "unit_b1_137_nominalization_of_participles_in_ob",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Acoustic Comprehension: Parliamentary Testimony on Mining Reclamation Compliance",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop auditory listening comprehension for formal parliamentary standing committee testimony where an environmental inspector presents findings on whether mining companies fulfilled land reclamation mandates.",
+    "communicativeOutcome": "Track dense, high-register official oral testimony rich in nominalized participial constructions.",
+    "objectivesIntroduced": [
+      "obj_b1_137_04_comprehend_parliamentary_testimony"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_137_01_decline_nominalized_participles"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_137_03_read_environmental_statutes"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_nominalization_participles_cases"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_accusative_definite"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_participle_case_vowel_harmony"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_06_stating_purpose_long_term_goals"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_05_making_causal_arguments"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_environment_geography_climate",
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "уул уурхай",
+      "нөхөн сэргээлт",
+      "хяналт шалгалт",
+      "дүрэм",
+      "хариуцлага"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Listen to a 2.5-minute parliamentary testimony excerpt and transcribe 3 specific failures to remediate soil identified by the inspector.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "High parliamentary governmental testimony register",
+    "pragmaticTarget": "Tracking rapid oral syntax featuring multiple embedded nominalized clauses.",
+    "prerequisiteLessonIds": [
+      "les_b1_137_02_complex_nominalized_clauses_guided_practice",
+      "les_b1_137_03_environmental_legislation_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_125_02_academic_symposium_rebuttal_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_125_respectful_disagreement_constructiv"
+    ],
+    "reviewReason": "Expands spoken listening to high-stakes legislative oversight hearings.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic parliamentary committee chamber acoustics with formal oratorical delivery.",
+    "successCriteria": [
+      "Identifies nominalized participial clauses expressing past violations and future obligations",
+      "Extracts specific compliance statistics and regulatory sanction recommendations"
+    ],
+    "masteryEvidence": "Summarizes accurately that the company failed to perform biological topsoil remediation after open-pit excavation.",
+    "recommendedExerciseModalities": [
+      "audio_note_taking",
+      "testimony_transcription",
+      "summary_completion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_137_05_advocating_conservation_goals_spoken",
+    "unitId": "unit_b1_137_nominalization_of_participles_in_ob",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 5,
+    "title": "Spoken Production: Delivering an Environmental Advocacy Address",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an articulate 2-minute public address advocating for the protection of a endangered river basin or forest preserve, embedding goals and past findings via nominalized participles in oblique cases.",
+    "communicativeOutcome": "Inspire community action and communicate environmental urgency through sophisticated grammatical subordination.",
+    "objectivesIntroduced": [
+      "obj_b1_137_05_deliver_advocacy_address"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_137_01_decline_nominalized_participles",
+      "obj_b1_137_02_master_participle_case_governance"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_135_04_present_geographical_profile"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_nominalization_participles_cases"
+    ],
+    "grammarReviewed": [
+      "gram_a1_verb_tense_past_perfective_san"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_participle_case_vowel_harmony"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_06_stating_purpose_long_term_goals"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_03_expressing_opinions_agreements"
+    ],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_b1_environment_geography_climate",
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "байгаль",
+      "хамгаалах",
+      "үр хойч",
+      "гол мөрөн",
+      "эвдрэх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Deliver a 2-minute public speech calling for stricter watershed protection using at least 4 nominalized participles in oblique cases.",
+    "registerTarget": "Public oratorical civic advocacy register",
+    "pragmaticTarget": "Connecting legal imperatives to moral responsibility for future generations.",
+    "prerequisiteLessonIds": [
+      "les_b1_137_03_environmental_legislation_reading",
+      "les_b1_137_04_environmental_advocacy_speech_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_135_04_geographic_landscape_monologue_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_135_geographical_landscapes_khangai_mou"
+    ],
+    "reviewReason": "Synthesizes landscape appreciation into active environmental policy advocacy.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Benchmark audio recording of an inspirational environmental activist speech.",
+    "successCriteria": [
+      "Delivers a 2-minute speech integrating nominalized participles across at least 3 distinct oblique cases",
+      "Maintains passionate yet grammatically precise oratorical delivery"
+    ],
+    "masteryEvidence": "Delivers 'Байгаль дэлхийгээ онгоноор нь хадгалан үлдээхийг биднээс ирээдүй үе маань шаардаж байна' powerfully.",
+    "recommendedExerciseModalities": [
+      "timed_advocacy_speech",
+      "peer_critique",
+      "rhetorical_speech_rubric"
+    ]
+  },
+  {
+    "lessonId": "les_b1_138_01_subordinate_subject_genitive_syntax_intro",
+    "unitId": "unit_b1_138_subordinate_subject_genitive_case_m",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Subordinate Subject Marking: The Genitive Case in Embedded Clauses",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the mandatory syntactic rule of Mongolian complex clauses: when an embedded participial clause has a subject distinct from the matrix clause subject, that embedded subject must be marked in the Genitive case (Миний бичсэн захидал, Багшийн тайлбарласан дүрэм, Чиний ирэхийг би мэдсэнгүй).",
+    "communicativeOutcome": "Construct grammatically sound complex relative clauses and embedded complement clauses with non-identical subjects.",
+    "objectivesIntroduced": [
+      "obj_b1_138_01_mark_subordinate_subject_genitive"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_137_01_decline_nominalized_participles"
+    ],
+    "grammarIntroduced": [
+      "gram_b1_subordinate_subject_marking_genitive"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_genitive_possession",
+      "gram_b1_nominalization_participles_cases"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_genitive_subject_clitic_reduction"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_06_stating_purpose_long_term_goals"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_education_career_workplace",
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "багш",
+      "сурагч",
+      "хэлэх",
+      "хийх",
+      "бичих",
+      "ойлгох"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Convert 8 pairs of simple independent sentences into complex subordinate clauses requiring Genitive case marking on the embedded subject.",
+    "spokenProductionObjective": "Explain an action that a colleague took that influenced your personal project timeline.",
+    "registerTarget": "Standard formal written and conversational syntactic register",
+    "pragmaticTarget": "Eliminating nominative interference in subordinate clauses to sound natural and native-like.",
+    "prerequisiteLessonIds": [
+      "les_b1_137_05_advocating_conservation_goals_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_137_01_participle_oblique_nominalization_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_137_nominalization_of_participles_in_ob"
+    ],
+    "reviewReason": "Complements participial case declension by establishing proper subject case marking inside embedded clauses.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model subtle prosodic reduction of genitive subject clitics in spoken subordinate clauses.",
+    "successCriteria": [
+      "Marks embedded subjects with genitive suffixes (-ын/-ийн/-ний/-ны) whenever they differ from matrix subject",
+      "Applies genitive pronouns (миний, чиний, түүний, манай, танай, тэдний) correctly in relative clauses"
+    ],
+    "masteryEvidence": "Produces 'Багшийн заасан хичээл маш сонирхолтой байв' and 'Чиний хийсэн ажлыг захирал сайшаав' without error.",
+    "recommendedExerciseModalities": [
+      "sentence_combining",
+      "genitive_subject_insertion",
+      "error_correction"
+    ]
+  },
+  {
+    "lessonId": "les_b1_138_02_subject_switch_contrastive_guided_practice",
+    "unitId": "unit_b1_138_subordinate_subject_genitive_case_m",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Guided Practice: Subject Coreference vs Subject Disjointness in Subordination",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Master the structural contrast between: 1) Same-subject clauses utilizing converbs or reflexive-possessive marking (-аад, -нгаа, -хаараа), and 2) Different-subject clauses demanding Genitive subject marking + non-reflexive participial complementation.",
+    "communicativeOutcome": "Seamlessly switch between coreferential and disjoint-subject sentence patterns without syntactic confusion.",
+    "objectivesIntroduced": [
+      "obj_b1_138_02_master_subject_disjointness"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_138_01_mark_subordinate_subject_genitive"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_subordinate_subject_marking_genitive"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_nominative_unmarked",
+      "gram_b1_converb_limiting_ngaa"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_06_stating_purpose_long_term_goals"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "өөрийн",
+      "бусдын",
+      "туслах",
+      "хүлээх",
+      "дуусгах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Differentiate 8 sentences by marking subject coreference (reflexive) vs subject switch (genitive noun + agreement).",
+    "spokenProductionObjective": "Contribute 3 rapid spoken responses contrasting what you did versus what someone else's actions caused.",
+    "registerTarget": "Syntactic precision training register",
+    "pragmaticTarget": "Avoiding ambiguous actor attribution in complex collaborative workflow descriptions.",
+    "prerequisiteLessonIds": [
+      "les_b1_138_01_subordinate_subject_genitive_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_138_01_subordinate_subject_genitive_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_138_subordinate_subject_genitive_case_m"
+    ],
+    "reviewReason": "Intensive structural drill solidifying subject switch mechanics.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Synthesize sentences contrasting coreferential vs disjoint subject intonation patterns.",
+    "successCriteria": [
+      "Applies reflexive-possessive (-аа⁴) exclusively when the subject is identical to the matrix subject",
+      "Applies genitive marking exclusively when the embedded subject is distinct from matrix subject"
+    ],
+    "masteryEvidence": "Contrasts 'Би өөрийн хийсэн ажлыг шалгав' with 'Би түүний хийсэн ажлыг шалгав' with 100% accuracy.",
+    "recommendedExerciseModalities": [
+      "reflexive_vs_genitive_sorting",
+      "syntax_transformation",
+      "cloze_drill"
+    ]
+  },
+  {
+    "lessonId": "les_b1_138_03_biographical_memoir_reading",
+    "unitId": "unit_b1_138_subordinate_subject_genitive_case_m",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Reading Analysis: Mentorship Chronicles & Influential Historical Figures",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Deconstruct authentic excerpts from Mongolian autobiographies chronicling the pivotal impact of teachers, elders, and mentors (Багшийн минь захисан үг, Эцгийн минь сургасан ухаан).",
+    "communicativeOutcome": "Comprehend multi-clause biographical literature rich in complex relative clauses with genitive subjects.",
+    "objectivesIntroduced": [
+      "obj_b1_138_03_read_mentorship_memoirs"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_138_01_mark_subordinate_subject_genitive"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_subordinate_subject_marking_genitive"
+    ],
+    "grammarReviewed": [
+      "gram_a2_converb_purposive_khaar"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_06_stating_purpose_long_term_goals"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_education_career_workplace",
+      "lex_b1_culture_traditions_heritage"
+    ],
+    "previousVocabularyReused": [
+      "багш",
+      "сургааль",
+      "өвөг дээдэс",
+      "захиас",
+      "амьдралын зам"
+    ],
+    "readingObjective": "Read a 300-word memoir passage by an academician and trace 3 core lessons their mentors imparted through genitive-marked relative clauses.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "High literary biographical memoir register",
+    "pragmaticTarget": "Interpreting cultural respect (ахмадаа хүндэтгэх) encoded through formal syntactic deference.",
+    "prerequisiteLessonIds": [
+      "les_b1_138_01_subordinate_subject_genitive_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_128_03_biographical_narrative_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_128_durative_converb_suffixes_"
+    ],
+    "reviewReason": "Expands biographical reading by incorporating advanced disjoint-subject relative clauses.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration of mentorship memoir excerpt.",
+    "successCriteria": [
+      "Identifies genitive-marked subjects within complex nested relative clauses",
+      "Extracts specific life advice and moral teachings credited to elders"
+    ],
+    "masteryEvidence": "Identifies that 'Өвөөгийн минь хэлж сургасан үгс одоо ч миний амьдралын луужин болдог' attributes core values to grandfather's counsel.",
+    "recommendedExerciseModalities": [
+      "relative_clause_mapping",
+      "mentorship_extraction",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_138_04_collaborative_workflow_listening",
+    "unitId": "unit_b1_138_subordinate_subject_genitive_case_m",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Acoustic Comprehension: Team Handoffs & Inter-Departmental Dependencies",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop listening comprehension for workplace standup meetings where engineers and project leads report what their colleagues delivered and what dependencies remain.",
+    "communicativeOutcome": "Understand rapid spoken accounts of multi-person tasks where outcomes depend upon another person's prior actions.",
+    "objectivesIntroduced": [
+      "obj_b1_138_04_comprehend_team_dependencies"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_138_01_mark_subordinate_subject_genitive"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_130_04_coordinate_concurrent_tasks"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_subordinate_subject_marking_genitive"
+    ],
+    "grammarReviewed": [
+      "gram_b1_verb_derivation_denominal_lakh"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_genitive_subject_clitic_reduction"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_06_stating_purpose_long_term_goals"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_18_delegating_tasks_causative"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "баг",
+      "гүйцэтгэл",
+      "хүлээлгэн өгөх",
+      "шалгах",
+      "хамаарах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Listen to a 2.5-minute agile team scrum audio and map out 3 workflow dependencies between designers, developers, and testers.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "Modern tech-workplace collaborative register",
+    "pragmaticTarget": "Tracking disjoint-subject attribution in fast-moving workplace task updates.",
+    "prerequisiteLessonIds": [
+      "les_b1_138_02_subject_switch_contrastive_guided_practice",
+      "les_b1_138_03_biographical_memoir_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_130_04_workplace_multitasking_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_130_limiting_incidental_converb_suffixe"
+    ],
+    "reviewReason": "Expands workplace multitasking dialogue into complex multi-actor dependency listening.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic audio of three software professionals giving scrum updates with natural conversational pacing.",
+    "successCriteria": [
+      "Identifies who is responsible for each completed component based on genitive subject markers",
+      "Maps dependencies where Team Member B cannot begin until Team Member A submits deliverables"
+    ],
+    "masteryEvidence": "Correctly transcribes that the frontend developer is waiting for the designer's updated wireframes.",
+    "recommendedExerciseModalities": [
+      "dependency_flowchart_audio",
+      "actor_action_matching",
+      "summary_completion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_138_05_mentorship_tribute_spoken",
+    "unitId": "unit_b1_138_subordinate_subject_genitive_case_m",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 5,
+    "title": "Spoken Production: Delivering a Tribute Speech Honoring a Mentor's Guidance",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an articulate 2-minute tribute speech honoring a teacher, supervisor, or parent, detailing specific wisdom and principles they instilled using complex relative clauses with genitive subjects.",
+    "communicativeOutcome": "Deliver a moving, culturally resonant ceremonial tribute in formal spoken Mongolian.",
+    "objectivesIntroduced": [
+      "obj_b1_138_05_deliver_mentor_tribute"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_138_01_mark_subordinate_subject_genitive",
+      "obj_b1_138_02_master_subject_disjointness"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_137_05_deliver_advocacy_address"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_subordinate_subject_marking_genitive"
+    ],
+    "grammarReviewed": [
+      "gram_a1_verb_volitional_intention_ya"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_genitive_subject_clitic_reduction"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_06_stating_purpose_long_term_goals"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_01_narrating_personal_anecdotes"
+    ],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_b1_education_career_workplace",
+      "lex_b1_culture_traditions_heritage"
+    ],
+    "previousVocabularyReused": [
+      "багш",
+      "хүндэтгэл",
+      "ач гавьяа",
+      "ухаарал",
+      "баярлалаа"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Deliver a 2-minute tribute speech honoring a mentor using at least 4 genitive-subject subordinate clauses.",
+    "registerTarget": "High ceremonial tribute and formal celebratory register",
+    "pragmaticTarget": "Expressing deep gratitude (ач санах) through elevated syntax and warm affective tone.",
+    "prerequisiteLessonIds": [
+      "les_b1_138_03_biographical_memoir_reading",
+      "les_b1_138_04_collaborative_workflow_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_128_04_personal_transformation_anecdote_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_128_durative_converb_suffixes_"
+    ],
+    "reviewReason": "Synthesizes personal storytelling and grammatical subordination into formal ceremonial oratory.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Benchmark audio recording of an elegant tribute speech delivered at an academic jubilee.",
+    "successCriteria": [
+      "Delivers a 2-minute speech with correct genitive marking on all third-person embedded subjects",
+      "Integrates cultural expressions of gratitude with dignified oratorical cadence"
+    ],
+    "masteryEvidence": "Delivers 'Багшийн маань надад заасан зарчимч чанар өнөөдөр миний ажлын амжилтын үндэс болж байна' with moving eloquence.",
+    "recommendedExerciseModalities": [
+      "timed_tribute_monologue",
+      "peer_critique",
+      "ceremonial_speech_rubric"
+    ]
+  },
+  {
+    "lessonId": "les_b1_139_01_purposive_postpositions_morphosyntax_intro",
+    "unitId": "unit_b1_139_purposive_clauses_conjunctions_and_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosyntax of Purpose: Postpositions Тулд (In Order To) vs Төлөө (For the Sake Of)",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce formal purposive postpositional syntax: 1) Future participle in -х + тулд (action-oriented teleological purpose: амжилтад хүрэхийн тулд, ойлгохын тулд), and 2) Genitive noun/pronoun + төлөө (altruistic, beneficiary-oriented dedication: эх орныхоо төлөө, гэр бүлийнхээ төлөө).",
+    "communicativeOutcome": "Formulate complex goal-oriented sentences clearly distinguishing pragmatic instrumentality (-хын тулд) from moral/beneficiary commitment (-ын төлөө).",
+    "objectivesIntroduced": [
+      "obj_b1_139_01_form_purposive_clauses"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_138_01_mark_subordinate_subject_genitive"
+    ],
+    "grammarIntroduced": [
+      "gram_b1_clause_purposive_tuld_tuloo"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_verb_dictionary_infinitive_kh",
+      "gram_b1_subordinate_subject_marking_genitive"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_purposive_postposition_stress"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_06_stating_purpose_long_term_goals"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_education_career_workplace",
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "зорилго",
+      "төлөө",
+      "тулд",
+      "хийх",
+      "амжилт",
+      "ирээдүй"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft 6 sentences distinguishing between technical operational objectives (-хын тулд) and ideological causes (-ын төлөө).",
+    "spokenProductionObjective": "Explain why you are studying Mongolian and who or what inspires your dedication.",
+    "registerTarget": "Formal rhetorical, academic, and aspirational register",
+    "pragmaticTarget": "Distinguishing pragmatic instrumental goals from altruistic and moral life causes.",
+    "prerequisiteLessonIds": [
+      "les_b1_138_05_mentorship_tribute_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_126_01_causal_connectors_morphosyntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_126_causal_conjunctions_connectors_"
+    ],
+    "reviewReason": "Pairs backward-looking causal explanations (тул/учраас) with forward-looking purposive drivers (тулд/төлөө).",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model proper stress and pauses separating the purposive clause from matrix action.",
+    "successCriteria": [
+      "Combines future participle -х with genitive -ын before тулд (-хын тулд)",
+      "Uses -ын төлөө with nouns/pronouns denoting the beneficiary or noble cause"
+    ],
+    "masteryEvidence": "Produces 'Монгол хэлийг сайн сурахын тулд өдөр бүр хичээллэж байна' and 'Эх орныхоо хөгжлийн төлөө зүтгэнэ' accurately.",
+    "recommendedExerciseModalities": [
+      "postposition_selection",
+      "clause_combining",
+      "sentence_completion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_139_02_strategic_mission_vision_lexicon",
+    "unitId": "unit_b1_139_purposive_clauses_conjunctions_and_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Strategic Mission & Vision Lexicon: Institutional Mandates & Long-Term Objectives",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Acquire formal organizational vocabulary for mission statements, strategic visions, socio-economic goals, and civic aspirations (эрхэм зорилго, алсын хараа, зорилт, тууштай тэмцэх, хувь нэмэр оруулах).",
+    "communicativeOutcome": "Articulate organizational missions, corporate social responsibility pledges, and personal career visions in elevated Mongolian.",
+    "objectivesIntroduced": [
+      "obj_b1_139_02_strategic_mission_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_139_01_form_purposive_clauses"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_clause_purposive_tuld_tuloo"
+    ],
+    "grammarReviewed": [
+      "gram_b1_converb_abnutative_lgui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_06_stating_purpose_long_term_goals"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_education_career_workplace",
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "байгууллага",
+      "зорилго",
+      "төлөвлөгөө",
+      "хөгжил",
+      "үнэ цэнэ"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Author a 4-sentence institutional mission statement for a sustainable energy startup using purposive constructions.",
+    "spokenProductionObjective": "Explain your personal 5-year career vision at a graduate school admissions interview.",
+    "registerTarget": "High corporate strategic planning and NGO advocacy register",
+    "pragmaticTarget": "Projecting high-level vision and purposeful institutional leadership.",
+    "prerequisiteLessonIds": [
+      "les_b1_139_01_purposive_postpositions_morphosyntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_139_01_purposive_postpositions_morphosyntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_139_purposive_clauses_conjunctions_and_"
+    ],
+    "reviewReason": "Supplies elevated strategic vocabulary to embed within purposive grammatical clauses.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce formal organizational and aspirational collocations.",
+    "successCriteria": [
+      "Pairs strategic mission nouns with purposive postpositions correctly",
+      "Forms inspiring, coherent mission and vision statements"
+    ],
+    "masteryEvidence": "Produces 'Манай компани байгаль орчныг хамгаалахын тулд сэргээгдэх эрчим хүчийг түгээх эрхэм зорилготой' fluently.",
+    "recommendedExerciseModalities": [
+      "vision_statement_assembly",
+      "collocation_drill",
+      "contextual_cloze"
+    ]
+  },
+  {
+    "lessonId": "les_b1_139_03_ngo_charter_mission_reading",
+    "unitId": "unit_b1_139_purposive_clauses_conjunctions_and_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Reading Analysis: NGO Charters & Community Development Grant Proposals",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Deconstruct authentic charters of prominent Mongolian non-governmental organizations (e.g., child welfare, environmental preservation, rural education) and international donor project goals.",
+    "communicativeOutcome": "Extract target beneficiary groups, project deliverables, and strategic aims from institutional charters and grant proposals.",
+    "objectivesIntroduced": [
+      "obj_b1_139_03_read_ngo_charters"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_139_01_form_purposive_clauses"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_clause_purposive_tuld_tuloo"
+    ],
+    "grammarReviewed": [
+      "gram_a2_reported_speech_gej_kheleh"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_06_stating_purpose_long_term_goals"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_education_career_workplace",
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "төрийн бус байгууллага",
+      "төсөл",
+      "дэмжлэг",
+      "нийгэм",
+      "хэрэгжүүлэх"
+    ],
+    "readingObjective": "Read a 300-word NGO charter for rural girl education and list 2 overarching goals (-ын төлөө) and 3 specific intervention mechanisms (-ын тулд).",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "Formal non-profit and developmental funding register",
+    "pragmaticTarget": "Identifying measurable project outputs vs aspirational social missions.",
+    "prerequisiteLessonIds": [
+      "les_b1_139_01_purposive_postpositions_morphosyntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_137_03_environmental_legislation_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_137_nominalization_of_participles_in_ob"
+    ],
+    "reviewReason": "Expands formal reading from legal statutory prohibitions to developmental purposive mandates.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration of non-profit organizational charter.",
+    "successCriteria": [
+      "Accurately separates overarching moral missions from specific technical intervention targets",
+      "Identifies purposive clauses marking donor funding conditions"
+    ],
+    "masteryEvidence": "Identifies that the grant funds mobile libraries in order to improve literacy in remote aimags.",
+    "recommendedExerciseModalities": [
+      "grant_goal_matrix",
+      "purpose_mechanism_sorting",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_139_04_grant_proposal_pitch_spoken",
+    "unitId": "unit_b1_139_purposive_clauses_conjunctions_and_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Spoken Production: Delivering an Elevator Pitch for a Social Impact Project",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver a 2-minute elevator pitch to a panel of philanthropic donors requesting support for a community initiative, passionately detailing who the initiative serves (-ын төлөө) and what specific activities will be funded (-ын тулд).",
+    "communicativeOutcome": "Persuade stakeholders and secure buy-in for a social or environmental venture through compelling purposive rhetoric.",
+    "objectivesIntroduced": [
+      "obj_b1_139_04_pitch_social_impact_project"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_139_01_form_purposive_clauses",
+      "obj_b1_139_02_strategic_mission_vision_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_137_05_deliver_advocacy_address"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_clause_purposive_tuld_tuloo"
+    ],
+    "grammarReviewed": [
+      "gram_a1_verb_imperative_polite_aarai"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_purposive_postposition_stress"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_06_stating_purpose_long_term_goals"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_03_expressing_opinions_agreements"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_education_career_workplace",
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "хандив",
+      "дэмжих",
+      "үр нөлөө",
+      "иргэд",
+      "өөрчлөлт"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Deliver a 2-minute oral pitch proposing a community greenhouse project to improve winter food security in ger districts.",
+    "registerTarget": "Persuasive entrepreneurial and social venture pitch register",
+    "pragmaticTarget": "Balancing emotional resonance for the beneficiary with practical operational feasibility.",
+    "prerequisiteLessonIds": [
+      "les_b1_139_02_strategic_mission_vision_lexicon",
+      "les_b1_139_03_ngo_charter_mission_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_137_05_advocating_conservation_goals_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_137_nominalization_of_participles_in_ob"
+    ],
+    "reviewReason": "Synthesizes environmental advocacy with structured purposive project pitching.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Provide benchmark audio recording of a charismatic Mongolian social entrepreneur delivering a pitch.",
+    "successCriteria": [
+      "Delivers a 2-minute structured pitch utilizing -ын тулд and -ын төлөө at least 2 times each",
+      "States clear problem, proposed intervention, beneficiary impact, and specific funding request"
+    ],
+    "masteryEvidence": "Delivers 'Хүүхдүүдийнхээ эрүүл ирээдүйн төлөө, тэдэнд шинэ ногоо нийлүүлэхийн тулд энэхүү хүлэмжийг байгуулах гэж байна' persuasively.",
+    "recommendedExerciseModalities": [
+      "pitch_presentation",
+      "donor_q_and_a_simulation",
+      "peer_critique"
+    ]
+  },
+  {
+    "lessonId": "les_b1_140_01_agentive_participle_morphology_intro",
+    "unitId": "unit_b1_140_agentive_participle_nominal_derivat",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Professional Agents & Doers: The Agentive Participle Suffix -гч",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the productive agentive nominalizer -гч (attached directly to verbal stems with connective vowels: -агч/-эгч/-огч/-өгч after consonants) denoting: 1) professional practitioners (судлаач/судлагч, орчуулагч, хөтлөгч, хамгаалагч), 2) transactional roles (худалдан авагч, хэрэглэгч, зээлдэгч), and 3) dynamic participial agents in syntax.",
+    "communicativeOutcome": "Formulate professional titles, legal role designations, and actor definitions systematically from action verbs.",
+    "objectivesIntroduced": [
+      "obj_b1_140_01_form_agentive_participles"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_139_01_form_purposive_clauses"
+    ],
+    "grammarIntroduced": [
+      "gram_b1_participle_agentive_gch"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_sov_word_order",
+      "gram_b1_voice_causative_uul_lga"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_agentive_gch_connective_vowels"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_vowel_harmony_basic"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_24_discussing_education_career_path"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "сурах",
+      "заах",
+      "хөтлөх",
+      "хамгаалах",
+      "орчуулах",
+      "авах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Derive 10 professional and institutional titles by attaching -гч to verbal roots with correct connective vowels.",
+    "spokenProductionObjective": "Explain the role and responsibilities of 3 different professional positions in your industry.",
+    "registerTarget": "Standard formal professional and occupational register",
+    "pragmaticTarget": "Deriving occupational titles on the fly when describing specialized workflows.",
+    "prerequisiteLessonIds": [
+      "les_b1_139_04_grant_proposal_pitch_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_112_03_competency_lexicon_qualifications"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_112_job_searching_cv_preparation_qualif"
+    ],
+    "reviewReason": "Formalizes the morphological derivation of professional titles introduced lexically in Unit 112.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Demonstrate the short connective vowel before -гч (-агч/-эгч/-огч/-өгч) in spoken Mongolian.",
+    "successCriteria": [
+      "Selects appropriate connective vowel adhering to 4-fold vowel harmony",
+      "Distinguishes -гч from other nominalizers (-ч, -чин) in occupational contexts"
+    ],
+    "masteryEvidence": "Produces 'хөтлөгч', 'орчуулагч', 'судлаач', and 'худалдан авагч' with flawless morphological accuracy.",
+    "recommendedExerciseModalities": [
+      "suffix_derivation",
+      "verb_to_occupation_matching",
+      "sentence_completion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_140_02_occupational_specializations_lexicon",
+    "unitId": "unit_b1_140_agentive_participle_nominal_derivat",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Occupational Specializations Lexicon: Modern Technologists, Creators & Regulators",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Acquire modern professional and institutional designations formed with -гч across modern technology, healthcare, environmental science, and legal compliance (хөгжүүлэгч, судлаач, хянагч, шинжээч, зохион байгуулагч, нийлүүлэгч).",
+    "communicativeOutcome": "Discuss modern 21st-century job titles, career specializations, and departmental functions in Mongolian.",
+    "objectivesIntroduced": [
+      "obj_b1_140_02_occupational_specializations_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_140_01_form_agentive_participles"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_participle_agentive_gch"
+    ],
+    "grammarReviewed": [
+      "gram_b1_nominalization_participles_cases"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_24_discussing_education_career_path"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_education_career_workplace",
+      "lex_b1_media_digital_society"
+    ],
+    "previousVocabularyReused": [
+      "мэргэжил",
+      "салбар",
+      "хариуцах",
+      "систем",
+      "технологи"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft job descriptions for 3 modern roles (e.g. программ хангамж хөгжүүлэгч, байгаль орчны шинжээч, чанарын хянагч).",
+    "spokenProductionObjective": "Explain your daily responsibilities using modern occupational agentive titles.",
+    "registerTarget": "Modern high-tech and corporate human resources register",
+    "pragmaticTarget": "Navigating modern digital and professional labor market terminology in Mongolian.",
+    "prerequisiteLessonIds": [
+      "les_b1_140_01_agentive_participle_morphology_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_140_01_agentive_participle_morphology_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_140_agentive_participle_nominal_derivat"
+    ],
+    "reviewReason": "Supplies modern occupational vocabulary to enrich agentive morphology.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronunciation of modern corporate job titles and professional designations.",
+    "successCriteria": [
+      "Uses modern occupational terms accurately in professional contexts",
+      "Explains the operational scope of different specialist titles"
+    ],
+    "masteryEvidence": "Produces 'Программ хангамж хөгжүүлэгчид системийн аюулгүй байдлыг хангах үүрэгтэй' without error.",
+    "recommendedExerciseModalities": [
+      "job_title_matching",
+      "career_role_definition",
+      "contextual_cloze"
+    ]
+  },
+  {
+    "lessonId": "les_b1_140_03_labor_market_trends_reading",
+    "unitId": "unit_b1_140_agentive_participle_nominal_derivat",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Reading Analysis: National Labor Market Trends & Future of Work Reports",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Deconstruct authentic labor market reports from the Ministry of Labor and Social Protection analyzing high-demand occupations, STEM sector deficits, and green economy jobs.",
+    "communicativeOutcome": "Comprehend workforce analytics, employment demand forecasts, and vocational skill shortage assessments in formal Mongolian.",
+    "objectivesIntroduced": [
+      "obj_b1_140_03_read_labor_market_reports"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_140_01_form_agentive_participles"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_participle_agentive_gch"
+    ],
+    "grammarReviewed": [
+      "gram_a2_verb_past_resultative_zhee",
+      "gram_b1_clause_purposive_tuld_tuloo"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_24_discussing_education_career_path"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_education_career_workplace",
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "хөдөлмөрийн зах зээл",
+      "эрэлт",
+      "нийлүүлэлт",
+      "ур чадвар",
+      "цалин"
+    ],
+    "readingObjective": "Read a 300-word excerpt from a national labor review and identify the 3 fastest growing professions and their required educational qualifications.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "Formal socio-economic statistical and labor policy register",
+    "pragmaticTarget": "Interpreting workforce metrics and supply/demand projections.",
+    "prerequisiteLessonIds": [
+      "les_b1_140_01_agentive_participle_morphology_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_126_03_socio_economic_causality_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_126_causal_conjunctions_connectors_"
+    ],
+    "reviewReason": "Connects macroeconomic demographic trends with labor market occupational demands.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration of labor market analysis.",
+    "successCriteria": [
+      "Identifies agentive occupational titles across growth industries",
+      "Extracts salary benchmarks and technical certification prerequisites"
+    ],
+    "masteryEvidence": "Identifies that data analysts (өгөгдлийн шинжээч) and renewable engineers (сэргээгдэх эрчим хүчний инженер) face acute supply shortages.",
+    "recommendedExerciseModalities": [
+      "labor_table_extraction",
+      "demand_ranking",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_140_04_career_counseling_panel_discussion",
+    "unitId": "unit_b1_140_agentive_participle_nominal_derivat",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Discussion: Career Paths, Educational Pathways & Future-Proof Skills",
+    "lessonType": "discussion",
+    "primaryPurpose": "Participate in a university career development panel debating which professional paths offer greatest long-term stability and social impact in developing Mongolia.",
+    "communicativeOutcome": "Evaluate educational trajectories, debate the merits of technical vocational trades versus academic credentials, and counsel peers.",
+    "objectivesIntroduced": [
+      "obj_b1_140_04_debate_career_pathways"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_140_01_form_agentive_participles",
+      "obj_b1_140_02_occupational_specializations_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_133_01_professional_advisory_formulas"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_participle_agentive_gch"
+    ],
+    "grammarReviewed": [
+      "gram_b1_epistemic_probability_bololtoi_magadgui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_agentive_gch_connective_vowels"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_24_discussing_education_career_path"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_16_giving_advice_recommendations"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "ирээдүй",
+      "сонголт",
+      "боловсрол",
+      "мэргэжил эзэмших",
+      "амжилт"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Contribute 4 speaking turns comparing the employment prospects of traditional livestock agronomy versus AI technology.",
+    "registerTarget": "Mentorship and career guidance panel register",
+    "pragmaticTarget": "Balancing personal passion with empirical labor market viability.",
+    "prerequisiteLessonIds": [
+      "les_b1_140_02_occupational_specializations_lexicon",
+      "les_b1_140_03_labor_market_trends_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_133_03_executive_advisory_consultation_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_133_giving_professional_advice_actionab"
+    ],
+    "reviewReason": "Synthesizes professional advisory dialogue with specific occupational career trajectory analysis.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Provide discussion prompts and contrasting viewpoints by experienced career mentors.",
+    "successCriteria": [
+      "Contributes 4 analytical turns integrating agentive occupational titles fluently",
+      "Weighs educational costs, market demand, and societal contribution realistically"
+    ],
+    "masteryEvidence": "Articulates 'Орчин үед программ хөгжүүлэгч төдийгүй байгаль орчны шинжээчдийн үүрэг нийгэмд улам бүр өсөн нэмэгдэж байна' persuasively.",
+    "recommendedExerciseModalities": [
+      "career_roundtable",
+      "pathway_evaluation",
+      "peer_critique"
+    ]
+  },
+  {
+    "lessonId": "les_b1_141_01_similative_postpositions_morphosyntax_intro",
+    "unitId": "unit_b1_141_similative_postpositions_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosyntax of Analogy: Similative Postpositions Шиг, Адил & Мэт",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the similative postpositional system: 1) Colloquial/neutral шиг (direct simile: шувуу шиг нисэх, өчигдөр шиг хүйтэн), 2) Formal/equative адил with dative or comitative (түүнтэй адил, урьдын адил), and 3) Elevated literary/philosophical мэт (nominal/participial analogy: зүүд мэт, мэдсэн мэт).",
+    "communicativeOutcome": "Formulate sophisticated similes, analogies, and comparative metaphors across everyday and literary registers.",
+    "objectivesIntroduced": [
+      "obj_b1_141_01_form_similative_comparisons"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_140_01_form_agentive_participles"
+    ],
+    "grammarIntroduced": [
+      "gram_b1_postpositions_similative_shig_adil_met"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a2_participle_relative_clause_past_san",
+      "gram_b1_subordinate_subject_marking_genitive"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_similative_postposition_cliticization"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_08_speculating_visual_evidence"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_culture_traditions_heritage"
+    ],
+    "previousVocabularyReused": [
+      "адил",
+      "шиг",
+      "мэт",
+      "өөр",
+      "ижил",
+      "төстэй"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft 6 comparative sentences utilizing шиг, адил, and мэт across varying stylistic registers.",
+    "spokenProductionObjective": "Describe a majestic landscape feature comparing it poetically to a familiar object using similatives.",
+    "registerTarget": "Expressive descriptive, literary, and formal analytical register",
+    "pragmaticTarget": "Calibrating register: using шиг in daily speech while elevating to мэт in written cultural commentary.",
+    "prerequisiteLessonIds": [
+      "les_b1_140_04_career_counseling_panel_discussion"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_132_01_epistemic_particles_morphosyntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_132_epistemic_probability_particles_vs_"
+    ],
+    "reviewReason": "Bridges epistemic speculation (бололтой) into figurative visual analogies (мэт).",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Demonstrate the clitic-like prosodic attachment of шиг and мэт to preceding noun phrases.",
+    "successCriteria": [
+      "Selects appropriate similative postposition matching communicative register",
+      "Pairs participles correctly with мэт (хийсэн мэт, бодсон мэт) to express hypothetical manner"
+    ],
+    "masteryEvidence": "Produces 'Тэр юу ч болоогүй мэт тайван сууж байв' and 'Урьдын адил хичээнгүй ажиллах хэрэгтэй' flawlessly.",
+    "recommendedExerciseModalities": [
+      "postposition_selection",
+      "simile_construction",
+      "sentence_completion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_141_02_poetic_metaphors_nature_lexicon",
+    "unitId": "unit_b1_141_similative_postpositions_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Nomadic Metaphors & Nature Imagery: Similes of the Steppe, Animals & Sky",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Acquire traditional Mongolian metaphorical expressions and figurative idioms rooted in the natural world: eagle vision (бүргэд шиг хурц), mountain solidity (уул шиг нөмөртэй), swift galloping wind (хүлэг шиг хурдан, хуй салхи мэт).",
+    "communicativeOutcome": "Incorporate authentic nomadic cultural similes and nature-based metaphors into oral storytelling and literary writing.",
+    "objectivesIntroduced": [
+      "obj_b1_141_02_nomadic_nature_metaphors_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_141_01_form_similative_comparisons"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_postpositions_similative_shig_adil_met"
+    ],
+    "grammarReviewed": [
+      "gram_a2_participle_relative_clause_habitual_dag"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_08_speculating_visual_evidence"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_culture_traditions_heritage",
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "бүргэд",
+      "уул",
+      "хүлэг",
+      "салхи",
+      "тод",
+      "хүчтэй"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Formulate 4 sentences describing human character traits using traditional Mongolian animal and landscape similes.",
+    "spokenProductionObjective": "Praise a friend's generosity or resilience using a culturally grounded nature metaphor.",
+    "registerTarget": "Traditional folkloric and expressive literary register",
+    "pragmaticTarget": "Using culturally authentic imagery that resonates with Mongolian aesthetic sensibilities.",
+    "prerequisiteLessonIds": [
+      "les_b1_141_01_similative_postpositions_morphosyntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_141_01_similative_postpositions_morphosyntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_141_similative_postpositions_"
+    ],
+    "reviewReason": "Supplies vivid cultural and ecological vocabulary to populate similative constructions.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce idiomatic nature similes with proper cadence.",
+    "successCriteria": [
+      "Pairs cultural attributes correctly with their standard metaphorical vehicle (уул шиг нөмөр, бүргэд мэт хараа)",
+      "Applies metaphors appropriately without clashing connotations"
+    ],
+    "masteryEvidence": "Produces 'Аав минь үр хүүхдэдээ уул шиг нөмөртэй, халамжтай хүн байлаа' with cultural resonance.",
+    "recommendedExerciseModalities": [
+      "metaphor_matching",
+      "cultural_imagery_cloze",
+      "sentence_expansion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_141_03_mongolian_poetry_lyrics_reading",
+    "unitId": "unit_b1_141_similative_postpositions_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Reading Analysis: Celebrated Mongolian Lyrical Poetry & Song Texts",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Deconstruct celebrated lyrical poems and traditional song texts (e.g., works by B. Yavuukhulan, D. Natsagdorj, or modern folk-rock lyrics) rich in similative analogies (мэт, шиг) celebrating motherland, horses, and motherly love.",
+    "communicativeOutcome": "Appreciate classical poetic meter, interpret rich allegorical imagery, and decipher figurative symbolism in Mongolian verse.",
+    "objectivesIntroduced": [
+      "obj_b1_141_03_read_lyrical_poetry"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_141_01_form_similative_comparisons"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_postpositions_similative_shig_adil_met",
+      "gram_b1_participle_agentive_gch"
+    ],
+    "grammarReviewed": [
+      "gram_a2_participle_relative_clause_future_kh"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_08_speculating_visual_evidence"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_culture_traditions_heritage"
+    ],
+    "previousVocabularyReused": [
+      "шүлэг",
+      "дуу",
+      "эх орон",
+      "хайр",
+      "эх хүн",
+      "эгшиг"
+    ],
+    "readingObjective": "Read a 20-line classic lyric poem and identify 4 distinct similes comparing the homeland to family or cosmic elements.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "High classical poetic and lyrical verse register",
+    "pragmaticTarget": "Appreciating parallel syntactic structures characteristic of traditional Mongolian alliteration (толгой холболт).",
+    "prerequisiteLessonIds": [
+      "les_b1_141_01_similative_postpositions_morphosyntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_134_02_film_reviews_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_134_film_literary_criticism_evaluating_"
+    ],
+    "reviewReason": "Deepens cultural text analysis from journalistic arts reviews to classical lyrical verse.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Artistic recitation of classic Mongolian poetry by a renowned voice artist with morin khuur background.",
+    "successCriteria": [
+      "Identifies alliterative sound patterning and similative markers in poetic stanzas",
+      "Explains the allegorical significance of natural symbols in the text"
+    ],
+    "masteryEvidence": "Interprets that 'Миний нутаг сүүн далай мэт цэлгэр' symbolizes maternal purity and infinite expanse.",
+    "recommendedExerciseModalities": [
+      "verse_analysis",
+      "imagery_mapping",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_141_04_lyrical_landscape_monologue_spoken",
+    "unitId": "unit_b1_141_similative_postpositions_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Spoken Production: Delivering a Poetic Homage to Mongolia's Landscapes",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an expressive 2-minute oral monologue describing the beauty of a morning in the countryside, weaving rich visual analogies with шиг, адил, and мэт.",
+    "communicativeOutcome": "Produce evocative, emotionally engaging descriptive spoken discourse that captures the aesthetic spirit of the Mongolian wilderness.",
+    "objectivesIntroduced": [
+      "obj_b1_141_04_deliver_poetic_landscape_monologue"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_141_01_form_similative_comparisons",
+      "obj_b1_141_02_nomadic_nature_metaphors_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_135_04_present_geographical_profile"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_postpositions_similative_shig_adil_met"
+    ],
+    "grammarReviewed": [
+      "gram_a2_participle_negative_aagui",
+      "gram_b1_voice_causative_argument_structure"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_similative_postposition_cliticization"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_08_speculating_visual_evidence"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_01_narrating_personal_anecdotes"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_culture_traditions_heritage",
+      "lex_b1_environment_geography_climate"
+    ],
+    "previousVocabularyReused": [
+      "өглөө",
+      "хөдөө",
+      "байгаль",
+      "үзэсгэлэн",
+      "гоо сайхан"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Deliver a 2-minute poetic spoken description of sunrise over the steppe utilizing at least 3 distinct similative postpositions.",
+    "registerTarget": "Elevated poetic and expressive spoken register",
+    "pragmaticTarget": "Conveying deep aesthetic wonder through calibrated vocal inflection and imagery.",
+    "prerequisiteLessonIds": [
+      "les_b1_141_02_poetic_metaphors_nature_lexicon",
+      "les_b1_141_03_mongolian_poetry_lyrics_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_135_04_geographic_landscape_monologue_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_135_geographical_landscapes_khangai_mou"
+    ],
+    "reviewReason": "Synthesizes scientific geography with heartfelt cultural and poetic expression.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Benchmark recording of an expressive spoken aesthetic landscape tribute.",
+    "successCriteria": [
+      "Delivers a 2-minute spoken homage using шиг, адил, and мэт accurately",
+      "Maintains evocative rhythm and expressive cadence throughout"
+    ],
+    "masteryEvidence": "Delivers 'Үүр цайх үед тал нутаг алтан шар далай мэт туяарч, салхи нь торго шиг зөөлхөн үлээж байв' poetically.",
+    "recommendedExerciseModalities": [
+      "poetic_monologue",
+      "peer_aesthetic_critique",
+      "imagery_evaluation"
+    ]
+  },
+  {
+    "lessonId": "les_b1_142_01_temporal_postpositions_morphosyntax_intro",
+    "unitId": "unit_b1_142_temporal_framing_clauses_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosyntax of Temporal Anchoring: Өмнө, Дараа & Үед with Participles",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the formal temporal framing postpositional system: 1) Future participle in -х + өмнө (-хын өмнө 'before doing'), 2) Past participle in -сан + дараа (-сны дараа 'after doing'), and 3) Participial stem + үед (-х үед, -сан үед 'at the time when, during, upon').",
+    "communicativeOutcome": "Anchor events chronologically with explicit relative time frames, sequencing complex multi-phase activities.",
+    "objectivesIntroduced": [
+      "obj_b1_142_01_form_temporal_framing_clauses"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_141_01_form_similative_comparisons"
+    ],
+    "grammarIntroduced": [
+      "gram_b1_clause_temporal_omno_daraa_yed"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_temporal",
+      "gram_b1_clause_purposive_tuld_tuloo"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_temporal_clause_pause_boundary"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_02_sequencing_past_chronology"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "өмнө",
+      "дараа",
+      "үед",
+      "эхлэх",
+      "дуусах",
+      "хийх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Combine 6 pairs of events into complex chronological sentences using -хын өмнө, -сны дараа, and -х үед.",
+    "spokenProductionObjective": "Explain the step-by-step sequence of preparing for an international departure using temporal clauses.",
+    "registerTarget": "Standard formal spoken and written chronological register",
+    "pragmaticTarget": "Establishing unambiguous relative temporal sequencing across complex procedures.",
+    "prerequisiteLessonIds": [
+      "les_b1_141_04_lyrical_landscape_monologue_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_127_01_contemporaneous_converb_morphology_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_127_contemporaneous_converb_suffixes_"
+    ],
+    "reviewReason": "Advances temporal sequencing from converbs (-магц) to full participial postpositional framing clauses.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Demonstrate the clause-boundary prosodic pause following temporal framing postpositions.",
+    "successCriteria": [
+      "Combines future participle with genitive before өмнө (-хын өмнө)",
+      "Combines past participle with genitive before дараа (-сны дараа)",
+      "Uses participial stem directly before үед (-х үед / -сан үед)"
+    ],
+    "masteryEvidence": "Produces 'Хурал эхлэхийн өмнө бичиг баримтаа тараасан', 'Ирснийхээ дараа холбоо бариарай', and 'Түүнийг ярих үед бүгд чимээгүй болов' accurately.",
+    "recommendedExerciseModalities": [
+      "temporal_postposition_selection",
+      "chronological_clause_combining",
+      "sentence_completion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_142_02_historical_chronology_reading",
+    "unitId": "unit_b1_142_temporal_framing_clauses_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Reading Analysis: Chronological Treatises on Mongolian History & Modern Treaties",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Deconstruct authentic historical treatises and diplomatic chronologies documenting key milestones: the declaration of independence (1911), the 1921 revolution, and the 1990 democratic transition.",
+    "communicativeOutcome": "Trace complex historical cause-and-effect chronologies across decades using temporal framing markers.",
+    "objectivesIntroduced": [
+      "obj_b1_142_02_read_historical_chronologies"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_142_01_form_temporal_framing_clauses"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_clause_temporal_omno_daraa_yed"
+    ],
+    "grammarReviewed": [
+      "gram_b1_voice_passive_gd"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_02_sequencing_past_chronology"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_culture_traditions_heritage",
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "түүх",
+      "тусгаар тогтнол",
+      "хувьсгал",
+      "гэрээ",
+      "он жилүүд"
+    ],
+    "readingObjective": "Read a 300-word historical timeline of the 1990 democratic transformation and sequence 5 major political steps.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "High historiographical and diplomatic archival register",
+    "pragmaticTarget": "Tracking historical precedents and diplomatic treaty timelines.",
+    "prerequisiteLessonIds": [
+      "les_b1_142_01_temporal_postpositions_morphosyntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_127_03_memoir_journalism_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_127_contemporaneous_converb_suffixes_"
+    ],
+    "reviewReason": "Expands non-fiction reading from personal memoirs to national historical chronicles.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration of historical chronicle excerpt.",
+    "successCriteria": [
+      "Identifies temporal postpositional clauses marking historical turning points",
+      "Maps sequenced historical events onto an accurate chronological timeline"
+    ],
+    "masteryEvidence": "Identifies that national multi-party elections took place after the hunger strike ended in Sukhbaatar Square.",
+    "recommendedExerciseModalities": [
+      "historical_timeline_mapping",
+      "temporal_clause_extraction",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_142_03_historical_documentary_listening",
+    "unitId": "unit_b1_142_temporal_framing_clauses_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Comprehension: Television Documentary on Archaeological Excavations",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop auditory listening comprehension for an authentic television documentary on Hunnu and Turkic archaeological discoveries in the Orkhon Valley, tracking excavation phases over time.",
+    "communicativeOutcome": "Understand spoken historical and archaeological narratives detailing chronological discoveries, dating methodologies, and cultural preservation.",
+    "objectivesIntroduced": [
+      "obj_b1_142_03_comprehend_archaeological_documentary"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_142_01_form_temporal_framing_clauses"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_136_03_comprehend_aimag_travel_broadcast"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_clause_temporal_omno_daraa_yed"
+    ],
+    "grammarReviewed": [
+      "gram_b1_postpositions_similative_shig_adil_met"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_temporal_clause_pause_boundary"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_02_sequencing_past_chronology"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_culture_traditions_heritage",
+      "lex_b1_environment_geography_climate"
+    ],
+    "previousVocabularyReused": [
+      "археологи",
+      "малтлага",
+      "олдвор",
+      "эртний",
+      "судлах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Listen to a 2.5-minute documentary narration and transcribe the chronological sequence of unearthing a royal tomb.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "High documentary broadcast register",
+    "pragmaticTarget": "Tracking complex multi-phase scientific and historical field procedures in speech.",
+    "prerequisiteLessonIds": [
+      "les_b1_142_01_temporal_postpositions_morphosyntax_intro",
+      "les_b1_142_02_historical_chronology_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_136_03_regional_tourism_dispatch_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_136_administrative_geography_the_21_aim"
+    ],
+    "reviewReason": "Expands broadcast listening from travel tourism to serious archaeological and historical documentaries.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic documentary voice-over with atmospheric acoustic score and outdoor excavation sound design.",
+    "successCriteria": [
+      "Identifies temporal markers sequencing the excavation milestones",
+      "Extracts specific artifact descriptions and historical dating estimates"
+    ],
+    "masteryEvidence": "Summarizes accurately that researchers performed carbon-14 dating after securing gold and ceramic artifacts from the burial chamber.",
+    "recommendedExerciseModalities": [
+      "audio_timeline_completion",
+      "artifact_phase_matching",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_142_04_procedural_briefing_dialogue",
+    "unitId": "unit_b1_142_temporal_framing_clauses_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Interactive Dialogue: Walkthrough of a Complex Multi-Stage Operational Protocol",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Simulate a detailed operational briefing between an expedition lead and logistics officer running through pre-departure vehicle checks, mid-route refueling windows, and emergency checkpoints.",
+    "communicativeOutcome": "Explain, verify, and sequence multi-phase procedural operations without temporal ambiguity.",
+    "objectivesIntroduced": [
+      "obj_b1_142_04_brief_operational_protocol"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_142_01_form_temporal_framing_clauses",
+      "obj_b1_142_03_comprehend_archaeological_documentary"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_130_04_coordinate_concurrent_tasks"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_clause_temporal_omno_daraa_yed"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_temporal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_temporal_clause_pause_boundary"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_02_sequencing_past_chronology"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_16_giving_advice_recommendations"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_education_career_workplace",
+      "lex_b1_travel_transport_tourism"
+    ],
+    "previousVocabularyReused": [
+      "заавар",
+      "үе шат",
+      "бэлтгэл",
+      "шалгалт",
+      "хариуцах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Conduct an 8-turn operational dialogue verifying what tasks must be finalized before crossing the mountain pass.",
+    "registerTarget": "High-precision operational logistics register",
+    "pragmaticTarget": "Confirming critical procedural prerequisites to avoid safety mishaps.",
+    "prerequisiteLessonIds": [
+      "les_b1_142_02_historical_chronology_reading",
+      "les_b1_142_03_historical_documentary_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_130_04_workplace_multitasking_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_130_limiting_incidental_converb_suffixe"
+    ],
+    "reviewReason": "Synthesizes multi-tasking coordination with strict chronological procedural sequencing.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Realistic dialogue between two expedition organizers walking through logistics.",
+    "successCriteria": [
+      "Sustains multi-turn dialogue verifying pre-conditions and post-conditions",
+      "Uses -хын өмнө, -сны дараа, and -х үед accurately to organize operational phases"
+    ],
+    "masteryEvidence": "Negotiates 'Даваа давахаас өмнө шатахуунаа дүүргэж, хөтчөө ирсний дараа хөдөлцгөөе' fluently.",
+    "recommendedExerciseModalities": [
+      "branching_logistics_briefing",
+      "checklist_verification_drill",
+      "spoken_roleplay"
+    ]
+  },
+  {
+    "lessonId": "les_b1_142_05_chronological_case_study_writing",
+    "unitId": "unit_b1_142_temporal_framing_clauses_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 5,
+    "title": "Writing Workshop: Authoring a 150-Word Historical or Project Timeline Chronicle",
+    "lessonType": "writing",
+    "primaryPurpose": "Compose a structured 150-word analytical narrative documenting the multi-phase evolution of an organization, historical movement, or major expedition.",
+    "communicativeOutcome": "Produce a tightly sequenced historical or professional chronicle with clear relative temporal milestones.",
+    "objectivesIntroduced": [
+      "obj_b1_142_05_write_chronological_case_study"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_142_01_form_temporal_framing_clauses",
+      "obj_b1_142_04_brief_operational_protocol"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_134_05_author_published_review"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_clause_temporal_omno_daraa_yed"
+    ],
+    "grammarReviewed": [
+      "gram_b1_voice_passive_gd"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_02_sequencing_past_chronology"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_05_making_causal_arguments"
+    ],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_culture_traditions_heritage"
+    ],
+    "previousVocabularyReused": [
+      "түүх",
+      "хөгжил",
+      "үе шат",
+      "амжилт",
+      "үр дүн"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Author a 150-word historical or project timeline essay integrating at least 4 temporal framing clauses (-хын өмнө, -сны дараа, -х үед).",
+    "spokenProductionObjective": "",
+    "registerTarget": "Formal written historical and institutional narrative register",
+    "pragmaticTarget": "Maintaining narrative velocity and logical progression across distinct eras or phases.",
+    "prerequisiteLessonIds": [
+      "les_b1_142_03_historical_documentary_listening",
+      "les_b1_142_04_procedural_briefing_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_134_05_critical_arts_essay_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_134_film_literary_criticism_evaluating_"
+    ],
+    "reviewReason": "Synthesizes cultural essay writing into precise chronological non-fiction prose.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Provide audio playback of the authored chronological essay.",
+    "successCriteria": [
+      "Produces chronological narrative with distinct Initial Phase, Transition, and Current Culmination sections",
+      "Integrates all 3 temporal framing postpositional forms accurately"
+    ],
+    "masteryEvidence": "Submits an essay opening with 'Төслийг эхлүүлэхийн өмнө бид нарийвчилсан судалгаа хийсэн бөгөөд санхүүжилт шийдэгдсэний дараа үйл ажиллагаагаа эрчимжүүлсэн' without error.",
+    "recommendedExerciseModalities": [
+      "guided_chronicle_writing",
+      "phase_structuring_task",
+      "peer_review"
+    ]
+  },
+  {
+    "lessonId": "les_b1_143_01_pasture_degradation_lexicon",
+    "unitId": "unit_b1_143_environmental_conservation_pasture_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Ecological Crisis Lexicon: Desertification, Overgrazing & Pasture Degradation",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Acquire technical environmental and rangeland ecology terminology (бэлчээрийн даац хэтрэх, цөлжилт, хөрсний элэгдэл, ургамлын бүрхэвч хомсдох, уур амьсгалын дулаарал, сэргээн нутагшуулах) addressing ecological threats confronting Mongolia's grasslands.",
+    "communicativeOutcome": "Explain causes and consequences of rangeland degradation, overstocking, and climate drying in precise ecological Mongolian.",
+    "objectivesIntroduced": [
+      "obj_b1_143_01_pasture_degradation_lexicon"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_142_01_form_temporal_framing_clauses"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_clause_temporal_omno_daraa_yed"
+    ],
+    "grammarReviewed": [
+      "gram_a1_verb_tense_future_prospective_na",
+      "gram_b1_participle_agentive_gch"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_ecological_compound_articulation"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_13_discussing_environmental_issues"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_environment_geography_climate"
+    ],
+    "previousVocabularyReused": [
+      "бэлчээр",
+      "малын тоо",
+      "байгаль",
+      "элс",
+      "ургамал",
+      "ус"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft 5 sentences analyzing the relationship between goat herd expansion (cashmere trade) and topsoil erosion.",
+    "spokenProductionObjective": "Explain why rangeland carrying capacity is critical for nomadic sustainability.",
+    "registerTarget": "Scientific ecology and public policy register",
+    "pragmaticTarget": "Balancing economic empathy for herders with objective ecological science.",
+    "prerequisiteLessonIds": [
+      "les_b1_142_05_chronological_case_study_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_135_01_topography_landscapes_lexicon"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_135_geographical_landscapes_khangai_mou"
+    ],
+    "reviewReason": "Deepens geographical landscape knowledge into active rangeland conservation science.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce complex ecological compound terminology.",
+    "successCriteria": [
+      "Uses rangeland ecology terms accurately (даац, цөлжилт, доройтол, сөл)",
+      "Forms causal sentences linking livestock demographics to pasture carrying limits"
+    ],
+    "masteryEvidence": "Produces 'Бэлчээрийн даац хэтэрснээс болж хөрсний үржил шим муудаж, цөлжилт хурдасч байна' accurately.",
+    "recommendedExerciseModalities": [
+      "ecological_cause_effect_matching",
+      "rangeland_cloze",
+      "sentence_completion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_143_02_desertification_scientific_reading",
+    "unitId": "unit_b1_143_environmental_conservation_pasture_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Reading Analysis: Scientific Monograph on Steppe Desertification & River Drying",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Deconstruct authentic environmental research monographs published by the Mongolian Academy of Sciences on desertification rates, water table decline, and disappearance of small rivers/springs (гол горхи ширгэх).",
+    "communicativeOutcome": "Comprehend scientific data, statistical environmental trends, and ecological impact assessments in academic Mongolian.",
+    "objectivesIntroduced": [
+      "obj_b1_143_02_read_desertification_research"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_143_01_pasture_degradation_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_clause_temporal_omno_daraa_yed"
+    ],
+    "grammarReviewed": [
+      "gram_b1_voice_reciprocal_collective"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_13_discussing_environmental_issues"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_environment_geography_climate"
+    ],
+    "previousVocabularyReused": [
+      "судалгаа",
+      "хүрээлэн",
+      "хувь",
+      "нэмэгдэх",
+      "багасах"
+    ],
+    "readingObjective": "Read a 300-word excerpt from an Academy of Sciences ecology report and extract 3 data points on regional desertification severity.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "High academic ecological science register",
+    "pragmaticTarget": "Interpreting scientific statistics and environmental risk projections.",
+    "prerequisiteLessonIds": [
+      "les_b1_143_01_pasture_degradation_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_137_03_environmental_legislation_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_137_nominalization_of_participles_in_ob"
+    ],
+    "reviewReason": "Pairs environmental statutory mandates with empirical scientific ecological data.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration of scientific rangeland study.",
+    "successCriteria": [
+      "Identifies percentage statistics measuring rangeland degradation across eco-zones",
+      "Extracts specific botanical indicators of overgrazing mentioned in the text"
+    ],
+    "masteryEvidence": "Identifies that over 70% of total national pastureland exhibits moderate to severe degradation.",
+    "recommendedExerciseModalities": [
+      "ecological_data_extraction",
+      "graph_interpretation",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_143_03_herder_community_roundtable_listening",
+    "unitId": "unit_b1_143_environmental_conservation_pasture_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Comprehension: Herder Co-op Council on Rotational Grazing (Отор Нүүдэл)",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop auditory listening comprehension for a heated pastureland management meeting where local herders, soum environmental officers, and pasture group leaders debate rotational grazing schedules and fencing off reserve pastures.",
+    "communicativeOutcome": "Understand authentic rural colloquial discourse, follow multi-party deliberations on communal natural resource governance, and detect conflicting local interests.",
+    "objectivesIntroduced": [
+      "obj_b1_143_03_comprehend_pasture_council_meeting"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_143_01_pasture_degradation_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_135_03_debate_pastoral_geography"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_voice_reciprocal_collective"
+    ],
+    "grammarReviewed": [
+      "gram_b1_clause_temporal_omno_daraa_yed"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_ecological_compound_articulation"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_13_discussing_environmental_issues"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_04_respectful_disagreement"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_environment_geography_climate",
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "малаа бэлчээх",
+      "нөөц бэлчээр",
+      "маргаан",
+      "нэгдэл",
+      "тохиролцох"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Listen to a 2.5-minute audio recording of a soum herders' council and summarize the agreement reached regarding winter reserve pastures.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "Authentic rural community deliberation and herder council register",
+    "pragmaticTarget": "Decoding pastoral colloquialisms and consensus-building idioms.",
+    "prerequisiteLessonIds": [
+      "les_b1_143_01_pasture_degradation_lexicon",
+      "les_b1_143_02_desertification_scientific_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_135_03_pastoral_lifestyles_comparative_discussion"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_135_geographical_landscapes_khangai_mou"
+    ],
+    "reviewReason": "Expands seminar discussion into authentic rural communal resource negotiations.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic meeting room audio featuring expressive rural speakers negotiating pasture boundaries.",
+    "successCriteria": [
+      "Identifies the core conflict between short-term family grazing needs and collective pasture resting",
+      "Recognizes reciprocal and collective verb forms denoting communal collaboration (-лцах, -лцаа)"
+    ],
+    "masteryEvidence": "Summarizes that herders agreed to rotate herds away from northern valley reserves until late November.",
+    "recommendedExerciseModalities": [
+      "audio_consensus_mapping",
+      "speaker_position_matching",
+      "summary_completion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_143_04_pastoral_conservation_action_dialogue",
+    "unitId": "unit_b1_143_environmental_conservation_pasture_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Interactive Dialogue: Mediating Pasture Carrying Capacity & Herder Livelihoods",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Simulate an interactive mediation between a soum agricultural advisor and an elder herder negotiating livestock head limits, livestock quality over quantity, and participation in sustainable pasture carbon credits.",
+    "communicativeOutcome": "Negotiate delicate community resource agreements, balancing traditional herding autonomy with ecological survival imperatives.",
+    "objectivesIntroduced": [
+      "obj_b1_143_04_mediate_pastoral_dispute"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_143_01_pasture_degradation_lexicon",
+      "obj_b1_143_03_comprehend_pasture_council_meeting"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_133_03_conduct_consulting_session"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_clause_temporal_omno_daraa_yed"
+    ],
+    "grammarReviewed": [
+      "gram_a1_verb_tense_future_prospective_na"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_ecological_compound_articulation"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_13_discussing_environmental_issues"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_16_giving_advice_recommendations"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_environment_geography_climate",
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "малын чанар",
+      "тоо толгой",
+      "зөвлөх",
+      "хамтрах",
+      "үр ашиг"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Conduct an 8-turn negotiation counseling a herder family to transition from livestock quantity to high-yield livestock quality.",
+    "registerTarget": "Respectful consultative community mediation register",
+    "pragmaticTarget": "Showing deep cultural reverence for elders while firmly advocating scientific rangeland recovery.",
+    "prerequisiteLessonIds": [
+      "les_b1_143_02_desertification_scientific_reading",
+      "les_b1_143_03_herder_community_roundtable_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_133_03_executive_advisory_consultation_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_133_giving_professional_advice_actionab"
+    ],
+    "reviewReason": "Applies professional consulting dialogue techniques to environmental and rural community mediation.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Realistic dialogue between an agricultural advisor and an elder herder.",
+    "successCriteria": [
+      "Maintains culturally deferential tone while explaining ecological carrying capacity",
+      "Proposes concrete economic incentives for maintaining sustainable herd sizes"
+    ],
+    "masteryEvidence": "Negotiates 'Малын тооноос илүү чанарт анхаарч, бэлчээрээ сэлгэн ашиглавал урт хугацаанд таны хотонд илүү үр өгөөжтэй' persuasively.",
+    "recommendedExerciseModalities": [
+      "branching_mediation",
+      "cultural_politeness_drill",
+      "spoken_roleplay"
+    ]
+  },
+  {
+    "lessonId": "les_b1_144_01_expedition_logistics_lexicon",
+    "unitId": "unit_b1_144_expedition_itinerary_capstone_great",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Expedition Logistics Lexicon: Altai Mountain Passes, Navigation & Survival",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Acquire high-level expedition, wilderness survival, and cross-country overland logistics terminology (бартаат зам, даваа гүвээ, шатахууны нөөц, майхан хэрэгсэл, хөтөч замчин, осол саадалгүй аялах) preparing for the Great Western Tour capstone across Bayan-Ölgii, Khovd, and Uvs.",
+    "communicativeOutcome": "Plan, equip, and organize multi-week off-grid overland expeditions through rugged alpine and desert environments.",
+    "objectivesIntroduced": [
+      "obj_b1_144_01_expedition_logistics_lexicon"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_136_01_administrative_geography_lexicon"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_aspect_intensive_chih_complete"
+    ],
+    "grammarReviewed": [
+      "gram_a2_case_instrumental_transport_language",
+      "gram_b1_postpositions_similative_shig_adil_met"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_western_toponym_phonetics"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_06_stating_purpose_long_term_goals"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_travel_transport_tourism",
+      "lex_b1_environment_geography_climate"
+    ],
+    "previousVocabularyReused": [
+      "аялал",
+      "зам",
+      "хэрэгсэл",
+      "бэлтгэл",
+      "уул",
+      "машин"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft a comprehensive gear and emergency supply checklist for a 14-day overland expedition through the Altai Mountains.",
+    "spokenProductionObjective": "Explain your emergency contingency plan if an expedition vehicle breaks down in a remote mountain pass.",
+    "registerTarget": "Technical wilderness expedition and overland logistics register",
+    "pragmaticTarget": "Anticipating extreme environmental contingencies and wilderness safety.",
+    "prerequisiteLessonIds": [
+      "les_b1_143_04_pastoral_conservation_action_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_136_01_administrative_aimags_lexicon"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_136_administrative_geography_the_21_aim"
+    ],
+    "reviewReason": "Applies administrative geographic knowledge to intensive wilderness logistics planning.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce Western Mongolian geographical toponyms and logistics terms.",
+    "successCriteria": [
+      "Categorizes expedition gear, spare parts, and communication devices correctly",
+      "Integrates intensive aspect (-чих) to indicate completed preparations"
+    ],
+    "masteryEvidence": "Produces 'Даваа давахаас өмнө бүх тоног төхөөрөмж, нөөц дугуйгаа бэлдчихсэн байх шаардлагатай' without error.",
+    "recommendedExerciseModalities": [
+      "expedition_gear_sorting",
+      "contingency_matrix",
+      "sentence_completion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_144_02_altai_expedition_dispatch_reading",
+    "unitId": "unit_b1_144_expedition_itinerary_capstone_great",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Reading Analysis: Field Dispatches from the Great Western Altai Expedition",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Deconstruct authentic travelogue chronicles and field dispatches from explorers crossing Western Mongolia (Potanin Glacier, Tavan Bogd peaks, Kazakh eagle hunters, Dayan Lake).",
+    "communicativeOutcome": "Extract route coordinates, trail conditions, cultural interactions, and geographical transitions from expedition literature.",
+    "objectivesIntroduced": [
+      "obj_b1_144_02_read_expedition_field_dispatches"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_144_01_expedition_logistics_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_aspect_intensive_chih_complete"
+    ],
+    "grammarReviewed": [
+      "gram_b1_postpositions_similative_shig_adil_met"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_06_stating_purpose_long_term_goals"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_13_discussing_environmental_issues"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_travel_transport_tourism",
+      "lex_b1_culture_traditions_heritage"
+    ],
+    "previousVocabularyReused": [
+      "мөсөн гол",
+      "оргил",
+      "бүргэдчин",
+      "казах түмэн",
+      "нуур"
+    ],
+    "readingObjective": "Read a 350-word expedition journal entry detailing the crossing of Baga Turgen waterfall and summiting Malchin Peak, identifying 3 navigational obstacles.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "High literary travel narrative and field dispatch register",
+    "pragmaticTarget": "Visualizing geographic terrain and cultural encounters through descriptive travel writing.",
+    "prerequisiteLessonIds": [
+      "les_b1_144_01_expedition_logistics_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_135_02_nomadic_adaptation_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_135_geographical_landscapes_khangai_mou"
+    ],
+    "reviewReason": "Expands geographic reading into personal field expedition narratives.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration of mountaineering expedition field diary.",
+    "successCriteria": [
+      "Extracts specific topographic milestones and altitude landmarks from text",
+      "Understands cultural nuances of Kazakh hospitality and nomadic mountain traditions"
+    ],
+    "masteryEvidence": "Identifies that the team delayed their glacial ascent due to unexpected summer blizzards on Malchin Peak.",
+    "recommendedExerciseModalities": [
+      "route_mapping_from_text",
+      "milestone_sequencing",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_144_03_western_expedition_briefing_dialogue",
+    "unitId": "unit_b1_144_expedition_itinerary_capstone_great",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Interactive Dialogue: Comprehensive Route Briefing for the Western Circuit",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Conduct an extensive, multi-turn expedition briefing between an expedition leader and a team of scientific researchers walking through daily waypoints from Khovd through Ölgii to Uvs.",
+    "communicativeOutcome": "Lead comprehensive technical travel briefings, assign operational roles, and resolve navigational logistics in spoken Mongolian.",
+    "objectivesIntroduced": [
+      "obj_b1_144_03_lead_expedition_briefing"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_144_01_expedition_logistics_lexicon",
+      "obj_b1_144_02_read_expedition_field_dispatches"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_142_04_brief_operational_protocol"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_aspect_intensive_chih_complete"
+    ],
+    "grammarReviewed": [
+      "gram_a2_case_instrumental_transport_language"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_western_toponym_phonetics"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_06_stating_purpose_long_term_goals",
+      "comm_b1_13_discussing_environmental_issues"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_18_delegating_tasks_causative"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_travel_transport_tourism",
+      "lex_b1_environment_geography_climate"
+    ],
+    "previousVocabularyReused": [
+      "маршрут",
+      "хөтөч",
+      "шатахуун",
+      "жолооч",
+      "хоноглох"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Conduct an 8-turn expedition briefing laying out driving segments, camp locations, and water refill points for Day 4 to Day 8.",
+    "registerTarget": "Authoritative expedition leader and operational briefing register",
+    "pragmaticTarget": "Projecting calm authority and meticulous safety awareness.",
+    "prerequisiteLessonIds": [
+      "les_b1_144_01_expedition_logistics_lexicon",
+      "les_b1_144_02_altai_expedition_dispatch_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_142_04_procedural_briefing_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_142_temporal_framing_clauses_"
+    ],
+    "reviewReason": "Synthesizes procedural briefing skills with nationwide geographical travel logistics.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Realistic dialogue between an expedition leader and team members reviewing maps.",
+    "successCriteria": [
+      "Articulates complex geographic routing across multiple aimags without confusion",
+      "Employs intensive aspect and temporal markers to sequence route phases clearly"
+    ],
+    "masteryEvidence": "Negotiates 'Өлгий хотоос гараад Толбо нуураар дайрч, Цамбагарав уулын бэлд очиж хоноглочихвол маргааш нь зам дөхөм болно' fluently.",
+    "recommendedExerciseModalities": [
+      "branching_route_briefing",
+      "contingency_handling_drill",
+      "spoken_roleplay"
+    ]
+  },
+  {
+    "lessonId": "les_b1_144_04_great_western_itinerary_writing",
+    "unitId": "unit_b1_144_expedition_itinerary_capstone_great",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Writing Workshop: Authoring a 14-Day Great Western Tour Expedition Itinerary",
+    "lessonType": "writing",
+    "primaryPurpose": "Compose a detailed, publication-grade 200-word formal expedition itinerary document outlining a 14-day Western Mongolian traverse: daily driving kilometers, terrain descriptions, cultural milestones, ecological conservation protocols, and emergency evacuation coordinates.",
+    "communicativeOutcome": "Author professional tourism and scientific expedition documentation conforming to international adventure travel standards in Mongolian.",
+    "objectivesIntroduced": [
+      "obj_b1_144_04_author_expedition_itinerary_document"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_144_01_expedition_logistics_lexicon",
+      "obj_b1_144_03_lead_expedition_briefing"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_133_04_write_advisory_memo"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_aspect_intensive_chih_complete"
+    ],
+    "grammarReviewed": [
+      "gram_a2_case_instrumental_transport_language",
+      "gram_b1_postpositions_similative_shig_adil_met"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_06_stating_purpose_long_term_goals",
+      "comm_b1_13_discussing_environmental_issues"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_10_writing_formal_email_letter"
+    ],
+    "newProductiveLemmaTarget": 7,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 3,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_b1_travel_transport_tourism",
+      "lex_b1_environment_geography_climate"
+    ],
+    "previousVocabularyReused": [
+      "хөтөлбөр",
+      "замнал",
+      "километр",
+      "үзвэр",
+      "байгаль хамгаалал"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Author a 200-word comprehensive expedition itinerary for a 14-day Western Tour incorporating daily targets, terrain conditions, and environmental rules.",
+    "spokenProductionObjective": "",
+    "registerTarget": "High professional adventure tourism and expedition publication register",
+    "pragmaticTarget": "Producing meticulous, client-ready logistical and cultural travel documents.",
+    "prerequisiteLessonIds": [
+      "les_b1_144_02_altai_expedition_dispatch_reading",
+      "les_b1_144_03_western_expedition_briefing_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_133_04_consulting_memorandum_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_133_giving_professional_advice_actionab"
+    ],
+    "reviewReason": "Synthesizes structured memorandum writing into comprehensive expedition itinerary authoring.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Provide audio playback of the completed expedition itinerary document.",
+    "successCriteria": [
+      "Structures itinerary into Overview, Daily Waypoints, Logistics & Safety, and Environmental Ethics",
+      "Applies aimag names, terrain descriptors, and purposive/temporal clauses accurately"
+    ],
+    "masteryEvidence": "Submits an itinerary opening with 'Баруун Монголын байгаль, соёлын гайхамшгийг таниулах 14 хоногийн аяллын замнал' and sustaining professional rigor throughout.",
+    "recommendedExerciseModalities": [
+      "guided_itinerary_composition",
+      "waypoint_bulleting",
+      "peer_review"
+    ]
+  },
+  {
+    "lessonId": "les_b1_144_05_section_03_milestone_synthesis_checkpoint",
+    "unitId": "unit_b1_144_expedition_itinerary_capstone_great",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 5,
+    "title": "Section Milestone Checkpoint: Geography, Environment & Complex Subordination",
+    "lessonType": "milestone_checkpoint",
+    "primaryPurpose": "Comprehensive synthesis and formal benchmark assessment across all Section 03 competencies: physical landscapes (Khangai vs Gobi), 21 aimags administration, nominalized participles in oblique cases (-сныг, -санд, -снаас, -снаар), subordinate subject genitive marking (-ын хийсэн), purposive clauses (-хын тулд, -ын төлөө), agentive derivation (-гч), similative postpositions (шиг, адил, мэт), temporal framing clauses (-хын өмнө, -сны дараа, -х үед), rangeland ecology, and expedition planning.",
+    "communicativeOutcome": "Demonstrate integrated mastery of B1 geographic knowledge, ecological argumentation, and advanced complex clause subordination in a multi-skill simulated environmental summit challenge.",
+    "objectivesIntroduced": [
+      "obj_b1_144_05_section_03_synthesis_milestone"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_135_01_geographical_landforms_lexicon",
+      "obj_b1_136_01_administrative_geography_lexicon",
+      "obj_b1_137_01_decline_nominalized_participles",
+      "obj_b1_138_01_mark_subordinate_subject_genitive",
+      "obj_b1_139_01_form_purposive_clauses",
+      "obj_b1_140_01_form_agentive_participles",
+      "obj_b1_141_01_form_similative_comparisons",
+      "obj_b1_142_01_form_temporal_framing_clauses",
+      "obj_b1_143_01_pasture_degradation_lexicon",
+      "obj_b1_144_04_author_expedition_itinerary_document"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_nominalization_participles_cases",
+      "gram_b1_subordinate_subject_marking_genitive",
+      "gram_b1_clause_purposive_tuld_tuloo",
+      "gram_b1_participle_agentive_gch",
+      "gram_b1_postpositions_similative_shig_adil_met",
+      "gram_b1_clause_temporal_omno_daraa_yed"
+    ],
+    "grammarReviewed": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_23_comparing_city_country_lifestyles",
+      "comm_b1_06_stating_purpose_long_term_goals",
+      "comm_b1_24_discussing_education_career_path",
+      "comm_b1_08_speculating_visual_evidence",
+      "comm_b1_02_sequencing_past_chronology",
+      "comm_b1_13_discussing_environmental_issues"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_b1_environment_geography_climate",
+      "lex_b1_travel_transport_tourism",
+      "lex_b1_education_career_workplace",
+      "lex_b1_culture_traditions_heritage"
+    ],
+    "previousVocabularyReused": [
+      "байгаль",
+      "аймаг",
+      "бэлчээр",
+      "хамгаалах",
+      "зорилго",
+      "судлаач",
+      "мэт",
+      "өмнө",
+      "дараа",
+      "аялал"
+    ],
+    "readingObjective": "Read a 350-word regional environmental and development synthesis report on sustainable ecotourism in Western Mongolia.",
+    "listeningObjective": "Comprehend a 3-minute panel discussion between aimag governors and conservation scientists debating protected area expansion.",
+    "writingObjective": "Author a 150-word policy memorandum proposing an eco-corridor linking two national parks.",
+    "spokenProductionObjective": "Deliver a 2.5-minute formal presentation proposing a sustainable expedition plan that protects local pastures and respects nomadic communities.",
+    "registerTarget": "Full B1 environmental, geographic, and complex syntactic standard",
+    "pragmaticTarget": "Seamlessly weaving complex subordinate clauses to express causes, purposes, conditions, and temporal sequences in civic discourse.",
+    "prerequisiteLessonIds": [
+      "les_b1_144_03_western_expedition_briefing_dialogue",
+      "les_b1_144_04_great_western_itinerary_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_135_04_geographic_landscape_monologue_spoken",
+      "les_b1_137_05_advocating_conservation_goals_spoken",
+      "les_b1_138_05_mentorship_tribute_spoken",
+      "les_b1_139_04_grant_proposal_pitch_spoken",
+      "les_b1_141_04_lyrical_landscape_monologue_spoken",
+      "les_b1_142_05_chronological_case_study_writing",
+      "les_b1_143_04_pastoral_conservation_action_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_135_geographical_landscapes_khangai_mou",
+      "unit_b1_137_nominalization_of_participles_in_ob",
+      "unit_b1_138_subordinate_subject_genitive_case_m",
+      "unit_b1_139_purposive_clauses_conjunctions_and_",
+      "unit_b1_141_similative_postpositions_",
+      "unit_b1_142_temporal_framing_clauses_",
+      "unit_b1_143_environmental_conservation_pasture_"
+    ],
+    "reviewReason": "Caps Section 03 with a comprehensive multi-skill benchmark synthesizing geographical knowledge, ecological debate, and complex clause syntax.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Regional environmental summit keynote listening benchmark.",
+    "successCriteria": [
+      "Demonstrates mastery across all Section 03 complex clause structures in reading, writing, and speaking",
+      "Maintains sophisticated geographic and environmental vocabulary throughout oral and written production"
+    ],
+    "masteryEvidence": "Achieves 85%+ on integrated multi-skill milestone rubric covering written policy memo, oral presentation, and listening comprehension.",
+    "recommendedExerciseModalities": [
+      "environmental_summit_simulation",
+      "multi_skill_benchmark_exam",
+      "logistics_and_conservation_presentation"
+    ]
+  }
+]

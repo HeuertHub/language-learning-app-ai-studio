@@ -1,0 +1,3796 @@
+[
+  {
+    "lessonId": "les_b1_124_01_opinion_epistemic_stance_lexicon",
+    "unitId": "unit_b1_124_formulating_nuanced_personal_stance",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Stance Formulas: Expressing Degrees of Conviction & Subjective Perspective",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce nuanced lexical formulas for articulating personal stances, varying from tentative conjecture (миний бодлоор, миний ажигласнаар) to firm conviction (миний бат итгэлтэй байгаагаар, эргэлзээгүй).",
+    "communicativeOutcome": "Express subjective stances on social and professional topics with calibrated epistemic certainty.",
+    "objectivesIntroduced": [
+      "obj_b1_124_01_express_nuanced_stance"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_123_01_indirect_reported_speech"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_reported_speech_indirect_tense_shift"
+    ],
+    "grammarReviewed": [
+      "gram_a1_nominal_negation_bish",
+      "gram_a2_converb_temporal_while_khad"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_parenthetical_stance_intonation"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_03_expressing_opinions_agreements"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "бодох",
+      "санах",
+      "үзэх",
+      "санал",
+      "баттай",
+      "үнэн"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft 5 statements expressing varying degrees of certainty on public transit modernization.",
+    "spokenProductionObjective": "Orally state your viewpoint on remote work flexibility using calibrated stance markers.",
+    "registerTarget": "Intellectual discussion and formal conversational register",
+    "pragmaticTarget": "Using parenthetical stance markers to signal openness to interlocutor dialogue.",
+    "prerequisiteLessonIds": [
+      "les_b1_123_06_section_01_milestone_synthesis_checkpoint"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_123_01_reported_speech_tense_shift_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_123_complex_banking_electronic_funds_tr"
+    ],
+    "reviewReason": "Transforms reported speech citation into personalized subjective stance framing.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model parenthetical comma pauses preceding stance phrases like 'Миний хувьд авч үзвэл...'.",
+    "successCriteria": [
+      "Differentiates between strong conviction and tentative hypothesis markers",
+      "Positions stance expressions correctly in sentence initial or medial topical slots"
+    ],
+    "masteryEvidence": "Produces 'Миний ажигласнаар бол энэ шийдвэр урт хугацаандаа эерэг үр дүн авчирна' accurately.",
+    "recommendedExerciseModalities": [
+      "stance_calibration_ranking",
+      "sentence_completion",
+      "collocation_drill"
+    ]
+  },
+  {
+    "lessonId": "les_b1_124_02_editorial_opinion_reading",
+    "unitId": "unit_b1_124_formulating_nuanced_personal_stance",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Reading Analysis: Contemporary Mongolian Newspaper Editorials & Columns",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Deconstruct authentic editorial opinion columns from leading Mongolian publications analyzing social reforms, youth entrepreneurship, and urban lifestyle shifts.",
+    "communicativeOutcome": "Distinguish between objective factual evidence, journalistic interpretation, and editorial value judgments.",
+    "objectivesIntroduced": [
+      "obj_b1_124_02_read_opinion_editorials"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_124_01_express_nuanced_stance"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_voice_causative_argument_structure"
+    ],
+    "grammarReviewed": [
+      "gram_a1_telling_time_clock_calendar"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_03_expressing_opinions_agreements"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_media_digital_society"
+    ],
+    "previousVocabularyReused": [
+      "нийтлэл",
+      "сэтгүүлч",
+      "нийгэм",
+      "хөгжил",
+      "бодит байдал"
+    ],
+    "readingObjective": "Read a 300-word editorial on urban green spaces and identify the author's primary thesis and 2 supporting arguments.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "High literary and journalistic analytical register",
+    "pragmaticTarget": "Separating subjective ideological framing from verifiable empirical data.",
+    "prerequisiteLessonIds": [
+      "les_b1_124_01_opinion_epistemic_stance_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_120_01_conflict_case_studies_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_120_workplace_conflict_resolution_clari"
+    ],
+    "reviewReason": "Extends analytical reading from corporate dispute cases to public socio-political editorials.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration of editorial prose with persuasive rhetorical inflection.",
+    "successCriteria": [
+      "Identifies the author's core ideological stance across 2 divergent opinion columns",
+      "Extracts rhetorical question devices and stance collocations from texts"
+    ],
+    "masteryEvidence": "Identifies that the author endorses pedestrian zones while rejecting vehicular congestion fees.",
+    "recommendedExerciseModalities": [
+      "claim_evidence_mapping",
+      "thesis_identification",
+      "vocabulary_extraction"
+    ]
+  },
+  {
+    "lessonId": "les_b1_124_03_civic_issues_discussion",
+    "unitId": "unit_b1_124_formulating_nuanced_personal_stance",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Discussion: Debating Urban Development & Quality of Life in Ulaanbaatar",
+    "lessonType": "discussion",
+    "primaryPurpose": "Participate in a structured discussion evaluating municipal initiatives such as bicycle lanes, smog reduction subsidies, and public transit overhaul.",
+    "communicativeOutcome": "Articulate and defend nuanced perspectives on civic issues, building upon peers' arguments collaboratively.",
+    "objectivesIntroduced": [
+      "obj_b1_124_03_debate_civic_development"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_124_01_express_nuanced_stance",
+      "obj_b1_124_02_read_opinion_editorials"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_reported_speech_indirect_tense_shift"
+    ],
+    "grammarReviewed": [
+      "gram_a2_converb_temporal_while_khad"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_parenthetical_stance_intonation"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_03_expressing_opinions_agreements"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_environment_geography_climate"
+    ],
+    "previousVocabularyReused": [
+      "хот",
+      "тээвэр",
+      "агаар",
+      "орчин",
+      "хөрөнгө оруулалт"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Contribute 4 substantive speaking turns in a roundtable discussion on urban renewal, substantiating opinions with examples.",
+    "registerTarget": "Public intellectual civic debate register",
+    "pragmaticTarget": "Validating others' concerns while introducing alternative urban perspectives.",
+    "prerequisiteLessonIds": [
+      "les_b1_124_02_editorial_opinion_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_123_05_investing_microfinance_discussion"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_123_complex_banking_electronic_funds_tr"
+    ],
+    "reviewReason": "Applies debate and roundtable conventions to public policy and civic infrastructure themes.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Provide discussion questions and counter-arguments by multiple native speakers.",
+    "successCriteria": [
+      "Contributes multiple coherent turns integrating targeted stance formulas",
+      "Substantiates viewpoints with concrete urban examples from Mongolian life"
+    ],
+    "masteryEvidence": "Articulates 'Миний бодлоор дугуйн замыг нэмэгдүүлснээр түгжрэл буурах боловч өвлийн цагт аюулгүй байдлыг хангах шаардлагатай' effectively.",
+    "recommendedExerciseModalities": [
+      "roundtable_debate",
+      "stance_defense",
+      "peer_critique"
+    ]
+  },
+  {
+    "lessonId": "les_b1_124_04_opinion_editorial_writing",
+    "unitId": "unit_b1_124_formulating_nuanced_personal_stance",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Writing Workshop: Authoring a 150-Word Opinion Column",
+    "lessonType": "writing",
+    "primaryPurpose": "Compose a structured 150-word opinion piece (Нийтлэл) defending a personal stance on education, technology, or urban living with clear argumentative progression.",
+    "communicativeOutcome": "Produce a well-reasoned argumentative essay featuring a clear thesis statement, supporting evidence, and balanced conclusion.",
+    "objectivesIntroduced": [
+      "obj_b1_124_04_write_opinion_editorial"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_124_01_express_nuanced_stance",
+      "obj_b1_124_02_read_opinion_editorials"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_voice_causative_argument_structure"
+    ],
+    "grammarReviewed": [
+      "gram_a1_nominal_negation_bish"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_03_expressing_opinions_agreements"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "дүгнэлт",
+      "нотолгоо",
+      "шалтгаан",
+      "нөлөө",
+      "дэмжих"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Author a 150-word essay defending an educational reform proposal with thesis, 2 body arguments, and conclusion.",
+    "spokenProductionObjective": "",
+    "registerTarget": "Formal written analytical essay register",
+    "pragmaticTarget": "Maintaining persuasive momentum without relying on emotional hyperbole.",
+    "prerequisiteLessonIds": [
+      "les_b1_124_02_editorial_opinion_reading",
+      "les_b1_124_03_civic_issues_discussion"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_114_03_formal_business_email_composition"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_114_formal_workplace_email_business_cor"
+    ],
+    "reviewReason": "Transitions structured formal writing from business correspondence to public opinion essay authorship.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Provide audio readback of the authored editorial text.",
+    "successCriteria": [
+      "Produces distinct Introduction (with hook and thesis), Body, and Conclusion sections",
+      "Integrates at least 3 distinct stance phrases with flawless grammatical syntax"
+    ],
+    "masteryEvidence": "Submits an essay opening with 'Орчин үеийн нийгэмд дижитал ур чадвар зайлшгүй шаардлагатай болж байна' and sustaining clear logic throughout.",
+    "recommendedExerciseModalities": [
+      "guided_essay_writing",
+      "outline_expansion",
+      "peer_review"
+    ]
+  },
+  {
+    "lessonId": "les_b1_125_01_polite_rebuttal_formulas_lexicon",
+    "unitId": "unit_b1_125_respectful_disagreement_constructiv",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Diplomatic Rebuttal: Concessive Openings & Counter-Argument Formulas",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce rhetorical concession-and-rebuttal formulas (тийм боловч, таны хэлдэг зөв ч гэсэн, нөгөө талаас нь авч үзвэл) to dispute opposing views without causing offense.",
+    "communicativeOutcome": "Formulate polite, face-saving rebuttals in professional and academic settings.",
+    "objectivesIntroduced": [
+      "obj_b1_125_01_polite_disagreement_formulas"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_124_01_express_nuanced_stance"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_voice_passive_gd"
+    ],
+    "grammarReviewed": [
+      "gram_a2_converb_concessive_vch_bolovch"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_diplomatic_fall_rise_intonation"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_04_respectful_disagreement"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "санал нийлэх",
+      "эсэргүүцэх",
+      "зөвшөөрөх",
+      "ялгаатай",
+      "бодит"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft 4 polite rebuttal sentences responding to controversial business assertions.",
+    "spokenProductionObjective": "Diplomatically counter a colleague's proposal while validating their good intentions.",
+    "registerTarget": "High formal parliamentary and intellectual debate register",
+    "pragmaticTarget": "Preserving interlocutor face by acknowledging partial validity before introducing counter-evidence.",
+    "prerequisiteLessonIds": [
+      "les_b1_124_04_opinion_editorial_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_120_02_diplomatic_clarification_hedging_lexicon"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_120_workplace_conflict_resolution_clari"
+    ],
+    "reviewReason": "Deepens diplomatic workplace de-escalation into formal academic and rhetorical counter-argumentation.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model soothing fall-rise intonation contours during concessive clauses.",
+    "successCriteria": [
+      "Selects appropriate concessive connectors (-вч, боловч, хэдий ч) to frame counterpoints",
+      "Maintains courteous, non-aggressive register throughout rebuttal assertions"
+    ],
+    "masteryEvidence": "Produces 'Таны хэлж байгаа санаа маш сонирхолтой хэдий ч бодит нөхцөл байдалд хэрэгжихэд учир дутагдалтай байна' fluently.",
+    "recommendedExerciseModalities": [
+      "concession_rebuttal_drill",
+      "phrase_matching",
+      "sentence_restructuring"
+    ]
+  },
+  {
+    "lessonId": "les_b1_125_02_academic_symposium_rebuttal_listening",
+    "unitId": "unit_b1_125_respectful_disagreement_constructiv",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Acoustic Decoding: Counter-Arguments in Academic Symposiums",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop auditory listening comprehension for rapid, formal academic exchanges and conference Q&A sessions where researchers debate findings.",
+    "communicativeOutcome": "Identify the core critique, empirical objections, and proposed methodological refinements in spoken symposium debates.",
+    "objectivesIntroduced": [
+      "obj_b1_125_02_comprehend_symposium_debate"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_125_01_polite_disagreement_formulas"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_voice_passive_gd"
+    ],
+    "grammarReviewed": [
+      "gram_a1_polar_questions_uu_uu",
+      "gram_a1_content_questions_be_ve"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_diplomatic_fall_rise_intonation"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_04_respectful_disagreement"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "судалгаа",
+      "илтгэл",
+      "шинжлэх ухаан",
+      "асуулт",
+      "хариулт"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Listen to a 2-minute academic debate audio and identify 2 methodological flaws raised by the respondent.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "Formal academic symposium conference register",
+    "pragmaticTarget": "Distinguishing professional scientific disagreement from personal hostility in speech.",
+    "prerequisiteLessonIds": [
+      "les_b1_125_01_polite_rebuttal_formulas_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_117_04_broadcast_news_reforms_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_117_passive_voice_morphosyntax_suffixes"
+    ],
+    "reviewReason": "Exposes learners to high-register spoken intellectual argumentation.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic conference hall acoustics with microphone amplification and multi-speaker question-and-answer exchanges.",
+    "successCriteria": [
+      "Identifies the speaker's main counter-claim and specific evidentiary challenge",
+      "Recognizes concessive discourse markers in natural academic delivery"
+    ],
+    "masteryEvidence": "Correctly transcribes that the questioner contested the sample size of the economic study.",
+    "recommendedExerciseModalities": [
+      "audio_comprehension",
+      "argument_flowcharting",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_125_03_structured_oxford_debate_simulation",
+    "unitId": "unit_b1_125_respectful_disagreement_constructiv",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Interactive Simulation: The Formal Parliamentary Debate",
+    "lessonType": "debate_simulation",
+    "primaryPurpose": "Engage in an interactive parliamentary-style debate defending or opposing a motion on renewable energy mandates or university tuition subsidies.",
+    "communicativeOutcome": "Present opening arguments, respond to points of information, and deliver an impromptu rebuttal adhering to formal debate protocol.",
+    "objectivesIntroduced": [
+      "obj_b1_125_03_participate_formal_debate"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_125_01_polite_disagreement_formulas",
+      "obj_b1_125_02_comprehend_symposium_debate"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_124_03_debate_civic_development"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_voice_passive_gd"
+    ],
+    "grammarReviewed": [
+      "gram_a2_converb_concessive_vch_bolovch"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_rhetorical_emphasis_stress"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_04_respectful_disagreement"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_03_expressing_opinions_agreements"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "мэтгэлцээн",
+      "байр суурь",
+      "нотолгоо",
+      "цаг",
+      "даргалагч"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Comprehend opponent arguments delivered during debate turns and formulate rapid rebuttals.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Deliver a 2-minute structured rebuttal speech dismantling the opposing side's core economic assumptions.",
+    "registerTarget": "Parliamentary debate standard register",
+    "pragmaticTarget": "Using formal address formulas (Эрхэм даргалагч, хүндэт сөрөг тал) to maintain decorum.",
+    "prerequisiteLessonIds": [
+      "les_b1_125_01_polite_rebuttal_formulas_lexicon",
+      "les_b1_125_02_academic_symposium_rebuttal_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_124_03_civic_issues_discussion"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_124_formulating_nuanced_personal_stance"
+    ],
+    "reviewReason": "Synthesizes opinion stances and polite rebuttals in a high-stakes competitive debate format.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Prompt learner turns with native debate opponents presenting sharp counter-arguments.",
+    "successCriteria": [
+      "Delivers a 2-minute rebuttal addressing at least 2 points made by the opposing team",
+      "Employs concessive structures and formal debate protocols without code-switching"
+    ],
+    "masteryEvidence": "Delivers 'Сөрөг талын дурдсан зардал өндөр гэдэгтэй санал нийлэх боловч байгаль орчны хохирлыг тооцвол сэргээгдэх эрчим хүч илүү хэмнэлттэй' eloquently.",
+    "recommendedExerciseModalities": [
+      "parliamentary_roleplay",
+      "point_of_information_drill",
+      "timed_rebuttal"
+    ]
+  },
+  {
+    "lessonId": "les_b1_125_04_formal_rebuttal_letter_writing",
+    "unitId": "unit_b1_125_respectful_disagreement_constructiv",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Writing Workshop: Authoring a Formal Letter of Counter-Argument",
+    "lessonType": "writing",
+    "primaryPurpose": "Compose an official 150-word letter of rebuttal responding to an unfair audit report or contested committee finding.",
+    "communicativeOutcome": "Produce a dignified, evidentiary written rebuttal that disputes specific charges while preserving institutional goodwill.",
+    "objectivesIntroduced": [
+      "obj_b1_125_04_write_rebuttal_letter"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_125_01_polite_disagreement_formulas"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_120_04_write_reconciliation_memo"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_voice_passive_gd"
+    ],
+    "grammarReviewed": [
+      "gram_a2_converb_concessive_vch_bolovch"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_04_respectful_disagreement"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_20_clarifying_misunderstandings"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "албан бичиг",
+      "тайлбар",
+      "үндэслэл",
+      "гомдол гаргах",
+      "шалгах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft a 150-word formal letter disputing an institutional assessment with 3 specific counter-arguments and documentary references.",
+    "spokenProductionObjective": "",
+    "registerTarget": "Formal administrative legalistic epistolary register",
+    "pragmaticTarget": "Maintaining professional courtesy and objective evidentiary tone when contesting official judgments.",
+    "prerequisiteLessonIds": [
+      "les_b1_125_03_structured_oxford_debate_simulation"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_120_04_reconciliation_memo_composition_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_120_workplace_conflict_resolution_clari"
+    ],
+    "reviewReason": "Synthesizes administrative writing from internal reconciliation to external formal rebuttal advocacy.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Provide auditory verification of written rebuttal syntax.",
+    "successCriteria": [
+      "Produces formal correspondence structure with salutation, point-by-point rebuttal, and request for review",
+      "Uses concessive and passive grammatical constructions accurately throughout"
+    ],
+    "masteryEvidence": "Writes 'Аудитын дүгнэлтэд дурдсан зөрчлийг хүндэтгэн үзэж байгаа хэдий ч дараах баримтууд дутуу тусгагдсан гэж үзэж байна' flawlessly.",
+    "recommendedExerciseModalities": [
+      "guided_rebuttal_drafting",
+      "clause_refinement",
+      "error_correction"
+    ]
+  },
+  {
+    "lessonId": "les_b1_126_01_causal_connectors_morphosyntax_intro",
+    "unitId": "unit_b1_126_causal_conjunctions_connectors_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosyntax of Causality: Postpositional Connectors -аас/ээс учраас and тул",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the syntactic mechanisms of complex causal subordination in Mongolian: 1) Ablative participle + учраас (-сан/-х учраас), 2) Direct causal postposition тул (-сан/-х тул), and 3) Explanatory sentence-initial connector Учир нь.",
+    "communicativeOutcome": "Formulate multi-clause causal sentences expressing reasons, justifications, and systemic consequences.",
+    "objectivesIntroduced": [
+      "obj_b1_126_01_form_causal_clauses"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_125_01_polite_disagreement_formulas"
+    ],
+    "grammarIntroduced": [
+      "gram_b1_clause_causal_uchir_uchraas_tul"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a2_modal_obligation_heregtei_yostoi",
+      "gram_b1_voice_reciprocal_collective"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_causal_clause_boundary_pausing"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_05_making_causal_arguments"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "учир",
+      "шалтгаан",
+      "болох",
+      "хийх",
+      "үүсэх",
+      "үр дүн"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Combine 6 pairs of independent clauses into complex causal sentences using учраас, тул, and учир нь.",
+    "spokenProductionObjective": "Explain the causes of a project delay using both subordinate (учраас) and coordinating (учир нь) causal frames.",
+    "registerTarget": "Standard formal spoken and written analytical register",
+    "pragmaticTarget": "Distinguishing pre-posed cause (тул/учраас) from post-posed explanatory justification (Учир нь...).",
+    "prerequisiteLessonIds": [
+      "les_b1_125_04_formal_rebuttal_letter_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_124_01_opinion_epistemic_stance_lexicon"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_124_formulating_nuanced_personal_stance"
+    ],
+    "reviewReason": "Equips learners with syntactic causality mechanisms to substantiate personal stances.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model comma pauses after subordinate causal clauses ending in учраас and тул.",
+    "successCriteria": [
+      "Selects ablative participle before учраас and unmarked participle before тул",
+      "Places 'Учир нь' at the start of a secondary explanatory sentence followed by genitive subject"
+    ],
+    "masteryEvidence": "Produces 'Цас их орсон учраас нислэг хойшлогдлоо' and 'Нислэг хойшлогдлоо. Учир нь цас их оров' accurately.",
+    "recommendedExerciseModalities": [
+      "clause_combining",
+      "connector_selection",
+      "syntax_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_b1_126_02_causal_syntax_contrastive_guided_practice",
+    "unitId": "unit_b1_126_causal_conjunctions_connectors_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Guided Practice: Precision in Causal Subordination (Тул vs Учраас vs Учир нь)",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Provide structured syntactic drills mastering subtle register and stylistic differences between bureaucratic тул, neutral учраас, and emphatic explanatory Учир нь.",
+    "communicativeOutcome": "Skillfully choose between causal connectors based on formal register, clause weight, and discourse focus.",
+    "objectivesIntroduced": [
+      "obj_b1_126_02_master_causal_nuances"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_126_01_form_causal_clauses"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_clause_causal_uchir_uchraas_tul"
+    ],
+    "grammarReviewed": [
+      "gram_b1_reported_speech_indirect_tense_shift"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_05_making_causal_arguments"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "шийдвэр",
+      "нөхцөл",
+      "боломж",
+      "хууль",
+      "журам"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Rewrite 6 casual causal sentences into formal administrative prose using -х тул.",
+    "spokenProductionObjective": "Deliver 3 rapid spoken justifications for strategic decisions using varying causal connectors.",
+    "registerTarget": "Formal administrative and academic register",
+    "pragmaticTarget": "Using тул in administrative decrees to signal institutional necessity.",
+    "prerequisiteLessonIds": [
+      "les_b1_126_01_causal_connectors_morphosyntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_126_01_causal_connectors_morphosyntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_126_causal_conjunctions_connectors_"
+    ],
+    "reviewReason": "Consolidates causal morphosyntax through intensive contrastive sentence manipulation.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Synthesize formal causal utterances contrasting oral and written rhythm.",
+    "successCriteria": [
+      "Consistently applies -х тул in official notices and business memoranda",
+      "Integrates 'Учир нь' correctly to open independent explanatory sentences"
+    ],
+    "masteryEvidence": "Converts 'Бид яарч байгаа учраас хурал эхэлье' into 'Цаг хугацаа хомс буй тул хурлыг эхлүүлье' accurately.",
+    "recommendedExerciseModalities": [
+      "sentence_transformation",
+      "register_matching",
+      "error_correction"
+    ]
+  },
+  {
+    "lessonId": "les_b1_126_03_socio_economic_causality_reading",
+    "unitId": "unit_b1_126_causal_conjunctions_connectors_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Reading Analysis: Socio-Economic Whitepapers on Demographic Migration",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Deconstruct authentic sociological reports examining the causes of rural-to-urban migration from Western aimags to Ulaanbaatar.",
+    "communicativeOutcome": "Extract cause-and-effect chains, economic push/pull factors, and policy recommendations from analytical texts.",
+    "objectivesIntroduced": [
+      "obj_b1_126_03_read_causal_analyses"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_126_01_form_causal_clauses"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_clause_causal_uchir_uchraas_tul"
+    ],
+    "grammarReviewed": [
+      "gram_a2_modal_obligation_heregtei_yostoi"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_05_making_causal_arguments"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_environment_geography_climate"
+    ],
+    "previousVocabularyReused": [
+      "шилжилт хөдөлгөөн",
+      "хөдөө орон нутаг",
+      "ажлын байр",
+      "боловсрол",
+      "хүн ам"
+    ],
+    "readingObjective": "Read an excerpt from a national statistical report and diagram 3 economic causes and 2 social effects of urbanization.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "Formal sociological and statistical research register",
+    "pragmaticTarget": "Distinguishing correlation from direct causation in formal Mongolian prose.",
+    "prerequisiteLessonIds": [
+      "les_b1_126_01_causal_connectors_morphosyntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_124_02_editorial_opinion_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_124_formulating_nuanced_personal_stance"
+    ],
+    "reviewReason": "Deepens analytical reading from journalistic editorials to evidence-based sociological whitepapers.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Audio narration of sociological report passages.",
+    "successCriteria": [
+      "Identifies cause clauses marked by тул and учраас across 3 statistical excerpts",
+      "Maps multi-tier cause-and-effect relationships into a visual causal chain"
+    ],
+    "masteryEvidence": "Identifies that 'Ажлын байр дутмаг байгаагаас шалтгаалан залуучууд хот руу шилжиж байна' identifies the primary economic driver.",
+    "recommendedExerciseModalities": [
+      "causal_chain_diagramming",
+      "information_extraction",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_126_04_economic_roundtable_listening",
+    "unitId": "unit_b1_126_causal_conjunctions_connectors_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Acoustic Comprehension: Television Panel on Inflationary Pressures & Supply Chains",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop listening comprehension for complex macroeconomic roundtable broadcasts where economists explain currency fluctuations, fuel tariffs, and consumer price indices.",
+    "communicativeOutcome": "Track spoken causal reasoning explaining why prices fluctuate and what monetary interventions are projected.",
+    "objectivesIntroduced": [
+      "obj_b1_126_04_comprehend_economic_causality"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_126_01_form_causal_clauses"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_126_03_read_causal_analyses"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_clause_causal_uchir_uchraas_tul"
+    ],
+    "grammarReviewed": [
+      "gram_b1_reported_speech_indirect_tense_shift"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_causal_clause_boundary_pausing"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_05_making_causal_arguments"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_money_consumerism"
+    ],
+    "previousVocabularyReused": [
+      "инфляци",
+      "үнэ өсөх",
+      "ханш",
+      "шатахуун",
+      "хэрэглээний сагс"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Listen to a 2.5-minute televised economic debate and transcribe the 3 root causes of inflation identified by the lead analyst.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "High-register broadcast analytical panel discussion",
+    "pragmaticTarget": "Tracking rapid spoken causal shifts where economists use nested subordinate clauses.",
+    "prerequisiteLessonIds": [
+      "les_b1_126_02_causal_syntax_contrastive_guided_practice",
+      "les_b1_126_03_socio_economic_causality_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_117_04_broadcast_news_reforms_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_117_passive_voice_morphosyntax_suffixes"
+    ],
+    "reviewReason": "Expands broadcast listening from news bulletins to unscripted expert panel debates.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic studio broadcast recording featuring two economists with fast-paced natural analytical delivery.",
+    "successCriteria": [
+      "Identifies the primary and secondary causal factors cited for price inflation",
+      "Distinguishes between domestic supply constraints and imported external cost pressures"
+    ],
+    "masteryEvidence": "Summarizes accurately that international transport bottlenecks and rising oil prices were identified as prime inflation catalysts.",
+    "recommendedExerciseModalities": [
+      "audio_note_taking",
+      "cause_effect_matching",
+      "summary_completion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_126_05_explaining_systemic_causes_spoken",
+    "unitId": "unit_b1_126_causal_conjunctions_connectors_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 5,
+    "title": "Spoken Production: Delivering an Analytical Briefing on Root Causes",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver a 2-minute oral analytical briefing diagnosing why a major project exceeded budget or failed to meet deadlines, substantiating findings with causal connectors.",
+    "communicativeOutcome": "Present a structured root-cause analysis orally to an audience of supervisors or stakeholders.",
+    "objectivesIntroduced": [
+      "obj_b1_126_05_deliver_causal_briefing"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_126_01_form_causal_clauses",
+      "obj_b1_126_02_master_causal_nuances"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_126_04_comprehend_economic_causality"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_clause_causal_uchir_uchraas_tul"
+    ],
+    "grammarReviewed": [
+      "gram_a2_modal_obligation_heregtei_yostoi"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_causal_clause_boundary_pausing"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_05_making_causal_arguments"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_19_describing_accidents_unintended_actions"
+    ],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "шалтгаан",
+      "үр дагавар",
+      "дүгнэлт",
+      "төсөв",
+      "хэтрэх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Deliver a 2-minute oral briefing presenting a 3-step causal breakdown of an operational delay.",
+    "registerTarget": "Formal professional analytical presentation register",
+    "pragmaticTarget": "Focusing objectively on systemic failure points rather than interpersonal finger-pointing.",
+    "prerequisiteLessonIds": [
+      "les_b1_126_03_socio_economic_causality_reading",
+      "les_b1_126_04_economic_roundtable_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_119_05_reporting_operational_accidents_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_119_intensive_completive_aspect_suffix_"
+    ],
+    "reviewReason": "Elevates operational accident reports to structured systemic causal analyses.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Provide benchmark model of an executive analytical causal briefing.",
+    "successCriteria": [
+      "Delivers a coherent 2-minute oral presentation using at least 3 distinct causal connectors",
+      "Structures argument logically from underlying condition to direct trigger to final outcome"
+    ],
+    "masteryEvidence": "Speaks for 2 minutes stating 'Ханшийн өсөлтөөс шалтгаалан импортын түүхий эдийн үнэ нэмэгдсэн тул төслийн төсөв 15 хувиар хэтэрсэн юм' fluently.",
+    "recommendedExerciseModalities": [
+      "causal_presentation_rubric",
+      "timed_speech",
+      "peer_critique"
+    ]
+  },
+  {
+    "lessonId": "les_b1_127_01_contemporaneous_converb_morphology_intro",
+    "unitId": "unit_b1_127_contemporaneous_converb_suffixes_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Immediate Succession in Discourse: The Contemporaneous Converb -магц/-мэгц",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the contemporaneous converb suffix -магц⁴ denoting immediate temporal succession ('as soon as', 'no sooner than') linking two consecutive events in narrative time.",
+    "communicativeOutcome": "Formulate narrative clauses expressing rapid reaction and chronological immediacy (ирэнгүүт/ирмэгц, хармагц, сонсмогц).",
+    "objectivesIntroduced": [
+      "obj_b1_127_01_form_contemporaneous_converb"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_126_01_form_causal_clauses"
+    ],
+    "grammarIntroduced": [
+      "gram_b1_converb_contemporaneous_magts"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a2_modal_permission_possibility_bolno",
+      "gram_b1_clause_causal_uchir_uchraas_tul"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_magts_cluster_articulation"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_vowel_harmony_basic"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_02_sequencing_past_chronology"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_travel_transport_tourism"
+    ],
+    "previousVocabularyReused": [
+      "ирэх",
+      "харах",
+      "сонсох",
+      "мэдэх",
+      "гарах",
+      "эхлэх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Transform 8 base verbs into contemporaneous converbs and embed them into chronological narrative sentences.",
+    "spokenProductionObjective": "Describe 3 spontaneous reactions you had immediately upon hearing surprising news.",
+    "registerTarget": "Standard narrative and literary spoken/written register",
+    "pragmaticTarget": "Using -магц to convey high narrative velocity and immediate cause-and-effect sequencing.",
+    "prerequisiteLessonIds": [
+      "les_b1_126_05_explaining_systemic_causes_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_126_01_causal_connectors_morphosyntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_126_causal_conjunctions_connectors_"
+    ],
+    "reviewReason": "Bridges causal conjunctions into chronological sequence converbs.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model proper articulation of the consonant cluster -гц without epenthetic vowel insertion.",
+    "successCriteria": [
+      "Applies -магц/-мэгц/-могц/-мөгц adhering strictly to 4-fold vowel harmony",
+      "Constructs complex sentences indicating that event B occurred immediately upon event A"
+    ],
+    "masteryEvidence": "Produces 'Гэртээ харьмагц утсаа цэнэглэв' and 'Мэдээг сонсмогц ажилдаа яарав' flawlessly.",
+    "recommendedExerciseModalities": [
+      "suffix_transformation",
+      "clause_sequencing",
+      "fill_in_the_blank"
+    ]
+  },
+  {
+    "lessonId": "les_b1_127_02_rapid_reaction_narrative_lexicon",
+    "unitId": "unit_b1_127_contemporaneous_converb_suffixes_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Temporal Velocity Lexicon: Suddenness, Immediacy & Trigger Events",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Acquire vivid adverbs of suddenness, perceptual verbs, and trigger expressions (тэр даруй, хоромхон зуур, агшин зуур, гэнэт) that pair with -магц in narrative storytelling.",
+    "communicativeOutcome": "Narrate dynamic emergency reactions and dramatic real-life incidents with rich temporal coloring.",
+    "objectivesIntroduced": [
+      "obj_b1_127_02_temporal_velocity_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_127_01_form_contemporaneous_converb"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_contemporaneous_magts"
+    ],
+    "grammarReviewed": [
+      "gram_b1_aspect_intensive_chih_complete"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_02_sequencing_past_chronology"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "цаг хугацаа",
+      "хурдан",
+      "даруй",
+      "мэдэгдэх",
+      "шийдэх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft a 4-sentence dramatic vignette describing an emergency evacuation using temporal velocity adverbs and -магц.",
+    "spokenProductionObjective": "Narrate an unexpected encounter with an old acquaintance on the street.",
+    "registerTarget": "Expressive oral narrative and literary prose register",
+    "pragmaticTarget": "Heightening suspense through precise combinations of converbs and immediacy adverbs.",
+    "prerequisiteLessonIds": [
+      "les_b1_127_01_contemporaneous_converb_morphology_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_119_03_workplace_incident_accident_lexicon"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_119_intensive_completive_aspect_suffix_"
+    ],
+    "reviewReason": "Integrates sudden incident vocabulary with contemporaneous converbial syntax.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Provide audio pronunciation of dynamic adverbial collocations.",
+    "successCriteria": [
+      "Pairs temporal velocity adverbs accurately with contemporaneous converb clauses",
+      "Maintains chronological momentum across multi-clause narrative sequences"
+    ],
+    "masteryEvidence": "Produces 'Галын дохио дуугармагц бүх ажилчид тэр даруй гадаа гарсан' with natural pacing.",
+    "recommendedExerciseModalities": [
+      "narrative_collocation",
+      "adverb_insertion",
+      "story_completion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_127_03_memoir_journalism_reading",
+    "unitId": "unit_b1_127_contemporaneous_converb_suffixes_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Reading Analysis: Eyewitness Chronicles & Investigative Memoirs",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Analyze excerpts from contemporary Mongolian memoirs, travelogues, and investigative journalistic dispatches recounting fast-moving historical and natural events.",
+    "communicativeOutcome": "Trace complex chronological timelines, instantaneous reactions, and consequence chains in published non-fiction.",
+    "objectivesIntroduced": [
+      "obj_b1_127_03_read_chronological_memoirs"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_127_01_form_contemporaneous_converb"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_contemporaneous_magts"
+    ],
+    "grammarReviewed": [
+      "gram_a2_converb_terminative_tal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_02_sequencing_past_chronology"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_media_digital_society"
+    ],
+    "previousVocabularyReused": [
+      "дурсамж",
+      "үйл явдал",
+      "гэрч",
+      "түүх",
+      "амьдрал"
+    ],
+    "readingObjective": "Read a 250-word eyewitness account of a sudden mountain blizzard and sequence 5 rapid events in chronological order.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "Literary non-fiction and investigative narrative register",
+    "pragmaticTarget": "Tracking narrative flashbacks vs forward temporal leaps in authored chronicles.",
+    "prerequisiteLessonIds": [
+      "les_b1_127_01_contemporaneous_converb_morphology_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_126_03_socio_economic_causality_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_126_causal_conjunctions_connectors_"
+    ],
+    "reviewReason": "Deepens reading comprehension from analytical whitepapers to vivid literary memoirs.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration of memoir excerpt with atmospheric expressive cadence.",
+    "successCriteria": [
+      "Correctly maps 5 sequenced narrative events from the text onto a chronological timeline",
+      "Identifies -магц converbs serving as temporal hinge points in the chronicle"
+    ],
+    "masteryEvidence": "Identifies that the mountaineers erected the tent immediately upon noticing the sudden wind change.",
+    "recommendedExerciseModalities": [
+      "timeline_ordering",
+      "textual_analysis",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_127_04_dramatic_eyewitness_testimony_spoken",
+    "unitId": "unit_b1_127_contemporaneous_converb_suffixes_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Spoken Production: Delivering an Eyewitness Account of a Critical Incident",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver a 2-minute structured oral monologue giving a detailed eyewitness account of a dramatic real-world event (traffic accident, storm arrival, sudden market surge).",
+    "communicativeOutcome": "Narrate an eventful sequence of occurrences with vivid temporal precision, emotional engagement, and syntactic cohesion.",
+    "objectivesIntroduced": [
+      "obj_b1_127_04_deliver_eyewitness_account"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_127_01_form_contemporaneous_converb",
+      "obj_b1_127_02_temporal_velocity_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_127_03_read_chronological_memoirs"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_contemporaneous_magts"
+    ],
+    "grammarReviewed": [
+      "gram_b1_aspect_intensive_chih_complete"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_magts_cluster_articulation"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_02_sequencing_past_chronology"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_19_describing_accidents_unintended_actions"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "үзэгдэл",
+      "гэрчлэх",
+      "мэдэх",
+      "айх",
+      "аврах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Deliver a 2-minute oral monologue recounting a fast-unfolding crisis using -магц at least 3 times.",
+    "registerTarget": "Engaging spoken narrative testimonial register",
+    "pragmaticTarget": "Balancing personal affective reaction with precise chronological factual accuracy.",
+    "prerequisiteLessonIds": [
+      "les_b1_127_02_rapid_reaction_narrative_lexicon",
+      "les_b1_127_03_memoir_journalism_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_126_05_explaining_systemic_causes_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_126_causal_conjunctions_connectors_"
+    ],
+    "reviewReason": "Synthesizes analytical cause-and-effect with temporal narrative dynamism in spoken monologue.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Provide benchmark audio model of an articulate eyewitness narrative monologue.",
+    "successCriteria": [
+      "Speaks for 90-120 seconds sustaining uninterrupted chronological flow",
+      "Integrates at least 3 contemporaneous converbs correctly without consonant cluster degradation"
+    ],
+    "masteryEvidence": "Delivers 'Би галт тэргийг зогсмогц бууж, тусламж дуудсан бөгөөд эмч нар ирмэгц шархагсдад туслав' fluently.",
+    "recommendedExerciseModalities": [
+      "timed_monologue",
+      "incident_reconstruction",
+      "peer_critique"
+    ]
+  },
+  {
+    "lessonId": "les_b1_128_01_durative_converb_morphosyntax_intro",
+    "unitId": "unit_b1_128_durative_converb_suffixes_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Continuous Persistence: The Durative Converb -саар/-сээр (Process & Progression)",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the durative converb suffix -саар⁴ indicating: 1) continuous, uninterrupted persistence of an action over extended time, and 2) persisting state leading up to an outcome (-саар ... боллоо / байсаар ирэв).",
+    "communicativeOutcome": "Formulate clauses expressing unbroken duration, sustained ongoing habits, and long-term evolutionary trends.",
+    "objectivesIntroduced": [
+      "obj_b1_128_01_form_durative_converb"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_127_01_form_contemporaneous_converb"
+    ],
+    "grammarIntroduced": [
+      "gram_b1_converb_durative_saar"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_converb_sequential_aad",
+      "gram_b1_converb_contemporaneous_magts"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_durative_long_vowel_harmony"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_vowel_harmony_basic"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_01_narrating_personal_anecdotes"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "сурах",
+      "хийх",
+      "явах",
+      "ажиллах",
+      "хүлээх",
+      "байх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Transform 8 base verbs into durative converbs and construct sentences expressing continuous perseverance.",
+    "spokenProductionObjective": "Explain an educational or artistic discipline you have practiced persistently over many years.",
+    "registerTarget": "Formal spoken and written narrative register",
+    "pragmaticTarget": "Emphasizing patient determination and endurance through aspectual duration.",
+    "prerequisiteLessonIds": [
+      "les_b1_127_04_dramatic_eyewitness_testimony_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_127_01_contemporaneous_converb_morphology_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_127_contemporaneous_converb_suffixes_"
+    ],
+    "reviewReason": "Contrasts instantaneous temporal succession (-магц) with protracted persistence (-саар).",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model proper long vowel duration in -саар/-сээр/-соор/-сөөр.",
+    "successCriteria": [
+      "Attaches -саар⁴ to consonant and vowel stems with proper phonological elision",
+      "Pairs durative converb accurately with auxiliary verbs (байна, байв, ирэв)"
+    ],
+    "masteryEvidence": "Produces 'Бид хичээсээр байгаад эцэст нь зорилгодоо хүрсэн' with perfect inflection.",
+    "recommendedExerciseModalities": [
+      "suffix_transformation",
+      "auxiliary_pairing",
+      "sentence_completion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_128_02_persistence_evolution_lexicon",
+    "unitId": "unit_b1_128_durative_converb_suffixes_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Perseverance & Evolution Lexicon: Endurance, Historical Change & Gradual Shifts",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Acquire vocabulary denoting gradual development, perseverance through adversity, incremental transformation, and historic shifts (аажмаар, тасралтгүй, тууштай, үе дамжин).",
+    "communicativeOutcome": "Describe long-term personal, societal, and technological transformations in rich Mongolian prose.",
+    "objectivesIntroduced": [
+      "obj_b1_128_02_perseverance_evolution_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_128_01_form_durative_converb"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_durative_saar"
+    ],
+    "grammarReviewed": [
+      "gram_a2_modal_ability_yadah_chadah"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_01_narrating_personal_anecdotes"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "хөгжил",
+      "өөрчлөлт",
+      "тууштай",
+      "хөдөлмөр",
+      "үр дүн"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft 4 sentences illustrating the gradual evolution of nomadic life into modern urbanization using targeted lexicon.",
+    "spokenProductionObjective": "Explain how modern smartphone technology has gradually changed everyday lifestyle habits.",
+    "registerTarget": "Reflective narrative and analytical social register",
+    "pragmaticTarget": "Conveying respect for long-term dedication and inter-generational continuity.",
+    "prerequisiteLessonIds": [
+      "les_b1_128_01_durative_converb_morphosyntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_128_01_durative_converb_morphosyntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_128_durative_converb_suffixes_"
+    ],
+    "reviewReason": "Enriches the grammatical durative morpheme with dedicated perseverance vocabulary.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronunciation of formal compound adverbs and socio-historical terminology.",
+    "successCriteria": [
+      "Correctly pairs adverbs of gradualness with durative verbs (аажмаар өөрчлөгдсөөр, тасралтгүй хөгжсөөр)",
+      "Forms cohesive multi-clause sentences depicting long historical arcs"
+    ],
+    "masteryEvidence": "Produces 'Монгол ахуй соёл үе дамжин өвлөгдсөөр өнөөгийн түвшинд хүрч иржээ' accurately.",
+    "recommendedExerciseModalities": [
+      "collocation_drill",
+      "historical_timeline_fill",
+      "sentence_expansion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_128_03_biographical_narrative_reading",
+    "unitId": "unit_b1_128_durative_converb_suffixes_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Reading Analysis: Life Stories of Renowned Mongolian Artisans & Scientists",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Read and deconstruct published biographies of celebrated Mongolian figures (morin khuur masters, geologists, Olympic athletes) detailing decades of sustained mastery.",
+    "communicativeOutcome": "Comprehend complex biographical narratives, identifying turning points, years of perseverance, and culminating life achievements.",
+    "objectivesIntroduced": [
+      "obj_b1_128_03_read_biographical_chronicles"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_128_01_form_durative_converb"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_durative_saar"
+    ],
+    "grammarReviewed": [
+      "gram_a2_indefinite_pronouns_negation"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_01_narrating_personal_anecdotes"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_culture_traditions_heritage"
+    ],
+    "previousVocabularyReused": [
+      "намтар",
+      "урлаг",
+      "бүтээл",
+      "алдартай",
+      "шавь"
+    ],
+    "readingObjective": "Read a 300-word biography of a traditional woodcarver and trace his 40-year career progression through durative converbial markers.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "High literary biography and cultural journalism register",
+    "pragmaticTarget": "Recognizing traditional cultural honorifics and tributes to lifelong apprenticeship.",
+    "prerequisiteLessonIds": [
+      "les_b1_128_01_durative_converb_morphosyntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_127_03_memoir_journalism_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_127_contemporaneous_converb_suffixes_"
+    ],
+    "reviewReason": "Expands non-fiction reading from fast-paced crisis journalism to long-arc biographical prose.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration of biographical passage with dignified, reflective intonation.",
+    "successCriteria": [
+      "Identifies key milestones along a 40-year career narrative",
+      "Extracts durative converbial structures and temporal duration markers"
+    ],
+    "masteryEvidence": "Extracts that the artisan honed his carving technique for 15 years before crafting his first state ceremonial bow.",
+    "recommendedExerciseModalities": [
+      "biographical_timeline",
+      "data_extraction",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_128_04_personal_transformation_anecdote_spoken",
+    "unitId": "unit_b1_128_durative_converb_suffixes_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Spoken Production: Narrating a Personal Journey of Sustained Endeavor",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an extended 2.5-minute oral narrative chronicling a personal pursuit, language journey, or athletic challenge undertaken over months or years.",
+    "communicativeOutcome": "Share an inspirational personal anecdote demonstrating sustained endeavor, obstacles overcome, and enduring habits formed.",
+    "objectivesIntroduced": [
+      "obj_b1_128_04_narrate_sustained_endeavor"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_128_01_form_durative_converb",
+      "obj_b1_128_02_perseverance_evolution_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_127_04_deliver_eyewitness_account"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_durative_saar"
+    ],
+    "grammarReviewed": [
+      "gram_a1_converb_sequential_aad"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_durative_long_vowel_harmony"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_01_narrating_personal_anecdotes"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_24_discussing_education_career_path"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "хичээл",
+      "дасгал",
+      "хэцүү",
+      "даван туулах",
+      "зорилго"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Deliver a 2.5-minute autobiographical narrative on learning Mongolian using durative converbs to denote ongoing effort.",
+    "registerTarget": "Warm, engaging autobiographical storytelling register",
+    "pragmaticTarget": "Connecting personal growth to universal themes of persistence and resilience.",
+    "prerequisiteLessonIds": [
+      "les_b1_128_02_persistence_evolution_lexicon",
+      "les_b1_128_03_biographical_narrative_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_127_04_dramatic_eyewitness_testimony_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_127_contemporaneous_converb_suffixes_"
+    ],
+    "reviewReason": "Pairs sudden dramatic narrative capability (-магц) with long-duration personal storytelling (-саар).",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Provide benchmark recording of a native speaker sharing an autobiographical milestone narrative.",
+    "successCriteria": [
+      "Narrates smoothly for 120-150 seconds with minimal pause breaks",
+      "Integrates durative converbs (-саар) to describe ongoing habits and gradual breakthroughs"
+    ],
+    "masteryEvidence": "Delivers 'Би өдөр бүр үг цээжилсээр, радио сонссоор байгаад монголоор чөлөөтэй ярьдаг боллоо' with expressive confidence.",
+    "recommendedExerciseModalities": [
+      "storytelling_monologue",
+      "peer_critique",
+      "anecdote_recording"
+    ]
+  },
+  {
+    "lessonId": "les_b1_129_01_modal_converb_n_morphology_intro",
+    "unitId": "unit_b1_129_modal_converb_of_manner_suffix_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Manner & Concomitance: The Modal Converb Suffix -н (Action Interconnection)",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the modal converb of manner suffix -н attached directly to verbal stems (with connective vowel after consonants) indicating how or in what manner the principal action is executed (инээмсэглэн хэлэх, гүйн очих, даван туулах).",
+    "communicativeOutcome": "Formulate sophisticated verbal chains expressing simultaneous manner and compound action in narrative prose.",
+    "objectivesIntroduced": [
+      "obj_b1_129_01_form_modal_converb_n"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_128_01_form_durative_converb"
+    ],
+    "grammarIntroduced": [
+      "gram_b1_converb_modal_manner_n"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_b1_clause_causal_uchir_uchraas_tul",
+      "gram_b1_converb_durative_saar"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_modal_n_connective_vowels"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_vowel_harmony_basic"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_01_narrating_personal_anecdotes"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "инээх",
+      "гүйх",
+      "очих",
+      "бодох",
+      "харагдах",
+      "хийх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Transform 8 base verbs into modal converbs of manner and combine them with main action predicates.",
+    "spokenProductionObjective": "Describe how someone entered a room and greeted the audience using -н manner converbs.",
+    "registerTarget": "Refined literary and formal descriptive register",
+    "pragmaticTarget": "Using -н to fuse manner seamlessly with main verbs rather than using clumsy adjectival phrases.",
+    "prerequisiteLessonIds": [
+      "les_b1_128_04_personal_transformation_anecdote_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_128_01_durative_converb_morphosyntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_128_durative_converb_suffixes_"
+    ],
+    "reviewReason": "Expands converb inventory from temporal sequence (-магц) and duration (-саар) to manner of action (-н).",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Demonstrate the short connective vowel before -н (уншин, яван, харсаар vs харан).",
+    "successCriteria": [
+      "Selects correct connective vowel (ы/и/у/ү) before -н based on stem phonology",
+      "Forms tight verbal collocations denoting manner of execution"
+    ],
+    "masteryEvidence": "Produces 'Тэрээр гар даллан биднийг угтав' and 'Гүйцэтгэлийг нарийвчлан шалгав' accurately.",
+    "recommendedExerciseModalities": [
+      "suffix_selection",
+      "collocation_assembly",
+      "sentence_completion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_129_02_manner_and_posture_lexicon",
+    "unitId": "unit_b1_129_modal_converb_of_manner_suffix_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Manner, Posture & Behavioral Lexicon: Expressive Physical & Psychological Verbs",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Acquire expressive descriptive verbs denoting physical postures, facial expressions, psychological attitudes, and movement modalities (тээнэгэлзэх, бэлэгшээх, сөгдөх, тонгойх, алхах).",
+    "communicativeOutcome": "Depict human behavior and bodily postures with evocative literary precision.",
+    "objectivesIntroduced": [
+      "obj_b1_129_02_manner_posture_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_129_01_form_modal_converb_n"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_modal_manner_n"
+    ],
+    "grammarReviewed": [
+      "gram_b1_clause_causal_uchir_uchraas_tul"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_01_narrating_personal_anecdotes"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_culture_traditions_heritage"
+    ],
+    "previousVocabularyReused": [
+      "зогсох",
+      "суух",
+      "харах",
+      "хэлэх",
+      "мэндлэх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Formulate 4 sentences depicting interpersonal greetings and ceremonial conduct using posture verbs in -н.",
+    "spokenProductionObjective": "Describe a traditional Mongolian greeting ritual highlighting respectful posture and mannerisms.",
+    "registerTarget": "Culturally grounded narrative and ceremonial register",
+    "pragmaticTarget": "Reflecting Mongolian cultural decorum (ёс жаяг) through respectful posture descriptors.",
+    "prerequisiteLessonIds": [
+      "les_b1_129_01_modal_converb_n_morphology_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_129_01_modal_converb_n_morphology_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_129_modal_converb_of_manner_suffix_"
+    ],
+    "reviewReason": "Pairs the grammatical manner converb with specialized descriptive vocabulary.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Provide audio pronunciation of evocative manner verbs.",
+    "successCriteria": [
+      "Pairs posture verbs correctly with -н (бөхийн мэндлэх, гар барин золгох)",
+      "Uses behavioral descriptors appropriately within cultural narrative contexts"
+    ],
+    "masteryEvidence": "Produces 'Ахмад настантай хоёр гараа сунган мэндлэв' with cultural accuracy.",
+    "recommendedExerciseModalities": [
+      "posture_action_matching",
+      "cultural_protocol_cloze",
+      "sentence_expansion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_129_03_literary_short_stories_reading",
+    "unitId": "unit_b1_129_modal_converb_of_manner_suffix_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Reading Analysis: Contemporary Mongolian Short Stories & Novellas",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Deconstruct excerpts from prominent modern Mongolian literary fiction (e.g. stories by D. Batbayar, S. Erdene, or B. Dogmid) rich in converbial chaining with -н.",
+    "communicativeOutcome": "Appreciate literary aesthetic nuance, decipher descriptive atmosphere, and interpret character motivations.",
+    "objectivesIntroduced": [
+      "obj_b1_129_03_read_literary_fiction"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_129_01_form_modal_converb_n"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_modal_manner_n"
+    ],
+    "grammarReviewed": [
+      "gram_b1_converb_durative_saar"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_01_narrating_personal_anecdotes"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_culture_traditions_heritage"
+    ],
+    "previousVocabularyReused": [
+      "өгүүллэг",
+      "зохиолч",
+      "дүр",
+      "баатрууд",
+      "сэтгэл"
+    ],
+    "readingObjective": "Read a 300-word short story excerpt and identify 4 modal converbs describing character movements and inner turmoil.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "High literary fictional prose register",
+    "pragmaticTarget": "Appreciating poetic subtext and unspoken emotion in contemporary Mongolian literature.",
+    "prerequisiteLessonIds": [
+      "les_b1_129_01_modal_converb_n_morphology_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_128_03_biographical_narrative_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_128_durative_converb_suffixes_"
+    ],
+    "reviewReason": "Advances reading from non-fiction biographical accounts to imaginative literary prose.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Dramatic artistic reading of literary passage by a professional Mongolian voice artist.",
+    "successCriteria": [
+      "Identifies manner converbs and explains their contribution to character depiction",
+      "Interprets underlying emotional atmosphere established by literary verbal chaining"
+    ],
+    "masteryEvidence": "Explains how 'эргэлзэн алхах' depicts the protagonist's hesitation in the story.",
+    "recommendedExerciseModalities": [
+      "literary_text_analysis",
+      "character_behavior_mapping",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_129_04_narrating_character_anecdote_spoken",
+    "unitId": "unit_b1_129_modal_converb_of_manner_suffix_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Spoken Production: Narrating an Anecdote Highlighting Character & Demeanor",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an expressive 2-minute oral anecdote recounting a memorable encounter with an eccentric, wise, or humorous individual, painting their physical mannerisms with -н converbs.",
+    "communicativeOutcome": "Bring a character to life through spoken storytelling, integrating manner, posture, and speech patterns.",
+    "objectivesIntroduced": [
+      "obj_b1_129_04_narrate_character_demeanor"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_129_01_form_modal_converb_n",
+      "obj_b1_129_02_manner_posture_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_128_04_narrate_sustained_endeavor"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_modal_manner_n"
+    ],
+    "grammarReviewed": [
+      "gram_b1_clause_causal_uchir_uchraas_tul"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_modal_n_connective_vowels"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_01_narrating_personal_anecdotes"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_02_sequencing_past_chronology"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "хүн",
+      "зан чанар",
+      "инээх",
+      "ярих",
+      "сонин"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Deliver a 2-minute oral character sketch using -н converbs to depict posture and attitude vividly.",
+    "registerTarget": "Expressive oral storytelling and portraiture register",
+    "pragmaticTarget": "Engaging listeners through sensory details of gesture and vocal inflection.",
+    "prerequisiteLessonIds": [
+      "les_b1_129_02_manner_and_posture_lexicon",
+      "les_b1_129_03_literary_short_stories_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_128_04_personal_transformation_anecdote_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_128_durative_converb_suffixes_"
+    ],
+    "reviewReason": "Synthesizes biographical narrative techniques with vivid descriptive mannerisms.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Benchmark native audio of an entertaining spoken character anecdote.",
+    "successCriteria": [
+      "Delivers a 2-minute spoken character sketch integrating at least 3 modal converbs of manner",
+      "Varies pacing and intonation to match character gestures and humorous traits"
+    ],
+    "masteryEvidence": "Delivers 'Өвгөн малгайгаа аван, инээмсэглэн толгой дохиод бидэнд замаа зааж өгсөн юм' with evocative warmth.",
+    "recommendedExerciseModalities": [
+      "character_monologue",
+      "peer_evaluation",
+      "expressive_storytelling"
+    ]
+  },
+  {
+    "lessonId": "les_b1_130_01_limiting_converb_morphosyntax_intro",
+    "unitId": "unit_b1_130_limiting_incidental_converb_suffixe",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Incidental Simultaneity: The Limiting Converb -нгаа/-нгээ (Multitasking & Secondary Actions)",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the limiting/incidental converb suffix -нгаа⁴ expressing: 1) doing a secondary action concurrently while primarily engaged in another ('while doing X, on the way, simultaneously'), and 2) taking advantage of an opportunity to perform an incidental task (далимдуулан).",
+    "communicativeOutcome": "Formulate compound sentences describing multitasking, concurrent activities, and opportunistic secondary tasks in daily life and work.",
+    "objectivesIntroduced": [
+      "obj_b1_130_01_form_limiting_converb"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_129_01_form_modal_converb_n"
+    ],
+    "grammarIntroduced": [
+      "gram_b1_converb_limiting_ngaa"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_verb_aspect_progressive_j_baina",
+      "gram_b1_converb_modal_manner_n"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_velar_nasal_ng_glide"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_vowel_harmony_basic"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_02_sequencing_past_chronology"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "явах",
+      "хийх",
+      "унших",
+      "уух",
+      "сонирхох",
+      "уулзах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Transform 8 verb stems into limiting converbs and construct sentences describing concurrent work and study habits.",
+    "spokenProductionObjective": "Explain two activities you regularly conduct simultaneously during your morning commute or lunch hour.",
+    "registerTarget": "Conversational and professional everyday workflow register",
+    "pragmaticTarget": "Highlighting time efficiency and multitasking capability in daily routines.",
+    "prerequisiteLessonIds": [
+      "les_b1_129_04_narrating_character_anecdote_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_129_01_modal_converb_n_morphology_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_129_modal_converb_of_manner_suffix_"
+    ],
+    "reviewReason": "Expands simultaneous manner (-н) to concurrent incidental secondary actions (-нгаа).",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model clean articulation of the velar nasal /ŋ/ before long vowels in -нгаа/-нгээ/-нгоо/-нгөө.",
+    "successCriteria": [
+      "Selects proper harmonic suffix variant (-нгаа⁴) based on verbal root vocalism",
+      "Constructs sentences where the subject performs both actions concurrently"
+    ],
+    "masteryEvidence": "Produces 'Би кофе уунгаа сонин уншив' and 'Хөдөө явангаа олон сайхан зураг авав' accurately.",
+    "recommendedExerciseModalities": [
+      "suffix_transformation",
+      "multitasking_pairing",
+      "sentence_completion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_130_02_opportunistic_action_lexicon",
+    "unitId": "unit_b1_130_limiting_incidental_converb_suffixe",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Opportunistic Actions Lexicon: Taking Advantage of Situations & Incidental Chores",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Acquire vocabulary denoting seizing opportunities, incidental errands, multi-purpose travel, and sideline tasks (далимдуулах, дашрамд дурдахад, зам зуураа, амжуулах, хажуугаар нь).",
+    "communicativeOutcome": "Explain how you combine business trips with leisure, run incidental errands on commutes, and seize opportune moments.",
+    "objectivesIntroduced": [
+      "obj_b1_130_02_opportunistic_action_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_130_01_form_limiting_converb"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_limiting_ngaa"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_ablative_origin"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_02_sequencing_past_chronology"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_travel_transport_tourism"
+    ],
+    "previousVocabularyReused": [
+      "боломж",
+      "ажил",
+      "зам",
+      "хэрэгцээ",
+      "амжих"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft 4 sentences explaining how you plan to accomplish 2 errands along the route of an official meeting.",
+    "spokenProductionObjective": "Use 'дашрамд дурдахад' and 'зам зуураа' naturally in a spoken conversation regarding weekend plans.",
+    "registerTarget": "Pragmatic conversational and workplace planning register",
+    "pragmaticTarget": "Using discourse markers like 'дашрамд дурдахад' to introduce relevant secondary points politely.",
+    "prerequisiteLessonIds": [
+      "les_b1_130_01_limiting_converb_morphosyntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_130_01_limiting_converb_morphosyntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_130_limiting_incidental_converb_suffixe"
+    ],
+    "reviewReason": "Supplies opportunistic action vocabulary to complement incidental converbial syntax.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce idiomatic opportunism phrases in authentic Mongolian contexts.",
+    "successCriteria": [
+      "Pairs incidental adverbs with limiting converbs (зам зуураа явангаа ажил амжуулах)",
+      "Uses 'дашрамд хэлэхэд' correctly to pivot to secondary topics in discourse"
+    ],
+    "masteryEvidence": "Produces 'Би хуралд суунгаа далимдуулан төслийн санаагаа танилцуулчихлаа' fluently.",
+    "recommendedExerciseModalities": [
+      "idiom_matching",
+      "errand_scheduling_task",
+      "dialogue_cloze"
+    ]
+  },
+  {
+    "lessonId": "les_b1_130_03_travelogue_errands_reading",
+    "unitId": "unit_b1_130_limiting_incidental_converb_suffixe",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Reading Analysis: Travelogues of Field Expeditions & Incidental Discoveries",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Deconstruct authentic Mongolian travel writings, field notebooks of researchers, and journalist diaries combining primary missions with incidental cultural encounters.",
+    "communicativeOutcome": "Comprehend complex multi-layered narratives where primary scientific goals and incidental cultural observations intertwine.",
+    "objectivesIntroduced": [
+      "obj_b1_130_03_read_field_travelogues"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_130_01_form_limiting_converb"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_limiting_ngaa"
+    ],
+    "grammarReviewed": [
+      "gram_a2_verb_future_deductive_kh_bolno",
+      "gram_b1_converb_contemporaneous_magts"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_02_sequencing_past_chronology"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_environment_geography_climate"
+    ],
+    "previousVocabularyReused": [
+      "аялал",
+      "хээрийн шинжилгээ",
+      "нутгийн иргэд",
+      "соёл",
+      "байгаль"
+    ],
+    "readingObjective": "Read a 280-word excerpt from a botanical field diary and identify 3 incidental discoveries made while traveling between research plots.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "Scientific field expedition journal register",
+    "pragmaticTarget": "Differentiating primary methodological protocols from opportunistic field discoveries.",
+    "prerequisiteLessonIds": [
+      "les_b1_130_01_limiting_converb_morphosyntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_127_03_memoir_journalism_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_127_contemporaneous_converb_suffixes_"
+    ],
+    "reviewReason": "Extends travel reading from dramatic eyewitness crisis to methodical exploratory journals.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration of botanical field notes with descriptive atmospheric pacing.",
+    "successCriteria": [
+      "Identifies limiting converb clauses describing concurrent research activities",
+      "Separates primary itinerary checkpoints from spontaneous stops and meetings"
+    ],
+    "masteryEvidence": "Identifies that the botanist documented a rare medicinal herb while surveying pasture degradation.",
+    "recommendedExerciseModalities": [
+      "field_log_analysis",
+      "converb_highlighting",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_130_04_workplace_multitasking_dialogue",
+    "unitId": "unit_b1_130_limiting_incidental_converb_suffixe",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Interactive Dialogue: Coordinating Concurrent Deliverables with a Colleague",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Simulate an interactive planning discussion between two project coordinators synchronizing upcoming conference logistics while preparing financial audits.",
+    "communicativeOutcome": "Negotiate who will handle which secondary tasks while executing primary operational commitments.",
+    "objectivesIntroduced": [
+      "obj_b1_130_04_coordinate_concurrent_tasks"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_130_01_form_limiting_converb",
+      "obj_b1_130_02_opportunistic_action_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_120_03_mediate_stakeholder_disputes"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_limiting_ngaa"
+    ],
+    "grammarReviewed": [
+      "gram_a1_verb_aspect_progressive_j_baina"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_velar_nasal_ng_glide"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_02_sequencing_past_chronology"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_18_delegating_tasks_causative"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "төлөвлөгөө",
+      "хамтран ажиллах",
+      "хуваарилах",
+      "хугацаа",
+      "үүрэг"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Enact an 8-turn dialogue coordinating two overlapping project workstreams using -нгаа converbs.",
+    "registerTarget": "Dynamic collaborative professional register",
+    "pragmaticTarget": "Proposing helpful efficiencies ('Би банк орохдоо таны бичгийг аваачаад өгчихье') to foster team synergy.",
+    "prerequisiteLessonIds": [
+      "les_b1_130_02_opportunistic_action_lexicon",
+      "les_b1_130_03_travelogue_errands_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_118_03_bilateral_negotiation_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_118_reciprocal_collaborative_voice_suff"
+    ],
+    "reviewReason": "Applies collaborative teamwork dynamics to efficient multi-task coordination.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Realistic office dialogue between two busy Mongolian project managers.",
+    "successCriteria": [
+      "Maintains rapid, natural turn-taking exchanging task assignments",
+      "Integrates -нгаа converbial clauses to combine logistical errands smoothly"
+    ],
+    "masteryEvidence": "Negotiates 'Чи хэвлэх үйлдвэр орохдоо наад урилгуудыг аваад ирж амжих уу? Би энд тайлангаа бичингээ хүлээж байя' flawlessly.",
+    "recommendedExerciseModalities": [
+      "branching_dialogue",
+      "task_allocation_simulation",
+      "spoken_roleplay"
+    ]
+  },
+  {
+    "lessonId": "les_b1_131_01_abnutative_converb_morphosyntax_intro",
+    "unitId": "unit_b1_131_abnutative_converb_suffix_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Negative Concomitance: The Abnutative Converb -лгүй (Without Doing)",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the abnutative converb suffix -лгүй indicating: 1) doing an action without performing another expected action ('without eating, without stopping, without hesitation'), and 2) double negative emphasis of certainty (-лгүй яах вэ / байж болохгүй).",
+    "communicativeOutcome": "Formulate negative concomitant clauses expressing omissions, non-actions, and emphatic affirmations in connected discourse.",
+    "objectivesIntroduced": [
+      "obj_b1_131_01_form_abnutative_converb"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_130_01_form_limiting_converb"
+    ],
+    "grammarIntroduced": [
+      "gram_b1_converb_abnutative_lgui"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_b1_reported_speech_indirect_tense_shift",
+      "gram_b1_converb_durative_saar"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_lateral_fricative_lgui_assimilation"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_05_making_causal_arguments"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "зогсох",
+      "идэх",
+      "хэлэх",
+      "бодох",
+      "мэдэх",
+      "эргэлзэх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Transform 8 verbs into abnutative converbs and construct complex sentences describing non-stop effort or action without hesitation.",
+    "spokenProductionObjective": "Explain an urgent action you took immediately without waiting for official confirmation.",
+    "registerTarget": "Standard formal spoken and written discourse register",
+    "pragmaticTarget": "Using -лгүй to emphasize decisiveness, omission, or absolute necessity.",
+    "prerequisiteLessonIds": [
+      "les_b1_130_04_workplace_multitasking_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_130_01_limiting_converb_morphosyntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_130_limiting_incidental_converb_suffixe"
+    ],
+    "reviewReason": "Contrasts positive concomitance (-нгаа) with negative privative concomitance (-лгүй).",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Demonstrate the lateral cluster /lg/ in -лгүй without vowel separation.",
+    "successCriteria": [
+      "Attaches -лгүй correctly to verbal stems without vowel insertion",
+      "Distinguishes between privative manner ('without doing') and emphatic consent (-лгүй яах вэ)"
+    ],
+    "masteryEvidence": "Produces 'Тэр юу ч бодолгүй шууд зөвшөөрөв' and 'Бид огт амарч суух завгүй ажиллав' flawlessly.",
+    "recommendedExerciseModalities": [
+      "suffix_transformation",
+      "privative_clause_pairing",
+      "sentence_completion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_131_02_omission_and_decisiveness_lexicon",
+    "unitId": "unit_b1_131_abnutative_converb_suffix_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Decisiveness & Omission Lexicon: Unhesitating Resolve & Inadvertent Overlook",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Acquire specialized vocabulary denoting bold unhesitating action, inadvertent neglect, bypassing protocol, and unwavering determination (тээнэгэлзэлгүй, завсарлагагүй, үл тоон, анзааралгүй, алгасалгүй).",
+    "communicativeOutcome": "Describe decisive personal choices, thorough inspections without omission, and accidental oversights.",
+    "objectivesIntroduced": [
+      "obj_b1_131_02_decisiveness_omission_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_131_01_form_abnutative_converb"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_abnutative_lgui"
+    ],
+    "grammarReviewed": [
+      "gram_b1_converb_limiting_ngaa"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_05_making_causal_arguments"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "шийдвэр",
+      "айдас",
+      "шалгалтын ажил",
+      "анхаарал",
+      "дутагдал"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Formulate 4 sentences describing an exhaustive quality audit where no detail was overlooked using targeted abnutative adverbs.",
+    "spokenProductionObjective": "Describe a crisis situation where you acted decisively without hesitating for a second.",
+    "registerTarget": "High professional and psychological narrative register",
+    "pragmaticTarget": "Projecting professional competence through thoroughness and absence of hesitation.",
+    "prerequisiteLessonIds": [
+      "les_b1_131_01_abnutative_converb_morphosyntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_131_01_abnutative_converb_morphosyntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_131_abnutative_converb_suffix_"
+    ],
+    "reviewReason": "Supplies vocabulary expressing omission and resolute non-action to pair with -лгүй.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronunciation of complex compound adverbs formed with -лгүй.",
+    "successCriteria": [
+      "Uses 'тээнэгэлзэлгүйгээр' and 'алгасалгүй' correctly in professional and narrative sentences",
+      "Distinguishes deliberate omission from accidental oversight"
+    ],
+    "masteryEvidence": "Produces 'Аудитор баримтуудыг нэг ч алгасалгүй нарийвчлан шалгажээ' accurately.",
+    "recommendedExerciseModalities": [
+      "adverb_matching",
+      "contextual_cloze",
+      "sentence_reconstruction"
+    ]
+  },
+  {
+    "lessonId": "les_b1_131_03_crisis_investigation_reports_reading",
+    "unitId": "unit_b1_131_abnutative_converb_suffix_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Reading Analysis: Safety Incident Reviews & Failure-to-Act Findings",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Analyze official investigative findings into industrial safety breaches or transportation failures examining what protocols operators failed to follow (-лгүй орхигдуулсан).",
+    "communicativeOutcome": "Extract critical operational failures, skipped safety checks, and regulatory omissions from technical investigative reports.",
+    "objectivesIntroduced": [
+      "obj_b1_131_03_read_safety_investigations"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_131_01_form_abnutative_converb"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_abnutative_lgui"
+    ],
+    "grammarReviewed": [
+      "gram_b1_reported_speech_indirect_tense_shift"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_05_making_causal_arguments"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "осол",
+      "шалгалт",
+      "дүрэм",
+      "хариуцлага",
+      "зөрчил"
+    ],
+    "readingObjective": "Read a 300-word industrial inspection report and list 3 mandatory safety steps the crew bypassed before the machine failed.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "Technical regulatory and legalistic investigative report register",
+    "pragmaticTarget": "Identifying explicit liability rooted in procedural non-compliance and omissions.",
+    "prerequisiteLessonIds": [
+      "les_b1_131_01_abnutative_converb_morphosyntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_126_03_socio_economic_causality_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_126_causal_conjunctions_connectors_"
+    ],
+    "reviewReason": "Connects causal explanations with specific procedural omissions and violations.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration of technical investigative findings.",
+    "successCriteria": [
+      "Identifies negative converb clauses indicating bypassed safety checks",
+      "Connects procedural omissions directly to subsequent mechanical failures"
+    ],
+    "masteryEvidence": "Identifies that the operator started the generator without checking the oil pressure level.",
+    "recommendedExerciseModalities": [
+      "incident_timeline",
+      "omission_detection",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_131_04_critical_post_mortem_debrief_spoken",
+    "unitId": "unit_b1_131_abnutative_converb_suffix_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Spoken Production: Delivering a Post-Mortem Debrief on Preventable Failures",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an oral post-mortem debrief presentation identifying what crucial actions a project team failed to execute, substantiating how future recurrences can be eliminated.",
+    "communicativeOutcome": "Deliver an objective, actionable critique of team performance focusing constructively on omitted steps and preventative safeguards.",
+    "objectivesIntroduced": [
+      "obj_b1_131_04_deliver_post_mortem_debrief"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_131_01_form_abnutative_converb",
+      "obj_b1_131_02_decisiveness_omission_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_126_05_deliver_causal_briefing"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_abnutative_lgui"
+    ],
+    "grammarReviewed": [
+      "gram_b1_converb_durative_saar"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_lateral_fricative_lgui_assimilation"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_05_making_causal_arguments"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_20_clarifying_misunderstandings"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "дүгнэлт",
+      "алдаа",
+      "засах",
+      "цаашид",
+      "арга хэмжээ"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Deliver a 2-minute oral presentation outlining 3 omissions that led to project failure and recommending corrective protocols.",
+    "registerTarget": "Objective professional debrief and quality control register",
+    "pragmaticTarget": "Framing procedural omissions objectively to prevent defensiveness and encourage reform.",
+    "prerequisiteLessonIds": [
+      "les_b1_131_02_omission_and_decisiveness_lexicon",
+      "les_b1_131_03_crisis_investigation_reports_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_126_05_explaining_systemic_causes_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_126_causal_conjunctions_connectors_"
+    ],
+    "reviewReason": "Synthesizes systemic causal explanations with precise omission analysis in spoken debrief.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Benchmark model of a constructive executive post-mortem presentation.",
+    "successCriteria": [
+      "Delivers a 2-minute structured debrief using at least 3 abnutative converbs (-лгүй)",
+      "Proposes concrete preventative solutions for every identified omission"
+    ],
+    "masteryEvidence": "Delivers 'Бид хэрэглэгчийн санал хүсэлтийг сонсолгүйгээр шинэ хувилбарыг гаргасан нь том алдаа боллоо' persuasively.",
+    "recommendedExerciseModalities": [
+      "post_mortem_monologue",
+      "peer_critique",
+      "solution_proposal"
+    ]
+  },
+  {
+    "lessonId": "les_b1_132_01_epistemic_particles_morphosyntax_intro",
+    "unitId": "unit_b1_132_epistemic_probability_particles_vs_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Evidential Inference vs Pure Chance: Particles Бололтой vs Магадгүй",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce epistemic probability markers distinguishing: 1) Sensory evidential inference based on visible/tangible evidence (бололтой / шинжтэй 'it appears that, seemingly'), and 2) Abstract hypothetical possibility (магадгүй / байж мэднэ 'perhaps, possibly, maybe').",
+    "communicativeOutcome": "Express carefully calibrated speculation differentiating what is inferred from visual signs versus what is hypothetical.",
+    "objectivesIntroduced": [
+      "obj_b1_132_01_differentiate_epistemic_modals"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_131_01_form_abnutative_converb"
+    ],
+    "grammarIntroduced": [
+      "gram_b1_epistemic_probability_bololtoi_magadgui"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_b1_converb_modal_manner_n",
+      "gram_b1_converb_abnutative_lgui"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_speculative_rising_terminal_tone"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_08_speculating_visual_evidence"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "магадгүй",
+      "болох",
+      "харагдах",
+      "шинж",
+      "магадлал"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Compose 6 sentences distinguishing visual evidence deductions (бололтой) from statistical probabilities (магадгүй).",
+    "spokenProductionObjective": "Speculate on why the streets are empty this morning using evidential particles.",
+    "registerTarget": "Standard conversational and analytical speculative register",
+    "pragmaticTarget": "Restricting бололтой to observed perceptual evidence to maintain epistemic truthfulness.",
+    "prerequisiteLessonIds": [
+      "les_b1_131_04_critical_post_mortem_debrief_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_124_01_opinion_epistemic_stance_lexicon"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_124_formulating_nuanced_personal_stance"
+    ],
+    "reviewReason": "Deepens stance calibration with grammatical epistemic particles.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model subtle rising terminal tone indicating uncertainty and evidential deduction.",
+    "successCriteria": [
+      "Applies 'бололтой' after participial stems (-сан бололтой, -х бололтой) to denote sensory evidence",
+      "Uses 'магадгүй' as a sentence-initial or medial adverbial of theoretical likelihood"
+    ],
+    "masteryEvidence": "Produces 'Гадаа бороо орсон бололтой, зам нойтон байна' vs 'Маргааш цас орж магадгүй' correctly.",
+    "recommendedExerciseModalities": [
+      "particle_selection",
+      "contextual_deduction",
+      "sentence_completion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_132_02_visual_clues_speculation_lexicon",
+    "unitId": "unit_b1_132_epistemic_probability_particles_vs_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Evidential Clues Lexicon: Perceptual Traces, Symptoms & Forensics",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Acquire sensory vocabulary describing visual traces, atmospheric indicators, forensic clues, and diagnostic signs (ул мөр, шинж тэмдэг, байдал, төлөв, хандлага).",
+    "communicativeOutcome": "Formulate detailed deductions from physical signs in everyday, scientific, and forensic contexts.",
+    "objectivesIntroduced": [
+      "obj_b1_132_02_evidential_clues_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_132_01_differentiate_epistemic_modals"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_epistemic_probability_bololtoi_magadgui"
+    ],
+    "grammarReviewed": [
+      "gram_b1_converb_modal_manner_n"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_08_speculating_visual_evidence"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_environment_geography_climate"
+    ],
+    "previousVocabularyReused": [
+      "шинж",
+      "мөр",
+      "байдал",
+      "үзэгдэх",
+      "илрэх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft 4 diagnostic statements interpreting physical signs of wear on an engine or weather symptoms.",
+    "spokenProductionObjective": "Explain what physical tracks in the snow tell about an animal's movements.",
+    "registerTarget": "Analytical observation and forensic inquiry register",
+    "pragmaticTarget": "Substantiating every speculative claim with a concrete perceptual observation.",
+    "prerequisiteLessonIds": [
+      "les_b1_132_01_epistemic_particles_morphosyntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_132_01_epistemic_particles_morphosyntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_132_epistemic_probability_particles_vs_"
+    ],
+    "reviewReason": "Supplies perceptual evidence vocabulary to substantiate epistemic probability markers.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce scientific and observational terminology in Mongolian.",
+    "successCriteria": [
+      "Pairs physical clue nouns with evidential predicates (ул мөрөөс харахад ... бололтой)",
+      "Distinguishes between conclusive proof and suggestive evidence"
+    ],
+    "masteryEvidence": "Produces 'Хөлийн мөрнөөс харахад энд чоно өнгөрсөн бололтой байна' flawlessly.",
+    "recommendedExerciseModalities": [
+      "clue_deduction_matching",
+      "forensic_description",
+      "sentence_expansion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_132_03_weather_forecasting_meteorology_reading",
+    "unitId": "unit_b1_132_epistemic_probability_particles_vs_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Reading Analysis: Meteorological Bulletins & Weather Anomaly Forecasts",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Deconstruct authentic seasonal weather outlooks from the National Agency for Meteorology and Environmental Monitoring (ЦАГИЙН МЭНД), evaluating probability percentages and cyclone tracks.",
+    "communicativeOutcome": "Extract probabilistic climate forecasts, storm risk levels, and seasonal precipitation predictions from official meteorological bulletins.",
+    "objectivesIntroduced": [
+      "obj_b1_132_03_read_weather_forecasts"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_132_01_differentiate_epistemic_modals"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_epistemic_probability_bololtoi_magadgui"
+    ],
+    "grammarReviewed": [
+      "gram_b1_converb_abnutative_lgui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_08_speculating_visual_evidence"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_environment_geography_climate"
+    ],
+    "previousVocabularyReused": [
+      "цаг агаар",
+      "шуурга",
+      "хүйтрэх",
+      "температур",
+      "салхи"
+    ],
+    "readingObjective": "Read a 250-word meteorological seasonal bulletin and extract the risk probabilities for early autumn frost across 4 central aimags.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "Scientific meteorological broadcast register",
+    "pragmaticTarget": "Interpreting probability hedging formulas in public safety forecasting.",
+    "prerequisiteLessonIds": [
+      "les_b1_132_01_epistemic_particles_morphosyntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_126_03_socio_economic_causality_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_126_causal_conjunctions_connectors_"
+    ],
+    "reviewReason": "Expands technical reading into environmental and probabilistic meteorological domains.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration of meteorological forecast with official broadcast cadence.",
+    "successCriteria": [
+      "Identifies probability markers indicating storm likelihood",
+      "Extracts specific temperature anomalies and snowfall projections from meteorological text"
+    ],
+    "masteryEvidence": "Identifies that blizzards are probable in the northern provinces while eastern areas remain dry.",
+    "recommendedExerciseModalities": [
+      "forecast_data_extraction",
+      "risk_mapping",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_132_04_forensic_case_deduction_dialogue",
+    "unitId": "unit_b1_132_epistemic_probability_particles_vs_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Interactive Dialogue: Deductive Mystery Solving from Physical Evidence",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Engage in an interactive deductive mystery dialogue with an investigative partner reconstructing what transpired at a deserted campsite or disrupted office based on physical clues.",
+    "communicativeOutcome": "Formulate speculative hypotheses, counter with alternative visual interpretations, and synthesize a coherent theory of events.",
+    "objectivesIntroduced": [
+      "obj_b1_132_04_solve_mystery_from_clues"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_132_01_differentiate_epistemic_modals",
+      "obj_b1_132_02_visual_clues_speculation_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_epistemic_probability_bololtoi_magadgui"
+    ],
+    "grammarReviewed": [
+      "gram_b1_converb_modal_manner_n"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_speculative_rising_terminal_tone"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_08_speculating_visual_evidence"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_03_expressing_opinions_agreements"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "сэжиглэх",
+      "баримт",
+      "нууц",
+      "тайлбарлах",
+      "магадлал"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Conduct an 8-turn deductive exchange debating what happened to an abandoned vehicle based on tire marks and scattered luggage.",
+    "registerTarget": "Investigative collaborative speculative register",
+    "pragmaticTarget": "Testing hypotheses cooperatively through calibrated epistemic hedging.",
+    "prerequisiteLessonIds": [
+      "les_b1_132_02_visual_clues_speculation_lexicon",
+      "les_b1_132_03_weather_forecasting_meteorology_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_125_03_structured_oxford_debate_simulation"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_125_respectful_disagreement_constructiv"
+    ],
+    "reviewReason": "Applies polite debate rebuttal strategies to investigative deductive hypotheses.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic dialogue between two inquisitive investigators examining clues.",
+    "successCriteria": [
+      "Sustains multi-turn dialogue formulating deductions with бололтой and магадгүй",
+      "Counters rival hypotheses citing specific visible anomalies"
+    ],
+    "masteryEvidence": "Negotiates 'Эндээс харахад тэд яарч явсан бололтой, учир нь чухал бичиг баримтаа мартаад орхичихсон байна' fluently.",
+    "recommendedExerciseModalities": [
+      "branching_investigation",
+      "clue_debate_simulation",
+      "spoken_deduction"
+    ]
+  },
+  {
+    "lessonId": "les_b1_132_05_investigative_forensic_report_writing",
+    "unitId": "unit_b1_132_epistemic_probability_particles_vs_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 5,
+    "title": "Writing Workshop: Authoring a 150-Word Investigative Inference Report",
+    "lessonType": "writing",
+    "primaryPurpose": "Synthesize observed physical clues into a formal 150-word written investigative assessment outlining findings, inferred timeline, probable causality, and remaining uncertainties.",
+    "communicativeOutcome": "Produce an authoritative written speculative briefing that carefully distinguishes observed facts from probabilistic inferences.",
+    "objectivesIntroduced": [
+      "obj_b1_132_05_write_investigative_report"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_132_01_differentiate_epistemic_modals",
+      "obj_b1_132_02_evidential_clues_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_131_04_deliver_post_mortem_debrief"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_epistemic_probability_bololtoi_magadgui"
+    ],
+    "grammarReviewed": [
+      "gram_b1_converb_abnutative_lgui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_08_speculating_visual_evidence"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_05_making_causal_arguments"
+    ],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "дүгнэлт",
+      "нотолгоо",
+      "шалтгаан",
+      "магадлал",
+      "илрэх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Author a 150-word investigative report detailing 3 observable clues and 2 probable conclusions regarding an equipment breakdown.",
+    "spokenProductionObjective": "",
+    "registerTarget": "Formal administrative investigative report register",
+    "pragmaticTarget": "Maintaining rigorous epistemic modesty to prevent premature legal conclusions.",
+    "prerequisiteLessonIds": [
+      "les_b1_132_03_weather_forecasting_meteorology_reading",
+      "les_b1_132_04_forensic_case_deduction_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_125_04_formal_rebuttal_letter_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_125_respectful_disagreement_constructiv"
+    ],
+    "reviewReason": "Synthesizes formal evidentiary writing with epistemic probability calibration.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Provide audio playback of the finalized investigative report.",
+    "successCriteria": [
+      "Accurately separates Section 1: Facts from Section 2: Evidential Inferences",
+      "Integrates бололтой and магадгүй with strict adherence to evidence-based constraints"
+    ],
+    "masteryEvidence": "Submits a report stating 'Хөдөлгүүрийн дулаан хэт өссөн бололтой бөгөөд тос гоожсоноос шалтгаалсан байж магадгүй юм' without error.",
+    "recommendedExerciseModalities": [
+      "guided_report_writing",
+      "fact_inference_sorting",
+      "peer_critique"
+    ]
+  },
+  {
+    "lessonId": "les_b1_133_01_professional_advisory_lexicon",
+    "unitId": "unit_b1_133_giving_professional_advice_actionab",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Advisory Formulas: Prescribing Solutions & Strategic Recommendations",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Acquire professional advisory formulas and consulting terminology (зөвлөх, анхаарах, зөвлөмж өгөх, дээр байх, шаардлагатай гэж үзэх, санал болгох) varying from gentle suggestions to imperative professional guidelines.",
+    "communicativeOutcome": "Provide tailored professional advice and strategic recommendations to clients, colleagues, and subordinates.",
+    "objectivesIntroduced": [
+      "obj_b1_133_01_professional_advisory_formulas"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_132_01_differentiate_epistemic_modals"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_epistemic_probability_bololtoi_magadgui"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_recipient",
+      "gram_b1_converb_limiting_ngaa"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_consultative_gentle_cadence"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_16_giving_advice_recommendations"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "зөвлөгөө",
+      "санал",
+      "туслах",
+      "хийх",
+      "чухал",
+      "үр дүнтэй"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft 5 professional recommendations for optimizing an organization's workflow using varied advisory formulas.",
+    "spokenProductionObjective": "Advise a client on how to protect their assets during currency devaluation.",
+    "registerTarget": "Professional consulting and advisory register",
+    "pragmaticTarget": "Framing advice constructively (гээд үзвэл ямар вэ, зүгээр болов уу) to invite client collaboration.",
+    "prerequisiteLessonIds": [
+      "les_b1_132_05_investigative_forensic_report_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_132_01_epistemic_particles_morphosyntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_132_epistemic_probability_particles_vs_"
+    ],
+    "reviewReason": "Transforms probabilistic deductions into actionable consulting advice.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model warm, authoritative, non-condescending consultative speech cadence.",
+    "successCriteria": [
+      "Selects appropriate advisory degree based on urgency and relationship",
+      "Applies dative case correctly for the advice recipient (Танд зөвлөхөд...)"
+    ],
+    "masteryEvidence": "Produces 'Танд энэ гэрээнд гарын үсэг зурахаасаа өмнө хуульчтай зөвлөлдөхийг зөвлөж байна' accurately.",
+    "recommendedExerciseModalities": [
+      "advice_calibration_matching",
+      "scenario_response_drill",
+      "cloze_completion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_133_02_management_consulting_audit_reading",
+    "unitId": "unit_b1_133_giving_professional_advice_actionab",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Reading Analysis: Management Consulting Audits & Strategic Roadmaps",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Deconstruct authentic executive consulting reports, organizational audits, and operational roadmaps published by Mongolian business advisors.",
+    "communicativeOutcome": "Extract priority recommendations, resource allocations, and risk mitigations from management consulting texts.",
+    "objectivesIntroduced": [
+      "obj_b1_133_02_read_consulting_roadmaps"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_133_01_professional_advisory_formulas"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_epistemic_probability_bololtoi_magadgui"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_recipient"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_16_giving_advice_recommendations"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "аудит",
+      "стратеги",
+      "зөвлөмж",
+      "шийдвэрлэх",
+      "байгууллага"
+    ],
+    "readingObjective": "Read a 300-word consulting executive summary and categorize recommendations into short-term and long-term priority tiers.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "High executive corporate consulting register",
+    "pragmaticTarget": "Synthesizing complex systemic findings into executive-level action items.",
+    "prerequisiteLessonIds": [
+      "les_b1_133_01_professional_advisory_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_126_03_socio_economic_causality_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_126_causal_conjunctions_connectors_"
+    ],
+    "reviewReason": "Connects diagnostic reading comprehension with solution-oriented recommendation roadmaps.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration of consulting report summary.",
+    "successCriteria": [
+      "Identifies conditional and modal structures used to formulate recommendations",
+      "Distinguishes mandatory regulatory advice from discretionary strategic options"
+    ],
+    "masteryEvidence": "Identifies that digitizing the inventory ledger was categorized as an immediate mandatory step.",
+    "recommendedExerciseModalities": [
+      "recommendation_sorting",
+      "priority_matrix",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_133_03_executive_advisory_consultation_dialogue",
+    "unitId": "unit_b1_133_giving_professional_advice_actionab",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Interactive Dialogue: One-on-One Strategic Consultation with a Client",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Conduct an interactive consulting session diagnosing a business owner's operational bottlenecks, responding to their anxieties, and proposing tailored interventions.",
+    "communicativeOutcome": "Deliver persuasive, empathetic professional counsel while handling client hesitations and cost concerns.",
+    "objectivesIntroduced": [
+      "obj_b1_133_03_conduct_consulting_session"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_133_01_professional_advisory_formulas",
+      "obj_b1_133_02_read_consulting_roadmaps"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_125_01_polite_disagreement_formulas"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_epistemic_probability_bololtoi_magadgui"
+    ],
+    "grammarReviewed": [
+      "gram_b1_converb_limiting_ngaa"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_consultative_gentle_cadence"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_16_giving_advice_recommendations"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_04_respectful_disagreement"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "харилцагч",
+      "төсөв",
+      "шийдэл",
+      "зөвлөх",
+      "итгэл"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Enact an 8-turn consultation with a hesitant business owner advising them to restructure staff shifts.",
+    "registerTarget": "Warm, confident professional consulting register",
+    "pragmaticTarget": "Acknowledging client cost concerns with empathy before demonstrating long-term ROI.",
+    "prerequisiteLessonIds": [
+      "les_b1_133_01_professional_advisory_lexicon",
+      "les_b1_133_02_management_consulting_audit_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_123_04_wire_transfer_teller_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_123_complex_banking_electronic_funds_tr"
+    ],
+    "reviewReason": "Revisits high-level professional dialogue with an advisory, problem-solving focus.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Realistic dialogue between an expert consultant and an anxious Mongolian entrepreneur.",
+    "successCriteria": [
+      "Maintains empathetic rapport while offering concrete, actionable solutions",
+      "Uses consultative modal expressions (-вал дээр, -х хэрэгтэй, зөвлөж байна) effectively"
+    ],
+    "masteryEvidence": "Negotiates 'Эхний ээлжинд маркетингийн зардлаа бага зэрэг танаж, бүтээгдэхүүнийхээ чанарт анхаарвал үр дүнтэй болов уу' fluently.",
+    "recommendedExerciseModalities": [
+      "branching_consultation",
+      "client_objection_handling",
+      "advisory_roleplay"
+    ]
+  },
+  {
+    "lessonId": "les_b1_133_04_consulting_memorandum_writing",
+    "unitId": "unit_b1_133_giving_professional_advice_actionab",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Writing Workshop: Authoring an Actionable Advisory Memo",
+    "lessonType": "writing",
+    "primaryPurpose": "Compose a structured 150-word formal advisory memorandum for a corporate department head recommending 3 operational enhancements.",
+    "communicativeOutcome": "Produce a well-organized professional advisory memo with background analysis, concrete recommendations, and implementation timeline.",
+    "objectivesIntroduced": [
+      "obj_b1_133_04_write_advisory_memo"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_133_01_professional_advisory_formulas",
+      "obj_b1_133_03_conduct_consulting_session"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_125_04_write_rebuttal_letter"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_epistemic_probability_bololtoi_magadgui"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_recipient"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_16_giving_advice_recommendations"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_10_writing_formal_email_letter"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_education_career_workplace"
+    ],
+    "previousVocabularyReused": [
+      "санамж бичиг",
+      "хэрэгжүүлэх",
+      "хугацаа",
+      "үр ашиг",
+      "сайжруулах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Author a 150-word advisory memo with 3 numbered recommendations for software adoption, risk mitigation, and staff upskilling.",
+    "spokenProductionObjective": "",
+    "registerTarget": "Formal corporate administrative advisory register",
+    "pragmaticTarget": "Presenting recommendations with crisp numbered clarity and realistic resource milestones.",
+    "prerequisiteLessonIds": [
+      "les_b1_133_02_management_consulting_audit_reading",
+      "les_b1_133_03_executive_advisory_consultation_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_125_04_formal_rebuttal_letter_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_125_respectful_disagreement_constructiv"
+    ],
+    "reviewReason": "Synthesizes formal written advocacy into actionable management recommendations.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Provide audio playback of the completed advisory memo.",
+    "successCriteria": [
+      "Structures memo with Context, Findings, Recommendations, and Timeline sections",
+      "Applies professional advisory lexicon and conditional syntax accurately"
+    ],
+    "masteryEvidence": "Submits a memo opening with 'Байгууллагын үр ашгийг дээшлүүлэх зорилгоор дараах 3 зөвлөмжийг дэвшүүлж байна' and sustaining clear structure throughout.",
+    "recommendedExerciseModalities": [
+      "guided_memo_writing",
+      "action_item_bulleting",
+      "peer_review"
+    ]
+  },
+  {
+    "lessonId": "les_b1_134_01_critical_appraisal_lexicon",
+    "unitId": "unit_b1_134_film_literary_criticism_evaluating_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 1,
+    "title": "Aesthetic Criticism Lexicon: Plot, Character Arc, Cinematography & Theme",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Acquire critical aesthetic and analytical vocabulary for reviewing literature, films, and theater (зохиолын өрнөл, дүр бүтээлт, зураглал, найруулга, далд утга, шүүмжлэх, сайшаах).",
+    "communicativeOutcome": "Evaluate cultural works of art using specialized aesthetic and critical terminology.",
+    "objectivesIntroduced": [
+      "obj_b1_134_01_aesthetic_criticism_lexicon"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b1_129_02_manner_posture_lexicon"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_clause_causal_uchir_uchraas_tul"
+    ],
+    "grammarReviewed": [
+      "gram_a1_verb_tense_present_habitual_dag",
+      "gram_b1_converb_abnutative_lgui"
+    ],
+    "phonologyIntroduced": [
+      "phono_b1_critical_evaluative_stress"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_b1_22_discussing_books_films_reviews"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_culture_traditions_heritage",
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "кино",
+      "ном",
+      "жүжигчин",
+      "найруулагч",
+      "үзэгч",
+      "үнэлэх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft 4 critical evaluation sentences analyzing the cinematography and musical score of a Mongolian film.",
+    "spokenProductionObjective": "Explain why a particular character in a novel resonated with you using aesthetic terms.",
+    "registerTarget": "High cultural criticism and arts commentary register",
+    "pragmaticTarget": "Balancing appreciation of artistic craft with objective identification of flaws.",
+    "prerequisiteLessonIds": [
+      "les_b1_133_04_consulting_memorandum_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_129_02_manner_and_posture_lexicon"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_129_modal_converb_of_manner_suffix_"
+    ],
+    "reviewReason": "Applies literary and behavioral descriptive terms to formal arts criticism.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronunciation of cinematic and literary analytical terminology.",
+    "successCriteria": [
+      "Uses critical arts vocabulary accurately (найруулагчийн шийдэл, дүр хөгжүүлэлт, далд санаа)",
+      "Forms cohesive evaluation clauses substantiating aesthetic impressions"
+    ],
+    "masteryEvidence": "Produces 'Киноны зураглал гайхалтай болсон ч зохиолын өрнөл хэт удаан, учир дутагдалтай байв' without error.",
+    "recommendedExerciseModalities": [
+      "arts_vocabulary_matching",
+      "evaluative_collocation",
+      "sentence_expansion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_134_02_film_reviews_reading",
+    "unitId": "unit_b1_134_film_literary_criticism_evaluating_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 2,
+    "title": "Reading Analysis: Published Reviews of Mongolian Cinema & International Festivals",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Deconstruct authentic film critiques of contemporary Mongolian cinema (e.g., works by modern directors exploring urban youth or nomadic heritage) published in cultural journals.",
+    "communicativeOutcome": "Decipher cultural symbolism, directorial choices, and critical evaluations in published artistic reviews.",
+    "objectivesIntroduced": [
+      "obj_b1_134_02_read_film_reviews"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_134_01_aesthetic_criticism_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_clause_causal_uchir_uchraas_tul"
+    ],
+    "grammarReviewed": [
+      "gram_a2_verb_past_narrative_v"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_22_discussing_books_films_reviews"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_culture_traditions_heritage",
+      "lex_b1_media_digital_society"
+    ],
+    "previousVocabularyReused": [
+      "шүүмж",
+      "нийтлэл",
+      "дэлгэц",
+      "фестиваль",
+      "шагнал"
+    ],
+    "readingObjective": "Read a 300-word film review of an award-winning Mongolian indie film and identify 2 strengths and 1 critique raised by the reviewer.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "Sophisticated journalistic arts criticism register",
+    "pragmaticTarget": "Understanding nuanced cultural metaphors and subtextual socio-political commentary in arts reviews.",
+    "prerequisiteLessonIds": [
+      "les_b1_134_01_critical_appraisal_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_129_03_literary_short_stories_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_129_modal_converb_of_manner_suffix_"
+    ],
+    "reviewReason": "Extends literary reading from narrative storytelling to meta-critical evaluation of artistic works.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration of published film review text.",
+    "successCriteria": [
+      "Identifies the reviewer's overall verdict (praise vs mixed reception)",
+      "Extracts specific critiques regarding pacing, casting, and thematic execution"
+    ],
+    "masteryEvidence": "Identifies that the reviewer praised the authentic portrayal of steppe life but criticized the dialogue sound mixing.",
+    "recommendedExerciseModalities": [
+      "review_deconstruction",
+      "critique_sorting",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_b1_134_03_film_podcast_cultural_listening",
+    "unitId": "unit_b1_134_film_literary_criticism_evaluating_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Comprehension: Cinema Podcast on Nomadic Motifs in Modern Art",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop listening comprehension for an unscripted cultural podcast where two Mongolian critics debate the representation of nomadic tradition versus modern globalization in cinema.",
+    "communicativeOutcome": "Follow dynamic cultural discourse, comprehend rapid turn-taking, and identify conflicting interpretations of artistic motifs.",
+    "objectivesIntroduced": [
+      "obj_b1_134_03_comprehend_cultural_podcast"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_134_01_aesthetic_criticism_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_125_02_comprehend_symposium_debate"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_converb_abnutative_lgui"
+    ],
+    "grammarReviewed": [
+      "gram_b1_clause_causal_uchir_uchraas_tul"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_critical_evaluative_stress"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_22_discussing_books_films_reviews"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_03_expressing_opinions_agreements"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_culture_traditions_heritage",
+      "lex_b1_media_digital_society"
+    ],
+    "previousVocabularyReused": [
+      "подкаст",
+      "яриа",
+      "сэдэв",
+      "уламжлал",
+      "орчин үе"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Listen to a 2.5-minute cultural podcast excerpt and transcribe the divergent opinions of the two critics regarding the film's climax.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "Intellectual conversational cultural podcast register",
+    "pragmaticTarget": "Tracking colloquial cultural metaphors and unscripted interjections in spoken Mongolian commentary.",
+    "prerequisiteLessonIds": [
+      "les_b1_134_01_critical_appraisal_lexicon",
+      "les_b1_134_02_film_reviews_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_125_02_academic_symposium_rebuttal_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_125_respectful_disagreement_constructiv"
+    ],
+    "reviewReason": "Expands listening from academic symposiums to contemporary digital arts media.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic studio podcast audio with two engaging conversational speakers.",
+    "successCriteria": [
+      "Distinguishes the differing perspectives of Host A and Host B regarding cinematic symbolism",
+      "Recognizes fast-paced cultural loanwords and evaluative idioms in natural speech"
+    ],
+    "masteryEvidence": "Summarizes accurately that Host A viewed the horse-race climax as triumphant while Host B interpreted it as tragic.",
+    "recommendedExerciseModalities": [
+      "audio_comprehension",
+      "speaker_attribution",
+      "summary_completion"
+    ]
+  },
+  {
+    "lessonId": "les_b1_134_04_book_club_cultural_discussion",
+    "unitId": "unit_b1_134_film_literary_criticism_evaluating_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 4,
+    "title": "Discussion: Book Club Round Table on Modern Mongolian Literature",
+    "lessonType": "discussion",
+    "primaryPurpose": "Participate in an intellectual book club roundtable evaluating a novel's philosophical themes, character transformations, and reflection of post-nomadic society.",
+    "communicativeOutcome": "Debate literary interpretations with peers, defend personal readings with textual citations, and challenge superficial evaluations.",
+    "objectivesIntroduced": [
+      "obj_b1_134_04_debate_literary_themes"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_134_01_aesthetic_criticism_lexicon",
+      "obj_b1_134_03_comprehend_cultural_podcast"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_125_03_participate_formal_debate"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_clause_causal_uchir_uchraas_tul"
+    ],
+    "grammarReviewed": [
+      "gram_a1_verb_tense_present_habitual_dag"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_b1_critical_evaluative_stress"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_22_discussing_books_films_reviews"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_04_respectful_disagreement"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_b1_culture_traditions_heritage",
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "уншигч",
+      "үзэл санаа",
+      "дүгнэлт",
+      "сэтгэгдэл",
+      "сонирхолтой"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Contribute 4 substantive speaking turns in a book club debate exploring why the protagonist's moral choices matter.",
+    "registerTarget": "Intellectual cultural dialogue and literary salon register",
+    "pragmaticTarget": "Validating fellow readers' interpretations while introducing deeper symbolic subtext.",
+    "prerequisiteLessonIds": [
+      "les_b1_134_02_film_reviews_reading",
+      "les_b1_134_03_film_podcast_cultural_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_125_03_structured_oxford_debate_simulation"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_125_respectful_disagreement_constructiv"
+    ],
+    "reviewReason": "Transfers structured debate skills into cultured literary and philosophical book discussion.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Provide discussion prompts and provocative literary interpretations by native panelists.",
+    "successCriteria": [
+      "Contributes 4 analytical speaking turns evaluating themes and character motivations",
+      "Employs causal and evaluative structures fluently in conversational turn-taking"
+    ],
+    "masteryEvidence": "Articulates 'Энэ зохиолын гол санаа нь хүний мөн чанар, байгальтайгаа зохицон амьдрах уламжлалын үнэ цэнийг харуулсан гэж бодож байна' persuasively.",
+    "recommendedExerciseModalities": [
+      "roundtable_discussion",
+      "thematic_interpretation",
+      "peer_critique"
+    ]
+  },
+  {
+    "lessonId": "les_b1_134_05_critical_arts_essay_writing",
+    "unitId": "unit_b1_134_film_literary_criticism_evaluating_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 5,
+    "title": "Writing Workshop: Authoring a Published Arts Critique (Шүүмж)",
+    "lessonType": "writing",
+    "primaryPurpose": "Compose a polished 150-word cultural critique of a book, film, or theatrical production suitable for publication in a cultural journal or lifestyle blog.",
+    "communicativeOutcome": "Author a balanced, engaging cultural review featuring synopsis, aesthetic critique, technical appraisal, and overall recommendation.",
+    "objectivesIntroduced": [
+      "obj_b1_134_05_author_published_review"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_134_01_aesthetic_criticism_lexicon",
+      "obj_b1_134_04_debate_literary_themes"
+    ],
+    "objectivesReviewed": [
+      "obj_b1_124_04_write_opinion_editorial"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_clause_causal_uchir_uchraas_tul"
+    ],
+    "grammarReviewed": [
+      "gram_b1_converb_abnutative_lgui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_22_discussing_books_films_reviews"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b1_03_expressing_opinions_agreements"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_b1_culture_traditions_heritage",
+      "lex_b1_opinion_argumentation_rhetoric"
+    ],
+    "previousVocabularyReused": [
+      "үнэлгээ",
+      "зөвлөмж",
+      "үзэх",
+      "унших",
+      "сэтгэгдэл"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Author a 150-word film or book review containing a succinct hook, plot summary without spoilers, craft critique, and star rating.",
+    "spokenProductionObjective": "",
+    "registerTarget": "High literary and cultural journalism review register",
+    "pragmaticTarget": "Balancing critical rigor with engaging prose that sparks reader interest in the work.",
+    "prerequisiteLessonIds": [
+      "les_b1_134_02_film_reviews_reading",
+      "les_b1_134_04_book_club_cultural_discussion"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_124_04_opinion_editorial_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_124_formulating_nuanced_personal_stance"
+    ],
+    "reviewReason": "Synthesizes opinion essay writing into specialized cultural arts criticism.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Provide audio playback of the student's authored cultural critique.",
+    "successCriteria": [
+      "Structures review into Catchy Title, Context/Synopsis, Analysis of Form & Content, and Final Verdict",
+      "Integrates target aesthetic lexicon and causal structures seamlessly"
+    ],
+    "masteryEvidence": "Submits a review concluding 'Энэхүү бүтээл нь орчин үеийн залууст соёлын өвөө эргэн харах боломжийг олгосон шилдэг кино болжээ' without error.",
+    "recommendedExerciseModalities": [
+      "guided_review_composition",
+      "spoilers_avoidance_drill",
+      "peer_editing"
+    ]
+  },
+  {
+    "lessonId": "les_b1_134_06_section_02_milestone_synthesis_checkpoint",
+    "unitId": "unit_b1_134_film_literary_criticism_evaluating_",
+    "cefrLevel": "B1",
+    "sequenceWithinUnit": 6,
+    "title": "Section Milestone Checkpoint: Discourse, Argumentation & Converb Mastery",
+    "lessonType": "milestone_checkpoint",
+    "primaryPurpose": "Comprehensive synthesis and formal benchmark assessment across all Section 02 competencies: nuanced stances, respectful disagreement, causal conjunctions (учраас/тул/учир нь), contemporaneous (-магц), durative (-саар), manner (-н), limiting (-нгаа), abnutative (-лгүй) converbs, epistemic probability (бололтой/магадгүй), consulting advice, and cultural criticism.",
+    "communicativeOutcome": "Demonstrate integrated threshold B1 discursive, rhetorical, and converbial mastery in a multi-skill simulated public symposium challenge.",
+    "objectivesIntroduced": [
+      "obj_b1_134_06_section_02_synthesis_milestone"
+    ],
+    "objectivesPracticed": [
+      "obj_b1_124_01_express_nuanced_stance",
+      "obj_b1_125_01_polite_disagreement_formulas",
+      "obj_b1_126_01_form_causal_clauses",
+      "obj_b1_127_01_form_contemporaneous_converb",
+      "obj_b1_128_01_form_durative_converb",
+      "obj_b1_129_01_form_modal_converb_n",
+      "obj_b1_130_01_form_limiting_converb",
+      "obj_b1_131_01_form_abnutative_converb",
+      "obj_b1_132_01_differentiate_epistemic_modals",
+      "obj_b1_133_01_professional_advisory_formulas",
+      "obj_b1_134_05_author_published_review"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_b1_clause_causal_uchir_uchraas_tul",
+      "gram_b1_converb_contemporaneous_magts",
+      "gram_b1_converb_durative_saar",
+      "gram_b1_converb_modal_manner_n",
+      "gram_b1_converb_limiting_ngaa",
+      "gram_b1_converb_abnutative_lgui",
+      "gram_b1_epistemic_probability_bololtoi_magadgui"
+    ],
+    "grammarReviewed": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_b1_03_expressing_opinions_agreements",
+      "comm_b1_04_respectful_disagreement",
+      "comm_b1_05_making_causal_arguments",
+      "comm_b1_02_sequencing_past_chronology",
+      "comm_b1_01_narrating_personal_anecdotes",
+      "comm_b1_08_speculating_visual_evidence",
+      "comm_b1_16_giving_advice_recommendations",
+      "comm_b1_22_discussing_books_films_reviews"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_b1_opinion_argumentation_rhetoric",
+      "lex_b1_education_career_workplace",
+      "lex_b1_culture_traditions_heritage"
+    ],
+    "previousVocabularyReused": [
+      "байр суурь",
+      "нотолгоо",
+      "шалтгаан",
+      "үр дүн",
+      "өөрчлөгдөх",
+      "соёл",
+      "зөвлөмж",
+      "магадлал",
+      "шинжилгээ",
+      "шүүмж"
+    ],
+    "readingObjective": "Read and deconstruct a 350-word cultural symposium keynote addressing the future of Mongolian nomadic identity.",
+    "listeningObjective": "Comprehend a 3-minute panel discussion where three intellectual speakers debate language preservation.",
+    "writingObjective": "Author a 150-word synthesis essay synthesizing the opposing arguments and proposing a balanced resolution.",
+    "spokenProductionObjective": "Deliver a 2.5-minute formal symposium address synthesizing your viewpoint, refuting counter-claims, and proposing actionable recommendations.",
+    "registerTarget": "Full B1 academic, discursive, and intellectual public standard",
+    "pragmaticTarget": "Seamlessly navigating between polite concession, sharp causal reasoning, and persuasive rhetorical advocacy.",
+    "prerequisiteLessonIds": [
+      "les_b1_134_04_book_club_cultural_discussion",
+      "les_b1_134_05_critical_arts_essay_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_b1_124_04_opinion_editorial_writing",
+      "les_b1_125_03_structured_oxford_debate_simulation",
+      "les_b1_126_05_explaining_systemic_causes_spoken",
+      "les_b1_128_04_personal_transformation_anecdote_spoken",
+      "les_b1_132_04_forensic_case_deduction_dialogue",
+      "les_b1_133_04_consulting_memorandum_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_b1_124_formulating_nuanced_personal_stance",
+      "unit_b1_125_respectful_disagreement_constructiv",
+      "unit_b1_126_causal_conjunctions_connectors_",
+      "unit_b1_128_durative_converb_suffixes_",
+      "unit_b1_132_epistemic_probability_particles_vs_",
+      "unit_b1_133_giving_professional_advice_actionab"
+    ],
+    "reviewReason": "Caps Section 02 with a comprehensive benchmark synthesizing discourse, converb morphology, argumentation, and cultural evaluation.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Symposium keynote listening benchmark featuring high-register public intellectual oratory.",
+    "successCriteria": [
+      "Demonstrates mastery across all 7 Section 02 target converbs and grammatical structures in reading, writing, and speaking",
+      "Maintains sophisticated cohesive discourse across a 150-word written essay and a 2.5-minute spoken address"
+    ],
+    "masteryEvidence": "Achieves 85%+ on integrated multi-skill milestone rubric covering written essay, oral presentation, and listening comprehension.",
+    "recommendedExerciseModalities": [
+      "symposium_simulation",
+      "multi_skill_benchmark_exam",
+      "rhetorical_advocacy_evaluation"
+    ]
+  }
+]

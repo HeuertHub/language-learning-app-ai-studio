@@ -1,0 +1,3547 @@
+[
+  {
+    "lessonId": "les_c2_238_01_secret_history_philological_foundations_intro",
+    "unitId": "unit_c2_238_the_secret_history_of_the_mongols_p",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 1,
+    "title": "Philological Foundations: The Secret History of the Mongols (1240), Ming Transcriptions & Sinitic Glosses",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the textual genealogy, Ming Dynasty phonetic transcription system (Chinese characters with diacritics for Middle Mongolian sounds), interlinear glossing, and 20th-century Mongolian decipherment (Ts. Damdinsuren, Shiratori, Pelliot, Haenisch).",
+    "communicativeOutcome": "Comprehend the historical-philological architecture of the Secret History, parsing Middle Mongolian linguistic reconstructions alongside modern Khalkha renditions.",
+    "objectivesIntroduced": [
+      "obj_c2_238_01_master_secret_history_philology"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_237_01_synthesize_c2_sec01_stylistics"
+    ],
+    "objectivesReviewed": [
+      "obj_c1_224_01_master_classical_converbs"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_dialectal_morphosyntax_awareness"
+    ],
+    "grammarReviewed": [
+      "gram_c1_classical_quotative_khemeen"
+    ],
+    "phonologyIntroduced": [
+      "phon_c2_05_middle_mongolian_phonology_reconstruction"
+    ],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_15_creative_mastery_authorial_voice"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "Монголын нууц товчоо",
+      "эх бичиг судлал",
+      "дундад зууны монгол хэл",
+      "хятад галиг"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "archaic Middle Mongolian philological scholarship",
+    "pragmaticTarget": "monumental textual authority and medieval historiography",
+    "prerequisiteLessonIds": [
+      "les_c2_237_06_c2_sec01_culminating_operational_synthesis"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_224_01_classical_converb_relics_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_224_classical_converb_relics_suffixes_"
+    ],
+    "reviewReason": "Bridges C1 classical grammatical converbs into foundational Middle Mongolian philology.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Explains the 3 major transmission stages of the Secret History (1240 original Uighur-Mongolian, 1382 Ming phonetic transcript, 1947 Damdinsuren modern Cyrillic adaptation)",
+      "Parses 4 reconstructed Middle Mongolian phrases comparing original phonetic forms with modern Khalkha cognates"
+    ],
+    "masteryEvidence": "Produces an authoritative philological analysis of 5 Middle Mongolian manuscript fragments.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_238_02_secret_history_prologue_bodonchar_reading",
+    "unitId": "unit_c2_238_the_secret_history_of_the_mongols_p",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 2,
+    "title": "Textual Reading: The Mythic Genealogy & Bodonchar Munkhag (§1-§44)",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an 880-word critical edition excerpt of the opening chapters of the Secret History (§1 Börte Chino and Qo'ai Maral, to §44 Bodonchar capture of the pregnant woman), analyzing medieval narrative pacing, mythic geography, and ancestral lineage formulas.",
+    "communicativeOutcome": "Deconstruct foundational 13th-century Mongolian epic prose, analyzing the intertwining of totemic mythology and historical clan formation.",
+    "objectivesIntroduced": [
+      "obj_c2_238_02_parse_bodonchar_mythic_genealogy"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_238_01_master_secret_history_philology"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_dialectal_morphosyntax_awareness"
+    ],
+    "grammarReviewed": [
+      "gram_c1_classical_participle_khui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_05_middle_mongolian_phonology_reconstruction"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "Бөртэ чоно",
+      "Гоо марал",
+      "Бодончар мунхаг",
+      "овог аймаг",
+      "ясан төрөл"
+    ],
+    "readingObjective": "Analyze critical edition of Secret History prologue deconstructing totemic symbolism, kinship nomenclature, and mythic syntax.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "13th-century Middle Mongolian epic historical chronicle",
+    "pragmaticTarget": "mythological genesis and clan foundation legitimacy",
+    "prerequisiteLessonIds": [
+      "les_c2_238_01_secret_history_philological_foundations_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_237_02_c2_sec01_capstone_literary_monument_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_237_contemporary_literature_capstone_sa"
+    ],
+    "reviewReason": "Contrasts 21st-century modernist fiction reading with 13th-century foundational epic chronicle parsing.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies 6 archaic clan and kinship designators that lack exact modern equivalents",
+      "Interprets the philosophical aphorism of Bodonchar ('Агтанд эзэн үгүй, дээлэнд зах үгүй') in its medieval political context"
+    ],
+    "masteryEvidence": "Produces an 880-word philological and historical commentary on §1-§44.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_238_03_damdinsuren_scholarly_lecture_listening",
+    "unitId": "unit_c2_238_the_secret_history_of_the_mongols_p",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Academician Ts. Damdinsuren's Master Lectures on Deciphering the Monument",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute archival recording of Academician Ts. Damdinsuren lecturing at the Mongolian Academy of Sciences (160 wpm), deconstructing his philological principles when translating 13th-century Middle Mongolian verse into modern literary Cyrillic.",
+    "communicativeOutcome": "Process high-level historical philological lectures by Mongolia's greatest 20th-century philologist, tracking linguistic methodology and textual reconstructions.",
+    "objectivesIntroduced": [
+      "obj_c2_238_03_comprehend_damdinsuren_lectures"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_238_01_master_secret_history_philology"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_dialectal_morphosyntax_awareness"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_05_middle_mongolian_phonology_reconstruction"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_03_academic_thesis_defense"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "Ц.Дамдинсүрэн",
+      "Шинжлэх ухааны академи",
+      "орчуулгын зарчим",
+      "шүлэг найраг"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher archival academic lectures on textual transmission, paleographic anomalies, and alliterative verse restoration.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "scholarly philological keynote lecture oral",
+    "pragmaticTarget": "academic methodology and cultural heritage restitution",
+    "prerequisiteLessonIds": [
+      "les_c2_238_02_secret_history_prologue_bodonchar_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_237_03_c2_sec01_capstone_rapid_cultural_debate_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_237_contemporary_literature_capstone_sa"
+    ],
+    "reviewReason": "Transitions from high-velocity modern debate listening into authoritative archival academic philological lectures.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic historical audio recording of Academician Damdinsuren discussing Secret History translation problems.",
+    "successCriteria": [
+      "Transcribes Damdinsuren's philological explanation for rendering archaic verbal converbs into modern Khalkha",
+      "Identifies the specific scholarly debate with Soviet and Hungarian Mongolists addressed in the lecture"
+    ],
+    "masteryEvidence": "Produces an exhaustive acoustic and conceptual summary of the archival academic lecture.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_238_04_critical_apparatus_edition_writing",
+    "unitId": "unit_c2_238_the_secret_history_of_the_mongols_p",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 4,
+    "title": "Philological Writing: Authoring a Critical Textual Apparatus & Paleographic Note",
+    "lessonType": "writing",
+    "primaryPurpose": "Author an 800-word critical textual apparatus note for an academic edition of the Secret History (§21-§22), comparing variant readings between the Ye Dehui print, the Lu Xun manuscript, and modern reconstructions, defending a proposed emendation.",
+    "communicativeOutcome": "Produce rigorous philological scholarship in Mongolian, demonstrating the highest standards of textual criticism and historical linguistics.",
+    "objectivesIntroduced": [
+      "obj_c2_238_04_author_philological_critical_apparatus"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_238_01_master_secret_history_philology"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_dialectal_morphosyntax_awareness"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_04_peer_review_and_scholarly_refutation"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "текст судлал",
+      "гар бичмэл",
+      "хувилбар",
+      "үгийн язгуур",
+      "тайлбар зүүлт"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft an 800-word scholarly apparatus justifying a textual emendation using comparative Altaic and Mongolic philological evidence.",
+    "spokenProductionObjective": "",
+    "registerTarget": "academic philological apparatus criticus",
+    "pragmaticTarget": "scholarly precision and rigorous textual defense",
+    "prerequisiteLessonIds": [
+      "les_c2_238_03_damdinsuren_scholarly_lecture_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_237_04_c2_sec01_capstone_satirical_novella_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_237_contemporary_literature_capstone_sa"
+    ],
+    "reviewReason": "Contrasts creative novella authorship with exacting academic textual criticism and philological drafting.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Follows international standard epigraphic and philological notation conventions in academic Mongolian",
+      "Provides decisive phonological proof resolving an ambiguous Chinese phonetic character transcription"
+    ],
+    "masteryEvidence": "Submits an 800-word philological critical apparatus note deemed publishable in *Acta Mongolica*.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c2_238_05_orientalists_congress_philological_paper_spoken",
+    "unitId": "unit_c2_238_the_secret_history_of_the_mongols_p",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 5,
+    "title": "Academic Speaking: Presenting a Philological Treatise at the International Congress of Mongolists",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 5.0-minute academic paper at the International Congress of Mongolists (Олон Улсын Монголч Эрдэмтдийн Их Хурал), presenting an original thesis on Middle Mongolian syntactic structures in the Secret History.",
+    "communicativeOutcome": "Demonstrate effortless academic mastery among global experts, presenting dense historical linguistic data with impeccable poise, eloquence, and scholarly clarity.",
+    "objectivesIntroduced": [
+      "obj_c2_238_05_deliver_mongolist_congress_papers"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_238_01_master_secret_history_philology"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_dialectal_morphosyntax_awareness"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_05_middle_mongolian_phonology_reconstruction"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_03_academic_thesis_defense"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "Монголч эрдэмтдийн их хурал",
+      "эрдэм шинжилгээний илтгэл",
+      "өгүүлбэр зүй",
+      "хэлний хувьсал"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Execute an authoritative 5-minute academic presentation defending a novel philological hypothesis on Middle Mongolian grammar.",
+    "registerTarget": "international scholarly congress plenary oral",
+    "pragmaticTarget": "peerless scholarly authority and scientific defense",
+    "prerequisiteLessonIds": [
+      "les_c2_238_04_critical_apparatus_edition_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_237_05_c2_sec01_capstone_literary_critics_defense_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_237_contemporary_literature_capstone_sa"
+    ],
+    "reviewReason": "Elevates writers' union defense into global international Mongolist academic symposium presentation.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of distinguished Mongolist presenting keynote address at State Palace congress.",
+    "successCriteria": [
+      "Articulates complex Middle Mongolian phonetic reconstructions accurately while lecturing in modern academic Khalkha",
+      "Fields 2 technical questions from international linguists with definitive philological citations"
+    ],
+    "masteryEvidence": "Delivers an unscripted 5-minute scholarly conference paper receiving highest accolades from the academic committee.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c2_239_01_classical_epic_syntax_intro",
+    "unitId": "unit_c2_239_classical_epic_syntax_in_the_secret",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosyntax: Classical Epic Syntax, Medieval Word Order & Verb Serializations in 1240 Prose",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the epic syntactic architectures of 13th-century Mongolian: SOV inversions in poetic stanzas, archaic serial converb chains (-n, -ju/-chu, -ad), formulaic fronted epithets, and medieval quotative frame inversions.",
+    "communicativeOutcome": "Parse and replicate medieval epic syntactic structures, analyzing how rhythmic cadences and verb stacking drive epic narrative tempo.",
+    "objectivesIntroduced": [
+      "obj_c2_239_01_master_classical_epic_syntax"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_238_01_master_secret_history_philology"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [
+      "gram_c2_classical_epic_syntax_secret_history"
+    ],
+    "grammarPracticed": [
+      "gram_c2_dialectal_morphosyntax_awareness"
+    ],
+    "grammarReviewed": [
+      "gram_c1_classical_converbs_vaas_khuits"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_15_creative_mastery_authorial_voice"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_12_reverential_and_honorific_oratory"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 8,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "туулийн өгүүлбэр зүй",
+      "үйл үгийн цуваа",
+      "эртний өгүүлбэр",
+      "нөхцөл үйл үг"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "Middle Mongolian epic syntactic archaism",
+    "pragmaticTarget": "monumental narrative momentum and heroic grandeur",
+    "prerequisiteLessonIds": [
+      "les_c2_238_05_orientalists_congress_philological_paper_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_224_01_classical_converb_relics_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_224_classical_converb_relics_suffixes_"
+    ],
+    "reviewReason": "Expands individual classical converb suffixes into comprehensive medieval epic sentence architecture.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Diagrams the syntactic tree of a 45-word multi-clause Middle Mongolian epic sentence from §195",
+      "Converts 3 standard modern Khalkha narrative sentences into authentic 13th-century serial converb syntax"
+    ],
+    "masteryEvidence": "Parses and reconstructs 6 complex Middle Mongolian epic clauses with flawless syntactic accuracy.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_239_02_battle_of_the_thirteen_wings_reading",
+    "unitId": "unit_c2_239_classical_epic_syntax_in_the_secret",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 2,
+    "title": "Epic Reading: The Clash of Temüjin & Jamukha at the Battle of the Thirteen Wings (§129)",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an 880-word critical text of the iconic Battle of Dalan Balzhut (§129), analyzing the deployment of alliterative warrior catalogs, horse color nomenclatures, and relentless serial converbs describing tactical cavalry maneuvers.",
+    "communicativeOutcome": "Deconstruct authentic medieval nomadic martial literature, reading battlefield descriptions with total linguistic and tactical comprehension.",
+    "objectivesIntroduced": [
+      "obj_c2_239_02_parse_thirteen_wings_battle"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_239_01_master_classical_epic_syntax"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history"
+    ],
+    "grammarReviewed": [
+      "gram_c1_classical_converbs_vaas_khuits"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "арван гурван хүрээ",
+      "Далан балжуд",
+      "тулалдаан",
+      "морины зүс",
+      "дайны тактик"
+    ],
+    "readingObjective": "Analyze medieval battle narrative evaluating heroic poetic formulas, weapon descriptions, and military command syntax.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "13th-century heroic military epic chronicle",
+    "pragmaticTarget": "martial valor, tactical ferocity, and tragic steppe rivalry",
+    "prerequisiteLessonIds": [
+      "les_c2_239_01_classical_epic_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_238_02_secret_history_prologue_bodonchar_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_238_the_secret_history_of_the_mongols_p"
+    ],
+    "reviewReason": "Progresses from genealogical prologue to dramatic military clash between Temüjin and Jamukha.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Decodes 8 medieval military terms (хүрээ, цахир хуяг, зэв, өрлөг) in their exact 13th-century operational senses",
+      "Explains how serial converbs in §129 mimic the acoustic acceleration of galloping cavalry charges"
+    ],
+    "masteryEvidence": "Produces an 880-word military and philological exegesis of the Battle of Dalan Balzhut.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_239_03_secret_history_epic_recitation_listening",
+    "unitId": "unit_c2_239_classical_epic_syntax_in_the_secret",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Authentic Traditional Recitation of Secret History Poetic Stanzas",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute master recording of a national artist reciting poetic stanzas from the Secret History in traditional liturgical declamatory style (165 wpm), analyzing head-alliteration (*толгой холбох ёс*), metric feet, and solemn pause distribution.",
+    "communicativeOutcome": "Process the traditional acoustic cadence of Middle Mongolian poetic verse, internalizing the intrinsic rhythm of ancient steppe oral composition.",
+    "objectivesIntroduced": [
+      "obj_c2_239_03_comprehend_epic_strophic_recitations"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_239_01_master_classical_epic_syntax"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history"
+    ],
+    "grammarReviewed": [
+      "gram_c2_somatic_idiomatic_metaphors"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_12_reverential_and_honorific_oratory"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "шүлэглэсэн уншлага",
+      "толгой холбох",
+      "айзам хэмнэл",
+      "ардын жүжигчин",
+      "эртний аялгуу"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher traditional alliterative poetic recitations of medieval stanzas, extracting metric parallelism and formulaic epithets.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "epic liturgical alliterative declamation oral",
+    "pragmaticTarget": "ancestral awe, heroic elevation, and rhythmic hypnosis",
+    "prerequisiteLessonIds": [
+      "les_c2_239_02_battle_of_the_thirteen_wings_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_238_03_damdinsuren_scholarly_lecture_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_238_the_secret_history_of_the_mongols_p"
+    ],
+    "reviewReason": "Contrasts analytical lecture listening with evocative artistic declamation of epic poetry.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic recording of People's Artist reciting Secret History battle and prophecy stanzas.",
+    "successCriteria": [
+      "Transcribes 8 alliterative lines accurately identifying the alliterating initial consonants and syllable counts",
+      "Explains how declamatory pitch elevation corresponds to heroic epithets in the strophic structure"
+    ],
+    "masteryEvidence": "Produces an acoustic and metrical transcription of the 4.5-minute poetic recitation.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_239_04_epic_praise_strophic_reconstruction_writing",
+    "unitId": "unit_c2_239_classical_epic_syntax_in_the_secret",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 4,
+    "title": "Creative Philological Writing: Composing an Epic Praise Strophe in Middle Mongolian Syntax",
+    "lessonType": "writing",
+    "primaryPurpose": "Author an 800-word epic poetic passage in the authentic style and syntax of the Secret History, commemorating a legendary steppe steed or fallen warrior using medieval serial converbs, head-alliteration, and archaic formulaic epithets.",
+    "communicativeOutcome": "Demonstrate supreme creative and philological authorship, producing authentic-sounding 13th-century epic poetry that adheres strictly to Middle Mongolian syntactic and alliterative rules.",
+    "objectivesIntroduced": [
+      "obj_c2_239_04_compose_middle_mongolian_epic_verse"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_239_01_master_classical_epic_syntax"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history"
+    ],
+    "grammarReviewed": [
+      "gram_c1_classical_participle_khui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_10_rhetorical_speechwriting"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "магтаал шүлэг",
+      "хүлэг морь",
+      "баатар эр",
+      "эртний найруулга",
+      "бадаг"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft an 800-word epic poetic narrative in Middle Mongolian verse form with rigorous four-line alliteration and serial converbs.",
+    "spokenProductionObjective": "",
+    "registerTarget": "high Middle Mongolian classical epic poetry",
+    "pragmaticTarget": "monumental poetic verisimilitude and heroic myth-making",
+    "prerequisiteLessonIds": [
+      "les_c2_239_03_secret_history_epic_recitation_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_238_04_critical_apparatus_edition_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_238_the_secret_history_of_the_mongols_p"
+    ],
+    "reviewReason": "Transforms academic apparatus writing into active creative composition of Middle Mongolian poetry.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Maintains unbroken head-alliteration across all stanzas without metrical breakdown",
+      "Deploys at least 8 authentic Middle Mongolian syntactic converb chains that echo the exact style of the 1240 monument"
+    ],
+    "masteryEvidence": "Submits an 800-word epic poetic text evaluated as indistinguishable from 13th-century manuscripts by experts.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c2_239_05_secret_history_dramatic_declamation_spoken",
+    "unitId": "unit_c2_239_classical_epic_syntax_in_the_secret",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 5,
+    "title": "Mastery Speaking: Dramatic Oral Declamation of an Epic Stanza Before State Cultural Elders",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Perform an unscripted 5.0-minute dramatic oral declamation and contextual exegesis of a Secret History battlefield passage before an assembly of national cultural luminaries, delivering verse with authentic epic cadence and delivering spontaneous philological commentary.",
+    "communicativeOutcome": "Command the ancient oral performance tradition of Mongolian epic declamation, captivating an audience with resonant vocal authority and deep literary erudition.",
+    "objectivesIntroduced": [
+      "obj_c2_239_05_perform_epic_strophic_declamations"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_239_01_master_classical_epic_syntax"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history"
+    ],
+    "grammarReviewed": [
+      "gram_c1_reverential_and_honorific_oratory"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_12_reverential_and_honorific_oratory"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "жүжиглэсэн уншлага",
+      "уран уншигч",
+      "төрийн их найр",
+      "өвөг дээдсийн дуун"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Execute a 5-minute dramatic epic declamation with booming acoustic resonance, flawless alliterative emphasis, and scholarly exegesis.",
+    "registerTarget": "traditional epic rhapsodic performance & philological oratory oral",
+    "pragmaticTarget": "monumental national reverence and artistic virtuosity",
+    "prerequisiteLessonIds": [
+      "les_c2_239_04_epic_praise_strophic_reconstruction_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_238_05_orientalists_congress_philological_paper_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_238_the_secret_history_of_the_mongols_p"
+    ],
+    "reviewReason": "Unites scholarly congress presentation with traditional heroic bardic recitation.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of dramatic oral performance of Secret History stanzas at national cultural festival.",
+    "successCriteria": [
+      "Delivers 16 lines of Middle Mongolian verse from memory with rhythmic power and traditional head-alliteration stress",
+      "Transitions immediately into modern academic Khalkha to explain the political significance of the recited passage"
+    ],
+    "masteryEvidence": "Performs an unscripted 5-minute epic declamation and commentary earning unanimous praise from cultural elders.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c2_240_01_archaic_case_morphology_syntax_intro",
+    "unitId": "unit_c2_240_archaic_case_morphology_suffixes_",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 1,
+    "title": "Morphology: Middle Mongolian Archaic Case Suffixes (-аачаан/-ээчээн, -дур/-дүр, -и) & Syntactic Relics",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the historical morphology and functions of 13th-century case markers: the instrumental-sociative/prosecutive *-аачаан*, the archaic locative-dative *-дур/-дүр*, and the unpalatalized accusative *-и*, examining their syntactic environments in the Secret History.",
+    "communicativeOutcome": "Decode and accurately interpret archaic Middle Mongolian case markers in monumental manuscripts and classical texts without confusion with modern suffixes.",
+    "objectivesIntroduced": [
+      "obj_c2_240_01_master_archaic_case_morphology"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_239_01_master_classical_epic_syntax"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [
+      "gram_c2_archaic_case_morphology_secret_history"
+    ],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history"
+    ],
+    "grammarReviewed": [
+      "gram_c1_classical_participle_khui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_15_creative_mastery_authorial_voice"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "тийн ялгал",
+      "эртний нөхцөл",
+      "орших оршихуйн тийн ялгал",
+      "хэлбэр зүй"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "Middle Mongolian epigraphic morphosyntax",
+    "pragmaticTarget": "grammatical precision in deciphering medieval inscriptions",
+    "prerequisiteLessonIds": [
+      "les_c2_239_05_secret_history_dramatic_declamation_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_224_01_classical_converb_relics_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_224_classical_converb_relics_suffixes_"
+    ],
+    "reviewReason": "Deepens classical grammatical relics into archaic 13th-century nominal case paradigms.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Differentiates the semantic scope of archaic locative *-дур* from modern Khalkha *-д/-т*",
+      "Correctly parses 6 sentences containing *-аачаан* indicating passage through space or instrument of action"
+    ],
+    "masteryEvidence": "Morphologically analyzes 10 complex Middle Mongolian nominal phrases with archaic inflections.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_240_02_kho_elun_wrath_strophic_reading",
+    "unitId": "unit_c2_240_archaic_case_morphology_suffixes_",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 2,
+    "title": "Textual Reading: Mother Hö'elün's Epic Wrath & the Defense of Belgütei (§244)",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an 870-word critical text of §244 where Mother Hö'elün confronts Chinggis Khaan for suspecting Belgütei, analyzing her blistering alliterative rebuke packed with archaic locative and instrumental suffixes and maternal somatic metaphors.",
+    "communicativeOutcome": "Interpret one of the highest dramatic summits of the Secret History, analyzing Mother Hö'elün's legendary speech with linguistic and cultural mastery.",
+    "objectivesIntroduced": [
+      "obj_c2_240_02_parse_hoelun_wrath_passage"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_240_01_master_archaic_case_morphology"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_archaic_case_morphology_secret_history"
+    ],
+    "grammarReviewed": [
+      "gram_c2_somatic_idiomatic_metaphors"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "Өэлүн эх",
+      "Бэлгүтэй",
+      "эх хүний зэмлэл",
+      "хөхний сүү",
+      "цусан төрөл"
+    ],
+    "readingObjective": "Analyze Mother Hö'elün's dramatic monologue deconstructing maternal somatic metaphors, archaic case endings, and moral authority.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "13th-century dramatic maternal moral rebuke epic prose",
+    "pragmaticTarget": "sacred maternal authority overriding imperial majesty",
+    "prerequisiteLessonIds": [
+      "les_c2_240_01_archaic_case_morphology_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_239_02_battle_of_the_thirteen_wings_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_239_classical_epic_syntax_in_the_secret"
+    ],
+    "reviewReason": "Shifts from external military battlefield prose to intense internal dynastic and maternal drama.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies 5 occurrences of archaic case endings in Mother Hö'elün's monologue and explains their rhythmic function",
+      "Analyzes how maternal somatic imagery ('хөхөө гарган хэлсэн үг') asserts supreme customary law over imperial decree"
+    ],
+    "masteryEvidence": "Produces an 870-word philological and hermeneutic critique of §244.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_240_03_archaic_phonology_reconstruction_listening",
+    "unitId": "unit_c2_240_archaic_case_morphology_suffixes_",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Reconstructed Middle Mongolian Phonetics by Comparative Linguists",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute comparative audio study by historical phonologists reconstructing the exact phonetic realization of Middle Mongolian case suffixes, consonant clusters (*-gda-*, *-btar-*), and vowel qualities (160 wpm).",
+    "communicativeOutcome": "Process reconstructed 13th-century spoken Mongolic phonology, discerning how ancient sounds evolved into modern Khalkha vowel syncope and vowel harmony.",
+    "objectivesIntroduced": [
+      "obj_c2_240_03_comprehend_middle_mongolian_phonetics"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_240_01_master_archaic_case_morphology"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_archaic_case_morphology_secret_history"
+    ],
+    "grammarReviewed": [
+      "gram_c2_rapid_khalkha_spoken_phonotactics"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_05_middle_mongolian_phonology_reconstruction"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_03_academic_thesis_defense"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "авиалбар зүй",
+      "авианы өөрчлөлт",
+      "хэлний түүх",
+      "эгшиг зохицох ёс"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher reconstructed Middle Mongolian phonetic recordings, identifying non-initial short vowels and voiced velar fricatives.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "comparative historical linguistic laboratory audio",
+    "pragmaticTarget": "scientific phonetic reconstruction and diachronic rigor",
+    "prerequisiteLessonIds": [
+      "les_c2_240_02_kho_elun_wrath_strophic_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_239_03_secret_history_epic_recitation_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_239_classical_epic_syntax_in_the_secret"
+    ],
+    "reviewReason": "Compares artistic epic declamation with scientific historical phonetic reconstruction.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide studio recording of historical linguists demonstrating reconstructed Middle Mongolian pronunciation.",
+    "successCriteria": [
+      "Transcribes reconstructed phonetic passages using the International Phonetic Alphabet (IPA) and Cyrillic equivalents",
+      "Explains the diachronic phonetic pathway from Middle Mongolian *-дур* to Modern Khalkha *-д*"
+    ],
+    "masteryEvidence": "Produces a forensic phonological analysis of the 4.5-minute acoustic reconstruction.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_240_04_comparative_grammar_treatise_writing",
+    "unitId": "unit_c2_240_archaic_case_morphology_suffixes_",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 4,
+    "title": "Philological Writing: Authoring a Comparative Treatise on Nomadic Declension Evolution",
+    "lessonType": "writing",
+    "primaryPurpose": "Author an 850-word historical linguistic treatise tracing the evolution of nominal case inflections from 13th-century Middle Mongolian through 17th-century Classical Mongolian to contemporary Khalkha.",
+    "communicativeOutcome": "Produce advanced comparative linguistic scholarship in Mongolian, documenting historical grammatical shifts with authoritative mastery.",
+    "objectivesIntroduced": [
+      "obj_c2_240_04_author_historical_declension_treatises"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_240_01_master_archaic_case_morphology"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_archaic_case_morphology_secret_history"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_04_peer_review_and_scholarly_refutation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "хэлний хувьсал",
+      "харьцуулсан хэл шинжлэл",
+      "хувиргал зүй",
+      "түүхэн хэл зүй"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft an 850-word diachronic linguistic treatise with detailed declension tables and attested textual citations.",
+    "spokenProductionObjective": "",
+    "registerTarget": "academic historical grammar scholarship",
+    "pragmaticTarget": "authoritative diachronic grammatical systematization",
+    "prerequisiteLessonIds": [
+      "les_c2_240_03_archaic_phonology_reconstruction_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_239_04_epic_praise_strophic_reconstruction_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_239_classical_epic_syntax_in_the_secret"
+    ],
+    "reviewReason": "Bridges creative epic strophe composition into rigorous historical grammar documentation.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Constructs rigorous comparative paradigms illustrating sound loss, assimilation, and semantic narrowing across 800 years",
+      "Demonstrates complete command of modern Mongolian academic linguistic terminology"
+    ],
+    "masteryEvidence": "Submits an 850-word comparative grammar treatise evaluated at doctoral dissertation tier.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c2_240_05_paleographic_seminar_debate_spoken",
+    "unitId": "unit_c2_240_archaic_case_morphology_suffixes_",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 5,
+    "title": "Scholarly Speaking: Leading a Graduate Seminar on Deciphering Epigraphic Inscriptions",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Lead an unscripted 4.5-minute advanced doctoral seminar at the National University of Mongolia, guiding graduate researchers through the syntactic and morphological decipherment of newly discovered 13th-century birch bark manuscripts (Цахирын хадны бичиг).",
+    "communicativeOutcome": "Demonstrate supreme academic pedagogical authority, guiding senior scholars through the rigorous decipherment of fragmented medieval Mongolic texts.",
+    "objectivesIntroduced": [
+      "obj_c2_240_05_lead_paleographic_doctoral_seminars"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_240_01_master_archaic_case_morphology"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_archaic_case_morphology_secret_history"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_03_academic_thesis_defense"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "үйсэн дээрх бичиг",
+      "хадны бичээс",
+      "эртний бичвэр",
+      "семинар удирдах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Conduct interactive graduate paleographic seminar directing student hypotheses, correcting grammatical misreadings, and establishing definitive readings.",
+    "registerTarget": "advanced academic graduate seminar oral",
+    "pragmaticTarget": "scholarly mentorship and epigraphic authority",
+    "prerequisiteLessonIds": [
+      "les_c2_240_04_comparative_grammar_treatise_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_239_05_secret_history_dramatic_declamation_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_239_classical_epic_syntax_in_the_secret"
+    ],
+    "reviewReason": "Transforms dramatic oral recitation into interactive doctoral seminar leadership.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of senior professor leading doctoral seminar on 13th-century epigraphic manuscripts.",
+    "successCriteria": [
+      "Guides students through ambiguous suffix decipherment using Socratic questioning in flawless academic Khalkha",
+      "Provides immediate philological parallels from the Secret History and Muqaddimat al-Adab"
+    ],
+    "masteryEvidence": "Conducts an unscripted 4.5-minute doctoral seminar exhibiting absolute mastery of Mongolic paleography.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c2_241_01_alan_qoa_parable_philological_intro",
+    "unitId": "unit_c2_241_the_alan_qo_a_parable_of_the_five_a",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 1,
+    "title": "Philological Foundations: The Alan Qo'a Parable of the Five Arrows (§18-§22) in Middle Mongolian",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the textual, syntactic, and cultural foundations of Alan Qo'a's iconic lesson of the five arrow shafts, analyzing the medieval philosophical concepts of clan unity (*эв эе*), supernatural lineage, and gnomic dialogue.",
+    "communicativeOutcome": "Deconstruct the foundational unity myth of the Mongol nation, analyzing its linguistic formulation in 13th-century Middle Mongolian and its cultural resonance across 800 years.",
+    "objectivesIntroduced": [
+      "obj_c2_241_01_master_alan_qoa_parable"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_240_01_master_archaic_case_morphology"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history",
+      "gram_c2_archaic_case_morphology_secret_history"
+    ],
+    "grammarReviewed": [
+      "gram_c1_classical_quotative_khemeen"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_15_creative_mastery_authorial_voice"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "Алан гуа",
+      "таван сумны сургаал",
+      "эв эе",
+      "нэгдэл",
+      "сургаал үг"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "foundational ethical parable & Middle Mongolian prose",
+    "pragmaticTarget": "clan solidarity, ancestral legitimacy, and moral instruction",
+    "prerequisiteLessonIds": [
+      "les_c2_240_05_paleographic_seminar_debate_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_238_01_secret_history_philological_foundations_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_238_the_secret_history_of_the_mongols_p"
+    ],
+    "reviewReason": "Bridges initial Secret History philology into deep analysis of its most celebrated ethical parable.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Recites and grammatically parses the core aphorism of Alan Qo'a ('Ганц мод гал болохгүй, ганц сум хугарах...') in Middle Mongolian",
+      "Explains the theological concept of the radiant visitor entering through the roof hole (*өрхөөр гийсэн шар хүн*)"
+    ],
+    "masteryEvidence": "Produces a complete philological and philosophical commentary on §18-§22.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_241_02_alan_qoa_parable_interlinear_reading",
+    "unitId": "unit_c2_241_the_alan_qo_a_parable_of_the_five_a",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 2,
+    "title": "Textual Reading: Interlinear Decipherment of the Five Sons' Dialogue & Alan Qo'a's Oath",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an 860-word critical edition text featuring parallel columns: Middle Mongolian reconstructed text, Ming Chinese interlinear glosses, and modern scholarly Khalkha commentary, examining the subtle moral accusations and philosophical refutation.",
+    "communicativeOutcome": "Read the Alan Qo'a narrative with complete philological autonomy, navigating between original Middle Mongolian and modern scholarly translations without reliance on secondary summaries.",
+    "objectivesIntroduced": [
+      "obj_c2_241_02_parse_alan_qoa_interlinear"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_241_01_master_alan_qoa_parable"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history",
+      "gram_c2_archaic_case_morphology_secret_history"
+    ],
+    "grammarReviewed": [
+      "gram_c1_classical_participle_khui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "мөр хоорондын орчуулга",
+      "таван хөвгүүн",
+      "сэжиг таамаг",
+      "ариун гарал"
+    ],
+    "readingObjective": "Analyze interlinear edition of Alan Qo'a parable evaluating variant glosses and syntactic subtleties.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "multilingual philological comparative edition",
+    "pragmaticTarget": "hermeneutic precision and ethical deconstruction",
+    "prerequisiteLessonIds": [
+      "les_c2_241_01_alan_qoa_parable_philological_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_240_02_kho_elun_wrath_strophic_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_240_archaic_case_morphology_suffixes_"
+    ],
+    "reviewReason": "Compares Mother Hö'elün's fierce maternal rebuke with Alan Qo'a's calm, instructive parable pedagogy.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies 4 discrepancies between the Ming Chinese literal gloss and Damdinsuren's Cyrillic translation",
+      "Interprets the precise sociopolitical intent behind uniting the five brothers under a sacred covenant"
+    ],
+    "masteryEvidence": "Produces an 860-word critical textual commentary on the interlinear edition of §18-§22.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_241_03_shamanic_and_ancestral_mythology_listening",
+    "unitId": "unit_c2_241_the_alan_qo_a_parable_of_the_five_a",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Ethnographic Audio on Steppe Shamanic Cosmogony & Tengrism in the Secret History",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute field recording of a senior ethnographer and hereditary Darkhad shaman explaining the cosmological symbolism of the radiant yellow man (*шар хүн*) and heavenly conception in Tengrist metaphysics (165 wpm).",
+    "communicativeOutcome": "Process deep ethnographic oral explanations of ancient Mongolian cosmological beliefs, linking linguistic metaphors directly to living shamanic traditions.",
+    "objectivesIntroduced": [
+      "obj_c2_241_03_comprehend_shamanic_cosmology_audio"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_241_01_master_alan_qoa_parable"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_dialectal_morphosyntax_awareness"
+    ],
+    "grammarReviewed": [
+      "gram_c2_somatic_idiomatic_metaphors"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_12_reverential_and_honorific_oratory"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "Бөө мөргөл",
+      "Тэнгэр шүтлэг",
+      "Дархад бөө",
+      "соёлын антропологи",
+      "онгод тэнгэр"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher field recordings of shamanic cosmology linking oral ritual knowledge to medieval historical chronicles.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "indigenous ethnographic field interview oral",
+    "pragmaticTarget": "sacred metaphysical interpretation and heritage continuity",
+    "prerequisiteLessonIds": [
+      "les_c2_241_02_alan_qoa_parable_interlinear_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_240_03_archaic_phonology_reconstruction_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_240_archaic_case_morphology_suffixes_"
+    ],
+    "reviewReason": "Contrasts academic phonological laboratory audio with living shamanic field ethnography.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic field audio of Darkhad cultural elder discussing heavenly light conception in steppe traditions.",
+    "successCriteria": [
+      "Explains the Tengrist metaphysical interpretation of light conception through the yurt's toono",
+      "Distinguishes between folklore myth and the ideological legitimization of the Golden Clan (Алтан ураг)"
+    ],
+    "masteryEvidence": "Produces an ethnographic summary and conceptual synthesis of the 4.5-minute field recording.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_241_04_philosophical_essay_on_steppe_solidarity_writing",
+    "unitId": "unit_c2_241_the_alan_qo_a_parable_of_the_five_a",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 4,
+    "title": "Philosophical Writing: Authoring an Essay on Nomadic Social Cohesion & the Alan Qo'a Covenant",
+    "lessonType": "writing",
+    "primaryPurpose": "Author an 850-word philosophical essay examining how the Alan Qo'a five-arrow parable provided the ethical and constitutional bedrock for Chinggis Khaan's unification of the warring steppe confederations.",
+    "communicativeOutcome": "Produce high-level philosophical and historical prose in Mongolian, connecting medieval mythic narratives to modern political philosophy and statecraft.",
+    "objectivesIntroduced": [
+      "obj_c2_241_04_author_steppe_solidarity_essays"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_241_01_master_alan_qoa_parable"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history",
+      "gram_c2_satirical_polemical_framing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "нийгмийн эв нэгдэл",
+      "төрийн үзэл санаа",
+      "гүн ухааны эсээ",
+      "нүүдэлчдийн ёс зүй"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft an 850-word philosophical essay integrating Middle Mongolian quotations into a sophisticated modern theoretical discourse.",
+    "spokenProductionObjective": "",
+    "registerTarget": "high political philosophy and historical jurisprudence essayistic",
+    "pragmaticTarget": "timeless moral legitimacy and statecraft philosophy",
+    "prerequisiteLessonIds": [
+      "les_c2_241_03_shamanic_and_ancestral_mythology_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_240_04_comparative_grammar_treatise_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_240_archaic_case_morphology_suffixes_"
+    ],
+    "reviewReason": "Elevates linguistic declension analysis into grand political philosophy of nomadic unity.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Synthesizes nomadic kinship theory with modern political theories of social contract (e.g., Ibn Khaldun's *asabiyyah*)",
+      "Deploys 4 master-level Classical Mongolian rhetorical transitions with impeccable elegance"
+    ],
+    "masteryEvidence": "Submits an 850-word philosophical essay judged worthy of publication in *Philosophy & Sociology Journal*.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c2_241_05_national_unity_presidential_oration_spoken",
+    "unitId": "unit_c2_241_the_alan_qo_a_parable_of_the_five_a",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 5,
+    "title": "Oratorical Speaking: Delivering a State of the Nation Address Grounded in Alan Qo'a's Covenant",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 5.0-minute monumental State of the Nation address as the President of Mongolia to the State Great Khural, invoking the five-arrow covenant of Alan Qo'a to heal deep political factionalism and inspire national unity.",
+    "communicativeOutcome": "Command the supreme presidential oratorical register of Mongolia, uniting ancient ancestral authority with modern constitutional statesmanship to move a divided parliament.",
+    "objectivesIntroduced": [
+      "obj_c2_241_05_deliver_presidential_unity_addresses"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_241_01_master_alan_qoa_parable"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history",
+      "gram_c2_seamless_register_navigating"
+    ],
+    "grammarReviewed": [
+      "gram_c1_reverential_and_honorific_oratory"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_10_rhetorical_speechwriting"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "Улсын Их Хурал",
+      "төрийн тэргүүн",
+      "үндэсний эв нэгдэл",
+      "илгээлт",
+      "өвөг дээдсийн гэрээс"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Execute a 5-minute presidential address balancing solemn ancestral recitation, constitutional urgency, and impassioned national unity.",
+    "registerTarget": "presidential state of the nation parliamentary oratory oral",
+    "pragmaticTarget": "healing political schism and galvanizing national purpose",
+    "prerequisiteLessonIds": [
+      "les_c2_241_04_philosophical_essay_on_steppe_solidarity_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_240_05_paleographic_seminar_debate_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_240_archaic_case_morphology_suffixes_"
+    ],
+    "reviewReason": "Expands graduate academic seminar leadership into national parliamentary presidential oratory.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of President of Mongolia delivering formal address to parliament on Constitution Day.",
+    "successCriteria": [
+      "Integrates verbatim Middle Mongolian citations from §22 smoothly into elevated modern political Khalkha",
+      "Maintains solemn acoustic resonance, presidential pacing, and powerful emotional cadence throughout"
+    ],
+    "masteryEvidence": "Delivers a 5.0-minute presidential address receiving bipartisan standing ovation in parliamentary simulation.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c2_242_01_oath_of_anda_philological_intro",
+    "unitId": "unit_c2_242_chinggis_khaan_jamukha_the_oath_of_",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 1,
+    "title": "Philological Foundations: The Nomadic Institution of Anda (Sworn Brotherhood) in Medieval Law",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the sociopolitical institution, ceremonial vows, and gift exchanges of *анда бололцох* (sworn brotherhood) in 12th-13th century Mongolia, examining the linguistic formulas exchanged between Temüjin and Jamukha across their three oaths (§116, §117).",
+    "communicativeOutcome": "Deconstruct the sacred institution of sworn brotherhood in steppe culture, analyzing its legal obligations, ritual terminology, and tragic vulnerabilities.",
+    "objectivesIntroduced": [
+      "obj_c2_242_01_master_anda_sworn_brotherhood"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_241_01_master_alan_qoa_parable"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history",
+      "gram_c2_archaic_case_morphology_secret_history"
+    ],
+    "grammarReviewed": [
+      "gram_c1_honorific_lexical_verbs"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_15_creative_mastery_authorial_voice"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_14_navigating_subtle_social_hierarchies"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "анда",
+      "тангараг",
+      "анд бололцох",
+      "бэлэг солилцох",
+      "нөхөрлөл"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "medieval nomadic customary law & ceremonial oath",
+    "pragmaticTarget": "sacred interpersonal allegiance and customary contract",
+    "prerequisiteLessonIds": [
+      "les_c2_241_05_national_unity_presidential_oration_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_239_01_classical_epic_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_239_classical_epic_syntax_in_the_secret"
+    ],
+    "reviewReason": "Connects Middle Mongolian epic syntax directly to the solemn legal vows of sworn brotherhood.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Explains the legal and spiritual distinction between blood kinship (*ясан төрөл*) and sworn brotherhood (*анда*)",
+      "Parses 4 archaic oath formulas detailing shared quilts, shared sashes, and mutual defense obligations"
+    ],
+    "masteryEvidence": "Produces an exhaustive philological and legal analysis of the three Anda ceremonies in the Secret History.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_242_02_jamukha_final_dialogue_reading",
+    "unitId": "unit_c2_242_chinggis_khaan_jamukha_the_oath_of_",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 2,
+    "title": "Textual Reading: The Final Dialogue of Chinggis Khaan & Jamukha Before Execution (§200-§201)",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an 890-word critical edition text of the final philosophical dialogue between Chinggis Khaan and the captured Jamukha (§200-§201), analyzing Jamukha's poetic self-condemnation, his refusal of pardon ('Хоёр нар нэг тэнгэрт үл багтах'), and his request for death without shedding blood.",
+    "communicativeOutcome": "Interpret the most psychologically profound and tragic dialogue in Mongolian literature, analyzing the clash between personal brotherhood and sovereign imperial destiny.",
+    "objectivesIntroduced": [
+      "obj_c2_242_02_parse_jamukha_final_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_242_01_master_anda_sworn_brotherhood"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history",
+      "gram_c2_somatic_idiomatic_metaphors"
+    ],
+    "grammarReviewed": [
+      "gram_c1_classical_participle_khui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "Жамуха",
+      "цус гаргахгүй алах",
+      "эцсийн үг",
+      "эмгэнэлт хувь заяа",
+      "хаан суудал"
+    ],
+    "readingObjective": "Analyze Jamukha's final farewell dialogue deconstructing tragic dignity, steppe metaphors of sovereignty, and honorable death.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "13th-century high tragic philosophical dialogue",
+    "pragmaticTarget": "tragic aristocratic honor and unyielding destiny",
+    "prerequisiteLessonIds": [
+      "les_c2_242_01_oath_of_anda_philological_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_241_02_alan_qoa_parable_interlinear_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_241_the_alan_qo_a_parable_of_the_five_a"
+    ],
+    "reviewReason": "Contrasts the harmony of the five arrows with the heartbreaking, tragic fracture of sworn brotherhood.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Interprets Jamukha's famous metaphor of being an ill-fitting collar (*дээлэнд зах болоогүй*) in its feudal context",
+      "Explains why dying without blood shedding (*цус гаргахгүй үхэх*) preserved the soul in Tengrist metaphysics"
+    ],
+    "masteryEvidence": "Produces an 890-word literary and psychological commentary on §200-§201.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_242_03_theatrical_jamukha_duel_listening",
+    "unitId": "unit_c2_242_chinggis_khaan_jamukha_the_oath_of_",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Dramatic Theatrical Staging of Jamukha's Death Speech at State Academic Theater",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute acclaimed stage recording of Mongolia's foremost actors performing Jamukha's final dialogue at the State Academic Drama Theatre (165 wpm), analyzing voice modulation between imperial sorrow and tragic defiance.",
+    "communicativeOutcome": "Process theatrical Middle Mongolian dramatic delivery at the highest artistic tier, discerning subtle psychological undertones between sworn brothers.",
+    "objectivesIntroduced": [
+      "obj_c2_242_03_comprehend_jamukha_theatrical_staging"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_242_01_master_anda_sworn_brotherhood"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history",
+      "gram_c2_literary_polyphony_and_indirect_interior_monologue"
+    ],
+    "grammarReviewed": [
+      "gram_c1_reverential_and_honorific_oratory"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_12_reverential_and_honorific_oratory"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "жүжгийн тайз",
+      "сонгодог жүжигчин",
+      "дуу хоолойн хувирал",
+      "харуусал",
+      "үнэнч анда"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher high-art dramatic staging of historical dialogue, parsing whispered concessions, prideful rejections, and profound pathos.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "master theatrical classical tragedy oral",
+    "pragmaticTarget": "cathartic tragic release and immortal steppe brotherhood",
+    "prerequisiteLessonIds": [
+      "les_c2_242_02_jamukha_final_dialogue_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_241_03_shamanic_and_ancestral_mythology_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_241_the_alan_qo_a_parable_of_the_five_a"
+    ],
+    "reviewReason": "Contrasts shamanic ethnographic listening with high dramatic theatrical performance acoustics.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic theater archival recording of celebrated actors playing Chinggis Khaan and Jamukha.",
+    "successCriteria": [
+      "Transcribes the dialogue capturing the actors' pauses, vocal tremors, and emotional inflection points",
+      "Explains how Jamukha's acoustic delivery conveys aristocratic superiority even while in iron chains"
+    ],
+    "masteryEvidence": "Produces an acoustic and dramatic analysis of the 4.5-minute theatrical scene.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_242_04_tragic_drama_script_authoring_writing",
+    "unitId": "unit_c2_242_chinggis_khaan_jamukha_the_oath_of_",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 4,
+    "title": "Dramatic Writing: Authoring a Modern Verse Play Scene on Steppe Betrayal & Brotherhood",
+    "lessonType": "writing",
+    "primaryPurpose": "Author an 850-word verse drama scene depicting the tragic rupture between Chinggis Khaan and Jamukha on the mountain ridge, utilizing alliterative Middle Mongolian syntax, visceral somatic metaphors, and deep existential dialogue.",
+    "communicativeOutcome": "Produce high-literary theatrical drama in Mongolian that honors the historical authenticity of the Secret History while generating electrifying contemporary stage tension.",
+    "objectivesIntroduced": [
+      "obj_c2_242_04_author_verse_drama_scenes"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_242_01_master_anda_sworn_brotherhood"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history",
+      "gram_c2_somatic_idiomatic_metaphors"
+    ],
+    "grammarReviewed": [
+      "gram_c1_classical_participle_khui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "шүлэглэсэн жүжиг",
+      "жүжгийн зохиол",
+      "дүрийн зөрчил",
+      "андгай",
+      "уулын хяр"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft an 850-word theatrical verse scene in authentic Middle Mongolian cadence balancing heroic pride and internal agony.",
+    "spokenProductionObjective": "",
+    "registerTarget": "high classical poetic verse drama",
+    "pragmaticTarget": "electrifying theatrical tragedy and character foil perfection",
+    "prerequisiteLessonIds": [
+      "les_c2_242_03_theatrical_jamukha_duel_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_241_04_philosophical_essay_on_steppe_solidarity_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_241_the_alan_qo_a_parable_of_the_five_a"
+    ],
+    "reviewReason": "Shifts authorial focus from political philosophy essays into gripping verse drama dialogue.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Differentiates the conflicting imperial vision of Temüjin from the aristocratic pastoral traditionalism of Jamukha",
+      "Integrates authentic alliteration and medieval Mongolian swearing formulas without modern anachronism"
+    ],
+    "masteryEvidence": "Submits an 850-word theatrical scene worthy of staging at the National Academic Drama Theatre.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c2_242_05_jamukha_monologue_dramatic_performance_spoken",
+    "unitId": "unit_c2_242_chinggis_khaan_jamukha_the_oath_of_",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 5,
+    "title": "Mastery Speaking: Performing Jamukha's Farewell Soliloquy Before a Master Acting Jury",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 5.0-minute dramatic performance of Jamukha's farewell monologue before an expert jury of national theatrical directors and Shakespearean actors, embodying tragic pride, aristocratic defiance, and eternal love for his Anda.",
+    "communicativeOutcome": "Demonstrate the absolute pinnacle of dramatic spoken Mongolian, commanding tragic emotional depth, impeccable phonetics, and magnetic stage presence.",
+    "objectivesIntroduced": [
+      "obj_c2_242_05_perform_jamukha_farewell_monologue"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_242_01_master_anda_sworn_brotherhood"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history",
+      "gram_c2_somatic_idiomatic_metaphors"
+    ],
+    "grammarReviewed": [
+      "gram_c1_reverential_and_honorific_oratory"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_12_reverential_and_honorific_oratory"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "жүжигчний урлаг",
+      "монолог",
+      "шүүлтийн зөвлөл",
+      "тайзны ур чадвар",
+      "сэтгэл хөдлөл"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Execute an impassioned 5-minute dramatic soliloquy modulating between proud defiance and heartbreaking brotherly farewell.",
+    "registerTarget": "high dramatic theatrical tragedy soliloquy oral",
+    "pragmaticTarget": "transcendent tragic catharsis and aristocratic defiance",
+    "prerequisiteLessonIds": [
+      "les_c2_242_04_tragic_drama_script_authoring_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_241_05_national_unity_presidential_oration_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_241_the_alan_qo_a_parable_of_the_five_a"
+    ],
+    "reviewReason": "Contrasts statesmanlike presidential address with deeply personal, agonizing tragic theatrical soliloquy.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of dramatic acting audition delivering Jamukha's farewell monologue.",
+    "successCriteria": [
+      "Embodies Jamukha's unyielding aristocratic dignity with flawless classical diction and dramatic pauses",
+      "Moves the simulated theater jury to silence through authentic emotional resonance and somatic vocalization"
+    ],
+    "masteryEvidence": "Delivers an unscripted 5.0-minute tragic soliloquy awarded highest distinction by the theatrical jury.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c2_243_01_great_yasa_jurisprudence_syntax_intro",
+    "unitId": "unit_c2_243_the_great_yasa_nomadic_jurisprudenc",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 1,
+    "title": "Nomadic Law: Syntactic Architectures of Medieval Steppe Jurisprudence & The Great Yasa (Их Засаг)",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the legal-syntactic structures of medieval steppe statutes: unconditional imperative injunctions (*-тугай/-түгэй*, *-сугай/-сүгэй*), strict conditional consequence structures (*-ваас... үхэх ял өгсүгэй*), and Shigi Qutuqu's Blue Book (*Хөх дэвтэр*) archival jurisprudence formulas.",
+    "communicativeOutcome": "Parse and formulate authentic 13th-century imperial legal statutes and judicial verdicts, decoding medieval Mongol constitutional law.",
+    "objectivesIntroduced": [
+      "obj_c2_243_01_master_great_yasa_jurisprudence"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_242_01_master_anda_sworn_brotherhood"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [
+      "gram_c2_legal_constitutional_clause_architecture"
+    ],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history",
+      "gram_c2_archaic_case_morphology_secret_history"
+    ],
+    "grammarReviewed": [
+      "gram_c1_legal_subjunctive_conditional_chains"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c2_07_constitutional_court_parsing"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_02_statutory_interpretation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "Их Засаг",
+      "хууль цааз",
+      "Хөх дэвтэр",
+      "Шихихутуг",
+      "ял шийтгэл"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "imperial steppe chancellery statute & medieval constitutional jurisprudence",
+    "pragmaticTarget": "absolute legal authority and unalterable imperial decree",
+    "prerequisiteLessonIds": [
+      "les_c2_242_05_jamukha_monologue_dramatic_performance_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_221_01_advanced_diplomatic_and_treaty_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_221_advanced_diplomatic_and_treaty_s"
+    ],
+    "reviewReason": "Bridges C1 modern diplomatic treaty syntax into foundational 13th-century imperial steppe jurisprudence.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies the grammatical markers that distinguish unalterable customary steppe law from temporary military commands",
+      "Parses 4 reconstructible fragments of the Great Yasa recorded in Persian (Juvayni, Rashid al-Din) and Mongolian sources"
+    ],
+    "masteryEvidence": "Syntactically analyzes and codifies 6 core fragments of the Great Yasa.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_243_02_shigi_qutuqu_appointment_reading",
+    "unitId": "unit_c2_243_the_great_yasa_nomadic_jurisprudenc",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 2,
+    "title": "Textual Reading: The Appointment of Shigi Qutuqu as Supreme Judge & Keeper of the Blue Book (§203)",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an 870-word critical text of §203 in the Secret History, where Chinggis Khaan ordains Shigi Qutuqu as supreme judge (*заргач*), instructing him to record trials in the Blue Book (*Хөх дэвтэр*) and decreeing that no successor shall alter what has been recorded in blue ink on white paper.",
+    "communicativeOutcome": "Analyze the constitutional inception of the Mongolian written legal tradition, decoding its procedural safeguards and judicial ethics.",
+    "objectivesIntroduced": [
+      "obj_c2_243_02_parse_shigi_qutuqu_appointment"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_243_01_master_great_yasa_jurisprudence"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_legal_constitutional_clause_architecture",
+      "gram_c2_classical_epic_syntax_secret_history"
+    ],
+    "grammarReviewed": [
+      "gram_c1_statutory_framing_and_normative_clauses"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_07_constitutional_court_parsing",
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_02_statutory_interpretation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "улсын их заргач",
+      "цагаан цаас",
+      "хөх бичиг",
+      "өөрчилж үл болно",
+      "шударга шүүх"
+    ],
+    "readingObjective": "Analyze the supreme judicial investiture text evaluating principles of precedent, judicial neutrality, and unalterable records.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "13th-century constitutional investiture & legal decree",
+    "pragmaticTarget": "immutable legal sanctity and institutional justice",
+    "prerequisiteLessonIds": [
+      "les_c2_243_01_great_yasa_jurisprudence_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_242_02_jamukha_final_dialogue_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_242_chinggis_khaan_jamukha_the_oath_of_"
+    ],
+    "reviewReason": "Transitions from individual tragic execution to the establishment of institutional imperial justice.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Explains the legal concept 'Цагаан цаасан дээр хөх бичиг бичиж, дэвтэрлэснийг ургийн урагт бүү өөрчилтүгэй'",
+      "Identifies 4 judicial safeguards against corruption and arbitrary sentencing in Shigi Qutuqu's mandate"
+    ],
+    "masteryEvidence": "Produces an 870-word constitutional analysis of §203 in the Secret History.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_243_03_constitutional_historians_roundtable_listening",
+    "unitId": "unit_c2_243_the_great_yasa_nomadic_jurisprudenc",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Constitutional Historians' Debate on Steppe Common Law vs. Sedentary Statism",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute high-level academic panel at the Constitutional Court of Mongolia (165 wpm) where legal scholars debate whether the Great Yasa functioned as a codified written constitution or a body of unwritten customary steppe norms (*заншлын эрх зүй*).",
+    "communicativeOutcome": "Process advanced jurisprudence debates in Mongolian, evaluating divergent legal theories on medieval constitutionalism and customary law.",
+    "objectivesIntroduced": [
+      "obj_c2_243_03_comprehend_constitutional_debates"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_243_01_master_great_yasa_jurisprudence"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_legal_constitutional_clause_architecture"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_07_constitutional_court_parsing"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_03_academic_thesis_defense"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "Үндсэн хуулийн цэц",
+      "эрх зүйн түүх",
+      "заншлын эрх зүй",
+      "хууль зүйн шинжлэх ухаан"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher rapid jurisprudence debates dissecting primary historical sources, Islamic legal chronicles, and modern jurisprudence concepts.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "high constitutional jurisprudence academic panel oral",
+    "pragmaticTarget": "scholarly arbitration between competing legal-historical theories",
+    "prerequisiteLessonIds": [
+      "les_c2_243_02_shigi_qutuqu_appointment_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_242_03_theatrical_jamukha_duel_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_242_chinggis_khaan_jamukha_the_oath_of_"
+    ],
+    "reviewReason": "Contrasts dramatic emotional theater with rigorous constitutional court scholarly debate.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic audio of Constitutional Court scholars debating legal legacy of the Great Yasa.",
+    "successCriteria": [
+      "Distinguishes between Professor S. Narangerel's thesis and opposing perspectives regarding Yasa codification",
+      "Transcribes 3 key legal Latinate/Mongolian terms used in contemporary comparative nomadic jurisprudence"
+    ],
+    "masteryEvidence": "Produces an analytical legal brief summarizing the 4.5-minute jurisprudence roundtable.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_243_04_codification_of_modern_customary_statute_writing",
+    "unitId": "unit_c2_243_the_great_yasa_nomadic_jurisprudenc",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 4,
+    "title": "Legislative Writing: Drafting a Contemporary Environmental Protection Statute Anchored in Steppe Law",
+    "lessonType": "writing",
+    "primaryPurpose": "Draft an 850-word modern draft parliamentary bill (*хуулийн төсөл*) incorporating the environmental injunctions of the Great Yasa (prohibiting washing clothes in running water, slaughtering pregnant animals, polluting river sources) into binding contemporary legislation.",
+    "communicativeOutcome": "Master legislative drafting in Mongolian, seamlessly fusing ancient customary ecological taboos (*цээр ёс*) with precise modern statutory architecture.",
+    "objectivesIntroduced": [
+      "obj_c2_243_04_draft_customary_anchored_statutes"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_243_01_master_great_yasa_jurisprudence"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_legal_constitutional_clause_architecture"
+    ],
+    "grammarReviewed": [
+      "gram_c1_statutory_framing_and_normative_clauses"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_07_constitutional_court_parsing"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_01_legislative_drafting"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "хуулийн төсөл",
+      "байгаль орчныг хамгаалах",
+      "ус булингартуулах",
+      "цээрлэх ёс",
+      "зүйл заалт"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft an 850-word parliamentary bill complete with statutory preamble, definitions, normative obligations, and enforcement mechanisms.",
+    "spokenProductionObjective": "",
+    "registerTarget": "formal parliamentary legislative statute drafting",
+    "pragmaticTarget": "statutory enforceability and ecological cultural continuity",
+    "prerequisiteLessonIds": [
+      "les_c2_243_03_constitutional_historians_roundtable_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_242_04_tragic_drama_script_authoring_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_242_chinggis_khaan_jamukha_the_oath_of_"
+    ],
+    "reviewReason": "Elevates creative theater scriptwriting into enforceable modern parliamentary statutory drafting.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Follows the formal legislative conventions of the State Great Khural (preamble, articles, clauses, sanction schedules)",
+      "Articulates ancient pastoral ecological taboos with precision avoiding statutory vagueness or constitutional conflict"
+    ],
+    "masteryEvidence": "Submits an 850-word legislative bill evaluated as ready for introduction to the parliamentary committee.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c2_243_05_constitutional_court_oral_argumentation_spoken",
+    "unitId": "unit_c2_243_the_great_yasa_nomadic_jurisprudenc",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 5,
+    "title": "Mastery Speaking: Delivering Oral Argument Before the Constitutional Court of Mongolia (Цэц)",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 5.0-minute oral argument before the nine Justices of the Constitutional Court of Mongolia (*Үндсэн хуулийн цэцийн их суудлын хуралдаан*), defending the constitutionality of a pastoral land tenure statute by invoking nomadic legal precedent.",
+    "communicativeOutcome": "Demonstrate the absolute zenith of legal advocacy in Mongolian, arguing constitutional doctrine before the supreme judicial body with commanding authority.",
+    "objectivesIntroduced": [
+      "obj_c2_243_05_deliver_constitutional_court_advocacy"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_243_01_master_great_yasa_jurisprudence"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_legal_constitutional_clause_architecture",
+      "gram_c2_seamless_register_navigating"
+    ],
+    "grammarReviewed": [
+      "gram_c1_appellate_brief_and_bench_memo_rhetoric"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_07_constitutional_court_parsing"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_03_academic_thesis_defense"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "Цэцийн гишүүд",
+      "их суудлын хуралдаан",
+      "өмгөөлөгч",
+      "Үндсэн хуулийн зөрчил",
+      "бэлчээр ашиглалт"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Argue a complex constitutional dispute addressing judicial interruptions with instant legal citations and constitutional doctrines.",
+    "registerTarget": "supreme constitutional court judicial advocacy oral",
+    "pragmaticTarget": "definitive judicial persuasion and constitutional interpretation",
+    "prerequisiteLessonIds": [
+      "les_c2_243_04_codification_of_modern_customary_statute_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_242_05_jamukha_monologue_dramatic_performance_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_242_chinggis_khaan_jamukha_the_oath_of_"
+    ],
+    "reviewReason": "Transitions from theatrical tragic monologue to supreme judicial advocacy before the Constitutional Court.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of constitutional advocate delivering closing argument before the Constitutional Court.",
+    "successCriteria": [
+      "Employs precise constitutional formulas ('Цэцийн эрхэм гишүүд ээ...', 'Үндсэн хуулийн суурь үзэл баримтлал...') flawlessly",
+      "Refutes an adversarial objection regarding nomadic collective ownership within 45 seconds using statutory precedent"
+    ],
+    "masteryEvidence": "Delivers an unscripted 5.0-minute constitutional advocacy receiving unanimous affirmation from simulated bench.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c2_244_01_seamless_register_navigating_intro",
+    "unitId": "unit_c2_244_seamless_register_navigating_steppe",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 1,
+    "title": "Sociolinguistics: Seamless Register Navigating Across 8 Centuries of Mongolian Language Strata",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the mechanisms of multidirectional register switching in educated Mongolian: dynamically toggling between rapid informal Khalkha colloquialism, professional-bureaucratic modern prose, Classical Mongolian written formulas, and Middle Mongolian monumental archaism.",
+    "communicativeOutcome": "Command the entire 800-year linguistic spectrum of Mongolian, calibrating lexical choices, honorific inflections, and syntactic density instantly to social context.",
+    "objectivesIntroduced": [
+      "obj_c2_244_01_master_omni_register_agility"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_243_01_master_great_yasa_jurisprudence"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [
+      "gram_c2_seamless_register_navigating"
+    ],
+    "grammarPracticed": [
+      "gram_c2_rapid_khalkha_spoken_phonotactics",
+      "gram_c2_classical_epic_syntax_secret_history"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c2_08_omni_register_agility"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_15_creative_mastery_authorial_voice"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_14_navigating_subtle_social_hierarchies"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "найруулгын түвшин",
+      "үгийн сангийн давхарга",
+      "хэлний шилжилт",
+      "ярианы найруулга",
+      "сонгодог бичиг"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "pan-diachronic stylistic meta-register",
+    "pragmaticTarget": "supreme socio-pragmatic fluidity and stylistic command",
+    "prerequisiteLessonIds": [
+      "les_c2_243_05_constitutional_court_oral_argumentation_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_229_01_rapid_khalkha_phonotactics_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_229_rapid_khalkha_spoken_phonotactics_r"
+    ],
+    "reviewReason": "Unites rapid modern spoken phonotactics with Middle Mongolian epigraphic grammar into unified register agility.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Translates a single semantic proposition into 4 distinct registers (herder vernacular, tabloid press, legal statute, 13th-century chronicle)",
+      "Explains the sociolinguistic cues that mandate an immediate upward or downward register shift in Mongolian society"
+    ],
+    "masteryEvidence": "Executes 5 flawless register transformations across four historical linguistic registers.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_244_02_multi_register_chancellery_reading",
+    "unitId": "unit_c2_244_seamless_register_navigating_steppe",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 2,
+    "title": "Textual Reading: Multi-Register Analysis of a State Decrees Corpus (1911, 1924, 1992, 2024)",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an 880-word comparative dossier comprising four historical state documents: Bogd Khanate royal edict (1911), early socialist constitutional decree (1924), democratic constitution preamble (1992), and a 2024 presidential address, deconstructing the shifting registers.",
+    "communicativeOutcome": "Deconstruct modern Mongolian political and institutional prose across four consecutive regimes, tracing lexical transformations and syntactic evolutions.",
+    "objectivesIntroduced": [
+      "obj_c2_244_02_parse_multi_register_state_decrees"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_244_01_master_omni_register_agility"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_seamless_register_navigating"
+    ],
+    "grammarReviewed": [
+      "gram_c1_classical_converbs_vaas_khuits"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_08_omni_register_agility"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_02_statutory_interpretation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "Богд хаант засаг",
+      "хувьсгалын тунхаг",
+      "ардчилсан үндсэн хууль",
+      "төрийн зарлиг"
+    ],
+    "readingObjective": "Analyze four historical political texts contrasting Sino-Mongolian royal formulas, Sovietized Marxist terminology, and democratic nomadic revivals.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "diachronic state chancellery & constitutional prose",
+    "pragmaticTarget": "institutional legitimacy and political rhetoric across ideological regimes",
+    "prerequisiteLessonIds": [
+      "les_c2_244_01_seamless_register_navigating_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_243_02_shigi_qutuqu_appointment_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_243_the_great_yasa_nomadic_jurisprudenc"
+    ],
+    "reviewReason": "Follows the evolution of state chancellery prose from 13th-century Yasa to 20th/21st-century state decrees.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies Tibetan and Manchu loan elements in the 1911 edict vs. Russian calques in the 1924 decree",
+      "Explains how the 1992 democratic constitution revived traditional Classical Mongolian concepts like *хүмүүнлэг иргэний ардчилсан нийгэм*"
+    ],
+    "masteryEvidence": "Produces an 880-word historical sociolinguistic analysis of the four state decrees.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_244_03_diplomatic_crisis_interview_listening",
+    "unitId": "unit_c2_244_seamless_register_navigating_steppe",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Live Diplomatic Press Conference Shifting Under Aggressive Interrogation",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute unedited live audio recording of a veteran Mongolian foreign minister facing aggressive interrogation from international and domestic journalists (175 wpm), analyzing rapid shifts between diplomatic ambiguity, cordial steppe hospitality, and sharp formal pushback.",
+    "communicativeOutcome": "Process instantaneous real-time register shifts in high-stakes public diplomacy, decoding subtle diplomatic deflection, subtextual firmness, and tactical warmth.",
+    "objectivesIntroduced": [
+      "obj_c2_244_03_comprehend_diplomatic_register_shifts"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_244_01_master_omni_register_agility"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_seamless_register_navigating",
+      "gram_c2_pragmatic_irony_and_subtle_sarcasm"
+    ],
+    "grammarReviewed": [
+      "gram_c1_diplomatic_communique_framing"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_08_omni_register_agility"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_06_diplomatic_and_consular_negotiation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "хэвлэлийн бага хурал",
+      "гадаад харилцааны сайд",
+      "дипломат хариулт",
+      "асуулт шалгаалт"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher high-stress live diplomatic press conference tracking instant register modulations under hostile questioning.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "high-stakes live international diplomatic oral",
+    "pragmaticTarget": "strategic deflection, tactical face-saving, and sovereign firmness",
+    "prerequisiteLessonIds": [
+      "les_c2_244_02_multi_register_chancellery_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_243_03_constitutional_historians_roundtable_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_243_the_great_yasa_nomadic_jurisprudenc"
+    ],
+    "reviewReason": "Contrasts academic roundtable discussion with high-stress live diplomatic press confrontation.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic recording of foreign minister navigating provocative questions in live press briefing.",
+    "successCriteria": [
+      "Identifies the exact second the minister shifts from cordial diplomatic boilerplate to icy sovereign reprimand",
+      "Deconstructs 2 implicit diplomatic signals conveying state policy without explicit public statement"
+    ],
+    "masteryEvidence": "Produces an exhaustive communicative and rhetorical breakdown of the 4.5-minute press conference.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_244_04_cross_register_polemical_essay_writing",
+    "unitId": "unit_c2_244_seamless_register_navigating_steppe",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 4,
+    "title": "Stylistic Writing: Authoring a Multi-Register Polemical Essay on Modern Mongolian Identity",
+    "lessonType": "writing",
+    "primaryPurpose": "Author an 850-word master-tier polemical essay intentionally interweaving three linguistic layers: streetwise contemporary Ulaanbaatar slang, rigorous Western academic sociology, and grand Classical Mongolian poetic aphorisms, defending cultural resilience in globalization.",
+    "communicativeOutcome": "Demonstrate supreme stylistic dexterity in written Mongolian, harmonizing disparate sociolinguistic registers into a dazzling, unified literary voice.",
+    "objectivesIntroduced": [
+      "obj_c2_244_04_author_multi_register_essays"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_244_01_master_omni_register_agility"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_seamless_register_navigating",
+      "gram_c2_satirical_polemical_framing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_08_omni_register_agility"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "даяаршил",
+      "үндэсний онцлог",
+      "холимог найруулга",
+      "нийгмийн давхарга",
+      "хэлний дархлаа"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft an 850-word poly-stylistic essay that shifts effortlessly between slang, academic critique, and classical literature.",
+    "spokenProductionObjective": "",
+    "registerTarget": "multi-register high literary-journalistic polemic",
+    "pragmaticTarget": "stylistic virtuosity and cultural self-examination",
+    "prerequisiteLessonIds": [
+      "les_c2_244_03_diplomatic_crisis_interview_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_243_04_codification_of_modern_customary_statute_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_243_the_great_yasa_nomadic_jurisprudenc"
+    ],
+    "reviewReason": "Bridges formal statutory drafting into dazzling multi-register literary-philosophical essay writing.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Transitions between urban slang and Classical Mongolian without breaking narrative coherence or tone",
+      "Achieves devastating cultural satire while upholding a profoundly serious intellectual thesis"
+    ],
+    "masteryEvidence": "Submits an 850-word poly-stylistic essay celebrated by leading Mongolian essayists.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c2_244_05_omni_register_live_chameleon_spoken",
+    "unitId": "unit_c2_244_seamless_register_navigating_steppe",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 5,
+    "title": "Mastery Speaking: The Linguistic Chameleon Challenge — 4 Rapid Interlocutors in 5 Minutes",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Engage in an unscripted 5.0-minute interactive live oral simulation confronting 4 successive interlocutors with zero pause: an elderly herder inquiring about pasture rights, a young IT founder pitching a fintech venture, an archbishop monk debating Buddhist epistemology, and a foreign ambassador negotiating trade.",
+    "communicativeOutcome": "Demonstrate instant, seamless sociolinguistic adaptability, matching the exact phonetics, vocabulary, honorifics, and cultural worldview of 4 completely distinct Mongolian social worlds.",
+    "objectivesIntroduced": [
+      "obj_c2_244_05_execute_linguistic_chameleon_simulation"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_244_01_master_omni_register_agility"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_seamless_register_navigating"
+    ],
+    "grammarReviewed": [
+      "gram_c1_navigating_subtle_social_hierarchies"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_01_extreme_vowel_reduction_and_syncope"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_08_omni_register_agility"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_14_navigating_subtle_social_hierarchies"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "харилцан яриа",
+      "эгшин зуурын шилжилт",
+      "дүр бүтээх",
+      "нийгмийн орчин"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Execute immediate, unhesitating register transitions across 4 radically disparate social encounters within 5 minutes.",
+    "registerTarget": "omni-register rapid adaptive oral chameleon",
+    "pragmaticTarget": "instant socio-cultural camouflage and communicative supremacy",
+    "prerequisiteLessonIds": [
+      "les_c2_244_04_cross_register_polemical_essay_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_243_05_constitutional_court_oral_argumentation_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_243_the_great_yasa_nomadic_jurisprudenc"
+    ],
+    "reviewReason": "Tests total register switching mastery from supreme court oral advocacy to everyday pastoral dialect.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of C2 master executing instant register shifts in simulated multi-party encounter.",
+    "successCriteria": [
+      "Modulates vocal timbre, speech tempo, and lexical choice within 3 seconds of greeting each interlocutor",
+      "Commits zero sociolinguistic breaches across herder, tech startup, Buddhist monk, and ambassador encounters"
+    ],
+    "masteryEvidence": "Successfully passes the 5.0-minute 4-interlocutor chameleon challenge with zero hesitation.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c2_245_01_stele_of_yisungge_epigraphic_intro",
+    "unitId": "unit_c2_245_classical_inscriptions_the_stele_of",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 1,
+    "title": "Philological Foundations: The Stele of Yisüngge (1224) & Earliest Uighur-Mongolian Inscriptions",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the world's oldest monument in traditional Mongolian script—the Stele of Yisüngge (Чингисийн чулууны бичиг, 1224)—analyzing its five-line epigraphic inscription, honorific line-spacing, measurement metrics (*алд*), and archery terminology.",
+    "communicativeOutcome": "Decipher and analyze the foundational epigraphic artifact of Mongolian literacy, understanding its historical, archaeological, and paleographic significance.",
+    "objectivesIntroduced": [
+      "obj_c2_245_01_master_stele_of_yisungge"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_244_01_master_omni_register_agility"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history",
+      "gram_c2_archaic_case_morphology_secret_history"
+    ],
+    "grammarReviewed": [
+      "gram_c1_classical_participle_khui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_08_omni_register_agility"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "Чингисийн чулууны бичиг",
+      "Есөнхэй",
+      "хөшөөний бичээс",
+      "хуучин монгол бичиг",
+      "алд хэмжүүр"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "13th-century monumental stone epigraphy",
+    "pragmaticTarget": "monumental commemoration, archery prowess, and imperial glory",
+    "prerequisiteLessonIds": [
+      "les_c2_244_05_omni_register_live_chameleon_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_238_01_secret_history_philological_foundations_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_238_the_secret_history_of_the_mongols_p"
+    ],
+    "reviewReason": "Connects manuscript transmission of the Secret History with direct primary stone monument epigraphy.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Transcribes all 5 lines of the Yisüngge stone inscription from original script into Cyrillic and phonetic IPA",
+      "Explains why Chinggis Khaan's name is placed higher than the main line of text (*мөр тэтгэх ёс*)"
+    ],
+    "masteryEvidence": "Produces an authoritative epigraphic parsing of the 1224 Stele of Yisüngge.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_245_02_stele_and_paiza_comparative_reading",
+    "unitId": "unit_c2_245_classical_inscriptions_the_stele_of",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 2,
+    "title": "Textual Reading: Monumental Stelae & Imperial Paiza Passports (§1220-§1300 Inscriptions)",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an 860-word critical corpus of primary epigraphic inscriptions from the Mongol Empire: the Yisüngge stele, the Möngke Khaan inscription (1257), and three silver/gilt bronze imperial passport tablets (*гэрэгэ / пайз*), comparing formulaic invocations of Eternal Tengri.",
+    "communicativeOutcome": "Deconstruct imperial epigraphy and diplomatic passports across the Mongol Empire, interpreting standard legal formulas with supreme philological accuracy.",
+    "objectivesIntroduced": [
+      "obj_c2_245_02_parse_imperial_paiza_inscriptions"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_245_01_master_stele_of_yisungge"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history",
+      "gram_c2_legal_constitutional_clause_architecture"
+    ],
+    "grammarReviewed": [
+      "gram_c1_classical_quotative_khemeen"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "Мөнх хааны хөшөө",
+      "гэрэгэ",
+      "пайз",
+      "Мөнх тэнгэрийн хүчин дор",
+      "хааны зарлиг"
+    ],
+    "readingObjective": "Analyze primary 13th-century imperial bronze tablets and stone inscriptions evaluating sovereign authority formulas.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "imperial epigraphic decree & diplomatic passport formula",
+    "pragmaticTarget": "transcontinental diplomatic immunity and cosmic imperial legitimacy",
+    "prerequisiteLessonIds": [
+      "les_c2_245_01_stele_of_yisungge_epigraphic_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_244_02_multi_register_chancellery_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_244_seamless_register_navigating_steppe"
+    ],
+    "reviewReason": "Deepens multi-register chancellery reading into physical archaeological bronze and stone artifacts.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Decodes the universal imperial opening formula ('Мөнх тэнгэрийн хүчинд, их суу залийн ивээлд...') on 3 distinct paizas",
+      "Identifies the precise legal penalties inscribed on paiza passports for impeding imperial messengers (*өрөө унаа өгөхгүй бол үхэх ялтай*)"
+    ],
+    "masteryEvidence": "Produces an 860-word epigraphic and diplomatic analysis of the imperial passport tablets.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_245_03_hermitage_curators_provenance_listening",
+    "unitId": "unit_c2_245_classical_inscriptions_the_stele_of",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Hermitage Museum Curator & Institute of Archaeology on Returning Steppe Heritage",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute archival audio discussion between a State Hermitage Museum curator in Saint Petersburg and the Director of the Institute of Archaeology of the Mongolian Academy of Sciences (165 wpm), analyzing diplomatic and legal claims for repatriating the Stele of Yisüngge.",
+    "communicativeOutcome": "Process sophisticated international museum repatriation and cultural heritage diplomacy audio in Mongolian, analyzing archival legal claims and archaeological provenance.",
+    "objectivesIntroduced": [
+      "obj_c2_245_03_comprehend_repatriation_diplomacy"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_245_01_master_stele_of_yisungge"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_seamless_register_navigating"
+    ],
+    "grammarReviewed": [
+      "gram_c1_advanced_diplomatic_and_treaty_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_06_diplomatic_and_consular_negotiation"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "Эрмитаж музей",
+      "Археологийн хүрээлэн",
+      "соёлын өвийг буцаан авах",
+      "палеографи",
+      "дурсгал"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher high-level international cultural heritage diplomacy discussing 19th-century colonial acquisition and modern repatriation treaties.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "international museum curatorial & repatriation diplomacy oral",
+    "pragmaticTarget": "national heritage recovery and ethical provenance adjudication",
+    "prerequisiteLessonIds": [
+      "les_c2_245_02_stele_and_paiza_comparative_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_244_03_diplomatic_crisis_interview_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_244_seamless_register_navigating_steppe"
+    ],
+    "reviewReason": "Connects live diplomatic press confrontation to delicate museum cultural repatriation negotiations.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic recording of archaeological negotiation on returning Mongol Empire stone monuments.",
+    "successCriteria": [
+      "Summarizes the legal arguments based on the 1970 UNESCO Convention on Cultural Property presented by the Mongolian side",
+      "Extracts the curator's paleographic defense regarding climate-controlled preservation conditions"
+    ],
+    "masteryEvidence": "Produces an exhaustive diplomatic and legal dossier on the repatriation of the Stele of Yisüngge.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_245_04_unesco_heritage_nomination_writing",
+    "unitId": "unit_c2_245_classical_inscriptions_the_stele_of",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 4,
+    "title": "Diplomatic Writing: Authoring a UNESCO Memory of the World Nomination Dossier for 13th-Century Inscriptions",
+    "lessonType": "writing",
+    "primaryPurpose": "Author an 850-word formal UNESCO Memory of the World nomination dossier in academic Mongolian, establishing the universal outstanding value of the Stele of Yisüngge and the Secret History as foundational landmarks of world nomadic civilization.",
+    "communicativeOutcome": "Produce international-tier cultural heritage documentation in Mongolian, articulating the global historical significance of steppe literacy with scholarly and diplomatic eloquence.",
+    "objectivesIntroduced": [
+      "obj_c2_245_04_author_unesco_nomination_dossiers"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_245_01_master_stele_of_yisungge"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_seamless_register_navigating",
+      "gram_c2_legal_constitutional_clause_architecture"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_01_legislative_drafting"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "ЮНЕСКО",
+      "Дэлхийн дурсамж хөтөлбөр",
+      "дэлхийн дахины хосгүй үнэ цэнэ",
+      "нүүдэлчдийн бичиг соёл"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft an 850-word UNESCO nomination dossier justifying authenticity, integrity, and global documentary heritage criteria.",
+    "spokenProductionObjective": "",
+    "registerTarget": "formal international cultural heritage nomination dossier",
+    "pragmaticTarget": "global recognition and immortal cultural codification",
+    "prerequisiteLessonIds": [
+      "les_c2_245_03_hermitage_curators_provenance_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_244_04_cross_register_polemical_essay_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_244_seamless_register_navigating_steppe"
+    ],
+    "reviewReason": "Transforms polemical cultural essay writing into formal international treaty and UNESCO nomination documentation.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Satisfies all criteria of UNESCO Memory of the World documentation guidelines in formal diplomatic Mongolian",
+      "Demonstrates that 13th-century Mongolian script unified multilingual administrations across Eurasia"
+    ],
+    "masteryEvidence": "Submits an 850-word UNESCO nomination dossier evaluated as meeting international treaty standards.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c2_245_05_unesco_plenary_keynote_defense_spoken",
+    "unitId": "unit_c2_245_classical_inscriptions_the_stele_of",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 5,
+    "title": "Diplomatic Speaking: Defending the Steppe Epigraphic Legacy at the UNESCO World Heritage Assembly",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 5.0-minute keynote defense at the UNESCO World Heritage General Assembly in Paris (in elevated diplomatic Mongolian with simultaneous interpretation), defending Mongolia's sovereign right to lead global research on Eurasian nomadic epigraphy.",
+    "communicativeOutcome": "Command international multilateral diplomatic oratory in Mongolian, projecting supreme cultural authority and intellectual sovereignty on the world stage.",
+    "objectivesIntroduced": [
+      "obj_c2_245_05_deliver_unesco_plenary_defense"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_245_01_master_stele_of_yisungge"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_seamless_register_navigating"
+    ],
+    "grammarReviewed": [
+      "gram_c1_reverential_and_honorific_oratory"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_08_omni_register_agility"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_10_rhetorical_speechwriting"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "ЮНЕСКО-гийн ерөнхий ассамблей",
+      "дэлхийн индэр",
+      "соёлын тусгаар тогтнол",
+      "элчин сайд"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Deliver a 5-minute multilateral keynote address defending Mongolian epigraphic patrimony with sovereign dignity and oratorical brilliance.",
+    "registerTarget": "multilateral international diplomatic plenary oratory oral",
+    "pragmaticTarget": "sovereign cultural primacy and international consensus leadership",
+    "prerequisiteLessonIds": [
+      "les_c2_245_04_unesco_heritage_nomination_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_244_05_omni_register_live_chameleon_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_244_seamless_register_navigating_steppe"
+    ],
+    "reviewReason": "Expands individual social chameleon flexibility into global diplomatic leadership at the UNESCO General Assembly.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of Ambassador of Mongolia addressing UNESCO plenary session.",
+    "successCriteria": [
+      "Balances profound national pride with universal cosmopolitan appeal in elevated diplomatic Khalkha",
+      "Secures unanimous adoption of the draft resolution by delegates in simulated plenary vote"
+    ],
+    "masteryEvidence": "Delivers an unscripted 5.0-minute plenary defense receiving unanimous diplomatic support.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c2_246_01_c2_sec02_capstone_philological_monograph_intro",
+    "unitId": "unit_c2_246_secret_history_capstone_philologica",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 1,
+    "title": "Section 02 Capstone Introduction: Synthesizing Classical Philology, Epigraphy & Medieval Steppe Law",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Synthesize the entire philological, syntactic, and legal architecture of Section 02 (The Secret History of the Mongols, Classical Epic Syntax, Archaic Case Morphology, The Alan Qo'a Parable, The Oath of Anda, The Great Yasa, Multi-Register Agility, and Epigraphic Stelae), outlining the capstone requirements.",
+    "communicativeOutcome": "Establish an integrated theoretical framework unifying 13th-century linguistics, epigraphy, and legal history into a cohesive mastery-tier synthesis.",
+    "objectivesIntroduced": [
+      "obj_c2_246_01_synthesize_c2_sec02_philology"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_238_01_master_secret_history_philology",
+      "obj_c2_239_01_master_classical_epic_syntax",
+      "obj_c2_240_01_master_archaic_case_morphology",
+      "obj_c2_241_01_master_alan_qoa_parable",
+      "obj_c2_242_01_master_anda_sworn_brotherhood",
+      "obj_c2_243_01_master_great_yasa_jurisprudence",
+      "obj_c2_244_01_master_omni_register_agility",
+      "obj_c2_245_01_master_stele_of_yisungge"
+    ],
+    "objectivesReviewed": [
+      "obj_c2_237_01_synthesize_c2_sec01_stylistics"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history",
+      "gram_c2_archaic_case_morphology_secret_history",
+      "gram_c2_legal_constitutional_clause_architecture",
+      "gram_c2_seamless_register_navigating"
+    ],
+    "grammarReviewed": [
+      "gram_c2_literary_polyphony_and_indirect_interior_monologue"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_05_middle_mongolian_phonology_reconstruction"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_08_omni_register_agility",
+      "comm_c2_10_secret_history_philological_reading",
+      "comm_c2_07_constitutional_court_parsing"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c2_15_creative_mastery_authorial_voice"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 8,
+    "newProductiveExpressionTarget": 3,
+    "newReceptiveExpressionTarget": 3,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "эгзэгтэй үе",
+      "эртний судлал",
+      "эх бичгийн цогц шинжилгээ",
+      "судалгааны нэгтгэл"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "supreme philological, epigraphic & diachronic meta-register",
+    "pragmaticTarget": "monumental scholarly synthesis and hermeneutic mastery",
+    "prerequisiteLessonIds": [
+      "les_c2_245_05_unesco_plenary_keynote_defense_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_237_01_c2_sec01_capstone_stylistic_nuance_synthesis_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_237_contemporary_literature_capstone_sa"
+    ],
+    "reviewReason": "Unites Section 01 contemporary literary stylistics with Section 02 classical Middle Mongolian philology.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Outlines a comprehensive methodology for editing, annotating, and publishing a critical edition of a 13th-century Mongolian manuscript",
+      "Articulates the interaction between phonological reconstruction, syntactic hierarchy, and legal pragmatics across all Section 02 units"
+    ],
+    "masteryEvidence": "Produces an exhaustive 10-point research prospectus for the Section 02 capstone monograph.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_246_02_c2_sec02_capstone_untranslated_manuscript_reading",
+    "unitId": "unit_c2_246_secret_history_capstone_philologica",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 2,
+    "title": "Capstone Reading: Deciphering an Unedited Middle Mongolian Manuscript Fragment (§153-§155)",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an unedited 920-word Middle Mongolian manuscript fragment (§153-§155, describing the downfall of the Jurkin clan and the trial of Sacha Beki) containing corrupted Ming phonetic characters, archaic case morphology, and lacunae.",
+    "communicativeOutcome": "Demonstrate the apex of philological reading autonomy, transcribing, emending, and interpreting corrupt primary Middle Mongolian texts without modern scholarly translations.",
+    "objectivesIntroduced": [
+      "obj_c2_246_02_parse_unedited_middle_mongolian_manuscript"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_246_01_synthesize_c2_sec02_philology"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history",
+      "gram_c2_archaic_case_morphology_secret_history",
+      "gram_c2_legal_constitutional_clause_architecture"
+    ],
+    "grammarReviewed": [
+      "gram_c1_classical_participle_khui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_05_middle_mongolian_phonology_reconstruction"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading",
+      "comm_c2_07_constitutional_court_parsing"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_07_literary_and_philosophical_hermeneutics"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 8,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "Жүрхин",
+      "Сача бэхи",
+      "ял хэлэлцэх",
+      "эртний хуулбар",
+      "бичвэрийн зөрөө"
+    ],
+    "readingObjective": "Decipher and emend corrupt primary Middle Mongolian manuscript passage analyzing genealogical treachery and customary trial syntax.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "unedited 13th-century Middle Mongolian manuscript primary text",
+    "pragmaticTarget": "paleographic decipherment and judicial-historical truth recovery",
+    "prerequisiteLessonIds": [
+      "les_c2_246_01_c2_sec02_capstone_philological_monograph_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_245_02_stele_and_paiza_comparative_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_245_classical_inscriptions_the_stele_of"
+    ],
+    "reviewReason": "Progresses from epigraphic stone inscriptions to parsing unedited corrupted paper manuscript fragments.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Resolves 4 paleographic lacunae through comparative syntactic and lexical reconstruction",
+      "Provides a pristine interlinear transcription into modern academic Cyrillic with zero morphological errors"
+    ],
+    "masteryEvidence": "Produces a 920-word critical transcription and textual commentary on §153-§155.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_246_03_c2_sec02_capstone_academician_colloquium_listening",
+    "unitId": "unit_c2_246_secret_history_capstone_philologica",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 3,
+    "title": "Capstone Listening: The Academy of Sciences High Colloquium on 13th-Century Textual Transmission",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute unedited recording of a high colloquium at the Institute of Language and Literature of the Mongolian Academy of Sciences (175 wpm) where 3 world-renowned academicians dispute the date of composition and possible Persian parallel sources (Jami al-Tawarikh).",
+    "communicativeOutcome": "Process the fastest, most intellectually demanding academic speech in Mongolian linguistics, navigating competing scholarly citations, philological jargon, and rapid-fire intellectual refutations.",
+    "objectivesIntroduced": [
+      "obj_c2_246_03_comprehend_academy_high_colloquium"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_246_01_synthesize_c2_sec02_philology"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_seamless_register_navigating",
+      "gram_c2_satirical_polemical_framing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_01_extreme_vowel_reduction_and_syncope"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading",
+      "comm_c2_08_omni_register_agility"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_03_academic_thesis_defense"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 8,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 3,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "Хэл зохиолын хүрээлэн",
+      "эрдэмтдийн зөвлөл",
+      "Рашид ад-Дин",
+      "он цагийн тоолол"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher intense high-velocity colloquium among Academy academicians debating Middle Mongolian philological controversies.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "elite academic colloquium & philological dispute oral",
+    "pragmaticTarget": "scholarly polemic, evidentiary superiority, and academic prestige",
+    "prerequisiteLessonIds": [
+      "les_c2_246_02_c2_sec02_capstone_untranslated_manuscript_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_245_03_hermitage_curators_provenance_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_245_classical_inscriptions_the_stele_of"
+    ],
+    "reviewReason": "Elevates museum curatorial diplomacy into the highest level of academic philological dispute.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic recording of Academy of Sciences high colloquium on Mongol Empire historiography.",
+    "successCriteria": [
+      "Deconstructs the 3 distinct chronological arguments regarding the Year of the Rat (1240 vs. 1252 vs. 1264)",
+      "Transcribes the rapid colloquial phonetic elisions used by senior academicians during spontaneous heated debate"
+    ],
+    "masteryEvidence": "Produces an exhaustive analytical critique of the 4.5-minute Academy colloquium.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c2_246_04_c2_sec02_capstone_critical_commentary_monograph_writing",
+    "unitId": "unit_c2_246_secret_history_capstone_philologica",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 4,
+    "title": "Capstone Writing: Authoring a 900-Word Published Philological Textual Commentary & Emendation",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 900-word publishable philological textual commentary on a controversial passage of the Secret History (§254, the succession debate between Jochi and Chagatai), providing original transcription, critical apparatus, syntactic tree, and historical-jurisprudential exegesis.",
+    "communicativeOutcome": "Produce doctoral-tier philological scholarship in academic Mongolian, establishing a definitive textual commentary that withstands scrutiny from international Mongolists.",
+    "objectivesIntroduced": [
+      "obj_c2_246_04_author_capstone_philological_monograph"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_246_01_synthesize_c2_sec02_philology"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history",
+      "gram_c2_archaic_case_morphology_secret_history",
+      "gram_c2_legal_constitutional_clause_architecture",
+      "gram_c2_seamless_register_navigating"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading",
+      "comm_c2_07_constitutional_court_parsing",
+      "comm_c2_08_omni_register_agility"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_04_peer_review_and_scholarly_refutation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 8,
+    "newProductiveExpressionTarget": 3,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "залгамжлах эрх",
+      "Зүчи",
+      "Цагаадай",
+      "хэрүүл маргаан",
+      "эх бичгийн судалгаа"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft a 900-word peer-reviewed scholarly commentary analyzing succession law, insulting idioms, and textual variants in §254.",
+    "spokenProductionObjective": "",
+    "registerTarget": "academic philological monograph publication tier",
+    "pragmaticTarget": "definitive scholarly resolution of historic succession dispute",
+    "prerequisiteLessonIds": [
+      "les_c2_246_03_c2_sec02_capstone_academician_colloquium_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_245_04_unesco_heritage_nomination_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_245_classical_inscriptions_the_stele_of"
+    ],
+    "reviewReason": "Consolidates UNESCO nomination drafting into an exhaustive academic philological monograph chapter.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Incorporates full textual apparatus referencing Chinese phonetics, Cyrillic editions, and Persian chronicles",
+      "Synthesizes syntactic, morphological, and jurisprudential analysis without leaving any interpretive lacunae"
+    ],
+    "masteryEvidence": "Submits a 900-word critical textual commentary accepted for publication in *Studia Mongolica*.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c2_246_05_c2_sec02_capstone_doctoral_dissertation_defense_spoken",
+    "unitId": "unit_c2_246_secret_history_capstone_philologica",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 5,
+    "title": "Capstone Speaking: Defending a Doctoral Dissertation on Middle Mongolian Before the State Degree Council",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 5.0-minute defense of an original doctoral dissertation on Middle Mongolian morphosyntax before the State Degree Council (Эрдмийн зэрэг хамгаалуулах зөвлөл), delivering a rigorous presentation and fielding hostile inquisitorial questions from 3 designated academic opponents.",
+    "communicativeOutcome": "Demonstrate supreme academic spoken mastery, defending complex linguistic discoveries with intellectual brilliance, total poise, and authoritative Mongolian terminology.",
+    "objectivesIntroduced": [
+      "obj_c2_246_05_defend_doctoral_dissertation_middle_mongolian"
+    ],
+    "objectivesPracticed": [
+      "obj_c2_246_01_synthesize_c2_sec02_philology"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_seamless_register_navigating",
+      "gram_c2_satirical_polemical_framing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_05_middle_mongolian_phonology_reconstruction"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_10_secret_history_philological_reading",
+      "comm_c2_08_omni_register_agility"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c1_03_academic_thesis_defense"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 8,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "Эрдмийн зэрэг хамгаалах зөвлөл",
+      "доктор хамгаалах",
+      "албан ёсны шүүмжлэгч",
+      "эрдэм шинжилгээ"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Execute an unscripted 5-minute doctoral defense presenting novel linguistic proofs and refuting 3 hostile academic challenges.",
+    "registerTarget": "highest academic degree defense & doctoral disputation oral",
+    "pragmaticTarget": "scholarly coronation, total refutation of critics, and doctor of philology award",
+    "prerequisiteLessonIds": [
+      "les_c2_246_04_c2_sec02_capstone_critical_commentary_monograph_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_245_05_unesco_plenary_keynote_defense_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_245_classical_inscriptions_the_stele_of"
+    ],
+    "reviewReason": "Elevates UNESCO keynote presentation into high-stakes defense before the State Degree Council.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of candidate successfully defending Doctor of Science (Sc.D.) dissertation in Mongolian linguistics.",
+    "successCriteria": [
+      "Defends the dissertation's novel reconstruction of archaic verbal converbs with uncompromising philological rigor",
+      "Maintains absolute composure and elevated academic register when challenged by senior academicians"
+    ],
+    "masteryEvidence": "Unanimously awarded the degree of Doctor of Philology (Sc.D.) with highest honors (100% affirmative ballots).",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c2_246_06_c2_sec02_culminating_operational_synthesis",
+    "unitId": "unit_c2_246_secret_history_capstone_philologica",
+    "cefrLevel": "C2",
+    "sequenceWithinUnit": 6,
+    "title": "Section 02 Culminating Operational Synthesis: Full Mastery Verification of Classical Philology & Secret History",
+    "lessonType": "review",
+    "primaryPurpose": "Execute a comprehensive operational review of Section 02, verifying absolute native-like mastery across manuscript paleography, medieval epic syntax, archaic case morphology, nomadic jurisprudence, multi-register switching, and primary monument epigraphy.",
+    "communicativeOutcome": "Lock in total operational mastery of Section 02, confirming readiness to advance to Section 03 (Gnomic Wisdom, Folk Epics, Ceremonial Blessings & Tengrism).",
+    "objectivesIntroduced": [],
+    "objectivesPracticed": [
+      "obj_c2_246_01_synthesize_c2_sec02_philology",
+      "obj_c2_246_04_author_capstone_philological_monograph",
+      "obj_c2_246_05_defend_doctoral_dissertation_middle_mongolian"
+    ],
+    "objectivesReviewed": [
+      "obj_c2_238_01_master_secret_history_philology",
+      "obj_c2_239_01_master_classical_epic_syntax",
+      "obj_c2_240_01_master_archaic_case_morphology",
+      "obj_c2_241_01_master_alan_qoa_parable",
+      "obj_c2_242_01_master_anda_sworn_brotherhood",
+      "obj_c2_243_01_master_great_yasa_jurisprudence",
+      "obj_c2_244_01_master_omni_register_agility",
+      "obj_c2_245_01_master_stele_of_yisungge"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c2_classical_epic_syntax_secret_history",
+      "gram_c2_archaic_case_morphology_secret_history",
+      "gram_c2_legal_constitutional_clause_architecture",
+      "gram_c2_seamless_register_navigating"
+    ],
+    "grammarReviewed": [
+      "gram_c2_dialectal_morphosyntax_awareness",
+      "gram_c2_literary_polyphony_and_indirect_interior_monologue"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phon_c2_05_middle_mongolian_phonology_reconstruction"
+    ],
+    "phonologyReviewed": [
+      "phon_c2_01_extreme_vowel_reduction_and_syncope"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c2_08_omni_register_agility",
+      "comm_c2_10_secret_history_philological_reading",
+      "comm_c2_07_constitutional_court_parsing"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_c2_15_creative_mastery_authorial_voice",
+      "comm_c2_02_rapid_dialogue_and_turn_taking"
+    ],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_c2_the_secret_history_middle_mongolian"
+    ],
+    "previousVocabularyReused": [
+      "эх бичиг судлал",
+      "дундад зууны монгол хэл",
+      "Их Засаг",
+      "Есөнхэй",
+      "найруулгын чадвар"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "comprehensive Section 02 mastery review",
+    "pragmaticTarget": "operational permanence across 13th-century epigraphy and philology",
+    "prerequisiteLessonIds": [
+      "les_c2_246_01_c2_sec02_capstone_philological_monograph_intro",
+      "les_c2_246_02_c2_sec02_capstone_untranslated_manuscript_reading",
+      "les_c2_246_03_c2_sec02_capstone_academician_colloquium_listening",
+      "les_c2_246_04_c2_sec02_capstone_critical_commentary_monograph_writing",
+      "les_c2_246_05_c2_sec02_capstone_doctoral_dissertation_defense_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c2_237_06_c2_sec01_culminating_operational_synthesis"
+    ],
+    "reviewsUnitIds": [
+      "unit_c2_237_contemporary_literature_capstone_sa"
+    ],
+    "reviewReason": "Confirms holistic mastery across both Section 01 and Section 02 before initiating Section 03.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Verifies active control over all Section 02 competencies with zero hesitation or regression",
+      "Demonstrates immediate synthesis of 13th-century philology, legal codes, and register control"
+    ],
+    "masteryEvidence": "Achieves 100% mastery score across comprehensive Section 02 operational assessment battery.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  }
+]

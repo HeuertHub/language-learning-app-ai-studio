@@ -1,0 +1,2747 @@
+{
+  "gram_a1_sov_word_order": {
+    "conceptId": "gram_a1_sov_word_order",
+    "introUnit": 16,
+    "immediate": [
+      17,
+      18
+    ],
+    "delayed": [
+      20,
+      25,
+      30,
+      39,
+      42,
+      50
+    ],
+    "crossContext": [
+      64,
+      75,
+      88,
+      105,
+      120,
+      140
+    ],
+    "advancedReuse": [
+      156,
+      172,
+      198,
+      220,
+      239
+    ]
+  },
+  "gram_a1_pronouns_personal_nominative": {
+    "conceptId": "gram_a1_pronouns_personal_nominative",
+    "introUnit": 17,
+    "immediate": [
+      18
+    ],
+    "delayed": [
+      20,
+      23
+    ],
+    "crossContext": [
+      42,
+      62
+    ],
+    "advancedReuse": [
+      107,
+      157
+    ]
+  },
+  "gram_a1_nominal_predicate_zero_copula": {
+    "conceptId": "gram_a1_nominal_predicate_zero_copula",
+    "introUnit": 18,
+    "immediate": [
+      19,
+      20
+    ],
+    "delayed": [
+      21,
+      23,
+      25,
+      31
+    ],
+    "crossContext": [
+      65,
+      76,
+      85,
+      114,
+      136
+    ],
+    "advancedReuse": [
+      157,
+      185,
+      201,
+      221
+    ]
+  },
+  "gram_a1_case_nominative_unmarked": {
+    "conceptId": "gram_a1_case_nominative_unmarked",
+    "introUnit": 18,
+    "immediate": [
+      19,
+      21
+    ],
+    "delayed": [
+      25,
+      30,
+      37,
+      54
+    ],
+    "crossContext": [
+      66,
+      75,
+      90,
+      112,
+      138
+    ],
+    "advancedReuse": [
+      159,
+      191,
+      204
+    ]
+  },
+  "gram_a1_polar_questions_uu_uu": {
+    "conceptId": "gram_a1_polar_questions_uu_uu",
+    "introUnit": 19,
+    "immediate": [
+      20,
+      22
+    ],
+    "delayed": [
+      24,
+      30,
+      41,
+      57
+    ],
+    "crossContext": [
+      69,
+      79,
+      88,
+      105,
+      125
+    ],
+    "advancedReuse": [
+      163,
+      193,
+      231
+    ]
+  },
+  "gram_a1_pronouns_demonstrative_ene_ter": {
+    "conceptId": "gram_a1_pronouns_demonstrative_ene_ter",
+    "introUnit": 20,
+    "immediate": [
+      21
+    ],
+    "delayed": [
+      23,
+      26
+    ],
+    "crossContext": [
+      45,
+      65
+    ],
+    "advancedReuse": [
+      110,
+      160
+    ]
+  },
+  "gram_a1_nominal_negation_bish": {
+    "conceptId": "gram_a1_nominal_negation_bish",
+    "introUnit": 21,
+    "immediate": [
+      22,
+      23
+    ],
+    "delayed": [
+      24,
+      31,
+      45,
+      62
+    ],
+    "crossContext": [
+      71,
+      80,
+      95,
+      124,
+      135
+    ],
+    "advancedReuse": [
+      160,
+      181,
+      216
+    ]
+  },
+  "gram_a1_existential_baina_baihgui": {
+    "conceptId": "gram_a1_existential_baina_baihgui",
+    "introUnit": 24,
+    "immediate": [
+      25,
+      26
+    ],
+    "delayed": [
+      30,
+      39,
+      48,
+      57
+    ],
+    "crossContext": [
+      68,
+      77,
+      89,
+      107,
+      122
+    ],
+    "advancedReuse": [
+      167,
+      181,
+      220
+    ]
+  },
+  "gram_a1_case_dative_locative_location": {
+    "conceptId": "gram_a1_case_dative_locative_location",
+    "introUnit": 25,
+    "immediate": [
+      26,
+      27
+    ],
+    "delayed": [
+      30,
+      39,
+      44,
+      48,
+      62
+    ],
+    "crossContext": [
+      64,
+      73,
+      83,
+      105,
+      136
+    ],
+    "advancedReuse": [
+      166,
+      175,
+      205
+    ]
+  },
+  "gram_a1_content_questions_be_ve": {
+    "conceptId": "gram_a1_content_questions_be_ve",
+    "introUnit": 26,
+    "immediate": [
+      27,
+      28
+    ],
+    "delayed": [
+      34,
+      41,
+      52,
+      59
+    ],
+    "crossContext": [
+      70,
+      79,
+      86,
+      113,
+      125
+    ],
+    "advancedReuse": [
+      163,
+      193,
+      230
+    ]
+  },
+  "gram_a1_numerals_cardinal_counting": {
+    "conceptId": "gram_a1_numerals_cardinal_counting",
+    "introUnit": 27,
+    "immediate": [
+      28
+    ],
+    "delayed": [
+      30,
+      33,
+      29
+    ],
+    "crossContext": [
+      52,
+      72
+    ],
+    "advancedReuse": [
+      117,
+      167
+    ]
+  },
+  "gram_a1_noun_plural_markers": {
+    "conceptId": "gram_a1_noun_plural_markers",
+    "introUnit": 29,
+    "immediate": [
+      30,
+      31
+    ],
+    "delayed": [
+      36,
+      44,
+      48,
+      63
+    ],
+    "crossContext": [
+      73,
+      83,
+      102,
+      121,
+      136
+    ],
+    "advancedReuse": [
+      156,
+      174,
+      208
+    ]
+  },
+  "gram_a1_case_accusative_definite": {
+    "conceptId": "gram_a1_case_accusative_definite",
+    "introUnit": 30,
+    "immediate": [
+      31,
+      32
+    ],
+    "delayed": [
+      37,
+      45,
+      52,
+      58,
+      47
+    ],
+    "crossContext": [
+      64,
+      75,
+      87,
+      105,
+      120,
+      137
+    ],
+    "advancedReuse": [
+      158,
+      171,
+      172,
+      203
+    ]
+  },
+  "gram_a1_classifiers_measure_words": {
+    "conceptId": "gram_a1_classifiers_measure_words",
+    "introUnit": 31,
+    "immediate": [
+      32
+    ],
+    "delayed": [
+      34,
+      37
+    ],
+    "crossContext": [
+      56,
+      76
+    ],
+    "advancedReuse": [
+      121,
+      171
+    ]
+  },
+  "gram_a1_telling_time_clock_calendar": {
+    "conceptId": "gram_a1_telling_time_clock_calendar",
+    "introUnit": 34,
+    "immediate": [
+      35
+    ],
+    "delayed": [
+      37,
+      40
+    ],
+    "crossContext": [
+      59,
+      79
+    ],
+    "advancedReuse": [
+      124,
+      174
+    ]
+  },
+  "gram_a1_verb_dictionary_infinitive_kh": {
+    "conceptId": "gram_a1_verb_dictionary_infinitive_kh",
+    "introUnit": 37,
+    "immediate": [
+      38,
+      39
+    ],
+    "delayed": [
+      42,
+      50,
+      56,
+      61
+    ],
+    "crossContext": [
+      67,
+      78,
+      88,
+      108,
+      139
+    ],
+    "advancedReuse": [
+      170,
+      188,
+      200
+    ]
+  },
+  "gram_a1_verb_tense_present_habitual_dag": {
+    "conceptId": "gram_a1_verb_tense_present_habitual_dag",
+    "introUnit": 38,
+    "immediate": [
+      39,
+      40
+    ],
+    "delayed": [
+      44,
+      53,
+      59,
+      63
+    ],
+    "crossContext": [
+      66,
+      80,
+      89,
+      109,
+      134
+    ],
+    "advancedReuse": [
+      168,
+      185,
+      218
+    ]
+  },
+  "gram_a1_case_dative_locative_temporal": {
+    "conceptId": "gram_a1_case_dative_locative_temporal",
+    "introUnit": 39,
+    "immediate": [
+      40,
+      41
+    ],
+    "delayed": [
+      44,
+      53,
+      58,
+      63
+    ],
+    "crossContext": [
+      67,
+      84,
+      98,
+      113,
+      142
+    ],
+    "advancedReuse": [
+      167,
+      194,
+      217
+    ]
+  },
+  "gram_a1_case_ablative_origin": {
+    "conceptId": "gram_a1_case_ablative_origin",
+    "introUnit": 40,
+    "immediate": [
+      41
+    ],
+    "delayed": [
+      43,
+      46
+    ],
+    "crossContext": [
+      65,
+      85
+    ],
+    "advancedReuse": [
+      130,
+      180
+    ]
+  },
+  "gram_a1_verb_tense_past_witnessed_laa": {
+    "conceptId": "gram_a1_verb_tense_past_witnessed_laa",
+    "introUnit": 41,
+    "immediate": [
+      42,
+      43
+    ],
+    "delayed": [
+      48,
+      55,
+      60
+    ],
+    "crossContext": [
+      71,
+      88,
+      100,
+      116,
+      149
+    ],
+    "advancedReuse": [
+      167,
+      186,
+      230
+    ]
+  },
+  "gram_a1_converb_coordinating_j_ch": {
+    "conceptId": "gram_a1_converb_coordinating_j_ch",
+    "introUnit": 42,
+    "immediate": [
+      43,
+      44
+    ],
+    "delayed": [
+      49,
+      56,
+      61,
+      63
+    ],
+    "crossContext": [
+      64,
+      79,
+      87,
+      105,
+      123,
+      135
+    ],
+    "advancedReuse": [
+      158,
+      169,
+      198,
+      220,
+      239
+    ]
+  },
+  "gram_a1_noun_phrase_attributive_adjective": {
+    "conceptId": "gram_a1_noun_phrase_attributive_adjective",
+    "introUnit": 45,
+    "immediate": [
+      46
+    ],
+    "delayed": [
+      48,
+      51
+    ],
+    "crossContext": [
+      70,
+      90
+    ],
+    "advancedReuse": [
+      135,
+      185
+    ]
+  },
+  "gram_a1_case_comitative_accompaniment": {
+    "conceptId": "gram_a1_case_comitative_accompaniment",
+    "introUnit": 47,
+    "immediate": [
+      48,
+      49
+    ],
+    "delayed": [
+      54,
+      59,
+      63
+    ],
+    "crossContext": [
+      70,
+      82,
+      94,
+      106,
+      121
+    ],
+    "advancedReuse": [
+      165,
+      187,
+      221
+    ]
+  },
+  "gram_a1_case_comitative_possession_predicates": {
+    "conceptId": "gram_a1_case_comitative_possession_predicates",
+    "introUnit": 47,
+    "immediate": [
+      48,
+      49
+    ],
+    "delayed": [
+      54,
+      59,
+      63
+    ],
+    "crossContext": [
+      70,
+      82,
+      94,
+      106,
+      121
+    ],
+    "advancedReuse": [
+      165,
+      187,
+      221
+    ]
+  },
+  "gram_a1_verb_volitional_intention_ya": {
+    "conceptId": "gram_a1_verb_volitional_intention_ya",
+    "introUnit": 48,
+    "immediate": [
+      49
+    ],
+    "delayed": [
+      51,
+      54
+    ],
+    "crossContext": [
+      73,
+      93
+    ],
+    "advancedReuse": [
+      138,
+      188
+    ]
+  },
+  "gram_a1_verb_imperative_polite_aarai": {
+    "conceptId": "gram_a1_verb_imperative_polite_aarai",
+    "introUnit": 49,
+    "immediate": [
+      50
+    ],
+    "delayed": [
+      52,
+      55
+    ],
+    "crossContext": [
+      74,
+      94
+    ],
+    "advancedReuse": [
+      139,
+      189
+    ]
+  },
+  "gram_a1_converb_sequential_aad": {
+    "conceptId": "gram_a1_converb_sequential_aad",
+    "introUnit": 50,
+    "immediate": [
+      51,
+      52
+    ],
+    "delayed": [
+      58,
+      62,
+      63
+    ],
+    "crossContext": [
+      67,
+      81,
+      93,
+      110,
+      128
+    ],
+    "advancedReuse": [
+      158,
+      176,
+      206
+    ]
+  },
+  "gram_a1_case_genitive_possession": {
+    "conceptId": "gram_a1_case_genitive_possession",
+    "introUnit": 54,
+    "immediate": [
+      55,
+      56
+    ],
+    "delayed": [
+      60,
+      63
+    ],
+    "crossContext": [
+      73,
+      85,
+      96,
+      112,
+      138
+    ],
+    "advancedReuse": [
+      161,
+      191,
+      201
+    ]
+  },
+  "gram_a1_possessive_pronouns_minii_chiniih": {
+    "conceptId": "gram_a1_possessive_pronouns_minii_chiniih",
+    "introUnit": 55,
+    "immediate": [
+      56
+    ],
+    "delayed": [
+      58,
+      61
+    ],
+    "crossContext": [
+      80,
+      100
+    ],
+    "advancedReuse": [
+      145,
+      195
+    ]
+  },
+  "gram_a1_case_dative_locative_recipient": {
+    "conceptId": "gram_a1_case_dative_locative_recipient",
+    "introUnit": 56,
+    "immediate": [
+      57,
+      58
+    ],
+    "delayed": [
+      63,
+      72,
+      81
+    ],
+    "crossContext": [
+      87,
+      101,
+      115,
+      133
+    ],
+    "advancedReuse": [
+      164,
+      195,
+      222
+    ]
+  },
+  "gram_a1_verb_aspect_progressive_j_baina": {
+    "conceptId": "gram_a1_verb_aspect_progressive_j_baina",
+    "introUnit": 57,
+    "immediate": [
+      58,
+      59
+    ],
+    "delayed": [
+      61,
+      63
+    ],
+    "crossContext": [
+      68,
+      80,
+      92,
+      117,
+      130
+    ],
+    "advancedReuse": [
+      162,
+      182,
+      215
+    ]
+  },
+  "gram_a1_verb_tense_past_perfective_san": {
+    "conceptId": "gram_a1_verb_tense_past_perfective_san",
+    "introUnit": 58,
+    "immediate": [
+      59,
+      60
+    ],
+    "delayed": [
+      63
+    ],
+    "crossContext": [
+      72,
+      85,
+      99,
+      113,
+      137
+    ],
+    "advancedReuse": [
+      157,
+      173,
+      207
+    ]
+  },
+  "gram_a1_verb_tense_future_prospective_na": {
+    "conceptId": "gram_a1_verb_tense_future_prospective_na",
+    "introUnit": 59,
+    "immediate": [
+      60,
+      61
+    ],
+    "delayed": [
+      63
+    ],
+    "crossContext": [
+      69,
+      86,
+      101,
+      119,
+      143
+    ],
+    "advancedReuse": [
+      166,
+      188,
+      213
+    ]
+  },
+  "gram_a1_verb_prohibitive_bitgii": {
+    "conceptId": "gram_a1_verb_prohibitive_bitgii",
+    "introUnit": 60,
+    "immediate": [
+      61
+    ],
+    "delayed": [
+      63
+    ],
+    "crossContext": [
+      85,
+      105
+    ],
+    "advancedReuse": [
+      150,
+      200
+    ]
+  },
+  "gram_a1_verb_urging_optative_aach": {
+    "conceptId": "gram_a1_verb_urging_optative_aach",
+    "introUnit": 60,
+    "immediate": [
+      61
+    ],
+    "delayed": [
+      63
+    ],
+    "crossContext": [
+      85,
+      105
+    ],
+    "advancedReuse": [
+      150,
+      200
+    ]
+  },
+  "gram_a1_verb_jussive_third_person_g": {
+    "conceptId": "gram_a1_verb_jussive_third_person_g",
+    "introUnit": 60,
+    "immediate": [
+      61
+    ],
+    "delayed": [
+      63
+    ],
+    "crossContext": [
+      85,
+      105
+    ],
+    "advancedReuse": [
+      150,
+      200
+    ]
+  },
+  "gram_a1_spatial_postpositions_deeree_door": {
+    "conceptId": "gram_a1_spatial_postpositions_deeree_door",
+    "introUnit": 61,
+    "immediate": [
+      62
+    ],
+    "delayed": [
+      63
+    ],
+    "crossContext": [
+      86,
+      106
+    ],
+    "advancedReuse": [
+      151,
+      201
+    ]
+  },
+  "gram_a1_pronouns_personal_oblique_stems": {
+    "conceptId": "gram_a1_pronouns_personal_oblique_stems",
+    "introUnit": 61,
+    "immediate": [
+      62
+    ],
+    "delayed": [
+      63
+    ],
+    "crossContext": [
+      86,
+      106
+    ],
+    "advancedReuse": [
+      151,
+      201
+    ]
+  },
+  "gram_a1_case_ablative_comparative": {
+    "conceptId": "gram_a1_case_ablative_comparative",
+    "introUnit": 62,
+    "immediate": [
+      63
+    ],
+    "delayed": [
+      63
+    ],
+    "crossContext": [
+      87,
+      107
+    ],
+    "advancedReuse": [
+      152,
+      202
+    ]
+  },
+  "gram_a1_pronouns_demonstrative_case_declension": {
+    "conceptId": "gram_a1_pronouns_demonstrative_case_declension",
+    "introUnit": 62,
+    "immediate": [
+      63
+    ],
+    "delayed": [
+      63
+    ],
+    "crossContext": [
+      87,
+      107
+    ],
+    "advancedReuse": [
+      152,
+      202
+    ]
+  },
+  "gram_a1_interrogatives_case_declension": {
+    "conceptId": "gram_a1_interrogatives_case_declension",
+    "introUnit": 62,
+    "immediate": [
+      63
+    ],
+    "delayed": [
+      63
+    ],
+    "crossContext": [
+      87,
+      107
+    ],
+    "advancedReuse": [
+      152,
+      202
+    ]
+  },
+  "gram_a2_case_instrumental_transport_language": {
+    "conceptId": "gram_a2_case_instrumental_transport_language",
+    "introUnit": 64,
+    "immediate": [
+      65
+    ],
+    "delayed": [
+      67,
+      71
+    ],
+    "crossContext": [
+      84,
+      104
+    ],
+    "advancedReuse": [
+      144,
+      184
+    ]
+  },
+  "gram_a2_case_directional_towards": {
+    "conceptId": "gram_a2_case_directional_towards",
+    "introUnit": 65,
+    "immediate": [
+      66
+    ],
+    "delayed": [
+      68,
+      72
+    ],
+    "crossContext": [
+      85,
+      105
+    ],
+    "advancedReuse": [
+      145,
+      185
+    ]
+  },
+  "gram_a2_case_instrumental_means": {
+    "conceptId": "gram_a2_case_instrumental_means",
+    "introUnit": 66,
+    "immediate": [
+      67
+    ],
+    "delayed": [
+      69,
+      73
+    ],
+    "crossContext": [
+      86,
+      106
+    ],
+    "advancedReuse": [
+      146,
+      186
+    ]
+  },
+  "gram_a2_adverbial_comparative_shig_adil_met": {
+    "conceptId": "gram_a2_adverbial_comparative_shig_adil_met",
+    "introUnit": 67,
+    "immediate": [
+      68
+    ],
+    "delayed": [
+      70,
+      74
+    ],
+    "crossContext": [
+      87,
+      107
+    ],
+    "advancedReuse": [
+      147,
+      187
+    ]
+  },
+  "gram_a2_numerals_ordinal": {
+    "conceptId": "gram_a2_numerals_ordinal",
+    "introUnit": 73,
+    "immediate": [
+      74
+    ],
+    "delayed": [
+      76,
+      80
+    ],
+    "crossContext": [
+      93,
+      113
+    ],
+    "advancedReuse": [
+      153,
+      193
+    ]
+  },
+  "gram_a2_reflexive_possessive_base": {
+    "conceptId": "gram_a2_reflexive_possessive_base",
+    "introUnit": 75,
+    "immediate": [
+      76
+    ],
+    "delayed": [
+      78,
+      82
+    ],
+    "crossContext": [
+      95,
+      115
+    ],
+    "advancedReuse": [
+      155,
+      195
+    ]
+  },
+  "gram_a2_reflexive_case_combinations": {
+    "conceptId": "gram_a2_reflexive_case_combinations",
+    "introUnit": 76,
+    "immediate": [
+      77
+    ],
+    "delayed": [
+      79,
+      83
+    ],
+    "crossContext": [
+      96,
+      116
+    ],
+    "advancedReuse": [
+      156,
+      196
+    ]
+  },
+  "gram_a2_possessive_third_person_enclitic_ni": {
+    "conceptId": "gram_a2_possessive_third_person_enclitic_ni",
+    "introUnit": 77,
+    "immediate": [
+      78
+    ],
+    "delayed": [
+      80,
+      84
+    ],
+    "crossContext": [
+      97,
+      117
+    ],
+    "advancedReuse": [
+      157,
+      197
+    ]
+  },
+  "gram_a2_converb_conditional_val": {
+    "conceptId": "gram_a2_converb_conditional_val",
+    "introUnit": 79,
+    "immediate": [
+      80
+    ],
+    "delayed": [
+      82,
+      86
+    ],
+    "crossContext": [
+      99,
+      119
+    ],
+    "advancedReuse": [
+      159,
+      199
+    ]
+  },
+  "gram_a2_numerals_collective_approximate": {
+    "conceptId": "gram_a2_numerals_collective_approximate",
+    "introUnit": 80,
+    "immediate": [
+      81
+    ],
+    "delayed": [
+      83,
+      87
+    ],
+    "crossContext": [
+      100,
+      120
+    ],
+    "advancedReuse": [
+      160,
+      200
+    ]
+  },
+  "gram_a2_converb_temporal_while_khad": {
+    "conceptId": "gram_a2_converb_temporal_while_khad",
+    "introUnit": 84,
+    "immediate": [
+      85
+    ],
+    "delayed": [
+      87,
+      91
+    ],
+    "crossContext": [
+      104,
+      124
+    ],
+    "advancedReuse": [
+      164,
+      204
+    ]
+  },
+  "gram_a2_modal_obligation_heregtei_yostoi": {
+    "conceptId": "gram_a2_modal_obligation_heregtei_yostoi",
+    "introUnit": 86,
+    "immediate": [
+      87
+    ],
+    "delayed": [
+      89,
+      93
+    ],
+    "crossContext": [
+      106,
+      126
+    ],
+    "advancedReuse": [
+      166,
+      206
+    ]
+  },
+  "gram_a2_modal_permission_possibility_bolno": {
+    "conceptId": "gram_a2_modal_permission_possibility_bolno",
+    "introUnit": 87,
+    "immediate": [
+      88
+    ],
+    "delayed": [
+      90,
+      94
+    ],
+    "crossContext": [
+      107,
+      127
+    ],
+    "advancedReuse": [
+      167,
+      207
+    ]
+  },
+  "gram_a2_modal_ability_yadah_chadah": {
+    "conceptId": "gram_a2_modal_ability_yadah_chadah",
+    "introUnit": 88,
+    "immediate": [
+      89
+    ],
+    "delayed": [
+      91,
+      95
+    ],
+    "crossContext": [
+      108,
+      128
+    ],
+    "advancedReuse": [
+      168,
+      208
+    ]
+  },
+  "gram_a2_verb_past_narrative_v": {
+    "conceptId": "gram_a2_verb_past_narrative_v",
+    "introUnit": 94,
+    "immediate": [
+      95
+    ],
+    "delayed": [
+      97,
+      101
+    ],
+    "crossContext": [
+      114,
+      134
+    ],
+    "advancedReuse": [
+      174,
+      214
+    ]
+  },
+  "gram_a2_verb_past_recent_witnessed_laa": {
+    "conceptId": "gram_a2_verb_past_recent_witnessed_laa",
+    "introUnit": 95,
+    "immediate": [
+      96
+    ],
+    "delayed": [
+      98,
+      102
+    ],
+    "crossContext": [
+      115,
+      135
+    ],
+    "advancedReuse": [
+      175,
+      215
+    ]
+  },
+  "gram_a2_verb_habitual_present_dag": {
+    "conceptId": "gram_a2_verb_habitual_present_dag",
+    "introUnit": 96,
+    "immediate": [
+      97
+    ],
+    "delayed": [
+      99,
+      103
+    ],
+    "crossContext": [
+      116,
+      136
+    ],
+    "advancedReuse": [
+      176,
+      216
+    ]
+  },
+  "gram_a2_participle_desire_inclination_maar": {
+    "conceptId": "gram_a2_participle_desire_inclination_maar",
+    "introUnit": 97,
+    "immediate": [
+      98
+    ],
+    "delayed": [
+      100,
+      104
+    ],
+    "crossContext": [
+      117,
+      137
+    ],
+    "advancedReuse": [
+      177,
+      217
+    ]
+  },
+  "gram_a2_converb_purposive_khaar": {
+    "conceptId": "gram_a2_converb_purposive_khaar",
+    "introUnit": 98,
+    "immediate": [
+      99
+    ],
+    "delayed": [
+      101,
+      105
+    ],
+    "crossContext": [
+      118,
+      138
+    ],
+    "advancedReuse": [
+      178,
+      218
+    ]
+  },
+  "gram_a2_reported_speech_gej_kheleh": {
+    "conceptId": "gram_a2_reported_speech_gej_kheleh",
+    "introUnit": 99,
+    "immediate": [
+      100
+    ],
+    "delayed": [
+      102,
+      106
+    ],
+    "crossContext": [
+      119,
+      139
+    ],
+    "advancedReuse": [
+      179,
+      219
+    ]
+  },
+  "gram_a2_verb_past_resultative_zhee": {
+    "conceptId": "gram_a2_verb_past_resultative_zhee",
+    "introUnit": 100,
+    "immediate": [
+      101
+    ],
+    "delayed": [
+      103,
+      107
+    ],
+    "crossContext": [
+      120,
+      140
+    ],
+    "advancedReuse": [
+      180,
+      220
+    ]
+  },
+  "gram_a2_participle_relative_clause_past_san": {
+    "conceptId": "gram_a2_participle_relative_clause_past_san",
+    "introUnit": 101,
+    "immediate": [
+      102
+    ],
+    "delayed": [
+      104,
+      108
+    ],
+    "crossContext": [
+      121,
+      141
+    ],
+    "advancedReuse": [
+      181,
+      221
+    ]
+  },
+  "gram_a2_participle_relative_clause_habitual_dag": {
+    "conceptId": "gram_a2_participle_relative_clause_habitual_dag",
+    "introUnit": 101,
+    "immediate": [
+      102
+    ],
+    "delayed": [
+      104,
+      108
+    ],
+    "crossContext": [
+      121,
+      141
+    ],
+    "advancedReuse": [
+      181,
+      221
+    ]
+  },
+  "gram_a2_participle_relative_clause_future_kh": {
+    "conceptId": "gram_a2_participle_relative_clause_future_kh",
+    "introUnit": 101,
+    "immediate": [
+      102
+    ],
+    "delayed": [
+      104,
+      108
+    ],
+    "crossContext": [
+      121,
+      141
+    ],
+    "advancedReuse": [
+      181,
+      221
+    ]
+  },
+  "gram_a2_participle_negative_aagui": {
+    "conceptId": "gram_a2_participle_negative_aagui",
+    "introUnit": 101,
+    "immediate": [
+      102
+    ],
+    "delayed": [
+      104,
+      108
+    ],
+    "crossContext": [
+      121,
+      141
+    ],
+    "advancedReuse": [
+      181,
+      221
+    ]
+  },
+  "gram_a2_converb_concessive_vch_bolovch": {
+    "conceptId": "gram_a2_converb_concessive_vch_bolovch",
+    "introUnit": 105,
+    "immediate": [
+      106
+    ],
+    "delayed": [
+      108,
+      111
+    ],
+    "crossContext": [
+      125,
+      145
+    ],
+    "advancedReuse": [
+      185,
+      225
+    ]
+  },
+  "gram_a2_converb_terminative_tal": {
+    "conceptId": "gram_a2_converb_terminative_tal",
+    "introUnit": 107,
+    "immediate": [
+      108
+    ],
+    "delayed": [
+      110,
+      111
+    ],
+    "crossContext": [
+      127,
+      147
+    ],
+    "advancedReuse": [
+      187,
+      227
+    ]
+  },
+  "gram_a2_indefinite_pronouns_negation": {
+    "conceptId": "gram_a2_indefinite_pronouns_negation",
+    "introUnit": 108,
+    "immediate": [
+      109
+    ],
+    "delayed": [
+      111
+    ],
+    "crossContext": [
+      128,
+      148
+    ],
+    "advancedReuse": [
+      188,
+      228
+    ]
+  },
+  "gram_a2_verb_future_deductive_kh_bolno": {
+    "conceptId": "gram_a2_verb_future_deductive_kh_bolno",
+    "introUnit": 110,
+    "immediate": [
+      111
+    ],
+    "delayed": [
+      111
+    ],
+    "crossContext": [
+      130,
+      150
+    ],
+    "advancedReuse": [
+      190,
+      230
+    ]
+  },
+  "gram_b1_noun_derivation_abstract_dal_laga": {
+    "conceptId": "gram_b1_noun_derivation_abstract_dal_laga",
+    "introUnit": 112,
+    "immediate": [
+      113
+    ],
+    "delayed": [
+      115,
+      120
+    ],
+    "crossContext": [
+      137,
+      162
+    ],
+    "advancedReuse": [
+      187
+    ]
+  },
+  "gram_b1_verb_derivation_denominal_lakh": {
+    "conceptId": "gram_b1_verb_derivation_denominal_lakh",
+    "introUnit": 113,
+    "immediate": [
+      114
+    ],
+    "delayed": [
+      116,
+      121
+    ],
+    "crossContext": [
+      138,
+      163
+    ],
+    "advancedReuse": [
+      188
+    ]
+  },
+  "gram_b1_voice_causative_uul_lga": {
+    "conceptId": "gram_b1_voice_causative_uul_lga",
+    "introUnit": 115,
+    "immediate": [
+      116
+    ],
+    "delayed": [
+      118,
+      123
+    ],
+    "crossContext": [
+      140,
+      165
+    ],
+    "advancedReuse": [
+      190
+    ]
+  },
+  "gram_b1_voice_causative_argument_structure": {
+    "conceptId": "gram_b1_voice_causative_argument_structure",
+    "introUnit": 116,
+    "immediate": [
+      117
+    ],
+    "delayed": [
+      119,
+      124
+    ],
+    "crossContext": [
+      141,
+      166
+    ],
+    "advancedReuse": [
+      191
+    ]
+  },
+  "gram_b1_voice_passive_gd": {
+    "conceptId": "gram_b1_voice_passive_gd",
+    "introUnit": 117,
+    "immediate": [
+      118
+    ],
+    "delayed": [
+      120,
+      125
+    ],
+    "crossContext": [
+      142,
+      167
+    ],
+    "advancedReuse": [
+      192
+    ]
+  },
+  "gram_b1_voice_reciprocal_collective": {
+    "conceptId": "gram_b1_voice_reciprocal_collective",
+    "introUnit": 118,
+    "immediate": [
+      119
+    ],
+    "delayed": [
+      121,
+      126
+    ],
+    "crossContext": [
+      143,
+      168
+    ],
+    "advancedReuse": [
+      193
+    ]
+  },
+  "gram_b1_aspect_intensive_chih_complete": {
+    "conceptId": "gram_b1_aspect_intensive_chih_complete",
+    "introUnit": 119,
+    "immediate": [
+      120
+    ],
+    "delayed": [
+      122,
+      127
+    ],
+    "crossContext": [
+      144,
+      169
+    ],
+    "advancedReuse": [
+      194
+    ]
+  },
+  "gram_b1_reported_speech_indirect_tense_shift": {
+    "conceptId": "gram_b1_reported_speech_indirect_tense_shift",
+    "introUnit": 123,
+    "immediate": [
+      124
+    ],
+    "delayed": [
+      126,
+      131
+    ],
+    "crossContext": [
+      148,
+      173
+    ],
+    "advancedReuse": [
+      198
+    ]
+  },
+  "gram_b1_clause_causal_uchir_uchraas_tul": {
+    "conceptId": "gram_b1_clause_causal_uchir_uchraas_tul",
+    "introUnit": 126,
+    "immediate": [
+      127
+    ],
+    "delayed": [
+      129,
+      134
+    ],
+    "crossContext": [
+      151,
+      176
+    ],
+    "advancedReuse": [
+      201
+    ]
+  },
+  "gram_b1_converb_contemporaneous_magts": {
+    "conceptId": "gram_b1_converb_contemporaneous_magts",
+    "introUnit": 127,
+    "immediate": [
+      128
+    ],
+    "delayed": [
+      130,
+      135
+    ],
+    "crossContext": [
+      152,
+      177
+    ],
+    "advancedReuse": [
+      202
+    ]
+  },
+  "gram_b1_converb_durative_saar": {
+    "conceptId": "gram_b1_converb_durative_saar",
+    "introUnit": 128,
+    "immediate": [
+      129
+    ],
+    "delayed": [
+      131,
+      136
+    ],
+    "crossContext": [
+      153,
+      178
+    ],
+    "advancedReuse": [
+      203
+    ]
+  },
+  "gram_b1_converb_modal_manner_n": {
+    "conceptId": "gram_b1_converb_modal_manner_n",
+    "introUnit": 129,
+    "immediate": [
+      130
+    ],
+    "delayed": [
+      132,
+      137
+    ],
+    "crossContext": [
+      154,
+      179
+    ],
+    "advancedReuse": [
+      204
+    ]
+  },
+  "gram_b1_converb_limiting_ngaa": {
+    "conceptId": "gram_b1_converb_limiting_ngaa",
+    "introUnit": 130,
+    "immediate": [
+      131
+    ],
+    "delayed": [
+      133,
+      138
+    ],
+    "crossContext": [
+      155,
+      180
+    ],
+    "advancedReuse": [
+      205
+    ]
+  },
+  "gram_b1_converb_abnutative_lgui": {
+    "conceptId": "gram_b1_converb_abnutative_lgui",
+    "introUnit": 131,
+    "immediate": [
+      132
+    ],
+    "delayed": [
+      134,
+      139
+    ],
+    "crossContext": [
+      156,
+      181
+    ],
+    "advancedReuse": [
+      206
+    ]
+  },
+  "gram_b1_epistemic_probability_bololtoi_magadgui": {
+    "conceptId": "gram_b1_epistemic_probability_bololtoi_magadgui",
+    "introUnit": 132,
+    "immediate": [
+      133
+    ],
+    "delayed": [
+      135,
+      140
+    ],
+    "crossContext": [
+      157,
+      182
+    ],
+    "advancedReuse": [
+      207
+    ]
+  },
+  "gram_b1_nominalization_participles_cases": {
+    "conceptId": "gram_b1_nominalization_participles_cases",
+    "introUnit": 137,
+    "immediate": [
+      138
+    ],
+    "delayed": [
+      140,
+      145
+    ],
+    "crossContext": [
+      162,
+      187
+    ],
+    "advancedReuse": [
+      212
+    ]
+  },
+  "gram_b1_subordinate_subject_marking_genitive": {
+    "conceptId": "gram_b1_subordinate_subject_marking_genitive",
+    "introUnit": 138,
+    "immediate": [
+      139
+    ],
+    "delayed": [
+      141,
+      146
+    ],
+    "crossContext": [
+      163,
+      188
+    ],
+    "advancedReuse": [
+      213
+    ]
+  },
+  "gram_b1_clause_purposive_tuld_tuloo": {
+    "conceptId": "gram_b1_clause_purposive_tuld_tuloo",
+    "introUnit": 139,
+    "immediate": [
+      140
+    ],
+    "delayed": [
+      142,
+      147
+    ],
+    "crossContext": [
+      164,
+      189
+    ],
+    "advancedReuse": [
+      214
+    ]
+  },
+  "gram_b1_participle_agentive_gch": {
+    "conceptId": "gram_b1_participle_agentive_gch",
+    "introUnit": 140,
+    "immediate": [
+      141
+    ],
+    "delayed": [
+      143,
+      148
+    ],
+    "crossContext": [
+      165,
+      190
+    ],
+    "advancedReuse": [
+      215
+    ]
+  },
+  "gram_b1_postpositions_similative_shig_adil_met": {
+    "conceptId": "gram_b1_postpositions_similative_shig_adil_met",
+    "introUnit": 141,
+    "immediate": [
+      142
+    ],
+    "delayed": [
+      144,
+      149
+    ],
+    "crossContext": [
+      166,
+      191
+    ],
+    "advancedReuse": [
+      216
+    ]
+  },
+  "gram_b1_clause_temporal_omno_daraa_yed": {
+    "conceptId": "gram_b1_clause_temporal_omno_daraa_yed",
+    "introUnit": 142,
+    "immediate": [
+      143
+    ],
+    "delayed": [
+      145,
+      150
+    ],
+    "crossContext": [
+      167,
+      192
+    ],
+    "advancedReuse": [
+      217
+    ]
+  },
+  "gram_b1_evidentiality_hearsay_gene_suragtai": {
+    "conceptId": "gram_b1_evidentiality_hearsay_gene_suragtai",
+    "introUnit": 152,
+    "immediate": [
+      153
+    ],
+    "delayed": [
+      155
+    ],
+    "crossContext": [
+      177,
+      202
+    ],
+    "advancedReuse": [
+      227
+    ]
+  },
+  "gram_b2_information_structure_topic_bol_harin": {
+    "conceptId": "gram_b2_information_structure_topic_bol_harin",
+    "introUnit": 156,
+    "immediate": [
+      157
+    ],
+    "delayed": [
+      159,
+      162
+    ],
+    "crossContext": [
+      181,
+      201
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_information_structure_exclusive_focus_l": {
+    "conceptId": "gram_b2_information_structure_exclusive_focus_l",
+    "introUnit": 157,
+    "immediate": [
+      158
+    ],
+    "delayed": [
+      160,
+      163
+    ],
+    "crossContext": [
+      182,
+      202
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_converb_chaining_discourse": {
+    "conceptId": "gram_b2_converb_chaining_discourse",
+    "introUnit": 158,
+    "immediate": [
+      159
+    ],
+    "delayed": [
+      161,
+      164
+    ],
+    "crossContext": [
+      183,
+      203
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_converb_chaining_switch_reference": {
+    "conceptId": "gram_b2_converb_chaining_switch_reference",
+    "introUnit": 159,
+    "immediate": [
+      160
+    ],
+    "delayed": [
+      162,
+      165
+    ],
+    "crossContext": [
+      184,
+      204
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_discourse_connectors_rhetorical": {
+    "conceptId": "gram_b2_discourse_connectors_rhetorical",
+    "introUnit": 160,
+    "immediate": [
+      161
+    ],
+    "delayed": [
+      163,
+      166
+    ],
+    "crossContext": [
+      185,
+      205
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_discourse_causal_consequence_uuden_ulmaar": {
+    "conceptId": "gram_b2_discourse_causal_consequence_uuden_ulmaar",
+    "introUnit": 161,
+    "immediate": [
+      162
+    ],
+    "delayed": [
+      164,
+      167
+    ],
+    "crossContext": [
+      186,
+      206
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_particles_emphatic_nuance": {
+    "conceptId": "gram_b2_particles_emphatic_nuance",
+    "introUnit": 162,
+    "immediate": [
+      163
+    ],
+    "delayed": [
+      165,
+      168
+    ],
+    "crossContext": [
+      187,
+      207
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_converb_gradual_proportional_tusam": {
+    "conceptId": "gram_b2_converb_gradual_proportional_tusam",
+    "introUnit": 168,
+    "immediate": [
+      169
+    ],
+    "delayed": [
+      171,
+      174
+    ],
+    "crossContext": [
+      193,
+      213
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_converb_durative_adversative_saar_baital": {
+    "conceptId": "gram_b2_converb_durative_adversative_saar_baital",
+    "introUnit": 169,
+    "immediate": [
+      170
+    ],
+    "delayed": [
+      172,
+      175
+    ],
+    "crossContext": [
+      194,
+      214
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_converb_negative_framing_guigeer": {
+    "conceptId": "gram_b2_converb_negative_framing_guigeer",
+    "introUnit": 170,
+    "immediate": [
+      171
+    ],
+    "delayed": [
+      173,
+      176
+    ],
+    "crossContext": [
+      195,
+      215
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_voice_stacking_causative_passive": {
+    "conceptId": "gram_b2_voice_stacking_causative_passive",
+    "introUnit": 171,
+    "immediate": [
+      172
+    ],
+    "delayed": [
+      174,
+      177
+    ],
+    "crossContext": [
+      196,
+      216
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_voice_double_causative_delegated": {
+    "conceptId": "gram_b2_voice_double_causative_delegated",
+    "introUnit": 172,
+    "immediate": [
+      173
+    ],
+    "delayed": [
+      175,
+      178
+    ],
+    "crossContext": [
+      197,
+      217
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_conditionals_counterfactual_past": {
+    "conceptId": "gram_b2_conditionals_counterfactual_past",
+    "introUnit": 173,
+    "immediate": [
+      174
+    ],
+    "delayed": [
+      176,
+      179
+    ],
+    "crossContext": [
+      198,
+      218
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_concessive_contrast_vch_gesen": {
+    "conceptId": "gram_b2_concessive_contrast_vch_gesen",
+    "introUnit": 180,
+    "immediate": [
+      181
+    ],
+    "delayed": [
+      183,
+      186
+    ],
+    "crossContext": [
+      205,
+      225
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_epistemic_stance_biz_baih": {
+    "conceptId": "gram_b2_epistemic_stance_biz_baih",
+    "introUnit": 181,
+    "immediate": [
+      182
+    ],
+    "delayed": [
+      184,
+      187
+    ],
+    "crossContext": [
+      206,
+      226
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_epistemic_appearance_shig_baiana_yanzytai": {
+    "conceptId": "gram_b2_epistemic_appearance_shig_baiana_yanzytai",
+    "introUnit": 182,
+    "immediate": [
+      183
+    ],
+    "delayed": [
+      185,
+      188
+    ],
+    "crossContext": [
+      207,
+      227
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_indirect_discourse_framing_verbs": {
+    "conceptId": "gram_b2_indirect_discourse_framing_verbs",
+    "introUnit": 183,
+    "immediate": [
+      184
+    ],
+    "delayed": [
+      186,
+      189
+    ],
+    "crossContext": [
+      208,
+      228
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_limiting_scalar_particles_buu_khel": {
+    "conceptId": "gram_b2_limiting_scalar_particles_buu_khel",
+    "introUnit": 184,
+    "immediate": [
+      185
+    ],
+    "delayed": [
+      187,
+      190
+    ],
+    "crossContext": [
+      209,
+      229
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_purposive_distinctions_gej_khaar_tuld": {
+    "conceptId": "gram_b2_purposive_distinctions_gej_khaar_tuld",
+    "introUnit": 188,
+    "immediate": [
+      189
+    ],
+    "delayed": [
+      191,
+      194
+    ],
+    "crossContext": [
+      213,
+      233
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_conditionals_hypothetical_present": {
+    "conceptId": "gram_b2_conditionals_hypothetical_present",
+    "introUnit": 189,
+    "immediate": [
+      190
+    ],
+    "delayed": [
+      192,
+      195
+    ],
+    "crossContext": [
+      214,
+      234
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_modal_complex_obligation_uchirtai": {
+    "conceptId": "gram_b2_modal_complex_obligation_uchirtai",
+    "introUnit": 190,
+    "immediate": [
+      191
+    ],
+    "delayed": [
+      193,
+      196
+    ],
+    "crossContext": [
+      215,
+      235
+    ],
+    "advancedReuse": []
+  },
+  "gram_b2_participle_relative_subject_genitive_alternation": {
+    "conceptId": "gram_b2_participle_relative_subject_genitive_alternation",
+    "introUnit": 191,
+    "immediate": [
+      192
+    ],
+    "delayed": [
+      194,
+      197
+    ],
+    "crossContext": [
+      216,
+      236
+    ],
+    "advancedReuse": []
+  },
+  "gram_c1_administrative_chancellery_syntax": {
+    "conceptId": "gram_c1_administrative_chancellery_syntax",
+    "introUnit": 198,
+    "immediate": [
+      199
+    ],
+    "delayed": [
+      201,
+      205
+    ],
+    "crossContext": [
+      218
+    ],
+    "advancedReuse": []
+  },
+  "gram_c1_archaic_jussive_sugai_tugai": {
+    "conceptId": "gram_c1_archaic_jussive_sugai_tugai",
+    "introUnit": 199,
+    "immediate": [
+      200
+    ],
+    "delayed": [
+      202,
+      206
+    ],
+    "crossContext": [
+      219
+    ],
+    "advancedReuse": []
+  },
+  "gram_c1_legal_statutory_framing": {
+    "conceptId": "gram_c1_legal_statutory_framing",
+    "introUnit": 200,
+    "immediate": [
+      201
+    ],
+    "delayed": [
+      203,
+      207
+    ],
+    "crossContext": [
+      220
+    ],
+    "advancedReuse": []
+  },
+  "gram_c1_complex_appositive_titles_and_epithets": {
+    "conceptId": "gram_c1_complex_appositive_titles_and_epithets",
+    "introUnit": 201,
+    "immediate": [
+      202
+    ],
+    "delayed": [
+      204,
+      208
+    ],
+    "crossContext": [
+      221
+    ],
+    "advancedReuse": []
+  },
+  "gram_c1_causative_nominalizations_in_governance": {
+    "conceptId": "gram_c1_causative_nominalizations_in_governance",
+    "introUnit": 202,
+    "immediate": [
+      203
+    ],
+    "delayed": [
+      205,
+      209
+    ],
+    "crossContext": [
+      222
+    ],
+    "advancedReuse": []
+  },
+  "gram_c1_academic_nominalization_frames": {
+    "conceptId": "gram_c1_academic_nominalization_frames",
+    "introUnit": 208,
+    "immediate": [
+      209
+    ],
+    "delayed": [
+      211,
+      215
+    ],
+    "crossContext": [
+      228
+    ],
+    "advancedReuse": []
+  },
+  "gram_c1_academic_hedging_and_epistemic_stance": {
+    "conceptId": "gram_c1_academic_hedging_and_epistemic_stance",
+    "introUnit": 209,
+    "immediate": [
+      210
+    ],
+    "delayed": [
+      212,
+      216
+    ],
+    "crossContext": [
+      229
+    ],
+    "advancedReuse": []
+  },
+  "gram_c1_journalistic_evidential_distancing": {
+    "conceptId": "gram_c1_journalistic_evidential_distancing",
+    "introUnit": 210,
+    "immediate": [
+      211
+    ],
+    "delayed": [
+      213,
+      217
+    ],
+    "crossContext": [
+      230
+    ],
+    "advancedReuse": []
+  },
+  "gram_c1_rhetorical_inversion_and_clefting": {
+    "conceptId": "gram_c1_rhetorical_inversion_and_clefting",
+    "introUnit": 211,
+    "immediate": [
+      212
+    ],
+    "delayed": [
+      214,
+      218
+    ],
+    "crossContext": [
+      231
+    ],
+    "advancedReuse": []
+  },
+  "gram_c1_adversative_concessive_connectors_formal": {
+    "conceptId": "gram_c1_adversative_concessive_connectors_formal",
+    "introUnit": 212,
+    "immediate": [
+      213
+    ],
+    "delayed": [
+      215,
+      219
+    ],
+    "crossContext": [
+      232
+    ],
+    "advancedReuse": []
+  },
+  "gram_c1_register_switching_matrix": {
+    "conceptId": "gram_c1_register_switching_matrix",
+    "introUnit": 218,
+    "immediate": [
+      219
+    ],
+    "delayed": [
+      221,
+      225
+    ],
+    "crossContext": [
+      238
+    ],
+    "advancedReuse": []
+  },
+  "gram_c1_honorific_lexical_verbs": {
+    "conceptId": "gram_c1_honorific_lexical_verbs",
+    "introUnit": 219,
+    "immediate": [
+      220
+    ],
+    "delayed": [
+      222,
+      226
+    ],
+    "crossContext": [
+      239
+    ],
+    "advancedReuse": []
+  },
+  "gram_c1_honorific_suppletive_existentials": {
+    "conceptId": "gram_c1_honorific_suppletive_existentials",
+    "introUnit": 220,
+    "immediate": [
+      221
+    ],
+    "delayed": [
+      223,
+      227
+    ],
+    "crossContext": [
+      240
+    ],
+    "advancedReuse": []
+  },
+  "gram_c1_honorific_nouns_and_somatic_terms": {
+    "conceptId": "gram_c1_honorific_nouns_and_somatic_terms",
+    "introUnit": 221,
+    "immediate": [
+      222
+    ],
+    "delayed": [
+      224,
+      228
+    ],
+    "crossContext": [
+      241
+    ],
+    "advancedReuse": []
+  },
+  "gram_c1_honorific_humble_forms_object_elevation": {
+    "conceptId": "gram_c1_honorific_humble_forms_object_elevation",
+    "introUnit": 222,
+    "immediate": [
+      223
+    ],
+    "delayed": [
+      225,
+      228
+    ],
+    "crossContext": [
+      242
+    ],
+    "advancedReuse": []
+  },
+  "gram_c1_honorific_imperative_gtun_no_uu": {
+    "conceptId": "gram_c1_honorific_imperative_gtun_no_uu",
+    "introUnit": 223,
+    "immediate": [
+      224
+    ],
+    "delayed": [
+      226,
+      228
+    ],
+    "crossContext": [
+      243
+    ],
+    "advancedReuse": []
+  },
+  "gram_c1_classical_converbs_vaas_khuits": {
+    "conceptId": "gram_c1_classical_converbs_vaas_khuits",
+    "introUnit": 224,
+    "immediate": [
+      225
+    ],
+    "delayed": [
+      227,
+      228
+    ],
+    "crossContext": [
+      244
+    ],
+    "advancedReuse": []
+  },
+  "gram_c1_classical_temporal_khlaar": {
+    "conceptId": "gram_c1_classical_temporal_khlaar",
+    "introUnit": 224,
+    "immediate": [
+      225
+    ],
+    "delayed": [
+      227,
+      228
+    ],
+    "crossContext": [
+      244
+    ],
+    "advancedReuse": []
+  },
+  "gram_c1_classical_quotative_khemeen": {
+    "conceptId": "gram_c1_classical_quotative_khemeen",
+    "introUnit": 224,
+    "immediate": [
+      225
+    ],
+    "delayed": [
+      227,
+      228
+    ],
+    "crossContext": [
+      244
+    ],
+    "advancedReuse": []
+  },
+  "gram_c1_classical_participle_khui": {
+    "conceptId": "gram_c1_classical_participle_khui",
+    "introUnit": 224,
+    "immediate": [
+      225
+    ],
+    "delayed": [
+      227,
+      228
+    ],
+    "crossContext": [
+      244
+    ],
+    "advancedReuse": []
+  },
+  "gram_c2_rapid_khalkha_spoken_phonotactics": {
+    "conceptId": "gram_c2_rapid_khalkha_spoken_phonotactics",
+    "introUnit": 229,
+    "immediate": [
+      230
+    ],
+    "delayed": [
+      231
+    ],
+    "crossContext": [],
+    "advancedReuse": []
+  },
+  "gram_c2_conversational_repair_and_discourse_particles": {
+    "conceptId": "gram_c2_conversational_repair_and_discourse_particles",
+    "introUnit": 230,
+    "immediate": [
+      231
+    ],
+    "delayed": [
+      232
+    ],
+    "crossContext": [],
+    "advancedReuse": []
+  },
+  "gram_c2_conversational_tag_consensus_markers": {
+    "conceptId": "gram_c2_conversational_tag_consensus_markers",
+    "introUnit": 231,
+    "immediate": [
+      232
+    ],
+    "delayed": [
+      233
+    ],
+    "crossContext": [],
+    "advancedReuse": []
+  },
+  "gram_c2_pragmatic_irony_and_understatement": {
+    "conceptId": "gram_c2_pragmatic_irony_and_understatement",
+    "introUnit": 232,
+    "immediate": [
+      233
+    ],
+    "delayed": [
+      234
+    ],
+    "crossContext": [],
+    "advancedReuse": []
+  },
+  "gram_c2_somatic_idiomatic_metaphors": {
+    "conceptId": "gram_c2_somatic_idiomatic_metaphors",
+    "introUnit": 233,
+    "immediate": [
+      234
+    ],
+    "delayed": [
+      235
+    ],
+    "crossContext": [],
+    "advancedReuse": []
+  },
+  "gram_c2_satirical_polemical_framing": {
+    "conceptId": "gram_c2_satirical_polemical_framing",
+    "introUnit": 234,
+    "immediate": [
+      235
+    ],
+    "delayed": [
+      236
+    ],
+    "crossContext": [],
+    "advancedReuse": []
+  },
+  "gram_c2_literary_polyphony_and_indirect_interior_monologue": {
+    "conceptId": "gram_c2_literary_polyphony_and_indirect_interior_monologue",
+    "introUnit": 235,
+    "immediate": [
+      236
+    ],
+    "delayed": [
+      237
+    ],
+    "crossContext": [],
+    "advancedReuse": []
+  },
+  "gram_c2_dialectal_morphosyntax_awareness": {
+    "conceptId": "gram_c2_dialectal_morphosyntax_awareness",
+    "introUnit": 236,
+    "immediate": [
+      237
+    ],
+    "delayed": [
+      238
+    ],
+    "crossContext": [],
+    "advancedReuse": []
+  },
+  "gram_c2_classical_epic_syntax_secret_history": {
+    "conceptId": "gram_c2_classical_epic_syntax_secret_history",
+    "introUnit": 239,
+    "immediate": [
+      240
+    ],
+    "delayed": [
+      241
+    ],
+    "crossContext": [
+      247
+    ],
+    "advancedReuse": []
+  },
+  "gram_c2_archaic_case_morphology_secret_history": {
+    "conceptId": "gram_c2_archaic_case_morphology_secret_history",
+    "introUnit": 240,
+    "immediate": [
+      241
+    ],
+    "delayed": [
+      242
+    ],
+    "crossContext": [],
+    "advancedReuse": []
+  },
+  "gram_c2_legal_constitutional_clause_architecture": {
+    "conceptId": "gram_c2_legal_constitutional_clause_architecture",
+    "introUnit": 243,
+    "immediate": [
+      244
+    ],
+    "delayed": [
+      245
+    ],
+    "crossContext": [],
+    "advancedReuse": []
+  },
+  "gram_c2_seamless_register_navigating": {
+    "conceptId": "gram_c2_seamless_register_navigating",
+    "introUnit": 244,
+    "immediate": [
+      245
+    ],
+    "delayed": [
+      246
+    ],
+    "crossContext": [],
+    "advancedReuse": []
+  },
+  "gram_c2_proverbial_syntactic_compression": {
+    "conceptId": "gram_c2_proverbial_syntactic_compression",
+    "introUnit": 247,
+    "immediate": [
+      248
+    ],
+    "delayed": [
+      249
+    ],
+    "crossContext": [],
+    "advancedReuse": []
+  },
+  "gram_c2_rhetorical_parallelism_alliteration": {
+    "conceptId": "gram_c2_rhetorical_parallelism_alliteration",
+    "introUnit": 248,
+    "immediate": [
+      249
+    ],
+    "delayed": [
+      250,
+      252
+    ],
+    "crossContext": [],
+    "advancedReuse": []
+  },
+  "gram_c2_syntactic_parallelism_in_verse": {
+    "conceptId": "gram_c2_syntactic_parallelism_in_verse",
+    "introUnit": 249,
+    "immediate": [
+      250
+    ],
+    "delayed": [
+      251
+    ],
+    "crossContext": [],
+    "advancedReuse": []
+  },
+  "gram_c2_ceremonial_blessing_formulaic_syntax": {
+    "conceptId": "gram_c2_ceremonial_blessing_formulaic_syntax",
+    "introUnit": 252,
+    "immediate": [
+      253
+    ],
+    "delayed": [
+      254
+    ],
+    "crossContext": [],
+    "advancedReuse": []
+  },
+  "gram_c2_praise_poetry_cataloguing_syntax": {
+    "conceptId": "gram_c2_praise_poetry_cataloguing_syntax",
+    "introUnit": 253,
+    "immediate": [
+      254
+    ],
+    "delayed": [
+      255
+    ],
+    "crossContext": [],
+    "advancedReuse": []
+  },
+  "gram_c2_supreme_stylistic_authorship": {
+    "conceptId": "gram_c2_supreme_stylistic_authorship",
+    "introUnit": 254,
+    "immediate": [
+      255
+    ],
+    "delayed": [
+      256
+    ],
+    "crossContext": [],
+    "advancedReuse": []
+  }
+}

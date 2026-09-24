@@ -1,0 +1,1707 @@
+[
+  {
+    "sectionId": "sec_pre_a1_01_cyrillic_graphemes_vowels",
+    "cefrLevel": "Pre-A1",
+    "sequencePosition": 1,
+    "title": "Cyrillic Script Literacy & Primary Vowel Systems",
+    "mongolianTitle": "Монгол кирилл цагаан толгой ба үндсэн эгшиг",
+    "description": "Establish foundational grapheme-phoneme correspondences for the 35 Cyrillic letters, mastering standard alphabetical collation, handwritten vs printed recognition, and the core 7 short vowels plus the distinct Mongolian letters Ө and Ү.",
+    "communicativePurpose": "Enable the learner to read isolated Cyrillic characters, identify own name in Cyrillic, sound out simple one-syllable words, and operate a standard Mongolian Cyrillic keyboard.",
+    "grammarScope": "Pre-morphological foundational stage: letter-sound correspondence, distinction between vowels and consonants, basic word boundaries.",
+    "phonologyScope": "35-letter Cyrillic inventory, 7 cardinal short vowels [a, i, ɔ, ʊ, o, u, e], non-Russian unique vowels Ө [o] and Ү [u], Latin-Cyrillic false friends (В, Н, Р, Х, У, С).",
+    "lexicalScope": "Foundational alphabet vocabulary (letter names), cardinal digits 0-5, basic classroom prompts (унш, бич, сонс).",
+    "readingGoals": [
+      "Recognize all 35 uppercase and lowercase Cyrillic characters in print and screen fonts.",
+      "Accurately sound out CV and CVC monosyllabic nonsense and real words."
+    ],
+    "listeningGoals": [
+      "Discriminate between close back and front rounded vowels (О vs Ө, У vs Ү).",
+      "Identify letter names recited in standard Mongolian alphabetical order."
+    ],
+    "writingGoals": [
+      "Transcribe dictated letters and monosyllabic words accurately in Cyrillic script.",
+      "Locate and input Mongolian characters on a standard computer keyboard or mobile keypad."
+    ],
+    "spokenProductionGoals": [
+      "Articulate isolated phonemes without Russian or English palatal interference.",
+      "Read aloud single-syllable words with accurate vowel quality."
+    ],
+    "pragmaticRegisterGoals": [
+      "Understand teacher-led instructional cues in a formal classroom or app onboarding setting."
+    ],
+    "culturalContext": "Historical adoption of the 35-letter Cyrillic script in 1941 designed by Ts. Damdinsüren, its coexistence with traditional Mongolian script, and modern digital keyboard layout conventions in Ulaanbaatar.",
+    "prerequisiteSectionIds": [],
+    "primaryCompetencyIds": [
+      "macro_a1_social_survival"
+    ],
+    "secondaryReviewCompetencyIds": [],
+    "grammarConceptIdsIntroduced": [],
+    "grammarConceptIdsReinforced": [],
+    "communicativeFunctionIds": [],
+    "lexicalDomainIds": [
+      "lex_a1_core_greetings_courtesy"
+    ],
+    "expectedOutcome": "The learner can recognize, pronounce, and type all 35 Cyrillic letters, reliably distinguishing Mongolian-specific Ө and Ү from standard Cyrillic letters."
+  },
+  {
+    "sectionId": "sec_pre_a1_02_syllables_vowel_harmony_formulae",
+    "cefrLevel": "Pre-A1",
+    "sequencePosition": 2,
+    "title": "Syllable Structure, Vowel Harmony & Emergent Survival Formulae",
+    "mongolianTitle": "Үеийн бүтэц, эгшиг зохицох ёс ба анхан шатны хэллэг",
+    "description": "Expand phonological competence to long vowel pairs, basic diphthongs, iotated vowels (я, е, ё, ю), masculine vs feminine back/front vowel harmony, and primary formulaic survival greetings.",
+    "communicativePurpose": "Enable learners to greet peers and elders politely, introduce their own name, express simple thanks, and read signs displaying common names, public signs, and digits 1-10.",
+    "grammarScope": "Introduction to root vowel harmony constraints (эр/эм эгшиг), initial concept of the zero-copula identity sentence frame, and uninflected nominative noun usage.",
+    "phonologyScope": "Long vowel double-spelling (аа, оо, уу, ээ, өө, үү, ий), diphthongs (ай, ой, уй, үй, эй), iotated vowels (я, е, ё, ю), basic back/front masculine/feminine vowel harmony (эр, эм эгшиг).",
+    "lexicalScope": "Cardinal numbers 1–10, primary greeting and departure formulae (Сайн байна уу, Сайн уу, Баярлалаа, Баяртай), primary family address terms.",
+    "readingGoals": [
+      "Read disyllabic words conforming to regular vowel harmony patterns.",
+      "Identify common public store and street signs (Эмийн сан, Номын дэлгүүр, Кафе)."
+    ],
+    "listeningGoals": [
+      "Distinguish between long vowels and short vowels in minimal pairs (e.g. шар vs шаар, хол vs хоол).",
+      "Recognize formulaic greetings in spoken conversation."
+    ],
+    "writingGoals": [
+      "Spell own full name and country of origin in Cyrillic.",
+      "Write cardinal numbers 1–10 in both digits and Cyrillic orthography."
+    ],
+    "spokenProductionGoals": [
+      "Produce standard respectful greeting 'Сайн байна уу' and peer greeting 'Сайн уу' with natural prosody.",
+      "Recite digits 1-10 fluently."
+    ],
+    "pragmaticRegisterGoals": [
+      "Distinguish respectful elder greeting address ('Та сайн байна уу') from informal peer greeting ('Сайн уу')."
+    ],
+    "culturalContext": "Social sanctity of greetings in Mongolian culture; eye contact, gentle handshake or nod, and the unacceptability of skipping greetings when entering a room or physical ger.",
+    "prerequisiteSectionIds": [
+      "sec_pre_a1_01_cyrillic_graphemes_vowels"
+    ],
+    "primaryCompetencyIds": [
+      "macro_a1_social_survival"
+    ],
+    "secondaryReviewCompetencyIds": [],
+    "grammarConceptIdsIntroduced": [],
+    "grammarConceptIdsReinforced": [],
+    "communicativeFunctionIds": [
+      "comm_a1_01_formulaic_greetings",
+      "comm_a1_04_expressing_gratitude"
+    ],
+    "lexicalDomainIds": [
+      "lex_a1_core_greetings_courtesy",
+      "lex_a1_numerals_time_calendar"
+    ],
+    "expectedOutcome": "The learner reliably distinguishes short vs long vowels and back vs front harmony, spells personal names, and accurately exchanges survival greetings and farewells."
+  },
+  {
+    "sectionId": "sec_a1_01_identity_courtesy_nominal_clauses",
+    "cefrLevel": "A1",
+    "sequencePosition": 3,
+    "title": "Identity, Courtesy & Nominal Equational Clauses",
+    "mongolianTitle": "Танилцах, мэндлэх ба нэрийн өгүүлбэр",
+    "description": "Systematize basic personal identification, nationalities, occupations, and zero-copula equational clauses, polar questions, and negative nominal predication.",
+    "communicativePurpose": "Introduce oneself and others, state nationality, profession, exchange elder salutations, apologize, and ask basic yes/no identity questions.",
+    "grammarScope": "Zero-copula nominal sentences, demonstrative pronouns (энэ/тэр/эдгээр/тэдгээр), polar question particles (уу/үү/юу/юү), negative nominal copula (биш), personal pronouns nominative (би, чи, та, тэр, бид, та нар, тэд), unmarked nominative case.",
+    "phonologyScope": "Fourfold vowel harmony in question particles (уу/үү vs юу/юү after vowels), soft and hard signs (ь, ъ) in personal names.",
+    "lexicalScope": "Names of countries, nationalities, languages, professions, courtesy expressions, titles of respect (багш, эмч, гуай).",
+    "readingGoals": [
+      "Read short business cards, ID badges, and biographical registration forms.",
+      "Understand short dialogic introductions in graphic formats."
+    ],
+    "listeningGoals": [
+      "Extract personal names, nationalities, and occupations from spoken introductions.",
+      "Differentiate polar questions ending in -уу/-үү from statements."
+    ],
+    "writingGoals": [
+      "Fill out a simple biographical form with name, nationality, age, and profession.",
+      "Compose short 3-sentence self-introductions in Cyrillic."
+    ],
+    "spokenProductionGoals": [
+      "Deliver a 1-minute self-introduction stating name, home country, mother tongue, and occupation.",
+      "Ask peers and elders polite questions regarding their identity."
+    ],
+    "pragmaticRegisterGoals": [
+      "Consistently deploy respectful pronoun 'Та' and elder title 'гуай' when addressing seniors."
+    ],
+    "culturalContext": "Naming traditions in Mongolia (patronymic + given name), historical absence of traditional Western surnames, respectful address protocols in contemporary urban and rural life.",
+    "prerequisiteSectionIds": [
+      "sec_pre_a1_02_syllables_vowel_harmony_formulae"
+    ],
+    "primaryCompetencyIds": [
+      "macro_a1_social_survival"
+    ],
+    "secondaryReviewCompetencyIds": [],
+    "grammarConceptIdsIntroduced": [
+      "gram_a1_nominal_predicate_zero_copula",
+      "gram_a1_nominal_negation_bish",
+      "gram_a1_sov_word_order",
+      "gram_a1_polar_questions_uu_uu",
+      "gram_a1_pronouns_personal_nominative",
+      "gram_a1_pronouns_demonstrative_ene_ter",
+      "gram_a1_case_nominative_unmarked"
+    ],
+    "grammarConceptIdsReinforced": [],
+    "communicativeFunctionIds": [
+      "comm_a1_02_formal_elder_greetings",
+      "comm_a1_03_departures_farewells",
+      "comm_a1_05_apologies_pardon",
+      "comm_a1_06_self_introduction_name",
+      "comm_a1_07_origin_nationality",
+      "comm_a1_08_professions_occupations",
+      "comm_a1_09_introducing_others"
+    ],
+    "lexicalDomainIds": [
+      "lex_a1_core_greetings_courtesy"
+    ],
+    "expectedOutcome": "The learner can engage in standard social introductions, ask and answer identity and nationality questions, and correctly structure equational sentences."
+  },
+  {
+    "sectionId": "sec_a1_02_physical_space_quantities_locative",
+    "cefrLevel": "A1",
+    "sequencePosition": 4,
+    "title": "Physical Space, Quantities & Locative-Accusative Predication",
+    "mongolianTitle": "Орон зайн байршил, тоо хэмжээ ба заах-орших тийн ялгал",
+    "description": "Develop the ability to locate concrete objects in space, specify quantities and prices, express existence and absence (байна / байхгүй / алга), and distinguish definite direct objects with the Accusative case.",
+    "communicativePurpose": "Describe classroom and domestic environments, ask where items or facilities are located, understand prices, shop for basic commodities, and report what is present or missing.",
+    "grammarScope": "Existential verb (байх/байна/байхгүй/алга), Dative-Locative case (-д/-т), Accusative case (-ыг/-ийг/-г/-нийг) for definite direct objects, cardinal numerals 1-1,000,000, noun plural markers (-ууд/-үүд, -чууд/-чүүд, -нар, -д), content question particles (бэ/вэ).",
+    "phonologyScope": "Fourfold suffix harmony for accusative case (-ыг/-ийг/-оог/-өөг after stems), epenthesis of linking 'н' before case suffixes in hidden-n stems (нууц н).",
+    "lexicalScope": "Classroom objects, furniture, basic building locations (өрөө, давхар, жорлон, хаалга), currency (төгрөг), cardinal numbers, demonstratives.",
+    "readingGoals": [
+      "Read price tags, floor directories, and office door signage.",
+      "Understand inventory lists and simple descriptive sentences about a room."
+    ],
+    "listeningGoals": [
+      "Extract monetary prices, telephone numbers, and floor numbers from rapid native speech.",
+      "Comprehend locations indicated with dative-locative phrases."
+    ],
+    "writingGoals": [
+      "Write a short 5-line description of a study room or office cataloguing items and locations.",
+      "Record prices and contact numbers accurately from dictation."
+    ],
+    "spokenProductionGoals": [
+      "Ask for the location of amenities (ATM, restroom, bus stop) and comprehend directions.",
+      "State what items one possesses or what is available in a room."
+    ],
+    "pragmaticRegisterGoals": [
+      "Use polite inquiry questions with 'бэ/вэ' and 'уу/үү' appropriately."
+    ],
+    "culturalContext": "Mongolian currency (төгрөг) notes featuring Chinggis Khaan and Sükhbaatar, cash vs mobile app payments (QPay) in modern Mongolia, spatial orientation basics.",
+    "prerequisiteSectionIds": [
+      "sec_a1_01_identity_courtesy_nominal_clauses"
+    ],
+    "primaryCompetencyIds": [
+      "macro_a1_physical_environment"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a1_social_survival"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_a1_existential_baina_baihgui",
+      "gram_a1_content_questions_be_ve",
+      "gram_a1_noun_plural_markers",
+      "gram_a1_numerals_cardinal_counting",
+      "gram_a1_case_accusative_definite",
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_classifiers_measure_words"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_a1_nominal_predicate_zero_copula",
+      "gram_a1_sov_word_order",
+      "gram_a1_polar_questions_uu_uu",
+      "gram_a1_pronouns_demonstrative_ene_ter"
+    ],
+    "communicativeFunctionIds": [
+      "comm_a1_10_identifying_objects",
+      "comm_a1_12_location_simple_objects",
+      "comm_a1_13_numbers_counting_1_to_100",
+      "comm_a1_14_phone_numbers_contact",
+      "comm_a1_34_classroom_instructions",
+      "comm_a1_35_asking_language_clarification"
+    ],
+    "lexicalDomainIds": [
+      "lex_a1_numerals_time_calendar",
+      "lex_a1_housing_ger_household"
+    ],
+    "expectedOutcome": "The learner can describe spatial locations, state existence/non-existence, understand and quote prices up to millions, and accurately mark definite direct objects."
+  },
+  {
+    "sectionId": "sec_a1_03_daily_routines_motion_temporality",
+    "cefrLevel": "A1",
+    "sequencePosition": 5,
+    "title": "Daily Routines, Movement & Temporal Sequencing",
+    "mongolianTitle": "Өдөр тутмын хэв маяг, хөдөлгөөн ба цаг хугацаа",
+    "description": "Introduce verbal inflections for daily routines, habituality (-даг), witnessed past events (-лаа), motion to and from locations using Ablative and Directive cases, and clock time.",
+    "communicativePurpose": "Discuss daily schedules, wake-up and work times, describe simple commutes, tell time, talk about days of the week, and narrate what happened earlier today.",
+    "grammarScope": "Habitual present participle (-даг/-дэг/-дог/-дөг), witnessed recent past (-лаа/-лээ/-лоо/-лөө), Ablative case (-аас/-ээс/-оос/-өөс) of origin/departure, Dative-Locative temporal usage, dictionary verb form (-х), coordinating converb (-ж/-ч), telling time.",
+    "phonologyScope": "Assimilation of converb suffix -ж/-ч after unvoiced obstruents (с, т, х, ц, ч, ш), reduction of unstressed short vowels in verbal inflections.",
+    "lexicalScope": "Common daily action verbs (босох, унтах, ажиллах, сурах, идэх, уух, явах, ирэх), days of the week (Даваа, Мягмар...), times of day (өглөө, өдөр, орой), clock time terminology.",
+    "readingGoals": [
+      "Read daily schedules, opening hours on shop doors, and simple personal agendas.",
+      "Comprehend short diary entries recounting a routine workday."
+    ],
+    "listeningGoals": [
+      "Identify times, days, and scheduled actions in broadcast announcements or dialogues.",
+      "Recognize the difference between habitual (-даг) and completed recent past (-лаа) actions."
+    ],
+    "writingGoals": [
+      "Write a chronological 6-sentence paragraph describing one's daily routine from morning to night.",
+      "Draft a simple weekly schedule of classes or work shifts."
+    ],
+    "spokenProductionGoals": [
+      "Describe one's typical day and weekend habits in response to open questions.",
+      "State precise arrival and departure times for meetings or transit."
+    ],
+    "pragmaticRegisterGoals": [
+      "Inquire politely about someone's schedule using time expressions with dative-locative."
+    ],
+    "culturalContext": "Workday rhythms in Ulaanbaatar, traffic rush hours (түгжрэл), traditional Mongolian time divisions vs modern digital timekeeping, Sunday family habits.",
+    "prerequisiteSectionIds": [
+      "sec_a1_02_physical_space_quantities_locative"
+    ],
+    "primaryCompetencyIds": [
+      "macro_a1_time_routines_transport"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a1_physical_environment"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_a1_case_dative_locative_temporal",
+      "gram_a1_case_ablative_origin",
+      "gram_a1_verb_dictionary_infinitive_kh",
+      "gram_a1_verb_tense_present_habitual_dag",
+      "gram_a1_verb_tense_past_witnessed_laa",
+      "gram_a1_converb_coordinating_j_ch",
+      "gram_a1_telling_time_clock_calendar"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_a1_sov_word_order",
+      "gram_a1_case_accusative_definite",
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_numerals_cardinal_counting"
+    ],
+    "communicativeFunctionIds": [
+      "comm_a1_24_asking_clock_time",
+      "comm_a1_25_days_of_the_week",
+      "comm_a1_26_dates_months_calendar",
+      "comm_a1_27_daily_routines_morning_evening",
+      "comm_a1_28_asking_directions_street",
+      "comm_a1_29_taking_public_bus"
+    ],
+    "lexicalDomainIds": [
+      "lex_a1_numerals_time_calendar",
+      "lex_a2_urban_navigation_transit"
+    ],
+    "expectedOutcome": "The learner can describe recurring routines, express exact clock times and calendar dates, describe movement from origin to destination, and report recent activities."
+  },
+  {
+    "sectionId": "sec_a1_04_food_hospitality_dining_transactions",
+    "cefrLevel": "A1",
+    "sequencePosition": 6,
+    "title": "Food, Hospitality, Dining & Basic Social Exchange",
+    "mongolianTitle": "Хоол хүнс, зочлох ёсон ба энгийн харилцаа",
+    "description": "Equip learners to navigate restaurant dining, food shopping, express preferences, make polite requests (-аарай), suggest collaborative actions (-я), and participate respectfully in Mongolian food hospitality.",
+    "communicativePurpose": "Order meals and beverages, ask about ingredients, settle bills, negotiate grocery purchases, express food likes/dislikes, and follow ger hospitality customs.",
+    "grammarScope": "Instrumental case (-аар/-ээр/-оор/-өөр) of means/substance, Comitative case (-тай/-тэй/-той) of possession/accompaniment, volitional intention suffix (-я/-е/-ё), polite imperative/optative (-аарай/-ээрэй), sequential converb (-аад/-ээд).",
+    "phonologyScope": "Vowel lengthening in polite imperative suffixes, pronunciation of diphthongs in food items (цай, шар тос, хуушуур).",
+    "lexicalScope": "Mongolian traditional cuisine (бууз, хуушуур, цуйван, банш, сүүтэй цай, ааруул), restaurant cutlery/dishes, ingredients (мах, ногоо, давс), market units (кило, ширхэг).",
+    "readingGoals": [
+      "Read authentic Mongolian restaurant menus and decipher dish ingredients.",
+      "Interpret grocery store receipts and nutritional/ingredient labels."
+    ],
+    "listeningGoals": [
+      "Comprehend waitstaff questions regarding orders, beverages, and payment methods.",
+      "Understand requests and hospitality offerings when entering a home or yurt."
+    ],
+    "writingGoals": [
+      "Write a shopping list of food items categorized by market stall.",
+      "Draft a simple restaurant review stating what was ordered and whether it was good."
+    ],
+    "spokenProductionGoals": [
+      "Order food and drinks at a canteen or restaurant, specifying modifications politely.",
+      "Propose going to eat together using volitional verb forms ('Цуйван идье')."
+    ],
+    "pragmaticRegisterGoals": [
+      "Formulate polite requests with -аарай rather than direct bare imperatives."
+    ],
+    "culturalContext": "Sacred status of tea and dairy (цагаан идээ) in Mongolian hospitality; customs of presenting food with both hands; etiquette of receiving food with right hand supported by left elbow.",
+    "prerequisiteSectionIds": [
+      "sec_a1_03_daily_routines_motion_temporality"
+    ],
+    "primaryCompetencyIds": [
+      "macro_a1_food_and_commerce"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a1_social_survival"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_a1_case_comitative_accompaniment",
+      "gram_a1_case_comitative_possession_predicates",
+      "gram_a1_verb_volitional_intention_ya",
+      "gram_a1_verb_imperative_polite_aarai",
+      "gram_a1_converb_sequential_aad",
+      "gram_a1_noun_phrase_attributive_adjective"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_a1_case_accusative_definite",
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_existential_baina_baihgui",
+      "gram_a1_polar_questions_uu_uu"
+    ],
+    "communicativeFunctionIds": [
+      "comm_a1_17_ordering_basic_food",
+      "comm_a1_18_ordering_drinks_tea",
+      "comm_a1_19_inquiring_food_ingredients",
+      "comm_a1_20_asking_bill_payment",
+      "comm_a1_21_grocery_market_quantities",
+      "comm_a1_22_shopping_clothing_sizes",
+      "comm_a1_23_bargaining_clarifying_price",
+      "comm_a1_32_likes_dislikes_simple"
+    ],
+    "lexicalDomainIds": [
+      "lex_a1_food_dining_traditional",
+      "lex_a2_shopping_commerce_clothing"
+    ],
+    "expectedOutcome": "The learner can order food, inquire about ingredients, pay bills, shop at local open markets, and display appropriate table manners in both urban and rural contexts."
+  },
+  {
+    "sectionId": "sec_a1_05_family_kinship_possession_immediate_environment",
+    "cefrLevel": "A1",
+    "sequencePosition": 7,
+    "title": "Kinship, Reflexive Possession & Immediate Surroundings",
+    "mongolianTitle": "Гэр бүл, төрөл садан, өөрийн хамаарал ба хүрээлэн буй орчин",
+    "description": "Consolidate the A1 stage by mastering nuclear family kinship relations, genitive possession, possessive pronouns, progressive aspect (-ж байна), past perfective (-сан), and basic environmental descriptions.",
+    "communicativePurpose": "Describe family members, talk about relationships and marital status, describe one's home/ger, discuss the weather, and synthesize basic personal stories.",
+    "grammarScope": "Genitive case (-ын/-ийн/-ний/-ны), possessive pronouns (миний, чиний, түүний, манай), past perfective participle (-сан/-сэн/-сон/-сөн), progressive aspect (-ж байна), prohibitive particle (битгий), spatial postpositions (дээр, доор, дотор, гадаа).",
+    "phonologyScope": "Secret 'н' (нууц н) surfacing before genitive and ablative suffixes (мод -> модны, нар -> нарны).",
+    "lexicalScope": "Kinship terms (аав, ээж, ах, эгч, дүү, өвөө, эмээ), family milestones, rooms and ger layout terms, weather phenomena (бороо, цас, нар, салхи, хүйтэн, халуун).",
+    "readingGoals": [
+      "Read short letters or emails from friends describing their families and hometowns.",
+      "Understand simple weather forecasts published in daily newspapers or mobile apps."
+    ],
+    "listeningGoals": [
+      "Identify family relationships and ages in spoken personal narratives.",
+      "Comprehend weather reports indicating temperatures and conditions."
+    ],
+    "writingGoals": [
+      "Write an 8-sentence illustrated profile of one's family detailing names, ages, and occupations.",
+      "Compose a short postcard describing the weather and one's current activities."
+    ],
+    "spokenProductionGoals": [
+      "Give a presentation with a family tree diagram introducing relatives.",
+      "Describe what is happening right now using ongoing progressive forms (-ж байна)."
+    ],
+    "pragmaticRegisterGoals": [
+      "Apply respectful kinship terms (ах, эгч) as honorific titles when addressing older peers."
+    ],
+    "culturalContext": "Deep cultural respect for lineage (ураг төрөл), generational hierarchy within the family, ger spatial orientation (хоймор, баруун, зүүн), and traditional pastoral weather observations.",
+    "prerequisiteSectionIds": [
+      "sec_a1_04_food_hospitality_dining_transactions"
+    ],
+    "primaryCompetencyIds": [
+      "macro_a1_social_survival",
+      "macro_a1_physical_environment"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a1_food_and_commerce",
+      "macro_a1_time_routines_transport"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_a1_case_genitive_possession",
+      "gram_a1_possessive_pronouns_minii_chiniih",
+      "gram_a1_verb_aspect_progressive_j_baina",
+      "gram_a1_verb_tense_past_perfective_san",
+      "gram_a1_verb_tense_future_prospective_na",
+      "gram_a1_verb_prohibitive_bitgii",
+      "gram_a1_pronouns_personal_oblique_stems",
+      "gram_a1_pronouns_demonstrative_case_declension",
+      "gram_a1_interrogatives_case_declension",
+      "gram_a1_spatial_postpositions_deeree_door",
+      "gram_a1_verb_urging_optative_aach",
+      "gram_a1_verb_jussive_third_person_g",
+      "gram_a1_case_dative_locative_recipient",
+      "gram_a1_case_ablative_comparative"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_a1_nominal_predicate_zero_copula",
+      "gram_a1_existential_baina_baihgui",
+      "gram_a1_case_accusative_definite",
+      "gram_a1_verb_tense_present_habitual_dag",
+      "gram_a1_converb_coordinating_j_ch"
+    ],
+    "communicativeFunctionIds": [
+      "comm_a1_11_ownership_possession",
+      "comm_a1_15_family_nuclear_members",
+      "comm_a1_16_family_size_marital_status",
+      "comm_a1_30_hailing_street_taxi",
+      "comm_a1_31_weather_seasons_basic",
+      "comm_a1_33_hobbies_free_time"
+    ],
+    "lexicalDomainIds": [
+      "lex_a1_kinship_family",
+      "lex_a1_housing_ger_household"
+    ],
+    "expectedOutcome": "The learner attains comprehensive A1 survival competence: introducing extended family, articulating ownership and location, narrating ongoing and past events, and reading everyday notices."
+  },
+  {
+    "sectionId": "sec_a2_01_city_navigation_transit_public_encounters",
+    "cefrLevel": "A2",
+    "sequencePosition": 8,
+    "title": "Urban Transit, Wayfinding & Public Space Encounters",
+    "mongolianTitle": "Хот доторх зорчилт, зам асуух ба нийтийн үйлчилгээ",
+    "description": "Equip learners to navigate Ulaanbaatar and provincial centres independently, use buses and taxis, ask multi-step directions, understand public transit schedules, and deploy directional cases and converbs.",
+    "communicativePurpose": "Navigate urban spaces, hail street taxis, purchase intercity bus and train tickets, understand transport announcements, and follow complex spatial directions.",
+    "grammarScope": "Directive case (-руу/-рүү) expanded uses, Instrumental case of transport and route (-аар), modal converb (-н simultaneous actions), coordinating converb (-ж/-ч clause chains), comparative constructions with Ablative (-аас илүү/дутуу).",
+    "phonologyScope": "Voiceless stops in cluster environments during rapid street navigation speech, intonation of clarification questions.",
+    "lexicalScope": "Transit terminology (автобус, такси, буудал, чиглэл, тасалбар, карт, цэнэглэх), urban landmarks (төв талбай, их дэлгүүр, гүүр, уулзвар), directional terms (баруун тийш, зүүн тийш, чигээрээ).",
+    "readingGoals": [
+      "Read bus route maps, train schedules, and digital transit screens.",
+      "Understand street signs, intersection banners, and public safety announcements."
+    ],
+    "listeningGoals": [
+      "Comprehend automated bus stop announcements and taxi driver questions.",
+      "Follow spoken directions containing three or more consecutive turns and landmarks."
+    ],
+    "writingGoals": [
+      "Write step-by-step travel instructions guiding a friend from the airport to a downtown apartment.",
+      "Send SMS updates detailing transit delays and expected arrival times."
+    ],
+    "spokenProductionGoals": [
+      "Direct a taxi driver through complex intersections using precise directional terminology.",
+      "Inquire at ticket counters about schedules, ticket availability, and seat classes."
+    ],
+    "pragmaticRegisterGoals": [
+      "Engage politely with service personnel using polite request suffixes (-аарай) and respectful address."
+    ],
+    "culturalContext": "Informal taxi culture in Ulaanbaatar (private cars acting as street taxis), UB Smart Bus card system, understanding Ulaanbaatar's unique landmark-based address conventions (no street numbers historically).",
+    "prerequisiteSectionIds": [
+      "sec_a1_05_family_kinship_possession_immediate_environment"
+    ],
+    "primaryCompetencyIds": [
+      "macro_a2_practical_survival_services"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a1_time_routines_transport"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_a2_case_instrumental_means",
+      "gram_a2_case_instrumental_transport_language",
+      "gram_a2_case_directional_towards",
+      "gram_a2_adverbial_comparative_shig_adil_met"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_case_ablative_origin",
+      "gram_a1_telling_time_clock_calendar"
+    ],
+    "communicativeFunctionIds": [
+      "comm_a2_17_giving_multistep_directions",
+      "comm_a2_18_buying_bus_train_tickets"
+    ],
+    "lexicalDomainIds": [
+      "lex_a2_urban_navigation_transit"
+    ],
+    "expectedOutcome": "The learner can navigate urban transit networks independently, hail and instruct taxis, buy transport tickets, and give and follow multi-step street directions."
+  },
+  {
+    "sectionId": "sec_a2_02_commerce_services_transactional_bargaining",
+    "cefrLevel": "A2",
+    "sequencePosition": 9,
+    "title": "Commerce, Clothing, Tailoring & Service Appointments",
+    "mongolianTitle": "Худалдаа үйлчилгээ, дэлгүүр хэсэх ба захиалга",
+    "description": "Master interactions in markets, shopping malls, tailor shops, banks, and post offices, utilizing comparative and superlative structures, conditional converbs (-бал), and reflexive possession.",
+    "communicativePurpose": "Purchase clothes, traditional deel garments, exchange currency, open a bank account, send parcels, bargain at open-air markets, and schedule service appointments.",
+    "grammarScope": "Reflexive-possessive suffix base (-аа/-ээ/-оо/-өө), reflexive case combinations (-аараа, -тайгаа, -аасаа), superlative particle (хамгийн, туйлын), conditional converb (-бал/-бэл/-бол/-бөл), ordinal numerals (-дахь/-дэх, -дугаар/-дүгээр).",
+    "phonologyScope": "Long vowel harmony in reflexive suffixes attached to inflected nominal stems, phonetic shifts in numerals before suffixes.",
+    "lexicalScope": "Clothing, fabrics (торго, ноос, ноолуур, даавуу), traditional garments (дээл, бүс, малгай, гутал), banking terms (данс, шилжүүлэг, ханш, карт), postal and courier terminology.",
+    "readingGoals": [
+      "Read promotional flyers, discount terms, and clothing care labels.",
+      "Understand bank receipt summaries, transaction confirmations, and ATM prompts."
+    ],
+    "listeningGoals": [
+      "Understand market vendors explaining prices, materials, and alterations.",
+      "Comprehend service desk agents outlining requirements for opening accounts or shipping parcels."
+    ],
+    "writingGoals": [
+      "Complete a customs declaration or postal parcel dispatch form.",
+      "Write a short message to a merchant requesting a different size or color."
+    ],
+    "spokenProductionGoals": [
+      "Compare two items in terms of price, quality, and origin, justifying preference.",
+      "Engage in courteous bargaining at Naran Tuul market without violating social norms."
+    ],
+    "pragmaticRegisterGoals": [
+      "Use appropriate register for commercial bargaining vs formal banking transactions."
+    ],
+    "culturalContext": "The social geography of Naran Tuul (Black Market), the prestige of cashmere and traditional deel craftsmanship, bank digitisation in contemporary Mongolia.",
+    "prerequisiteSectionIds": [
+      "sec_a2_01_city_navigation_transit_public_encounters"
+    ],
+    "primaryCompetencyIds": [
+      "macro_a2_practical_survival_services"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a1_food_and_commerce"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_a2_reflexive_possessive_base",
+      "gram_a2_reflexive_case_combinations",
+      "gram_a2_possessive_third_person_enclitic_ni",
+      "gram_a2_numerals_ordinal",
+      "gram_a2_numerals_collective_approximate",
+      "gram_a2_converb_conditional_val"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_a1_case_comitative_possession_predicates",
+      "gram_a1_case_accusative_definite",
+      "gram_a1_numerals_cardinal_counting"
+    ],
+    "communicativeFunctionIds": [
+      "comm_a2_19_postal_and_parcel_services",
+      "comm_a2_20_banking_atm_currency_exchange",
+      "comm_a2_23_comparing_items_places",
+      "comm_a2_24_superlative_best_in_town"
+    ],
+    "lexicalDomainIds": [
+      "lex_a2_shopping_commerce_clothing"
+    ],
+    "expectedOutcome": "The learner can conduct diverse retail and service transactions, bargain respectfully, use financial services, and describe material goods using comparative and superlative grammar."
+  },
+  {
+    "sectionId": "sec_a2_03_health_wellness_body_consultations",
+    "cefrLevel": "A2",
+    "sequencePosition": 10,
+    "title": "Health, Wellness, Anatomy & Medical Encounters",
+    "mongolianTitle": "Эрүүл мэнд, бие махбод ба эмнэлгийн тусламж",
+    "description": "Provide learners with the language needed to describe bodily symptoms, consult doctors, buy over-the-counter medicine, understand medical instructions, and express rules and obligations.",
+    "communicativePurpose": "Describe illness symptoms, interact at pharmacies, schedule medical appointments, explain allergies, understand prescription dosages, and talk about healthy routines.",
+    "grammarScope": "Modal expression of obligation and necessity (-х хэрэгтэй, -х ёстой), modal expression of ability/inability (-ж чадах/чадахгүй, ядах), temporal converb (-хад/-хэд 'when/at the time of'), prohibitive constructions, resultative converb (-аад).",
+    "phonologyScope": "Consonant epenthesis in complex medical terms, stress placement in multi-syllable anatomical vocabulary.",
+    "lexicalScope": "Human body parts (толгой, хоолой, гэдэс, шүд, нүд, нуруу, гар, хөл), symptoms (өвдөх, халуурах, ханиалгах, даарах), medications (эм, тариа, тос, цацлага), dosage instructions (өдөрт гурван удаа).",
+    "readingGoals": [
+      "Read medicine package inserts, dosage schedules, and pharmacy warning labels.",
+      "Understand appointment reminder cards and clinic operating guidelines."
+    ],
+    "listeningGoals": [
+      "Comprehend a physician's inquiries regarding symptoms, duration, and medical history.",
+      "Understand pharmacist advice on whether to take medication before or after meals."
+    ],
+    "writingGoals": [
+      "Write an email or note to an employer or teacher explaining an absence due to illness.",
+      "Note down doctor's instructions regarding dietary restrictions and medication timing."
+    ],
+    "spokenProductionGoals": [
+      "Describe bodily discomfort clearly to a triage nurse or physician.",
+      "Express obligations and rules regarding workplace health and safety."
+    ],
+    "pragmaticRegisterGoals": [
+      "Adopt a calm, precise tone in medical consultations, adhering to polite doctor-patient norms."
+    ],
+    "culturalContext": "Integration of modern Western medicine and Traditional Mongolian Medicine (Уламжлалт анагаах ухаан, pulse diagnosis, herbal teas), etiquette of visiting sick friends.",
+    "prerequisiteSectionIds": [
+      "sec_a2_02_commerce_services_transactional_bargaining"
+    ],
+    "primaryCompetencyIds": [
+      "macro_a2_practical_survival_services"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a1_physical_environment"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_a2_converb_temporal_while_khad",
+      "gram_a2_modal_obligation_heregtei_yostoi",
+      "gram_a2_modal_permission_possibility_bolno",
+      "gram_a2_modal_ability_yadah_chadah"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_a1_verb_imperative_polite_aarai",
+      "gram_a1_verb_prohibitive_bitgii",
+      "gram_a1_telling_time_clock_calendar"
+    ],
+    "communicativeFunctionIds": [
+      "comm_a2_11_scheduling_rescheduling_meetings",
+      "comm_a2_12_medical_symptoms_doctor",
+      "comm_a2_13_buying_medicine_pharmacy",
+      "comm_a2_21_expressing_obligation_rules",
+      "comm_a2_22_requesting_granting_permission"
+    ],
+    "lexicalDomainIds": [
+      "lex_a2_health_body_medicine"
+    ],
+    "expectedOutcome": "The learner can navigate medical visits, purchase pharmaceuticals, describe symptoms and pain accurately, understand treatment schedules, and communicate health emergencies."
+  },
+  {
+    "sectionId": "sec_a2_04_narratives_memories_social_invitations",
+    "cefrLevel": "A2",
+    "sequencePosition": 11,
+    "title": "Extended Family, Personal History, Social Invitations & Plans",
+    "mongolianTitle": "Дурсамж өгүүлэх, урилга хүлээн авах ба төлөвлөгөө",
+    "description": "Develop connected paragraph-level past narrative ability, social hosting, extending and declining invitations, reporting speech (гэж хэлэх), and expressing future intentions.",
+    "communicativePurpose": "Narrate past weekend and vacation experiences, describe childhood memories, introduce extended family, invite acquaintances to social gatherings, and report third-party conversations.",
+    "grammarScope": "Narrative past tense (-в), resultative past (-жээ/-чээ), reported speech framing (гэж хэлэх / гэж асуух), participle relative clauses (past -сан, habitual -даг, future -х), negative participle (-аагүй), purposive converb (-хаар/-хээр).",
+    "phonologyScope": "Intonation curves in reported clauses, rhythm of parenthetical speech framing particles (гэж).",
+    "lexicalScope": "Extended family terminology (авга, нагац, хүргэн, бэр, үеэл), personality adjectives (эелдэг, даруу, сэргэлэн, нөхөрсөг), social leisure activities, celebration milestones.",
+    "readingGoals": [
+      "Read personal letters, blog posts about travel, and narrative social media updates.",
+      "Understand formal and informal invitations to weddings, birthdays, and dinners."
+    ],
+    "listeningGoals": [
+      "Follow narratives of personal history and childhood recollections in conversational speed.",
+      "Recognize indirect invitations and politely couched excuses for declining."
+    ],
+    "writingGoals": [
+      "Write a 10-line narrative of an unforgettable vacation or holiday celebration.",
+      "Compose an invitation message and respond gracefully to invitations."
+    ],
+    "spokenProductionGoals": [
+      "Tell a continuous 2-minute personal story about one's hometown or schooling.",
+      "Report what a mutual friend said using indirect reported speech."
+    ],
+    "pragmaticRegisterGoals": [
+      "Decline invitations gracefully with softening particles (харин, уучлаарай, завгүй байна) to preserve social face."
+    ],
+    "culturalContext": "Paternal (авга) vs maternal (нагац) kinship clan distinctions, wedding and milestone celebration protocols, importance of social reciprocity in Mongolian hospitality.",
+    "prerequisiteSectionIds": [
+      "sec_a2_03_health_wellness_body_consultations"
+    ],
+    "primaryCompetencyIds": [
+      "macro_a2_personal_history_and_social"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a1_social_survival"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_a2_participle_relative_clause_past_san",
+      "gram_a2_participle_relative_clause_habitual_dag",
+      "gram_a2_participle_relative_clause_future_kh",
+      "gram_a2_participle_negative_aagui",
+      "gram_a2_converb_purposive_khaar",
+      "gram_a2_reported_speech_gej_kheleh",
+      "gram_a2_verb_past_recent_witnessed_laa",
+      "gram_a2_verb_habitual_present_dag",
+      "gram_a2_verb_past_narrative_v",
+      "gram_a2_verb_past_resultative_zhee",
+      "gram_a2_participle_desire_inclination_maar"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_a1_converb_sequential_aad",
+      "gram_a1_case_genitive_possession",
+      "gram_a1_verb_volitional_intention_ya"
+    ],
+    "communicativeFunctionIds": [
+      "comm_a2_01_describing_extended_family",
+      "comm_a2_02_describing_appearance_clothing",
+      "comm_a2_03_describing_personality_character",
+      "comm_a2_06_weekend_activities_past",
+      "comm_a2_07_childhood_hometown_memories",
+      "comm_a2_08_vacation_travel_experiences",
+      "comm_a2_09_making_accepting_invitations",
+      "comm_a2_10_declining_invitations_excuses",
+      "comm_a2_25_reporting_third_party_speech",
+      "comm_a2_27_expressing_future_intentions",
+      "comm_a2_30_congratulations_milestones"
+    ],
+    "lexicalDomainIds": [
+      "lex_a1_kinship_family",
+      "lex_a2_housing_ger_household"
+    ],
+    "expectedOutcome": "The learner can sustain multi-sentence past narratives, recount memories, use relative clauses, manage social invitations, and report third-party statements."
+  },
+  {
+    "sectionId": "sec_a2_05_nomadic_countryside_ger_etiquette_livestock",
+    "cefrLevel": "A2",
+    "sequencePosition": 12,
+    "title": "Nomadic Pastoralism, Countryside Travel & Domestic Living",
+    "mongolianTitle": "Нүүдлийн ахуй, хөдөө орон нутаг ба мал маллагаа",
+    "description": "Immerse the learner in the linguistic and cultural realities of rural Mongolia, nomadic livestock (Таван хошуу мал), ger etiquette, countryside homestays, and terminative converbs (-тал).",
+    "communicativePurpose": "Communicate respectfully during countryside visits, understand herding terminology, discuss the five animals, describe housing and rental options, and manage travel logistics.",
+    "grammarScope": "Terminative converb (-тал/-тэл 'until / as soon as'), Concessive converb (-вч / боловч 'although'), indefinite pronouns with negation (юу ч биш, хаашаа ч үгүй), future deductive verb form (-х болно), causative verb base (-уул/-үүл).",
+    "phonologyScope": "Pastoral acoustic calls for herding animals, regional Khalkha vowel variations.",
+    "lexicalScope": "The Five Animals (хонь, ямаа, үхэр, адуу, тэмээ), ages/genders of livestock, pastoral products (сүүн бүтээгдэхүүн, айраг, эсгий), ger architecture (тооно, унь, багана, хана, босго), countryside terrain.",
+    "readingGoals": [
+      "Read short articles and travel guides on rural aimags, ger camps, and national parks.",
+      "Understand countryside homestay regulations and cultural guidelines."
+    ],
+    "listeningGoals": [
+      "Follow countryside hosts describing herding routines, weather signs, and seasonal moves.",
+      "Understand spoken instructions on horse riding and ger etiquette."
+    ],
+    "writingGoals": [
+      "Write an informational guide for foreign travelers on proper etiquette inside a Mongolian ger.",
+      "Describe a visit to a nomadic encampment including daily activities and meals."
+    ],
+    "spokenProductionGoals": [
+      "Inquire about livestock herds, pasture conditions, and seasonal encampments with rural hosts.",
+      "Describe one's living space, apartment rental preferences, or countryside accommodations."
+    ],
+    "pragmaticRegisterGoals": [
+      "Observe deep cultural taboos in speech (avoiding ominous prognostications or stepping on the threshold)."
+    ],
+    "culturalContext": "Sacred cosmological balance of pastoral nomadism: reverence for nature (байгаль дэлхий), the ger as a microcosm of the universe, milk libation customs (цацал өргөх), and pastoral hospitableness.",
+    "prerequisiteSectionIds": [
+      "sec_a2_04_narratives_memories_social_invitations"
+    ],
+    "primaryCompetencyIds": [
+      "macro_a2_housing_and_hospitality"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a2_practical_survival_services"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_a2_converb_concessive_vch_bolovch",
+      "gram_a2_converb_terminative_tal",
+      "gram_a2_indefinite_pronouns_negation",
+      "gram_a2_verb_future_deductive_kh_bolno"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_a2_converb_conditional_val",
+      "gram_a2_modal_obligation_heregtei_yostoi",
+      "gram_a2_case_instrumental_means"
+    ],
+    "communicativeFunctionIds": [
+      "comm_a2_04_renting_apartment_housing",
+      "comm_a2_05_describing_home_rooms_furniture",
+      "comm_a2_14_countryside_ger_visiting_etiquette",
+      "comm_a2_15_nomadic_livestock_five_animals",
+      "comm_a2_16_seasonal_weather_forecast",
+      "comm_a2_26_simple_recipe_cooking_steps",
+      "comm_a2_28_describing_lost_items",
+      "comm_a2_29_phone_conversations_leaving_messages"
+    ],
+    "lexicalDomainIds": [
+      "lex_a2_five_animals_herding",
+      "lex_a1_housing_ger_household"
+    ],
+    "expectedOutcome": "The learner attains solid A2 competence: handling countryside travel, observing ger etiquette, conversing about nomadic pastoralism, and expressing complex conditional/concessive ideas."
+  },
+  {
+    "sectionId": "sec_b1_01_workplace_careers_institutional_communication",
+    "cefrLevel": "B1",
+    "sequencePosition": 13,
+    "title": "Workplace Communication, Employment & Professional Processes",
+    "mongolianTitle": "Ажлын байр, мэргэжлийн харилцаа ба албан хэрэгцээ",
+    "description": "Launch the B1 threshold by developing professional communication skills, participating in job interviews, drafting formal emails, managing office workflows, and mastering causative and passive voices.",
+    "communicativePurpose": "Present professional qualifications, participate in workplace meetings, write business correspondence, delegate tasks, report unexpected occurrences, and handle customer service issues.",
+    "grammarScope": "Causative voice (-уул/-үүл, -лга/-лгэ), causative argument structure (dative agent), Passive voice (-гд/-гдэ), reciprocal/collective voice (-лц), indirect reported speech tense shifts, intensive aspect (-чих).",
+    "phonologyScope": "Formal spoken register articulation, phonological reduction in rapid business presentations.",
+    "lexicalScope": "Workplace terminology (албан тушаал, үүрэг хариуцлага, гэрээ, цалин, хамт олон, хурал, тайлан), job search terms (CV, өргөдөл, сонгон шалгаруулалт), office software and digital communication.",
+    "readingGoals": [
+      "Read job descriptions, employment contracts, and company internal policy memos.",
+      "Comprehend professional email threads and project status reports."
+    ],
+    "listeningGoals": [
+      "Understand interviewers' multi-part questions during formal job interviews.",
+      "Follow workplace discussions and task assignments during team meetings."
+    ],
+    "writingGoals": [
+      "Write a formal cover letter and professional CV in Mongolian.",
+      "Draft clear business emails requesting meetings, clarifying tasks, or confirming agreements."
+    ],
+    "spokenProductionGoals": [
+      "Deliver a 3-minute presentation outlining one's work experience, skills, and career goals.",
+      "Delegate responsibilities to colleagues using polite causative constructions."
+    ],
+    "pragmaticRegisterGoals": [
+      "Maintain appropriate institutional hierarchy and polite distance in corporate interactions."
+    ],
+    "culturalContext": "Evolving corporate culture in modern Ulaanbaatar, blending traditional respect for senior figures with flat modern tech and international workplace standards, networking etiquette.",
+    "prerequisiteSectionIds": [
+      "sec_a2_05_nomadic_countryside_ger_etiquette_livestock"
+    ],
+    "primaryCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a2_practical_survival_services"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_b1_voice_causative_uul_lga",
+      "gram_b1_voice_causative_argument_structure",
+      "gram_b1_voice_passive_gd",
+      "gram_b1_voice_reciprocal_collective",
+      "gram_b1_reported_speech_indirect_tense_shift",
+      "gram_b1_aspect_intensive_chih_complete",
+      "gram_b1_verb_derivation_denominal_lakh",
+      "gram_b1_noun_derivation_abstract_dal_laga"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_a2_reported_speech_gej_kheleh",
+      "gram_a2_modal_obligation_heregtei_yostoi",
+      "gram_a2_converb_purposive_khaar"
+    ],
+    "communicativeFunctionIds": [
+      "comm_b1_09_participating_job_interview",
+      "comm_b1_10_writing_formal_email_letter",
+      "comm_b1_11_hotel_reservation_complaints",
+      "comm_b1_12_reporting_car_breakdown_repair",
+      "comm_b1_18_delegating_tasks_causative",
+      "comm_b1_19_describing_accidents_unintended_actions",
+      "comm_b1_20_clarifying_misunderstandings",
+      "comm_b1_21_understanding_bank_transactions",
+      "comm_b1_24_discussing_education_career_path"
+    ],
+    "lexicalDomainIds": [
+      "lex_b1_education_career_workplace",
+      "lex_b1_media_digital_society"
+    ],
+    "expectedOutcome": "The learner can engage professionally in office environments, conduct job interviews, compose formal emails, delegate tasks via causative verbs, and describe workplace processes."
+  },
+  {
+    "sectionId": "sec_b1_02_biography_opinion_discourse_causality",
+    "cefrLevel": "B1",
+    "sequencePosition": 14,
+    "title": "Personal Biography, Opinion Discourse & Causality",
+    "mongolianTitle": "Намтар, үзэл бодлоо илэрхийлэх ба шалтгаант холбоос",
+    "description": "Develop the ability to formulate nuanced opinions, express respectful disagreement, build structured arguments with causal and concessive connectors, and narrate complex biographical trajectories.",
+    "communicativePurpose": "Express and defend personal viewpoints, critique books and films, outline causes and consequences of social phenomena, and speculate on hypothetical scenarios.",
+    "grammarScope": "Causal clauses (учраас, тул, учир нь), contemporaneous converb (-магц/-мэгц), durative converb (-саар/-сээр), modal converb (-н), limiting converb (-нгаа/-нгээ), abnutative converb (-лгүй), epistemic probability markers (бололтой, магадгүй).",
+    "phonologyScope": "Intonation of persuasive discourse, pitch accents emphasizing contrastive focus in arguments.",
+    "lexicalScope": "Abstract opinion vocabulary (миний бодлоор, үүднээс, зарчим, үзэл баримтлал, давуу тал, сул тал), evaluative adjectives, biography milestones (төгсөх, томилогдох, шилжих).",
+    "readingGoals": [
+      "Read biographical articles, cultural reviews, and personal opinion columns in newspapers.",
+      "Identify the author's stance, main arguments, and supporting evidence in essays."
+    ],
+    "listeningGoals": [
+      "Follow panel discussions where speakers express differing viewpoints on social trends.",
+      "Distinguish between verified facts and subjective opinions in spoken discourse."
+    ],
+    "writingGoals": [
+      "Write a 250-word structured argumentative text evaluating the advantages and disadvantages of urban vs rural life.",
+      "Compose an autobiographical essay highlighting formative life experiences."
+    ],
+    "spokenProductionGoals": [
+      "Present and defend an argument in a classroom debate, responding constructively to counter-arguments.",
+      "Review a film or book, summarizing the plot and analyzing character motivations."
+    ],
+    "pragmaticRegisterGoals": [
+      "Express disagreement without causing offense using hedging phrases (Таны зөв байж болох ч, нөгөө талаас нь авч үзвэл...)."
+    ],
+    "culturalContext": "Traditional Mongolian rhetorical styles favoring measured, thoughtful speech (дотно, уужуу тайван яриа); avoiding aggressive confrontation; valuing consensus and elder consultation.",
+    "prerequisiteSectionIds": [
+      "sec_b1_01_workplace_careers_institutional_communication"
+    ],
+    "primaryCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_b1_converb_contemporaneous_magts",
+      "gram_b1_converb_durative_saar",
+      "gram_b1_converb_modal_manner_n",
+      "gram_b1_converb_limiting_ngaa",
+      "gram_b1_converb_abnutative_lgui",
+      "gram_b1_clause_causal_uchir_uchraas_tul",
+      "gram_b1_epistemic_probability_bololtoi_magadgui"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_a2_converb_conditional_val",
+      "gram_a2_converb_concessive_vch_bolovch",
+      "gram_a1_converb_sequential_aad"
+    ],
+    "communicativeFunctionIds": [
+      "comm_b1_01_narrating_personal_anecdotes",
+      "comm_b1_02_sequencing_past_chronology",
+      "comm_b1_03_expressing_opinions_agreements",
+      "comm_b1_04_respectful_disagreement",
+      "comm_b1_05_making_causal_arguments",
+      "comm_b1_06_stating_purpose_long_term_goals",
+      "comm_b1_08_speculating_visual_evidence",
+      "comm_b1_16_giving_advice_recommendations",
+      "comm_b1_17_expressing_emotional_reactions",
+      "comm_b1_22_discussing_books_films_reviews",
+      "comm_b1_25_hypothetical_present_wishes"
+    ],
+    "lexicalDomainIds": [
+      "lex_b1_media_digital_society",
+      "lex_b1_education_career_workplace"
+    ],
+    "expectedOutcome": "The learner can state, elaborate, and defend viewpoints, articulate multi-step causal reasoning, narrate personal life histories, and participate in lively discussions."
+  },
+  {
+    "sectionId": "sec_b1_03_geography_aimags_environment_climate",
+    "cefrLevel": "B1",
+    "sequencePosition": 15,
+    "title": "Mongolian Geography, Regional Landscapes & Ecology",
+    "mongolianTitle": "Монгол орны газар зүй, бүс нутаг ба байгаль орчин",
+    "description": "Explore the geographic diversity of Mongolia across its 21 aimags, contrasting the Gobi desert, Altai mountains, and northern taiga, while discussing ecological challenges and regional traditions.",
+    "communicativePurpose": "Describe geographic features, plan travel itineraries across distant aimags, discuss climate change and pasture health, and understand regional cultural distinctions.",
+    "grammarScope": "Nominalization of participles with case inflections, subordinate clause subject marking (genitive subject in relative clauses), purposive clauses (тулд / төлөө), agentive participle (-гч), spatial postpositions with genitive.",
+    "phonologyScope": "Toponymic pronunciation conventions, vowel reductions in compound geographical names.",
+    "lexicalScope": "Geographical landforms (уул нуруу, говь, тал хээр, тайга, нуур, гол, хөндий), administrative units (аймаг, сум, баг), climate vocabulary (ган, зуд, цөлжилт, бэлчээр), flora and fauna.",
+    "readingGoals": [
+      "Read travel guides, geographic profiles of aimags, and environmental protection brochures.",
+      "Understand scientific popular articles on Mongolian endangered wildlife (мазаалай, тахь, ирвэс)."
+    ],
+    "listeningGoals": [
+      "Follow radio documentaries describing regional traditions and ecological initiatives.",
+      "Comprehend weather reports warning of seasonal dust storms (шороон шуурга) or severe frosts."
+    ],
+    "writingGoals": [
+      "Draft a detailed 3-day travel itinerary for an expedition through the South Gobi or Khövsgöl.",
+      "Write a short essay on the ecological importance of preserving nomadic pasture lands."
+    ],
+    "spokenProductionGoals": [
+      "Describe the geography and distinctive products of an aimag (e.g. Uvs sea buckthorn, Arvaikheer horses).",
+      "Discuss environmental challenges like desertification and propose conservation measures."
+    ],
+    "pragmaticRegisterGoals": [
+      "Use respectful terms when referring to sacred mountains (хайрхан, хайрхны нэр цээрлэх) according to local tradition."
+    ],
+    "culturalContext": "Cosmological reverence for nature: Ovoo cairn worship, taboo against digging the earth or washing directly in running river waters, regional dialectal pride among Western Oirat, Buriat, and Khalkha groups.",
+    "prerequisiteSectionIds": [
+      "sec_b1_02_biography_opinion_discourse_causality"
+    ],
+    "primaryCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_b1_nominalization_participles_cases",
+      "gram_b1_subordinate_subject_marking_genitive",
+      "gram_b1_clause_purposive_tuld_tuloo",
+      "gram_b1_participle_agentive_gch",
+      "gram_b1_postpositions_similative_shig_adil_met",
+      "gram_b1_clause_temporal_omno_daraa_yed"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_a2_participle_relative_clause_past_san",
+      "gram_a2_participle_relative_clause_habitual_dag",
+      "gram_a2_participle_relative_clause_future_kh"
+    ],
+    "communicativeFunctionIds": [
+      "comm_b1_13_discussing_environmental_issues",
+      "comm_b1_23_comparing_city_country_lifestyles"
+    ],
+    "lexicalDomainIds": [
+      "lex_b1_geography_landforms_aimags",
+      "lex_b2_ecology_climate_zud"
+    ],
+    "expectedOutcome": "The learner can discuss Mongolian geographic regions, plan complex travel itineraries, analyze environmental issues like desertification, and use nominalized clauses with genitive subjects."
+  },
+  {
+    "sectionId": "sec_b1_04_festivals_naadam_tsagaan_sar_customs",
+    "cefrLevel": "B1",
+    "sequencePosition": 16,
+    "title": "National Celebrations, Naadam, Tsagaan Sar & Cultural Etiquette",
+    "mongolianTitle": "Үндэсний их баяр наадам, Цагаан сар ба ёс заншил",
+    "description": "Deepen cultural competence through detailed exploration of Mongolia's two major national festivals: Naadam (The Three Manly Games) and Tsagaan Sar (Lunar New Year), focusing on ritual greetings, oral blessings, and evidentiality.",
+    "communicativePurpose": "Explain the rules and cultural significance of Naadam wrestling, horse racing, and archery; perform Tsagaan Sar greeting rituals (золгох); understand traditional blessings; report hearsay news.",
+    "grammarScope": "Hearsay evidentiality (гэнэ / сурагтай), blessing optatives and formulaic verbal forms (-болтугай, -тугай/-түгэй), polite formal imperative (-но уу/-нэ үү), recipocal voice in ritual interactions.",
+    "phonologyScope": "Rhythmic cadence of traditional blessing poems (ерөөл), formulaic intonation in formal holiday greetings.",
+    "lexicalScope": "Festival terminology (наадам, баяр, цол, хүчит бөх, хурдан морь, мэргэн харваа), Tsagaan Sar rituals (золгох, сар шинэ, битүүн, идээ засах, ууц тавих, цагаалга), traditional clothing and accessories.",
+    "readingGoals": [
+      "Read newspaper feature stories covering Naadam champions and presidential festival decrees.",
+      "Understand traditional Tsagaan Sar calendar guidelines and astrological advice for the new year."
+    ],
+    "listeningGoals": [
+      "Follow sports commentators broadcasting the Naadam wrestling tournament and horse race finishes.",
+      "Understand elders delivering heartfelt blessings to youth during holiday gatherings."
+    ],
+    "writingGoals": [
+      "Write a formal holiday greeting letter or card wishing prosperity to colleagues and business partners.",
+      "Compose an explanatory article for an international publication describing the cultural meaning of Naadam."
+    ],
+    "spokenProductionGoals": [
+      "Recite traditional festival greetings accurately (e.g. 'Сар шинэдээ сайхан шинэлж байна уу?').",
+      "Explain the rules and historical origin of the Three Manly Games to a foreign guest."
+    ],
+    "pragmaticRegisterGoals": [
+      "Master the specific ceremonial register and physical gestures required during Tsagaan Sar zolgokh (supporting elder arms)."
+    ],
+    "culturalContext": "Intangible cultural heritage: wrestling titles (начин, заан, арслан, аварга), the sacred reverence for horse trainers (уяач), the spiritual renewal of the Lunar New Year, and intergenerational social cohesion.",
+    "prerequisiteSectionIds": [
+      "sec_b1_03_geography_aimags_environment_climate"
+    ],
+    "primaryCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_b1_evidentiality_hearsay_gene_suragtai"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_b1_voice_reciprocal_collective",
+      "gram_a2_verb_past_resultative_zhee",
+      "gram_a1_verb_imperative_polite_aarai"
+    ],
+    "communicativeFunctionIds": [
+      "comm_b1_07_relaying_hearsay_news",
+      "comm_b1_14_traditional_celebrations_tsagaan_sar",
+      "comm_b1_15_naadam_festival_three_games"
+    ],
+    "lexicalDomainIds": [
+      "lex_b1_national_festivals_rituals",
+      "lex_b2_material_culture_horsemanship"
+    ],
+    "expectedOutcome": "The learner achieves full B1 communicative and cultural independence: discussing national heritage, performing holiday rituals, reporting news via evidential markers, and explaining sports traditions."
+  },
+  {
+    "sectionId": "sec_b2_01_public_policy_civil_society_media",
+    "cefrLevel": "B2",
+    "sequencePosition": 17,
+    "title": "Public Policy, Civil Society, Governance & Media Discourse",
+    "mongolianTitle": "Төрийн бодлого, иргэний нийгэм ба хэвлэл мэдээлэл",
+    "description": "Advance to the B2 vantage level by analyzing contemporary public issues, municipal governance in Ulaanbaatar, media reporting, civil society debates, and complex discourse syntax.",
+    "communicativePurpose": "Analyze news editorials, critique government policies, participate in formal structured debates, moderate panel discussions, and draft press releases.",
+    "grammarScope": "Converb chaining in extended discourse, switch-reference constraints in converb clauses, information structure markers (topic бол/харин, exclusive focus л), discourse causal connectors (үүднээс, улмаас), emphatic particles.",
+    "phonologyScope": "Rhetorical pacing, strategic pauses, and emphatic stress patterns in formal debate and journalistic delivery.",
+    "lexicalScope": "Governance terminology (төр засаг, бодлого, парламент, хууль, сонгууль, төсөв), civil society (иргэний нийгэм, эрх чөлөө, ил тод байдал, шүүмжлэл), media genres (сурвалжлага, нийтлэл, ярилцлага).",
+    "readingGoals": [
+      "Analyze long-form investigative journalism and editorials from major Mongolian news outlets (ikon.mn, gogo.mn).",
+      "Comprehend municipal policy proposals regarding urban planning, air pollution, and traffic reduction."
+    ],
+    "listeningGoals": [
+      "Follow rapid, multi-speaker political talk shows and panel debates on television.",
+      "Comprehend press conferences delivered by government ministries and civic leaders."
+    ],
+    "writingGoals": [
+      "Draft a formal press release or policy brief evaluating an ongoing municipal public initiative.",
+      "Write a structured argumentative editorial synthesizing conflicting social viewpoints."
+    ],
+    "spokenProductionGoals": [
+      "Participate actively in a competitive Oxford-style debate, delivering rebuttals with precision.",
+      "Moderate a panel discussion, introducing speakers, synthesizing arguments, and managing audience Q&A."
+    ],
+    "pragmaticRegisterGoals": [
+      "Shift effortlessly between neutral journalistic reporting, persuasive debate advocacy, and formal institutional address."
+    ],
+    "culturalContext": "Mongolia's vibrant democratic transition since 1990, constitutional freedom of speech, public protest culture, and the role of social media in shaping political accountability in contemporary Ulaanbaatar.",
+    "prerequisiteSectionIds": [
+      "sec_b1_04_festivals_naadam_tsagaan_sar_customs"
+    ],
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_b2_converb_chaining_discourse",
+      "gram_b2_converb_chaining_switch_reference",
+      "gram_b2_information_structure_topic_bol_harin",
+      "gram_b2_information_structure_exclusive_focus_l",
+      "gram_b2_discourse_connectors_rhetorical",
+      "gram_b2_discourse_causal_consequence_uuden_ulmaar",
+      "gram_b2_particles_emphatic_nuance"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_b1_clause_causal_uchir_uchraas_tul",
+      "gram_b1_voice_passive_gd",
+      "gram_b1_nominalization_participles_cases"
+    ],
+    "communicativeFunctionIds": [
+      "comm_b2_01_participating_formal_debates",
+      "comm_b2_04_analyzing_social_trends",
+      "comm_b2_06_evaluating_public_policies",
+      "comm_b2_09_moderating_group_discussions",
+      "comm_b2_10_drafting_press_releases",
+      "comm_b2_11_summarizing_complex_articles",
+      "comm_b2_14_discourse_topic_framing",
+      "comm_b2_15_employing_emphatic_nuance"
+    ],
+    "lexicalDomainIds": [
+      "lex_b2_governance_democracy_civil_society",
+      "lex_b1_media_digital_society"
+    ],
+    "expectedOutcome": "The learner can analyze public policy, engage in formal debate, synthesize media texts, draft press releases, and control converbial chaining and information structure."
+  },
+  {
+    "sectionId": "sec_b2_02_ecology_climate_zud_sustainability",
+    "cefrLevel": "B2",
+    "sequencePosition": 18,
+    "title": "Ecological Dynamics, Climate Change, Dzud & Resource Economics",
+    "mongolianTitle": "Уур амьсгалын өөрчлөлт, зудын эрсдэл ба тогтвортой хөгжил",
+    "description": "Deepen technical analysis of Mongolia's unique ecological vulnerabilities, the winter disaster (зуд) phenomenon, pasture degradation, renewable energy transitions, and mining resource tensions.",
+    "communicativePurpose": "Interpret statistical charts and environmental data, evaluate disaster management plans, discuss renewable energy, and negotiate commercial terms regarding resource stewardship.",
+    "grammarScope": "Gradual proportional converb (-тусам/-түсэм), durative adversative converb (-саар байтал), negative framing converb (-гүйгээр), double causative and causative-passive voice stacking (-уулагдах), complex counterfactual conditionals (-сан бол).",
+    "phonologyScope": "Pronunciation of technical environmental, geographic, and scientific terminology.",
+    "lexicalScope": "Environmental science (уур амьсгалын өөрчлөлт, цөлжилт, хөрсний доройтол, шар шороон шуурга), types of dzud (цагаан зуд, төмөр зуд, хар зуд, тууран зуд), resource management (нөхөн сэргээлт, тогтвортой хөгжил).",
+    "readingGoals": [
+      "Read technical scientific reports on pasture carrying capacity, ground water depletion, and meteorological trends.",
+      "Interpret multilateral agency publications (UN, World Bank, UNDP) on disaster resilience in Mongolia."
+    ],
+    "listeningGoals": [
+      "Understand academic lectures and television documentaries on climate change impacts across Central Asia.",
+      "Comprehend interviews with rural herders explaining traditional survival strategies during extreme winters."
+    ],
+    "writingGoals": [
+      "Write an analytical report on pasture management solutions, integrating data and proposed interventions.",
+      "Draft a crisis management advisory memo for rural communities anticipating an impending cold wave."
+    ],
+    "spokenProductionGoals": [
+      "Explain the multi-factorial causes of dzud (drought in summer followed by severe winter frost) in a technical presentation.",
+      "Engage in negotiations regarding environmental compensation between mining enterprises and local communities."
+    ],
+    "pragmaticRegisterGoals": [
+      "Employ objective, evidence-grounded scientific register while remaining sensitive to pastoral livelihood impacts."
+    ],
+    "culturalContext": "The existential threat of dzud to nomadic civilization, historical cycles of pastoral loss and migration to UB ger districts, traditional weather forecasting lore (шинжих ёсон) passed down through generations.",
+    "prerequisiteSectionIds": [
+      "sec_b2_01_public_policy_civil_society_media"
+    ],
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_b2_converb_gradual_proportional_tusam",
+      "gram_b2_converb_durative_adversative_saar_baital",
+      "gram_b2_converb_negative_framing_guigeer",
+      "gram_b2_voice_stacking_causative_passive",
+      "gram_b2_voice_double_causative_delegated",
+      "gram_b2_conditionals_counterfactual_past"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_b1_voice_causative_uul_lga",
+      "gram_b1_converb_durative_saar",
+      "gram_a2_converb_conditional_val"
+    ],
+    "communicativeFunctionIds": [
+      "comm_b2_03_counterfactual_regrets",
+      "comm_b2_05_business_negotiations_terms",
+      "comm_b2_12_expository_causal_chains",
+      "comm_b2_13_expressing_proportional_growth",
+      "comm_b2_20_interpreting_graphs_statistics",
+      "comm_b2_24_crisis_management_advisories"
+    ],
+    "lexicalDomainIds": [
+      "lex_b2_ecology_climate_zud",
+      "lex_c1_macroeconomics_mining_infrastructure"
+    ],
+    "expectedOutcome": "The learner can analyze ecological and climatic phenomena, interpret graphs, express proportional changes, discuss mining and sustainability, and employ stacked voice morphology."
+  },
+  {
+    "sectionId": "sec_b2_03_material_culture_music_performing_arts",
+    "cefrLevel": "B2",
+    "sequencePosition": 19,
+    "title": "Material Culture, Horsemanship, Morin Khuur & Performing Arts",
+    "mongolianTitle": "Соёлын өв, морин хуур, уртын дуу ба уламжлалт урлаг",
+    "description": "Explore the aesthetic, musical, and artisanal dimensions of Mongolian heritage, focusing on the Morin Khuur (horse-head fiddle), Urtyn Duu (long song), throat singing (хөөмий), and horsemanship arts.",
+    "communicativePurpose": "Critique artistic performances, analyze literary and musical aesthetics, discuss historical craftsmanship, and conduct cross-cultural comparative analyses of intangible heritage.",
+    "grammarScope": "Concessive contrast constructions (боловч / хэдий ч), epistemic stance markers (биз / байх), appearance markers (-х шиг байна, -х шинжтэй), indirect discourse framing verbs, limiting scalar particles (бүү хэл).",
+    "phonologyScope": "Acoustic appreciation of overtone singing techniques (хөөмий, хархираа) and vocal melisma in Urtyn Duu.",
+    "lexicalScope": "Traditional instruments (морин хуур, цуур, товшуур, ятга), musical styles (уртын дуу, богино дуу, магтаал, тууль), horsemanship gear (эмээл, хазаар, ташуур, уурга), decorative patterns (хээ угалз).",
+    "readingGoals": [
+      "Read musicological analyses, exhibition reviews, and cultural histories of Mongolian intangible heritage.",
+      "Understand poetry lyrics of classical long songs (e.g. 'Уяхан замбуу тивийн наран')."
+    ],
+    "listeningGoals": [
+      "Follow interviews with master instrument craftsmen and celebrated folk artists (Ардын жүжигчин).",
+      "Comprehend detailed radio lectures on regional singing schools and instrument tuning systems."
+    ],
+    "writingGoals": [
+      "Write an extended critical review of a folk-rock or traditional music concert, evaluating technique and aesthetic synthesis.",
+      "Compose an essay analyzing the horse as central symbol in Mongolian art and poetry."
+    ],
+    "spokenProductionGoals": [
+      "Deliver an illustrated presentation on the symbolism of the morin khuur and its role in peace-making rituals.",
+      "Discuss the preservation of intangible heritage in the modern globalized entertainment landscape."
+    ],
+    "pragmaticRegisterGoals": [
+      "Utilize refined aesthetic and artistic vocabulary appropriate for cultural criticism."
+    ],
+    "culturalContext": "UNESCO-inscribed heritage: Morin Khuur, Urtyn Duu, and Falconry; the metaphysical bond between nomad and horse; the spiritual role of music in pacifying animals and invoking blessing.",
+    "prerequisiteSectionIds": [
+      "sec_b2_02_ecology_climate_zud_sustainability"
+    ],
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_b2_concessive_contrast_vch_gesen",
+      "gram_b2_epistemic_stance_biz_baih",
+      "gram_b2_epistemic_appearance_shig_baiana_yanzytai",
+      "gram_b2_indirect_discourse_framing_verbs",
+      "gram_b2_limiting_scalar_particles_buu_khel"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_a2_converb_concessive_vch_bolovch",
+      "gram_b1_evidentiality_hearsay_gene_suragtai"
+    ],
+    "communicativeFunctionIds": [
+      "comm_b2_17_cross_cultural_comparisons",
+      "comm_b2_18_critiquing_artistic_exhibitions",
+      "comm_b2_22_discussing_historical_events"
+    ],
+    "lexicalDomainIds": [
+      "lex_b2_material_culture_horsemanship",
+      "lex_b2_performing_arts_music_folklore"
+    ],
+    "expectedOutcome": "The learner can critique cultural and musical performances, discuss horsemanship and folk crafts, and deploy sophisticated epistemic and concessive discourse markers."
+  },
+  {
+    "sectionId": "sec_b2_04_academic_critique_rhetoric_formal_stance",
+    "cefrLevel": "B2",
+    "sequencePosition": 20,
+    "title": "Scholarly Critique, Rhetorical Structures & Academic Synthesis",
+    "mongolianTitle": "Эрдэм шинжилгээний шүүмж, илтгэл ба найруулга зүй",
+    "description": "Consolidate B2 mastery by preparing learners for academic and high-level professional intellectual work, including research presentations, academic abstracts, contract comprehension, and complex modality.",
+    "communicativePurpose": "Deliver academic conference presentations, handle grueling Q&A sessions, formulate research abstracts, comprehend commercial contracts, and mediate peer conflicts.",
+    "grammarScope": "Purposive distinctions (гэж / -хаар / тулд), hypothetical conditionals in present/future, complex obligation modal (-х учиртай), participle relative subject genitive alternation, advanced stance adverbs.",
+    "phonologyScope": "Controlled rhetorical intonation, cadence of formal introductory and conclusive remarks.",
+    "lexicalScope": "Academic terminology (судалгаа, арга зүй, таамаглал, дүн шинжилгээ, үр дүн, эх сурвалж), legal contract terms (талууд, заалт, хариуцлага, цуцлах, маргаан шийдвэрлэх), conference protocols.",
+    "readingGoals": [
+      "Read scholarly journal articles in the humanities, social sciences, or natural sciences published in Mongolia.",
+      "Comprehend legal contracts, non-disclosure agreements, and commercial leases."
+    ],
+    "listeningGoals": [
+      "Follow academic keynotes and doctoral defense presentations without strain.",
+      "Understand subtle academic concessions and challenges raised during seminar discussions."
+    ],
+    "writingGoals": [
+      "Write an academic abstract (хураангуй) summarizing research methodology, findings, and implications.",
+      "Draft a structured literature review evaluating competing academic viewpoints."
+    ],
+    "spokenProductionGoals": [
+      "Deliver a 10-minute prepared scholarly presentation with visual slides.",
+      "Handle challenging, skeptical questions from an academic audience with poise and intellectual rigor."
+    ],
+    "pragmaticRegisterGoals": [
+      "Employ scholarly academic register with standard hedging, avoidance of dogmatic assertion, and respectful academic address."
+    ],
+    "culturalContext": "Academic traditions of the Mongolian Academy of Sciences (Шинжлэх Ухааны Академи), national university intellectual traditions, protocols of academic debate and thesis defense.",
+    "prerequisiteSectionIds": [
+      "sec_b2_03_material_culture_music_performing_arts"
+    ],
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_b2_purposive_distinctions_gej_khaar_tuld",
+      "gram_b2_conditionals_hypothetical_present",
+      "gram_b2_modal_complex_obligation_uchirtai",
+      "gram_b2_participle_relative_subject_genitive_alternation"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_b1_subordinate_subject_marking_genitive",
+      "gram_b2_converb_chaining_discourse",
+      "gram_b2_information_structure_topic_bol_harin"
+    ],
+    "communicativeFunctionIds": [
+      "comm_b2_02_academic_essay_concessions",
+      "comm_b2_07_delivering_prepared_presentations",
+      "comm_b2_08_handling_qa_sessions",
+      "comm_b2_16_legal_contract_comprehension",
+      "comm_b2_19_conflict_mediation_peers",
+      "comm_b2_21_academic_abstract_formulation",
+      "comm_b2_23_scientific_popular_articles",
+      "comm_b2_25_strategic_consultation"
+    ],
+    "lexicalDomainIds": [
+      "lex_c1_academic_philology_mongolistics",
+      "lex_b1_education_career_workplace"
+    ],
+    "expectedOutcome": "The learner achieves authoritative B2 competence: delivering scholarly presentations, writing academic abstracts, understanding contracts, and commanding complex subordinate syntax."
+  },
+  {
+    "sectionId": "sec_c1_01_constitutional_law_governance_statutory",
+    "cefrLevel": "C1",
+    "sequencePosition": 21,
+    "title": "Constitutional Law, Statutory Interpretation & Legal Discourse",
+    "mongolianTitle": "Үндсэн хуулийн эрх зүй, хууль тогтоомж ба төрийн захиргаа",
+    "description": "Inaugurate C1 operational proficiency through statutory analysis, constitutional interpretation, administrative chancellery syntax, and the rigorous register of statutory drafting and high court argumentation.",
+    "communicativePurpose": "Parse statutory legal texts, draft administrative decrees, argue legal cases before formal panels, and evaluate statutory compliance.",
+    "grammarScope": "Administrative and chancellery syntax, legal statutory framing, causative nominalizations in governance, archaic/classical jussives in formal legislation (-сугай/-сүгэй, -тугай/-түгэй), complex double negation, appositive titles.",
+    "phonologyScope": "Formal judicial and legislative oratorical cadence, measured pace, unambiguous phonemic clarity.",
+    "lexicalScope": "Constitutional law (Үндсэн хууль, засаглал, бүрэн эрх, эрх мэдэл хуваарилалт), statutory terms (хэрэгжүүлэх, хүчингүй болгох, зөрчил, эрүүгийн хариуцлага), chancellery terminology.",
+    "readingGoals": [
+      "Analyze the Constitution of Mongolia, Supreme Court interpretations, and legislative bills enacted by the State Great Khural.",
+      "Interpret detailed bilateral treaties, concession agreements, and regulatory statutes."
+    ],
+    "listeningGoals": [
+      "Follow live parliamentary plenary debates and Constitutional Court (Үндсэн хуулийн цэц) hearings.",
+      "Comprehend rapid legal argumentation between prosecutors and defense counsel."
+    ],
+    "writingGoals": [
+      "Draft a formal administrative decree or legislative amendment following official chancellery style guidelines.",
+      "Write a comprehensive legal opinion brief analyzing statutory contradictions."
+    ],
+    "spokenProductionGoals": [
+      "Present a formal legal argument citing statutory articles, precedents, and legislative intent.",
+      "Participate in high-level legislative redrafting consultations."
+    ],
+    "pragmaticRegisterGoals": [
+      "Master the solemn, impersonal, authoritative chancellery register (албан хэргийн найруулга) without colloquial intrusion."
+    ],
+    "culturalContext": "History of Mongolian legal codes: from the Great Yasa (Их Засаг) of Chinggis Khaan to the 1640 Khalkha-Oirat Code and the 1992 Democratic Constitution; deep cultural respect for the rule of law as 'State Hearth' (Төрийн сүлд).",
+    "prerequisiteSectionIds": [
+      "sec_b2_04_academic_critique_rhetoric_formal_stance"
+    ],
+    "primaryCompetencyIds": [
+      "macro_c1_executive_and_legislative"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_c1_administrative_chancellery_syntax",
+      "gram_c1_archaic_jussive_sugai_tugai",
+      "gram_c1_legal_statutory_framing",
+      "gram_c1_complex_appositive_titles_and_epithets",
+      "gram_c1_causative_nominalizations_in_governance"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_b2_converb_chaining_discourse",
+      "gram_b2_discourse_causal_consequence_uuden_ulmaar",
+      "gram_b1_voice_passive_gd"
+    ],
+    "communicativeFunctionIds": [
+      "comm_c1_03_drafting_executive_decrees",
+      "comm_c1_04_statutory_legislative_drafting",
+      "comm_c1_11_courtroom_legal_argumentation"
+    ],
+    "lexicalDomainIds": [
+      "lex_c1_jurisprudence_constitutional_law",
+      "lex_b2_governance_democracy_civil_society"
+    ],
+    "expectedOutcome": "The learner can parse and draft statutory legal texts, construct formal constitutional arguments, and command authoritative chancellery administrative syntax."
+  },
+  {
+    "sectionId": "sec_c1_02_macroeconomics_mining_international_trade",
+    "cefrLevel": "C1",
+    "sequencePosition": 22,
+    "title": "Macroeconomics, Strategic Mining & International Commerce",
+    "mongolianTitle": "Макро эдийн засаг, уул уурхай ба гадаад худалдаа",
+    "description": "Develop operational fluency in macroeconomics, mining concession negotiations (Oyu Tolgoi, Tavan Tolgoi), sovereign wealth fund management, and foreign trade policy.",
+    "communicativePurpose": "Analyze monetary and fiscal policies, evaluate mining feasibility studies, negotiate investment contracts, and write investigative economic journalism reports.",
+    "grammarScope": "Academic nominalization frames, formal adversative-concessive connectors (үл харгалзан, хэдий тийм боловч), journalistic evidential distancing, rhetorical inversion and clefting, epistemic hedging.",
+    "phonologyScope": "Controlled cadence in high-stakes executive economic presentations and media interviews.",
+    "lexicalScope": "Macroeconomics (дотоодын нийт бүтээгдэхүүн, инфляц, төсвийн алдагдал, төгрөгийн ханш, гадаад өр), mining industry (баяжмал, хүдэр, ашигт малтмалын нөөц ашигласны төлбөр, геологийн хайгуул, ногдол ашиг).",
+    "readingGoals": [
+      "Read Bank of Mongolia monetary policy reports and macroeconomic forecasts.",
+      "Analyze technical mining feasibility studies, environmental impact audits, and investment agreements."
+    ],
+    "listeningGoals": [
+      "Follow economic symposium keynotes and interviews with Central Bank governors and corporate CFOs.",
+      "Comprehend complex multilateral loan negotiations."
+    ],
+    "writingGoals": [
+      "Write an analytical economic briefing analyzing inflation drivers and currency stabilization strategies.",
+      "Draft an investigative journalism article evaluating the distribution of mining royalties."
+    ],
+    "spokenProductionGoals": [
+      "Deliver an executive briefing to international investors on sovereign debt and mining regulatory outlook.",
+      "Debate foreign direct investment policies and sovereign wealth fund structures."
+    ],
+    "pragmaticRegisterGoals": [
+      "Deploy authoritative economic terminology while hedging projections appropriately."
+    ],
+    "culturalContext": "The economic paradigm shift of the mining boom ('Minegolia'), debates over the 'resource curse' (баялгийн хараал), balancing nomadism and industrial extraction, Future Heritage Fund (Ирээдүйн өв сан).",
+    "prerequisiteSectionIds": [
+      "sec_c1_01_constitutional_law_governance_statutory"
+    ],
+    "primaryCompetencyIds": [
+      "macro_c1_executive_and_legislative"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_c1_academic_nominalization_frames",
+      "gram_c1_academic_hedging_and_epistemic_stance",
+      "gram_c1_journalistic_evidential_distancing",
+      "gram_c1_rhetorical_inversion_and_clefting",
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_b2_converb_gradual_proportional_tusam",
+      "gram_b2_information_structure_topic_bol_harin",
+      "gram_b2_discourse_connectors_rhetorical"
+    ],
+    "communicativeFunctionIds": [
+      "comm_c1_07_investigative_journalism_reports",
+      "comm_c1_09_high_level_policy_briefs",
+      "comm_c1_13_editorial_counter_argumentation"
+    ],
+    "lexicalDomainIds": [
+      "lex_c1_macroeconomics_mining_infrastructure",
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "expectedOutcome": "The learner can analyze macroeconomic trends, interpret mining agreements, write investigative financial reports, and deploy academic hedging and nominalization frames."
+  },
+  {
+    "sectionId": "sec_c1_03_diplomacy_geopolitics_epistemic_discourse",
+    "cefrLevel": "C1",
+    "sequencePosition": 23,
+    "title": "Diplomacy, Geopolitics & High-Register Epistemic Stance",
+    "mongolianTitle": "Дипломат харилцаа, геополитик ба өндөр найруулга",
+    "description": "Attain high C1 mastery in diplomatic protocol, third-neighbor foreign policy, honorific registers (хүндэтгэлийн үг хэллэг), philosophical discourse, and speechwriting for state statesmen.",
+    "communicativePurpose": "Draft diplomatic communiqués, conduct bilateral negotiations, speak using elevated honorific verbs and nouns, draft formal speeches, and evaluate literary translations.",
+    "grammarScope": "Honorific lexical verbs (морилох, зооглох, айлдах), suppletive honorific existentials (заларч байх), honorific somatic terms and nouns (мутар, айлдвар, таалал), humble self-lowering forms, honorific imperative (-гтун/-гтүн, -но уу), classical converb relics (хэмээн, -ваас/-вээс), register switching matrix.",
+    "phonologyScope": "Dignified, resonant diplomatic delivery; impeccable vowel length distinctions and honorific cadences.",
+    "lexicalScope": "Diplomatic terminology (итгэмжлэх жуух бичиг, харилцан ойлголцлын санамж бичиг, бүрэн эрхт элчин сайд, дипломат харилцаа, төвийг сахих бодлого), Third Neighbor Policy (Гуравдагч хөршийн бодлого).",
+    "readingGoals": [
+      "Read joint diplomatic communiqués, bilateral treaties, and ambassadorial addresses.",
+      "Understand philosophical and philological essays analyzing Mongolian linguistic heritage."
+    ],
+    "listeningGoals": [
+      "Follow high-level diplomatic speeches delivered at the UN General Assembly or Ulaanbaatar Dialogue.",
+      "Understand nuanced, indirect diplomatic responses during ambassadorial press briefings."
+    ],
+    "writingGoals": [
+      "Draft a formal diplomatic note (ноот бичиг) or state banquet toast adhering to protocol.",
+      "Write a high-register speech on foreign policy strategy using classical rhetorical flourishes."
+    ],
+    "spokenProductionGoals": [
+      "Participate in bilateral diplomatic simulation discussions, observing strict diplomatic courtesies.",
+      "Address an audience of respected cultural elders using suppletive honorifics without error."
+    ],
+    "pragmaticRegisterGoals": [
+      "Switch fluently between elevated diplomatic/honorific register and neutral analytical prose based on social distance."
+    ],
+    "culturalContext": "Mongolia's 'Third Neighbor Policy' balancing geopolitical realities between Russia and China; historical tradition of Mongol statecraft diplomacy dating back to the Pax Mongolica; deep cultural respect for ambassadors.",
+    "prerequisiteSectionIds": [
+      "sec_c1_02_macroeconomics_mining_international_trade"
+    ],
+    "primaryCompetencyIds": [
+      "macro_c1_epistemic_and_philosophical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_c1_executive_and_legislative"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_c1_honorific_lexical_verbs",
+      "gram_c1_honorific_suppletive_existentials",
+      "gram_c1_honorific_nouns_and_somatic_terms",
+      "gram_c1_honorific_humble_forms_object_elevation",
+      "gram_c1_honorific_imperative_gtun_no_uu",
+      "gram_c1_classical_converbs_vaas_khuits",
+      "gram_c1_classical_temporal_khlaar",
+      "gram_c1_classical_quotative_khemeen",
+      "gram_c1_classical_participle_khui",
+      "gram_c1_register_switching_matrix"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_c1_administrative_chancellery_syntax",
+      "gram_b2_epistemic_stance_biz_baih",
+      "gram_b2_indirect_discourse_framing_verbs"
+    ],
+    "communicativeFunctionIds": [
+      "comm_c1_01_honorific_elder_conversations",
+      "comm_c1_02_diplomatic_official_receptions",
+      "comm_c1_05_academic_peer_review",
+      "comm_c1_06_hedging_scientific_claims",
+      "comm_c1_08_philosophical_discourse",
+      "comm_c1_10_rhetorical_speechwriting",
+      "comm_c1_12_consecutive_interpreting_support",
+      "comm_c1_14_navigating_subtle_social_hierarchies",
+      "comm_c1_15_literary_translation_evaluation"
+    ],
+    "lexicalDomainIds": [
+      "lex_c1_diplomacy_geopolitics_foreign_policy",
+      "lex_c1_academic_philology_mongolistics"
+    ],
+    "expectedOutcome": "The learner achieves full C1 operational proficiency: commanding honorific and diplomatic registers, drafting state speeches, and conducting complex bilateral negotiations."
+  },
+  {
+    "sectionId": "sec_c2_01_contemporary_literature_satire_stylistics",
+    "cefrLevel": "C2",
+    "sequencePosition": 24,
+    "title": "Contemporary Modernist Literature, Satire & Stylistic Nuance",
+    "mongolianTitle": "Орчин үеийн уран зохиол, егөөдөл ба найруулгын торгон мэдрэмж",
+    "description": "Achieve native-level mastery across contemporary literature, sophisticated irony, political satire, rapid spoken Khalkha phonotactics, colloquial conversational repair, and somatic idioms.",
+    "communicativePurpose": "Comprehend and produce nuanced literary texts, appreciate rapid native banter and humor, dissect subtle political satire, and shift effortlessly across all registers.",
+    "grammarScope": "Rapid Khalkha spoken phonotactics and reductions, conversational repair particles (нөгөө, ер нь, за юу), conversational tag consensus markers, pragmatic irony and understatement framing, somatic steppe idioms, satirical polemical framing, literary polyphony and interior monologue.",
+    "phonologyScope": "Full assimilation to authentic native Khalkha conversational speed (160+ wpm), elisions, geminations, and emotive intonation contours.",
+    "lexicalScope": "Expressive colloquialisms, somatic idioms (элэг хөших, шар махтайгаа хатах, дотор онгойх, нүд тайлах), literary prose vocabulary, contemporary urban slang and humor.",
+    "readingGoals": [
+      "Read complex contemporary Mongolian novels (e.g. works by B. Galsansukh, G. Ayurzana, D. Urianhai) with complete stylistic appreciation.",
+      "Analyze satirical essays and political cartoons with intricate cultural allusions."
+    ],
+    "listeningGoals": [
+      "Understand rapid colloquial Khalkha conversation, overlapping speech, and subtle sarcasm in films and theatrical comedy.",
+      "Catch double entendres and understated jokes effortlessly."
+    ],
+    "writingGoals": [
+      "Write an evocative short story in Mongolian displaying distinctive authorial voice and polyphonic character perspectives.",
+      "Compose a satirical commentary on modern urban lifestyle."
+    ],
+    "spokenProductionGoals": [
+      "Engage in rapid, witty conversational banter with native speakers, deploying humor, self-deprecation, and playful irony.",
+      "Deliver an expressive reading of modern poetry capturing internal emotional cadences."
+    ],
+    "pragmaticRegisterGoals": [
+      "Demonstrate effortless agility in navigating between earthy street colloquialism and refined literary prose."
+    ],
+    "culturalContext": "Post-Soviet modernism in Mongolian literature, satirical tradition from Ts. Damdinsüren to modern urban stand-up comedy, the deep psychological role of steppe idioms rooted in pastoral biology.",
+    "prerequisiteSectionIds": [
+      "sec_c1_03_diplomacy_geopolitics_epistemic_discourse"
+    ],
+    "primaryCompetencyIds": [
+      "macro_c2_colloquial_and_satirical_virtuosity"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_c1_epistemic_and_philosophical"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_c2_rapid_khalkha_spoken_phonotactics",
+      "gram_c2_conversational_repair_and_discourse_particles",
+      "gram_c2_conversational_tag_consensus_markers",
+      "gram_c2_pragmatic_irony_and_understatement",
+      "gram_c2_somatic_idiomatic_metaphors",
+      "gram_c2_satirical_polemical_framing",
+      "gram_c2_literary_polyphony_and_indirect_interior_monologue"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_c1_register_switching_matrix",
+      "gram_b2_particles_emphatic_nuance",
+      "gram_b2_converb_chaining_discourse"
+    ],
+    "communicativeFunctionIds": [
+      "comm_c2_01_rapid_colloquial_banter",
+      "comm_c2_02_conversational_repair_turn_taking",
+      "comm_c2_03_humor_sarcasm_irony",
+      "comm_c2_04_somatic_steppe_idioms",
+      "comm_c2_05_satirical_cultural_critique",
+      "comm_c2_06_literary_polyphony_writing"
+    ],
+    "lexicalDomainIds": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric",
+      "lex_c1_academic_philology_mongolistics"
+    ],
+    "expectedOutcome": "The learner achieves full stylistic mastery of modern Mongolian: understanding rapid banter and irony, using somatic idioms, analyzing modern literature, and writing with creative authorship."
+  },
+  {
+    "sectionId": "sec_c2_02_secret_history_classical_mongolian_philology",
+    "cefrLevel": "C2",
+    "sequencePosition": 25,
+    "title": "The Secret History of the Mongols & Classical Philology",
+    "mongolianTitle": "Монголын нууц товчоо ба сонгодог бичгийн хэлний өв",
+    "description": "Explore the linguistic, historical, and philological monument of The Secret History of the Mongols (1240 CE), Classical Mongolian grammar, archaic case morphology, and Pan-Mongolian dialectal variation.",
+    "communicativePurpose": "Read and analyze passages from The Secret History, trace the grammatical evolution from Middle Mongolian to Modern Khalkha, understand Pan-Mongolian dialects, and interpret historical monuments.",
+    "grammarScope": "Classical epic syntax of The Secret History, archaic case morphology (-аачаан/-ээчээн ablative, -дур/-дүр locative, -аар/-ээр comitative), archaic verbal inflections (-рун/-рүүн, -гаа/-гээ), dialectal morphosyntax awareness (Buriat, Kalmyk, Oirat, Inner Mongolian Chahar), legal/constitutional clause parsing.",
+    "phonologyScope": "Middle Mongolian phonological reconstruction (fricative *x, vowel harmony developments), comparative dialectal phonetics.",
+    "lexicalScope": "Historical and feudal terminology (төрийн эзэн, өрлөг, ноён, хишигтэн, андгай, анд, нутаг, онгон), archaic literary lexicon, Classical Mongolian philological loanwords.",
+    "readingGoals": [
+      "Read original and transliterated passages from The Secret History of the Mongols alongside modern Cyrillic versions.",
+      "Understand historical stone inscriptions (e.g. Chinggis Stone, Kül Tegin stele Mongolian glosses) and medieval diplomatic letters."
+    ],
+    "listeningGoals": [
+      "Understand academic lectures delivered by international Mongolists comparing Middle Mongolian with modern Khalkha.",
+      "Comprehend recordings of Buriat, Oirat, and Chahar native speakers without subtitles."
+    ],
+    "writingGoals": [
+      "Write a philological commentary on a selected stanza of The Secret History, analyzing morphosyntactic shifts.",
+      "Draft an essay on the survival of 13th-century pastoral terminology in contemporary modern herding life."
+    ],
+    "spokenProductionGoals": [
+      "Present a textual analysis comparing Middle Mongolian syntax with contemporary colloquial Khalkha.",
+      "Recite famous passages from The Secret History with appropriate archaic heroic cadence."
+    ],
+    "pragmaticRegisterGoals": [
+      "Demonstrate philological precision when discussing historical linguistic data."
+    ],
+    "culturalContext": "The Secret History (Монголын Нууц Товчоо) as the bedrock of national identity, UNESCO memory of the world, continuity of nomadic consciousness across eight centuries, and the historical linguistic unity of Mongolic peoples.",
+    "prerequisiteSectionIds": [
+      "sec_c2_01_contemporary_literature_satire_stylistics"
+    ],
+    "primaryCompetencyIds": [
+      "macro_c2_poetic_philological_heritage"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_c1_academic_philology_mongolistics"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_c2_legal_constitutional_clause_architecture",
+      "gram_c2_seamless_register_navigating",
+      "gram_c2_classical_epic_syntax_secret_history",
+      "gram_c2_archaic_case_morphology_secret_history",
+      "gram_c2_dialectal_morphosyntax_awareness"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_c1_classical_converbs_vaas_khuits",
+      "gram_c1_classical_quotative_khemeen",
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "communicativeFunctionIds": [
+      "comm_c2_07_constitutional_court_parsing",
+      "comm_c2_08_omni_register_agility",
+      "comm_c2_10_secret_history_philological_reading",
+      "comm_c2_14_pan_mongolian_dialect_comprehension"
+    ],
+    "lexicalDomainIds": [
+      "lex_c2_classical_literature_secret_history",
+      "lex_c1_academic_philology_mongolistics"
+    ],
+    "expectedOutcome": "The learner can read and analyze passages from The Secret History of the Mongols, understand historical grammar and case archaisms, and comprehend Pan-Mongolian dialectal varieties."
+  },
+  {
+    "sectionId": "sec_c2_03_gnomic_wisdom_epics_ceremonial_tengrism",
+    "cefrLevel": "C2",
+    "sequencePosition": 26,
+    "title": "Gnomic Wisdom, Folk Epics, Ceremonial Blessings & Cosmology",
+    "mongolianTitle": "Зүйр цэцэн үг, тууль, ерөөл магтаал ба гүн ухаан",
+    "description": "Culminate the curriculum with mastery of oral epic literature (Jangar, Geser), ceremonial blessings (ерөөл, магтаал), gnomic proverbs (зүйр цэцэн үг), Tengrist and Buddhist philosophical concepts, and supreme authorial eloquence.",
+    "communicativePurpose": "Deploy proverbs with native precision, perform ceremonial blessings for milestones, appreciate epic heroic recitation, debate traditional cosmology, and achieve supreme authorial voice.",
+    "grammarScope": "Rhetorical parallelism and head alliteration (толгой холбох ёс), syntactic parallelism in verse, ceremonial blessing formulaic syntax, praise poetry cataloguing syntax, proverbial syntactic compression, supreme stylistic authorship.",
+    "phonologyScope": "Traditional alliterative meter, heroic epic chanting registers, throat-vocal acoustic projection.",
+    "lexicalScope": "Proverbial lexicon, epic formulaic expressions, Buddhist philosophical terminology (үйлийн үр, гэгээрэл, зовлон, нирваан), Tengrist cosmological concepts (Мөнх Тэнгэр, Этүгэн эх, сүлд хийморь).",
+    "readingGoals": [
+      "Read selections from the heroic epics (Жангар, Гэсэр) and oral praise poetry (магтаал) in verse format.",
+      "Interpret collections of traditional gnomic proverbs (зүйр цэцэн үг) and riddles (таавар)."
+    ],
+    "listeningGoals": [
+      "Follow authentic live performances of epic chanting (тууль хайлах) accompanied by morin khuur or tovshuur.",
+      "Understand complex ceremonial wedding blessings delivered by venerable elders."
+    ],
+    "writingGoals": [
+      "Compose an original ceremonial blessing (ерөөл) or praise poem adhering to traditional alliterative poetic rules.",
+      "Write a philosophical essay reflecting on the concept of 'Мөнх Тэнгэр' (Eternal Sky) and modern ecological ethics."
+    ],
+    "spokenProductionGoals": [
+      "Deliver a ceremonial blessing at a milestone occasion (housewarming, wedding) with appropriate emotional resonance and cadence.",
+      "Incorporate traditional proverbs apt to the conversational context to clinch an argument."
+    ],
+    "pragmaticRegisterGoals": [
+      "Command the most exalted ceremonial, poetic, and cosmological registers of the Mongolian language."
+    ],
+    "culturalContext": "The sacred art of epic chanting (тууль) performed only under specific cosmological conditions; proverbs as the moral compass of nomadic society; the living synthesis of shamanic Tengrism and Tibetan Buddhism (Шарын шашин).",
+    "prerequisiteSectionIds": [
+      "sec_c2_02_secret_history_classical_mongolian_philology"
+    ],
+    "primaryCompetencyIds": [
+      "macro_c2_poetic_philological_heritage"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_c2_colloquial_and_satirical_virtuosity"
+    ],
+    "grammarConceptIdsIntroduced": [
+      "gram_c2_rhetorical_parallelism_alliteration",
+      "gram_c2_syntactic_parallelism_in_verse",
+      "gram_c2_ceremonial_blessing_formulaic_syntax",
+      "gram_c2_praise_poetry_cataloguing_syntax",
+      "gram_c2_proverbial_syntactic_compression",
+      "gram_c2_supreme_stylistic_authorship"
+    ],
+    "grammarConceptIdsReinforced": [
+      "gram_c1_classical_participle_khui",
+      "gram_b2_information_structure_exclusive_focus_l",
+      "gram_a1_verb_urging_optative_aach"
+    ],
+    "communicativeFunctionIds": [
+      "comm_c2_09_metric_alliterative_poetry",
+      "comm_c2_11_ceremonial_blessings_performance",
+      "comm_c2_12_praise_poetry_chanting",
+      "comm_c2_13_proverbial_gnomic_deployment",
+      "comm_c2_15_creative_mastery_authorial_voice"
+    ],
+    "lexicalDomainIds": [
+      "lex_c2_philosophy_tengrism_buddhism",
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "expectedOutcome": "The learner reaches C2 supreme linguistic and cultural mastery: commanding proverbs, delivering ceremonial blessings, appreciating epic oral poetry, and writing with true authorial voice."
+  }
+]

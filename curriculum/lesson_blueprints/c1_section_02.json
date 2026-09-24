@@ -1,0 +1,3539 @@
+[
+  {
+    "lessonId": "les_c1_208_01_academic_nominalization_frames_syntax_intro",
+    "unitId": "unit_c1_208_macroeconomic_stabilization_monetar",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosyntax: Academic Nominalization Frames in Macroeconomic Analysis",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the syntactic formation and cognitive condensing functions of high-register academic nominalization frames (e.g. '...-х явдал нь', '...-х хандлага ажиглагдаж байгаа нь', '...-х үйл явц') structuring macroeconomic policy discourse.",
+    "communicativeOutcome": "Package complex economic causation chains into dense academic nominal frames, enabling detached, evidence-based policy formulation.",
+    "objectivesIntroduced": [
+      "obj_c1_208_01_master_nominalization_frames"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_c1_207_06_master_sec01_culminating_synthesis"
+    ],
+    "grammarIntroduced": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_b2_participle_relative_subject_genitive_alternation"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_13_scholarly_synthesis"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "мөнгөний бодлого",
+      "төв банк",
+      "инфляци",
+      "хүүгийн түвшин",
+      "эдийн засгийн өсөлт"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "academic macroeconomic analytical",
+    "pragmaticTarget": "scholarly detached argumentation",
+    "prerequisiteLessonIds": [
+      "les_c1_207_06_c1_sec01_culminating_constitutional_capstone"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_198_01_administrative_chancellery_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_198_the_1992_democratic_constitution_of"
+    ],
+    "reviewReason": "Extends Section 01 statutory nominal syntax into academic macroeconomic framing matrices.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Embeds multi-clause causal propositions inside academic topic-comment frames without grammatical breakdown",
+      "Distinguishes between descriptive process nominalizations and evaluative analytical stance frames"
+    ],
+    "masteryEvidence": "Converts 5 loose journalistic economic descriptions into rigorous academic macroeconomic nominal formulations.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c1_208_02_central_bank_monetary_policy_report_reading",
+    "unitId": "unit_c1_208_macroeconomic_stabilization_monetar",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 2,
+    "title": "Macroeconomic Reading: Central Bank Monetary Policy & Inflation Targeting Reports",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse a 520-word excerpt from the Bank of Mongolia Monetary Policy Report (Монголбанкны Мөнгөний бодлогын тайлан), evaluating foreign exchange reserves, policy rate adjustments, and inflationary transmission channels.",
+    "communicativeOutcome": "Extract monetary policy signals, econometric forecasts, and systemic risk assessments from central bank publications.",
+    "objectivesIntroduced": [
+      "obj_c1_208_02_parse_monetary_policy_reports"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_208_01_master_nominalization_frames"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_13_scholarly_synthesis"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "бодлогын хүү",
+      "ханш",
+      "валютын нөөц",
+      "төгрөг",
+      "эдийн засаг"
+    ],
+    "readingObjective": "Critique complex econometric analyses explaining central bank policy rate interventions and reserve asset management.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "central bank institutional technical",
+    "pragmaticTarget": "monetary policy exegesis",
+    "prerequisiteLessonIds": [
+      "les_c1_208_01_academic_nominalization_frames_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_207_01_supreme_court_dossier_analysis_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_207_constitutional_jurisprudence_capsto"
+    ],
+    "reviewReason": "Bridges supreme court judicial dossier analysis into central bank institutional macroeconomic reports.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies the precise macroeconomic transmission mechanism linking policy rate hikes to domestic consumer inflation cooling",
+      "Interprets econometric forward guidance statements without confusing projected baseline scenarios with downside risks"
+    ],
+    "masteryEvidence": "Answers 4 complex analytical queries comparing Mongolian monetary tightening cycles against external commodity price shocks.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "claim_evidence_matching"
+    ]
+  },
+  {
+    "lessonId": "les_c1_208_03_monetary_policy_committee_briefing_listening",
+    "unitId": "unit_c1_208_macroeconomic_stabilization_monetar",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Bank of Mongolia Monetary Policy Committee Press Conference",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute unedited broadcast of the Governor of the Bank of Mongolia announcing the Monetary Policy Committee's quarterly rate decision and fielding financial journalists' inquiries.",
+    "communicativeOutcome": "Process high-speed technical financial speech (155-175 wpm), discerning subtle central bank forward guidance nuances and monetary policy stance shifts.",
+    "objectivesIntroduced": [
+      "obj_c1_208_03_comprehend_central_bank_briefings"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_208_01_master_nominalization_frames"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_02_parliamentary_interpellation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "хэвлэлийн бага хурал",
+      "мөнгөний нийлүүлэлт",
+      "зээлийн өсөлт",
+      "эрсдэл"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher spoken econometric statements and official policy justifications delivered under live press conference conditions.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "central bank monetary press",
+    "pragmaticTarget": "forward guidance interpretation",
+    "prerequisiteLessonIds": [
+      "les_c1_208_02_central_bank_monetary_policy_report_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_206_03_cabinet_press_secretary_decree_announcement_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_206_drafting_executive_ministerial_decr"
+    ],
+    "reviewReason": "Extends cabinet press conference listening to specialized central bank macroeconomic rate announcements.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic broadcast recording of Central Bank Governor delivering Monetary Policy Statement with financial press Q&A.",
+    "successCriteria": [
+      "Transcribes the specific percentage adjustment to the benchmark policy rate and reserve requirements without error",
+      "Detects whether the Governor's tone on future inflation expectations is hawkish, dovish, or neutral based on subtle linguistic markers"
+    ],
+    "masteryEvidence": "Produces an analytical financial market summary detailing the policy decision, key risk assumptions, and market forward guidance.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "stance_identification"
+    ]
+  },
+  {
+    "lessonId": "les_c1_208_04_macroeconomic_policy_brief_writing",
+    "unitId": "unit_c1_208_macroeconomic_stabilization_monetar",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 4,
+    "title": "Academic Writing: High-Level Macroeconomic Stabilization Policy Brief",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 440-word formal Policy Advisory Brief ('Эдийн засгийн тогтворжуулалтын бодлогын зөвлөмж') for the Ministry of Economy and Development, evaluating fiscal-monetary policy coordination and sovereign debt sustainability.",
+    "communicativeOutcome": "Produce high-level macroeconomic policy documentation adhering to international international financial institution (IMF/WB) standards.",
+    "objectivesIntroduced": [
+      "obj_c1_208_04_author_macroeconomic_briefs"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_208_01_master_nominalization_frames"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "төсвийн бодлого",
+      "өр төлбөр",
+      "тогтворжуулалт",
+      "тэнцвэр",
+      "зөвлөмж"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft an authoritative policy brief proposing counter-cyclical fiscal adjustments and foreign exchange reserve replenishment strategies.",
+    "spokenProductionObjective": "",
+    "registerTarget": "academic economic consultative",
+    "pragmaticTarget": "strategic policy formulation",
+    "prerequisiteLessonIds": [
+      "les_c1_208_03_monetary_policy_committee_briefing_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_207_04_constitutional_remedies_amicus_brief_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_207_constitutional_jurisprudence_capsto"
+    ],
+    "reviewReason": "Synthesizes amicus advisory writing into high-level macroeconomic stabilization policy drafting.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Deploys at least 5 varied academic nominalization frames ('...-х явдал нь', '...-х хандлага нь') to express structural causation",
+      "Structures recommendations into executive summary, empirical diagnosis, risk matrix, and actionable policy measures"
+    ],
+    "masteryEvidence": "Submits a compliant 440-word macroeconomic policy brief ready for ministerial presentation.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c1_208_05_parliamentary_budget_inquiry_spoken",
+    "unitId": "unit_c1_208_macroeconomic_stabilization_monetar",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 5,
+    "title": "Deliberative Speaking: Defending Monetary-Fiscal Policy at Parliamentary Hearing",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 4-minute verbal testimony before the Parliamentary Standing Committee on Economy, defending monetary policy decisions against inflation critiques from lawmakers.",
+    "communicativeOutcome": "Articulate complex monetary mechanisms orally with authoritative fluency, defusing political accusations using measured economic logic.",
+    "objectivesIntroduced": [
+      "obj_c1_208_05_testify_on_economic_policy_orally"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_208_01_master_nominalization_frames"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "эдийн засгийн байнгын хороо",
+      "тайлбарлах",
+      "хариуцлага",
+      "дүн шинжилгээ"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Argue convincingly before parliamentarians, articulating the economic trade-offs between rate hikes and industrial credit availability.",
+    "registerTarget": "formal parliamentary consultative",
+    "pragmaticTarget": "authoritative institutional defense",
+    "prerequisiteLessonIds": [
+      "les_c1_208_04_macroeconomic_policy_brief_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_207_05_supreme_court_en_banc_oral_argument_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_207_constitutional_jurisprudence_capsto"
+    ],
+    "reviewReason": "Bridges supreme court oral pleading skills into parliamentary economic committee testimony.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of senior central banker testifying before parliamentary committee.",
+    "successCriteria": [
+      "Responds to populist parliamentary critiques with calm, empirical econometric arguments without defensive irritation",
+      "Maintains formal consultative address protocols while clarifying technical monetary concepts"
+    ],
+    "masteryEvidence": "Successfully navigates a 4-minute simulated legislative hearing defending anti-inflation interest rate adjustments.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_209_01_academic_hedging_epistemic_stance_syntax_intro",
+    "unitId": "unit_c1_209_mining_megaprojects_oyu_tolgoi_tava",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosyntax: Academic Hedging & Epistemic Stance in Extractive Industry Economics",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the syntactic structures and epistemic modal modifiers of academic hedging (e.g. '...-х магадлалтай гэж үзэж болохоор байна', '...-х үндэслэл бүхий байж болох юм', '...-х тал ажиглагдах төлөвтэй') in technical resource economics discourse.",
+    "communicativeOutcome": "Calibrate assertions regarding mineral reserves, commodity price volatility, and discount rate valuations with nuanced epistemic responsibility.",
+    "objectivesIntroduced": [
+      "obj_c1_209_01_master_academic_hedging"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_208_01_master_nominalization_frames"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "grammarPracticed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "grammarReviewed": [
+      "gram_b2_epistemic_modality_deduction_conjecture"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c1_07_evaluating_methodologies"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_13_scholarly_synthesis"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "оюу толгой",
+      "таван толгой",
+      "ашигт малтмал",
+      "хөрөнгө оруулалт",
+      "үнэлгээ"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "academic resource economics",
+    "pragmaticTarget": "epistemic stance calibration",
+    "prerequisiteLessonIds": [
+      "les_c1_208_05_parliamentary_budget_inquiry_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_208_01_academic_nominalization_frames_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_208_macroeconomic_stabilization_monetar"
+    ],
+    "reviewReason": "Integrates macroeconomic nominalization frames with epistemic hedging operators.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Differentiates between categorical claims, probabilistic hypotheses, and tentative speculative assertions using epistemic verbs and modals",
+      "Applies hedging structures to mitigate over-confident financial projection risks"
+    ],
+    "masteryEvidence": "Rewrites 5 over-generalized mining feasibility claims into rigorous, epistemically nuanced academic statements.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "stance_identification"
+    ]
+  },
+  {
+    "lessonId": "les_c1_209_02_mining_concession_feasibility_study_reading",
+    "unitId": "unit_c1_209_mining_megaprojects_oyu_tolgoi_tava",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 2,
+    "title": "Technical Reading: Mineral Reserve Audits & Concession Feasibility Studies (ТЭЗҮ)",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse a 520-word technical feasibility study (Техник, эдийн засгийн үндэслэл) analyzing copper-gold concentrate production curves, underground expansion capital costs, and net present value (NPV) sensitivities.",
+    "communicativeOutcome": "Evaluate technical feasibility assessments and concession financial models, identifying hidden cost assumptions and environmental mitigation contingencies.",
+    "objectivesIntroduced": [
+      "obj_c1_209_02_parse_mining_feasibility_studies"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_209_01_master_academic_hedging"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_07_evaluating_methodologies"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_13_scholarly_synthesis"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "орд",
+      "баяжмал",
+      "олборлолт",
+      "цэвэр ашиг",
+      "дэд бүтэц"
+    ],
+    "readingObjective": "Deconstruct complex extractive industry feasibility reports, evaluating metallurgical recovery rates, capital expenditure amortization, and sovereign equity returns.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "extractive industry technical",
+    "pragmaticTarget": "techno-economic critique",
+    "prerequisiteLessonIds": [
+      "les_c1_209_01_academic_hedging_epistemic_stance_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_205_01_concession_agreements_arbitration_clauses_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_205_bilateral_concession_contracts_inve"
+    ],
+    "reviewReason": "Transitions from legal concession agreement analysis into technical mining feasibility auditing.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies key financial assumptions (discount rate, global commodity price projections) underlying the mining valuation",
+      "Distinguishes proven ore reserves ('батлагдсан нөөц') from probable/inferred mineral resources"
+    ],
+    "masteryEvidence": "Answers 4 complex technical queries evaluating whether the proposed production timeline is achievable under cited geological constraints.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "claim_evidence_matching"
+    ]
+  },
+  {
+    "lessonId": "les_c1_209_03_investor_earnings_conference_call_listening",
+    "unitId": "unit_c1_209_mining_megaprojects_oyu_tolgoi_tava",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Mining Consortium Quarterly Investor Earnings Call",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute authentic recording of a transnational mining consortium executive presentation and institutional investor Q&A regarding underground ramp-up progress and state equity dividends.",
+    "communicativeOutcome": "Process sophisticated spoken corporate disclosure delivered at native speed (155-180 wpm), evaluating executive hedging and investor skepticism.",
+    "objectivesIntroduced": [
+      "obj_c1_209_03_comprehend_mining_investor_calls"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_209_01_master_academic_hedging"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_07_evaluating_methodologies"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "хувьцаа эзэмшигчид",
+      "ногдол ашиг",
+      "санхүүжилт",
+      "гүйцэтгэх захирал"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher spoken corporate financial disclosures, identifying underlying risks behind hedged executive explanations of project delays.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "corporate finance investor relations",
+    "pragmaticTarget": "corporate accountability audit",
+    "prerequisiteLessonIds": [
+      "les_c1_209_02_mining_concession_feasibility_study_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_205_02_commercial_arbitration_tribunal_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_205_bilateral_concession_contracts_inve"
+    ],
+    "reviewReason": "Bridges commercial arbitration listening into corporate mining earnings and investor call comprehension.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic investor call audio with cross-talk, analyst inquiries, and corporate executive hedging cadences.",
+    "successCriteria": [
+      "Transcribes the precise capital cost overrun figures and adjusted timeline for commercial production",
+      "Evaluates the degree of confidence expressed by the CFO regarding dividend payouts to the Mongolian government"
+    ],
+    "masteryEvidence": "Produces an investor risk briefing analyzing 3 discrepancies between executive projections and underlying operational metrics.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "stance_identification"
+    ]
+  },
+  {
+    "lessonId": "les_c1_209_04_mining_concession_renegotiation_brief_writing",
+    "unitId": "unit_c1_209_mining_megaprojects_oyu_tolgoi_tava",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 4,
+    "title": "Juristic-Economic Writing: Sovereign Concession Renegotiation Memorandum",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 440-word legal-economic memorandum for the Government Working Group evaluating proposed amendments to an investment agreement, optimizing mineral royalty sliding scales and local employment commitments.",
+    "communicativeOutcome": "Produce high-stakes concession renegotiation briefs balancing sovereign mineral ownership against international investor confidence.",
+    "objectivesIntroduced": [
+      "obj_c1_209_04_draft_concession_amendments"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_209_01_master_academic_hedging"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_07_evaluating_methodologies"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "гэрээнд нэмэлт өөрчлөлт оруулах",
+      "ашигт малтмалын нөөц ашигласны төлбөр",
+      "ногдол хувь"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft a rigorous concession analysis detailing fiscal terms, transfer pricing safeguards, and dispute resolution mechanisms.",
+    "spokenProductionObjective": "",
+    "registerTarget": "sovereign economic consultative",
+    "pragmaticTarget": "concession renegotiation strategy",
+    "prerequisiteLessonIds": [
+      "les_c1_209_03_investor_earnings_conference_call_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_208_04_macroeconomic_policy_brief_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_208_macroeconomic_stabilization_monetar"
+    ],
+    "reviewReason": "Synthesizes macroeconomic policy brief writing into specialized mining concession restructuring memos.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Applies sophisticated academic hedging to frame financial exposure under commodity price decline scenarios",
+      "Proposes legally enforceable royalty formulas without destabilizing foreign direct investment flows"
+    ],
+    "masteryEvidence": "Submits a compliant 440-word memorandum proposing 3 actionable amendments to a mineral concession contract.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c1_209_05_parliamentary_mining_inquest_spoken",
+    "unitId": "unit_c1_209_mining_megaprojects_oyu_tolgoi_tava",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 5,
+    "title": "Deliberative Speaking: Expert Witness Testimony at Parliamentary Mining Inquest",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 4-minute verbal testimony as an independent mineral economist before the State Great Khural Temporary Scrutiny Committee, addressing environmental liabilities and state shareholding dividends.",
+    "communicativeOutcome": "Present complex technical and economic assessments with clarity, managing aggressive political questioning with academic equanimity.",
+    "objectivesIntroduced": [
+      "obj_c1_209_05_testify_at_mining_inquests"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_209_01_master_academic_hedging"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_07_evaluating_methodologies"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "хянан шалгах түр хороо",
+      "байгаль орчны үнэлгээ",
+      "зардал хэтрэлт"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Argue an evidence-based mineral policy stance orally, responding to politically charged accusations regarding concession terms.",
+    "registerTarget": "formal parliamentary inquest",
+    "pragmaticTarget": "expert evidentiary testimony",
+    "prerequisiteLessonIds": [
+      "les_c1_209_04_mining_concession_renegotiation_brief_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_208_05_parliamentary_budget_inquiry_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_208_macroeconomic_stabilization_monetar"
+    ],
+    "reviewReason": "Deepens monetary committee testimony skills into parliamentary mining inquest cross-examinations.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide model audio of resource economist testifying before parliamentary inquiry committee.",
+    "successCriteria": [
+      "Employs epistemic hedging to avoid over-committing to contentious revenue estimates",
+      "Maintains absolute professional neutrality in the face of partisan parliamentary probing"
+    ],
+    "masteryEvidence": "Executes a 4-minute simulated legislative inquest defense resolving 2 confrontational inquiries on mining revenue distribution.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_210_01_journalistic_evidential_distancing_syntax_intro",
+    "unitId": "unit_c1_210_journalistic_evidential_distancing_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosyntax: Evidential Distancing & Attribution Markers in Investigative Journalism",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the syntactic structures of evidential distancing (e.g. '...-сан гэх мэдээлэл байна', '...-сан гэж эх сурвалж нотолж байна', '...-х магадлалтайг албаны хүн үгүйсгэсэнгүй') used in investigative reporting to report unverified allegations without incurring defamation liability.",
+    "communicativeOutcome": "Structure journalistic reports with rigorous evidential boundaries, attributing sensitive disclosures precisely to named, confidential, or circumstantial sources.",
+    "objectivesIntroduced": [
+      "obj_c1_210_01_master_evidential_distancing"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_209_01_master_academic_hedging"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [
+      "gram_c1_journalistic_evidential_distancing"
+    ],
+    "grammarPracticed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "grammarReviewed": [
+      "gram_b2_direct_indirect_quotation_reported_speech_converbs"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c1_06_complex_media_briefings"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_07_editorial_counter_argumentation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_media_journalism_investigative"
+    ],
+    "previousVocabularyReused": [
+      "эх сурвалж",
+      "мөрдөн шалгах",
+      "мэдээлэл",
+      "баримт",
+      "гүтгэх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "investigative journalistic",
+    "pragmaticTarget": "evidential distancing and liability insulation",
+    "prerequisiteLessonIds": [
+      "les_c1_209_05_parliamentary_mining_inquest_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_209_01_academic_hedging_epistemic_stance_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_209_mining_megaprojects_oyu_tolgoi_tava"
+    ],
+    "reviewReason": "Transitions academic hedging structures into journalistic evidential distancing mechanisms.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Differentiates between direct attribution ('мэдэгдэв'), hearsay evidentials ('гэнэ'), and protective journalistic distancing ('гэх мэдээлэл байна')",
+      "Insulates factual reporting from libel exposure by framing unproven claims within proper evidential matrices"
+    ],
+    "masteryEvidence": "Transforms 5 potentially defamatory direct statements into legally insulated, ethically attributed investigative sentences.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c1_210_02_investigative_exposé_procurement_fraud_reading",
+    "unitId": "unit_c1_210_journalistic_evidential_distancing_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 2,
+    "title": "Investigative Reading: Procurement Corruption & Off-Budget Shell Company Exposé",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse a 530-word investigative exposé from a leading investigative journalism portal (Мөрдөн сурвалжлах сэтгүүл зүйн төв) tracking embezzled state development funds through offshore holding entities.",
+    "communicativeOutcome": "Deconstruct investigative journalism texts, identifying source grading, paper trail reconstruction, and subtle evidential caveats.",
+    "objectivesIntroduced": [
+      "obj_c1_210_02_parse_investigative_exposés"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_210_01_master_evidential_distancing"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_journalistic_evidential_distancing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_06_complex_media_briefings"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_07_editorial_counter_argumentation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_media_journalism_investigative"
+    ],
+    "previousVocabularyReused": [
+      "авлига",
+      "худалдан авалт",
+      "офшор",
+      "данс",
+      "мөнгө угаах"
+    ],
+    "readingObjective": "Analyze complex investigative texts documenting corporate shell structures, illicit enrichment, and institutional complicity.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "investigative journalism exposé",
+    "pragmaticTarget": "forensic journalistic scrutiny",
+    "prerequisiteLessonIds": [
+      "les_c1_210_01_journalistic_evidential_distancing_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_209_02_mining_concession_feasibility_study_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_209_mining_megaprojects_oyu_tolgoi_tava"
+    ],
+    "reviewReason": "Applies technical financial parsing to investigative reporting on corporate embezzlement.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Distinguishes between verified bank ledger records and circumstantial whistleblower statements in the exposé",
+      "Maps the flow of capital across jurisdictions based strictly on evidence presented in the text"
+    ],
+    "masteryEvidence": "Constructs an evidence matrix separating established forensic facts from pending allegations in the 530-word article.",
+    "recommendedExerciseModalities": [
+      "argument_mapping",
+      "source_comparison"
+    ]
+  },
+  {
+    "lessonId": "les_c1_210_03_wiretapped_recording_leak_listening",
+    "unitId": "unit_c1_210_journalistic_evidential_distancing_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Leaked Audio Recording & Whistleblower Interview",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute audio package featuring a leaked telephone colloquy between municipal procurement officials and a follow-up interview with an anonymous whistleblower.",
+    "communicativeOutcome": "Comprehend degraded, elliptical colloquial speech laced with euphemisms for kickbacks, alongside formal investigative interview discourse.",
+    "objectivesIntroduced": [
+      "obj_c1_210_03_comprehend_investigative_audio_leaks"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_210_01_master_evidential_distancing"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_journalistic_evidential_distancing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_06_complex_media_briefings"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_02_parliamentary_interpellation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_media_journalism_investigative"
+    ],
+    "previousVocabularyReused": [
+      "задарсан бичлэг",
+      "шүгэл үлээгч",
+      "нууц уулзалт",
+      "хахууль"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher veiled corruption vernacular and decode implied meaning in clandestine official conversations.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "clandestine official colloquial & investigative broadcast",
+    "pragmaticTarget": "implicit corruption decoding",
+    "prerequisiteLessonIds": [
+      "les_c1_210_02_investigative_exposé_procurement_fraud_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_209_03_investor_earnings_conference_call_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_209_mining_megaprojects_oyu_tolgoi_tava"
+    ],
+    "reviewReason": "Bridges corporate disclosure listening into raw investigative audio leak analysis.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide audio with background noise, phone distortion, and informal bureaucratic slang demanding high C1 acoustic decoding.",
+    "successCriteria": [
+      "Decodes subtextual euphemisms ('ажлын хөлс', 'цайны мөнгө', 'гарын үсэг зурах шагнал') referring to illegal kickbacks",
+      "Accurately transcribes the sequence of compromised procurement tenders discussed"
+    ],
+    "masteryEvidence": "Produces an investigative verification memorandum evaluating the authenticity and evidential weight of the leaked audio.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c1_210_04_investigative_lead_feature_article_writing",
+    "unitId": "unit_c1_210_journalistic_evidential_distancing_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 4,
+    "title": "Journalistic Writing: Drafting an In-Depth Investigative Report on Public Tender Irregularities",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 450-word investigative article exposing bid rigging in state energy infrastructure tenders, adhering strictly to evidential distancing and journalistic ethics.",
+    "communicativeOutcome": "Produce publication-ready investigative journalism in Mongolian, weaving narrative tension with bulletproof factual attribution.",
+    "objectivesIntroduced": [
+      "obj_c1_210_04_author_investigative_articles"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_210_01_master_evidential_distancing"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_journalistic_evidential_distancing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_06_complex_media_briefings"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_07_editorial_counter_argumentation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_media_journalism_investigative"
+    ],
+    "previousVocabularyReused": [
+      "тендер шалгаруулалт",
+      "ашиг сонирхлын зөрчил",
+      "ноцтой зөрчил",
+      "баримт дэлгэх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Author a compelling investigative feature that balances public exposure with rigorous legal attribution markers.",
+    "spokenProductionObjective": "",
+    "registerTarget": "investigative broadsheet feature",
+    "pragmaticTarget": "public accountability exposure",
+    "prerequisiteLessonIds": [
+      "les_c1_210_03_wiretapped_recording_leak_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_209_04_mining_concession_renegotiation_brief_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_209_mining_megaprojects_oyu_tolgoi_tava"
+    ],
+    "reviewReason": "Synthesizes concession renegotiation analysis into hard-hitting investigative public reporting.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Deploys at least 4 varied evidential distancing markers ('...-сан гэх мэдээлэл байна', '...-сан нь баримтаар тогтоогдож байна')",
+      "Balances investigative revelations with documented right-of-reply statements from the accused public entity"
+    ],
+    "masteryEvidence": "Submits a 450-word investigative article ready for national press syndication.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c1_210_05_investigative_podcast_broadcast_spoken",
+    "unitId": "unit_c1_210_journalistic_evidential_distancing_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 5,
+    "title": "Broadcast Journalism: Hosting an Investigative Audio Documentary & Legal Review",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 4-minute narrative broadcast as host of a premier investigative journalism podcast, guiding listeners through a multi-month investigation into illicit mining concessions.",
+    "communicativeOutcome": "Present complex investigative findings orally with compelling broadcast cadence, maintaining ethical distancing and narrative engagement.",
+    "objectivesIntroduced": [
+      "obj_c1_210_05_host_investigative_podcasts"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_210_01_master_evidential_distancing"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_journalistic_evidential_distancing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_06_complex_media_briefings"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_07_editorial_counter_argumentation"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_media_journalism_investigative"
+    ],
+    "previousVocabularyReused": [
+      "подкаст",
+      "нэвтрүүлэг",
+      "хөтлөгч",
+      "тайлбарлах",
+      "үзэгч сонсогчид"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Narrate an investigative audio documentary with professional broadcast modulation, balancing storytelling flair with evidential discipline.",
+    "registerTarget": "broadcast investigative podcast",
+    "pragmaticTarget": "compelling public dissemination",
+    "prerequisiteLessonIds": [
+      "les_c1_210_04_investigative_lead_feature_article_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_209_05_parliamentary_mining_inquest_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_209_mining_megaprojects_oyu_tolgoi_tava"
+    ],
+    "reviewReason": "Transitions parliamentary inquest testimony into public broadcast documentary narration.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of investigative broadcast journalist hosting audio documentary.",
+    "successCriteria": [
+      "Maintains authoritative, measured broadcast intonation avoiding sensationalist inflections",
+      "Seamlessly embeds source attributions and evidentiary caveats into natural spoken delivery"
+    ],
+    "masteryEvidence": "Delivers a 4-minute recorded podcast monologue narrating an investigative breakthrough with impeccable evidential control.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_211_01_rhetorical_inversion_and_clefting_syntax_intro",
+    "unitId": "unit_c1_211_rhetorical_inversion_clefting_in_an",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosyntax: Rhetorical Inversion & Clefting in High-Register Analytical Discourse",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the syntactic mechanics of rhetorical focus fronting, predicate inversion, and cleft constructions (e.g. 'Гагцхүү ... л үүнд шийдвэрлэх үүрэг гүйцэтгэх учиртай', 'Эдийн засгийн тусгаар тогтнол алдагдахад хүрсэн нь чухамхүү төсвийн сахилга батгүйгээс үүдэлтэй') in analytical commentary.",
+    "communicativeOutcome": "Manipulate canonical SOV word order to highlight focal arguments, dramatize analytical contrast, and control information prominence in sophisticated essayistic prose.",
+    "objectivesIntroduced": [
+      "obj_c1_211_01_master_rhetorical_inversion"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_208_01_master_nominalization_frames"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "grammarPracticed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "grammarReviewed": [
+      "gram_b2_topicalization_focus_particles"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c1_08_philosophical_essays"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_07_editorial_counter_argumentation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "чухамхүү",
+      "гагцхүү",
+      "гол шалтгаан",
+      "онцлох",
+      "анхаарах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "scholarly analytical essayistic",
+    "pragmaticTarget": "focal rhetorical emphasis",
+    "prerequisiteLessonIds": [
+      "les_c1_210_05_investigative_podcast_broadcast_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_208_01_academic_nominalization_frames_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_208_macroeconomic_stabilization_monetar"
+    ],
+    "reviewReason": "Applies syntactic focus inversion to complex macroeconomic nominal propositions.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Rearranges standard SOV sentences into focus-cleft constructions without violating postpositional or case-binding rules",
+      "Explains the rhetorical difference in focus between neutral assertion and clefted emphasis"
+    ],
+    "masteryEvidence": "Converts 5 neutral analytical statements into stylistically potent clefted rhetorical assertions.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c1_211_02_macroeconomic_thinktank_essay_reading",
+    "unitId": "unit_c1_211_rhetorical_inversion_clefting_in_an",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 2,
+    "title": "Analytical Reading: Policy Think-Tank Essays on Trade Dependency & Sovereign Vulnerability",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse a 520-word analytical policy essay from a leading Mongolian economic think tank evaluating the structural risks of monoculture mineral export reliance on a single bilateral market.",
+    "communicativeOutcome": "Deconstruct rhetorical strategies in high-level intellectual prose, identifying clefted thesis statements, rhetorical antitheses, and philosophical reflections on economic statecraft.",
+    "objectivesIntroduced": [
+      "obj_c1_211_02_parse_thinktank_essays"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_211_01_master_rhetorical_inversion"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_08_philosophical_essays"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_07_editorial_counter_argumentation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "худалдааны хамаарал",
+      "экспорт",
+      "түүхий эд",
+      "эрсдэл",
+      "бодлогын судалгаа"
+    ],
+    "readingObjective": "Critique complex economic essayistic arguments analyzing structural geopolitical dependencies through rhetorical inversions.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "think-tank analytical intellectual",
+    "pragmaticTarget": "macro-argumentative analysis",
+    "prerequisiteLessonIds": [
+      "les_c1_211_01_rhetorical_inversion_and_clefting_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_208_02_central_bank_monetary_policy_report_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_208_macroeconomic_stabilization_monetar"
+    ],
+    "reviewReason": "Bridges central bank econometric reading into philosophical think-tank economic essays.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies the author's primary policy thesis highlighted through rhetorical cleft constructions",
+      "Traces how thematic progression shifts between descriptive data points and normative structural critique"
+    ],
+    "masteryEvidence": "Writes a 300-word critical rhetorical deconstruction analyzing the essay's persuasive architecture.",
+    "recommendedExerciseModalities": [
+      "argument_mapping",
+      "source_comparison"
+    ]
+  },
+  {
+    "lessonId": "les_c1_211_03_scholarly_keynote_economic_forum_listening",
+    "unitId": "unit_c1_211_rhetorical_inversion_clefting_in_an",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Mongolian Economic Forum Keynote Oratory",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute keynote address delivered by an eminent Mongolian economist at the Mongolian Economic Forum, utilizing rhetorical clefting and rhythmic parallelism to challenge national industrial policies.",
+    "communicativeOutcome": "Process sophisticated oratorical speech delivered with dramatic pauses, dynamic stress patterns, and inversion structures at natural forum cadence (150-170 wpm).",
+    "objectivesIntroduced": [
+      "obj_c1_211_03_comprehend_economic_keynotes"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_211_01_master_rhetorical_inversion"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_08_philosophical_essays"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_13_scholarly_synthesis"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "чуулган",
+      "илтгэл",
+      "аж үйлдвэржилт",
+      "эдийн засгийн шинэчлэл"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher spoken oratorical cadence, tracking how the speaker uses clefting to emphasize strategic policy priorities.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "formal economic oratorical",
+    "pragmaticTarget": "persuasive intellectual inspiration",
+    "prerequisiteLessonIds": [
+      "les_c1_211_02_macroeconomic_thinktank_essay_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_208_03_monetary_policy_committee_briefing_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_208_macroeconomic_stabilization_monetar"
+    ],
+    "reviewReason": "Elevates central bank briefing listening into formal plenary keynote address comprehension.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic auditorium recording featuring reverberant forum acoustics, rhetorical applause pauses, and emphatic stress patterns.",
+    "successCriteria": [
+      "Identifies the 3 focal policy interventions highlighted through cleft particles ('гагцхүү ... л')",
+      "Analyzes how prosodic emphasis corresponds directly to syntactic inversion in the address"
+    ],
+    "masteryEvidence": "Produces an analytical outline summarizing the core ideological challenge posed by the keynote speaker.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "stance_identification"
+    ]
+  },
+  {
+    "lessonId": "les_c1_211_04_economic_commentary_column_writing",
+    "unitId": "unit_c1_211_rhetorical_inversion_clefting_in_an",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 4,
+    "title": "Analytical Writing: Drafting an Op-Ed Column on Dutch Disease & Industrial Diversification",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 440-word prestigious Op-Ed column for a major national daily (Өнөөдөр, Зууны мэдээ) analyzing the risks of the 'Dutch Disease' ('Голланд өвчин') and arguing for urgent high-tech diversification.",
+    "communicativeOutcome": "Produce high-impact intellectual commentary in Mongolian, integrating rhetorical inversion, vivid metaphors, and rigorous economic logic.",
+    "objectivesIntroduced": [
+      "obj_c1_211_04_author_economic_opeds"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_211_01_master_rhetorical_inversion"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_08_philosophical_essays"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_07_editorial_counter_argumentation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "нийтлэл",
+      "сонин",
+      "солонгоруулах",
+      "өрсөлдөх чадвар"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft a compelling analytical Op-Ed utilizing rhetorical inversion and clefting to challenge conventional resource-extractive economic paradigms.",
+    "spokenProductionObjective": "",
+    "registerTarget": "high-register journalistic commentary",
+    "pragmaticTarget": "persuasive public debate mobilization",
+    "prerequisiteLessonIds": [
+      "les_c1_211_03_scholarly_keynote_economic_forum_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_210_04_investigative_lead_feature_article_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_210_journalistic_evidential_distancing_"
+    ],
+    "reviewReason": "Bridges investigative reporting into analytical op-ed essay writing.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Deploys rhetorical cleft constructions ('... нь чухамхүү ...-тай холбоотой юм') to highlight focal economic diagnoses",
+      "Balances persuasive rhetorical flair with precise economic data citations"
+    ],
+    "masteryEvidence": "Submits a compliant 440-word op-ed column ready for national editorial publication.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c1_211_05_televised_economic_debate_spoken",
+    "unitId": "unit_c1_211_rhetorical_inversion_clefting_in_an",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 5,
+    "title": "Deliberative Speaking: Televised Prime-Time Debate on Sovereign Economic Strategy",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Participate in an unscripted 4-minute segment of a televised round-table debate on national economic strategy, delivering persuasive refutations of short-term cash handout policies using rhetorical clefting.",
+    "communicativeOutcome": "Engage in live intellectual debate with consummate oratorical control, leveraging focus fronting to command debate dynamics.",
+    "objectivesIntroduced": [
+      "obj_c1_211_05_debate_economic_policy_televised"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_211_01_master_rhetorical_inversion"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_08_philosophical_essays"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "халз мэтгэлцээн",
+      "шууд нэвтрүүлэг",
+      "халамж",
+      "хөгжлийн гарц"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Argue sovereign economic priorities orally under live television conditions, countering populist redistribution claims with structural arguments.",
+    "registerTarget": "broadcast televised debate",
+    "pragmaticTarget": "decisive rhetorical refutation",
+    "prerequisiteLessonIds": [
+      "les_c1_211_04_economic_commentary_column_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_210_05_investigative_podcast_broadcast_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_210_journalistic_evidential_distancing_"
+    ],
+    "reviewReason": "Elevates podcast broadcasting into live televised prime-time policy debate confrontation.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of leading public intellectual debating economic strategy on television.",
+    "successCriteria": [
+      "Uses clefted rhetorical fronting spontaneously to seize and maintain the floor during heated debate",
+      "Dismantles opponent assertions regarding populist subsidies without breaking civil decorum"
+    ],
+    "masteryEvidence": "Delivers a 4-minute unscripted televised debate performance successfully rebutting 2 populist economic counter-arguments.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_212_01_formal_adversative_concessives_syntax_intro",
+    "unitId": "unit_c1_212_formal_adversative_concessive_conne",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosyntax: High-Register Adversative & Concessive Connectors in Diplomatic Discourse",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the syntactic governance and nuanced register constraints of formal adversative and concessive macrosyntax markers (e.g. '...-ыг үл харгалзан', '... хэдий тийм боловч', '... хэдийгээр ... боловч', '...-аас үл хамааран') in treaty negotiations and diplomatic statecraft.",
+    "communicativeOutcome": "Construct complex concession-counterassertion balances, maintaining diplomatic poise while acknowledging counter-positions.",
+    "objectivesIntroduced": [
+      "obj_c1_212_01_master_formal_adversatives"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_211_01_master_rhetorical_inversion"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "grammarPracticed": [
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "grammarReviewed": [
+      "gram_b2_concessive_conditional_chains"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c1_03_multilateral_diplomatic_summits"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_diplomacy_foreign_policy_treaties",
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "үл харгалзан",
+      "хэдий тийм боловч",
+      "гэсэн хэдий ч",
+      "яриа хэлэлцээ"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "diplomatic statecraft formal",
+    "pragmaticTarget": "tactical concession and firm counter-assertion",
+    "prerequisiteLessonIds": [
+      "les_c1_211_05_televised_economic_debate_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_211_01_rhetorical_inversion_and_clefting_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_211_rhetorical_inversion_clefting_in_an"
+    ],
+    "reviewReason": "Synthesizes rhetorical focus clefting with diplomatic adversative-concessive connectors.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Correctly assigns accusative case to nominalized clauses governed by 'үл харгалзан' ('...-сан явдлыг үл харгалзан')",
+      "Distinguishes subtle pragmatic nuances between 'хэдий тийм боловч' (assertive diplomatic rebuttal) and 'гэсэн хэдий ч' (general concession)"
+    ],
+    "masteryEvidence": "Constructs 5 complex diplomatic clauses balancing contradictory sovereign demands using target concessive connectors.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c1_212_02_bilateral_trade_treaty_protocols_reading",
+    "unitId": "unit_c1_212_formal_adversative_concessive_conne",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 2,
+    "title": "Diplomatic Reading: Bilateral Economic Partnership Agreements & Tariff Concessions",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse a 510-word official text from the Mongolia-Japan Economic Partnership Agreement (EPA) or Mongolia-China Border Trade Protocol, examining tariff exemption quotas and sovereign non-compliance carve-outs.",
+    "communicativeOutcome": "Deconstruct formal bilateral trade treaties, identifying reciprocal concessions, non-tariff barrier disputes, and dispute settlement triggers.",
+    "objectivesIntroduced": [
+      "obj_c1_212_02_parse_trade_treaties"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_212_01_master_formal_adversatives"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "grammarReviewed": [
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_03_multilateral_diplomatic_summits"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_diplomacy_foreign_policy_treaties",
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "чөлөөт худалдааны хэлэлцээр",
+      "гаалийн татвар",
+      "хөнгөлөлт",
+      "протокол"
+    ],
+    "readingObjective": "Analyze complex treaty provisions containing layered concessive clauses and restrictive exceptions.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "bilateral treaty diplomatic",
+    "pragmaticTarget": "treaty obligation exegesis",
+    "prerequisiteLessonIds": [
+      "les_c1_212_01_formal_adversative_concessives_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_205_01_concession_agreements_arbitration_clauses_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_205_bilateral_concession_contracts_inve"
+    ],
+    "reviewReason": "Bridges corporate concession contracts into sovereign bilateral economic partnership treaties.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Extracts specific tariff phase-out schedules conditioned on reciprocal concessions",
+      "Interprets safeguard clauses ('хамгаалалтын арга хэмжээ') triggered by sudden import surges"
+    ],
+    "masteryEvidence": "Answers 4 technical treaty interpretation questions determining the legality of national phytosanitary import bans under EPA rules.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "claim_evidence_matching"
+    ]
+  },
+  {
+    "lessonId": "les_c1_212_03_intergovernmental_commission_session_listening",
+    "unitId": "unit_c1_212_formal_adversative_concessive_conne",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Intergovernmental Joint Commission Plenary Negotiations",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute authentic recording of a bilateral Intergovernmental Commission (Засгийн газар хоорондын комиссын хуралдаан) negotiation regarding cross-border rail gauges and transit tariff reductions.",
+    "communicativeOutcome": "Process sophisticated diplomatic bargaining speech (155-175 wpm), discerning underlying negotiating leverage behind polite concessive rhetoric.",
+    "objectivesIntroduced": [
+      "obj_c1_212_03_comprehend_commission_negotiations"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_212_01_master_formal_adversatives"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "grammarReviewed": [
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_03_multilateral_diplomatic_summits"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_diplomacy_foreign_policy_treaties",
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "хамтарсан комисс",
+      "дамжин өнгөрөх тээвэр",
+      "төмөр зам",
+      "хэлэлцээр хийх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher diplomatic speech balancing polite concessions with unyielding strategic positions in high-stakes bilateral negotiations.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "bilateral diplomatic negotiation",
+    "pragmaticTarget": "subtextual diplomatic appraisal",
+    "prerequisiteLessonIds": [
+      "les_c1_212_02_bilateral_trade_treaty_protocols_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_205_02_commercial_arbitration_tribunal_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_205_bilateral_concession_contracts_inve"
+    ],
+    "reviewReason": "Transitions from arbitration chamber listening to intergovernmental diplomatic negotiation audio.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic diplomatic commission recording with simultaneous translation cues and formal state protocol cadences.",
+    "successCriteria": [
+      "Identifies the precise point where the lead negotiator rejects the counter-party's proposal despite employing polite concessive markers",
+      "Transcribes the agreed transit quota figures recorded in the draft session protocol"
+    ],
+    "masteryEvidence": "Produces an intergovernmental negotiation summary identifying points of convergence, non-negotiable redlines, and deferred agenda items.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "stance_identification"
+    ]
+  },
+  {
+    "lessonId": "les_c1_212_04_bilateral_summit_communique_writing",
+    "unitId": "unit_c1_212_formal_adversative_concessive_conne",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 4,
+    "title": "Diplomatic Writing: Drafting a Joint Bilateral Summit Communiqué (Хамтарсан мэдэгдэл)",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 440-word official Joint Communiqué following a bilateral presidential state visit, formulating agreed trade corridors, diplomatic alignments, and constructive handling of unresolved border transit issues.",
+    "communicativeOutcome": "Produce high-level diplomatic state papers adhering to official diplomatic protocol and chancellery drafting standards.",
+    "objectivesIntroduced": [
+      "obj_c1_212_04_draft_joint_communiques"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_212_01_master_formal_adversatives"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "grammarReviewed": [
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_03_multilateral_diplomatic_summits"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_diplomacy_foreign_policy_treaties"
+    ],
+    "previousVocabularyReused": [
+      "хамтарсан тунхаглал",
+      "төрийн айлчлал",
+      "стратегийн түншлэл",
+      "найрсаг харилцаа"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft an official diplomatic communiqué balancing mutual commitments against ongoing sovereignty safeguards.",
+    "spokenProductionObjective": "",
+    "registerTarget": "high diplomatic statecraft",
+    "pragmaticTarget": "consensual diplomatic documentation",
+    "prerequisiteLessonIds": [
+      "les_c1_212_03_intergovernmental_commission_session_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_206_02_drafting_ministerial_decree_statutory_rationale_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_206_drafting_executive_ministerial_decr"
+    ],
+    "reviewReason": "Synthesizes ministerial decree drafting into sovereign international joint communiqués.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Uses formal concessive connectors ('үл харгалзан', 'хэдий тийм боловч') to articulate shared progress while delicately noting areas requiring future consultations",
+      "Adheres strictly to diplomatic honorifics and sovereign parity formulations"
+    ],
+    "masteryEvidence": "Submits a 440-word bilateral communiqué ready for signature by heads of state.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c1_212_05_bilateral_trade_envoy_briefing_spoken",
+    "unitId": "unit_c1_212_formal_adversative_concessive_conne",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 5,
+    "title": "Diplomatic Advocacy: Special Envoy Briefing on Sovereign Trade Safeguards",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 4-minute verbal briefing as Ambassador Plenipotentiary or Special Trade Envoy to foreign delegates, maintaining national strategic ownership over transport corridors while offering commercial transit concessions.",
+    "communicativeOutcome": "Articulate diplomatic redlines with supreme tact, fielding pointed foreign demands with poised concessive framing.",
+    "objectivesIntroduced": [
+      "obj_c1_212_05_deliver_diplomatic_briefings"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_212_01_master_formal_adversatives"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "grammarReviewed": [
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_03_multilateral_diplomatic_summits"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_diplomacy_foreign_policy_treaties",
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "онц бөгөөд бүрэн эрхт элчин сайд",
+      "улсын ашиг сонирхол",
+      "эв найрамдал"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Argue sovereign diplomatic stances orally, utilizing concessive connectors to reject extraterritorial jurisdiction proposals with elegance.",
+    "registerTarget": "plenipotentiary diplomatic oral",
+    "pragmaticTarget": "tactful sovereign defense",
+    "prerequisiteLessonIds": [
+      "les_c1_212_04_bilateral_summit_communique_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_205_04_settlement_negotiation_dispute_advocacy_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_205_bilateral_concession_contracts_inve"
+    ],
+    "reviewReason": "Elevates commercial settlement negotiation into plenipotentiary diplomatic advocacy.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of seasoned diplomat delivering formal bilateral briefing.",
+    "successCriteria": [
+      "Deploys formal concessives ('...-ыг үл харгалзан, манай тал байр сууриа чанд хадгална') without causing diplomatic offense",
+      "Maintains serene composure and unwavering clarity on national strategic interests"
+    ],
+    "masteryEvidence": "Delivers an unscripted 4-minute simulated diplomatic briefing successfully turning down an unfavorable transit tariff demand.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_213_01_sovereign_wealth_charter_reading",
+    "unitId": "unit_c1_213_sovereign_wealth_funds_future_herit",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 1,
+    "title": "Institutional Reading: Sovereign Wealth Fund Governance & Asset Allocation Charters",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse a 510-word statutory investment mandate and portfolio allocation charter for the Future Heritage Fund of Mongolia (Ирээдүйн өв сан), examining Santiago Principles compliance and fiscal stabilization deposit rules.",
+    "communicativeOutcome": "Deconstruct sovereign wealth fund governance models, evaluating fiscal savings formulas, intergenerational equity ratios, and offshore asset management mandates.",
+    "objectivesIntroduced": [
+      "obj_c1_213_01_parse_wealth_fund_charters"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_208_01_master_nominalization_frames"
+    ],
+    "objectivesReviewed": [
+      "obj_c1_200_01_master_statutory_framing"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "grammarReviewed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "баялгийн сан",
+      "ирээдүйн өв сан",
+      "хөрөнгө оруулалтын багц",
+      "санхүүгийн удирдлага"
+    ],
+    "readingObjective": "Evaluate complex institutional charters governing sovereign mineral wealth accumulation and fiduciary duties.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "institutional fiduciary finance",
+    "pragmaticTarget": "statutory governance compliance",
+    "prerequisiteLessonIds": [
+      "les_c1_212_05_bilateral_trade_envoy_briefing_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_208_02_central_bank_monetary_policy_report_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_208_macroeconomic_stabilization_monetar"
+    ],
+    "reviewReason": "Applies macroeconomic monetary reading directly to sovereign wealth fund fiduciary charters.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies the precise percentage of mineral royalty revenues designated for irreversible sovereign accumulation",
+      "Explains the legal barriers preventing the executive branch from raiding sovereign assets for deficit financing"
+    ],
+    "masteryEvidence": "Constructs a governance risk audit highlighting 3 statutory vulnerabilities in a draft sovereign fund law.",
+    "recommendedExerciseModalities": [
+      "argument_mapping",
+      "source_comparison"
+    ]
+  },
+  {
+    "lessonId": "les_c1_213_02_wealth_fund_board_deliberation_listening",
+    "unitId": "unit_c1_213_sovereign_wealth_funds_future_herit",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 2,
+    "title": "Acoustic Dissection: Sovereign Wealth Fund Supervisory Board Deliberations",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute unedited audio recording of the Future Heritage Fund Board of Directors deliberating international fixed-income vs global equity risk-weighted portfolio allocations.",
+    "communicativeOutcome": "Process sophisticated spoken financial debates (155-175 wpm), tracking risk-return tradeoffs, asset custodian selection, and ESG screening mandates.",
+    "objectivesIntroduced": [
+      "obj_c1_213_02_comprehend_fund_deliberations"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_213_01_parse_wealth_fund_charters"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "хяналтын зөвлөл",
+      "эрсдэлийн менежмент",
+      "бонд",
+      "хувьцаа",
+      "өгөөж"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher spoken asset management terminology and boardroom debate dynamics among sovereign investment officers.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "institutional investment boardroom",
+    "pragmaticTarget": "fiduciary investment evaluation",
+    "prerequisiteLessonIds": [
+      "les_c1_213_01_sovereign_wealth_charter_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_208_03_monetary_policy_committee_briefing_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_208_macroeconomic_stabilization_monetar"
+    ],
+    "reviewReason": "Bridges central bank rate briefing listening into sovereign wealth board portfolio deliberations.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic multi-speaker boardroom audio featuring international financial terms integrated into Mongolian syntax.",
+    "successCriteria": [
+      "Transcribes the target asset allocation percentages across global equities, sovereign bonds, and alternative assets",
+      "Identifies the board member's primary dissent regarding foreign currency hedging costs"
+    ],
+    "masteryEvidence": "Produces an analytical board minute summary summarizing portfolio decisions and risk controls.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "stance_identification"
+    ]
+  },
+  {
+    "lessonId": "les_c1_213_03_sovereign_fund_investment_strategy_writing",
+    "unitId": "unit_c1_213_sovereign_wealth_funds_future_herit",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 3,
+    "title": "Juristic-Economic Writing: Long-Term Sovereign Wealth Investment Strategy",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 440-word Strategic Investment Policy Statement (Хөрөнгө оруулалтын стратегийн бодлогын баримт бичиг) for the Sovereign Wealth Fund, establishing benchmark indices, maximum drawdown limits, and ethical exclusion criteria.",
+    "communicativeOutcome": "Produce high-level sovereign investment documentation meeting international institutional standards (IFSWF).",
+    "objectivesIntroduced": [
+      "obj_c1_213_03_author_wealth_fund_strategies"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_213_01_parse_wealth_fund_charters"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "grammarReviewed": [
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "стратеги төлөвлөгөө",
+      "хөрөнгийн хуваарилалт",
+      "эрсдэл даах чадвар"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft a comprehensive sovereign wealth fund investment mandate detailing asset diversification and governance rules.",
+    "spokenProductionObjective": "",
+    "registerTarget": "sovereign institutional finance",
+    "pragmaticTarget": "fiduciary investment policy setting",
+    "prerequisiteLessonIds": [
+      "les_c1_213_02_wealth_fund_board_deliberation_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_208_04_macroeconomic_policy_brief_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_208_macroeconomic_stabilization_monetar"
+    ],
+    "reviewReason": "Synthesizes macroeconomic policy writing into sovereign wealth investment policy statements.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Defines explicit portfolio return benchmarks and volatility boundaries using academic nominalization frames",
+      "Formulates strict anti-corruption and domestic political insulation firewalls"
+    ],
+    "masteryEvidence": "Submits a compliant 440-word sovereign investment policy ready for cabinet ratification.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c1_213_04_sovereign_fund_parliamentary_defense_spoken",
+    "unitId": "unit_c1_213_sovereign_wealth_funds_future_herit",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 4,
+    "title": "Deliberative Speaking: Defending Sovereign Wealth Fund Autonomy Against Political Raiding",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 4-minute testimony as Chief Executive Officer of the Sovereign Wealth Fund before the Parliamentary Budget Standing Committee, refusing demands to liquidate offshore assets for short-term fiscal stimulus.",
+    "communicativeOutcome": "Defend institutional fiduciary independence with authoritative composure, articulating intergenerational justice with profound rhetorical weight.",
+    "objectivesIntroduced": [
+      "obj_c1_213_04_defend_fund_autonomy_orally"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_213_01_parse_wealth_fund_charters"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "grammarReviewed": [
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "бие даасан байдал",
+      "хойч үе",
+      "халдашгүй дархан байдал",
+      "хуулийн засаглал"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Argue sovereign intergenerational wealth protection orally, resisting populist pressure with calm statutory rigor.",
+    "registerTarget": "formal parliamentary deliberative",
+    "pragmaticTarget": "principled fiduciary defense",
+    "prerequisiteLessonIds": [
+      "les_c1_213_03_sovereign_fund_investment_strategy_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_208_05_parliamentary_budget_inquiry_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_208_macroeconomic_stabilization_monetar"
+    ],
+    "reviewReason": "Elevates monetary policy defense into parliamentary battles over sovereign wealth fund integrity.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide model audio of sovereign wealth fund chief defending asset autonomy before parliamentary inquiry.",
+    "successCriteria": [
+      "Utilizes rhetorical clefting to underscore that mineral wealth belongs to future unborn generations",
+      "Counters lawmaker budget deficit arguments by citing statutory prohibition clauses without hesitation"
+    ],
+    "masteryEvidence": "Defends fund independence across a 4-minute simulated legislative grilling without making unprincipled concessions.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_214_01_off_budget_sovereign_bond_investigation_reading",
+    "unitId": "unit_c1_214_investigative_financial_journalism_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 1,
+    "title": "Investigative Reading: Off-Budget Bond Issuance & Development Bank Quasi-Fiscal Audits",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse a 520-word investigative report detailing off-budget financing mechanisms, sovereign samurai/chinggis bond re-allocations, and non-performing state loans at the Development Bank of Mongolia (Хөгжлийн банк).",
+    "communicativeOutcome": "Deconstruct complex quasi-fiscal schemes, tracing debt concealment techniques, corporate loan defaults, and political influence peddling.",
+    "objectivesIntroduced": [
+      "obj_c1_214_01_parse_quasi_fiscal_audits"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_210_01_master_evidential_distancing"
+    ],
+    "objectivesReviewed": [
+      "obj_c1_208_01_master_nominalization_frames"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_journalistic_evidential_distancing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c1_06_complex_media_briefings"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_07_editorial_counter_argumentation"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_media_journalism_investigative",
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "хөгжлийн банк",
+      "бонд",
+      "чанаргүй зээл",
+      "төсвөөс гадуурх санхүүжилт"
+    ],
+    "readingObjective": "Analyze complex forensic financial audits revealing systemic institutional corruption and off-budget liabilities.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "forensic financial investigative",
+    "pragmaticTarget": "financial corruption exposure",
+    "prerequisiteLessonIds": [
+      "les_c1_213_04_sovereign_fund_parliamentary_defense_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_210_02_investigative_exposé_procurement_fraud_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_210_journalistic_evidential_distancing_"
+    ],
+    "reviewReason": "Extends procurement fraud reading into quasi-fiscal banking investigation analysis.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Maps the diversion of sovereign bond proceeds from industrial infrastructure to politically connected private enterprises",
+      "Distinguishes between official state budget accounting and quasi-fiscal shadow debt obligations"
+    ],
+    "masteryEvidence": "Constructs an forensic balance sheet diagram documenting uncollateralized state bank loan defaults.",
+    "recommendedExerciseModalities": [
+      "argument_mapping",
+      "source_comparison"
+    ]
+  },
+  {
+    "lessonId": "les_c1_214_02_forensic_auditor_whistleblower_listening",
+    "unitId": "unit_c1_214_investigative_financial_journalism_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 2,
+    "title": "Acoustic Dissection: Forensic Auditor Debriefing on Bank Collateral Fraud",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute debriefing recording between an independent forensic auditor and an investigative journalism team regarding forged collateral valuations submitted for state mining loans.",
+    "communicativeOutcome": "Process technical forensic accounting dialogue (155-175 wpm), discerning evidence verification methodologies and whistleblower risk assessments.",
+    "objectivesIntroduced": [
+      "obj_c1_214_02_comprehend_forensic_audits"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_214_01_parse_quasi_fiscal_audits"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_journalistic_evidential_distancing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_06_complex_media_briefings"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_02_parliamentary_interpellation"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_media_journalism_investigative",
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "барьцаа хөрөнгө",
+      "үнэлгээ хуурамчаар үйлдэх",
+      "аудит",
+      "шалгалтын дүн"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher spoken technical accounting jargon detailing fraudulent asset over-valuations and bank ledger manipulation.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "forensic investigative technical",
+    "pragmaticTarget": "accounting fraud identification",
+    "prerequisiteLessonIds": [
+      "les_c1_214_01_off_budget_sovereign_bond_investigation_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_210_03_wiretapped_recording_leak_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_210_journalistic_evidential_distancing_"
+    ],
+    "reviewReason": "Bridges investigative leak listening into expert forensic accounting debriefs.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic technical discussion audio between investigative reporters and forensic auditors.",
+    "successCriteria": [
+      "Identifies the specific appraisal methodologies manipulated to inflate worthless land parcels ten-fold",
+      "Detects the auditor's professional reservations regarding political interference in prosecutorial referral"
+    ],
+    "masteryEvidence": "Produces an investigative evidentiary dossier outlining the collateral fraud chain of custody.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c1_214_03_investigative_banking_fraud_dossier_writing",
+    "unitId": "unit_c1_214_investigative_financial_journalism_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 3,
+    "title": "Journalistic Writing: Authoring a Multi-Part Investigative Series on Sovereign Debt Laundering",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 440-word lead article for an investigative series ('Төрийн банкны сүүдэртэй санхүүжилт') detailing how state development bank loans were siphoned into shell companies owned by parliamentarians.",
+    "communicativeOutcome": "Produce high-impact financial investigative journalism adhering to strict libel-proofing and evidential attribution standards.",
+    "objectivesIntroduced": [
+      "obj_c1_214_03_author_financial_investigations"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_214_01_parse_quasi_fiscal_audits"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_journalistic_evidential_distancing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_06_complex_media_briefings"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_07_editorial_counter_argumentation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_media_journalism_investigative",
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "сэтгүүл зүйн эрэн сурвалжлах",
+      "хариуцлага нэхэх",
+      "төсвийн хулгай"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft a multi-source investigative exposé combining empirical financial diagrams with bulletproof legal evidential markers.",
+    "spokenProductionObjective": "",
+    "registerTarget": "investigative financial journalism",
+    "pragmaticTarget": "high-impact public accountability",
+    "prerequisiteLessonIds": [
+      "les_c1_214_02_forensic_auditor_whistleblower_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_210_04_investigative_lead_feature_article_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_210_journalistic_evidential_distancing_"
+    ],
+    "reviewReason": "Synthesizes general investigative writing into specialized forensic banking corruption exposés.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Deploys evidential distancing formulas to protect against civil defamation actions while presenting overwhelming documentary proof",
+      "Structures the narrative arc to expose institutional complicity and demand anti-corruption agency intervention"
+    ],
+    "masteryEvidence": "Submits an exemplary 440-word investigative article ready for front-page national publication.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c1_214_04_televised_press_interrogation_spoken",
+    "unitId": "unit_c1_214_investigative_financial_journalism_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 4,
+    "title": "Journalistic Advocacy: Press Conference Cross-Examination of State Bank Executives",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 4-minute aggressive journalistic cross-examination of the Development Bank President at a live national press conference, confronting leadership with documented loan default audits.",
+    "communicativeOutcome": "Execute forensic spoken interrogation under live media cameras, cornering evasive public officials with unassailable factual precision.",
+    "objectivesIntroduced": [
+      "obj_c1_214_04_interrogate_officials_orally"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_214_01_parse_quasi_fiscal_audits"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_journalistic_evidential_distancing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_06_complex_media_briefings"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_02_parliamentary_interpellation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_media_journalism_investigative"
+    ],
+    "previousVocabularyReused": [
+      "хэвлэлийн бага хурал",
+      "асуулт тавих",
+      "няцаах",
+      "нотолгоо шаардах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Conduct incisive journalistic cross-examination orally, pinning down evasive bureaucratic responses using rapid-fire factual rebuttals.",
+    "registerTarget": "adversarial journalistic press interrogation",
+    "pragmaticTarget": "uncompromising official accountability",
+    "prerequisiteLessonIds": [
+      "les_c1_214_03_investigative_banking_fraud_dossier_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_210_05_investigative_podcast_broadcast_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_210_journalistic_evidential_distancing_"
+    ],
+    "reviewReason": "Transforms narrative podcast broadcasting into live adversarial press conference cross-examination.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of investigative reporter interrogating bank president during live televised press briefing.",
+    "successCriteria": [
+      "Maintains relentless journalistic pressure while remaining within professional ethical decorum",
+      "Cites specific loan agreement numbers, default dates, and valuation fraud figures without hesitation"
+    ],
+    "masteryEvidence": "Executes a 4-minute simulated press interrogation breaking through bureaucratic non-answers to extract an official concession.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_215_01_cross_border_rail_feasibility_reading",
+    "unitId": "unit_c1_215_commodity_trade_logistics_rail_infr",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 1,
+    "title": "Logistics Reading: Cross-Border Rail Gauge Interoperability & Port Access Treaties",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse a 510-word technical logistics agreement and rail corridor study examining transshipment terminal bottlenecks at Gashuunsukhait-Gantsmod, broad vs standard gauge conversion facilities, and Chinese seaborne port transit rights.",
+    "communicativeOutcome": "Analyze international transportation agreements, multimodal freight tariff structures, and sovereign transit corridor logistics in Mongolian.",
+    "objectivesIntroduced": [
+      "obj_c1_215_01_parse_rail_logistics_treaties"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_212_01_master_formal_adversatives"
+    ],
+    "objectivesReviewed": [
+      "obj_c1_208_01_master_nominalization_frames"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c1_03_multilateral_diplomatic_summits"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance",
+      "lex_c1_diplomacy_foreign_policy_treaties"
+    ],
+    "previousVocabularyReused": [
+      "төмөр замын цариг",
+      "хил дамнасан тээвэр",
+      "шилжүүлэн ачих",
+      "боомт"
+    ],
+    "readingObjective": "Evaluate complex cross-border rail infrastructure feasibility documents containing technical engineering and customs transit provisions.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "transportation logistics bilateral legal",
+    "pragmaticTarget": "infrastructure bottleneck analysis",
+    "prerequisiteLessonIds": [
+      "les_c1_214_04_televised_press_interrogation_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_212_02_bilateral_trade_treaty_protocols_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_212_formal_adversative_concessive_conne"
+    ],
+    "reviewReason": "Applies bilateral trade treaty parsing directly to transport logistics corridor agreements.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies the technical differences between Russian broad gauge (1520mm) and Chinese standard gauge (1435mm) transshipment capacities",
+      "Extracts sovereign transit tariff discount guarantees secured under tripartite railway agreements"
+    ],
+    "masteryEvidence": "Answers 4 technical logistics questions assessing optimal coal freight throughput across competing border terminals.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "claim_evidence_matching"
+    ]
+  },
+  {
+    "lessonId": "les_c1_215_02_tripartite_transit_railway_summit_listening",
+    "unitId": "unit_c1_215_commodity_trade_logistics_rail_infr",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 2,
+    "title": "Acoustic Dissection: Mongolia-Russia-China Tripartite Economic Corridor Transport Summit",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute authentic recording of tripartite negotiations among railway transport ministers regarding freight volume quotas, customs harmonization, and container transit speed guarantees across the Mongolian corridor.",
+    "communicativeOutcome": "Process fast-paced multilateral diplomatic-technical speech (155-175 wpm), tracking conflicting national interests and concessive compromises.",
+    "objectivesIntroduced": [
+      "obj_c1_215_02_comprehend_tripartite_transport_summits"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_215_01_parse_rail_logistics_treaties"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_03_multilateral_diplomatic_summits"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance",
+      "lex_c1_diplomacy_foreign_policy_treaties"
+    ],
+    "previousVocabularyReused": [
+      "гурван талт уулзалт",
+      "эдийн засгийн коридор",
+      "дамжин өнгөрөх ачаа"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher spoken multilateral transport bargaining speech, identifying negotiated concessions on border clearance automation.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "tripartite diplomatic technical",
+    "pragmaticTarget": "multilateral consensus tracking",
+    "prerequisiteLessonIds": [
+      "les_c1_215_01_cross_border_rail_feasibility_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_212_03_intergovernmental_commission_session_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_212_formal_adversative_concessive_conne"
+    ],
+    "reviewReason": "Transitions from bilateral intergovernmental commissions to tripartite transport summit negotiations.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic recording of three-nation railway ministers negotiating transit corridors with simultaneous interpretation cadences.",
+    "successCriteria": [
+      "Transcribes agreed freight volume targets (million tons per annum) for northern and southern border crossings",
+      "Distinguishes binding commitments from aspirational intentions in the ministerial joint statement"
+    ],
+    "masteryEvidence": "Produces a tripartite negotiation briefing outlining each nation's redlines and agreed transit tariff schedules.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c1_215_03_national_logistics_masterplan_writing",
+    "unitId": "unit_c1_215_commodity_trade_logistics_rail_infr",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 3,
+    "title": "Technical-Strategic Writing: National Freight Logistics & Dry Port Masterplan",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 440-word Strategic Masterplan Section for the Ministry of Road and Transport Development evaluating dry port hub locations (Zamyn-Üüd, Altanbulag, Sainshand) and intermodal transshipment optimization.",
+    "communicativeOutcome": "Produce comprehensive national infrastructure planning documentation synthesizing logistical data, spatial geography, and trade economics.",
+    "objectivesIntroduced": [
+      "obj_c1_215_03_author_logistics_masterplans"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_215_01_parse_rail_logistics_treaties"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "grammarReviewed": [
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "хуурай боомт",
+      "дэд бүтэц хөгжүүлэх",
+      "мастер төлөвлөгөө",
+      "ачаа эргэлт"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft an authoritative transport masterplan integrating freight volume forecasts, rail-to-road interchange designs, and financing structures.",
+    "spokenProductionObjective": "",
+    "registerTarget": "national strategic planning",
+    "pragmaticTarget": "infrastructure optimization plan",
+    "prerequisiteLessonIds": [
+      "les_c1_215_02_tripartite_transit_railway_summit_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_213_03_sovereign_fund_investment_strategy_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_213_sovereign_wealth_funds_future_herit"
+    ],
+    "reviewReason": "Synthesizes strategic fund investment writing into national logistics infrastructure masterplanning.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Employs precise logistical terminology ('чингэлэг тээвэр', 'шилжүүлэн ачих хүчин чадал') accurately",
+      "Structures recommendations into phased development tiers with quantifiable throughput milestones"
+    ],
+    "masteryEvidence": "Submits a compliant 440-word masterplan section ready for inclusion in the National Development Strategy.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c1_215_04_cross_border_transport_corridor_defense_spoken",
+    "unitId": "unit_c1_215_commodity_trade_logistics_rail_infr",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 4,
+    "title": "Diplomatic Advocacy: Multilateral Transport Forum Keynote Defense of Corridor Sovereignty",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 4-minute verbal presentation as Minister of Transport at an international connectivity conference, asserting Mongolia's sovereign regulation of its rail network while welcoming foreign investment.",
+    "communicativeOutcome": "Present complex transport geopolitics orally with diplomatic magnetism, fielding foreign corporate inquiries regarding freight monopoly regulations.",
+    "objectivesIntroduced": [
+      "obj_c1_215_04_advocate_transport_sovereignty_orally"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_215_01_parse_rail_logistics_treaties"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "grammarReviewed": [
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_03_multilateral_diplomatic_summits"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance",
+      "lex_c1_diplomacy_foreign_policy_treaties"
+    ],
+    "previousVocabularyReused": [
+      "дамжин өнгөрөх бодлого",
+      "төрийн өмчит компани",
+      "нээлттэй өрсөлдөөн"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Argue national transport sovereignty orally, articulating balanced foreign access terms without compromising state security.",
+    "registerTarget": "multilateral international keynote",
+    "pragmaticTarget": "sovereign commercial advocacy",
+    "prerequisiteLessonIds": [
+      "les_c1_215_03_national_logistics_masterplan_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_212_05_bilateral_trade_envoy_briefing_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_212_formal_adversative_concessive_conne"
+    ],
+    "reviewReason": "Bridges bilateral trade envoy briefings into multilateral transport forum keynote presentations.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of Transport Minister delivering keynote speech on Eurasian connectivity.",
+    "successCriteria": [
+      "Uses formal adversative-concessive constructions ('...-ыг үл харгалзан, манай улс бие даасан бодлого баримтална') with diplomatic polish",
+      "Commands the stage with authoritative oratorical presence answering technical transit queries spontaneously"
+    ],
+    "masteryEvidence": "Delivers an unscripted 4-minute international forum speech successfully addressing 2 foreign investor questions on corridor access.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_216_01_geopolitical_trade_dependency_essay_reading",
+    "unitId": "unit_c1_216_editorial_counter_argumentation_on_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 1,
+    "title": "Critical Reading: Intellectual Counter-Argumentation on Asymmetric Economic Interdependence",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse a 520-word intellectual essay by a leading strategic affairs scholar evaluating the limits of 'Third Neighbor Policy' balancing in the face of acute mineral export market monopsony.",
+    "communicativeOutcome": "Deconstruct high-level geopolitical argumentation, identifying dialectical counter-arguments, concession-rebuttal structures, and strategic policy recommendations.",
+    "objectivesIntroduced": [
+      "obj_c1_216_01_parse_dependency_essays"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_211_01_master_rhetorical_inversion"
+    ],
+    "objectivesReviewed": [
+      "obj_c1_212_01_master_formal_adversatives"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "grammarReviewed": [
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c1_08_philosophical_essays"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_07_editorial_counter_argumentation"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_diplomacy_foreign_policy_treaties",
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "гуравдагч хөрш",
+      "эдийн засгийн аюулгүй байдал",
+      "геополитик",
+      "тэнцвэр"
+    ],
+    "readingObjective": "Critique sophisticated dialectical essays analyzing strategic geopolitical vulnerability and foreign policy maneuverability.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "geopolitical strategic intellectual",
+    "pragmaticTarget": "dialectical counter-critique",
+    "prerequisiteLessonIds": [
+      "les_c1_215_04_cross_border_transport_corridor_defense_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_211_02_macroeconomic_thinktank_essay_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_211_rhetorical_inversion_clefting_in_an"
+    ],
+    "reviewReason": "Deepens think-tank economic analysis into high-level geopolitical foreign policy critiques.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies the precise dialectical concession made by the author prior to delivering their central counter-argument",
+      "Distinguishes between defensive economic nationalism and pragmatic multi-vector balancing"
+    ],
+    "masteryEvidence": "Constructs a counter-argument map outlining the thesis, antithesis, and strategic synthesis of the 520-word essay.",
+    "recommendedExerciseModalities": [
+      "argument_mapping",
+      "source_comparison"
+    ]
+  },
+  {
+    "lessonId": "les_c1_216_02_diplomatic_academy_symposium_listening",
+    "unitId": "unit_c1_216_editorial_counter_argumentation_on_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 2,
+    "title": "Acoustic Dissection: Diplomatic Academy Symposium on National Security & Energy Sanctions",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute academic panel discussion at the Diplomatic Academy of Mongolia evaluating national fuel import vulnerability and alternative pipeline routing.",
+    "communicativeOutcome": "Process sophisticated academic debate among senior ambassadors and security analysts (155-175 wpm), tracking complex argumentative rebuttals.",
+    "objectivesIntroduced": [
+      "obj_c1_216_02_comprehend_security_symposia"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_216_01_parse_dependency_essays"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_08_philosophical_essays"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_13_scholarly_synthesis"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_diplomacy_foreign_policy_treaties"
+    ],
+    "previousVocabularyReused": [
+      "дипломат академи",
+      "үндэсний аюулгүй байдлын зөвлөл",
+      "шатахуун",
+      "эрчим хүч"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher spoken academic debate dissecting energy dependency and geopolitical blackmail risks with intellectual rigor.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "diplomatic academic symposium",
+    "pragmaticTarget": "strategic security appraisal",
+    "prerequisiteLessonIds": [
+      "les_c1_216_01_geopolitical_trade_dependency_essay_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_211_03_scholarly_keynote_economic_forum_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_211_rhetorical_inversion_clefting_in_an"
+    ],
+    "reviewReason": "Bridges economic forum keynote listening into specialized diplomatic academy panel debates.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic symposium recording featuring academic panelist debate, audience counter-questions, and scholarly rebuttals.",
+    "successCriteria": [
+      "Identifies the lead panelist's specific proposal for oil refinery completion to eliminate 100% refined product import dependency",
+      "Tracks how the panel moderator synthesizes conflicting views into a consensus policy memo"
+    ],
+    "masteryEvidence": "Produces an analytical policy digest summarizing the strategic options evaluated during the symposium.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c1_216_03_editorial_counter_argument_essay_writing",
+    "unitId": "unit_c1_216_editorial_counter_argumentation_on_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 3,
+    "title": "Analytical Writing: Authoring an Intellectual Counter-Argument Editorial on Sovereign Non-Alignment",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 450-word lead editorial for an international affairs journal ('Стратеги судалгаа') arguing against entering bilateral regional security pacts and defending Mongolia's neutral, open-door diplomacy.",
+    "communicativeOutcome": "Produce master-level argumentative prose in Mongolian, dismantling opposing ideological stances through sophisticated concession, inversion, and evidential backing.",
+    "objectivesIntroduced": [
+      "obj_c1_216_03_author_counter_argument_editorials"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_216_01_parse_dependency_essays"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "grammarReviewed": [
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_08_philosophical_essays"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_07_editorial_counter_argumentation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_diplomacy_foreign_policy_treaties"
+    ],
+    "previousVocabularyReused": [
+      "төвийг сахих бодлого",
+      "эвсэлд үл нэгдэх",
+      "гадаад бодлогын үзэл баримтлал"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft a commanding editorial essay refuting calls for military alliance membership by demonstrating constitutional neutrality benefits.",
+    "spokenProductionObjective": "",
+    "registerTarget": "scholarly foreign policy editorial",
+    "pragmaticTarget": "convincing ideological refutation",
+    "prerequisiteLessonIds": [
+      "les_c1_216_02_diplomatic_academy_symposium_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_211_04_economic_commentary_column_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_211_rhetorical_inversion_clefting_in_an"
+    ],
+    "reviewReason": "Synthesizes economic op-ed writing into master-level strategic counter-argument editorials.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Deploys formal concessives followed immediately by clefted inversions ('... боловч чухамхүү төвийг сахисан байр суурь л бидний тусгаар тогтнолыг бататгана')",
+      "Constructs a four-stage argumentative structure: premise, counter-thesis concession, empirical refutation, and strategic synthesis"
+    ],
+    "masteryEvidence": "Submits an exemplary 450-word editorial essay ready for journal publication.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c1_216_04_oxford_union_style_geopolitical_debate_spoken",
+    "unitId": "unit_c1_216_editorial_counter_argumentation_on_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 4,
+    "title": "Debate Advocacy: Oxford-Style Parliamentary Debate on Strategic Multi-Vector Balancing",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 4-minute closing speech in an Oxford-style parliamentary debate supporting the motion: 'Энэ танхим Монгол Улсын эдийн засгийн аюулгүй байдлыг хангах цорын ганц зам нь гуравдагч хөршийн хөрөнгө оруулалтыг эрс нэмэгдүүлэх явдал мөн гэж үзэж байна'.",
+    "communicativeOutcome": "Demonstrate pinnacle oratorical persuasion, dismantling opposition points of information with devastating rhetorical poise.",
+    "objectivesIntroduced": [
+      "obj_c1_216_04_deliver_oxford_debate_summations"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_216_01_parse_dependency_essays"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "grammarReviewed": [
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_08_philosophical_essays"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_diplomacy_foreign_policy_treaties"
+    ],
+    "previousVocabularyReused": [
+      "мэтгэлцээний танхим",
+      "хөндлөнгийн асуулт",
+      "няцаалт",
+      "ялалт байгуулах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Execute an authoritative debate summation, weaving empirical trade data with philosophical appeals to national destiny.",
+    "registerTarget": "formal parliamentary debate oratorical",
+    "pragmaticTarget": "decisive debate triumph",
+    "prerequisiteLessonIds": [
+      "les_c1_216_03_editorial_counter_argument_essay_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_211_05_televised_economic_debate_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_211_rhetorical_inversion_clefting_in_an"
+    ],
+    "reviewReason": "Culminates televised debate skills into rigorous Oxford-union style parliamentary contestation.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of national debate champion delivering final summation speech.",
+    "successCriteria": [
+      "Handles 2 sudden audience points of information (POI) with lightning-fast, evidence-grounded rebuttals",
+      "Synthesizes economic realism and sovereign dignity into a commanding closing call to action"
+    ],
+    "masteryEvidence": "Delivers a 4-minute unscripted debate summation commanding the chamber and securing audience vote conversion.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_217_01_national_budget_dossier_analysis_reading",
+    "unitId": "unit_c1_217_macroeconomic_policy_capstone_natio",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 1,
+    "title": "Capstone Reading: State Budget Bill & Fiscal Stability Council Dossier",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse a comprehensive 560-word dossier containing the annual State Budget Bill (Монгол Улсын нэгдсэн төсвийн төсөл), Fiscal Stability Council recommendations, and IMF Article IV consultation findings.",
+    "communicativeOutcome": "Dissect the ultimate fiscal and macroeconomic policy records of the Mongolian state, evaluating deficit caps, structural budget balances, and sovereign debt ceiling compliance.",
+    "objectivesIntroduced": [
+      "obj_c1_217_01_master_budget_dossiers"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_208_01_master_nominalization_frames",
+      "obj_c1_209_01_master_academic_hedging"
+    ],
+    "objectivesReviewed": [
+      "obj_c1_212_01_master_formal_adversatives"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance",
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_13_scholarly_synthesis"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "улсын төсөв",
+      "төсвийн тогтвортой байдлын зөвлөл",
+      "төсвийн алдагдал",
+      "өрийн тааз"
+    ],
+    "readingObjective": "Critique complex macro-fiscal statutory dossiers establishing binding sovereign expenditure and revenue ceilings.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "state fiscal legislative",
+    "pragmaticTarget": "macro-fiscal audit and compliance",
+    "prerequisiteLessonIds": [
+      "les_c1_216_04_oxford_union_style_geopolitical_debate_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_208_02_central_bank_monetary_policy_report_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_208_macroeconomic_stabilization_monetar"
+    ],
+    "reviewReason": "Synthesizes central bank monetary reading into the national unified fiscal budget dossier.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Extracts compliance metrics against the 3 mandatory Fiscal Stability Law rules (structural balance, debt-to-GDP, spending growth)",
+      "Evaluates whether projected mineral price benchmarks align with conservative international forecasting models"
+    ],
+    "masteryEvidence": "Constructs an authoritative 350-word fiscal stability analysis identifying systemic deficit concealment in the draft budget.",
+    "recommendedExerciseModalities": [
+      "argument_mapping",
+      "source_comparison"
+    ]
+  },
+  {
+    "lessonId": "les_c1_217_02_parliamentary_budget_plenary_debate_listening",
+    "unitId": "unit_c1_217_macroeconomic_policy_capstone_natio",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 2,
+    "title": "Acoustic Dissection: State Great Khural Plenary Chamber National Budget Deliberation",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 5-minute unedited recording of the State Great Khural Plenary Session debating the second reading of the State Budget, featuring rapid-fire exchanges between the Finance Minister and opposition MPs.",
+    "communicativeOutcome": "Process pinnacle parliamentary economic debate at full native speed (160-185 wpm), tracking procedural points of order, fiscal counter-proposals, and political rhetoric.",
+    "objectivesIntroduced": [
+      "obj_c1_217_02_comprehend_budget_deliberations"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_217_01_master_budget_dossiers"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "grammarReviewed": [
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_02_parliamentary_interpellation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "нэгдсэн хуралдаан",
+      "хоёр дахь хэлэлцүүлэг",
+      "сангийн сайд",
+      "төсвийн тодотгол"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher high-speed legislative debate dissecting multi-trillion tugrik appropriations and macro-economic risk buffers.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "parliamentary plenary deliberative",
+    "pragmaticTarget": "legislative budget scrutiny",
+    "prerequisiteLessonIds": [
+      "les_c1_217_01_national_budget_dossier_analysis_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_208_03_monetary_policy_committee_briefing_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_208_macroeconomic_stabilization_monetar"
+    ],
+    "reviewReason": "Consolidates central bank listening into high-stakes parliamentary plenary budget debates.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic parliamentary chamber recording with microphone switching, chamber background hubbub, and formal legislative interjections.",
+    "successCriteria": [
+      "Transcribes the proposed amendment cuts to non-essential ministerial operational expenses accurately",
+      "Follows multi-speaker argumentative exchanges tracking how the Finance Minister fends off pork-barrel spending amendments"
+    ],
+    "masteryEvidence": "Produces an exhaustive parliamentary debate digest detailing line-item amendments accepted and rejected by the chamber.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c1_217_03_ministerial_budget_defense_brief_writing",
+    "unitId": "unit_c1_217_macroeconomic_policy_capstone_natio",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 3,
+    "title": "Capstone Writing: Comprehensive Ministerial Budget Justification Memorandum",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 460-word authoritative Budget Defense Memorandum submitted by the Ministry of Finance to Parliament, defending revenue forecasts, counter-cyclical deficit spending, and public debt sustainability ratios.",
+    "communicativeOutcome": "Produce sovereign fiscal policy briefs meeting supreme technical and political drafting standards in Mongolian.",
+    "objectivesIntroduced": [
+      "obj_c1_217_03_author_budget_memoranda"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_217_01_master_budget_dossiers"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_hedging_and_epistemic_stance",
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "төсвийн зарлага",
+      "орлогын бүрдүүлэлт",
+      "тогтвортой байдал",
+      "үндэслэл"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft a master-level ministerial memorandum demonstrating that the national budget bill complies with statutory fiscal anchors.",
+    "spokenProductionObjective": "",
+    "registerTarget": "ministerial fiscal statecraft",
+    "pragmaticTarget": "authoritative statutory justification",
+    "prerequisiteLessonIds": [
+      "les_c1_217_02_parliamentary_budget_plenary_debate_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_208_04_macroeconomic_policy_brief_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_208_macroeconomic_stabilization_monetar"
+    ],
+    "reviewReason": "Culminates macroeconomic policy brief writing into the comprehensive annual state budget defense memorandum.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Integrates macroeconomic nominalization frames, hedging, and concessive syntax into an airtight fiscal defense",
+      "Justifies deficit borrowing strictly by linking investments to revenue-generating export infrastructure"
+    ],
+    "masteryEvidence": "Submits a compliant 460-word ministerial memorandum ready for parliamentary committee distribution.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c1_217_04_fiscal_council_independent_critique_writing",
+    "unitId": "unit_c1_217_macroeconomic_policy_capstone_natio",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 4,
+    "title": "Capstone Writing: Fiscal Stability Council Independent Audit & Expert Opinion",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 450-word independent Expert Opinion (Төсвийн тогтвортой байдлын зөвлөлийн дүгнэлт) evaluating the government's draft budget, exposing over-optimistic mining revenue assumptions and recommending targeted expenditure cuts.",
+    "communicativeOutcome": "Produce high-register objective economic oversight reports balancing statutory authority against political neutrality.",
+    "objectivesIntroduced": [
+      "obj_c1_217_04_author_fiscal_audit_opinions"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_217_01_master_budget_dossiers"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_academic_hedging_and_epistemic_stance"
+    ],
+    "grammarReviewed": [
+      "gram_c1_academic_nominalization_frames",
+      "gram_c1_rhetorical_inversion_and_clefting"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_07_evaluating_methodologies"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_13_scholarly_synthesis"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "хараат бус дүгнэлт",
+      "эрсдэлийн үнэлгээ",
+      "зардал танах",
+      "зөвлөмж өгөх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Author an independent fiscal audit opinion dissecting hidden revenue risks and establishing mandatory expenditure adjustments.",
+    "spokenProductionObjective": "",
+    "registerTarget": "independent fiscal council supervisory",
+    "pragmaticTarget": "impartial institutional fiscal critique",
+    "prerequisiteLessonIds": [
+      "les_c1_217_03_ministerial_budget_defense_brief_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_213_03_sovereign_fund_investment_strategy_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_213_sovereign_wealth_funds_future_herit"
+    ],
+    "reviewReason": "Synthesizes sovereign wealth fund strategy drafting into independent fiscal council audit opinions.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Applies epistemic hedging to qualify mineral price volatility projections under global recession scenarios",
+      "Adopts an objective, authoritative supervisory tone that holds executive spenders accountable to the law"
+    ],
+    "masteryEvidence": "Submits a 450-word formal fiscal opinion recommending 3 structural budget amendments to Parliament.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c1_217_05_parliamentary_ministerial_budget_defense_spoken",
+    "unitId": "unit_c1_217_macroeconomic_policy_capstone_natio",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 5,
+    "title": "Capstone Advocacy: Minister of Finance National Budget Defense & Parliamentary Interpellation",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 4.5-minute oral address and defense before the State Great Khural Plenary Chamber as Minister of Finance, defending the national budget and fielding hostile interpellation from opposition leaders.",
+    "communicativeOutcome": "Demonstrate pinnacle spoken macroeconomic command, handling intense political interrogation with effortless statistical fluency and oratorical stature.",
+    "objectivesIntroduced": [
+      "obj_c1_217_05_defend_budget_in_plenary_orally"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_217_01_master_budget_dossiers"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_academic_nominalization_frames"
+    ],
+    "grammarReviewed": [
+      "gram_c1_rhetorical_inversion_and_clefting",
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 3,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "чуулганы индэр",
+      "сайдын хариулт",
+      "хариуцлага",
+      "төрийн сан"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Defend the sovereign fiscal budget bill from the parliamentary podium, refuting debt distress allegations with decisive macroeconomic logic.",
+    "registerTarget": "high parliamentary ministerial oratorical",
+    "pragmaticTarget": "commanding legislative defense and persuasion",
+    "prerequisiteLessonIds": [
+      "les_c1_217_04_fiscal_council_independent_critique_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_216_04_oxford_union_style_geopolitical_debate_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_216_editorial_counter_argumentation_on_"
+    ],
+    "reviewReason": "Culminates Oxford-style debate skills into real-world parliamentary budget defense from the chamber rostrum.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of Finance Minister delivering climactic budget defense speech before the State Great Khural.",
+    "successCriteria": [
+      "Maintains supreme oratorical authority throughout 4.5 minutes of intensive parliamentary scrutiny",
+      "Deploys rhetorical clefting and concessive framing to dismantle populist budget-busting amendments"
+    ],
+    "masteryEvidence": "Delivers an unscripted 4.5-minute parliamentary budget defense securing passage of the budget bill through the plenary vote.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_217_06_c1_sec02_culminating_macroeconomic_capstone",
+    "unitId": "unit_c1_217_macroeconomic_policy_capstone_natio",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 6,
+    "title": "Culminating Synthesis Capstone: Section 02 Macroeconomic & Strategic Statecraft Dossier",
+    "lessonType": "synthesis_capstone",
+    "primaryPurpose": "Execute a comprehensive multi-stage Section 02 capstone synthesis integrating academic nominalization frames, epistemic hedging, journalistic evidential distancing, rhetorical clefting, and formal adversative connectors across a simulated national economic crisis.",
+    "communicativeOutcome": "Demonstrate complete operational proficiency in Mongolian macroeconomic, mineral concession, investigative journalism, and diplomatic trade discourse across all four communicative modalities.",
+    "objectivesIntroduced": [
+      "obj_c1_217_06_master_sec02_culminating_synthesis"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_208_01_master_nominalization_frames",
+      "obj_c1_209_01_master_academic_hedging",
+      "obj_c1_210_01_master_evidential_distancing",
+      "obj_c1_211_01_master_rhetorical_inversion",
+      "obj_c1_212_01_master_formal_adversatives"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_academic_nominalization_frames",
+      "gram_c1_academic_hedging_and_epistemic_stance",
+      "gram_c1_journalistic_evidential_distancing",
+      "gram_c1_rhetorical_inversion_and_clefting",
+      "gram_c1_adversative_concessive_connectors_formal"
+    ],
+    "grammarReviewed": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_13_scholarly_synthesis"
+    ],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_trade_finance",
+      "lex_c1_diplomacy_foreign_policy_treaties"
+    ],
+    "previousVocabularyReused": [
+      "макро эдийн засаг",
+      "мөнгөний бодлого",
+      "төсөв",
+      "уул уурхай",
+      "эрэн сурвалжлах",
+      "худалдааны түншлэл"
+    ],
+    "readingObjective": "Synthesize multiple economic dossiers containing central bank forecasts, mining concession renegotiation claims, and investigative corruption exposés.",
+    "listeningObjective": "Extract critical macroeconomic indicators from high-speed multi-speaker plenary and press conference recordings.",
+    "writingObjective": "Draft an authoritative multi-section Macroeconomic Crisis Resolution & National Budget Stabilisation White Paper.",
+    "spokenProductionObjective": "Deliver an unscripted oral defense of national economic reform measures before a joint panel of international financiers and state regulators.",
+    "registerTarget": "comprehensive state macroeconomic & diplomatic",
+    "pragmaticTarget": "definitive macroeconomic mastery and strategic resolution",
+    "prerequisiteLessonIds": [
+      "les_c1_217_03_ministerial_budget_defense_brief_writing",
+      "les_c1_217_05_parliamentary_ministerial_budget_defense_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_208_01_academic_nominalization_frames_syntax_intro",
+      "les_c1_209_01_academic_hedging_epistemic_stance_syntax_intro",
+      "les_c1_210_01_journalistic_evidential_distancing_syntax_intro",
+      "les_c1_211_01_rhetorical_inversion_and_clefting_syntax_intro",
+      "les_c1_212_01_formal_adversative_concessives_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_208_macroeconomic_stabilization_monetar",
+      "unit_c1_209_mining_megaprojects_oyu_tolgoi_tava",
+      "unit_c1_210_journalistic_evidential_distancing_",
+      "unit_c1_211_rhetorical_inversion_clefting_in_an",
+      "unit_c1_212_formal_adversative_concessive_conne"
+    ],
+    "reviewReason": "Comprehensive culmination of all Section 02 grammar, lexical domains, and communicative functions.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide multi-speaker parliamentary and press conference audio representing the pinnacle of formal spoken macroeconomic discourse.",
+    "successCriteria": [
+      "Deploys all 5 Section 02 grammatical structures flawlessly across written and oral tasks",
+      "Resolves acute sovereign debt and trade dependency dilemmas demonstrating mature strategic comprehension",
+      "Switches effortlessly between central bank technical, investigative journalistic, and diplomatic registers"
+    ],
+    "masteryEvidence": "Successfully defends an unabridged macroeconomic crisis dossier comprising a 460-word written White Paper and a 4.5-minute oral defense before an international expert panel.",
+    "recommendedExerciseModalities": [
+      "argument_mapping",
+      "statutory_clause_drafting",
+      "rebuttal_transformation"
+    ]
+  }
+]

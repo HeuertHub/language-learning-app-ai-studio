@@ -1,0 +1,188 @@
+{
+  "freeze_timestamp": "2026-09-24T06:48:38-07:00",
+  "status": "FROZEN",
+  "curriculum_levels": [
+    "preA1",
+    "a1",
+    "a2",
+    "b1",
+    "b2",
+    "c1",
+    "c2"
+  ],
+  "files": {
+    "curriculum/blueprint/grammarReinforcementSchedule.json": {
+      "sha256": "f540086e361bd377b6abb4c3f947dabcccbb1e319c454da338a12d20a56e9725",
+      "size_bytes": 46175
+    },
+    "curriculum/blueprint/lexicalAllocation.json": {
+      "sha256": "4e711ecb7207bca1548436500829ba747c3092d05156ee96335965a70df966ba",
+      "size_bytes": 2279
+    },
+    "curriculum/blueprint/sections.json": {
+      "sha256": "226f44060fb7392805384692158038b5c8cb63b7bd848778236b692128a48319",
+      "size_bytes": 106208
+    },
+    "curriculum/blueprint/skillDistribution.json": {
+      "sha256": "267125dbda7006cfdbfbc8479517bfe5f7683733d8944607c3a3913a4aa19b11",
+      "size_bytes": 2139
+    },
+    "curriculum/blueprint/unitDependencies.json": {
+      "sha256": "c6cf73bd8c94fa79bbb438bebd633cfdaa06abb5330912d6efb1ca2bba6f56ab",
+      "size_bytes": 115264
+    },
+    "curriculum/blueprint/units/a1.json": {
+      "sha256": "ec781e58b7ccd25ed9c01fa1e2aca5d7d15ac16c7ff3a6baf2d6e554be8908f4",
+      "size_bytes": 206004
+    },
+    "curriculum/blueprint/units/a2.json": {
+      "sha256": "d4dd5d3385d09977dba2ea2dcea00e7be1e81e6c07445707d702a9f2993e0aca",
+      "size_bytes": 213530
+    },
+    "curriculum/blueprint/units/b1.json": {
+      "sha256": "e928674e703158f3c527b2f21fb83421080b920d85032c0f5891b4ec2a0478a2",
+      "size_bytes": 198897
+    },
+    "curriculum/blueprint/units/b2.json": {
+      "sha256": "0afd690606fe9213bd113d1ca97abf2f14eea2e3ec2c95b8a2649bfd448c67a0",
+      "size_bytes": 195296
+    },
+    "curriculum/blueprint/units/c1.json": {
+      "sha256": "5403a162683f592ff781d126464eff32ccc49ba1e6abe0568581cdd69d9073b8",
+      "size_bytes": 148598
+    },
+    "curriculum/blueprint/units/c2.json": {
+      "sha256": "1f761883ba63606536cc6fe48030ddfb0b8108c88fb4bb6d4f58862ab3d6b57a",
+      "size_bytes": 131334
+    },
+    "curriculum/blueprint/units/preA1.json": {
+      "sha256": "2b14b9f63593fa1dc813bd5961d3c2d4b6fd0c4516ea4d54d9d922edc5ab39c4",
+      "size_bytes": 53175
+    },
+    "curriculum/lesson_blueprints/a1_complete.json": {
+      "sha256": "f8104a275604649f0107945ab1bf57ea57da5cd8fdcc1e5cb923f2f256f97de3",
+      "size_bytes": 967100
+    },
+    "curriculum/lesson_blueprints/a1_section_01.json": {
+      "sha256": "6d78a0ee674e331282e316a980138d61f52438a20615145fcc6a8b28d4396b43",
+      "size_bytes": 159795
+    },
+    "curriculum/lesson_blueprints/a1_section_02.json": {
+      "sha256": "fb8cde5fef5375cec5051ca4085329ddcaa55f4bc5f32aae8a07f65cb980362d",
+      "size_bytes": 196827
+    },
+    "curriculum/lesson_blueprints/a1_section_03.json": {
+      "sha256": "6e0f419d1c41815ab7aab6200670e51d1dc06d4f802809d0c61da04c4db5aa6a",
+      "size_bytes": 215338
+    },
+    "curriculum/lesson_blueprints/a1_section_04.json": {
+      "sha256": "980693794eba909fd3f338bb238226842f45b09e415a21d62eeda6370129b9c4",
+      "size_bytes": 176792
+    },
+    "curriculum/lesson_blueprints/a1_section_05.json": {
+      "sha256": "a4409b83b8788bd2eea4641753d12a97db0124831f8f6cfb9257443d1155138a",
+      "size_bytes": 218356
+    },
+    "curriculum/lesson_blueprints/a2_complete.json": {
+      "sha256": "d603097ccf6f30a2701735bfb31b9f3582566a02fc59a654001c3c49e2299f9f",
+      "size_bytes": 827372
+    },
+    "curriculum/lesson_blueprints/a2_section_01.json": {
+      "sha256": "13ec4e131733e301101140b5803be11c68ff185ba5da7390db7084a8923388e3",
+      "size_bytes": 164143
+    },
+    "curriculum/lesson_blueprints/a2_section_02.json": {
+      "sha256": "170742163d26121cd0b5e4622b4aca9d260acd1386ba79dd07f5b7bf4b08de52",
+      "size_bytes": 177364
+    },
+    "curriculum/lesson_blueprints/a2_section_03.json": {
+      "sha256": "b43b9d38637199c29f67cdd46bfce6faf1578f8ae1b0d9d38561748bb554e5da",
+      "size_bytes": 154017
+    },
+    "curriculum/lesson_blueprints/a2_section_04.json": {
+      "sha256": "2c3a24997fa42578c90991f34a3b0755a170e13ddd36839895c7bfa8278db580",
+      "size_bytes": 178982
+    },
+    "curriculum/lesson_blueprints/a2_section_05.json": {
+      "sha256": "2c4e1dab1d236ec9c7cf4e16f4c9a5511992a7bdeed1a9ac18528cc0d3ac8e60",
+      "size_bytes": 152874
+    },
+    "curriculum/lesson_blueprints/b1_complete.json": {
+      "sha256": "16f9bc4e023859849c9e7a783c5591b81a80d7812c01bb2fdc36e3507399e43a",
+      "size_bytes": 680921
+    },
+    "curriculum/lesson_blueprints/b1_section_01.json": {
+      "sha256": "27186d84b7d01d0d6449149e769d89f16573dcc488c91a2dc56ba4ee35112698",
+      "size_bytes": 185462
+    },
+    "curriculum/lesson_blueprints/b1_section_02.json": {
+      "sha256": "c2ae05aba339d801f2e417098f7327da319912a78361ba152b2b0c0832d30335",
+      "size_bytes": 165288
+    },
+    "curriculum/lesson_blueprints/b1_section_03.json": {
+      "sha256": "0a6ae5fb9e5622b0476570488e56a81fd254c035a7b95abb37c652b0b65aec4c",
+      "size_bytes": 158241
+    },
+    "curriculum/lesson_blueprints/b1_section_04.json": {
+      "sha256": "4e8eb3d47190378342c7294f546bf814b578e840b12c430da6ce83d2f65ba243",
+      "size_bytes": 171936
+    },
+    "curriculum/lesson_blueprints/b2_complete.json": {
+      "sha256": "53751f9cc4e084f30f12f65a738481221cab3cb49014e085f58c2cb8279b1ef0",
+      "size_bytes": 620009
+    },
+    "curriculum/lesson_blueprints/b2_section_01.json": {
+      "sha256": "ba4cdb8ae0d3cf92ebeac2d87cdc41bc040af46085c85b42360adabfa184f3ed",
+      "size_bytes": 171031
+    },
+    "curriculum/lesson_blueprints/b2_section_02.json": {
+      "sha256": "50f54d5491f7167cc6cccecd8b89ac6ccac2aba41ff327c36a89e188951defe4",
+      "size_bytes": 148955
+    },
+    "curriculum/lesson_blueprints/b2_section_03.json": {
+      "sha256": "dac618c115e9716c8bc9127379088d832b97ce3e304445ab6cc997354b18e120",
+      "size_bytes": 141659
+    },
+    "curriculum/lesson_blueprints/b2_section_04.json": {
+      "sha256": "5af961f738be09e5eb6ac1b3082152d301b5d84ae92a2600e3799beaf7fe7b7d",
+      "size_bytes": 158370
+    },
+    "curriculum/lesson_blueprints/c1_complete.json": {
+      "sha256": "b07647d05ca91c8ddc5340356d9fe9e41b742855fc5ed0efb4f9841d617617f0",
+      "size_bytes": 497707
+    },
+    "curriculum/lesson_blueprints/c1_section_01.json": {
+      "sha256": "7c52d41a91799b1333cbfadafee14280320a9c2256887be993ceb45ceb8a8b44",
+      "size_bytes": 155036
+    },
+    "curriculum/lesson_blueprints/c1_section_02.json": {
+      "sha256": "c7daacb48c6fb510de64671ba5414f4b6162c5c44b22999edc0cbf8fb6cc31fa",
+      "size_bytes": 157644
+    },
+    "curriculum/lesson_blueprints/c1_section_03.json": {
+      "sha256": "12515a715c613b576ccf72563bd3740f9a1d08515899f5d2f959dcaa057bffe2",
+      "size_bytes": 185031
+    },
+    "curriculum/lesson_blueprints/c2_complete.json": {
+      "sha256": "b5bbbedc7ca53305633cc3a16370d5a4d2dc5bef0fbb796a59f5d1ad792da0b7",
+      "size_bytes": 496929
+    },
+    "curriculum/lesson_blueprints/c2_section_01.json": {
+      "sha256": "9360c9e05fc6eca42176f31dec9b66d80d405f7871580c85850c22bbd1921f4b",
+      "size_bytes": 154123
+    },
+    "curriculum/lesson_blueprints/c2_section_02.json": {
+      "sha256": "7f0bc94c2ddbda714d0ff9a080138247427e3298541aee0cf7fbd1b0f8f6e61d",
+      "size_bytes": 160972
+    },
+    "curriculum/lesson_blueprints/c2_section_03.json": {
+      "sha256": "98b9be3aeabf3d98c45c2b803247ddd86172b721c3be2526c9db43c01e5c69f3",
+      "size_bytes": 181838
+    },
+    "curriculum/lesson_blueprints/preA1.json": {
+      "sha256": "8c4351e93601607be5101f2964a304b132d6b11183e6877a45024880884ca499",
+      "size_bytes": 230329
+    }
+  },
+  "total_authoritative_lessons": 1257
+}

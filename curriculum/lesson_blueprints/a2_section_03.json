@@ -1,0 +1,3638 @@
+[
+  {
+    "lessonId": "les_a2_83_01_body_parts_somatic_pain_lexicon",
+    "unitId": "unit_a2_83_human_anatomy_somatic_pain_location",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "Where Does It Hurt: Human Anatomy & Pain Verbs (өвдөх, хатгах, чинэрэх)",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce human anatomical vocabulary (толгой, хоолой, гэдэс, нуруу, шүд, үе мөч) paired with sensory pain descriptors (өвдөх, хатгах, шархирах, янгинах, чинэрэх).",
+    "communicativeOutcome": "Pinpoint physical pain and differentiate between sharp, throbbing, aching, and stabbing sensations.",
+    "objectivesIntroduced": [
+      "obj_a2_83_01_anatomy_pain_lexicon"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_82_01_consumer_rights_lexicon"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_predicate_adjective_nominal",
+      "gram_a1_case_genitive_possession"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_12_medical_symptoms_doctor"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 8,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_health_medicine",
+      "lex_domain_body_anatomy"
+    ],
+    "previousVocabularyReused": [
+      "толгой",
+      "хөл",
+      "гар",
+      "өвдөх",
+      "муу",
+      "байх"
+    ],
+    "readingObjective": "Read an anatomical clinic poster diagramming internal organs and pain zones.",
+    "listeningObjective": "Understand a patient describing a localized headache vs sinus pressure.",
+    "writingObjective": "List 6 human body parts and pair each with a specific discomfort verb.",
+    "spokenProductionObjective": "Explain symptoms to a doctor: 'Миний хоолой сөөж, толгой янгинаж өвдөж байна'.",
+    "registerTarget": "Clinical somatic diagnostic register",
+    "pragmaticTarget": "Using precise Mongolian sensory verbs to convey the specific nature of internal pain.",
+    "prerequisiteLessonIds": [
+      "les_a2_82_05_retail_service_transaction_checkpoint"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_21_01_attributive_adjectives_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_21_attributive_predicative_adjective"
+    ],
+    "reviewReason": "Expands basic physical condition adjectives into nuanced somatic sensory descriptions.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce anatomical body parts and sensory pain verbs clearly.",
+    "successCriteria": [
+      "Identifies anatomical areas: нуруу (back), үе мөч (joints), хоолой (throat), гэдэс (stomach)",
+      "Differentiates хатгах (sharp/stabbing) from янгинах (aching/throbbing)"
+    ],
+    "masteryEvidence": "Accurately describes 4 distinct pain scenarios matching body part to specific sensation.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_83_02_medical_triage_intake_reading",
+    "unitId": "unit_a2_83_human_anatomy_somatic_pain_location",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Deciphering Clinic Intake Forms & Triage Questionnaires",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Develop reading comprehension for clinic intake forms (үзлэгийн хуудас), pain scale questionnaires (1-10 оноо), and symptom checklists.",
+    "communicativeOutcome": "Inspect medical intake paperwork, identify chronic vs acute complaints, and rate pain severity.",
+    "objectivesIntroduced": [
+      "obj_a2_83_02_read_clinic_intake_forms"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_83_01_anatomy_pain_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_case_ablative_origin"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_12_medical_symptoms_doctor"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_health_medicine",
+      "lex_domain_civic_administrative"
+    ],
+    "previousVocabularyReused": [
+      "өвчин",
+      "огноо",
+      "нас",
+      "хүчтэй",
+      "эхлэх",
+      "эмч"
+    ],
+    "readingObjective": "Extract pain onset date, severity rating, and anatomical checkboxes from a clinic intake sheet.",
+    "listeningObjective": "",
+    "writingObjective": "Transcribe personal allergy history and symptoms onto a medical template.",
+    "spokenProductionObjective": "Explain to a triage nurse where the pain is centered based on questionnaire answers.",
+    "registerTarget": "Institutional medical intake register",
+    "pragmaticTarget": "Providing clear, concise medical self-assessments on formal paperwork.",
+    "prerequisiteLessonIds": [
+      "les_a2_83_01_body_parts_somatic_pain_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_36_02_reading_calendar_dates"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_36_calendar_dates_months_seasons"
+    ],
+    "reviewReason": "Recycles calendar date reading for establishing medical symptom onset.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Read clinical intake form categories aloud.",
+    "successCriteria": [
+      "Locates sections for current symptoms (одоогийн зовиур) and past illnesses (өнгөрсөн өвчин)",
+      "Understands medical pain scale rankings from 1 (хөнгөн) to 10 (тэсвэрлэшгүй)"
+    ],
+    "masteryEvidence": "Fills in complete clinic registration card based on a simulated somatic profile.",
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "contextual_cloze",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_83_03_patient_nurse_triage_listening",
+    "unitId": "unit_a2_83_human_anatomy_somatic_pain_location",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Lab: Triage Nurse Assessments & Blood Pressure Checks",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic listening comprehension of nurse triage checks: measuring blood pressure (даралт үзэх), checking temperature (халуун хэмжих), and asking diagnostic questions.",
+    "communicativeOutcome": "Understand nurse instructions during preliminary triage and extract vital sign values (blood pressure and body temperature).",
+    "objectivesIntroduced": [
+      "obj_a2_83_03_decode_triage_assessments"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_83_01_anatomy_pain_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_27_01_counting_tens_hundreds"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_numerals_cardinal_counting",
+      "gram_a1_verb_imperative_polite_aarai"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_12_medical_symptoms_doctor"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 1,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_health_medicine"
+    ],
+    "previousVocabularyReused": [
+      "даралт",
+      "халуун",
+      "хэмжих",
+      "суух",
+      "ханцуй",
+      "хэвийн"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Extract blood pressure reading ('120-той 80') and temperature ('38.2 градус') from spoken nurse dialogue.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Ask nurse if the readings are normal: 'Миний даралт хэвийн байна уу?'.",
+    "registerTarget": "Clinical bedside triage register",
+    "pragmaticTarget": "Following physical clinical instructions promptly (rolling up sleeves, breathing deeply).",
+    "prerequisiteLessonIds": [
+      "les_a2_83_01_body_parts_somatic_pain_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_49_01_polite_imperative_aarai"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_49_polite_request_imperative_suffixes_"
+    ],
+    "reviewReason": "Applies polite imperative listening (-аарай) to clinical examination instructions.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Deliver realistic nurse-patient triage dialogue with blood pressure cuff velcro sounds.",
+    "successCriteria": [
+      "Transcribes vital sign numbers accurately from auditory speech stream",
+      "Understands whether the nurse reports elevated blood pressure (өндөр даралт) or fever (халуунтай)"
+    ],
+    "masteryEvidence": "Accurately notes down vital metrics for 3 distinct triage audio vignettes.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "dictation",
+      "phonetic_discrimination"
+    ]
+  },
+  {
+    "lessonId": "les_a2_83_04_doctor_somatic_exam_dialogue",
+    "unitId": "unit_a2_83_human_anatomy_somatic_pain_location",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "In the Examination Room: Explaining Pain to the General Practitioner",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Master spoken interaction with a physician: answering palpation questions ('Энд дарахад өвдөж байна уу?'), detailing duration, and explaining when pain worsens.",
+    "communicativeOutcome": "Conduct a clinical consultation with a doctor, specifying pain location, intensity, and aggravating factors (eating, moving, cold).",
+    "objectivesIntroduced": [
+      "obj_a2_83_04_doctor_exam_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_83_01_anatomy_pain_lexicon",
+      "obj_a2_83_02_read_clinic_intake_forms"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_16_01_greet_time_of_day"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_converb_coordinating_j_ch",
+      "gram_a1_case_dative_locative_location"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_12_medical_symptoms_doctor"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_13_apologies_politeness"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_health_medicine"
+    ],
+    "previousVocabularyReused": [
+      "өвдөх",
+      "дарах",
+      "хэвтэх",
+      "амьсгалах",
+      "эмч",
+      "туслах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand doctor's diagnostic questions during physical examination.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Describe pain: 'Баруун хавирган дор хатгаж өвдөөд, гүнзгий амьсгалахад улам хүчтэй болж байна'.",
+    "registerTarget": "Confidential patient-doctor clinical register",
+    "pragmaticTarget": "Responding accurately to diagnostic palpation without minimizing symptoms.",
+    "prerequisiteLessonIds": [
+      "les_a2_83_01_body_parts_somatic_pain_lexicon",
+      "les_a2_83_03_patient_nurse_triage_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_41_01_witnessed_past_laa_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_41_witnessed_past_verbal_tense_suffix_"
+    ],
+    "reviewReason": "Recycles witnessed past tense (-лаа4) to report when symptoms started.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Model gentle, inquisitive doctor voice and clear patient symptom articulation.",
+    "successCriteria": [
+      "Explains pain location and triggers clearly during physical examination",
+      "Follows doctor's commands: 'Гүнзгий амьсгал аваад гаргаарай', 'Хэлээ гаргаарай'"
+    ],
+    "masteryEvidence": "Conducts a 5-turn simulated doctor-patient examination dialogue without communicative breakdown.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_84_01_temporal_converb_khad_intro",
+    "unitId": "unit_a2_84_describing_illness_symptoms_to_a_ph",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "When I Walk, It Hurts: The Temporal Converb (-хад/-хэд/-ход/-хөд)",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the temporal-locative converb (-хад4 / -хэд / -ход / -хөд) indicating 'when/while/upon doing', essential for describing conditions under which symptoms manifest.",
+    "communicativeOutcome": "Explain conditional symptoms: 'Явахад хөл өвдөж байна' (When walking, my leg hurts), 'Ханиалгахад цээж хатгаж байна' (When coughing, my chest stabs).",
+    "objectivesIntroduced": [
+      "obj_a2_84_01_temporal_converb_khad"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_83_01_anatomy_pain_lexicon"
+    ],
+    "grammarIntroduced": [
+      "gram_a2_converb_temporal_while_khad"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_predicate_adjective_nominal"
+    ],
+    "phonologyIntroduced": [
+      "phono_a2_temporal_converb_harmony"
+    ],
+    "phonologyPracticed": [
+      "phono_a1_masculine_feminine_harmony"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_12_medical_symptoms_doctor"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_health_medicine",
+      "lex_domain_actions_movement"
+    ],
+    "previousVocabularyReused": [
+      "явах",
+      "идэх",
+      "уух",
+      "унтах",
+      "өвдөх",
+      "халуурах"
+    ],
+    "readingObjective": "Read medical advisory articles explaining when patients should seek urgent care.",
+    "listeningObjective": "Identify the temporal suffix (-хад4) in patients' symptom descriptions.",
+    "writingObjective": "Combine 3 verbal actions with symptom predicates using the temporal converb.",
+    "spokenProductionObjective": "Explain symptom triggers: 'Юм залгихад хоолой маш хүчтэй өвдөж байна'.",
+    "registerTarget": "Clinical explanatory register",
+    "pragmaticTarget": "Connecting physical actions directly to symptom triggers in clear temporal-locative clauses.",
+    "prerequisiteLessonIds": [
+      "les_a2_83_04_doctor_somatic_exam_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_31_01_dative_locative_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_31_dative_locative_spatial_location_t"
+    ],
+    "reviewReason": "Expands dative-locative case marking (-д/-т) from nouns to nominalized verbs (-х + -д = -хад).",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model quadruple vowel harmony in temporal suffix (-хад, -хэд, -ход, -хөд).",
+    "successCriteria": [
+      "Applies correct temporal allomorph according to root vowel harmony",
+      "Constructs well-formed complex sentence connecting action trigger to somatic reaction"
+    ],
+    "masteryEvidence": "Produces 'Босоход толгой эргэж байна' with accurate pronunciation and morphology.",
+    "recommendedExerciseModalities": [
+      "suffix_selection",
+      "sentence_construction",
+      "clause_combination"
+    ]
+  },
+  {
+    "lessonId": "les_a2_84_02_clinical_illness_symptoms_lexicon",
+    "unitId": "unit_a2_84_describing_illness_symptoms_to_a_ph",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Cold, Flu & Fatigue: Systemic Illness Vocabulary",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce systemic illness and constitutional symptom vocabulary (ханиад томуу, халуурах, даарах, жихүүцэх, дотор муухайрах, толгой эргэх, сульдах).",
+    "communicativeOutcome": "Describe common winter ailments, viral symptoms, nausea, dizziness, and bodily chills.",
+    "objectivesIntroduced": [
+      "obj_a2_84_02_illness_symptoms_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_84_01_temporal_converb_khad"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_converb_temporal_while_khad"
+    ],
+    "grammarReviewed": [
+      "gram_a1_existential_baina_baihgui",
+      "gram_a1_converb_coordinating_j_ch"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_12_medical_symptoms_doctor"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_health_medicine"
+    ],
+    "previousVocabularyReused": [
+      "ханиад",
+      "халуун",
+      "даарах",
+      "хүйтэн",
+      "бие",
+      "муу"
+    ],
+    "readingObjective": "Read a public health bulletin outlining influenza precautions and warning signs.",
+    "listeningObjective": "Understand colleague calling in sick explaining flu symptoms.",
+    "writingObjective": "List 5 winter illness symptoms in Cyrillic.",
+    "spokenProductionObjective": "Explain feeling unwell: 'Би өчигдрөөс хойш жихүүцэж, халуураад, бие маш их сульдаж байна'.",
+    "registerTarget": "Everyday health condition and workplace absence register",
+    "pragmaticTarget": "Accurately conveying systemic malaise without understating severity.",
+    "prerequisiteLessonIds": [
+      "les_a2_84_01_temporal_converb_khad_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_42_01_weather_descriptions_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_42_weather_atmospheric_conditions_cl"
+    ],
+    "reviewReason": "Connects cold climatic conditions with seasonal respiratory illnesses.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce systemic symptom terms clearly.",
+    "successCriteria": [
+      "Identifies systemic symptoms: жихүүцэх (chills), халуурах (fever), дотор муухайрах (nausea), толгой эргэх (dizziness)",
+      "Forms compound symptom statements: 'Халуурахад жихүүцдэг'"
+    ],
+    "masteryEvidence": "Accurately categorizes 6 common cold/flu symptoms and explains their physical sensations.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_84_03_workplace_sick_leave_call_dialogue",
+    "unitId": "unit_a2_84_describing_illness_symptoms_to_a_ph",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Calling In Sick: Requesting Leave & Explaining Flu Symptoms",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Develop spoken communicative fluency for calling a supervisor or teacher, explaining acute illness, requesting sick leave (чөлөө авах), and promising a medical certificate.",
+    "communicativeOutcome": "Call your office or school to report illness, state expected absence duration, and confirm coverage for urgent tasks.",
+    "objectivesIntroduced": [
+      "obj_a2_84_03_sick_leave_phone_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_84_01_temporal_converb_khad",
+      "obj_a2_84_02_illness_symptoms_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_13_01_apologies_intro"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_converb_temporal_while_khad"
+    ],
+    "grammarReviewed": [
+      "gram_a1_verb_volitional_intention_ya",
+      "gram_a1_case_ablative_origin"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_diphthongs"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_12_medical_symptoms_doctor"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_13_apologies_politeness"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_health_medicine",
+      "lex_domain_workplace_occupations"
+    ],
+    "previousVocabularyReused": [
+      "чөлөө",
+      "өвдөх",
+      "хэвтэх",
+      "маргааш",
+      "ажил",
+      "хэлэх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand manager expressing sympathy and asking about doctor consultation.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Call supervisor: 'Багш аа / захирал аа, миний бие өвдөөд, өнөөдөр хичээлдээ/ажилдаа ирж чадахгүй нь. Эмчид үзүүлээд бичиг авчиръя'.",
+    "registerTarget": "Respectful professional telephone register",
+    "pragmaticTarget": "Apologizing politely for unexpected absence and confirming medical note protocol.",
+    "prerequisiteLessonIds": [
+      "les_a2_84_02_clinical_illness_symptoms_lexicon",
+      "les_a2_84_01_temporal_converb_khad_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_68_03_transit_delay_phone_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_68_handling_transit_delays_traffic_jam"
+    ],
+    "reviewReason": "Applies professional phone courtesy to medical emergency notifications.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Deliver authentic congested/sick phone voice contrasting with understanding manager.",
+    "successCriteria": [
+      "Articulates illness reason clearly and requests specific days of leave",
+      "Promises to bring formal doctor note (эмчийн магадлагаа)"
+    ],
+    "masteryEvidence": "Completes 4-turn sick leave telephone call without communicative hesitation.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_84_04_flu_advisory_acoustic_listening",
+    "unitId": "unit_a2_84_describing_illness_symptoms_to_a_ph",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Calling In Sick: Workplace Absence Notice & Urgent Shift Handover",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Execute an urgent telephone dialogue with a department supervisor to report acute illness and request absence.",
+    "communicativeOutcome": "Extract key public health advisories regarding high-risk groups, clinic operating hours, and fever management recommendations from radio broadcasts.",
+    "objectivesIntroduced": [
+      "obj_a2_84_04_decode_health_broadcasts"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_84_02_illness_symptoms_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_36_01_calendar_dates"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a2_converb_temporal_while_khad",
+      "gram_a1_verb_imperative_polite_aarai"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_12_medical_symptoms_doctor"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_health_medicine",
+      "lex_domain_civic_administrative"
+    ],
+    "previousVocabularyReused": [
+      "эмнэлэг",
+      "томуу",
+      "халуурах",
+      "хүүхэд",
+      "цаг",
+      "өглөө"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Identify recommended home care steps (warm fluids, rest) and when to visit hospital from public service audio.",
+    "writingObjective": "",
+    "spokenProductionObjective": "State inability to work politely: 'Миний халуураад, өнөөдөр ажилдаа ирж чадахгүй нь. Эмчийн магадалгаа авчиръя'.",
+    "registerTarget": "Public administrative broadcast health register",
+    "pragmaticTarget": "Parsing professional broadcast Mongolian with medical terminology.",
+    "prerequisiteLessonIds": [
+      "les_a2_84_02_clinical_illness_symptoms_lexicon",
+      "les_a2_84_01_temporal_converb_khad_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_68_04_radio_traffic_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_68_handling_transit_delays_traffic_jam"
+    ],
+    "reviewReason": "Expands broadcast listening competence from traffic alerts to health announcements.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authoritative radio broadcaster tone with official public health advisory background chime.",
+    "successCriteria": [
+      "Identifies fever threshold (38.5°C) requiring doctor consultation from broadcast",
+      "Extracts district clinic extended weekend hours from announcement"
+    ],
+    "masteryEvidence": "Fills in public health guideline summary table with 100% accuracy based on broadcast.",
+    "recommendedExerciseModalities": [
+      "dialogue_completion",
+      "role-play response",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_84_05_sick_leave_written_request",
+    "unitId": "unit_a2_84_describing_illness_symptoms_to_a_ph",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 5,
+    "title": "Formal Absence: Writing a Sick Leave Note & Symptom Report",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Synthesize temporal converbs (-хад4), symptom vocabulary, and polite written formulas into a formal written sick leave request (чөлөө гуйх өргөдөл / мэдэгдэл).",
+    "communicativeOutcome": "Draft a formal written absence notification to an employer or university stating symptom onset, medical appointment, and expected return date.",
+    "objectivesIntroduced": [
+      "obj_a2_84_05_write_sick_leave_note"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_84_01_temporal_converb_khad",
+      "obj_a2_84_02_illness_symptoms_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_50_01_sequential_converb"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_converb_temporal_while_khad"
+    ],
+    "grammarReviewed": [
+      "gram_a1_converb_sequential_aad",
+      "gram_a1_case_ablative_origin"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_12_medical_symptoms_doctor"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_health_medicine",
+      "lex_domain_workplace_occupations"
+    ],
+    "previousVocabularyReused": [
+      "өргөдөл",
+      "чөлөө",
+      "хүндэтгэсэн",
+      "өвдөх",
+      "эмчийн бичиг",
+      "огноо"
+    ],
+    "readingObjective": "Review a model Mongolian workplace absence email to observe formal salutation and sign-off.",
+    "listeningObjective": "",
+    "writingObjective": "Draft a 5-sentence formal absence memo using the temporal converb (-хад4) and formal medical terms.",
+    "spokenProductionObjective": "",
+    "registerTarget": "Formal administrative absence correspondence register",
+    "pragmaticTarget": "Adhering to standard Mongolian corporate and academic absence request conventions.",
+    "prerequisiteLessonIds": [
+      "les_a2_84_01_temporal_converb_khad_intro",
+      "les_a2_84_03_workplace_sick_leave_call_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_68_05_polite_delay_notice_sms_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_68_handling_transit_delays_traffic_jam"
+    ],
+    "reviewReason": "Elevates written delay notices to formal sick leave documentation.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Audio read-back of formal sick leave document.",
+    "successCriteria": [
+      "Produces formal written memo with correct heading, date, and respectful closing",
+      "Includes at least one temporal converb clause: 'Эмнэлэгт үзүүлэхэд эмч 3 өдрийн амралт өгсөн тул...'"
+    ],
+    "masteryEvidence": "Drafts complete, error-free workplace sick leave email with accompanying doctor note reference.",
+    "recommendedExerciseModalities": [
+      "short-answer writing",
+      "clause_combination",
+      "error correction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_85_01_pharmacy_dosage_medication_lexicon",
+    "unitId": "unit_a2_85_purchasing_medicine_pharmacy_consul",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "At the Pharmacy: Dosages, Pills, Syrups & Prescriptions",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce pharmacy and pharmaceutical vocabulary (эмийн сан, эмчийн жор, шахмал эм, сироп, түрхлэг, тун хэмжээ, хоолны дараа/өмнө).",
+    "communicativeOutcome": "Ask for over-the-counter medicine, understand pharmacist dosage instructions, and check prescription requirements.",
+    "objectivesIntroduced": [
+      "obj_a2_85_01_pharmacy_dosage_lexicon"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_84_01_temporal_converb_khad"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_spatial_postpositions_deeree_door",
+      "gram_a1_numerals_cardinal_counting"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_long_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_13_buying_medicine_pharmacy"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_22_making_purchases"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 8,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_health_medicine",
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "эм",
+      "сан",
+      "жор",
+      "уух",
+      "өдөр",
+      "цаг"
+    ],
+    "readingObjective": "Read pharmacy counter signs identifying prescription-only (жороор олгох) vs OTC medications.",
+    "listeningObjective": "Understand pharmacist explaining whether to take medicine before or after meals.",
+    "writingObjective": "List 4 types of medical preparations (шахмал, сироп, дусаалга, тос) in Cyrillic.",
+    "spokenProductionObjective": "Ask a pharmacist: 'Хоолойн өвчинд уух сайн эм юу байна вэ?'.",
+    "registerTarget": "Healthcare commercial consultation register",
+    "pragmaticTarget": "Clarifying timing relative to food intake (хоолноос өмнө / дараа) for optimal pharmaceutical efficacy.",
+    "prerequisiteLessonIds": [
+      "les_a2_84_05_sick_leave_written_request"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_22_01_making_purchases_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_22_shopping_transactions_making_purch"
+    ],
+    "reviewReason": "Expands retail shopping into pharmaceutical terminology and health regimens.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce pharmaceutical dosage forms clearly.",
+    "successCriteria": [
+      "Distinguishes шахмал (tablets), сироп (syrup), түрхлэг (ointment), дусаалга (drops)",
+      "Understands timing: хоолны өмнө (before meals) vs хоолны дараа (after meals)"
+    ],
+    "masteryEvidence": "Accurately interprets 4 distinct pharmaceutical dosage regimens.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_85_02_medication_package_insert_reading",
+    "unitId": "unit_a2_85_purchasing_medicine_pharmacy_consul",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Deciphering Medicine Boxes & Patient Information Leaflets",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Develop targeted reading comprehension of Mongolian pharmaceutical packaging (хайрцаг), expiry dates (дуусах хугацаа), storage conditions, and contraindications.",
+    "communicativeOutcome": "Inspect a medicine box to locate daily dosage limits, storage temperature (хөргөгчинд хадгалах), and expiry date.",
+    "objectivesIntroduced": [
+      "obj_a2_85_02_read_medication_packaging"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_85_01_pharmacy_dosage_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_numerals_cardinal_counting"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_13_buying_medicine_pharmacy"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_health_medicine"
+    ],
+    "previousVocabularyReused": [
+      "хугацаа",
+      "хадгалах",
+      "хүүхэд",
+      "хориглох",
+      "градус",
+      "хэмжээ"
+    ],
+    "readingObjective": "Extract maximum daily dose (өдөрт хамгийн ихдээ 3 ширхэг), expiry month/year, and cautionary warnings from a medicine box.",
+    "listeningObjective": "",
+    "writingObjective": "Transcribe medication dosage instructions onto an adhesive bottle label in Cyrillic.",
+    "spokenProductionObjective": "Explain package warning to a family member: 'Энэ эмийг хүүхдээс хол хадгалах ёстой'.",
+    "registerTarget": "Technical medical packaging and advisory register",
+    "pragmaticTarget": "Checking expiry dates and child-safety storage warnings vigilantly.",
+    "prerequisiteLessonIds": [
+      "les_a2_85_01_pharmacy_dosage_medication_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_36_02_reading_calendar_dates"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_36_calendar_dates_months_seasons"
+    ],
+    "reviewReason": "Applies calendar date decoding to medicine manufacturing and expiry stamps.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Read package warning statements aloud.",
+    "successCriteria": [
+      "Locates expiry date and batch number accurately on box",
+      "Extracts daily pill intake ceiling without error"
+    ],
+    "masteryEvidence": "Answers 4 comprehension questions based on an authentic Mongolian medicine box label.",
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "contextual_cloze",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_85_03_pharmacist_advice_acoustic_listening",
+    "unitId": "unit_a2_85_purchasing_medicine_pharmacy_consul",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Lab: Pharmacist Consultation & Side Effect Cautions",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic listening comprehension of fast pharmacist explanations behind security glass: side effects (нойр хүргэх, толгой өвдөх), drug interactions, and water intake.",
+    "communicativeOutcome": "Extract crucial warnings from pharmacist audio: whether the drug causes drowsiness, if it should be taken with milk or water, and duration of course.",
+    "objectivesIntroduced": [
+      "obj_a2_85_03_decode_pharmacist_cautions"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_85_01_pharmacy_dosage_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_49_01_polite_imperative_aarai"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_verb_imperative_polite_aarai",
+      "gram_a1_case_instrumental_transport_language"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_13_buying_medicine_pharmacy"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 1,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_health_medicine"
+    ],
+    "previousVocabularyReused": [
+      "нойр",
+      "ус",
+      "уух",
+      "өдөр",
+      "машин",
+      "жолоодох"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Identify specific cautionary advice ('Энэ эмийг уугаад машин барьж болохгүй, нойр их хүргэнэ') from pharmacist audio.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Warn a companion not to drive after taking the prescribed cold remedy.",
+    "registerTarget": "High-speed professional pharmacy consultation register",
+    "pragmaticTarget": "Heeding contraindication warnings (avoiding alcohol, not operating machinery).",
+    "prerequisiteLessonIds": [
+      "les_a2_85_01_pharmacy_dosage_medication_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_49_02_imperative_daily_requests"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_49_polite_request_imperative_suffixes_"
+    ],
+    "reviewReason": "Applies polite imperative listening to health safety warnings.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic pharmacy counter dialogue with pill bottle rattle and clear protective guidance.",
+    "successCriteria": [
+      "Identifies whether medicine induces drowsiness from audio stream",
+      "Extracts daily dosage frequency (өдөрт гурван удаа, нэг нэгээр)"
+    ],
+    "masteryEvidence": "Correctly notes down dosage and side-effect profile for 3 audio pharmacist consultations.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "dictation",
+      "phonetic_discrimination"
+    ]
+  },
+  {
+    "lessonId": "les_a2_85_04_pharmacy_counter_purchasing_dialogue",
+    "unitId": "unit_a2_85_purchasing_medicine_pharmacy_consul",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "At the Drugstore Counter: Buying Remedies & Asking for Generics",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Master spoken interaction at a pharmacy counter: presenting a prescription, asking for affordable generic alternatives, asking for fever reducers, and clarifying instructions.",
+    "communicativeOutcome": "Purchase needed medications at a Mongolian drugstore, ask for an equivalent domestic generic, and verify dosage schedule.",
+    "objectivesIntroduced": [
+      "obj_a2_85_04_pharmacy_counter_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_85_01_pharmacy_dosage_lexicon",
+      "obj_a2_85_02_read_medication_packaging"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_22_01_making_purchases"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_verb_volitional_intention_ya",
+      "gram_a1_polar_questions_uu_uu"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_13_buying_medicine_pharmacy"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_22_making_purchases"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "newProductiveLemmaTarget": 7,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 3,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_health_medicine",
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "жор",
+      "эм",
+      "авах",
+      "хямд",
+      "ижил",
+      "баярлалаа"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand pharmacist verifying identity and explaining domestic equivalent brand.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Conduct transaction: 'Энэ жорын дагуу эмүүдийг авъя. Үнэтэй импортын эмний оронд ижил найрлагатай монгол эм байна уу?'.",
+    "registerTarget": "Courteous healthcare commercial register",
+    "pragmaticTarget": "Inquiring about generic equivalents (ижил найрлагатай эм) professionally and cost-effectively.",
+    "prerequisiteLessonIds": [
+      "les_a2_85_01_pharmacy_dosage_medication_lexicon",
+      "les_a2_85_03_pharmacist_advice_acoustic_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_22_05_making_purchases_simulation"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_22_shopping_transactions_making_purch"
+    ],
+    "reviewReason": "Transforms general store buying routines into specialized pharmacy transactions.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Provide realistic dialogue between customer seeking cold relief and helpful pharmacist.",
+    "successCriteria": [
+      "Conducts a complete purchase of 2 medications specifying symptoms or prescription",
+      "Verifies and repeats back dosage regimen accurately"
+    ],
+    "masteryEvidence": "Completes a 5-turn pharmacy roleplay with zero misunderstandings.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_86_01_modal_obligation_heregtei_yostoi_intro",
+    "unitId": "unit_a2_86_modal_obligation_modals_vs_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "Need to & Must: Modal Obligation with Хэрэгтэй & Ёстой",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the modal constructions of obligation: verbal noun in -х + хэрэгтэй (need to / advisory necessity) and verbal noun in -х + ёстой (must / moral or institutional duty).",
+    "communicativeOutcome": "Differentiate between personal necessity ('Би эрт унтах хэрэгтэй') and binding rule/obligation ('Иргэн бүр татвар төлөх ёстой').",
+    "objectivesIntroduced": [
+      "obj_a2_86_01_modal_obligation_constructions"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_85_01_pharmacy_dosage_lexicon"
+    ],
+    "grammarIntroduced": [
+      "gram_a2_modal_obligation_heregtei_yostoi"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_verbal_noun_future_participle_h",
+      "gram_a1_predicate_adjective_nominal"
+    ],
+    "phonologyIntroduced": [
+      "phono_a2_modal_prosodic_stress"
+    ],
+    "phonologyPracticed": [
+      "phono_a1_long_vowels"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_masculine_feminine_harmony"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_21_expressing_obligation_rules"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_civic_administrative",
+      "lex_domain_daily_routines"
+    ],
+    "previousVocabularyReused": [
+      "хэрэгтэй",
+      "ёстой",
+      "хийх",
+      "явах",
+      "унтах",
+      "ирэх"
+    ],
+    "readingObjective": "Read clinic discharge instructions outlining necessary recovery regimens.",
+    "listeningObjective": "Identify modal markers (хэрэгтэй vs ёстой) in doctor's advice and clinic regulations.",
+    "writingObjective": "Transform 4 basic verbal sentences into advisory and binding obligation statements.",
+    "spokenProductionObjective": "Explain obligations: 'Та энэ эмийг долоо хоног тасралтгүй уух ёстой'.",
+    "registerTarget": "Standard advisory and regulatory register",
+    "pragmaticTarget": "Distinguishing soft personal recommendations (хэрэгтэй) from non-negotiable rules (ёстой).",
+    "prerequisiteLessonIds": [
+      "les_a2_85_04_pharmacy_counter_purchasing_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_38_01_habitual_routines_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_38_habitual_present_verbal_aspect_suff"
+    ],
+    "reviewReason": "Transforms habitual verbs into modalized obligation statements.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model prosodic prominence on modal predicators (хэрэгтэй, ёстой).",
+    "successCriteria": [
+      "Combines verbal noun in -х with хэрэгтэй for advisory recommendations",
+      "Combines verbal noun in -х with ёстой for mandatory statutory/medical requirements"
+    ],
+    "masteryEvidence": "Produces 'Би эмчид үзүүлэх хэрэгтэй, харин та маск зүүх ёстой' with accurate semantic contrast.",
+    "recommendedExerciseModalities": [
+      "modal_selection",
+      "sentence_construction",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_86_03_doctor_post_op_consultation_dialogue",
+    "unitId": "unit_a2_86_modal_obligation_modals_vs_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Doctor's Orders: Post-Op Care & Mandatory Health Regimens",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Master spoken interaction discussing mandatory treatment protocols: dietary restrictions, follow-up tests, physical therapy, and medication compliance.",
+    "communicativeOutcome": "Consult with a physician regarding post-treatment care, clarify mandatory follow-up appointments, and negotiate work restrictions.",
+    "objectivesIntroduced": [
+      "obj_a2_86_03_treatment_protocol_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_86_01_modal_obligation_constructions",
+      "obj_a2_86_02_recovery_regimen_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_19_01_polar_questions"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_modal_obligation_heregtei_yostoi"
+    ],
+    "grammarReviewed": [
+      "gram_a1_polar_questions_uu_uu",
+      "gram_a1_converb_coordinating_j_ch"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_21_expressing_obligation_rules"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_12_medical_symptoms_doctor"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_health_medicine"
+    ],
+    "previousVocabularyReused": [
+      "үзүүлэх",
+      "шинжилгээ",
+      "өгөх",
+      "хоол",
+      "хүнд",
+      "өргөх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand doctor explaining mandatory restrictions: 'Та хоёр долоо хоног хүнд юм өргөж болохгүй, заавал давтан шинжилгээ өгөх ёстой'.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Ask doctor: 'Би хэзээ ажилдаа орж болох вэ? Хоолонд ямар дэглэм барих ёстой вэ?'.",
+    "registerTarget": "Authoritative professional medical guidance register",
+    "pragmaticTarget": "Clarifying clinical restrictions thoroughly to avoid complications.",
+    "prerequisiteLessonIds": [
+      "les_a2_86_01_modal_obligation_heregtei_yostoi_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_41_01_witnessed_past_laa_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_41_witnessed_past_verbal_tense_suffix_"
+    ],
+    "reviewReason": "Spirals past-tense surgery reports into future modal obligations.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Clear, firm doctor guidance and attentive patient verification questions.",
+    "successCriteria": [
+      "Identifies which health regimens are compulsory (ёстой) vs optional (хэрэгтэй)",
+      "Asks clarifying questions regarding duration of physical restrictions"
+    ],
+    "masteryEvidence": "Executes 5-turn medical follow-up consultation clarifying all dietary and physical restrictions.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_86_02_clinic_regulations_recovery_lexicon",
+    "unitId": "unit_a2_86_modal_obligation_modals_vs_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Hospital Rules & Recovery: Patient Regimens & Protocols",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce institutional hospital rules and medical recovery vocabulary (дэглэм сахих, гам барих, тайван байх, цээрлэх, хориглох, баримтлах).",
+    "communicativeOutcome": "Explain hospital visiting hours, quarantine rules, and post-illness recovery regimens (гам барих).",
+    "objectivesIntroduced": [
+      "obj_a2_86_02_recovery_regimen_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_86_01_modal_obligation_constructions"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_modal_obligation_heregtei_yostoi"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_accusative_definite",
+      "gram_a1_case_ablative_origin"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_21_expressing_obligation_rules"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_health_medicine",
+      "lex_domain_civic_administrative"
+    ],
+    "previousVocabularyReused": [
+      "дэглэм",
+      "дүрэм",
+      "сахих",
+      "хориглох",
+      "эмнэлэг",
+      "өвчтөн"
+    ],
+    "readingObjective": "Read inpatient ward guidelines specifying quiet hours and hygiene protocols.",
+    "listeningObjective": "Understand head nurse briefing visitors on sanitation and shoe-cover requirements.",
+    "writingObjective": "List 5 essential post-operative recovery rules in Cyrillic.",
+    "spokenProductionObjective": "Explain recovery advice: 'Ханиад хүрсний дараа дор хаяж гурав хоног сайн гам барих хэрэгтэй'.",
+    "registerTarget": "Institutional medical compliance register",
+    "pragmaticTarget": "Appreciating traditional Mongolian post-illness recuperation concepts (гам барих).",
+    "prerequisiteLessonIds": [
+      "les_a2_86_01_modal_obligation_heregtei_yostoi_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_49_01_polite_imperative_aarai"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_49_polite_request_imperative_suffixes_"
+    ],
+    "reviewReason": "Links polite request forms to institutional obligation structures.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce clinical protocol terms clearly.",
+    "successCriteria": [
+      "Defines дэглэм сахих (follow a regimen), гам барих (post-illness recuperation), цээрлэх (abstain from)",
+      "Forms obligations using ёстой for mandatory ward rules"
+    ],
+    "masteryEvidence": "Accurately maps 6 hospital rules into mandatory (ёстой) vs recommended (хэрэгтэй) categories.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_86_04_clinic_ward_acoustic_listening",
+    "unitId": "unit_a2_86_modal_obligation_modals_vs_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Acoustic Lab: Inpatient Ward Announcements & Discharge Briefings",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic listening comprehension of hospital ward public address announcements, meal schedules, doctor rounds, and discharge briefings.",
+    "communicativeOutcome": "Extract mandatory hospital ward schedules (inspection rounds, visiting hour ends, mandatory medicine administration) from loudspeaker audio.",
+    "objectivesIntroduced": [
+      "obj_a2_86_04_decode_ward_announcements"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_86_01_modal_obligation_constructions"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_27_01_counting_tens_hundreds"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a2_modal_obligation_heregtei_yostoi",
+      "gram_a1_numerals_cardinal_counting"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_21_expressing_obligation_rules"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 1,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_health_medicine",
+      "lex_domain_civic_administrative"
+    ],
+    "previousVocabularyReused": [
+      "өвчтөн",
+      "эргэлт",
+      "хаагдах",
+      "эм",
+      "цаг",
+      "тасаг"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Identify specific times for doctor rounds ('Эмчийн үзлэг өглөө 9 цагт эхэлнэ') and visitor departure from ward audio.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Inform a hospital visitor that visiting hours are ending in 15 minutes.",
+    "registerTarget": "Institutional hospital loudspeaker announcement register",
+    "pragmaticTarget": "Parsing announcements over ambient corridor footsteps and cart acoustics.",
+    "prerequisiteLessonIds": [
+      "les_a2_86_02_clinic_regulations_recovery_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_70_03_teller_guidance_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_70_banking_basics_atms_cash_withdrawal"
+    ],
+    "reviewReason": "Expands public institutional listening from banks to healthcare facilities.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Hospital hallway reverberation with gentle, authoritative nurse announcements.",
+    "successCriteria": [
+      "Extracts visiting hour restrictions accurately from acoustic broadcast",
+      "Understands patient preparation requirements prior to diagnostic rounds"
+    ],
+    "masteryEvidence": "Accurately completes hospital ward schedule log based on 3 audio announcements.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "phonetic_discrimination",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_86_05_patient_care_plan_writing",
+    "unitId": "unit_a2_86_modal_obligation_modals_vs_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 5,
+    "title": "Care Protocol: Writing a Patient Discharge Plan & Daily Regimen",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Synthesize modal obligation structures (хэрэгтэй, ёстой), medical recovery vocabulary, and sequential steps into a written home care plan.",
+    "communicativeOutcome": "Draft a written 5-step home recovery schedule for a recovering family member, detailing medication timing, dietary limits, and rest.",
+    "objectivesIntroduced": [
+      "obj_a2_86_05_write_discharge_care_plan"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_86_01_modal_obligation_constructions",
+      "obj_a2_86_02_recovery_regimen_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_50_01_sequential_converb"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_modal_obligation_heregtei_yostoi"
+    ],
+    "grammarReviewed": [
+      "gram_a1_converb_sequential_aad",
+      "gram_a1_verbal_noun_future_participle_h"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_21_expressing_obligation_rules"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_health_medicine",
+      "lex_domain_daily_routines"
+    ],
+    "previousVocabularyReused": [
+      "төлөвлөгөө",
+      "дэглэм",
+      "эм",
+      "уух",
+      "амрах",
+      "хугацаа"
+    ],
+    "readingObjective": "Review a sample clinic discharge summary to observe professional layout.",
+    "listeningObjective": "",
+    "writingObjective": "Draft a 5-point home care regimen using both хэрэгтэй and ёстой accurately.",
+    "spokenProductionObjective": "",
+    "registerTarget": "Advisory healthcare caretaking memo register",
+    "pragmaticTarget": "Formatting clear, unambiguous instructions for family caretakers.",
+    "prerequisiteLessonIds": [
+      "les_a2_86_01_modal_obligation_heregtei_yostoi_intro",
+      "les_a2_86_03_doctor_post_op_consultation_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_50_01_sequential_converb_aad"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_50_sequential_converb_clause_connector"
+    ],
+    "reviewReason": "Connects sequential converb timelines (-аад) with modal obligation milestones.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Audio read-back of written patient recovery plan.",
+    "successCriteria": [
+      "Produces written care plan using both хэрэгтэй (advisory) and ёстой (mandatory)",
+      "Includes precise temporal intervals: өдөрт 3 удаа, 7 хоногийн турш"
+    ],
+    "masteryEvidence": "Drafts 'Өглөө бүр эмийг хоолны дараа уух ёстой. Мөн өдөрт 2 литр ус уух хэрэгтэй...' flawlessly.",
+    "recommendedExerciseModalities": [
+      "short-answer writing",
+      "sentence construction",
+      "error correction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_87_01_modal_permission_bolno_bolokhgui_intro",
+    "unitId": "unit_a2_87_modal_permission_possibility_suffix",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "Allowed & Forbidden: Modal Permission with Болно & Болохгүй",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce modal structures of permission and prohibition: converb in -ж/-ч + болно (may / allowed to do) and -ж/-ч + болохгүй (must not / forbidden).",
+    "communicativeOutcome": "Ask for permission ('Би энд сууж болох уу?'), grant permission ('Борно оо'), and state prohibitions ('Энд тамхи татаж болохгүй').",
+    "objectivesIntroduced": [
+      "obj_a2_87_01_modal_permission_bolno"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_86_01_modal_obligation_constructions"
+    ],
+    "grammarIntroduced": [
+      "gram_a2_modal_permission_possibility_bolno"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_converb_coordinating_j_ch",
+      "gram_a1_polar_questions_uu_uu"
+    ],
+    "phonologyIntroduced": [
+      "phono_a2_permission_question_intonation"
+    ],
+    "phonologyPracticed": [
+      "phono_a1_intonation_questions"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_22_requesting_granting_permission"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_civic_administrative",
+      "lex_domain_social_interaction"
+    ],
+    "previousVocabularyReused": [
+      "болох",
+      "болохгүй",
+      "суух",
+      "орох",
+      "асуух",
+      "хийх"
+    ],
+    "readingObjective": "Read public civic signs prohibiting smoking, photography, or parking.",
+    "listeningObjective": "Recognize permission requests ('-ж болох уу?') and affirmative/negative grants.",
+    "writingObjective": "Write 4 sentences contrasting permitted actions with prohibited actions in public buildings.",
+    "spokenProductionObjective": "Request permission politely: 'Уучлаарай, би энэ утсаар ярьж болох уу?'.",
+    "registerTarget": "Everyday polite civic register",
+    "pragmaticTarget": "Asking for permission smoothly in social settings to demonstrate good manners.",
+    "prerequisiteLessonIds": [
+      "les_a2_86_05_patient_care_plan_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_37_01_coordinating_converb_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_37_imperfective_coordinating_converb"
+    ],
+    "reviewReason": "Combines coordinating converb stem (-ж/-ч) with modal verb болох.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model polite rising intonation in permission queries ('-ж болох уу?').",
+    "successCriteria": [
+      "Attaches coordinating converb (-ж/-ч) to verbal root before болно/болохгүй",
+      "Formulates polite permission inquiries using polar particle: '-ж болох уу?'"
+    ],
+    "masteryEvidence": "Produces 'Энд зураг авч болохгүй, харин гар утсаа ашиглаж болно' accurately.",
+    "recommendedExerciseModalities": [
+      "suffix_selection",
+      "sentence_construction",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_87_02_civic_rules_apartment_living_lexicon",
+    "unitId": "unit_a2_87_modal_permission_possibility_suffix",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Reading Condominium Association (СӨХ) Charter Rules & Pet Regulations",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Analyze official residential bylaws regarding pet keeping, common area maintenance, and parking rules.",
+    "communicativeOutcome": "Understand apartment building regulations regarding evening quiet hours (22:00 цагаас хойш дуу чимээ гаргаж болохгүй), pet rules, and trash disposal.",
+    "objectivesIntroduced": [
+      "obj_a2_87_02_apartment_civic_rules_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_87_01_modal_permission_bolno"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_modal_permission_possibility_bolno"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_case_ablative_origin"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_22_requesting_granting_permission"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_21_expressing_obligation_rules"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_civic_administrative",
+      "lex_domain_housing_home"
+    ],
+    "previousVocabularyReused": [
+      "байр",
+      "хог",
+      "чимээ",
+      "шөнө",
+      "засвар",
+      "оршин суугч"
+    ],
+    "readingObjective": "Read an entrance foyer bulletin board posting of building association (СӨХ) bylaws.",
+    "listeningObjective": "Understand building manager explaining renovation noise hours to a new resident.",
+    "writingObjective": "List 4 prohibited actions in residential apartment hallways in Cyrillic.",
+    "spokenProductionObjective": "Explain building rules to a neighbor: 'Амралтын өдрүүдэд өрөм тавьж засвар хийж болохгүй'.",
+    "registerTarget": "Neighborhood association and community residential register",
+    "pragmaticTarget": "Maintaining neighborly harmony through strict adherence to communal quiet hours.",
+    "prerequisiteLessonIds": [
+      "les_a2_87_01_modal_permission_bolno_bolokhgui_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_55_01_residential_housing_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_55_residential_housing_apartments_ger_"
+    ],
+    "reviewReason": "Expands basic apartment vocabulary into condominium management and community bylaws.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce community housing administrative terms clearly.",
+    "successCriteria": [
+      "Defines СӨХ (condominium association), нийтийн эзэмшил (common property), дуу чимээ (noise)",
+      "Expresses residential restrictions using -ж болохгүй accurately"
+    ],
+    "masteryEvidence": "Accurately categorizes 6 neighborhood activities into permitted vs prohibited times.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_87_03_landlord_tenant_permissions_dialogue",
+    "unitId": "unit_a2_87_modal_permission_possibility_suffix",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Tenant & Landlord: Negotiating Apartment Permissions & Renovation",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Master spoken interaction between tenant and landlord: requesting permission to keep a pet, hang picture frames, repaint walls, or host overnight guests.",
+    "communicativeOutcome": "Negotiate rental terms and obtain formal permission from a landlord for home modifications or pets.",
+    "objectivesIntroduced": [
+      "obj_a2_87_03_tenant_landlord_permission_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_87_01_modal_permission_bolno",
+      "obj_a2_87_02_apartment_civic_rules_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_19_01_polar_questions"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_modal_permission_possibility_bolno"
+    ],
+    "grammarReviewed": [
+      "gram_a1_converb_conditional_val",
+      "gram_a1_verb_imperative_polite_aarai"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_diphthongs"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_22_requesting_granting_permission"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_21_expressing_obligation_rules"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 3,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_housing_home",
+      "lex_domain_civic_administrative"
+    ],
+    "previousVocabularyReused": [
+      "түрээс",
+      "байр",
+      "нохой",
+      "хана",
+      "будах",
+      "зөвшөөрөх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand landlord granting conditional permission: 'Ханан дээр жижиг зураг хадаж болно, харин хадаас том цоолж болохгүй'.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Request permission: 'Би байрандаа жижиг муур тэжээж болох уу? СӨХ-ийн дүрэмд зөвшөөрдөг юм байна лээ'.",
+    "registerTarget": "Diplomatic polite tenant-landlord negotiation register",
+    "pragmaticTarget": "Securing explicit consent before altering leased property.",
+    "prerequisiteLessonIds": [
+      "les_a2_87_02_civic_rules_apartment_living_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_55_05_housing_rental_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_55_residential_housing_apartments_ger_"
+    ],
+    "reviewReason": "Elevates rental inquiries to nuanced permission negotiation.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Deliver friendly, balanced dialogue between polite tenant and reasonable landlord.",
+    "successCriteria": [
+      "Requests permission politely using '-ж болох уу?'",
+      "Understands and respects conditional provisos attached to permission grants"
+    ],
+    "masteryEvidence": "Conducts a 5-turn landlord-tenant dialogue negotiating pet ownership and wall mounting.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_87_04_public_notices_prohibitions_listening",
+    "unitId": "unit_a2_87_modal_permission_possibility_suffix",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Deciphering Noise Curfew Bulletins & Waste Sorting Guidelines",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Extract specific time windows (22:00 curfew) and recycling requirements from building notices.",
+    "communicativeOutcome": "Heed verbal warnings from curators or security guards regarding flash photography, talking, or carrying open food containers.",
+    "objectivesIntroduced": [
+      "obj_a2_87_04_decode_public_prohibitions"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_87_01_modal_permission_bolno"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_49_01_polite_imperative_aarai"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a2_modal_permission_possibility_bolno",
+      "gram_a1_verb_imperative_polite_aarai"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_22_requesting_granting_permission"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_civic_administrative",
+      "lex_domain_culture_traditions"
+    ],
+    "previousVocabularyReused": [
+      "зураг",
+      "авах",
+      "чимээ",
+      "хоол",
+      "унд",
+      "хориглох"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Identify specific prohibition ('Энд гэрэл асааж зураг авч болохгүй') from docent audio clips in a historical museum.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Warn a fellow tourist not to touch an exhibit: 'Үүнд хүрч болохгүй гэж байна'.",
+    "registerTarget": "Institutional supervisory authority register",
+    "pragmaticTarget": "Responding immediately and respectfully to institutional security reminders.",
+    "prerequisiteLessonIds": [
+      "les_a2_87_01_modal_permission_bolno_bolokhgui_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_73_04_mall_promotions_pa_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_73_department_stores_shopping_mall_nav"
+    ],
+    "reviewReason": "Sharpens auditory comprehension of public institutional announcements.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Museum acoustics with quiet footsteps, echoing gallery, and firm, polite curator warnings.",
+    "successCriteria": [
+      "Extracts specific prohibited behaviors accurately from audio stimuli",
+      "Distinguishes total bans from areas where flash-free photos are permitted"
+    ],
+    "masteryEvidence": "Correctly classifies 4 audio warning scenarios into permitted vs prohibited categories.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "phonetic_discrimination",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_87_05_building_bylaws_notice_writing",
+    "unitId": "unit_a2_87_modal_permission_possibility_suffix",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 5,
+    "title": "Community Rules: Drafting an Apartment Association (СӨХ) Bylaw Notice",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Synthesize modal permission/prohibition forms (болно, болохгүй), civic living vocabulary, and temporal markers into an official apartment entryway notice.",
+    "communicativeOutcome": "Draft a formal entryway notice for an apartment block informing residents of parking rules, quiet hours, and trash collection schedules.",
+    "objectivesIntroduced": [
+      "obj_a2_87_05_write_building_notice"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_87_01_modal_permission_bolno",
+      "obj_a2_87_02_apartment_civic_rules_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_50_01_sequential_converb"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_modal_permission_possibility_bolno"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_converb_coordinating_j_ch"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_22_requesting_granting_permission",
+      "comm_a2_21_expressing_obligation_rules"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_civic_administrative",
+      "lex_domain_housing_home"
+    ],
+    "previousVocabularyReused": [
+      "мэдэгдэл",
+      "СӨХ",
+      "оршин суугчид",
+      "цаг",
+      "хориглох",
+      "баярлалаа"
+    ],
+    "readingObjective": "Review authentic photographed entryway notices from Ulaanbaatar apartment complexes.",
+    "listeningObjective": "",
+    "writingObjective": "Draft a 5-point condominium notice using both болно and болохгүй accurately.",
+    "spokenProductionObjective": "",
+    "registerTarget": "Public administrative community notice register",
+    "pragmaticTarget": "Composing clear, authoritative, yet courteous community notices.",
+    "prerequisiteLessonIds": [
+      "les_a2_87_01_modal_permission_bolno_bolokhgui_intro",
+      "les_a2_87_02_civic_rules_apartment_living_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_55_06_apartment_description_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_55_residential_housing_apartments_ger_"
+    ],
+    "reviewReason": "Advances written housing texts from descriptive to regulatory notices.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Audio read-back of written community notice.",
+    "successCriteria": [
+      "Produces written notice clearly distinguishing permitted times from prohibited behaviors",
+      "Correctly spells specialized terms: оршин суугчид, СӨХ, дуу чимээ, нийтийн эзэмшил"
+    ],
+    "masteryEvidence": "Drafts 'Оршин суугчдын анхааралд: Үдэш 22 цагаас хойш чанга дуу чимээ гаргаж болохгүй...' flawlessly.",
+    "recommendedExerciseModalities": [
+      "short-answer writing",
+      "sentence construction",
+      "error correction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_88_01_modal_ability_chadakh_yadakh_intro",
+    "unitId": "unit_a2_88_modal_potentiality_verbs_vs_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "I Can & I Struggle: Modal Ability with Чадах & Ядах",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce modal auxiliary verbs of capability and difficulty: converb in -ж/-ч + чадах (can / to be able) and -ж/-ч + ядах (to struggle to / fail to do).",
+    "communicativeOutcome": "Express physical ability, learned skills, and bodily struggles (e.g. 'Би монголоор ярьж чадна', 'Өвдөөд босож ядаж байна').",
+    "objectivesIntroduced": [
+      "obj_a2_88_01_modal_ability_chadah_yadah"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_87_01_modal_permission_bolno"
+    ],
+    "grammarIntroduced": [
+      "gram_a2_modal_ability_yadah_chadah"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_converb_coordinating_j_ch",
+      "gram_a1_verb_tense_future_prospective_na"
+    ],
+    "phonologyIntroduced": [
+      "phono_a2_modal_auxiliary_prosody"
+    ],
+    "phonologyPracticed": [
+      "phono_a1_masculine_feminine_harmony"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_12_medical_symptoms_doctor"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_abilities_skills",
+      "lex_domain_health_medicine"
+    ],
+    "previousVocabularyReused": [
+      "чадах",
+      "ядах",
+      "хийх",
+      "явах",
+      "унших",
+      "хэлэх"
+    ],
+    "readingObjective": "Read occupational profiles listing physical abilities and language competencies.",
+    "listeningObjective": "Identify modal auxiliaries (чадна vs ядаж байна) in conversational statements.",
+    "writingObjective": "Write 4 sentences contrasting things you can do easily with physical tasks you struggle with.",
+    "spokenProductionObjective": "Explain capabilities: 'Би морь унаж чадна, гэхдээ өнөөдөр хөл өвдөөд хурдан алхаж ядаж байна'.",
+    "registerTarget": "Standard personal capability register",
+    "pragmaticTarget": "Distinguishing acquired capability (чадах) from temporary bodily hardship (ядах).",
+    "prerequisiteLessonIds": [
+      "les_a2_87_05_building_bylaws_notice_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_37_01_coordinating_converb_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_37_imperfective_coordinating_converb"
+    ],
+    "reviewReason": "Fuses coordinating converb (-ж/-ч) with modal capability auxiliaries.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model prosodic integration of auxiliary verbs with main verb stems.",
+    "successCriteria": [
+      "Forms -ж чадах for positive ability and -ж чадахгүй for inability",
+      "Uses -ж ядах to describe arduous physical effort or struggle"
+    ],
+    "masteryEvidence": "Produces 'Би өчигдөр нойргүй болохоор нүдээ нээж ядаж байна' accurately.",
+    "recommendedExerciseModalities": [
+      "suffix_selection",
+      "sentence_construction",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_88_02_physical_rehabilitation_mobility_lexicon",
+    "unitId": "unit_a2_88_modal_potentiality_verbs_vs_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Mobility & Recovery: Physical Rehabilitation Vocabulary",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce physical therapy, mobility, and rehabilitation vocabulary (хөдөлгөөн, дасгал, сэргээн засах, гишгэх, өндийх, сунах, тулах).",
+    "communicativeOutcome": "Describe physical therapy progress, range of motion, walking with crutches, and mobility recovery.",
+    "objectivesIntroduced": [
+      "obj_a2_88_02_rehabilitation_mobility_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_88_01_modal_ability_chadah_yadah"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_modal_ability_yadah_chadah"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_instrumental_transport_language",
+      "gram_a1_predicate_adjective_nominal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_12_medical_symptoms_doctor"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_health_medicine",
+      "lex_domain_actions_movement"
+    ],
+    "previousVocabularyReused": [
+      "хөл",
+      "хөдлөх",
+      "алхах",
+      "дасгал",
+      "эмчилгээ",
+      "аажмаар"
+    ],
+    "readingObjective": "Read a physical therapy exercise guide describing daily rehabilitation stages.",
+    "listeningObjective": "Understand physical therapist encouraging patient during walking rehabilitation.",
+    "writingObjective": "List 4 rehabilitation exercises paired with target joints in Cyrillic.",
+    "spokenProductionObjective": "Report physical progress: 'Би өнөөдөр таяггүйгээр таван алхам алхаж чадлаа'.",
+    "registerTarget": "Clinical rehabilitation and physiotherapy register",
+    "pragmaticTarget": "Expressing realistic physical limitations and celebrating incremental recovery milestones.",
+    "prerequisiteLessonIds": [
+      "les_a2_88_01_modal_ability_chadakh_yadakh_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_83_01_body_parts_somatic_pain_lexicon"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_83_human_anatomy_somatic_pain_location"
+    ],
+    "reviewReason": "Connects anatomical pain points with active physical therapy recovery.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce rehabilitation movement terms clearly.",
+    "successCriteria": [
+      "Identifies key rehabilitation verbs: гишгэх (step/tread), өндийх (straighten up), сунах (stretch)",
+      "Uses чадах to describe returning motor functions: 'Гараа өргөж чадаж байна'"
+    ],
+    "masteryEvidence": "Accurately describes 4 stages of mobility recovery using modal ability verbs.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_88_03_physical_therapy_session_dialogue",
+    "unitId": "unit_a2_88_modal_potentiality_verbs_vs_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Therapy Session: Reporting Mobility & Physical Limitations",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Master spoken interaction with a physical therapist: evaluating pain thresholds, attempting mobility exercises, and explaining what movements cause difficulty.",
+    "communicativeOutcome": "Communicate with a physical therapist during a session, stating which exercises you can perform and where you encounter stiffness or pain.",
+    "objectivesIntroduced": [
+      "obj_a2_88_03_physical_therapy_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_88_01_modal_ability_chadah_yadah",
+      "obj_a2_88_02_rehabilitation_mobility_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_16_01_greet_time_of_day"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_modal_ability_yadah_chadah"
+    ],
+    "grammarReviewed": [
+      "gram_a1_converb_coordinating_j_ch",
+      "gram_a2_converb_temporal_while_khad"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_diphthongs"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_12_medical_symptoms_doctor"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_health_medicine"
+    ],
+    "previousVocabularyReused": [
+      "өвдөх",
+      "хөдөлгөх",
+      "дээшээ",
+      "доошоо",
+      "чадах",
+      "хэцүү"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand therapist's coaching cues: 'Өвдгөө аажмаар нугалаад үз, хэрэв өвдвөл шууд зогсоорой'.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Report sensations: 'Би өвдгөө жаахан нугалж чадаж байна, гэхдээ бүтэн тэнийлгэж ядаж байна'.",
+    "registerTarget": "Encouraging therapeutic physical consultation register",
+    "pragmaticTarget": "Communicating physical discomfort thresholds promptly before injury occurs.",
+    "prerequisiteLessonIds": [
+      "les_a2_88_02_physical_rehabilitation_mobility_lexicon",
+      "les_a2_88_01_modal_ability_chadakh_yadakh_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_84_01_temporal_converb_khad_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_84_describing_illness_symptoms_to_a_ph"
+    ],
+    "reviewReason": "Links temporal conditions (-хад) with physical inability: 'Хөлөө өргөхөд өвдөөд чадахгүй байна'.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Supportive physical therapist voice and realistic patient exertion feedback.",
+    "successCriteria": [
+      "Expresses physical capability using -ж чадах and difficulty using -ж ядах",
+      "Follows therapeutic exercise instructions accurately during simulation"
+    ],
+    "masteryEvidence": "Conducts a 5-turn physical rehabilitation dialogue reporting mobility improvements and pain limits.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_88_04_mobility_recovery_acoustic_listening",
+    "unitId": "unit_a2_88_modal_potentiality_verbs_vs_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Reading Official Capability & Disability Guidelines for Public Work",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Analyze official employment advisories detailing physical capabilities and potentiality using -ж чадах/чадахгүй.",
+    "communicativeOutcome": "Extract milestone achievements (standing without aid, walking 100 meters, returning to driving) from patient recovery monologues.",
+    "objectivesIntroduced": [
+      "obj_a2_88_04_decode_patient_testimonials"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_88_01_modal_ability_chadah_yadah"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_41_01_witnessed_past_laa"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a2_modal_ability_yadah_chadah",
+      "gram_a1_verb_tense_past_witnessed_laa"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_12_medical_symptoms_doctor"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_health_medicine"
+    ],
+    "previousVocabularyReused": [
+      "хэвтэх",
+      "босох",
+      "алхах",
+      "эмчилгээ",
+      "үр дүн",
+      "баярлах"
+    ],
+    "readingObjective": "Extract required skills and capability constraints from workplace circulars.",
+    "listeningObjective": "Identify specific recovery milestones achieved ('Би одоо бие даан шатаар гарч чадаж байна') from patient audio journal.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Summarize the patient's 3-month rehabilitation journey to a classmate.",
+    "registerTarget": "Emotional personal recovery narrative register",
+    "pragmaticTarget": "Appreciating perseverance and human resilience in overcoming physical injury.",
+    "prerequisiteLessonIds": [
+      "les_a2_88_02_physical_rehabilitation_mobility_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_76_04_reading_family_memoirs_letters"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_76_reflexive_case_combinations_"
+    ],
+    "reviewReason": "Extends autobiographical narrative listening to medical recovery accounts.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Heartfelt patient narrative with authentic emotional inflection and clear diction.",
+    "successCriteria": [
+      "Identifies the primary injury and subsequent mobility milestones from audio",
+      "Extracts specific remaining difficulties mentioned with -ж ядах"
+    ],
+    "masteryEvidence": "Chronologically maps out patient's 4 rehabilitation stages based on audio account.",
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "document_analysis",
+      "true_false"
+    ]
+  },
+  {
+    "lessonId": "les_a2_88_05_rehabilitation_progress_report_writing",
+    "unitId": "unit_a2_88_modal_potentiality_verbs_vs_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 5,
+    "title": "Recovery Journal: Writing a Rehabilitation Milestone Log",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Synthesize modal ability/difficulty auxiliaries (чадах, ядах), physical movement verbs, and time adverbials into a written recovery log.",
+    "communicativeOutcome": "Write a 5-6 sentence recovery journal documenting motor improvements, exercises completed, and remaining challenges.",
+    "objectivesIntroduced": [
+      "obj_a2_88_05_write_rehab_progress_log"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_88_01_modal_ability_chadah_yadah",
+      "obj_a2_88_02_rehabilitation_mobility_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_50_01_sequential_converb"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_modal_ability_yadah_chadah"
+    ],
+    "grammarReviewed": [
+      "gram_a1_converb_sequential_aad",
+      "gram_a1_verb_tense_past_perfective_san"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_12_medical_symptoms_doctor"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_health_medicine",
+      "lex_domain_actions_movement"
+    ],
+    "previousVocabularyReused": [
+      "өдөр",
+      "дасгал",
+      "үр дүн",
+      "сайжрах",
+      "хөдөлгөөн",
+      "алхах"
+    ],
+    "readingObjective": "Read a physical therapist's sample patient evaluation note.",
+    "listeningObjective": "",
+    "writingObjective": "Draft a 6-sentence recovery progress report using both -ж чадах and -ж ядах accurately.",
+    "spokenProductionObjective": "",
+    "registerTarget": "Personal reflective health journal register",
+    "pragmaticTarget": "Documenting health milestones objectively with positive forward-looking framing.",
+    "prerequisiteLessonIds": [
+      "les_a2_88_01_modal_ability_chadakh_yadakh_intro",
+      "les_a2_88_03_physical_therapy_session_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_50_01_sequential_converb_aad"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_50_sequential_converb_clause_connector"
+    ],
+    "reviewReason": "Links sequential milestones with modal ability predicates.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Audio read-back of written rehabilitation journal.",
+    "successCriteria": [
+      "Produces written recovery log containing both -ж чадах (ability) and -ж ядах (struggle)",
+      "Accurately uses rehabilitation verbs: алхах, өргөх, тэнийлгэх, дасгал хийх"
+    ],
+    "masteryEvidence": "Drafts 'Би өнөөдөр шатаар өөрөө бууж чадлаа, гэхдээ хөл чинэрээд хурдан алхаж ядаж байна' flawlessly.",
+    "recommendedExerciseModalities": [
+      "short-answer writing",
+      "sentence construction",
+      "error correction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_89_01_clinic_dental_scheduling_lexicon",
+    "unitId": "unit_a2_89_scheduling_clinic_dental_appointmen",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "Booking the Dentist: Appointments, Postponements & Cleanings",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce clinical and dental appointment scheduling vocabulary (цаг авах, цаг солих, цуцлах, шүдний эмч, үзлэг, цэвэрлэгээ, ломбодох, рентген).",
+    "communicativeOutcome": "Book, reschedule, or cancel a medical or dental appointment via telephone or online portal.",
+    "objectivesIntroduced": [
+      "obj_a2_89_01_appointment_scheduling_lexicon"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_88_01_modal_ability_chadah_yadah"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_time",
+      "gram_a1_verb_tense_future_prospective_na"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_long_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_11_scheduling_rescheduling_meetings"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_12_medical_symptoms_doctor"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 9,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_health_medicine",
+      "lex_domain_civic_administrative"
+    ],
+    "previousVocabularyReused": [
+      "цаг",
+      "өдөр",
+      "шүд",
+      "эмч",
+      "солих",
+      "болох"
+    ],
+    "readingObjective": "Read an online dental clinic booking calendar displaying open time slots and practitioner specialties.",
+    "listeningObjective": "Understand clinic receptionist offering alternative appointment times.",
+    "writingObjective": "List 4 dental procedures (цэвэрлэгээ, ломбо, авахуулах, зураг) in Cyrillic.",
+    "spokenProductionObjective": "Request appointment: 'Би маргааш үдээс хойш шүдний эмчид үзүүлэхээр цаг авч болох уу?'.",
+    "registerTarget": "Standard administrative appointment booking register",
+    "pragmaticTarget": "Checking available time slots politely and confirming practitioner names.",
+    "prerequisiteLessonIds": [
+      "les_a2_88_05_rehabilitation_progress_report_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_36_01_calendar_dates_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_36_calendar_dates_months_seasons"
+    ],
+    "reviewReason": "Integrates calendar days and clock times into formal scheduling workflows.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce clinical appointment terminology and dental procedures clearly.",
+    "successCriteria": [
+      "Defines цаг авах (book appointment), цуцлах (cancel), хойшлуулах (postpone), ломбодох (fill a cavity)",
+      "Proposes and confirms specific dates and times"
+    ],
+    "masteryEvidence": "Accurately books a dental cleaning slot for Wednesday at 14:00 without assistance.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_89_02_appointment_confirmations_sms_reading",
+    "unitId": "unit_a2_89_scheduling_clinic_dental_appointmen",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Deciphering Appointment Confirmation Texts & Reminder Alerts",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Develop reading skills for authentic automated SMS reminders, clinic confirmation notifications, and cancellation deadlines.",
+    "communicativeOutcome": "Inspect clinic SMS reminders to extract appointment date, doctor's office room number, required preparation, and reply confirmation codes.",
+    "objectivesIntroduced": [
+      "obj_a2_89_02_read_appointment_sms"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_89_01_appointment_scheduling_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_case_genitive_possession"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_11_scheduling_rescheduling_meetings"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 2,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_health_medicine",
+      "lex_domain_technology_devices"
+    ],
+    "previousVocabularyReused": [
+      "сануулга",
+      "ирнэ",
+      "цуцлах",
+      "хариу",
+      "өрөө",
+      "утас"
+    ],
+    "readingObjective": "Locate date, time, clinic address, and cancellation protocol in a 60-character automated SMS notification.",
+    "listeningObjective": "",
+    "writingObjective": "Transcribe confirmed medical appointment details into a personal calendar entry.",
+    "spokenProductionObjective": "Explain SMS confirmation details to a peer.",
+    "registerTarget": "Concise automated digital notification register",
+    "pragmaticTarget": "Responding promptly with confirmation codes ('1 гэж хариулж баталгаажуулна уу') to prevent slot forfeiture.",
+    "prerequisiteLessonIds": [
+      "les_a2_89_01_clinic_dental_scheduling_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_64_06_transit_card_sms_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_64_navigating_ulaanbaatar_bus_routes_d"
+    ],
+    "reviewReason": "Applies short digital text reading to medical appointment reminders.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Read automated appointment SMS text aloud.",
+    "successCriteria": [
+      "Extracts appointment time and room number from SMS with 100% accuracy",
+      "Understands cancellation notice policy (24 цагийн өмнө мэдэгдэх)"
+    ],
+    "masteryEvidence": "Answers 4 comprehension questions based on authentic clinic appointment reminder messages.",
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "contextual_cloze",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_89_03_receptionist_scheduling_acoustic_listening",
+    "unitId": "unit_a2_89_scheduling_clinic_dental_appointmen",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Lab: Rapid Clinic Receptionist Phone Booking",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic listening comprehension of fast clinic receptionists navigating booking calendars, checking doctor availability, and confirming personal ID numbers.",
+    "communicativeOutcome": "Understand rapid receptionist queries regarding national registration number (регистр), insurance coverage, and open time slots.",
+    "objectivesIntroduced": [
+      "obj_a2_89_03_decode_receptionist_booking"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_89_01_appointment_scheduling_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_27_01_counting_tens_hundreds"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_numerals_cardinal_counting",
+      "gram_a1_polar_questions_uu_uu"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_11_scheduling_rescheduling_meetings"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 2,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_health_medicine",
+      "lex_domain_civic_administrative"
+    ],
+    "previousVocabularyReused": [
+      "регистр",
+      "даатгал",
+      "боломжтой",
+      "цаг",
+      "бүртгэл",
+      "сонсох"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Extract confirmed booking day, hour, and doctor name across 3 rapid receptionist phone audio clips.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Confirm appointment verbally by repeating back time and doctor name.",
+    "registerTarget": "Fast transactional receptionist telephone register",
+    "pragmaticTarget": "Providing national registration alphanumeric characters smoothly over the telephone.",
+    "prerequisiteLessonIds": [
+      "les_a2_89_01_clinic_dental_scheduling_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_69_03_courier_phone_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_69_postal_courier_package_delivery_ser"
+    ],
+    "reviewReason": "Tests phone comprehension under fast native speaker delivery conditions.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Realistic clinic phone acoustics with keyboard typing in the background.",
+    "successCriteria": [
+      "Transcribes appointment time accurately from telephone dialogue",
+      "Identifies whether insurance (даатгал) covers the selected procedure"
+    ],
+    "masteryEvidence": "Logs all booking parameters correctly across 3 distinct receptionist phone calls.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "dictation",
+      "phonetic_discrimination"
+    ]
+  },
+  {
+    "lessonId": "les_a2_89_04_dental_clinic_booking_dialogue",
+    "unitId": "unit_a2_89_scheduling_clinic_dental_appointmen",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "On the Line: Booking, Rescheduling & Confirming Dental Visits",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Master spoken communication for scheduling, rescheduling, and negotiating appointment slots with dental or medical clinic receptionists.",
+    "communicativeOutcome": "Call a dental clinic to schedule an emergency toothache visit or move an existing appointment to a different day.",
+    "objectivesIntroduced": [
+      "obj_a2_89_04_clinic_booking_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_89_01_appointment_scheduling_lexicon",
+      "obj_a2_89_02_read_appointment_sms"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_16_01_greet_time_of_day"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_verb_volitional_intention_ya",
+      "gram_a1_case_dative_locative_time"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_11_scheduling_rescheduling_meetings"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_12_medical_symptoms_doctor"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 3,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_health_medicine",
+      "lex_domain_civic_administrative"
+    ],
+    "previousVocabularyReused": [
+      "өдөр",
+      "солих",
+      "шүд",
+      "өвдөх",
+      "яаралтай",
+      "баярлалаа"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand receptionist proposing alternative times: 'Маргааш 11 цагт нэг хүн цагаа цуцалсан байна, та тэр цаг дээр ирж амжих уу?'.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Reschedule appointment: 'Уучлаарай, би өнөөдөр очиж чадахааргүй боллоо. Цагаа баасан гарагийн үдээс хойш руу шилжүүлж болох уу?'.",
+    "registerTarget": "Courteous institutional scheduling register",
+    "pragmaticTarget": "Politely negotiating alternative slots without inconveniencing the clinic staff.",
+    "prerequisiteLessonIds": [
+      "les_a2_89_01_clinic_dental_scheduling_lexicon",
+      "les_a2_89_03_receptionist_scheduling_acoustic_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_68_03_transit_delay_phone_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_68_handling_transit_delays_traffic_jam"
+    ],
+    "reviewReason": "Applies professional phone etiquette to healthcare appointment coordination.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Deliver natural telephone dialogue between patient and clinic scheduling officer.",
+    "successCriteria": [
+      "Successfully books or reschedules an appointment stating preferred day and time",
+      "Repeats back confirmed appointment details accurately"
+    ],
+    "masteryEvidence": "Completes a 5-turn unscripted dental booking phone simulation without error.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_90_01_comprehensive_clinical_lexicon",
+    "unitId": "unit_a2_90_medical_encounters_capstone_full_cl",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "Hospital Navigation: Wards, Diagnostics & Medical Records",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce high-level hospital navigation and diagnostic terminology (оношлогоо, шинжилгээний хариу, дүрс оношлогоо, эмчийн дүгнэлт, эмчилгээний карт, хэвтэн эмчлүүлэх).",
+    "communicativeOutcome": "Navigate a major district hospital or university clinic, understand diagnostic test referrals, and locate inpatient vs outpatient departments.",
+    "objectivesIntroduced": [
+      "obj_a2_90_01_comprehensive_clinical_lexicon"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_84_01_temporal_converb_khad",
+      "obj_a2_86_01_modal_obligation_constructions"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_converb_temporal_while_khad",
+      "gram_a2_modal_obligation_heregtei_yostoi"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_12_medical_symptoms_doctor",
+      "comm_a2_13_buying_medicine_pharmacy"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 10,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_health_medicine",
+      "lex_domain_civic_administrative"
+    ],
+    "previousVocabularyReused": [
+      "эмнэлэг",
+      "онош",
+      "шинжилгээ",
+      "хариу",
+      "эмчилгээ",
+      "эмч"
+    ],
+    "readingObjective": "Read hospital directory signage directing patients to laboratories, radiology, and ultrasound.",
+    "listeningObjective": "Understand hospital receptionist directing outpatient traffic to diagnostic labs.",
+    "writingObjective": "Outline a 3-step diagnostic route through a hospital facility in Cyrillic.",
+    "spokenProductionObjective": "Ask for diagnostic guidance: 'Цусны шинжилгээ өгөх лаборатори хэддүгээр давхарт байдаг вэ?'.",
+    "registerTarget": "Institutional healthcare facility register",
+    "pragmaticTarget": "Navigating complex hospital infrastructure autonomously.",
+    "prerequisiteLessonIds": [
+      "les_a2_89_04_dental_clinic_booking_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_63_06_elementary_stage_synthesis_capstone"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_63_a1_comprehensive_review_checkpoint_c"
+    ],
+    "reviewReason": "Synthesizes foundation communicative skills into intermediate clinical autonomy.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce hospital facility and diagnostic laboratory terms clearly.",
+    "successCriteria": [
+      "Defines оношлогоо (diagnostics), дүрс оношлогоо (imaging/radiology), шинжилгээний хариу (lab results)",
+      "Forms complete locative and directional queries in hospital settings"
+    ],
+    "masteryEvidence": "Accurately maps out an entire clinical journey from triage to lab and pharmacy.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "contextual_cloze",
+      "sentence_construction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_90_02_clinical_consultation_acoustic_decoding_lab",
+    "unitId": "unit_a2_90_medical_encounters_capstone_full_cl",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Acoustic Lab: Emergency Clinic Reception, Triage Calls & PA Broadcasts",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Comprehend ambient acoustic announcements in a hospital lobby, identifying patient queuing numbers and triage urgency.",
+    "communicativeOutcome": "Follow a multi-speaker clinical encounter, extract doctor's diagnosis, understand nurse's care instructions, and note prescription details.",
+    "objectivesIntroduced": [
+      "obj_a2_90_02_decode_clinical_encounters"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_90_01_comprehensive_clinical_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a2_83_03_decode_triage_assessments"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a2_converb_temporal_while_khad",
+      "gram_a2_modal_obligation_heregtei_yostoi"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_12_medical_symptoms_doctor"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 1,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_health_medicine"
+    ],
+    "previousVocabularyReused": [
+      "эмч",
+      "өвчтөн",
+      "онош",
+      "эм",
+      "уух",
+      "зөвлөх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Identify queue numbers ('Дараагийн дугаар 42...') and designated consultation rooms from loudspeaker audio.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Summarize the clinical consultation outcome to a partner in 3 Mongolian sentences.",
+    "registerTarget": "Authentic clinical multi-party consultation register",
+    "pragmaticTarget": "Extracting critical medical advice without being overwhelmed by professional jargon.",
+    "prerequisiteLessonIds": [
+      "les_a2_90_01_comprehensive_clinical_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_63_03_auditory_comprehension_lab"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_63_a1_comprehensive_review_checkpoint_c"
+    ],
+    "reviewReason": "Elevates listening stamina to multi-speaker clinical encounters.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Realistic 2-minute audio environment featuring doctor, patient, and nurse discussing treatment.",
+    "successCriteria": [
+      "Identifies the doctor's primary diagnosis correctly from audio",
+      "Extracts prescribed medications and mandatory dietary restrictions"
+    ],
+    "masteryEvidence": "Answers 6 comprehensive questions following a single hearing of the clinical encounter audio.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "phonetic_discrimination",
+      "speed_identification"
+    ]
+  },
+  {
+    "lessonId": "les_a2_90_03_diagnostic_results_treatment_reading",
+    "unitId": "unit_a2_90_medical_encounters_capstone_full_cl",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Deciphering Diagnostic Lab Sheets, Ultrasound Reports & Doctor Notes",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Develop targeted reading comprehension of authentic diagnostic reports, blood test ranges (хэвийн хэмжээ), ultrasound summaries, and physician conclusions.",
+    "communicativeOutcome": "Inspect diagnostic test result sheets, determine whether parameters fall within normal ranges, and read doctor's handwritten treatment recommendations.",
+    "objectivesIntroduced": [
+      "obj_a2_90_03_read_diagnostic_reports"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_90_01_comprehensive_clinical_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_ablative_origin",
+      "gram_a1_predicate_adjective_nominal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_12_medical_symptoms_doctor"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_health_medicine"
+    ],
+    "previousVocabularyReused": [
+      "шинжилгээ",
+      "хэвийн",
+      "өндөр",
+      "бага",
+      "дүгнэлт",
+      "зөвлөгөө"
+    ],
+    "readingObjective": "Extract diagnostic findings and physician orders from a 150-word medical assessment sheet.",
+    "listeningObjective": "",
+    "writingObjective": "Summarize medical report findings into a personal health record.",
+    "spokenProductionObjective": "Explain to a family member whether laboratory results were normal.",
+    "registerTarget": "Technical diagnostic report and clinical documentation register",
+    "pragmaticTarget": "Understanding standard reference intervals (лавлах хэмжээ) and medical abbreviations.",
+    "prerequisiteLessonIds": [
+      "les_a2_90_01_comprehensive_clinical_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_63_02_textual_synthesis_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_63_a1_comprehensive_review_checkpoint_c"
+    ],
+    "reviewReason": "Applies advanced text skimming and scanning skills to authentic clinical documentation.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Read clinical report findings aloud.",
+    "successCriteria": [
+      "Identifies whether lab results indicate inflammation or normal parameters",
+      "Extracts prescribed follow-up date and treatment timeline"
+    ],
+    "masteryEvidence": "Scores 100% on a 5-question comprehension quiz based on an official clinical report form.",
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "contextual_cloze",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_90_04_full_clinical_encounter_simulation",
+    "unitId": "unit_a2_90_medical_encounters_capstone_full_cl",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Interactive Simulation: The Complete Clinical Encounter",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Synthesize all spoken interaction capabilities developed across medical units in an unscripted multi-stage hospital journey simulation.",
+    "communicativeOutcome": "Navigate an entire simulated hospital visit: register at reception, describe symptoms to physician, undergo preliminary checks, receive diagnosis, and collect medication.",
+    "objectivesIntroduced": [
+      "obj_a2_90_04_simulate_clinical_journey"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_90_01_comprehensive_clinical_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a2_83_04_doctor_exam_dialogue",
+      "obj_a2_85_04_pharmacy_counter_dialogue",
+      "obj_a2_89_04_clinic_booking_dialogue"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_converb_temporal_while_khad",
+      "gram_a2_modal_obligation_heregtei_yostoi",
+      "gram_a2_modal_permission_possibility_bolno"
+    ],
+    "grammarReviewed": [
+      "gram_a2_modal_ability_yadah_chadah"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_12_medical_symptoms_doctor",
+      "comm_a2_13_buying_medicine_pharmacy",
+      "comm_a2_11_scheduling_rescheduling_meetings"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_13_apologies_politeness"
+    ],
+    "newProductiveLemmaTarget": 8,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 4,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_health_medicine"
+    ],
+    "previousVocabularyReused": [
+      "эмч",
+      "өвчин",
+      "шинжилгээ",
+      "эм",
+      "уух",
+      "эдгэрэх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Respond adaptively to dynamic situational hurdles introduced by the medical staff (e.g. need for additional test, pharmacy stock shortage).",
+    "writingObjective": "",
+    "spokenProductionObjective": "Conduct consecutive dialogue turns across 4 simulated clinical stages without reverting to English.",
+    "registerTarget": "Spontaneous adaptable healthcare register",
+    "pragmaticTarget": "Maintaining clarity, composure, and communicative efficacy during medical consultations.",
+    "prerequisiteLessonIds": [
+      "les_a2_90_01_comprehensive_clinical_lexicon",
+      "les_a2_90_03_diagnostic_results_treatment_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_63_05_interactive_checkpoint_simulation"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_63_a1_comprehensive_review_checkpoint_c"
+    ],
+    "reviewReason": "Builds upon A1 capstone interactive simulations with higher situational complexity.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Provide responsive native speaker voice prompts for the interactive simulation.",
+    "successCriteria": [
+      "Explains somatic symptoms accurately using temporal converb (-хад)",
+      "Negotiates appointment and clarifies prescription dosage with pharmacist"
+    ],
+    "masteryEvidence": "Completes full 4-stage simulation with zero communicative breakdowns.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "sequencing"
+    ]
+  },
+  {
+    "lessonId": "les_a2_90_05_medical_clinic_benchmark_checkpoint",
+    "unitId": "unit_a2_90_medical_encounters_capstone_full_cl",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 5,
+    "title": "Benchmark Checkpoint: Health, Medical Encounters & Civic Life",
+    "lessonType": "checkpoint",
+    "primaryPurpose": "Formal milestone evaluation assessing productive and receptive mastery of medical and civic competencies: human anatomy, pain verbs, temporal converb (-хад4), systemic symptoms, pharmacy purchasing, modal obligation (хэрэгтэй/ёстой), permission/prohibition (болно/болохгүй), and modal ability (чадах/ядах).",
+    "communicativeOutcome": "Demonstrate comprehensive communicative competence across all Section 3 medical, domestic, and civic domains without reference materials.",
+    "objectivesIntroduced": [],
+    "objectivesPracticed": [
+      "obj_a2_90_01_comprehensive_clinical_lexicon",
+      "obj_a2_90_04_simulate_clinical_journey"
+    ],
+    "objectivesReviewed": [
+      "obj_a2_83_01_anatomy_pain_lexicon",
+      "obj_a2_84_01_temporal_converb_khad",
+      "obj_a2_85_01_pharmacy_dosage_lexicon",
+      "obj_a2_86_01_modal_obligation_constructions",
+      "obj_a2_87_01_modal_permission_bolno",
+      "obj_a2_88_01_modal_ability_chadah_yadah"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_converb_temporal_while_khad",
+      "gram_a2_modal_obligation_heregtei_yostoi",
+      "gram_a2_modal_permission_possibility_bolno",
+      "gram_a2_modal_ability_yadah_chadah"
+    ],
+    "grammarReviewed": [
+      "gram_a2_converb_conditional_val"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_12_medical_symptoms_doctor",
+      "comm_a2_13_buying_medicine_pharmacy",
+      "comm_a2_21_expressing_obligation_rules",
+      "comm_a2_22_requesting_granting_permission"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_health_medicine",
+      "lex_domain_civic_administrative"
+    ],
+    "previousVocabularyReused": [
+      "өвчин",
+      "эмнэлэг",
+      "эм",
+      "дүрэм",
+      "болох",
+      "чадах"
+    ],
+    "readingObjective": "Demonstrate unassisted comprehension of an authentic hospital discharge summary and prescription.",
+    "listeningObjective": "Demonstrate unassisted comprehension of an authentic multi-speaker doctor-patient encounter.",
+    "writingObjective": "Draft a coherent written clinical symptom summary and absence notification.",
+    "spokenProductionObjective": "Conduct a live spoken negotiation resolving a healthcare appointment or medical dispute.",
+    "registerTarget": "Standard formal evaluation register",
+    "pragmaticTarget": "Demonstrating holistic linguistic control and situational independence in health contexts.",
+    "prerequisiteLessonIds": [
+      "les_a2_90_04_full_clinical_encounter_simulation"
+    ],
+    "reviewsLessonIds": [
+      "les_a2_83_04_doctor_somatic_exam_dialogue",
+      "les_a2_84_05_sick_leave_written_request",
+      "les_a2_85_04_pharmacy_counter_purchasing_dialogue",
+      "les_a2_86_05_patient_care_plan_writing",
+      "les_a2_87_05_building_bylaws_notice_writing",
+      "les_a2_88_05_rehabilitation_progress_report_writing",
+      "les_a2_89_04_dental_clinic_booking_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_83_human_anatomy_somatic_pain_location",
+      "unit_a2_84_describing_illness_symptoms_to_a_ph",
+      "unit_a2_85_purchasing_medicine_pharmacy_consul",
+      "unit_a2_86_modal_obligation_modals_vs_",
+      "unit_a2_87_modal_permission_possibility_suffix",
+      "unit_a2_88_modal_potentiality_verbs_vs_",
+      "unit_a2_89_scheduling_clinic_dental_appointmen"
+    ],
+    "reviewReason": "Milestone synthesis certifying learner readiness to manage healthcare and domestic obligations independently.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Deliver high-fidelity audio stimuli for formal benchmark assessment items.",
+    "successCriteria": [
+      "Demonstrates mastery of temporal converb (-хад), modal obligation, permission, and ability in context",
+      "Completes receptive and productive tasks across all 4 skill modalities without communicative breakdown"
+    ],
+    "masteryEvidence": "Successfully navigates all 4 benchmark assessment modalities achieving independent task completion.",
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "listening_comprehension",
+      "role-play response",
+      "short-answer writing"
+    ]
+  },
+  {
+    "lessonId": "les_a2_91_01_clan_patrilineal_matrilineal_lexicon",
+    "unitId": "unit_a2_91_extended_kinship_clans_vs_relatives",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "Avga & Nagats: Patrilineal vs Matrilineal Relatives & Clan Heritage",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce extended Mongolian kinship terminology distinguishing paternal relatives (авга ах, авга эгч) from maternal relatives (нагац ах, нагац эгч, нагац эмээ) and clan names (ургийн овог).",
+    "communicativeOutcome": "Chart family genealogy, differentiate paternal and maternal relatives accurately, and explain one's clan heritage (ургийн овог).",
+    "objectivesIntroduced": [
+      "obj_a2_91_01_extended_kinship_lexicon"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_76_01_reflexive_case_combination"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_genitive_possession",
+      "gram_a1_predicate_adjective_nominal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_01_describing_extended_family"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 7,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_family_kinship",
+      "lex_domain_culture_traditions"
+    ],
+    "previousVocabularyReused": [
+      "ах",
+      "эгч",
+      "аав",
+      "ээж",
+      "гэр бүл",
+      "нэр"
+    ],
+    "readingObjective": "Read a genealogical family tree chart (ургийн бичиг) tracing 4 generations.",
+    "listeningObjective": "Understand an elder explaining kinship ties between cousins.",
+    "writingObjective": "List 6 extended kinship designations contrasting paternal and maternal branches.",
+    "spokenProductionObjective": "Explain family ties: 'Энэ хүн бол миний ээжийн ах, өөрөөр хэлбэл миний нагац ах юм'.",
+    "registerTarget": "Traditional cultural kinship register",
+    "pragmaticTarget": "Respecting traditional generational hierarchy and precise bilateral kinship terms.",
+    "prerequisiteLessonIds": [
+      "les_a2_90_05_medical_clinic_benchmark_checkpoint"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_33_01_kinship_terms_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_33_immediate_family_kinship_terms_ex"
+    ],
+    "reviewReason": "Expands nuclear family terms (аав, ээж, ах, дүү) into bilateral clan systems.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce bilateral kinship terminology clearly.",
+    "successCriteria": [
+      "Differentiates авга (paternal) from нагац (maternal) relatives without confusion",
+      "Defines ургийн овог (clan name) and ургийн бичиг (genealogy book)"
+    ],
+    "masteryEvidence": "Accurately maps 6 relatives on a bilateral family tree diagram.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_91_02_genealogy_tree_reading",
+    "unitId": "unit_a2_91_extended_kinship_clans_vs_relatives",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Deciphering the Urgiin Bichig: Clan Books & Ancestral Heritage",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Develop targeted reading comprehension of traditional genealogy books (ургийн бичиг), ancestral geographic origins (уг гарвал), and clan history narratives.",
+    "communicativeOutcome": "Inspect a family genealogical record to identify ancestral provinces, clan designations, and relationships among distant cousins (үеэл, хаяал).",
+    "objectivesIntroduced": [
+      "obj_a2_91_02_read_genealogy_records"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_91_01_extended_kinship_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_ablative_origin",
+      "gram_a1_case_genitive_possession"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_01_describing_extended_family"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_family_kinship",
+      "lex_domain_culture_traditions"
+    ],
+    "previousVocabularyReused": [
+      "овог",
+      "удам",
+      "өвөг эцэг",
+      "нутаг",
+      "түүх",
+      "аймаг"
+    ],
+    "readingObjective": "Extract ancestral clan name (Боржигон, Тайж, Сартуул) and birthplace from a family chronicle excerpt.",
+    "listeningObjective": "",
+    "writingObjective": "Transcribe personal ancestral branch data into a family tree worksheet.",
+    "spokenProductionObjective": "Explain ancestral origins to a peer based on genealogical text.",
+    "registerTarget": "Formal cultural chronicle and archival register",
+    "pragmaticTarget": "Appreciating Mongolian cultural pride in maintaining ancestral lineages for nine generations.",
+    "prerequisiteLessonIds": [
+      "les_a2_91_01_clan_patrilineal_matrilineal_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_33_02_reading_short_family_narratives"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_33_immediate_family_kinship_terms_ex"
+    ],
+    "reviewReason": "Elevates family reading comprehension to historical clan heritage.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Read historical genealogical chronicle excerpts aloud.",
+    "successCriteria": [
+      "Identifies relationships: үеэл (first cousin), хаяал (second cousin)",
+      "Traces patrilineal lineage back to grandfather's origin province"
+    ],
+    "masteryEvidence": "Answers 4 comprehension questions based on authentic excerpts of an Urgiin Bichig.",
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "contextual_cloze",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_91_03_elder_clan_history_acoustic_listening",
+    "unitId": "unit_a2_91_extended_kinship_clans_vs_relatives",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Lab: Elder Oral Histories & Clan Lineage Recitations",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic listening comprehension of elder family members narrating ancestral migrations, nomadic heritage, and clan lineage orally.",
+    "communicativeOutcome": "Follow an elder recounting how their grandparents moved from western aimags to the central region and preserving clan customs.",
+    "objectivesIntroduced": [
+      "obj_a2_91_03_decode_elder_oral_histories"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_91_01_extended_kinship_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_41_01_witnessed_past_laa"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_verb_tense_past_witnessed_laa",
+      "gram_a1_converb_sequential_aad"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_01_describing_extended_family"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 1,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_domain_family_kinship",
+      "lex_domain_culture_traditions"
+    ],
+    "previousVocabularyReused": [
+      "өвөө",
+      "эмээ",
+      "нүүх",
+      "хөдөө",
+      "мал",
+      "амьдрах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Identify geographic origins and clan names from elder's reflective spoken narrative.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Summarize the elder's story to a family member in 3 sentences.",
+    "registerTarget": "Traditional respectful oral storytelling register",
+    "pragmaticTarget": "Attentive, respectful listening to senior family elders during oral history transmission.",
+    "prerequisiteLessonIds": [
+      "les_a2_91_01_clan_patrilineal_matrilineal_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_76_03_reflexive_acoustic_discrimination_lab"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_76_reflexive_case_combinations_"
+    ],
+    "reviewReason": "Advances listening acuity to older generational speech cadences and kinship vocabulary.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Warm, resonant elder voice recounting ancestral history with traditional narrative cadence.",
+    "successCriteria": [
+      "Identifies the speaker's home province and ancestral clan name from audio",
+      "Extracts key life events of grandparents recounted in the oral history"
+    ],
+    "masteryEvidence": "Accurately maps out 3 key historical milestones from a 90-second elder oral history audio clip.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "phonetic_discrimination",
+      "sequencing"
+    ]
+  },
+  {
+    "lessonId": "les_a2_91_04_family_gathering_introductions_dialogue",
+    "unitId": "unit_a2_91_extended_kinship_clans_vs_relatives",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Authoring the Lineage Record: Transcribing Ancestral Heritage Summaries",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Synthesize possessive structures and kinship nouns to write an archival summary of personal ancestral heritage.",
+    "communicativeOutcome": "Compose an accurate multi-generation family lineage sheet for official civic record archives.",
+    "objectivesIntroduced": [
+      "obj_a2_91_04_kinship_introductions_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_91_01_extended_kinship_lexicon",
+      "obj_a2_91_02_read_genealogy_records"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_16_01_greet_time_of_day"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a2_reflexive_case_combinations",
+      "gram_a1_converb_coordinating_j_ch"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_01_describing_extended_family"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_13_apologies_politeness"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_family_kinship",
+      "lex_domain_social_interaction"
+    ],
+    "previousVocabularyReused": [
+      "танилцах",
+      "энэ бол",
+      "нагац",
+      "авга",
+      "үеэл",
+      "хүргэн"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand relative explaining complex in-law relationship during dinner conversation.",
+    "writingObjective": "Draft a 6-line family branch summary using genitive cases and ancestral clan terminology.",
+    "spokenProductionObjective": "Introduce family members: 'Энэ бол миний нагац эгчийн охин, миний үеэл дүү Батцэцэг юм'.",
+    "registerTarget": "Warm hospitable cultural banquet register",
+    "pragmaticTarget": "Using formal respectful honorific terms when introducing elder relatives to peers.",
+    "prerequisiteLessonIds": [
+      "les_a2_91_02_genealogy_tree_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_76_05_family_reunion_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_76_reflexive_case_combinations_"
+    ],
+    "reviewReason": "Deepens family reunion dialogues with precise bilateral kinship terminology.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Lively festive banquet atmosphere with warm multi-generational introductions.",
+    "successCriteria": [
+      "Introduces at least 2 relatives using correct bilateral terms (авга/нагац)",
+      "Explains relationship to host accurately during banquet conversation"
+    ],
+    "masteryEvidence": "Conducts a 5-turn family introduction dialogue at a festive banquet without hesitation.",
+    "recommendedExerciseModalities": [
+      "sentence_construction",
+      "error_correction",
+      "short-answer writing"
+    ]
+  },
+  {
+    "lessonId": "les_a2_92_01_physical_appearance_features_lexicon",
+    "unitId": "unit_a2_92_describing_physical_appearance_groo",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "Tall, Short & Slender: Describing Stature, Hair & Features",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce physical appearance descriptors (өндөр нуруутай, намхан, туранхай, махлаг/мяраалаг, долгионтой үс, халзан, сахалтай, цайвар/бор царайтай).",
+    "communicativeOutcome": "Describe a person's physical build, facial features, complexion, hairstyle, and facial hair accurately.",
+    "objectivesIntroduced": [
+      "obj_a2_92_01_physical_appearance_lexicon"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_91_01_extended_kinship_lexicon"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_noun_phrase_attributive_adjective",
+      "gram_a1_predicate_adjective_nominal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_long_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 10,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_people_descriptions",
+      "lex_domain_body_anatomy"
+    ],
+    "previousVocabularyReused": [
+      "өндөр",
+      "намхан",
+      "үс",
+      "хар",
+      "царай",
+      "нүд"
+    ],
+    "readingObjective": "Read character descriptions in a contemporary Mongolian novel excerpt.",
+    "listeningObjective": "Understand an eyewitness describing a person's height, hair, and clothing.",
+    "writingObjective": "List 6 physical appearance traits contrasting height, build, and complexion.",
+    "spokenProductionObjective": "Describe a friend: 'Тэр өндөр нуруутай, богино хар үстэй, шил зүүдэг'.",
+    "registerTarget": "Standard descriptive interpersonal register",
+    "pragmaticTarget": "Using respectful, polite terms for body types (e.g. махлаг or мяраалаг rather than crude terms).",
+    "prerequisiteLessonIds": [
+      "les_a2_91_04_family_gathering_introductions_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_21_01_attributive_adjectives_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_21_attributive_predicative_adjective"
+    ],
+    "reviewReason": "Expands basic physical adjectives into nuanced human portraiture.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce physical appearance compound adjectives clearly.",
+    "successCriteria": [
+      "Differentiates туранхай (slender/thin) from махлаг/мяраалаг (stout/plump)",
+      "Combines physical features with possessive suffix -тай: сахалтай (bearded), шилтэй (bespectacled)"
+    ],
+    "masteryEvidence": "Accurately describes 4 photographed people across height, hair, build, and accessories.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_92_02_id_badges_portraits_reading",
+    "unitId": "unit_a2_92_describing_physical_appearance_groo",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Deciphering Identification Badges, Profiles & Lost Person Notices",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Develop reading comprehension for corporate security ID profiles, missing person notices, and literary character sketches.",
+    "communicativeOutcome": "Inspect security descriptions and public notices to identify individuals based on height, distinctive scars/marks, and clothing.",
+    "objectivesIntroduced": [
+      "obj_a2_92_02_read_appearance_profiles"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_92_01_physical_appearance_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_genitive_possession",
+      "gram_a1_noun_phrase_attributive_adjective"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_people_descriptions",
+      "lex_domain_civic_administrative"
+    ],
+    "previousVocabularyReused": [
+      "өндөр",
+      "нас",
+      "хүрэм",
+      "содон",
+      "тэмдэг",
+      "хайх"
+    ],
+    "readingObjective": "Locate height, age estimate, distinctive birthmarks/scars (содон шинж тэмдэг), and last seen attire in a 100-word public notice.",
+    "listeningObjective": "",
+    "writingObjective": "Transcribe physical traits from a security profile into a descriptive witness log.",
+    "spokenProductionObjective": "Explain profile details to a security officer in Mongolian.",
+    "registerTarget": "Administrative identification and descriptive register",
+    "pragmaticTarget": "Scanning for distinctive identifying features systematically.",
+    "prerequisiteLessonIds": [
+      "les_a2_92_01_physical_appearance_features_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_22_02_clothing_colors_shopping"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_22_shopping_transactions_making_purch"
+    ],
+    "reviewReason": "Combines clothing color descriptors with bodily physical traits.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Read administrative identification profiles aloud.",
+    "successCriteria": [
+      "Extracts height and distinctive marks (содон шинж) from text accurately",
+      "Identifies matching portrait among 3 alternatives based on text description"
+    ],
+    "masteryEvidence": "Scores 100% on a 4-question profile matching comprehension exercise.",
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_92_04_meeting_at_station_dialogue",
+    "unitId": "unit_a2_92_describing_physical_appearance_groo",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Meeting a Stranger: Describing Yourself to Be Recognized",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Master spoken communication for meeting someone for the first time at an airport or railway station: describing your own appearance, clothing, and holding a sign.",
+    "communicativeOutcome": "Coordinate a meeting with a person you have never met before via telephone, describing your appearance and location in a crowded terminal.",
+    "objectivesIntroduced": [
+      "obj_a2_92_04_coordinate_meeting_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_92_01_physical_appearance_lexicon",
+      "obj_a2_92_02_read_appearance_profiles"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_16_01_greet_time_of_day"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a2_reflexive_possessive_base",
+      "gram_a1_case_dative_locative_location"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_19_inquiring_location"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 3,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_people_descriptions",
+      "lex_domain_social_interaction"
+    ],
+    "previousVocabularyReused": [
+      "зогсох",
+      "харах",
+      "хүрэм",
+      "цүнх",
+      "олох",
+      "энд"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Follow caller's self-description: 'Би гарцны хажууд хар савхин хүрэмтэй, чемодантай зогсож байна'.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Describe yourself over phone: 'Би цагаан малгай, улаан ороолттой, гар утсаараа яриад зогсож байна. Та намайг харж байна уу?'.",
+    "registerTarget": "Spontaneous coordination telephone register",
+    "pragmaticTarget": "Using prominent, distinctive visual cues to expedite meeting in crowded public areas.",
+    "prerequisiteLessonIds": [
+      "les_a2_92_01_physical_appearance_features_lexicon",
+      "les_a2_92_02_id_badges_portraits_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_75_03_dressing_for_celebration_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_75_reflexive_possessive_base_suffixes_"
+    ],
+    "reviewReason": "Utilizes reflexive clothing descriptions in real-time wayfinding coordination.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Realistic cell phone audio with airport arrival hall reverberation and clear mutual guidance.",
+    "successCriteria": [
+      "Describes own physical traits and outerwear with complete clarity",
+      "Spots interlocutor based on auditory cues and completes rendezvous"
+    ],
+    "masteryEvidence": "Conducts a 5-turn rendezvous phone call locating a partner in an arrival terminal.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  }
+]

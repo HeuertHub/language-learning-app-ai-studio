@@ -1,0 +1,149 @@
+{
+  "entities": {
+    "UserProfile": {
+      "title": "UserProfile",
+      "description": "User profile with language study preferences",
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique user identifier matching auth.uid"
+        },
+        "email": {
+          "type": "string",
+          "format": "email",
+          "description": "User email address"
+        },
+        "displayName": {
+          "type": "string",
+          "maxLength": 100,
+          "description": "Learner display name"
+        },
+        "preferredAudioSpeed": {
+          "type": "string",
+          "enum": ["0.75", "1.0"],
+          "description": "Preferred audio speech playback speed"
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Account registration timestamp"
+        },
+        "lastActiveAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Last activity timestamp"
+        }
+      },
+      "required": ["id", "createdAt", "lastActiveAt"]
+    },
+    "CourseProgress": {
+      "title": "CourseProgress",
+      "description": "Completion statistics and lesson progress for a course",
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier, matches courseId"
+        },
+        "courseId": {
+          "type": "string",
+          "description": "Identifier of the language course"
+        },
+        "userId": {
+          "type": "string",
+          "description": "Owner user ID"
+        },
+        "completedLessonIds": {
+          "type": "array",
+          "description": "Array of completed lesson unique IDs"
+        },
+        "completedUnitIds": {
+          "type": "array",
+          "description": "Array of fully completed unit unique IDs"
+        },
+        "masteredVocabCount": {
+          "type": "number",
+          "description": "Number of vocabulary words retained"
+        },
+        "totalExercisesAttempted": {
+          "type": "number",
+          "description": "Total exercise attempts"
+        },
+        "totalExercisesCorrect": {
+          "type": "number",
+          "description": "Total correct exercise attempts"
+        },
+        "timeSpentMinutes": {
+          "type": "number",
+          "description": "Total cumulative focus minutes in course"
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Last progress update timestamp"
+        }
+      },
+      "required": ["id", "courseId", "userId", "updatedAt"]
+    },
+    "StudyNote": {
+      "title": "StudyNote",
+      "description": "Personal grammar or vocabulary study note created by the learner",
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique note identifier"
+        },
+        "userId": {
+          "type": "string",
+          "description": "Owner user ID"
+        },
+        "title": {
+          "type": "string",
+          "maxLength": 200,
+          "description": "Note title"
+        },
+        "cyrillicSnippet": {
+          "type": "string",
+          "maxLength": 500,
+          "description": "Target Cyrillic text or phrase"
+        },
+        "content": {
+          "type": "string",
+          "maxLength": 5000,
+          "description": "Grammatical explanation or reflection"
+        },
+        "tags": {
+          "type": "array",
+          "description": "Categorical tags (e.g. cases, vowel-harmony, converb)"
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Creation timestamp"
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Last update timestamp"
+        }
+      },
+      "required": ["id", "userId", "title", "content", "createdAt"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "UserProfile",
+      "description": "Root learner profile document"
+    },
+    "/users/{userId}/progress/{courseId}": {
+      "schema": "CourseProgress",
+      "description": "Completion statistics record for a specific course"
+    },
+    "/users/{userId}/notes/{noteId}": {
+      "schema": "StudyNote",
+      "description": "Learner personal grammar study notes and annotations"
+    }
+  }
+}

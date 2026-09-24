@@ -1,0 +1,5006 @@
+[
+  {
+    "lessonId": "les_a1_24_01_existential_assertion_baina",
+    "unitId": "unit_a1_24_existential_assertion_vs_",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 1,
+    "title": "Affirming Presence: The Existential Predicate Байна",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the existential predicate 'байна' to express the physical presence and availability of items or persons.",
+    "communicativeOutcome": "State that a person, room amenity, or household object is present at a specified location.",
+    "objectivesIntroduced": [
+      "obj_a1_24_01_affirm_existence_baina"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a1_20_01_deictic_identification"
+    ],
+    "grammarIntroduced": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_sov_word_order"
+    ],
+    "grammarReinforced": [
+      "gram_a1_nominal_predicate_zero_copula"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_non_initial_reduction"
+    ],
+    "phonologyReviewed": [
+      "phono_vowel_length_contrast"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "ном",
+      "ширээ",
+      "багш"
+    ],
+    "readingObjective": "Read short affirmative room descriptions identifying which furnishings are present.",
+    "listeningObjective": "Distinguish between copular identification ('Энэ ширээ') and existential affirmation ('Ширээ байна').",
+    "writingObjective": "Construct 3 existential sentences asserting the presence of items in a living space.",
+    "spokenProductionObjective": "State aloud three items currently present in the immediate room.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Clear matter-of-fact confirmation of available resources without over-elaboration.",
+    "prerequisiteLessonIds": [
+      "les_a1_23_05_interactive_social_reception_simulation"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_20_02_spatial_demonstratives_here_there"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_20_demonstrative_deixis_"
+    ],
+    "reviewReason": "Anchor spatial deictics to existential predication.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Acoustic discrimination between short non-initial vowel in 'байна' and lengthened lexical vowels.",
+    "successCriteria": [
+      "Select 'байна' appropriately in existential sentence frames rather than zero-copula identity structures.",
+      "Accurately pronounce 'байна' with neutral non-initial vowel reduction."
+    ],
+    "masteryEvidence": [
+      "Produces 'Цай байна' when prompted with tea imagery.",
+      "Corrects faulty SVO word order into canonical 'Noun + байна'."
+    ],
+    "recommendedExerciseModalities": [
+      "cloze_selection",
+      "cued_production",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a1_24_02_existential_negation_baihgui",
+    "unitId": "unit_a1_24_existential_assertion_vs_",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 2,
+    "title": "Negating Existence: Contrast Between Байхгүй and Биш",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Differentiate categorical existential absence ('байхгүй') from nominal identity negation ('биш').",
+    "communicativeOutcome": "State that a person or resource is unavailable or absent, without confusing entity negation with identity negation.",
+    "objectivesIntroduced": [
+      "obj_a1_24_02_negate_existence_baihgui"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a1_21_01_nominal_negation_bish"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReviewed": [
+      "gram_a1_nominal_negation_bish"
+    ],
+    "grammarReinforced": [
+      "gram_a1_nominal_negation_bish"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_oe_ue_contrast"
+    ],
+    "phonologyReviewed": [
+      "phono_vowel_harmony_suffixes"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "ус",
+      "цаас",
+      "үзэг",
+      "эмч"
+    ],
+    "readingObjective": "Read signage and status notices indicating lack of inventory or absence of staff.",
+    "listeningObjective": "Detect negative existential particle 'байхгүй' in spoken announcements.",
+    "writingObjective": "Write pairs of sentences contrasting identity ('Энэ ус биш') and absence ('Ус байхгүй').",
+    "spokenProductionObjective": "State aloud the absence of two specific office or household items upon prompt.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Polite indication of non-availability to prevent guest disappointment.",
+    "prerequisiteLessonIds": [
+      "les_a1_24_01_existential_assertion_baina"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_21_02_copular_negation_usage_drills"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_21_negative_nominal_assertion_the_copu"
+    ],
+    "reviewReason": "Systematically resolve the common learner confusion between 'биш' and 'байхгүй'.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Clear pitch modulation on negative particle 'байхгүй'.",
+    "successCriteria": [
+      "Select 'байхгүй' when denying existence and 'биш' when denying identity.",
+      "Accurately articulate the long diphthong in 'байхгүй'."
+    ],
+    "masteryEvidence": [
+      "Sorts 8 visual prompts into '... биш' vs '... байхгүй' without errors.",
+      "Produces 'Сүү байхгүй' when milk carton is empty."
+    ],
+    "recommendedExerciseModalities": [
+      "binary_choice",
+      "sentence_transformation",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a1_24_03_polar_inquiries_existence",
+    "unitId": "unit_a1_24_existential_assertion_vs_",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 3,
+    "title": "Inquiring About Availability: Байна уу? / Байгаа юу?",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Form polar questions inquiring whether items or services are present using question particles.",
+    "communicativeOutcome": "Ask hotel receptionists, hosts, or clerks if specific items or facilities are available.",
+    "objectivesIntroduced": [
+      "obj_a1_24_03_ask_polar_existence"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_24_01_affirm_existence_baina",
+      "obj_a1_24_02_negate_existence_baihgui"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_19_01_polar_question_particles"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReviewed": [
+      "gram_a1_polar_questions_uu_uu"
+    ],
+    "grammarReinforced": [
+      "gram_a1_polar_questions_uu_uu"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_vowel_harmony_intro"
+    ],
+    "phonologyReviewed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_04_inquire_wellbeing_polar"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "өрөө",
+      "түлхүүр",
+      "интернет"
+    ],
+    "readingObjective": "Read customer inquiry FAQs regarding available guest amenities.",
+    "listeningObjective": "Identify whether an inquiry is asking about presence ('Байна уу?') or identity ('Мөн үү?').",
+    "writingObjective": "Formulate 4 inquiry questions regarding household or hotel facilities.",
+    "spokenProductionObjective": "Ask a partner whether 3 essential daily items are available.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Framing requests as availability inquiries to maintain conversational deference.",
+    "prerequisiteLessonIds": [
+      "les_a1_24_02_existential_negation_baihgui"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_19_02_polar_inquiry_drill_answering"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_19_polar_inquiries_polar_question_part"
+    ],
+    "reviewReason": "Harmonize polar question particles with the back vowel stem of 'байна'.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic final rising-falling pitch contour on 'Байна уу?'.",
+    "successCriteria": [
+      "Select back-vowel question particle 'уу' matching 'байна'.",
+      "Produce appropriate short affirmative ('Байна') or negative ('Байхгүй' / 'Алга') replies."
+    ],
+    "masteryEvidence": [
+      "Conducts a 4-turn mini-inquiry verifying key amenities.",
+      "Recognizes informal 'алга' as semantic equivalent to 'байхгүй' in receptive audio."
+    ],
+    "recommendedExerciseModalities": [
+      "question_formation",
+      "audio_response_matching",
+      "interactive_drill"
+    ]
+  },
+  {
+    "lessonId": "les_a1_24_04_ger_interior_inventory_reading",
+    "unitId": "unit_a1_24_existential_assertion_vs_",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 4,
+    "title": "Reading Exploration: Traditional Ger Furnishings and Layout",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Read descriptive paragraphs describing traditional items found inside a Mongolian yurt (ger).",
+    "communicativeOutcome": "Extract key factual information about traditional household items and their customary presence.",
+    "objectivesIntroduced": [
+      "obj_a1_24_04_read_ger_inventory"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_24_01_affirm_existence_baina",
+      "obj_a1_24_02_negate_existence_baihgui"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReviewed": [
+      "gram_a1_sov_word_order"
+    ],
+    "grammarReinforced": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_neutral_vowel_behavior"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "ор",
+      "зуух",
+      "авдар",
+      "тооно"
+    ],
+    "readingObjective": "Read a 45-word illustrated text about the interior furnishings of a nomadic dwelling.",
+    "listeningObjective": null,
+    "writingObjective": "Extract a checklist of 5 items confirmed as present in the reading text.",
+    "spokenProductionObjective": null,
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Respectful familiarity with sacred and domestic spaces within the traditional ger.",
+    "prerequisiteLessonIds": [
+      "les_a1_24_03_polar_inquiries_existence"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_24_01_existential_assertion_baina"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_20_demonstrative_deixis_"
+    ],
+    "reviewReason": "Ground reading comprehension in demonstrated domestic spatial vocabulary.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Authentic text read-along with correct phrasal rhythm.",
+    "successCriteria": [
+      "Answer 4 factual true/false questions based on the text without error.",
+      "Identify the 3 cultural centerpieces mentioned in the passage (тооно, багана, зуух)."
+    ],
+    "masteryEvidence": [
+      "Selects correct items present in the text from an illustrated grid.",
+      "Accurately translates 3 existential sentences into English equivalents."
+    ],
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "item_matching",
+      "true_false"
+    ]
+  },
+  {
+    "lessonId": "les_a1_24_05_reception_inquiry_listening",
+    "unitId": "unit_a1_24_existential_assertion_vs_",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 5,
+    "title": "Acoustic Lab: Tracking Availability at Customer Service",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Consolidate auditory comprehension of existential queries and responses in rapid service interactions.",
+    "communicativeOutcome": "Accurately decipher whether requested items or staff members are available from fast spoken Mongolian.",
+    "objectivesIntroduced": [
+      "obj_a1_24_05_auditory_availability_tracking"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_24_03_ask_polar_existence"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_24_02_negate_existence_baihgui"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReviewed": [
+      "gram_a1_polar_questions_uu_uu"
+    ],
+    "grammarReinforced": [
+      "gram_a1_nominal_negation_bish"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_non_initial_reduction"
+    ],
+    "phonologyReviewed": [
+      "phono_oe_ue_contrast"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "түлхүүр",
+      "өрөө",
+      "интернет",
+      "ус",
+      "цаас"
+    ],
+    "readingObjective": null,
+    "listeningObjective": "Listen to 4 short dialogic exchanges at a hotel desk and determine presence/absence status.",
+    "writingObjective": "Fill out a status chart marking items as [+] present, [-] absent, or [?] inquiring.",
+    "spokenProductionObjective": null,
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Recognizing indirect polite hedges in customer reception discourse.",
+    "prerequisiteLessonIds": [
+      "les_a1_24_03_polar_inquiries_existence"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_24_02_existential_negation_baihgui"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_21_negative_nominal_assertion_the_copu"
+    ],
+    "reviewReason": "Reinforce acoustic discrimination of negation types in spoken dialogue.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic conversational speech with natural background ambient sounds and conversational tempo.",
+    "successCriteria": [
+      "Correctly categorize 4 out of 4 audio dialogue outcomes as available vs unavailable.",
+      "Identify the exact item queried in each dialogue from audio alone."
+    ],
+    "masteryEvidence": [
+      "Accurately maps spoken items to an availability status matrix.",
+      "Transcribes the key response word ('байхгүй' or 'байна') with accurate spelling."
+    ],
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "status_table_completion",
+      "audio_discrimination"
+    ]
+  },
+  {
+    "lessonId": "les_a1_24_06_household_inventory_dialogue",
+    "unitId": "unit_a1_24_existential_assertion_vs_",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 6,
+    "title": "Interactive Synthesis: Household and Office Asset Check",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Synthesize existential assertions, inquiries, and negations in an unscripted cooperative task.",
+    "communicativeOutcome": "Cooperate with a conversation partner to determine what equipment is in the room and what needs to be procured.",
+    "objectivesIntroduced": [
+      "obj_a1_24_06_execute_inventory_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_24_01_affirm_existence_baina",
+      "obj_a1_24_02_negate_existence_baihgui",
+      "obj_a1_24_03_ask_polar_existence"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReviewed": [
+      "gram_a1_polar_questions_uu_uu",
+      "gram_a1_nominal_negation_bish"
+    ],
+    "grammarReinforced": [
+      "gram_a1_nominal_negation_bish"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_vowel_harmony_suffixes"
+    ],
+    "phonologyReviewed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_01_formal_greeting_morning_afternoon"
+    ],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "ширээ",
+      "сандал",
+      "компьютер",
+      "цаас",
+      "үзэг",
+      "ном"
+    ],
+    "readingObjective": "Read situational role cards specifying missing and available items.",
+    "listeningObjective": "Comprehend partner inquiries regarding available workplace tools.",
+    "writingObjective": "Draft a 4-bullet inventory summary of verified and missing equipment.",
+    "spokenProductionObjective": "Participate in a 6-turn roleplay checking room readiness.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Constructive collaboration and polite clarification during joint practical tasks.",
+    "prerequisiteLessonIds": [
+      "les_a1_24_04_ger_interior_inventory_reading",
+      "les_a1_24_05_reception_inquiry_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_24_02_existential_negation_baihgui"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_24_existential_assertion_vs_"
+    ],
+    "reviewReason": "Consolidate Unit 24 existential competence without adding cognitive vocabulary burden.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Exemplary interactive exchange demonstrating realistic pauses and intonation turns.",
+    "successCriteria": [
+      "Complete all 6 turns of the dialogue maintaining accurate existential predicate usage.",
+      "Never confuse 'биш' and 'байхгүй' throughout the oral performance."
+    ],
+    "masteryEvidence": [
+      "Spontaneously clarifies missing items when asked 'Түлхүүр байна уу?'.",
+      "Pronounces all consonant clusters cleanly without inserting illegal epenthetic vowels."
+    ],
+    "recommendedExerciseModalities": [
+      "dialogue_roleplay",
+      "information_gap",
+      "error_spotting"
+    ]
+  },
+  {
+    "lessonId": "les_a1_25_01_dative_locative_allomorphs",
+    "unitId": "unit_a1_25_dative_locative_spatial_anchoring_s",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 1,
+    "title": "Locating Entities: Dative-Locative Suffixes -д and -т",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the dative-locative case markers (-д after vowels and sonorant consonants; -т after voiceless stops) to express spatial location.",
+    "communicativeOutcome": "State where an object or person is located using correct case suffix allomorphs.",
+    "objectivesIntroduced": [
+      "obj_a1_25_01_apply_dative_locative_suffixes"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a1_24_01_affirm_existence_baina"
+    ],
+    "grammarIntroduced": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReinforced": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_soft_and_hard_signs"
+    ],
+    "phonologyReviewed": [
+      "phono_vowel_harmony_suffixes"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a1_12_location_simple_objects"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "өрөө",
+      "ширээ",
+      "гэр",
+      "хот"
+    ],
+    "readingObjective": "Read short sentences containing nouns declined in the dative-locative case.",
+    "listeningObjective": "Hear the distinction between bare nominative stems and suffixed dative forms (гэр vs гэрт, өрөө vs өрөөнд).",
+    "writingObjective": "Attach correct -д/-т suffixes to 6 location nouns considering final stem consonants.",
+    "spokenProductionObjective": "State aloud the physical location of 3 common objects using '...-д/т байна'.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Providing precise spatial coordinates to conversational partners.",
+    "prerequisiteLessonIds": [
+      "les_a1_24_06_household_inventory_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_24_01_existential_assertion_baina"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_24_existential_assertion_vs_"
+    ],
+    "reviewReason": "Combine existential predication with grammatical locative anchoring.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Accurate acoustic rendering of final dental stop -т vs sonorant -д.",
+    "successCriteria": [
+      "Attach -т correctly after stem-final voiceless stops (б, в, г, д, ж, з, р, с, т, ц, ч, ш, х).",
+      "Attach -д correctly after open vowels and sonorant finals."
+    ],
+    "masteryEvidence": [
+      "Corrects 'гэр-д' to 'гэрт' and 'өрөө-т' to 'өрөөнд/өрөөд' across 5 test stems.",
+      "Produces 'Ном ширээн дээр байна' or 'Ном өрөөнд байна'."
+    ],
+    "recommendedExerciseModalities": [
+      "suffix_attachment",
+      "sentence_reordering",
+      "cloze_selection"
+    ]
+  },
+  {
+    "lessonId": "les_a1_25_02_locating_people_places",
+    "unitId": "unit_a1_25_dative_locative_spatial_anchoring_s",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 2,
+    "title": "Where are they? Locating People in Towns, Buildings, and Rooms",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Practice expressing the whereabouts of people and institutional locations using dative-locative noun phrases.",
+    "communicativeOutcome": "Inform others where family members, teachers, or colleagues currently are located.",
+    "objectivesIntroduced": [
+      "obj_a1_25_02_locate_people_spatially"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_25_01_apply_dative_locative_suffixes"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_17_01_personal_pronouns"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "grammarReviewed": [
+      "gram_a1_pronouns_demonstrative_ene_ter"
+    ],
+    "grammarReinforced": [
+      "gram_a1_pronouns_demonstrative_ene_ter"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_non_initial_reduction"
+    ],
+    "phonologyReviewed": [
+      "phono_vowel_length_contrast"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_12_location_simple_objects"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_03_introduce_peer_third_party"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "Улаанбаатар",
+      "сургууль",
+      "эмнэлэг",
+      "гэр"
+    ],
+    "readingObjective": "Read staff directory entries indicating current work locations (e.g. 'Багш номын санд байна').",
+    "listeningObjective": "Identify who is in which room from a 3-party spoken conversation.",
+    "writingObjective": "Write 4 sentences describing where various individuals are currently located.",
+    "spokenProductionObjective": "State aloud the locations of 3 colleagues or friends.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Accurate relay of administrative or domestic locations without ambiguity.",
+    "prerequisiteLessonIds": [
+      "les_a1_25_01_dative_locative_allomorphs"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_17_01_singular_pronouns_subject_slots"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_17_personal_pronouns_direct_address_pr"
+    ],
+    "reviewReason": "Integrate subject personal pronouns with locative spatial predicates.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Intonation phrasing linking subject noun and locative adverbial.",
+    "successCriteria": [
+      "Correctly link subject pronouns and proper names with dative-locative spatial destinations.",
+      "Employ stable SOV phrasing: Subject + Location-д/т + байна."
+    ],
+    "masteryEvidence": [
+      "Produces 'Тэр сургуульд байна' when prompted with a campus image.",
+      "Scores 100% on a person-to-location matching comprehension activity."
+    ],
+    "recommendedExerciseModalities": [
+      "cued_production",
+      "matching",
+      "image_description"
+    ]
+  },
+  {
+    "lessonId": "les_a1_25_03_urban_directory_reading",
+    "unitId": "unit_a1_25_dative_locative_spatial_anchoring_s",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 3,
+    "title": "Reading Public Signage and Building Directories",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Decode authentic public floor guides, office directories, and university signage using locative markers.",
+    "communicativeOutcome": "Find desired departments, floors, and services inside public buildings in Mongolia.",
+    "objectivesIntroduced": [
+      "obj_a1_25_03_read_building_directories"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_25_01_apply_dative_locative_suffixes"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "grammarReviewed": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReinforced": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_iotated_vowels_behavior"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_12_location_simple_objects"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "давхар",
+      "өрөө",
+      "банк",
+      "эмийн сан"
+    ],
+    "readingObjective": "Read a multi-floor commercial building directory and extract floor locations for 4 services.",
+    "listeningObjective": null,
+    "writingObjective": "Transcribe the exact floor and room number for 3 specified offices from the directory.",
+    "spokenProductionObjective": null,
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Navigating municipal and commercial buildings independently.",
+    "prerequisiteLessonIds": [
+      "les_a1_25_02_locating_people_places"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_25_01_dative_locative_allomorphs"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_20_demonstrative_deixis_"
+    ],
+    "reviewReason": "Reinforce reading comprehension of spatial nouns combined with locative case.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Authentic text read-along of floor announcements.",
+    "successCriteria": [
+      "Correctly identify the floor and room number for 4 out of 4 services from a directory.",
+      "Recognize ordinal numbers (1-р давхарт, 2-р давхарт) with attached dative-locative marker."
+    ],
+    "masteryEvidence": [
+      "Answers 'Эмийн сан хэддүгээр давхарт байна?' with 'Нэгдүгээр давхарт байна'.",
+      "Matches service icons to directory floor text accurately."
+    ],
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "document_scanning",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a1_25_04_spatial_inquiries_qa",
+    "unitId": "unit_a1_25_dative_locative_spatial_anchoring_s",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 4,
+    "title": "Asking 'Where?': Inquiries with Хаана байна?",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Formulate spatial inquiries with 'Хаана' and respond fluently with dative-locative phrases.",
+    "communicativeOutcome": "Ask pedestrians, security guards, or clerks for the location of amenities and comprehend their directions.",
+    "objectivesIntroduced": [
+      "obj_a1_25_04_spatial_inquiry_exchange"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_25_01_apply_dative_locative_suffixes",
+      "obj_a1_25_02_locate_people_spatially"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_24_03_ask_polar_existence"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "grammarReviewed": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReinforced": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "phonologyReviewed": [
+      "phono_vowel_length_contrast"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_12_location_simple_objects"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_01_formal_greeting_morning_afternoon"
+    ],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "жорлон",
+      "үүд",
+      "угаалгын өрөө",
+      "лифт"
+    ],
+    "readingObjective": "Read dialogue transcripts of visitors asking for directions inside a hospital or library.",
+    "listeningObjective": "Comprehend the location answer in a short inquiry dialogue.",
+    "writingObjective": "Write 3 question-and-answer pairs inquiring about and stating locations.",
+    "spokenProductionObjective": "Execute a 4-turn dialogue asking for and receiving directions inside a building.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Preceding location inquiries with polite attention-getters ('Уучлаарай, ...').",
+    "prerequisiteLessonIds": [
+      "les_a1_25_02_locating_people_places"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_24_03_polar_inquiries_existence"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_24_existential_assertion_vs_"
+    ],
+    "reviewReason": "Consolidate conversational questioning routines.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic intonational contrast between 'Хаана байна?' and declarative '...-д байна'.",
+    "successCriteria": [
+      "Prefix questions with polite apology token 'Уучлаарай'.",
+      "Use correct dative-locative form in the immediate response."
+    ],
+    "masteryEvidence": [
+      "Asks 'Жорлон хаана байна?' and comprehends 'Хоёрдугаар давхарт байна'.",
+      "Fluently produces 4 reciprocal turns without pausing."
+    ],
+    "recommendedExerciseModalities": [
+      "dialogue_roleplay",
+      "question_formation",
+      "audio_response_matching"
+    ]
+  },
+  {
+    "lessonId": "les_a1_25_05_acoustic_locative_listening",
+    "unitId": "unit_a1_25_dative_locative_spatial_anchoring_s",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 5,
+    "title": "Acoustic Lab: Locative Suffix Discrimination in Public PA Announcements",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Train the ear to recognize dative-locative suffixes attached to varied consonant stems in noisy public announcements.",
+    "communicativeOutcome": "Identify where individuals are being paged or where events are occurring from public PA broadcasts.",
+    "objectivesIntroduced": [
+      "obj_a1_25_05_discriminate_locative_in_pa"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_25_01_apply_dative_locative_suffixes"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "grammarReviewed": [],
+    "grammarReinforced": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_non_initial_reduction"
+    ],
+    "phonologyReviewed": [
+      "phono_oe_ue_contrast"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_12_location_simple_objects"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "сургууль",
+      "танхим",
+      "буудал",
+      "номын сан"
+    ],
+    "readingObjective": null,
+    "listeningObjective": "Listen to 4 PA announcements and identify the destination or meeting room specified.",
+    "writingObjective": "Log the location names and room numbers announced in the audio recordings.",
+    "spokenProductionObjective": null,
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Extracting critical administrative directives from broadcast announcements.",
+    "prerequisiteLessonIds": [
+      "les_a1_25_03_urban_directory_reading",
+      "les_a1_25_04_spatial_inquiries_qa"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_25_01_dative_locative_allomorphs"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_25_dative_locative_spatial_anchoring_s"
+    ],
+    "reviewReason": "Deepen acoustic decoding of -д/-т in natural reverberant environments.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic PA system reverberation and acoustic simulation.",
+    "successCriteria": [
+      "Accurately extract 4 out of 4 location targets from simulated public announcements.",
+      "Distinguish between stem consonants and attached case suffixes."
+    ],
+    "masteryEvidence": [
+      "Matches broadcast recordings to corresponding campus map pins without error.",
+      "Writes correct case endings for heard locations."
+    ],
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "map_tagging",
+      "error_identification"
+    ]
+  },
+  {
+    "lessonId": "les_a1_25_06_campus_orientation_synthesis",
+    "unitId": "unit_a1_25_dative_locative_spatial_anchoring_s",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 6,
+    "title": "Interactive Synthesis: Campus and Building Orientation Guide",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Synthesize all Unit 25 dative-locative skills in a peer orientation roleplay.",
+    "communicativeOutcome": "Guide a new student or international visitor around a building or town center using spatial case forms.",
+    "objectivesIntroduced": [
+      "obj_a1_25_06_guide_visitor_spatially"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_25_01_apply_dative_locative_suffixes",
+      "obj_a1_25_02_locate_people_spatially",
+      "obj_a1_25_04_spatial_inquiry_exchange"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "grammarReviewed": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReinforced": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_vowel_harmony_suffixes"
+    ],
+    "phonologyReviewed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_12_location_simple_objects"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_01_formal_greeting_morning_afternoon"
+    ],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "давхар",
+      "өрөө",
+      "үүд",
+      "номын сан",
+      "сургууль",
+      "эмнэлэг"
+    ],
+    "readingObjective": "Read map cues detailing locations of campus facilities.",
+    "listeningObjective": "Understand peer visitor questions about where specific facilities are situated.",
+    "writingObjective": "Draft a 4-line mini-guide listing locations of key facilities.",
+    "spokenProductionObjective": "Direct a partner to 3 locations on a campus map using dative-locative structures.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Welcoming visitors hospitably while providing precise spatial directions.",
+    "prerequisiteLessonIds": [
+      "les_a1_25_04_spatial_inquiries_qa",
+      "les_a1_25_05_acoustic_locative_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_25_02_locating_people_places"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_25_dative_locative_spatial_anchoring_s"
+    ],
+    "reviewReason": "Complete synthesis of spatial predication before moving to interrogative particles.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic multi-turn orientation dialogue with natural pacing.",
+    "successCriteria": [
+      "Produce 3 consecutive accurate location descriptions using dative-locative suffixes without error.",
+      "Demonstrate spontaneous turn-taking in responding to visitor inquiries."
+    ],
+    "masteryEvidence": [
+      "Provides complete oral directions across 6 interactive turns.",
+      "Draws accurate route on map following partner's verbal instructions."
+    ],
+    "recommendedExerciseModalities": [
+      "dialogue_roleplay",
+      "map_navigation",
+      "information_gap"
+    ]
+  },
+  {
+    "lessonId": "les_a1_26_01_content_particles_distribution",
+    "unitId": "unit_a1_26_content_question_particles_and_",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 1,
+    "title": "Interrogative Markers: Phonological Selection of Бэ vs Вэ",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the complementary phonological distribution of content question particles 'бэ' (after sonorants and nasals) and 'вэ' (after vowels and other consonants).",
+    "communicativeOutcome": "Formulate wh-questions asking 'Who?', 'What?', and 'Where?' using the phonologically correct question particle.",
+    "objectivesIntroduced": [
+      "obj_a1_26_01_select_be_ve_particles"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a1_19_01_polar_question_particles"
+    ],
+    "grammarIntroduced": [
+      "gram_a1_content_questions_be_ve"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "grammarReinforced": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_non_initial_reduction"
+    ],
+    "phonologyReviewed": [
+      "phono_vowel_harmony_suffixes"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a1_05_asking_identity_origin"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_personal_identity_civics"
+    ],
+    "previousVocabularyReused": [
+      "хэн",
+      "юу",
+      "хаана",
+      "хэзээ"
+    ],
+    "readingObjective": "Read question-and-answer pairs matching question stems with either бэ or вэ.",
+    "listeningObjective": "Hear the acoustic shift between 'Хэн бэ?' (nasal final) and 'Юу вэ?' (vowel final).",
+    "writingObjective": "Complete 6 interrogative sentences by selecting the correct particle бэ or вэ based on the preceding terminal sound.",
+    "spokenProductionObjective": "Accurately pronounce 4 content questions with appropriate terminal particle and pitch.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Natural questioning tone without abrupt or aggressive intonation.",
+    "prerequisiteLessonIds": [
+      "les_a1_25_06_campus_orientation_synthesis"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_19_01_polar_particle_harmony"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_19_polar_inquiries_polar_question_part"
+    ],
+    "reviewReason": "Contrast polar question particles (уу/үү) with content question particles (бэ/вэ).",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Clear acoustic differentiation between bilabial plosive /b/ and fricative/approximant /w/.",
+    "successCriteria": [
+      "Select 'бэ' after m, n, ng, l stems and 'вэ' after vowels and non-nasal consonants.",
+      "Apply terminal falling question intonation characteristic of Mongolian content questions."
+    ],
+    "masteryEvidence": [
+      "Correctly selects particle for 'Хэн ...' (бэ) vs 'Энэ юу ...' (вэ) with 100% accuracy.",
+      "Explains the phonological rule governing particle choice."
+    ],
+    "recommendedExerciseModalities": [
+      "cloze_selection",
+      "phonetic_sorting",
+      "question_formation"
+    ]
+  },
+  {
+    "lessonId": "les_a1_26_02_interrogative_pronoun_inventory",
+    "unitId": "unit_a1_26_content_question_particles_and_",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 2,
+    "title": "Question Words: Хэн, Юу, Хаана, and Аль",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce and drill key interrogative pronouns and their syntactic placement in SOV question clauses.",
+    "communicativeOutcome": "Ask targeted questions regarding identity, object category, spatial location, and selection among options.",
+    "objectivesIntroduced": [
+      "obj_a1_26_02_use_interrogative_pronouns"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_26_01_select_be_ve_particles"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_20_01_deictic_identification"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_content_questions_be_ve"
+    ],
+    "grammarReviewed": [
+      "gram_a1_sov_word_order"
+    ],
+    "grammarReinforced": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "phonologyReviewed": [
+      "phono_vowel_length_contrast"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_05_asking_identity_origin"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_personal_identity_civics"
+    ],
+    "previousVocabularyReused": [
+      "хүн",
+      "бараа",
+      "хот",
+      "өрөө"
+    ],
+    "readingObjective": "Read a dialogue transcript containing varied wh-questions and answers.",
+    "listeningObjective": "Identify which question word was used in fast spoken prompts.",
+    "writingObjective": "Write 4 distinct content questions using хэн, юу, хаана, and аль.",
+    "spokenProductionObjective": "Ask a peer 3 wh-questions about unfamiliar objects and persons in a photo.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Directing inquiries precisely to elicit targeted factual information.",
+    "prerequisiteLessonIds": [
+      "les_a1_26_01_content_particles_distribution"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_20_01_spatial_demonstratives_core_deixis"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_20_demonstrative_deixis_"
+    ],
+    "reviewReason": "Link interrogative pronouns to demonstrative answers (Аль нь? - Энэ нь).",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Natural sentence-level intonation on content question frames.",
+    "successCriteria": [
+      "Position the interrogative pronoun directly before the verb or predicate noun.",
+      "Pair 'аль' with selective partitive markers when choosing from a set."
+    ],
+    "masteryEvidence": [
+      "Produces 'Та хэн бэ?' and 'Энэ юу вэ?' without hesitation.",
+      "Transforms affirmative statements into corresponding wh-questions."
+    ],
+    "recommendedExerciseModalities": [
+      "sentence_transformation",
+      "cued_production",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a1_26_03_inquiry_clarification_drills",
+    "unitId": "unit_a1_26_content_question_particles_and_",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 3,
+    "title": "Guided Practice: Seeking Factual Clarification",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Automate the formulation and comprehension of rapid content questions in everyday informational encounters.",
+    "communicativeOutcome": "Clarify ambiguous identities, misplaced items, and unknown vocabulary by asking clarifying questions.",
+    "objectivesIntroduced": [
+      "obj_a1_26_03_conduct_clarification_drills"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_26_01_select_be_ve_particles",
+      "obj_a1_26_02_use_interrogative_pronouns"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_25_01_apply_dative_locative_suffixes"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_content_questions_be_ve"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "grammarReinforced": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_non_initial_reduction"
+    ],
+    "phonologyReviewed": [
+      "phono_oe_ue_contrast"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_05_asking_identity_origin"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_12_location_simple_objects"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_personal_identity_civics"
+    ],
+    "previousVocabularyReused": [
+      "овог",
+      "нэр",
+      "ажил",
+      "мэргэжил"
+    ],
+    "readingObjective": "Read administrative registration interview prompts.",
+    "listeningObjective": "Comprehend spoken requests for personal details (Нэр тань хэн бэ?).",
+    "writingObjective": "Draft 5 registration inquiry questions for a student enrollment intake.",
+    "spokenProductionObjective": "Roleplay an administrative intake clerk asking 4 clarification questions.",
+    "registerTarget": "Courteous standard official",
+    "pragmaticTarget": "Maintaining polite respect while gathering essential administrative data.",
+    "prerequisiteLessonIds": [
+      "les_a1_26_02_interrogative_pronoun_inventory"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_25_04_spatial_inquiries_qa"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_25_dative_locative_spatial_anchoring_s"
+    ],
+    "reviewReason": "Combine locative inquiries ('Хаана байна?') with personal identity questions.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic courteous administrative question intonation.",
+    "successCriteria": [
+      "Incorporate honorific second-person markers (Таны нэр хэн бэ?) seamlessly.",
+      "Ensure correct particle alignment across varied noun endings."
+    ],
+    "masteryEvidence": [
+      "Conducts a smooth 1-minute simulated registration intake interview.",
+      "Corrects deliberately flawed question particles in peer speech."
+    ],
+    "recommendedExerciseModalities": [
+      "cloze_selection",
+      "audio_response_matching",
+      "interactive_drill"
+    ]
+  },
+  {
+    "lessonId": "les_a1_26_04_interview_transcript_reading",
+    "unitId": "unit_a1_26_content_question_particles_and_",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 4,
+    "title": "Reading Workshop: Short Interview Profiles and FAQs",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Read and analyze authentic Q&A profiles, interview transcripts, and civic questionnaire excerpts.",
+    "communicativeOutcome": "Extract biographical and factual details from structured question-and-answer texts.",
+    "objectivesIntroduced": [
+      "obj_a1_26_04_read_interview_profiles"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_26_02_use_interrogative_pronouns"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_content_questions_be_ve"
+    ],
+    "grammarReviewed": [
+      "gram_a1_nominal_predicate_zero_copula"
+    ],
+    "grammarReinforced": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_neutral_vowel_behavior"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_05_asking_identity_origin"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_personal_identity_civics"
+    ],
+    "previousVocabularyReused": [
+      "оюутан",
+      "эмч",
+      "хот",
+      "сургууль"
+    ],
+    "readingObjective": "Read a 50-word interview profile of an incoming university student.",
+    "listeningObjective": null,
+    "writingObjective": "Write a 3-question profile inquiry for an interview with a classmate.",
+    "spokenProductionObjective": null,
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Extracting targeted answers to factual questions in written texts.",
+    "prerequisiteLessonIds": [
+      "les_a1_26_03_inquiry_clarification_drills"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_26_01_content_particles_distribution"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_26_content_question_particles_and_"
+    ],
+    "reviewReason": "Consolidate recognition of wh-particle structures in authentic reading texts.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Read-along narration modeling rhythm of printed interviews.",
+    "successCriteria": [
+      "Locate answers to who, what, where, and which questions in the profile.",
+      "Match question headings to their corresponding response paragraphs."
+    ],
+    "masteryEvidence": [
+      "Completes a profile summary chart with zero comprehension errors.",
+      "Identifies the grammatical role of бэ and вэ in 5 textual questions."
+    ],
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "profile_mapping",
+      "true_false"
+    ]
+  },
+  {
+    "lessonId": "les_a1_26_05_interrogative_listening_lab",
+    "unitId": "unit_a1_26_content_question_particles_and_",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 5,
+    "title": "Acoustic Lab: Rapid Question Parsing in Conversational Speech",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Parse rapid content questions in multi-speaker audio clips to identify inquiry goals instantly.",
+    "communicativeOutcome": "Immediately determine what information is being requested in rapid natural conversations.",
+    "objectivesIntroduced": [
+      "obj_a1_26_05_parse_rapid_questions_auditorily"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_26_01_select_be_ve_particles"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_24_03_ask_polar_existence"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_content_questions_be_ve"
+    ],
+    "grammarReviewed": [
+      "gram_a1_polar_questions_uu_uu"
+    ],
+    "grammarReinforced": [
+      "gram_a1_polar_questions_uu_uu"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_non_initial_reduction"
+    ],
+    "phonologyReviewed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_05_asking_identity_origin"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_personal_identity_civics"
+    ],
+    "previousVocabularyReused": [
+      "хэн",
+      "юу",
+      "хаана",
+      "хэзээ",
+      "аль"
+    ],
+    "readingObjective": null,
+    "listeningObjective": "Listen to 6 rapid conversational questions and categorize each by information target.",
+    "writingObjective": "Write down the question particle (бэ/вэ/уу/үү) heard in each audio clip.",
+    "spokenProductionObjective": null,
+    "registerTarget": "Everyday standard colloquial and courteous",
+    "pragmaticTarget": "Fast auditory comprehension without requiring repetition.",
+    "prerequisiteLessonIds": [
+      "les_a1_26_03_inquiry_clarification_drills"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_24_05_reception_inquiry_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_24_existential_assertion_vs_"
+    ],
+    "reviewReason": "Contrast polar question intonation with wh-question intonation in natural audio.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Realistic conversational tempo with natural reductions and elisions.",
+    "successCriteria": [
+      "Classify 6 out of 6 spoken questions into polar vs content categories correctly.",
+      "Identify the specific question word uttered in noisy listening conditions."
+    ],
+    "masteryEvidence": [
+      "Selects the appropriate factual response to each question from 3 options.",
+      "Accurately transcribes heard question particles."
+    ],
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "audio_categorization",
+      "dictation"
+    ]
+  },
+  {
+    "lessonId": "les_a1_26_06_inquiry_dialogue_synthesis",
+    "unitId": "unit_a1_26_content_question_particles_and_",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 6,
+    "title": "Interactive Synthesis: Civic and Campus Fact-Finding Mission",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Integrate content questions, answers, and spatial grounding in a cooperative information-gap task.",
+    "communicativeOutcome": "Gather complete factual dossiers on unfamiliar people, objects, and locations through reciprocal questioning.",
+    "objectivesIntroduced": [
+      "obj_a1_26_06_conduct_fact_finding_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_26_01_select_be_ve_particles",
+      "obj_a1_26_02_use_interrogative_pronouns",
+      "obj_a1_26_03_conduct_clarification_drills"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_25_02_locate_people_spatially"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_content_questions_be_ve"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReinforced": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_vowel_harmony_suffixes"
+    ],
+    "phonologyReviewed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_05_asking_identity_origin"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_12_location_simple_objects"
+    ],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_personal_identity_civics"
+    ],
+    "previousVocabularyReused": [
+      "хэн",
+      "юу",
+      "хаана",
+      "сургууль",
+      "багш",
+      "ном",
+      "өрөө"
+    ],
+    "readingObjective": "Read information-gap dossier cards detailing incomplete facts.",
+    "listeningObjective": "Comprehend partner's questions and verbal answers in an information exchange.",
+    "writingObjective": "Record 4 facts elicited from partner into an information table.",
+    "spokenProductionObjective": "Execute an 8-turn unscripted information-gap dialogue.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Reciprocal conversational cooperation and clear articulation of inquiries.",
+    "prerequisiteLessonIds": [
+      "les_a1_26_04_interview_transcript_reading",
+      "les_a1_26_05_interrogative_listening_lab"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_26_02_interrogative_pronoun_inventory"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_26_content_question_particles_and_"
+    ],
+    "reviewReason": "Full mastery checkpoint of Unit 26 without added lexical load.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Exemplary conversational exchange showcasing reciprocal question-answer pacing.",
+    "successCriteria": [
+      "Formulate 4 grammatically correct wh-questions using appropriate бэ/вэ particles.",
+      "Successfully extract all missing information to complete the dossier table."
+    ],
+    "masteryEvidence": [
+      "Conducts full interactive exchange without reverting to English or using incorrect particles.",
+      "Scores 100% on the factual details recorded in the final dossier."
+    ],
+    "recommendedExerciseModalities": [
+      "information_gap",
+      "dialogue_roleplay",
+      "dossier_completion"
+    ]
+  },
+  {
+    "lessonId": "les_a1_27_01_cardinal_numerals_1_to_20",
+    "unitId": "unit_a1_27_cardinal_numbers_counting_up_to_one",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 1,
+    "title": "Counting Foundations: Cardinal Numerals 1 to 20",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce cardinal numbers from 1 to 20, focusing on the lack of plural marking on nouns modified by numerals in Mongolian.",
+    "communicativeOutcome": "State quantities of objects and persons from 1 to 20 accurately without applying ungrammatical plural suffixes.",
+    "objectivesIntroduced": [
+      "obj_a1_27_01_count_cardinals_1_to_20"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a1_24_01_affirm_existence_baina"
+    ],
+    "grammarIntroduced": [
+      "gram_a1_numerals_cardinal_1_100"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReinforced": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "phonologyReviewed": [
+      "phono_vowel_length_contrast"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_numbers_time_calendar"
+    ],
+    "previousVocabularyReused": [
+      "хүн",
+      "ном",
+      "үзэг",
+      "ширээ"
+    ],
+    "readingObjective": "Read numeral digits matched with Cyrillic number words up to 20.",
+    "listeningObjective": "Hear and distinguish numbers with similar sound profiles (долоо vs найм, арван нэг vs арван хоёр).",
+    "writingObjective": "Write numeral words for given visual quantities of classroom objects.",
+    "spokenProductionObjective": "Count aloud from 1 to 20 with clear vowel length distinction.",
+    "registerTarget": "Everyday standard neutral",
+    "pragmaticTarget": "Direct, clear quantification in transactions and inquiries.",
+    "prerequisiteLessonIds": [
+      "les_a1_26_06_inquiry_dialogue_synthesis"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_24_01_existential_assertion_baina"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_24_existential_assertion_vs_"
+    ],
+    "reviewReason": "Combine numeral quantification directly with existential assertions.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Clear phonological rendering of vowel lengths in 'нэг', 'хоёр', 'гурав', 'дөрөв', 'тав'.",
+    "successCriteria": [
+      "Pronounce numerals 1-20 with correct vowel qualities.",
+      "Leave following noun in bare singular form (e.g. 'хоёр ном', not 'хоёр номууд')."
+    ],
+    "masteryEvidence": [
+      "Correctly counts 12 objects in a picture without adding plural suffixes.",
+      "Scores 100% on a number-to-spelling matching exercise."
+    ],
+    "recommendedExerciseModalities": [
+      "counting_drill",
+      "matching",
+      "cued_production"
+    ]
+  },
+  {
+    "lessonId": "les_a1_27_02_tens_and_counting_to_100",
+    "unitId": "unit_a1_27_cardinal_numbers_counting_up_to_one",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 2,
+    "title": "Decades and Hundreds: Numbers 20 to 100",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce decade multiples (хорь, гуч, дөч, тавь, жар, дал, ная, ер, зуу) and compound two-digit number construction.",
+    "communicativeOutcome": "Formulate and understand any cardinal number between 21 and 100 in financial, inventory, and metric contexts.",
+    "objectivesIntroduced": [
+      "obj_a1_27_02_count_decades_up_to_100"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_27_01_count_cardinals_1_to_20"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_numerals_cardinal_1_100"
+    ],
+    "grammarReviewed": [
+      "gram_a1_sov_word_order"
+    ],
+    "grammarReinforced": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_non_initial_reduction"
+    ],
+    "phonologyReviewed": [
+      "phono_oe_ue_contrast"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_numbers_time_calendar"
+    ],
+    "previousVocabularyReused": [
+      "төгрөг",
+      "оюутан",
+      "өрөө"
+    ],
+    "readingObjective": "Read two-digit prices and room numbers written out in Mongolian text.",
+    "listeningObjective": "Discriminate between teens and decades (арван гурав vs гуч).",
+    "writingObjective": "Write 5 compound two-digit numbers in Cyrillic script.",
+    "spokenProductionObjective": "State aloud the prices of 4 everyday consumer items up to 100 tugriks.",
+    "registerTarget": "Everyday standard neutral",
+    "pragmaticTarget": "Accurate numerical reporting to avoid transactional errors.",
+    "prerequisiteLessonIds": [
+      "les_a1_27_01_cardinal_numerals_1_to_20"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_27_01_cardinal_numerals_1_to_20"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_27_cardinal_numbers_counting_up_to_one"
+    ],
+    "reviewReason": "Build compound two-digit numbers upon mastered single-digit bases.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Rhythmic stress cadence in compound number phrases (e.g. 'хорин тав', 'гучин долоо').",
+    "successCriteria": [
+      "Construct compound numbers with decade stem preceding unit digit.",
+      "Recognize the combining stem forms (хорь -> хорин, гуч -> гучин)."
+    ],
+    "masteryEvidence": [
+      "Transcribes spoken two-digit numbers into digits with 100% accuracy.",
+      "Produces 'тавин найм' upon seeing numeral 58."
+    ],
+    "recommendedExerciseModalities": [
+      "dictation",
+      "multiple_choice",
+      "cloze_selection"
+    ]
+  },
+  {
+    "lessonId": "les_a1_27_03_inquiries_with_hed",
+    "unitId": "unit_a1_27_cardinal_numbers_counting_up_to_one",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 3,
+    "title": "How Many? Quantity Questions with Хэд and Хэдэн",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Differentiate and use the interrogative quantifiers 'хэд' (asking for bare number) and 'хэдэн' (modifying a noun: 'how many Xs?').",
+    "communicativeOutcome": "Ask and answer questions about the quantity of people, inventory items, and prices.",
+    "objectivesIntroduced": [
+      "obj_a1_27_03_ask_quantity_hed_heden"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_27_01_count_cardinals_1_to_20",
+      "obj_a1_27_02_count_decades_up_to_100"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_26_01_select_be_ve_particles"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_numerals_cardinal_1_100"
+    ],
+    "grammarReviewed": [
+      "gram_a1_content_questions_be_ve"
+    ],
+    "grammarReinforced": [
+      "gram_a1_content_questions_be_ve"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_vowel_harmony_intro"
+    ],
+    "phonologyReviewed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_05_asking_identity_origin"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_numbers_time_calendar"
+    ],
+    "previousVocabularyReused": [
+      "сандал",
+      "хүүхэд",
+      "ном",
+      "өрөө"
+    ],
+    "readingObjective": "Read inventory survey questions inquiring about asset counts.",
+    "listeningObjective": "Comprehend questions like 'Энд хэдэн сандал байна вэ?' in fast speech.",
+    "writingObjective": "Write 3 questions asking about quantities of items in an office.",
+    "spokenProductionObjective": "Ask a peer how many siblings or books they have.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Direct, polite quantification inquiries in civic and domestic situations.",
+    "prerequisiteLessonIds": [
+      "les_a1_27_02_tens_and_counting_to_100"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_26_01_content_particles_distribution"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_26_content_question_particles_and_"
+    ],
+    "reviewReason": "Attach content question particles (бэ/вэ) to numerical interrogatives (Хэд вэ?).",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Natural falling intonation on 'Хэдэн ... байна вэ?'.",
+    "successCriteria": [
+      "Select 'хэдэн' before a noun and 'хэд' in predicate position (Үнэ нь хэд вэ?).",
+      "Pair 'хэд вэ' with particle 'вэ' (vowel final)."
+    ],
+    "masteryEvidence": [
+      "Distinguishes 'Хэд вэ?' from 'Хэдэн ном бэ?' without error.",
+      "Produces full answer: 'Таван ном байна'."
+    ],
+    "recommendedExerciseModalities": [
+      "question_formation",
+      "cloze_selection",
+      "audio_response_matching"
+    ]
+  },
+  {
+    "lessonId": "les_a1_27_04_inventory_sheet_reading",
+    "unitId": "unit_a1_27_cardinal_numbers_counting_up_to_one",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 4,
+    "title": "Reading Workshop: Asset Logs and Store Stock Inventories",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Scan and interpret commercial stock sheets, store receipt totals, and warehouse lists.",
+    "communicativeOutcome": "Verify inventory lists against stock count records and identify numerical discrepancies.",
+    "objectivesIntroduced": [
+      "obj_a1_27_04_read_inventory_sheets"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_27_02_count_decades_up_to_100"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_numerals_cardinal_1_100"
+    ],
+    "grammarReviewed": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReinforced": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_neutral_vowel_behavior"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_numbers_time_calendar"
+    ],
+    "previousVocabularyReused": [
+      "бараа",
+      "тоо",
+      "нийт",
+      "хэрэгсэл"
+    ],
+    "readingObjective": "Read a 50-word office supply inventory sheet with itemized quantities.",
+    "listeningObjective": null,
+    "writingObjective": "Fill out a stock summary table detailing item names and numerical counts.",
+    "spokenProductionObjective": null,
+    "registerTarget": "Everyday standard administrative",
+    "pragmaticTarget": "Meticulous verification of quantities in commercial records.",
+    "prerequisiteLessonIds": [
+      "les_a1_27_03_inquiries_with_hed"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_27_02_tens_and_counting_to_100"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_27_cardinal_numbers_counting_up_to_one"
+    ],
+    "reviewReason": "Reinforce written recognition of compound number words in real documents.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration reading stock numbers cleanly and rhythmically.",
+    "successCriteria": [
+      "Locate total quantities for 5 distinct inventory categories.",
+      "Identify any mismatch between requested numbers and on-hand counts."
+    ],
+    "masteryEvidence": [
+      "Calculates total count from 3 line items correctly.",
+      "Extracts specific quantities with zero reading comprehension errors."
+    ],
+    "recommendedExerciseModalities": [
+      "document_scanning",
+      "table_completion",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a1_27_05_auditory_number_lab",
+    "unitId": "unit_a1_27_cardinal_numbers_counting_up_to_one",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 5,
+    "title": "Acoustic Lab: Rapid Number Recognition in Market Bidding",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Train the ear to decipher rapid numbers spoken in lively market auctions, checkout counters, and announcements.",
+    "communicativeOutcome": "Accurately record numerical values from rapid native spoken input without hesitation.",
+    "objectivesIntroduced": [
+      "obj_a1_27_05_decipher_rapid_spoken_numbers"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_27_01_count_cardinals_1_to_20",
+      "obj_a1_27_02_count_decades_up_to_100"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_numerals_cardinal_1_100"
+    ],
+    "grammarReviewed": [],
+    "grammarReinforced": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_non_initial_reduction"
+    ],
+    "phonologyReviewed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_numbers_time_calendar"
+    ],
+    "previousVocabularyReused": [
+      "тоо",
+      "үнэ",
+      "төгрөг",
+      "нийт"
+    ],
+    "readingObjective": null,
+    "listeningObjective": "Listen to 8 rapid numerical values spoken with natural rhythm and record them in digits.",
+    "writingObjective": "Transcribe 6 heard numbers from audio into Arabic numerals.",
+    "spokenProductionObjective": null,
+    "registerTarget": "Everyday standard commercial",
+    "pragmaticTarget": "Fast numerical comprehension in bustling commercial exchanges.",
+    "prerequisiteLessonIds": [
+      "les_a1_27_03_inquiries_with_hed"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_27_01_cardinal_numerals_1_to_20"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_27_cardinal_numbers_counting_up_to_one"
+    ],
+    "reviewReason": "Consolidate auditory comprehension of numbers up to 100.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Rapid authentic native speech with natural acoustic reductions of non-initial vowels.",
+    "successCriteria": [
+      "Accurately write down 8 out of 8 spoken numbers on first or second listen.",
+      "Differentiate between 14 (арван дөрөв) and 40 (дөч) reliably."
+    ],
+    "masteryEvidence": [
+      "Scores 100% on a rapid-fire number transcription test.",
+      "Selects correct price tag from audio prompts without hesitation."
+    ],
+    "recommendedExerciseModalities": [
+      "number_dictation",
+      "audio_matching",
+      "rapid_sorting"
+    ]
+  },
+  {
+    "lessonId": "les_a1_27_06_counting_dialogue_synthesis",
+    "unitId": "unit_a1_27_cardinal_numbers_counting_up_to_one",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 6,
+    "title": "Interactive Synthesis: Classroom and Office Stocktake",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Execute a full collaborative inventory stocktake using numbers, existential predicates, and locative cases.",
+    "communicativeOutcome": "Conduct a comprehensive room audit with a partner, checking and agreeing upon item quantities.",
+    "objectivesIntroduced": [
+      "obj_a1_27_06_conduct_stocktake_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_27_01_count_cardinals_1_to_20",
+      "obj_a1_27_02_count_decades_up_to_100",
+      "obj_a1_27_03_ask_quantity_hed_heden"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_25_01_apply_dative_locative_suffixes"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_numerals_cardinal_1_100"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReinforced": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_vowel_harmony_suffixes"
+    ],
+    "phonologyReviewed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_12_location_simple_objects"
+    ],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_numbers_time_calendar"
+    ],
+    "previousVocabularyReused": [
+      "ширээ",
+      "сандал",
+      "компьютер",
+      "ном",
+      "үзэг",
+      "өрөө"
+    ],
+    "readingObjective": "Read stocktake assignment prompt specifying items to verify.",
+    "listeningObjective": "Understand partner's count affirmations and corrections.",
+    "writingObjective": "Produce a finalized 5-item stocktake certificate with accurate numerals.",
+    "spokenProductionObjective": "Participate in an 8-turn cooperative inventory verification dialogue.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Professional collaborative precision in institutional audits.",
+    "prerequisiteLessonIds": [
+      "les_a1_27_04_inventory_sheet_reading",
+      "les_a1_27_05_auditory_number_lab"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_27_03_inquiries_with_hed"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_27_cardinal_numbers_counting_up_to_one"
+    ],
+    "reviewReason": "Zero-vocabulary synthesis consolidating all counting competencies.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Exemplary collaborative interaction demonstrating count verification.",
+    "successCriteria": [
+      "Accurately query and state quantities for 5 distinct objects.",
+      "Maintain error-free lack of plural suffixes on all quantified nouns."
+    ],
+    "masteryEvidence": [
+      "Produces 'Манай өрөөнд арван хоёр сандал байна' during dialogue.",
+      "Completes shared stocktake sheet with zero numerical discrepancies."
+    ],
+    "recommendedExerciseModalities": [
+      "dialogue_roleplay",
+      "information_gap",
+      "audit_reconciliation"
+    ]
+  },
+  {
+    "lessonId": "les_a1_28_01_telephone_digit_pairing",
+    "unitId": "unit_a1_28_telephone_numbers_digital_contact_e",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 1,
+    "title": "Exchanging Phone Numbers: Digit Pairing Cadence",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce conventions for reading and dictating 8-digit Mongolian mobile numbers in standard four 2-digit pairs.",
+    "communicativeOutcome": "State and dictate one's telephone number clearly using customary two-digit rhythmic grouping.",
+    "objectivesIntroduced": [
+      "obj_a1_28_01_dictate_paired_phone_numbers"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a1_27_02_count_decades_up_to_100"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_numerals_cardinal_1_100"
+    ],
+    "grammarReviewed": [
+      "gram_a1_content_questions_be_ve"
+    ],
+    "grammarReinforced": [
+      "gram_a1_content_questions_be_ve"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "phonologyReviewed": [
+      "phono_non_initial_reduction"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_05_asking_identity_origin"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_numbers_time_calendar"
+    ],
+    "previousVocabularyReused": [
+      "утас",
+      "дугаар",
+      "хэд"
+    ],
+    "readingObjective": "Read printed business cards and digital advertisements displaying 8-digit phone numbers.",
+    "listeningObjective": "Hear paired two-digit phone numbers (e.g. 9911-2233 as ерэн ес, арван нэг, хорин хоёр, гучин гурав).",
+    "writingObjective": "Write down 4 dictated 8-digit telephone numbers in hyphenated pair format.",
+    "spokenProductionObjective": "Recite a personal or institutional telephone number using paired number cadence.",
+    "registerTarget": "Everyday standard neutral",
+    "pragmaticTarget": "Clear pacing with pauses between digit pairs to allow verification.",
+    "prerequisiteLessonIds": [
+      "les_a1_27_06_counting_dialogue_synthesis"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_27_02_tens_and_counting_to_100"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_27_cardinal_numbers_counting_up_to_one"
+    ],
+    "reviewReason": "Recycle two-digit decade numbers into practical telecommunications usage.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Rhythmic two-digit prosodic chunking with inter-pair pauses.",
+    "successCriteria": [
+      "Dictate 8-digit numbers in 4 two-digit groups (e.g. 88-12-34-56).",
+      "Ask for contact details politely with 'Утасны дугаар тань хэд вэ?'."
+    ],
+    "masteryEvidence": [
+      "Accurately transcribes 3 audio phone numbers without digit errors.",
+      "Recites assigned phone number smoothly during oral prompt."
+    ],
+    "recommendedExerciseModalities": [
+      "number_dictation",
+      "cued_production",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a1_28_02_digital_channels_email_social",
+    "unitId": "unit_a1_28_telephone_numbers_digital_contact_e",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 2,
+    "title": "Digital Contacts: Email, Messaging Apps, and Usernames",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce vocabulary for digital communication channels (и-мэйл, фэйсбүүк, хаяг, чат) and address symbols.",
+    "communicativeOutcome": "Exchange email addresses and social messaging handles with peers and service personnel.",
+    "objectivesIntroduced": [
+      "obj_a1_28_02_exchange_digital_addresses"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_28_01_dictate_paired_phone_numbers"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_26_02_use_interrogative_pronouns"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_content_questions_be_ve"
+    ],
+    "grammarReviewed": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReinforced": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_loanword_adaptation"
+    ],
+    "phonologyReviewed": [
+      "phono_vowel_harmony_intro"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_05_asking_identity_origin"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_numbers_time_calendar"
+    ],
+    "previousVocabularyReused": [
+      "хаяг",
+      "нэр",
+      "утас"
+    ],
+    "readingObjective": "Read contact information sections on social media profiles and business cards.",
+    "listeningObjective": "Comprehend spoken spelling of email handles and contact domains.",
+    "writingObjective": "Fill out a contact card with name, mobile number, and email address.",
+    "spokenProductionObjective": "Spell out one's email address and handle in Mongolian discourse.",
+    "registerTarget": "Everyday standard friendly and professional",
+    "pragmaticTarget": "Offering digital contact alternatives when phone calling is inconvenient.",
+    "prerequisiteLessonIds": [
+      "les_a1_28_01_telephone_digit_pairing"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_26_02_interrogative_pronoun_inventory"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_26_content_question_particles_and_"
+    ],
+    "reviewReason": "Utilize 'ямар' and 'хэд' in contact inquiries (Ямар хаягтай вэ?).",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronunciation of digital terms and international loanwords with Mongolian phonological adaptation.",
+    "successCriteria": [
+      "Pronounce '@' (at / гогцоо) and '.' (цэг) correctly in email dictation.",
+      "Formulate questions asking for contact channels fluently."
+    ],
+    "masteryEvidence": [
+      "Produces 'Таны и-мэйл хаяг юу вэ?' upon prompt.",
+      "Transcribes digital handle dictation with zero typos."
+    ],
+    "recommendedExerciseModalities": [
+      "dictation",
+      "card_completion",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a1_28_03_business_card_reading",
+    "unitId": "unit_a1_28_telephone_numbers_digital_contact_e",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 3,
+    "title": "Reading Workshop: Mongolian Business Cards (Нэрийн хуудас)",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Read and analyze authentic Mongolian business cards (нэрийн хуудас) and civic directory listings.",
+    "communicativeOutcome": "Extract professional titles, institutional affiliations, phone numbers, and physical addresses from business cards.",
+    "objectivesIntroduced": [
+      "obj_a1_28_03_read_business_cards"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_28_01_dictate_paired_phone_numbers",
+      "obj_a1_28_02_exchange_digital_addresses"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_25_03_read_building_directories"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "grammarReviewed": [
+      "gram_a1_nominal_predicate_zero_copula"
+    ],
+    "grammarReinforced": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_soft_and_hard_signs"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_05_asking_identity_origin"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_numbers_time_calendar"
+    ],
+    "previousVocabularyReused": [
+      "компани",
+      "мэргэжил",
+      "хот",
+      "өрөө"
+    ],
+    "readingObjective": "Read 4 diverse business cards representing an engineer, doctor, teacher, and entrepreneur.",
+    "listeningObjective": null,
+    "writingObjective": "Transcribe contact info from 3 business cards into a contact directory format.",
+    "spokenProductionObjective": null,
+    "registerTarget": "Courteous standard professional",
+    "pragmaticTarget": "Understanding formal layout conventions of professional networking cards.",
+    "prerequisiteLessonIds": [
+      "les_a1_28_02_digital_channels_email_social"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_25_03_urban_directory_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_25_dative_locative_spatial_anchoring_s"
+    ],
+    "reviewReason": "Combine contact reading with previously learned spatial building addresses.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration reading professional titles with appropriate formal deference.",
+    "successCriteria": [
+      "Correctly locate the mobile phone number vs office landline on the card.",
+      "Identify the company name and job title from visual hierarchy."
+    ],
+    "masteryEvidence": [
+      "Fills out 4 contact profiles from business card scans with 100% accuracy.",
+      "Identifies the abbreviations 'утас', 'факс', 'шуудан'."
+    ],
+    "recommendedExerciseModalities": [
+      "document_scanning",
+      "form_filling",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a1_28_04_rapid_digit_listening_lab",
+    "unitId": "unit_a1_28_telephone_numbers_digital_contact_e",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 4,
+    "title": "Acoustic Lab: Transcribing Spoken Phone Numbers in Voicemails",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Transcribe spoken phone numbers and callback requests from recorded voicemail messages and announcements.",
+    "communicativeOutcome": "Accurately record callback numbers left on voicemail messages without playback distortion.",
+    "objectivesIntroduced": [
+      "obj_a1_28_04_transcribe_voicemail_digits"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_28_01_dictate_paired_phone_numbers"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_numerals_cardinal_1_100"
+    ],
+    "grammarReviewed": [],
+    "grammarReinforced": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_non_initial_reduction"
+    ],
+    "phonologyReviewed": [
+      "phono_oe_ue_contrast"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_numbers_time_calendar"
+    ],
+    "previousVocabularyReused": [
+      "утас",
+      "дугаар",
+      "ярих",
+      "хэлэх"
+    ],
+    "readingObjective": null,
+    "listeningObjective": "Listen to 5 voicemail callback messages and write down the caller name and 8-digit phone number.",
+    "writingObjective": "Transcribe 5 phone numbers into a telephone message slip.",
+    "spokenProductionObjective": null,
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Accurate message taking for third parties.",
+    "prerequisiteLessonIds": [
+      "les_a1_28_02_digital_channels_email_social"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_27_05_auditory_number_lab"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_27_cardinal_numbers_counting_up_to_one"
+    ],
+    "reviewReason": "Zero-vocabulary listening lab cementing auditory number transcription.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic telephone audio filter with slight bandwidth compression.",
+    "successCriteria": [
+      "Transcribe 5 out of 5 phone numbers with zero digit inversions or omissions.",
+      "Identify caller identity and reason for calling from brief voicemail audio."
+    ],
+    "masteryEvidence": [
+      "Produces flawless message slips from audio prompts.",
+      "Catches fast spoken number corrections ('Үгүй, 99 биш, 95')."
+    ],
+    "recommendedExerciseModalities": [
+      "voicemail_transcription",
+      "error_spotting",
+      "cloze_selection"
+    ]
+  },
+  {
+    "lessonId": "les_a1_28_05_contact_exchange_roleplay",
+    "unitId": "unit_a1_28_telephone_numbers_digital_contact_e",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 5,
+    "title": "Interactive Synthesis: Networking and Exchanging Contacts",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Simulate a networking reception where participants introduce themselves and exchange full contact dossiers.",
+    "communicativeOutcome": "Politely ask for, provide, and verify phone numbers and messaging accounts in a social setting.",
+    "objectivesIntroduced": [
+      "obj_a1_28_05_execute_contact_exchange"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_28_01_dictate_paired_phone_numbers",
+      "obj_a1_28_02_exchange_digital_addresses"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_01_formal_greeting_morning_afternoon"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_content_questions_be_ve"
+    ],
+    "grammarReviewed": [
+      "gram_a1_nominal_predicate_zero_copula",
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReinforced": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "phonologyReviewed": [
+      "phono_vowel_length_contrast"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_01_formal_greeting_morning_afternoon"
+    ],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_numbers_time_calendar"
+    ],
+    "previousVocabularyReused": [
+      "нэр",
+      "ажил",
+      "утас",
+      "хаяг",
+      "баяртай"
+    ],
+    "readingObjective": "Read role profile cards with personal contact credentials.",
+    "listeningObjective": "Comprehend partner's dictated contact numbers and read them back for confirmation.",
+    "writingObjective": "Write 2 complete contact records collected during peer interviews.",
+    "spokenProductionObjective": "Execute an 8-turn networking conversation exchanging full contact details.",
+    "registerTarget": "Courteous standard professional",
+    "pragmaticTarget": "Using two-handed business card etiquette and repeating numbers back to confirm accuracy.",
+    "prerequisiteLessonIds": [
+      "les_a1_28_03_business_card_reading",
+      "les_a1_28_04_rapid_digit_listening_lab"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_28_01_telephone_digit_pairing"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_28_telephone_numbers_digital_contact_e"
+    ],
+    "reviewReason": "Zero-vocabulary interactive synthesis consolidating all Unit 28 contact skills.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Natural conversational tempo with polite confirmation repetition.",
+    "successCriteria": [
+      "Perform standard read-back verification ('Таны утас 9911-2233 тийм үү?').",
+      "Exchange all contact details fluently without communication breakdowns."
+    ],
+    "masteryEvidence": [
+      "Completes reciprocal contact exchange within 90 seconds flawlessly.",
+      "Both partners record identical phone numbers on their peer logs."
+    ],
+    "recommendedExerciseModalities": [
+      "dialogue_roleplay",
+      "information_gap",
+      "peer_verification"
+    ]
+  },
+  {
+    "lessonId": "les_a1_29_01_plural_uud_allomorphs",
+    "unitId": "unit_a1_29_nominal_plurality_suffixes_",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 1,
+    "title": "Making Plurals: Regular Suffixes -ууд and -үүд",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce regular nominal plural suffixes -ууд (back vowel) and -үүд (front vowel) attached to consonant-final inanimate stems.",
+    "communicativeOutcome": "Formulate plural nouns referring to multiple objects and furnishings correctly adhering to vowel harmony.",
+    "objectivesIntroduced": [
+      "obj_a1_29_01_form_regular_plurals_uud"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a1_24_01_affirm_existence_baina"
+    ],
+    "grammarIntroduced": [
+      "gram_a1_nominal_plural_uud_nuud"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReinforced": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_vowel_harmony_suffixes"
+    ],
+    "phonologyReviewed": [
+      "phono_vowel_length_contrast"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "ном",
+      "ширээ",
+      "сандал",
+      "дэвтэр"
+    ],
+    "readingObjective": "Read simple plural sentences identifying items in living spaces (e.g. 'Номууд ширээн дээр байна').",
+    "listeningObjective": "Hear the acoustic contrast between singular bare stems and plural suffixed nouns (дэвтэр vs дэвтрүүд).",
+    "writingObjective": "Attach -ууд or -үүд to 6 singular consonant-final nouns based on vowel harmony.",
+    "spokenProductionObjective": "State aloud the plurals of 4 common classroom and household items.",
+    "registerTarget": "Everyday standard neutral",
+    "pragmaticTarget": "Clear plural reference when specifying groups of identical entities.",
+    "prerequisiteLessonIds": [
+      "les_a1_28_05_contact_exchange_roleplay"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_24_01_existential_assertion_baina"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_24_existential_assertion_vs_"
+    ],
+    "reviewReason": "Combine newly pluralized nouns with existential predicate 'байна'.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Acoustic modeling of rounded long vowel harmony in -ууд vs -үүд.",
+    "successCriteria": [
+      "Select -ууд for back-vowel masculine stems and -үүд for front-vowel feminine stems.",
+      "Accurately apply vowel syncope where required (дэвтэр -> дэвтрүүд)."
+    ],
+    "masteryEvidence": [
+      "Produces 'номууд' and 'дэвтрүүд' with correct spelling and pronunciation.",
+      "Remembers not to use plural suffixes after numerals (e.g. rejects 'хоёр номууд')."
+    ],
+    "recommendedExerciseModalities": [
+      "suffix_attachment",
+      "vowel_harmony_sorting",
+      "cloze_selection"
+    ]
+  },
+  {
+    "lessonId": "les_a1_29_02_plural_nuud_and_human_plurals",
+    "unitId": "unit_a1_29_nominal_plurality_suffixes_",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 2,
+    "title": "Vowel Stems and Social Plurals: -нууд/-нүүд and -нар",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce plural suffixes -нууд/-нүүд for vowel-final nouns and the associative/honorific collective plural marker -нар for human kinship and titles.",
+    "communicativeOutcome": "Form plurals of vowel-final words and address groups of people politely (e.g. багш нар, эмч нар, хүүхдүүд).",
+    "objectivesIntroduced": [
+      "obj_a1_29_02_apply_nuud_and_nar_plurals"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_29_01_form_regular_plurals_uud"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_17_01_personal_pronouns"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_nominal_plural_uud_nuud"
+    ],
+    "grammarReviewed": [
+      "gram_a1_nominal_predicate_zero_copula"
+    ],
+    "grammarReinforced": [
+      "gram_a1_nominal_predicate_zero_copula"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_non_initial_reduction"
+    ],
+    "phonologyReviewed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_03_introduce_peer_third_party"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "багш",
+      "эмч",
+      "оюутан",
+      "хүүхэд",
+      "ах"
+    ],
+    "readingObjective": "Read short staff and student roster descriptions mentioning groups (багш нар, оюутнууд).",
+    "listeningObjective": "Discriminate between individual titles and plural groups in speech (эмч vs эмч нар).",
+    "writingObjective": "Write sentences contrasting vowel-stem plurals and kinship group terms.",
+    "spokenProductionObjective": "Introduce a group of 3 professions or family members aloud.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Using -нар respectfully when referring to elders, teachers, and professionals.",
+    "prerequisiteLessonIds": [
+      "les_a1_29_01_plural_uud_allomorphs"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_17_01_singular_pronouns_subject_slots"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_17_personal_pronouns_direct_address_pr"
+    ],
+    "reviewReason": "Align third-person plural pronouns (тэд) with plural noun phrases (оюутнууд, багш нар).",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Natural prosody linking nouns with independent collective marker 'нар'.",
+    "successCriteria": [
+      "Attach -нууд/-нүүд to vowel-final stems (өрөөнүүд, тоонууд).",
+      "Apply separate word 'нар' for respected people and professions."
+    ],
+    "masteryEvidence": [
+      "Selects 'багш нар' rather than *багшууд.",
+      "Transforms 'хүүхэд' into irregular plural 'хүүхдүүд' accurately."
+    ],
+    "recommendedExerciseModalities": [
+      "categorization",
+      "sentence_transformation",
+      "cloze_selection"
+    ]
+  },
+  {
+    "lessonId": "les_a1_29_03_plural_syntactic_drills",
+    "unitId": "unit_a1_29_nominal_plurality_suffixes_",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 3,
+    "title": "Guided Practice: Plurals in Locative and Existential Clauses",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Automate combining plural nouns with dative-locative case markers (-уудад/-үүдэд) and existential predicates.",
+    "communicativeOutcome": "Describe the presence, location, and absence of plural entities in complex environments.",
+    "objectivesIntroduced": [
+      "obj_a1_29_03_combine_plurals_with_cases"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_29_01_form_regular_plurals_uud",
+      "obj_a1_29_02_apply_nuud_and_nar_plurals"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_25_01_apply_dative_locative_suffixes"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_nominal_plural_uud_nuud"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReinforced": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_oe_ue_contrast"
+    ],
+    "phonologyReviewed": [
+      "phono_vowel_harmony_suffixes"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_12_location_simple_objects"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "өрөө",
+      "сургууль",
+      "танхим",
+      "ном",
+      "сандал"
+    ],
+    "readingObjective": "Read campus facility descriptions identifying where multiple resources are located.",
+    "listeningObjective": "Comprehend rapid spoken statements regarding locations of groups of people and items.",
+    "writingObjective": "Construct 4 sentences combining plural nouns, locative case markers, and existential verbs.",
+    "spokenProductionObjective": "Describe 3 groups of items currently present in a library or workshop.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Detailed spatial reporting of inventory distributions.",
+    "prerequisiteLessonIds": [
+      "les_a1_29_02_plural_nuud_and_human_plurals"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_25_01_dative_locative_allomorphs"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_25_dative_locative_spatial_anchoring_s"
+    ],
+    "reviewReason": "Attach dative-locative case (-д/-т) onto pluralized noun bases (-уудад/-үүдэд).",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Clarity in multi-suffix phonological sequencing.",
+    "successCriteria": [
+      "Attach dative suffix -ад/-эдэд accurately onto plural stems (сандлуудад, өрөөнүүдэд).",
+      "Ensure correct predicate agreement in SOV order."
+    ],
+    "masteryEvidence": [
+      "Produces 'Эдгээр номууд өрөөнд байна' without hesitation.",
+      "Identifies and corrects singular/plural mismatches in 5 test sentences."
+    ],
+    "recommendedExerciseModalities": [
+      "sentence_construction",
+      "error_spotting",
+      "cued_production"
+    ]
+  },
+  {
+    "lessonId": "les_a1_29_04_library_catalog_reading",
+    "unitId": "unit_a1_29_nominal_plurality_suffixes_",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 4,
+    "title": "Reading Workshop: Library Catalog and Resource Guides",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Read and navigate university library section guides, catalog classifications, and archive descriptions.",
+    "communicativeOutcome": "Locate desired book categories, reference materials, and study rooms from printed directories.",
+    "objectivesIntroduced": [
+      "obj_a1_29_04_read_library_catalogs"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_29_01_form_regular_plurals_uud"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_nominal_plural_uud_nuud"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "grammarReinforced": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_neutral_vowel_behavior"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "ном",
+      "толь",
+      "сонин",
+      "сэтгүүл",
+      "давхар"
+    ],
+    "readingObjective": "Read a 55-word library floor guide detailing locations of books, magazines, and dictionaries.",
+    "listeningObjective": null,
+    "writingObjective": "Write a short summary list of 4 resource collections found on each library floor.",
+    "spokenProductionObjective": null,
+    "registerTarget": "Everyday standard educational",
+    "pragmaticTarget": "Independent academic navigation in institutional libraries.",
+    "prerequisiteLessonIds": [
+      "les_a1_29_03_plural_syntactic_drills"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_25_03_urban_directory_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_25_dative_locative_spatial_anchoring_s"
+    ],
+    "reviewReason": "Combine library collection plurals with spatial floor coordinates.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration modeling academic library informational announcements.",
+    "successCriteria": [
+      "Identify floor locations for 4 distinct publication categories (номоуд, сэтгүүлүүд, толиуд).",
+      "Answer 3 factual reading comprehension questions accurately."
+    ],
+    "masteryEvidence": [
+      "Matches catalog headings to floor numbers with zero error.",
+      "Translates 3 plural catalog entries accurately into English."
+    ],
+    "recommendedExerciseModalities": [
+      "document_scanning",
+      "matching",
+      "short_answer"
+    ]
+  },
+  {
+    "lessonId": "les_a1_29_05_plural_acoustic_discrimination",
+    "unitId": "unit_a1_29_nominal_plurality_suffixes_",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 5,
+    "title": "Acoustic Lab: Singular vs Plural Discrimination in Rapid Speech",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Train the ear to differentiate singular nouns from reduced plural endings in natural conversational streams.",
+    "communicativeOutcome": "Reliably detect whether a speaker is referring to one item/person or a group in fast discourse.",
+    "objectivesIntroduced": [
+      "obj_a1_29_05_discriminate_singular_plural_auditorily"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_29_01_form_regular_plurals_uud"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_nominal_plural_uud_nuud"
+    ],
+    "grammarReviewed": [],
+    "grammarReinforced": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_non_initial_reduction"
+    ],
+    "phonologyReviewed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "ном",
+      "сандал",
+      "багш",
+      "оюутан",
+      "хүүхэд"
+    ],
+    "readingObjective": null,
+    "listeningObjective": "Listen to 8 rapid sentences and classify each subject noun as singular [1] or plural [>1].",
+    "writingObjective": "Record the heard singular/plural status on a rapid classification score sheet.",
+    "spokenProductionObjective": null,
+    "registerTarget": "Everyday standard colloquial",
+    "pragmaticTarget": "Accurate quantity tracking without visual confirmation.",
+    "prerequisiteLessonIds": [
+      "les_a1_29_03_plural_syntactic_drills"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_29_01_plural_uud_allomorphs"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_29_nominal_plurality_suffixes_"
+    ],
+    "reviewReason": "Acoustic sharpening of plural suffix perception in continuous speech.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Realistic conversational recordings featuring natural reduction of unaccented plural vowels.",
+    "successCriteria": [
+      "Correctly classify 8 out of 8 spoken sentences into singular vs plural categories.",
+      "Detect reduced -нууд/-нүүд endings even when spoken softly."
+    ],
+    "masteryEvidence": [
+      "Identifies that 'хүүхдүүд' was spoken rather than 'хүүхэд' across 4 audio trials.",
+      "Transcribes suffix endings with 100% orthographic accuracy."
+    ],
+    "recommendedExerciseModalities": [
+      "binary_choice",
+      "audio_transcription",
+      "error_detection"
+    ]
+  },
+  {
+    "lessonId": "les_a1_29_06_group_description_synthesis",
+    "unitId": "unit_a1_29_nominal_plurality_suffixes_",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 6,
+    "title": "Interactive Synthesis: Workplace and Facility Asset Audit",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Synthesize nominal plurals, numerals, and locative descriptions in a collaborative facility audit.",
+    "communicativeOutcome": "Discuss, compare, and inventory groups of people and furnishings across multiple work areas.",
+    "objectivesIntroduced": [
+      "obj_a1_29_06_conduct_group_asset_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_29_01_form_regular_plurals_uud",
+      "obj_a1_29_02_apply_nuud_and_nar_plurals",
+      "obj_a1_29_03_combine_plurals_with_cases"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_27_01_count_cardinals_1_to_20"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_nominal_plural_uud_nuud"
+    ],
+    "grammarReviewed": [
+      "gram_a1_numerals_cardinal_1_100",
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReinforced": [
+      "gram_a1_numerals_cardinal_1_100"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_vowel_harmony_suffixes"
+    ],
+    "phonologyReviewed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "өрөө",
+      "ширээ",
+      "сандал",
+      "компьютер",
+      "оюутнууд",
+      "багш нар"
+    ],
+    "readingObjective": "Read an audit briefing describing expected vs missing resources.",
+    "listeningObjective": "Comprehend partner's verbal inventory report regarding various facility wings.",
+    "writingObjective": "Draft a 4-sentence audit summary report using accurate plural nouns and locative endings.",
+    "spokenProductionObjective": "Participate in an 8-turn roleplay comparing resources across two campuses.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Collaborative professional reporting with clear distinction between single and multiple assets.",
+    "prerequisiteLessonIds": [
+      "les_a1_29_04_library_catalog_reading",
+      "les_a1_29_05_plural_acoustic_discrimination"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_29_03_plural_syntactic_drills"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_29_nominal_plurality_suffixes_"
+    ],
+    "reviewReason": "Zero-vocabulary interactive synthesis consolidating all Unit 29 plural skills.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Exemplary conversational exchange illustrating collaborative reporting.",
+    "successCriteria": [
+      "Maintain flawless distinction between numeral constructions (three chairs -> гурван сандал) and general plurals (chairs -> сандлууд).",
+      "Use -нар respectfully with human professions throughout oral interaction."
+    ],
+    "masteryEvidence": [
+      "Demonstrates zero instances of ungrammatical *гурван сандлууд during the 8-turn dialogue.",
+      "Produces grammatically pristine written audit notes."
+    ],
+    "recommendedExerciseModalities": [
+      "dialogue_roleplay",
+      "information_gap",
+      "audit_reconciliation"
+    ]
+  },
+  {
+    "lessonId": "les_a1_30_01_accusative_definite_marking",
+    "unitId": "unit_a1_30_definite_direct_objects_the_accusat",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 1,
+    "title": "Specific Objects: The Accusative Case (-ыг/-ийг/-г)",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the accusative case to mark definite, specific direct objects, contrasting with unmarked indefinite objects in transitive clauses.",
+    "communicativeOutcome": "Distinguish between indefinite general objects ('Би ном авна') and definite specific objects ('Би энэ номыг авна').",
+    "objectivesIntroduced": [
+      "obj_a1_30_01_mark_accusative_definite_objects"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a1_20_01_deictic_identification"
+    ],
+    "grammarIntroduced": [
+      "gram_a1_case_accusative_definite_object"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_pronouns_demonstrative_ene_ter"
+    ],
+    "grammarReinforced": [
+      "gram_a1_pronouns_demonstrative_ene_ter"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_vowel_harmony_suffixes"
+    ],
+    "phonologyReviewed": [
+      "phono_vowel_length_contrast"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "ном",
+      "үзэг",
+      "ус",
+      "цаас",
+      "авах"
+    ],
+    "readingObjective": "Read short transitive sentences contrasting definite and indefinite direct objects.",
+    "listeningObjective": "Hear the acoustic presence of accusative suffixes (-ыг, -ийг, -г) on specific objects.",
+    "writingObjective": "Attach the appropriate accusative suffix to 6 nouns based on vowel harmony and stem-final sound.",
+    "spokenProductionObjective": "State aloud which specific item one is taking or reading using the accusative case.",
+    "registerTarget": "Everyday standard neutral",
+    "pragmaticTarget": "Clear indication of specific targeted objects in transactions and shared tasks.",
+    "prerequisiteLessonIds": [
+      "les_a1_29_06_group_description_synthesis"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_20_01_spatial_demonstratives_core_deixis"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_20_demonstrative_deixis_"
+    ],
+    "reviewReason": "Demonstratives (энэ, тэр) obligatorily trigger accusative marking on subsequent direct objects.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Clear phonological discrimination between back -ыг and front -ийг.",
+    "successCriteria": [
+      "Attach -ыг after back-vowel consonant stems, -ийг after front-vowel stems, and -г after long vowels or diphthongs.",
+      "Apply accusative case whenever the direct object is modified by 'энэ' or 'тэр'."
+    ],
+    "masteryEvidence": [
+      "Produces 'Би энэ номыг уншина' with correct case marking.",
+      "Differentiates between 'Цай ууна' (general tea drinking) and 'Энэ цайг ууна' (drinking this specific tea)."
+    ],
+    "recommendedExerciseModalities": [
+      "suffix_attachment",
+      "sentence_transformation",
+      "binary_choice"
+    ]
+  },
+  {
+    "lessonId": "les_a1_30_02_accusative_allomorph_rules",
+    "unitId": "unit_a1_30_definite_direct_objects_the_accusat",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 2,
+    "title": "Stem Alternations in Accusative Suffixation",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Master stem-vowel adjustments, hidden 'н' elision, and softening sign interactions when adding accusative suffixes.",
+    "communicativeOutcome": "Accurately decline nouns with non-standard stems (e.g. ах -> ахыг, ээж -> ээжийг, багш -> багшийг, мод -> модыг/модны) in the accusative case.",
+    "objectivesIntroduced": [
+      "obj_a1_30_02_handle_accusative_stem_alternations"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_30_01_mark_accusative_definite_objects"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_29_01_form_regular_plurals_uud"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_case_accusative_definite_object"
+    ],
+    "grammarReviewed": [
+      "gram_a1_nominal_plural_uud_nuud"
+    ],
+    "grammarReinforced": [
+      "gram_a1_nominal_plural_uud_nuud"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_soft_and_hard_signs"
+    ],
+    "phonologyReviewed": [
+      "phono_non_initial_reduction"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "багш",
+      "дэвтэр",
+      "зураг",
+      "түлхүүр"
+    ],
+    "readingObjective": "Read dialogue lines where characters request or hand over specific personal items.",
+    "listeningObjective": "Discriminate between nominative and accusative forms of palatalized and soft-sign stems.",
+    "writingObjective": "Decline 6 phonologically challenging noun stems in the accusative case.",
+    "spokenProductionObjective": "Request a specific item from a classmate using an accusative direct object phrase.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Polite precision when asking someone to hand over a personal belonging.",
+    "prerequisiteLessonIds": [
+      "les_a1_30_01_accusative_definite_marking"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_29_01_plural_uud_allomorphs"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_29_nominal_plurality_suffixes_"
+    ],
+    "reviewReason": "Compare vowel insertion rules between plural markers and accusative markers.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Acoustic modeling of palatalized consonant releases before front -ийг.",
+    "successCriteria": [
+      "Correctly spell 'багшийг' (inserting short vowel before accusative) and 'зургийг' (syncope of stem vowel).",
+      "Maintain accurate vowel harmony across all declined forms."
+    ],
+    "masteryEvidence": [
+      "Decline 5 irregular/alternating stems with 100% orthographic accuracy.",
+      "Explains why 'түлхүүр' becomes 'түлхүүрийг'."
+    ],
+    "recommendedExerciseModalities": [
+      "orthographic_drill",
+      "cloze_selection",
+      "cued_production"
+    ]
+  },
+  {
+    "lessonId": "les_a1_30_03_transactional_object_requests",
+    "unitId": "unit_a1_30_definite_direct_objects_the_accusat",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 3,
+    "title": "Guided Practice: Choosing and Purchasing Specific Items",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Automate the use of accusative definite direct objects in store purchasing, item selection, and borrowing contexts.",
+    "communicativeOutcome": "Specify exactly which product, book, or document one wishes to purchase or examine.",
+    "objectivesIntroduced": [
+      "obj_a1_30_03_request_specific_items_transactionally"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_30_01_mark_accusative_definite_objects",
+      "obj_a1_30_02_handle_accusative_stem_alternations"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_27_01_count_cardinals_1_to_20"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_case_accusative_definite_object"
+    ],
+    "grammarReviewed": [
+      "gram_a1_numerals_cardinal_1_100"
+    ],
+    "grammarReinforced": [
+      "gram_a1_numerals_cardinal_1_100"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "phonologyReviewed": [
+      "phono_vowel_length_contrast"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "бараа",
+      "үнэ",
+      "дэвтэр",
+      "үзэг",
+      "ном"
+    ],
+    "readingObjective": "Read customer order slips specifying exact catalog items to be fetched.",
+    "listeningObjective": "Comprehend customer requests in retail interactions specifying exact items.",
+    "writingObjective": "Write 4 customer request sentences using demonstratives and accusative objects.",
+    "spokenProductionObjective": "Roleplay a customer asking a shop clerk for a specific item on a high shelf.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Clear and polite consumer requests using polite closing formulas.",
+    "prerequisiteLessonIds": [
+      "les_a1_30_02_accusative_allomorph_rules"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_27_01_cardinal_numerals_1_to_20"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_27_cardinal_numbers_counting_up_to_one"
+    ],
+    "reviewReason": "Combine quantified phrases with definite accusative marking.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic courteous customer request intonation with final polite particle.",
+    "successCriteria": [
+      "Formulate requests like 'Би тэр цэнхэр дэвтрийг авъя' accurately.",
+      "Never omit the accusative marker when pointing to a unique entity."
+    ],
+    "masteryEvidence": [
+      "Fluently completes 4 customer request roleplay prompts.",
+      "Corrects sentences where the accusative suffix was mistakenly omitted."
+    ],
+    "recommendedExerciseModalities": [
+      "dialogue_roleplay",
+      "sentence_completion",
+      "audio_response_matching"
+    ]
+  },
+  {
+    "lessonId": "les_a1_30_04_shopping_catalog_reading",
+    "unitId": "unit_a1_30_definite_direct_objects_the_accusat",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 4,
+    "title": "Reading Workshop: Product Catalogs and Order Slips",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Read commercial product descriptions, catalog feature lists, and customer return forms.",
+    "communicativeOutcome": "Interpret detailed product descriptions and match specific customer orders to catalog items.",
+    "objectivesIntroduced": [
+      "obj_a1_30_04_read_product_catalogs"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_30_01_mark_accusative_definite_objects"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_case_accusative_definite_object"
+    ],
+    "grammarReviewed": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReinforced": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_neutral_vowel_behavior"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "бараа",
+      "хэмжээ",
+      "өнгө",
+      "үнэ",
+      "хүргэлт"
+    ],
+    "readingObjective": "Read a 50-word catalog entry describing stationery and household accessories.",
+    "listeningObjective": null,
+    "writingObjective": "Draft a short 3-item order slip specifying product names, colors, and prices.",
+    "spokenProductionObjective": null,
+    "registerTarget": "Everyday standard commercial",
+    "pragmaticTarget": "Accurate interpretation of consumer specifications.",
+    "prerequisiteLessonIds": [
+      "les_a1_30_03_transactional_object_requests"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_30_01_accusative_definite_marking"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_30_definite_direct_objects_the_accusat"
+    ],
+    "reviewReason": "Consolidate written recognition of accusative markings in commercial texts.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration reading commercial product specifications clearly.",
+    "successCriteria": [
+      "Identify specific product attributes from text without ambiguity.",
+      "Match order slip entries with corresponding product pictures."
+    ],
+    "masteryEvidence": [
+      "Answers 4 reading comprehension questions with 100% accuracy.",
+      "Extracts specific product SKUs and colors from catalog text."
+    ],
+    "recommendedExerciseModalities": [
+      "document_scanning",
+      "item_matching",
+      "order_form_completion"
+    ]
+  },
+  {
+    "lessonId": "les_a1_30_05_accusative_listening_lab",
+    "unitId": "unit_a1_30_definite_direct_objects_the_accusat",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 5,
+    "title": "Acoustic Lab: Detecting Definite Object Endings in Retail Speech",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Train the ear to detect accusative endings in fast conversational store transactions.",
+    "communicativeOutcome": "Immediately recognize whether a shopper is referring to any item or a specific tagged item.",
+    "objectivesIntroduced": [
+      "obj_a1_30_05_detect_accusative_in_retail_speech"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_30_01_mark_accusative_definite_objects"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_case_accusative_definite_object"
+    ],
+    "grammarReviewed": [],
+    "grammarReinforced": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_non_initial_reduction"
+    ],
+    "phonologyReviewed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "ном",
+      "дэвтэр",
+      "үзэг",
+      "цүнх",
+      "авах"
+    ],
+    "readingObjective": null,
+    "listeningObjective": "Listen to 6 customer-clerk retail interactions and mark whether the requested item is definite or indefinite.",
+    "writingObjective": "Transcribe the direct object phrase heard in each audio clip.",
+    "spokenProductionObjective": null,
+    "registerTarget": "Everyday standard colloquial",
+    "pragmaticTarget": "Auditory precision in busy commercial listening environments.",
+    "prerequisiteLessonIds": [
+      "les_a1_30_03_transactional_object_requests"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_30_02_accusative_allomorph_rules"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_30_definite_direct_objects_the_accusat"
+    ],
+    "reviewReason": "Zero-vocabulary auditory lab solidifying accusative suffix recognition.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Realistic shop counter background audio with authentic dialogue pacing.",
+    "successCriteria": [
+      "Distinguish bare noun stems from accusative suffixed stems in 6 out of 6 audio items.",
+      "Identify the exact product selected by the shopper from audio alone."
+    ],
+    "masteryEvidence": [
+      "Transcribes 'тэр номыг' correctly when prompted with spoken customer audio.",
+      "Identifies that the customer wants a specific pen, not any pen."
+    ],
+    "recommendedExerciseModalities": [
+      "binary_choice",
+      "audio_transcription",
+      "item_selection"
+    ]
+  },
+  {
+    "lessonId": "les_a1_30_06_retail_selection_synthesis",
+    "unitId": "unit_a1_30_definite_direct_objects_the_accusat",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 6,
+    "title": "Interactive Synthesis: Retail Purchasing and Item Exchange",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Execute a complete customer-clerk transaction selecting specific items, verifying prices, and concluding the purchase.",
+    "communicativeOutcome": "Conduct a fluid shopping dialogue choosing definite items, inquiring about price, and completing purchase etiquette.",
+    "objectivesIntroduced": [
+      "obj_a1_30_06_conduct_retail_purchasing_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_30_01_mark_accusative_definite_objects",
+      "obj_a1_30_02_handle_accusative_stem_alternations",
+      "obj_a1_30_03_request_specific_items_transactionally"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_27_02_count_decades_up_to_100"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_case_accusative_definite_object"
+    ],
+    "grammarReviewed": [
+      "gram_a1_numerals_cardinal_1_100",
+      "gram_a1_content_questions_be_ve"
+    ],
+    "grammarReinforced": [
+      "gram_a1_numerals_cardinal_1_100"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_vowel_harmony_suffixes"
+    ],
+    "phonologyReviewed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household"
+    ],
+    "previousVocabularyReused": [
+      "бараа",
+      "үнэ",
+      "хэд",
+      "төгрөг",
+      "авах",
+      "өгөх"
+    ],
+    "readingObjective": "Read retail store price tags and item catalog entries.",
+    "listeningObjective": "Comprehend clerk's price statements and offers of specific stock items.",
+    "writingObjective": "Draft a finalized purchase receipt listing 3 items, their case-marked forms, and costs.",
+    "spokenProductionObjective": "Participate in an 8-turn unscripted retail purchasing transaction roleplay.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Courteous transactional negotiation and respectful payment handover etiquette.",
+    "prerequisiteLessonIds": [
+      "les_a1_30_04_shopping_catalog_reading",
+      "les_a1_30_05_accusative_listening_lab"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_30_03_transactional_object_requests"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_30_definite_direct_objects_the_accusat"
+    ],
+    "reviewReason": "Zero-vocabulary interactive synthesis consolidating all Unit 30 accusative skills.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Exemplary retail interaction showcasing authentic customer and clerk turns.",
+    "successCriteria": [
+      "Apply accusative markers accurately on all specific objects mentioned during the transaction.",
+      "Maintain natural conversational cadence without grammatical breakdowns."
+    ],
+    "masteryEvidence": [
+      "Produces 'Би энэ хар цүнхийг авъя' during oral roleplay.",
+      "Successfully completes transaction without omitting case endings."
+    ],
+    "recommendedExerciseModalities": [
+      "dialogue_roleplay",
+      "information_gap",
+      "transaction_simulation"
+    ]
+  },
+  {
+    "lessonId": "les_a1_31_01_container_classifiers",
+    "unitId": "unit_a1_31_measure_words_nominal_counting_clas",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 1,
+    "title": "Liquid and Vessel Measures: Аяга, Шил, and Данх",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce measure words for liquids and vessels (аяга 'cup', шил 'bottle', данх 'kettle', хундага 'glass') in quantified noun phrases.",
+    "communicativeOutcome": "Order and quantify beverages and liquid items using appropriate container measure words (e.g. 'хоёр аяга цай').",
+    "objectivesIntroduced": [
+      "obj_a1_31_01_use_container_measure_words"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a1_27_01_count_cardinals_1_to_20"
+    ],
+    "grammarIntroduced": [
+      "gram_a1_classifiers_measure_words"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_numerals_cardinal_1_100"
+    ],
+    "grammarReinforced": [
+      "gram_a1_numerals_cardinal_1_100"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "phonologyReviewed": [
+      "phono_vowel_harmony_intro"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_food_dining_beverages"
+    ],
+    "previousVocabularyReused": [
+      "цай",
+      "ус",
+      "сүү",
+      "нэг",
+      "хоёр"
+    ],
+    "readingObjective": "Read café drink menus specifying serving volumes in cups and bottles.",
+    "listeningObjective": "Hear the acoustic sequence of [Numeral] + [Classifier] + [Noun] in beverage orders.",
+    "writingObjective": "Write 4 beverage orders combining numerals, container words, and drinks.",
+    "spokenProductionObjective": "Order two drinks aloud using vessel measure words at a simulated café counter.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Natural and polite phrasing when ordering beverages in hospitality settings.",
+    "prerequisiteLessonIds": [
+      "les_a1_30_06_retail_selection_synthesis"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_27_01_cardinal_numerals_1_to_20"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_27_cardinal_numbers_counting_up_to_one"
+    ],
+    "reviewReason": "Insert measure words between cardinal numerals and mass nouns.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Rhythmic stress phrasing of three-word classifier noun phrases.",
+    "successCriteria": [
+      "Place measure word directly after the numeral and before the mass noun (e.g. 'нэг аяга цай').",
+      "Leave the quantified mass noun in bare nominative form."
+    ],
+    "masteryEvidence": [
+      "Produces 'гурван шил ус' when shown three water bottles.",
+      "Explains why *уснууд is ungrammatical and requires a classifier."
+    ],
+    "recommendedExerciseModalities": [
+      "phrase_building",
+      "matching",
+      "cued_production"
+    ]
+  },
+  {
+    "lessonId": "les_a1_31_02_packaging_portion_classifiers",
+    "unitId": "unit_a1_31_measure_words_nominal_counting_clas",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 2,
+    "title": "Packaging and Portions: Хайрцаг, Уут, and Зүсэм",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce packaging and portion classifiers (хайрцаг 'box', уут 'bag', боодол 'packet', зүсэм 'slice', хэсэг 'piece').",
+    "communicativeOutcome": "Quantify packaged foodstuffs, stationery goods, and portions at grocery markets and stores.",
+    "objectivesIntroduced": [
+      "obj_a1_31_02_use_packaging_classifiers"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_31_01_use_container_measure_words"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_30_01_mark_accusative_definite_objects"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_classifiers_measure_words"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_accusative_definite_object"
+    ],
+    "grammarReinforced": [
+      "gram_a1_case_accusative_definite_object"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_non_initial_reduction"
+    ],
+    "phonologyReviewed": [
+      "phono_oe_ue_contrast"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_food_dining_beverages"
+    ],
+    "previousVocabularyReused": [
+      "талх",
+      "чихэр",
+      "цаас",
+      "үзэг"
+    ],
+    "readingObjective": "Read grocery receipt items itemizing packaged quantities.",
+    "listeningObjective": "Comprehend customer requests for bags and boxes in market speech.",
+    "writingObjective": "Write a grocery shopping list containing 4 packaged items with classifiers.",
+    "spokenProductionObjective": "State aloud 3 packaged items one needs to purchase at the market.",
+    "registerTarget": "Everyday standard commercial",
+    "pragmaticTarget": "Clear commercial requests preventing purchase quantity misunderstandings.",
+    "prerequisiteLessonIds": [
+      "les_a1_31_01_container_classifiers"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_30_01_accusative_definite_marking"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_30_definite_direct_objects_the_accusat"
+    ],
+    "reviewReason": "Attach accusative case suffixes to quantified classifier phrases (тэр нэг хайрцаг чихрийг).",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronunciation of velar stops and affricates in packaging nouns (хайрцаг, боодол).",
+    "successCriteria": [
+      "Pair specific items with their culturally standard classifiers (талх -> зүсэм, цай -> хайрцаг).",
+      "Construct complete quantified noun phrases without grammatical errors."
+    ],
+    "masteryEvidence": [
+      "Produces 'Нэг уут алим авъя' during shopping drill.",
+      "Sorts 8 foodstuffs to their standard containers with zero error."
+    ],
+    "recommendedExerciseModalities": [
+      "categorization",
+      "shopping_list_completion",
+      "cued_production"
+    ]
+  },
+  {
+    "lessonId": "les_a1_31_03_ordering_measuring_drills",
+    "unitId": "unit_a1_31_measure_words_nominal_counting_clas",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 3,
+    "title": "Guided Practice: Precision Ordering and Measurement",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Automate combining numerals, classifiers, accusative objects, and polite request verbs in transactions.",
+    "communicativeOutcome": "Place complex retail and canteen orders specifying exact quantities and packaging formats.",
+    "objectivesIntroduced": [
+      "obj_a1_31_03_order_measured_goods"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_31_01_use_container_measure_words",
+      "obj_a1_31_02_use_packaging_classifiers"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_27_03_ask_quantity_hed_heden"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_classifiers_measure_words"
+    ],
+    "grammarReviewed": [
+      "gram_a1_numerals_cardinal_1_100",
+      "gram_a1_content_questions_be_ve"
+    ],
+    "grammarReinforced": [
+      "gram_a1_content_questions_be_ve"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_vowel_harmony_suffixes"
+    ],
+    "phonologyReviewed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_food_dining_beverages"
+    ],
+    "previousVocabularyReused": [
+      "хэдэн",
+      "авах",
+      "өгөх",
+      "үнэ",
+      "төгрөг"
+    ],
+    "readingObjective": "Read canteen order chits detailing multi-item meals and drinks.",
+    "listeningObjective": "Comprehend rapid clerk questions clarifying serving sizes ('Том аяга уу, жижиг аяга уу?').",
+    "writingObjective": "Draft a 4-turn transaction script ordering food and drinks with classifiers.",
+    "spokenProductionObjective": "Roleplay ordering breakfast at a teahouse specifying portions.",
+    "registerTarget": "Everyday standard courteous",
+    "pragmaticTarget": "Polite responsiveness to clerk sizing inquiries.",
+    "prerequisiteLessonIds": [
+      "les_a1_31_02_packaging_portion_classifiers"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_27_03_inquiries_with_hed"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_27_cardinal_numbers_counting_up_to_one"
+    ],
+    "reviewReason": "Combine quantity question 'хэдэн' with classifiers (Хэдэн аяга цай вэ?).",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic conversational rhythm in fast service counters.",
+    "successCriteria": [
+      "Respond accurately to size inquiries (Жижиг аягаар авъя).",
+      "Integrate price inquiries into the order sequence seamlessly."
+    ],
+    "masteryEvidence": [
+      "Executes a 6-turn canteen order without hesitation.",
+      "Calculates total cost based on per-unit classifier pricing."
+    ],
+    "recommendedExerciseModalities": [
+      "dialogue_roleplay",
+      "order_chit_completion",
+      "audio_response_matching"
+    ]
+  },
+  {
+    "lessonId": "les_a1_31_04_canteen_menu_reading",
+    "unitId": "unit_a1_31_measure_words_nominal_counting_clas",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 4,
+    "title": "Reading Workshop: Canteen Price Boards and Recipes",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Read university canteen menu boards, portion prices, and simple traditional recipe ingredient lists.",
+    "communicativeOutcome": "Interpret canteen menus and recipe cards with itemized portion sizes and costs.",
+    "objectivesIntroduced": [
+      "obj_a1_31_04_read_menu_boards_and_recipes"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_31_01_use_container_measure_words"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_classifiers_measure_words"
+    ],
+    "grammarReviewed": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReinforced": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_neutral_vowel_behavior"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_food_dining_beverages"
+    ],
+    "previousVocabularyReused": [
+      "хоол",
+      "цай",
+      "үнэ",
+      "порц",
+      "ширхэг"
+    ],
+    "readingObjective": "Read a 55-word canteen price board with portion sizes and meal combos.",
+    "listeningObjective": null,
+    "writingObjective": "Extract ingredients and portion quantities for a traditional milk tea recipe.",
+    "spokenProductionObjective": null,
+    "registerTarget": "Everyday standard commercial",
+    "pragmaticTarget": "Budget-conscious menu reading and portion evaluation.",
+    "prerequisiteLessonIds": [
+      "les_a1_31_03_ordering_measuring_drills"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_31_01_container_classifiers"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_31_measure_words_nominal_counting_classif"
+    ],
+    "reviewReason": "Consolidate written recognition of measure words in culinary contexts.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration reading menu items and prices clearly.",
+    "successCriteria": [
+      "Locate prices for single portions vs full servings accurately.",
+      "Identify ingredients listed with measure words in recipe instructions."
+    ],
+    "masteryEvidence": [
+      "Selects the most affordable combo meal meeting specified dietary constraints.",
+      "Answers 4 menu comprehension questions with 100% accuracy."
+    ],
+    "recommendedExerciseModalities": [
+      "menu_scanning",
+      "recipe_matching",
+      "table_completion"
+    ]
+  },
+  {
+    "lessonId": "les_a1_31_05_acoustic_classifier_lab",
+    "unitId": "unit_a1_31_measure_words_nominal_counting_clas",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 5,
+    "title": "Acoustic Lab: Parsing Rapid Canteen Orders and Quantities",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Parse rapid verbal orders at bustling university and market food stalls.",
+    "communicativeOutcome": "Accurately record multi-item food and beverage orders from rapid spoken speech.",
+    "objectivesIntroduced": [
+      "obj_a1_31_05_parse_rapid_canteen_orders"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_31_01_use_container_measure_words"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_classifiers_measure_words"
+    ],
+    "grammarReviewed": [],
+    "grammarReinforced": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_non_initial_reduction"
+    ],
+    "phonologyReviewed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_food_dining_beverages"
+    ],
+    "previousVocabularyReused": [
+      "аяга",
+      "шил",
+      "порц",
+      "цай",
+      "хоол"
+    ],
+    "readingObjective": null,
+    "listeningObjective": "Listen to 5 customer orders in a noisy canteen and record item counts and measure words.",
+    "writingObjective": "Transcribe 5 order tickets from audio input into an order fulfillment log.",
+    "spokenProductionObjective": null,
+    "registerTarget": "Everyday standard colloquial",
+    "pragmaticTarget": "Accurate auditory processing under time pressure and background noise.",
+    "prerequisiteLessonIds": [
+      "les_a1_31_03_ordering_measuring_drills"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_31_02_packaging_portion_classifiers"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_31_measure_words_nominal_counting_classif"
+    ],
+    "reviewReason": "Zero-vocabulary listening lab training classifier acoustic discrimination.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic background canteen ambience with overlapping customer voices.",
+    "successCriteria": [
+      "Accurately transcribe all 5 customer orders without quantity or classifier errors.",
+      "Identify customer order modifications from audio ('Нэг аяга биш, хоёр аяга')."
+    ],
+    "masteryEvidence": [
+      "Produces flawless kitchen tickets matching audio recordings.",
+      "Calculates bill total accurately based on heard orders."
+    ],
+    "recommendedExerciseModalities": [
+      "audio_transcription",
+      "order_logging",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_a1_31_06_mid_section_checkpoint",
+    "unitId": "unit_a1_31_measure_words_nominal_counting_clas",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 6,
+    "title": "Milestone Checkpoint: Section 2 Mid-Section Synthesis Audit",
+    "lessonType": "checkpoint",
+    "primaryPurpose": "Formal formative milestone evaluation assessing cumulative mastery of Units 24-31 (existentials, dative-locative, wh-particles, numerals 1-100, phone numbers, plurals, accusative objects, classifiers).",
+    "communicativeOutcome": "Demonstrate integrated communicative competence in locating entities, counting assets, and conducting retail and office transactions.",
+    "objectivesIntroduced": [],
+    "objectivesPracticed": [
+      "obj_a1_24_01_affirm_existence_baina",
+      "obj_a1_25_01_apply_dative_locative_suffixes",
+      "obj_a1_26_01_select_be_ve_particles",
+      "obj_a1_27_01_count_cardinals_1_to_20",
+      "obj_a1_28_01_dictate_paired_phone_numbers",
+      "obj_a1_29_01_form_regular_plurals_uud",
+      "obj_a1_30_01_mark_accusative_definite_objects",
+      "obj_a1_31_01_use_container_measure_words"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_existential_baina_baihgui",
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_content_questions_be_ve",
+      "gram_a1_numerals_cardinal_1_100",
+      "gram_a1_nominal_plural_uud_nuud",
+      "gram_a1_case_accusative_definite_object",
+      "gram_a1_classifiers_measure_words"
+    ],
+    "grammarReviewed": [],
+    "grammarReinforced": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_vowel_harmony_suffixes",
+      "phono_stress_initial_and_full_vowels",
+      "phono_non_initial_reduction"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_10_identifying_objects",
+      "comm_a1_11_counting_simple_quantities",
+      "comm_a1_12_location_simple_objects",
+      "comm_a1_05_asking_identity_origin"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household",
+      "lex_a1_numbers_time_calendar",
+      "lex_a1_food_dining_beverages"
+    ],
+    "previousVocabularyReused": [
+      "байна",
+      "байхгүй",
+      "хаана",
+      "хэд",
+      "ном",
+      "цай",
+      "өрөө"
+    ],
+    "readingObjective": "Read a multi-section civic facility report synthesizing room inventories, occupant contacts, and supply requisitions.",
+    "listeningObjective": "Comprehend a 4-part facility briefing covering resource allocation, phone directories, and office locations.",
+    "writingObjective": "Complete a comprehensive 6-item facility status audit report applying accurate case suffixes and numbers.",
+    "spokenProductionObjective": "Deliver an integrated 60-second oral briefing detailing asset distribution in an office building.",
+    "registerTarget": "Courteous standard professional",
+    "pragmaticTarget": "Holistic communicative autonomy in spatial, numerical, and transaction discourse.",
+    "prerequisiteLessonIds": [
+      "les_a1_31_04_canteen_menu_reading",
+      "les_a1_31_05_acoustic_classifier_lab"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_24_06_household_inventory_dialogue",
+      "les_a1_25_06_campus_orientation_synthesis",
+      "les_a1_26_06_inquiry_dialogue_synthesis",
+      "les_a1_27_06_counting_dialogue_synthesis",
+      "les_a1_28_05_contact_exchange_roleplay",
+      "les_a1_29_06_group_description_synthesis",
+      "les_a1_30_06_retail_selection_synthesis"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_24_existential_assertion_vs_",
+      "unit_a1_25_dative_locative_spatial_anchoring_s",
+      "unit_a1_26_content_question_particles_and_",
+      "unit_a1_27_cardinal_numbers_counting_up_to_one",
+      "unit_a1_28_telephone_numbers_digital_contact_e",
+      "unit_a1_29_nominal_plurality_suffixes_",
+      "unit_a1_30_definite_direct_objects_the_accusat",
+      "unit_a1_31_measure_words_nominal_counting_classif"
+    ],
+    "reviewReason": "Formal milestone evaluation auditing all Section 2 grammatical competencies before proceeding to classroom directives.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Standardized benchmark listening evaluation recordings with native accent diversity.",
+    "successCriteria": [
+      "Demonstrate integrated mastery across all 8 tested grammatical and functional targets.",
+      "Exhibit zero confusion between existential (байна), copular (мөн/биш), and locative (-д/-т) structures."
+    ],
+    "masteryEvidence": [
+      "Successfully completes all 4 performance modalities (reading, listening, writing, oral briefing).",
+      "Produces error-free case morphology on unprompted spoken sentences."
+    ],
+    "recommendedExerciseModalities": [
+      "comprehensive_assessment",
+      "oral_presentation",
+      "dossier_audit"
+    ]
+  },
+  {
+    "lessonId": "les_a1_32_01_teacher_directives_actions",
+    "unitId": "unit_a1_32_classroom_discourse_spatial_instruc",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 1,
+    "title": "Classroom Commands: Сонс, Бич, Унш, and Үз",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce core instructional verbs and teacher directives in bare imperative and courteous hortative forms.",
+    "communicativeOutcome": "Understand and respond immediately to standard classroom teacher instructions.",
+    "objectivesIntroduced": [
+      "obj_a1_32_01_comprehend_teacher_directives"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a1_30_01_mark_accusative_definite_objects"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_case_accusative_definite_object"
+    ],
+    "grammarReviewed": [
+      "gram_a1_sov_word_order"
+    ],
+    "grammarReinforced": [
+      "gram_a1_case_accusative_definite_object"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "phonologyReviewed": [
+      "phono_vowel_length_contrast"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a1_12_location_simple_objects"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_education_classroom"
+    ],
+    "previousVocabularyReused": [
+      "дэвтэр",
+      "ном",
+      "самбар",
+      "үзэг"
+    ],
+    "readingObjective": "Read classroom activity prompts written on blackboard headers.",
+    "listeningObjective": "Comprehend teacher directives in fast instructional speech (e.g. 'Номоо нээгээрэй', 'Самбар луу хараарай').",
+    "writingObjective": "Write down 4 teacher instructions next to corresponding classroom action icons.",
+    "spokenProductionObjective": "Direct a study partner to perform 3 study tasks using instructional verbs.",
+    "registerTarget": "Courteous instructional",
+    "pragmaticTarget": "Immediate respectful compliance with academic instructions.",
+    "prerequisiteLessonIds": [
+      "les_a1_31_06_mid_section_checkpoint"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_30_01_accusative_definite_marking"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_30_definite_direct_objects_the_accusat"
+    ],
+    "reviewReason": "Combine classroom directives with definite accusative objects (Номыг унш).",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Clear teacher voice projection with instructional cadence.",
+    "successCriteria": [
+      "Respond accurately to directives without physical hesitation.",
+      "Identify the target object of the verb from the accusative marker."
+    ],
+    "masteryEvidence": [
+      "Performs the requested action (opens book, writes word, looks at board) upon hearing prompt.",
+      "Explains the difference between 'унш' (read!) and 'уншаарай' (please read)."
+    ],
+    "recommendedExerciseModalities": [
+      "action_response",
+      "icon_matching",
+      "cued_production"
+    ]
+  },
+  {
+    "lessonId": "les_a1_32_02_spatial_movement_directives",
+    "unitId": "unit_a1_32_classroom_discourse_spatial_instruc",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 2,
+    "title": "Classroom Movement: Энд суу, Тэнд оч, Самбар луу хар",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce spatial directional postposition/particles (руу/рүү, дээр, доор) and movement verbs (суу, зогс, оч, ир).",
+    "communicativeOutcome": "Follow and issue spatial movement directives within a classroom or meeting hall.",
+    "objectivesIntroduced": [
+      "obj_a1_32_02_follow_spatial_movement_directives"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_32_01_comprehend_teacher_directives"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_25_01_apply_dative_locative_suffixes"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "grammarReinforced": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_vowel_harmony_intro"
+    ],
+    "phonologyReviewed": [
+      "phono_non_initial_reduction"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_12_location_simple_objects"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_education_classroom"
+    ],
+    "previousVocabularyReused": [
+      "энд",
+      "тэнд",
+      "сандал",
+      "ширээ",
+      "үүд"
+    ],
+    "readingObjective": "Read room seating charts and directional signage inside a lecture hall.",
+    "listeningObjective": "Comprehend rapid spatial commands during group seating activities.",
+    "writingObjective": "Write 4 directional commands guiding a visitor to a specific desk or seat.",
+    "spokenProductionObjective": "Direct a peer where to sit or stand using spatial directional expressions.",
+    "registerTarget": "Courteous instructional",
+    "pragmaticTarget": "Polite spatial guidance in shared physical learning spaces.",
+    "prerequisiteLessonIds": [
+      "les_a1_32_01_teacher_directives_actions"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_25_01_dative_locative_allomorphs"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_25_dative_locative_spatial_anchoring_s"
+    ],
+    "reviewReason": "Differentiate static location (-д/-т суу) from directional motion (руу/рүү хар).",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Intonational clarity in spatial movement directives.",
+    "successCriteria": [
+      "Select 'руу' after back-vowel stems and 'рүү' after front-vowel stems correctly.",
+      "Pair directional particles with appropriate movement verbs."
+    ],
+    "masteryEvidence": [
+      "Moves correctly to designated room areas when given oral instructions.",
+      "Produces 'Энд суугаарай' with natural hospitality."
+    ],
+    "recommendedExerciseModalities": [
+      "map_navigation",
+      "movement_simulation",
+      "sentence_ordering"
+    ]
+  },
+  {
+    "lessonId": "les_a1_32_03_classroom_rules_reading",
+    "unitId": "unit_a1_32_classroom_discourse_spatial_instruc",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 3,
+    "title": "Reading Workshop: Classroom Rules and Exam Protocols",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Read and analyze classroom rules, lab protocols, and examination instructions.",
+    "communicativeOutcome": "Understand student behavioral expectations, quiet zones, and exam room procedures.",
+    "objectivesIntroduced": [
+      "obj_a1_32_03_read_classroom_protocols"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_32_01_comprehend_teacher_directives",
+      "obj_a1_32_02_follow_spatial_movement_directives"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_24_02_negate_existence_baihgui"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReviewed": [
+      "gram_a1_nominal_negation_bish"
+    ],
+    "grammarReinforced": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_neutral_vowel_behavior"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_12_location_simple_objects"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_education_classroom"
+    ],
+    "previousVocabularyReused": [
+      "хичээл",
+      "дүрэм",
+      "утас",
+      "хориотой",
+      "зөвшөөрөгдсөн"
+    ],
+    "readingObjective": "Read a 55-word classroom code of conduct poster.",
+    "listeningObjective": null,
+    "writingObjective": "List 3 permitted and 3 prohibited classroom behaviors based on the reading.",
+    "spokenProductionObjective": null,
+    "registerTarget": "Formal instructional",
+    "pragmaticTarget": "Strict adherence to academic integrity and classroom etiquette.",
+    "prerequisiteLessonIds": [
+      "les_a1_32_02_spatial_movement_directives"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_24_02_existential_negation_baihgui"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_24_existential_assertion_vs_"
+    ],
+    "reviewReason": "Recognize prohibited items using existential negation ('Утас хэрэглэхгүй').",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration reading institutional rules with solemn formal cadence.",
+    "successCriteria": [
+      "Extract 4 core academic rules from printed poster text.",
+      "Identify restrictions regarding mobile phones and food consumption."
+    ],
+    "masteryEvidence": [
+      "Categorizes 6 classroom behaviors into allowed vs disallowed with 100% accuracy.",
+      "Answers 3 protocol comprehension questions correctly."
+    ],
+    "recommendedExerciseModalities": [
+      "document_scanning",
+      "rule_sorting",
+      "true_false"
+    ]
+  },
+  {
+    "lessonId": "les_a1_32_04_listening_teacher_lab",
+    "unitId": "unit_a1_32_classroom_discourse_spatial_instruc",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 4,
+    "title": "Acoustic Lab: Processing Multi-Step Teacher Instructions",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Process multi-step spoken instructional sequences in a live classroom setting without pausing.",
+    "communicativeOutcome": "Execute complex, connected teacher instructions (e.g. 'Дэвтрээ нээгээд, 5-р дасгалыг бичээрэй').",
+    "objectivesIntroduced": [
+      "obj_a1_32_04_process_multi_step_instructions"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_32_01_comprehend_teacher_directives"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_case_accusative_definite_object"
+    ],
+    "grammarReviewed": [],
+    "grammarReinforced": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_non_initial_reduction"
+    ],
+    "phonologyReviewed": [
+      "phono_oe_ue_contrast"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_12_location_simple_objects"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_education_classroom"
+    ],
+    "previousVocabularyReused": [
+      "дэвтэр",
+      "ном",
+      "дасгал",
+      "хуудас",
+      "бичих"
+    ],
+    "readingObjective": null,
+    "listeningObjective": "Listen to 4 multi-step teacher instructions and arrange task sequences in chronological order.",
+    "writingObjective": "Transcribe the key verbs and page numbers heard in the instructions.",
+    "spokenProductionObjective": null,
+    "registerTarget": "Everyday standard instructional",
+    "pragmaticTarget": "Attentive auditory processing in group instructional settings.",
+    "prerequisiteLessonIds": [
+      "les_a1_32_02_spatial_movement_directives"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_32_01_teacher_directives_actions"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_32_classroom_discourse_spatial_instructio"
+    ],
+    "reviewReason": "Zero-vocabulary listening lab training fast auditory processing of verbs.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Natural classroom teacher voice with natural background acoustic reverberation.",
+    "successCriteria": [
+      "Accurately sequence all 4 multi-step instructional chains.",
+      "Extract page numbers and exercise numbers without error."
+    ],
+    "masteryEvidence": [
+      "Selects the correct page and exercise combination based on audio prompt.",
+      "Identifies the chronological order of 3 commanded actions."
+    ],
+    "recommendedExerciseModalities": [
+      "chronological_sequencing",
+      "audio_transcription",
+      "multiple_choice"
+    ]
+  },
+  {
+    "lessonId": "les_a1_32_05_study_session_synthesis",
+    "unitId": "unit_a1_32_classroom_discourse_spatial_instruc",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 5,
+    "title": "Interactive Synthesis: Peer Study Group Coordination",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Coordinate a peer study session directing classmates through exercises, page turns, and whiteboard tasks.",
+    "communicativeOutcome": "Lead and participate in a study group session using polite academic directives and spatial cues.",
+    "objectivesIntroduced": [
+      "obj_a1_32_05_lead_study_group_tasks"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_32_01_comprehend_teacher_directives",
+      "obj_a1_32_02_follow_spatial_movement_directives"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_30_03_request_specific_items_transactionally"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_case_accusative_definite_object"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_content_questions_be_ve"
+    ],
+    "grammarReinforced": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "phonologyReviewed": [
+      "phono_vowel_length_contrast"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_12_location_simple_objects"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_05_asking_identity_origin"
+    ],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_education_classroom"
+    ],
+    "previousVocabularyReused": [
+      "дэвтэр",
+      "ном",
+      "хуудас",
+      "дасгал",
+      "самбар",
+      "үзэх"
+    ],
+    "readingObjective": "Read study group task assignments detailing exercise numbers.",
+    "listeningObjective": "Comprehend study partner's directives regarding which problem to solve.",
+    "writingObjective": "Draft a 4-point study plan using clear instructional verbs.",
+    "spokenProductionObjective": "Facilitate a 6-turn collaborative study group roleplay.",
+    "registerTarget": "Courteous peer educational",
+    "pragmaticTarget": "Supportive peer collaboration and polite task sharing.",
+    "prerequisiteLessonIds": [
+      "les_a1_32_03_classroom_rules_reading",
+      "les_a1_32_04_listening_teacher_lab"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_32_01_teacher_directives_actions"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_32_classroom_discourse_spatial_instructio"
+    ],
+    "reviewReason": "Zero-vocabulary interactive synthesis consolidating all Unit 32 classroom language.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic peer study discussion showcasing collaborative turn-taking.",
+    "successCriteria": [
+      "Use polite hortatives ('-аарай/-ээрэй') when directing peers.",
+      "Execute the collaborative study tasks smoothly without reverting to English."
+    ],
+    "masteryEvidence": [
+      "Directs peer to open book to specific page and read dialogue aloud.",
+      "Maintains accurate accusative and directional case forms throughout interaction."
+    ],
+    "recommendedExerciseModalities": [
+      "dialogue_roleplay",
+      "peer_tutoring",
+      "task_simulation"
+    ]
+  },
+  {
+    "lessonId": "les_a1_33_01_workplace_studio_inventory",
+    "unitId": "unit_a1_33_spatial_inventory_capstone_office_s",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 1,
+    "title": "Workplace Assets: Office and Studio Equipment Lexicon",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce high-frequency workplace, office, and creative studio technology and furnishings.",
+    "communicativeOutcome": "Identify and catalog professional equipment, workstations, and creative tools accurately.",
+    "objectivesIntroduced": [
+      "obj_a1_33_01_identify_office_studio_assets"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a1_24_01_affirm_existence_baina"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReviewed": [
+      "gram_a1_nominal_predicate_zero_copula"
+    ],
+    "grammarReinforced": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "phonologyReviewed": [
+      "phono_vowel_harmony_intro"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a1_10_identifying_objects",
+      "comm_a1_12_location_simple_objects"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household",
+      "lex_a1_professions_workplace"
+    ],
+    "previousVocabularyReused": [
+      "компьютер",
+      "ширээ",
+      "сандал",
+      "цаас",
+      "өрөө"
+    ],
+    "readingObjective": "Read workplace asset tags and studio equipment labels.",
+    "listeningObjective": "Comprehend spoken lists of studio hardware and digital gear.",
+    "writingObjective": "Write an inventory list of 6 office equipment items with their condition.",
+    "spokenProductionObjective": "State aloud the equipment available in an office or recording studio.",
+    "registerTarget": "Courteous standard professional",
+    "pragmaticTarget": "Accurate asset terminology in professional workplaces.",
+    "prerequisiteLessonIds": [
+      "les_a1_32_05_study_session_synthesis"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_24_01_existential_assertion_baina"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_24_existential_assertion_vs_"
+    ],
+    "reviewReason": "Combine newly acquired professional assets with existential assertion frames.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Clear pronunciation of modern technical loanwords in Mongolian speech.",
+    "successCriteria": [
+      "Identify 6 modern office technologies in Cyrillic script.",
+      "Assert presence or absence using 'байна/байхгүй' accurately."
+    ],
+    "masteryEvidence": [
+      "Produces 'Принтер өрөөнд байна' upon seeing an image of a printer.",
+      "Sorts 10 asset terms into office vs studio categories."
+    ],
+    "recommendedExerciseModalities": [
+      "image_labeling",
+      "matching",
+      "cued_production"
+    ]
+  },
+  {
+    "lessonId": "les_a1_33_02_spatial_layout_organization",
+    "unitId": "unit_a1_33_spatial_inventory_capstone_office_s",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 2,
+    "title": "Facility Layout: Spatial Anchoring of Workplace Equipment",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce complex spatial arrangements, zone divisions, and furniture placement in open-plan offices.",
+    "communicativeOutcome": "Explain the exact layout of workstations, meeting rooms, and shared amenities.",
+    "objectivesIntroduced": [
+      "obj_a1_33_02_describe_workplace_layout"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_33_01_identify_office_studio_assets"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_25_01_apply_dative_locative_suffixes"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "grammarReviewed": [
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "grammarReinforced": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_non_initial_reduction"
+    ],
+    "phonologyReviewed": [
+      "phono_oe_ue_contrast"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_12_location_simple_objects"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household",
+      "lex_a1_professions_workplace"
+    ],
+    "previousVocabularyReused": [
+      "давхар",
+      "өрөө",
+      "үүд",
+      "булан",
+      "төв"
+    ],
+    "readingObjective": "Read an architectural floor plan legend and workspace zone map.",
+    "listeningObjective": "Comprehend verbal workplace orientation instructions for new employees.",
+    "writingObjective": "Write a 4-sentence paragraph describing the layout of an office floor.",
+    "spokenProductionObjective": "Describe the location of 3 essential workplace amenities to a new colleague.",
+    "registerTarget": "Courteous standard professional",
+    "pragmaticTarget": "Clear spatial orientation facilitating workplace onboarding.",
+    "prerequisiteLessonIds": [
+      "les_a1_33_01_workplace_studio_inventory"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_25_02_locating_people_places"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_25_dative_locative_spatial_anchoring_s"
+    ],
+    "reviewReason": "Combine workplace equipment with multi-room dative-locative constructions.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Structured descriptive cadence modeling architectural orientation tours.",
+    "successCriteria": [
+      "Use dative-locative endings (-д/-т) accurately with architectural room zones.",
+      "Describe relative positioning clearly using spatial anchor nouns."
+    ],
+    "masteryEvidence": [
+      "Produces 'Уулзалтын өрөө гуравдугаар давхарт байна' flawlessly.",
+      "Draws correct equipment placement onto a blank floor plan from verbal description."
+    ],
+    "recommendedExerciseModalities": [
+      "floor_plan_labeling",
+      "sentence_construction",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a1_33_03_facility_audit_reading",
+    "unitId": "unit_a1_33_spatial_inventory_capstone_office_s",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 3,
+    "title": "Reading Workshop: Master Facility Audit and Asset Register",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Read and cross-examine a comprehensive multi-room office facility audit, asset tags, and procurement orders.",
+    "communicativeOutcome": "Extract complex asset data, detect missing equipment, and verify inventory counts across departments.",
+    "objectivesIntroduced": [
+      "obj_a1_33_03_read_facility_audit_dossiers"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_33_01_identify_office_studio_assets",
+      "obj_a1_33_02_describe_workplace_layout"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_27_04_read_inventory_sheets"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_case_accusative_definite_object"
+    ],
+    "grammarReviewed": [
+      "gram_a1_numerals_cardinal_1_100",
+      "gram_a1_nominal_plural_uud_nuud"
+    ],
+    "grammarReinforced": [
+      "gram_a1_numerals_cardinal_1_100"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_neutral_vowel_behavior"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household",
+      "lex_a1_professions_workplace"
+    ],
+    "previousVocabularyReused": [
+      "бараа",
+      "тоо",
+      "хэрэгсэл",
+      "нийт",
+      "хянасан"
+    ],
+    "readingObjective": "Read a 70-word comprehensive facility audit table detailing office furnishings, quantities, and locations.",
+    "listeningObjective": null,
+    "writingObjective": "Draft a formal asset reconciliation memorandum summarizing 4 verified inventory findings.",
+    "spokenProductionObjective": null,
+    "registerTarget": "Courteous standard professional",
+    "pragmaticTarget": "Rigorous verification and professional documentation in business administration.",
+    "prerequisiteLessonIds": [
+      "les_a1_33_02_spatial_layout_organization"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_27_04_inventory_sheet_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_27_cardinal_numbers_counting_up_to_one"
+    ],
+    "reviewReason": "Combine multi-digit numbers with complex office asset nomenclature in reading.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Narration reading professional audit reports with formal executive cadence.",
+    "successCriteria": [
+      "Identify missing equipment items from the comparative audit table.",
+      "Calculate total asset counts across 3 separate department wings accurately."
+    ],
+    "masteryEvidence": [
+      "Answers 5 complex factual audit questions with 100% accuracy.",
+      "Drafts written memo with zero grammatical errors in case or number marking."
+    ],
+    "recommendedExerciseModalities": [
+      "document_scanning",
+      "audit_reconciliation",
+      "memorandum_drafting"
+    ]
+  },
+  {
+    "lessonId": "les_a1_33_04_relocation_logistics_listening",
+    "unitId": "unit_a1_33_spatial_inventory_capstone_office_s",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 4,
+    "title": "Acoustic Lab: Equipment Relocation Directives and Logistics",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Parse rapid verbal logistics directives regarding the movement, installation, and storage of workplace assets.",
+    "communicativeOutcome": "Accurately decipher relocation instructions specifying which item goes to which room and floor.",
+    "objectivesIntroduced": [
+      "obj_a1_33_04_parse_relocation_directives"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_33_01_identify_office_studio_assets"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_30_05_detect_accusative_in_retail_speech"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_case_accusative_definite_object"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "grammarReinforced": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_non_initial_reduction"
+    ],
+    "phonologyReviewed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_12_location_simple_objects"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household",
+      "lex_a1_professions_workplace"
+    ],
+    "previousVocabularyReused": [
+      "зөөх",
+      "тавих",
+      "өрөө",
+      "давхар",
+      "ширээ"
+    ],
+    "readingObjective": null,
+    "listeningObjective": "Listen to 4 verbal relocation directives and map each asset to its new room destination.",
+    "writingObjective": "Transcribe the asset names, source rooms, and destination rooms into a moving log.",
+    "spokenProductionObjective": null,
+    "registerTarget": "Everyday standard workplace",
+    "pragmaticTarget": "Executing logistical transfers accurately without physical misplacement.",
+    "prerequisiteLessonIds": [
+      "les_a1_33_02_spatial_layout_organization"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_30_05_accusative_listening_lab"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_30_definite_direct_objects_the_accusat"
+    ],
+    "reviewReason": "Hear definite accusative marking combined with dative-locative destinations (Энэ ширээг 302 тоотод тавь).",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Realistic busy workplace logistics audio with natural conversational urgency.",
+    "successCriteria": [
+      "Map 4 out of 4 moved items to their correct target rooms from audio alone.",
+      "Distinguish between source location and destination location accurately."
+    ],
+    "masteryEvidence": [
+      "Completes relocation logistics matrix with zero errors.",
+      "Accurately transcribes heard case markers on audio moving directives."
+    ],
+    "recommendedExerciseModalities": [
+      "audio_mapping",
+      "logistics_table_completion",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a1_33_05_office_planning_simulation",
+    "unitId": "unit_a1_33_spatial_inventory_capstone_office_s",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 5,
+    "title": "Interactive Synthesis: Collaborative Office Layout Planning",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Collaborate with a colleague to design and furnish a new office studio from an empty blueprint.",
+    "communicativeOutcome": "Negotiate furniture choices, determine room placements, and calculate asset budgets collaboratively.",
+    "objectivesIntroduced": [
+      "obj_a1_33_05_negotiate_office_layout"
+    ],
+    "objectivesPracticed": [
+      "obj_a1_33_01_identify_office_studio_assets",
+      "obj_a1_33_02_describe_workplace_layout"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_27_06_conduct_stocktake_dialogue"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_case_accusative_definite_object"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_existential_baina_baihgui",
+      "gram_a1_numerals_cardinal_1_100"
+    ],
+    "grammarReinforced": [
+      "gram_a1_numerals_cardinal_1_100"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_vowel_harmony_suffixes"
+    ],
+    "phonologyReviewed": [
+      "phono_stress_initial_and_full_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_10_identifying_objects",
+      "comm_a1_12_location_simple_objects"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_11_counting_simple_quantities"
+    ],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household",
+      "lex_a1_professions_workplace"
+    ],
+    "previousVocabularyReused": [
+      "ширээ",
+      "сандал",
+      "компьютер",
+      "үнэ",
+      "хэд",
+      "энд",
+      "тэнд"
+    ],
+    "readingObjective": "Read space dimensions and furniture budget constraint sheets.",
+    "listeningObjective": "Comprehend partner proposals regarding equipment placement.",
+    "writingObjective": "Produce a finalized 5-item layout proposal listing equipment, locations, and costs.",
+    "spokenProductionObjective": "Execute an 8-turn negotiation planning the optimal arrangement of an office floor.",
+    "registerTarget": "Courteous standard professional",
+    "pragmaticTarget": "Diplomatic suggestions and constructive compromise during collaborative planning.",
+    "prerequisiteLessonIds": [
+      "les_a1_33_03_facility_audit_reading",
+      "les_a1_33_04_relocation_logistics_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_33_02_spatial_layout_organization"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_33_spatial_inventory_capstone_office_stu"
+    ],
+    "reviewReason": "Zero-vocabulary interactive preparation for Section 2 Capstone Evaluation.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Exemplary professional negotiation showcasing natural proposal formulas.",
+    "successCriteria": [
+      "Propose equipment placements using dative-locative and directional cases fluently.",
+      "Reach complete agreement on the layout within the allocated budget."
+    ],
+    "masteryEvidence": [
+      "Completes interactive roleplay maintaining professional register throughout.",
+      "Produces a finalized blueprint plan reflecting both partners' negotiated inputs."
+    ],
+    "recommendedExerciseModalities": [
+      "dialogue_roleplay",
+      "collaborative_design",
+      "budget_reconciliation"
+    ]
+  },
+  {
+    "lessonId": "les_a1_33_06_section_02_capstone_checkpoint",
+    "unitId": "unit_a1_33_spatial_inventory_capstone_office_s",
+    "cefrLevel": "A1",
+    "sequenceWithinUnit": 6,
+    "title": "Section 2 Capstone: Comprehensive Spatial and Inventory Benchmark Evaluation",
+    "lessonType": "checkpoint",
+    "primaryPurpose": "Authoritative summative milestone assessment evaluating all Section 2 competencies across Units 24 through 33.",
+    "communicativeOutcome": "Demonstrate complete autonomous proficiency in describing space, existential states, counting to 100, executing retail/canteen transactions, following directives, and managing workplace assets.",
+    "objectivesIntroduced": [],
+    "objectivesPracticed": [
+      "obj_a1_24_01_affirm_existence_baina",
+      "obj_a1_25_01_apply_dative_locative_suffixes",
+      "obj_a1_26_01_select_be_ve_particles",
+      "obj_a1_27_01_count_cardinals_1_to_20",
+      "obj_a1_28_01_dictate_paired_phone_numbers",
+      "obj_a1_29_01_form_regular_plurals_uud",
+      "obj_a1_30_01_mark_accusative_definite_objects",
+      "obj_a1_31_01_use_container_measure_words",
+      "obj_a1_32_01_comprehend_teacher_directives",
+      "obj_a1_33_01_identify_office_studio_assets"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a1_existential_baina_baihgui",
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_content_questions_be_ve",
+      "gram_a1_numerals_cardinal_1_100",
+      "gram_a1_nominal_plural_uud_nuud",
+      "gram_a1_case_accusative_definite_object",
+      "gram_a1_classifiers_measure_words"
+    ],
+    "grammarReviewed": [],
+    "grammarReinforced": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_vowel_harmony_suffixes",
+      "phono_stress_initial_and_full_vowels",
+      "phono_non_initial_reduction",
+      "phono_soft_and_hard_signs"
+    ],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_10_identifying_objects",
+      "comm_a1_11_counting_simple_quantities",
+      "comm_a1_12_location_simple_objects",
+      "comm_a1_05_asking_identity_origin"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_a1_housing_ger_household",
+      "lex_a1_numbers_time_calendar",
+      "lex_a1_professions_workplace"
+    ],
+    "previousVocabularyReused": [
+      "байна",
+      "байхгүй",
+      "хаана",
+      "хэд",
+      "ном",
+      "өрөө",
+      "давхар"
+    ],
+    "readingObjective": "Read a comprehensive 80-word workplace relocation and asset audit report.",
+    "listeningObjective": "Comprehend a multi-speaker workplace orientation and inventory reconciliation briefing.",
+    "writingObjective": "Compose an integrated 8-sentence facility audit certifying asset status, contact details, and locations.",
+    "spokenProductionObjective": "Deliver a formal 2-minute oral presentation presenting a complete workplace layout audit.",
+    "registerTarget": "Courteous standard professional",
+    "pragmaticTarget": "Complete communicative self-sufficiency across all Section 2 domains.",
+    "prerequisiteLessonIds": [
+      "les_a1_33_03_facility_audit_reading",
+      "les_a1_33_05_office_planning_simulation"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_31_06_mid_section_checkpoint",
+      "les_a1_32_05_study_session_synthesis",
+      "les_a1_33_02_spatial_layout_organization"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_24_existential_assertion_vs_",
+      "unit_a1_25_dative_locative_spatial_anchoring_s",
+      "unit_a1_26_content_question_particles_and_",
+      "unit_a1_27_cardinal_numbers_counting_up_to_one",
+      "unit_a1_28_telephone_numbers_digital_contact_e",
+      "unit_a1_29_nominal_plurality_suffixes_",
+      "unit_a1_30_definite_direct_objects_the_accusat",
+      "unit_a1_31_measure_words_nominal_counting_classif",
+      "unit_a1_32_classroom_discourse_spatial_instructio",
+      "unit_a1_33_spatial_inventory_capstone_office_stu"
+    ],
+    "reviewReason": "Formal milestone capstone evaluation certifying Section 2 mastery before advancing to Section 3 temporality.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Standardized benchmark assessment recordings with high-fidelity studio acoustic standards.",
+    "successCriteria": [
+      "Achieve verified mastery across all Section 2 linguistic and communicative benchmarks.",
+      "Exhibit accurate case marking (dative-locative, accusative), number concordance, and question formation."
+    ],
+    "masteryEvidence": [
+      "Completes all four multi-skill assessment sections without pedagogical deficiencies.",
+      "Produces spontaneous, fluent oral responses to unscripted administrative inquiries."
+    ],
+    "recommendedExerciseModalities": [
+      "comprehensive_assessment",
+      "capstone_presentation",
+      "portfolio_evaluation"
+    ]
+  }
+]

@@ -1,0 +1,3962 @@
+[
+  {
+    "unitId": "unit_b2_156_democratic_governance_parliamentary",
+    "sectionId": "sec_b2_01_public_policy_civil_society_media",
+    "cefrLevel": "B2",
+    "sequencePosition": 156,
+    "title": "Democratic Governance & Parliamentary Architecture",
+    "communicativeTheme": "Analyzing the State Great Khural (УИХ) and electoral systems",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_information_structure_topic_bol_harin) to fulfill communicative functions in: Democratic Governance & Parliamentary Architecture.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_information_structure_topic_bol_harin"
+    ],
+    "grammarReinforced": [
+      "gram_a1_sov_word_order",
+      "gram_a1_noun_plural_markers",
+      "gram_a2_reflexive_case_combinations",
+      "gram_b1_converb_abnutative_lgui"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_06_evaluating_public_policies",
+      "comm_b2_14_discourse_topic_framing"
+    ],
+    "lexicalDomains": [
+      "lex_b2_governance_democracy_civil_society"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "State Great Khural legislative debates and parliamentary white papers",
+      "textLengthWords": "280-360 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Live parliamentary interpellation session and press conference questioning",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_required",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Legislative commentary and constitutional critique on electoral reform",
+      "targetLength": "250-320 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Analyzing the State Great Khural (УИХ) and electoral systems.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Democratic Governance & Parliamentary Architecture",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while analyzing the state great khural (уих) and electoral systems."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b1_155_threshold_independence_capstone_cul"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b1_155_threshold_independence_capstone_cul"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Analyzing the State Great Khural (УИХ) and electoral systems.",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_157_civil_society_advocacy_protests_pub",
+    "sectionId": "sec_b2_01_public_policy_civil_society_media",
+    "cefrLevel": "B2",
+    "sequencePosition": 157,
+    "title": "Civil Society Advocacy, Protests & Public Accountability",
+    "communicativeTheme": "Discussing citizen rights, peaceful demonstrations, and petitions",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_information_structure_exclusive_focus_l) to fulfill communicative functions in: Civil Society Advocacy, Protests & Public Accountability.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_information_structure_exclusive_focus_l"
+    ],
+    "grammarReinforced": [
+      "gram_a1_pronouns_personal_nominative",
+      "gram_a1_nominal_predicate_zero_copula",
+      "gram_a1_verb_tense_past_perfective_san",
+      "gram_a2_possessive_third_person_enclitic_ni",
+      "gram_b1_epistemic_probability_bololtoi_magadgui",
+      "gram_b2_information_structure_topic_bol_harin"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_04_analyzing_social_trends"
+    ],
+    "lexicalDomains": [
+      "lex_b2_governance_democracy_civil_society"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "320-420 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Civil society advocacy speech and town hall public hearing testimonies",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Public advocacy petition and stakeholder policy position paper",
+      "targetLength": "280-380 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Discussing citizen rights, peaceful demonstrations, and petitions.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Civil Society Advocacy, Protests & Public Accountability",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while discussing citizen rights, peaceful demonstrations, and petitions."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_156_democratic_governance_parliamentary"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b1_155_threshold_independence_capstone_cul"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Discussing citizen rights, peaceful demonstrations, and petitions.",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_158_converb_chaining_in_complex_discour",
+    "sectionId": "sec_b2_01_public_policy_civil_society_media",
+    "cefrLevel": "B2",
+    "sequencePosition": 158,
+    "title": "Converb Chaining in Complex Discourse Syntax",
+    "communicativeTheme": "Connecting 3 or more converbial clauses without structural collapse",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_converb_chaining_discourse) to fulfill communicative functions in: Converb Chaining in Complex Discourse Syntax.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_converb_chaining_discourse"
+    ],
+    "grammarReinforced": [
+      "gram_a1_case_accusative_definite",
+      "gram_a1_converb_coordinating_j_ch",
+      "gram_a1_converb_sequential_aad",
+      "gram_b2_information_structure_exclusive_focus_l"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_12_expository_causal_chains"
+    ],
+    "lexicalDomains": [
+      "lex_b2_governance_democracy_civil_society"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "280-360 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "250-320 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Connecting 3 or more converbial clauses without structural collapse.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Converb Chaining in Complex Discourse Syntax",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while connecting 3 or more converbial clauses without structural collapse."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_157_civil_society_advocacy_protests_pub",
+      "unit_a1_37_verbal_dictionary_infinitive_suffix",
+      "unit_a1_42_coordinating_converb_clause_linking"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b1_131_abnutative_converb_suffix_",
+      "unit_b2_156_democratic_governance_parliamentary"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Connecting 3 or more converbial clauses without structural collapse.",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_159_switch_reference_constraints_in_dis",
+    "sectionId": "sec_b2_01_public_policy_civil_society_media",
+    "cefrLevel": "B2",
+    "sequencePosition": 159,
+    "title": "Switch-Reference Constraints in Discourse Chaining",
+    "communicativeTheme": "Tracking subject shifts across converbs (-ж, -аад vs -вал, -хад)",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_converb_chaining_switch_reference) to fulfill communicative functions in: Switch-Reference Constraints in Discourse Chaining.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_converb_chaining_switch_reference"
+    ],
+    "grammarReinforced": [
+      "gram_a1_case_nominative_unmarked",
+      "gram_a2_converb_conditional_val",
+      "gram_b2_information_structure_topic_bol_harin",
+      "gram_b2_converb_chaining_discourse"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_12_expository_causal_chains"
+    ],
+    "lexicalDomains": [
+      "lex_b2_governance_democracy_civil_society"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "320-420 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "mongolian_voice_required",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "280-380 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Tracking subject shifts across converbs (-ж, -аад vs -вал, -хад).",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Switch-Reference Constraints in Discourse Chaining",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while tracking subject shifts across converbs (-ж, -аад vs -вал, -хад)."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_158_converb_chaining_in_complex_discour",
+      "unit_a1_37_verbal_dictionary_infinitive_suffix",
+      "unit_a1_42_coordinating_converb_clause_linking"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_157_civil_society_advocacy_protests_pub",
+      "unit_b2_156_democratic_governance_parliamentary"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Tracking subject shifts across converbs (-ж, -аад vs -вал, -хад).",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_160_rhetorical_connectors_macro_discour",
+    "sectionId": "sec_b2_01_public_policy_civil_society_media",
+    "cefrLevel": "B2",
+    "sequencePosition": 160,
+    "title": "Rhetorical Connectors & Macro-Discourse Framing",
+    "communicativeTheme": "Employing 'Нэгдүгээрт...', 'Нөгөөтээгүүр...', 'Эцэст нь тэмдэглэхэд...'",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_discourse_connectors_rhetorical) to fulfill communicative functions in: Rhetorical Connectors & Macro-Discourse Framing.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_discourse_connectors_rhetorical"
+    ],
+    "grammarReinforced": [
+      "gram_a1_pronouns_demonstrative_ene_ter",
+      "gram_a1_nominal_negation_bish",
+      "gram_a2_numerals_collective_approximate",
+      "gram_b2_information_structure_exclusive_focus_l",
+      "gram_b2_converb_chaining_switch_reference"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_01_participating_formal_debates"
+    ],
+    "lexicalDomains": [
+      "lex_b2_governance_democracy_civil_society"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "280-360 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "250-320 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Employing 'Нэгдүгээрт...', 'Нөгөөтээгүүр...', 'Эцэст нь тэмдэглэхэд...'.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Rhetorical Connectors & Macro-Discourse Framing",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while employing 'нэгдүгээрт...', 'нөгөөтээгүүр...', 'эцэст нь тэмдэглэхэд...'."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_159_switch_reference_constraints_in_dis"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_158_converb_chaining_in_complex_discour",
+      "unit_b2_156_democratic_governance_parliamentary"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Employing 'Нэгдүгээрт...', 'Нөгөөтээгүүр...', 'Эцэст нь тэмдэглэхэд...'.",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_161_causal_consequence_in_institutional",
+    "sectionId": "sec_b2_01_public_policy_civil_society_media",
+    "cefrLevel": "B2",
+    "sequencePosition": 161,
+    "title": "Causal Consequence in Institutional Prose: Үүднээс vs Улмаас",
+    "communicativeTheme": "Formulating systemic consequences in public policy analysis",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_discourse_causal_consequence_uuden_ulmaar) to fulfill communicative functions in: Causal Consequence in Institutional Prose: Үүднээс vs Улмаас.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_discourse_causal_consequence_uuden_ulmaar"
+    ],
+    "grammarReinforced": [
+      "gram_a1_case_genitive_possession",
+      "gram_b2_converb_chaining_discourse",
+      "gram_b2_discourse_connectors_rhetorical"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_12_expository_causal_chains"
+    ],
+    "lexicalDomains": [
+      "lex_b2_governance_democracy_civil_society"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Contemporary Mongolian short stories and critical literary reviews",
+      "textLengthWords": "320-420 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "280-380 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Formulating systemic consequences in public policy analysis.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Causal Consequence in Institutional Prose: Үүднээс vs Улмаас",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while formulating systemic consequences in public policy analysis."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_160_rhetorical_connectors_macro_discour"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_159_switch_reference_constraints_in_dis",
+      "unit_b2_156_democratic_governance_parliamentary"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Formulating systemic consequences in public policy analysis.",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_162_pragmatic_emphatic_nuance_particles",
+    "sectionId": "sec_b2_01_public_policy_civil_society_media",
+    "cefrLevel": "B2",
+    "sequencePosition": 162,
+    "title": "Pragmatic Emphatic Nuance Particles: Даа, Шүү, Ч",
+    "communicativeTheme": "Expressing subtle conversational urgency, certitude, or warning",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_particles_emphatic_nuance) to fulfill communicative functions in: Pragmatic Emphatic Nuance Particles: Даа, Шүү, Ч.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_particles_emphatic_nuance"
+    ],
+    "grammarReinforced": [
+      "gram_a1_verb_aspect_progressive_j_baina",
+      "gram_b1_noun_derivation_abstract_dal_laga",
+      "gram_b1_nominalization_participles_cases",
+      "gram_b2_information_structure_topic_bol_harin",
+      "gram_b2_converb_chaining_switch_reference",
+      "gram_b2_discourse_causal_consequence_uuden_ulmaar"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_15_employing_emphatic_nuance"
+    ],
+    "lexicalDomains": [
+      "lex_b2_governance_democracy_civil_society"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "280-360 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "mongolian_voice_required",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "250-320 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Expressing subtle conversational urgency, certitude, or warning.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Pragmatic Emphatic Nuance Particles: Даа, Шүү, Ч",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while expressing subtle conversational urgency, certitude, or warning."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_161_causal_consequence_in_institutional"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_160_rhetorical_connectors_macro_discour",
+      "unit_b2_156_democratic_governance_parliamentary"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Expressing subtle conversational urgency, certitude, or warning.",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_163_formal_oxford_style_debate_cross_ex",
+    "sectionId": "sec_b2_01_public_policy_civil_society_media",
+    "cefrLevel": "B2",
+    "sequencePosition": 163,
+    "title": "Formal Oxford-Style Debate & Cross-Examination",
+    "communicativeTheme": "Delivering timed debate speeches and structured rebuttals",
+    "primaryLearningPurpose": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Formal Oxford-Style Debate & Cross-Examination.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a1_polar_questions_uu_uu",
+      "gram_a1_content_questions_be_ve",
+      "gram_b1_verb_derivation_denominal_lakh",
+      "gram_b1_subordinate_subject_marking_genitive",
+      "gram_b2_information_structure_exclusive_focus_l",
+      "gram_b2_discourse_connectors_rhetorical",
+      "gram_b2_particles_emphatic_nuance"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_01_participating_formal_debates"
+    ],
+    "lexicalDomains": [
+      "lex_b2_governance_democracy_civil_society"
+    ],
+    "estimatedNewCoreLemmas": 45,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 36,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "320-420 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "280-380 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Delivering timed debate speeches and structured rebuttals.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Formal Oxford-Style Debate & Cross-Examination",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while delivering timed debate speeches and structured rebuttals."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_162_pragmatic_emphatic_nuance_particles"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_161_causal_consequence_in_institutional",
+      "unit_b2_156_democratic_governance_parliamentary"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Delivering timed debate speeches and structured rebuttals.",
+    "newProductiveCoreLemmas": 24,
+    "newReceptiveCoreLemmas": 21,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_164_drafting_official_press_releases_ci",
+    "sectionId": "sec_b2_01_public_policy_civil_society_media",
+    "cefrLevel": "B2",
+    "sequencePosition": 164,
+    "title": "Drafting Official Press Releases & Civic Statements",
+    "communicativeTheme": "Composing media releases on civic initiatives adhering to style",
+    "primaryLearningPurpose": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Drafting Official Press Releases & Civic Statements.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a1_case_dative_locative_recipient",
+      "gram_a2_converb_temporal_while_khad",
+      "gram_b1_clause_purposive_tuld_tuloo",
+      "gram_b2_converb_chaining_discourse",
+      "gram_b2_discourse_causal_consequence_uuden_ulmaar"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_10_drafting_press_releases"
+    ],
+    "lexicalDomains": [
+      "lex_b2_governance_democracy_civil_society"
+    ],
+    "estimatedNewCoreLemmas": 45,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 36,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "280-360 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "250-320 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Composing media releases on civic initiatives adhering to style.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Drafting Official Press Releases & Civic Statements",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while composing media releases on civic initiatives adhering to style."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_163_formal_oxford_style_debate_cross_ex"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_162_pragmatic_emphatic_nuance_particles",
+      "unit_b2_156_democratic_governance_parliamentary"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Composing media releases on civic initiatives adhering to style.",
+    "newProductiveCoreLemmas": 24,
+    "newReceptiveCoreLemmas": 21,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_165_moderating_multi_speaker_panel_disc",
+    "sectionId": "sec_b2_01_public_policy_civil_society_media",
+    "cefrLevel": "B2",
+    "sequencePosition": 165,
+    "title": "Moderating Multi-Speaker Panel Discussions",
+    "communicativeTheme": "Guiding panel conversations, summarizing key points, managing Q&A",
+    "primaryLearningPurpose": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Moderating Multi-Speaker Panel Discussions.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a1_case_comitative_accompaniment",
+      "gram_a1_case_comitative_possession_predicates",
+      "gram_b1_voice_causative_uul_lga",
+      "gram_b1_participle_agentive_gch",
+      "gram_b2_converb_chaining_switch_reference",
+      "gram_b2_particles_emphatic_nuance"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_09_moderating_group_discussions"
+    ],
+    "lexicalDomains": [
+      "lex_b2_governance_democracy_civil_society"
+    ],
+    "estimatedNewCoreLemmas": 45,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 36,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "320-420 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "mongolian_voice_required",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "280-380 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Guiding panel conversations, summarizing key points, managing Q&A.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Moderating Multi-Speaker Panel Discussions",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while guiding panel conversations, summarizing key points, managing q&a."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_164_drafting_official_press_releases_ci"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_163_formal_oxford_style_debate_cross_ex",
+      "unit_b2_156_democratic_governance_parliamentary"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Guiding panel conversations, summarizing key points, managing Q&A.",
+    "newProductiveCoreLemmas": 24,
+    "newReceptiveCoreLemmas": 21,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_166_public_policy_capstone_municipal_ur",
+    "sectionId": "sec_b2_01_public_policy_civil_society_media",
+    "cefrLevel": "B2",
+    "sequencePosition": 166,
+    "title": "Public Policy Capstone: Municipal Urban Planning Brief",
+    "communicativeTheme": "Synthesizing governance, debate, and press release in a policy proposal",
+    "primaryLearningPurpose": "Consolidate, integrate, and demonstrate communicative mastery of Public Policy Capstone: Municipal Urban Planning Brief through simulated holistic tasks.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_verb_tense_future_prospective_na",
+      "gram_a2_modal_obligation_heregtei_yostoi",
+      "gram_b1_voice_causative_argument_structure",
+      "gram_b1_postpositions_similative_shig_adil_met",
+      "gram_b2_discourse_connectors_rhetorical"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_06_evaluating_public_policies",
+      "comm_b2_11_summarizing_complex_articles"
+    ],
+    "lexicalDomains": [
+      "lex_b2_governance_democracy_civil_society"
+    ],
+    "estimatedNewCoreLemmas": 53,
+    "estimatedNewMultiwordExpressions": 18,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 43,
+      "generalPurposeLemmas": 10,
+      "multiwordExpressions": 18
+    },
+    "readingTarget": {
+      "genre": "Analytical research report: comparative analysis of modern nomadic heritage vs urbanization",
+      "textLengthWords": "380-450 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Roundtable public affairs debate on sustainable energy transitions in the Gobi",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Analytical research brief evaluating mining revenue distribution models and sovereign wealth funds",
+      "targetLength": "350-450 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Synthesizing governance, debate, and press release in a policy proposal.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Public Policy Capstone: Municipal Urban Planning Brief",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while synthesizing governance, debate, and press release in a policy proposal."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_165_moderating_multi_speaker_panel_disc"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_164_drafting_official_press_releases_ci",
+      "unit_b2_156_democratic_governance_parliamentary"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Synthesizing governance, debate, and press release in a policy proposal.",
+    "newProductiveCoreLemmas": 28,
+    "newReceptiveCoreLemmas": 25,
+    "newProductiveExpressions": 11,
+    "newReceptiveExpressions": 7
+  },
+  {
+    "unitId": "unit_b2_167_the_meteorology_of_dzud_frost_ice_s",
+    "sectionId": "sec_b2_02_ecology_climate_zud_sustainability",
+    "cefrLevel": "B2",
+    "sequencePosition": 167,
+    "title": "The Meteorology of Dzud: Frost, Ice & Starvation",
+    "communicativeTheme": "Dissecting the winter disaster types: цагаан, төмөр, хар зуд",
+    "primaryLearningPurpose": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: The Meteorology of Dzud: Frost, Ice & Starvation.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a1_existential_baina_baihgui",
+      "gram_a1_numerals_cardinal_counting",
+      "gram_a1_case_dative_locative_temporal",
+      "gram_a1_verb_tense_past_witnessed_laa",
+      "gram_a2_modal_permission_possibility_bolno",
+      "gram_b1_voice_passive_gd",
+      "gram_b1_clause_temporal_omno_daraa_yed",
+      "gram_b2_discourse_causal_consequence_uuden_ulmaar"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_24_crisis_management_advisories"
+    ],
+    "lexicalDomains": [
+      "lex_b2_ecology_climate_zud"
+    ],
+    "estimatedNewCoreLemmas": 45,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 36,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "320-420 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "280-380 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Dissecting the winter disaster types: цагаан, төмөр, хар зуд.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of The Meteorology of Dzud: Frost, Ice & Starvation",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while dissecting the winter disaster types: цагаан, төмөр, хар зуд."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_166_public_policy_capstone_municipal_ur"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b1_143_environmental_conservation_pasture_",
+      "unit_b2_166_public_policy_capstone_municipal_ur"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Dissecting the winter disaster types: цагаан, төмөр, хар зуд.",
+    "newProductiveCoreLemmas": 24,
+    "newReceptiveCoreLemmas": 21,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_168_gradual_proportional_converb_suffix",
+    "sectionId": "sec_b2_02_ecology_climate_zud_sustainability",
+    "cefrLevel": "B2",
+    "sequencePosition": 168,
+    "title": "Gradual Proportional Converb: Suffixes -тусам/-түсэм",
+    "communicativeTheme": "Expressing correlative progression ('хүйтрэх тусам хэцүү болно')",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_converb_gradual_proportional_tusam) to fulfill communicative functions in: Gradual Proportional Converb: Suffixes -тусам/-түсэм.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_converb_gradual_proportional_tusam"
+    ],
+    "grammarReinforced": [
+      "gram_a1_verb_tense_present_habitual_dag",
+      "gram_a2_modal_ability_yadah_chadah",
+      "gram_b1_voice_reciprocal_collective",
+      "gram_b2_particles_emphatic_nuance"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_13_expressing_proportional_growth"
+    ],
+    "lexicalDomains": [
+      "lex_b2_ecology_climate_zud"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "280-360 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "mongolian_voice_required",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "250-320 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Expressing correlative progression ('хүйтрэх тусам хэцүү болно').",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Gradual Proportional Converb: Suffixes -тусам/-түсэм",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while expressing correlative progression ('хүйтрэх тусам хэцүү болно')."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_167_the_meteorology_of_dzud_frost_ice_s",
+      "unit_a1_37_verbal_dictionary_infinitive_suffix",
+      "unit_a1_42_coordinating_converb_clause_linking"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_159_switch_reference_constraints_in_dis",
+      "unit_b1_143_environmental_conservation_pasture_",
+      "unit_b2_166_public_policy_capstone_municipal_ur"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Expressing correlative progression ('хүйтрэх тусам хэцүү болно').",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_169_durative_adversative_converb_suffix",
+    "sectionId": "sec_b2_02_ecology_climate_zud_sustainability",
+    "cefrLevel": "B2",
+    "sequencePosition": 169,
+    "title": "Durative Adversative Converb: Suffixes -саар байтал",
+    "communicativeTheme": "Contrasting sustained efforts with contrary outcomes",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_converb_durative_adversative_saar_baital) to fulfill communicative functions in: Durative Adversative Converb: Suffixes -саар байтал.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_converb_durative_adversative_saar_baital"
+    ],
+    "grammarReinforced": [
+      "gram_a1_converb_coordinating_j_ch",
+      "gram_b1_aspect_intensive_chih_complete",
+      "gram_b2_converb_gradual_proportional_tusam"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_12_expository_causal_chains"
+    ],
+    "lexicalDomains": [
+      "lex_b2_ecology_climate_zud"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "320-420 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_required",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "280-380 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Contrasting sustained efforts with contrary outcomes.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Durative Adversative Converb: Suffixes -саар байтал",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while contrasting sustained efforts with contrary outcomes."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_168_gradual_proportional_converb_suffix",
+      "unit_a1_37_verbal_dictionary_infinitive_suffix",
+      "unit_a1_42_coordinating_converb_clause_linking"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_167_the_meteorology_of_dzud_frost_ice_s"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Contrasting sustained efforts with contrary outcomes.",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_170_negative_framing_converb_suffixes_",
+    "sectionId": "sec_b2_02_ecology_climate_zud_sustainability",
+    "cefrLevel": "B2",
+    "sequencePosition": 170,
+    "title": "Negative Framing Converb: Suffixes -гүйгээр",
+    "communicativeTheme": "Describing processes carried out without essential prerequisites",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_converb_negative_framing_guigeer) to fulfill communicative functions in: Negative Framing Converb: Suffixes -гүйгээр.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_converb_negative_framing_guigeer"
+    ],
+    "grammarReinforced": [
+      "gram_a1_verb_dictionary_infinitive_kh",
+      "gram_b2_converb_durative_adversative_saar_baital"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_12_expository_causal_chains"
+    ],
+    "lexicalDomains": [
+      "lex_b2_ecology_climate_zud"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "280-360 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "250-320 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Describing processes carried out without essential prerequisites.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Negative Framing Converb: Suffixes -гүйгээр",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while describing processes carried out without essential prerequisites."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_169_durative_adversative_converb_suffix",
+      "unit_a1_37_verbal_dictionary_infinitive_suffix",
+      "unit_a1_42_coordinating_converb_clause_linking"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_168_gradual_proportional_converb_suffix",
+      "unit_b2_167_the_meteorology_of_dzud_frost_ice_s"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Describing processes carried out without essential prerequisites.",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_171_stacked_voice_causative_passive_mor",
+    "sectionId": "sec_b2_02_ecology_climate_zud_sustainability",
+    "cefrLevel": "B2",
+    "sequencePosition": 171,
+    "title": "Stacked Voice: Causative-Passive Morphology (-уулагдах)",
+    "communicativeTheme": "Expressing actions where a delegated causee is acted upon",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_voice_stacking_causative_passive) to fulfill communicative functions in: Stacked Voice: Causative-Passive Morphology (-уулагдах).",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_voice_stacking_causative_passive"
+    ],
+    "grammarReinforced": [
+      "gram_a1_case_accusative_definite",
+      "gram_a1_classifiers_measure_words",
+      "gram_b2_converb_gradual_proportional_tusam",
+      "gram_b2_converb_negative_framing_guigeer"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_05_business_negotiations_terms"
+    ],
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_mining_infrastructure"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "320-420 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "mongolian_voice_required",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "280-380 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Expressing actions where a delegated causee is acted upon.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Stacked Voice: Causative-Passive Morphology (-уулагдах)",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while expressing actions where a delegated causee is acted upon."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_170_negative_framing_converb_suffixes_",
+      "unit_a1_30_definite_direct_objects_the_accusat",
+      "unit_a2_75_reflexive_possessive_base_suffixes_"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b1_118_reciprocal_collaborative_voice_suff",
+      "unit_b2_167_the_meteorology_of_dzud_frost_ice_s"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Expressing actions where a delegated causee is acted upon.",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_172_double_causative_morphology_delegat",
+    "sectionId": "sec_b2_02_ecology_climate_zud_sustainability",
+    "cefrLevel": "B2",
+    "sequencePosition": 172,
+    "title": "Double Causative Morphology: Delegated Actions",
+    "communicativeTheme": "Expressing secondary delegation of agency through institutional chains",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_voice_double_causative_delegated) to fulfill communicative functions in: Double Causative Morphology: Delegated Actions.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_voice_double_causative_delegated"
+    ],
+    "grammarReinforced": [
+      "gram_a1_sov_word_order",
+      "gram_a1_case_accusative_definite",
+      "gram_b2_converb_durative_adversative_saar_baital",
+      "gram_b2_voice_stacking_causative_passive"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_05_business_negotiations_terms"
+    ],
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_mining_infrastructure"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "280-360 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "250-320 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Expressing secondary delegation of agency through institutional chains.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Double Causative Morphology: Delegated Actions",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while expressing secondary delegation of agency through institutional chains."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_171_stacked_voice_causative_passive_mor",
+      "unit_a1_30_definite_direct_objects_the_accusat",
+      "unit_a2_75_reflexive_possessive_base_suffixes_"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_167_the_meteorology_of_dzud_frost_ice_s"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Expressing secondary delegation of agency through institutional chains.",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_173_past_counterfactual_conditionals_su",
+    "sectionId": "sec_b2_02_ecology_climate_zud_sustainability",
+    "cefrLevel": "B2",
+    "sequencePosition": 173,
+    "title": "Past Counterfactual Conditionals: Suffixes -сан бол",
+    "communicativeTheme": "Analyzing historical disasters and unfulfilled contingencies",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_conditionals_counterfactual_past) to fulfill communicative functions in: Past Counterfactual Conditionals: Suffixes -сан бол.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_conditionals_counterfactual_past"
+    ],
+    "grammarReinforced": [
+      "gram_a1_verb_tense_past_perfective_san",
+      "gram_b1_reported_speech_indirect_tense_shift",
+      "gram_b2_converb_negative_framing_guigeer",
+      "gram_b2_voice_double_causative_delegated"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_03_counterfactual_regrets"
+    ],
+    "lexicalDomains": [
+      "lex_b2_ecology_climate_zud"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "320-420 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "280-380 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Analyzing historical disasters and unfulfilled contingencies.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Past Counterfactual Conditionals: Suffixes -сан бол",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while analyzing historical disasters and unfulfilled contingencies."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_172_double_causative_morphology_delegat"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_170_negative_framing_converb_suffixes_",
+      "unit_b2_167_the_meteorology_of_dzud_frost_ice_s"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Analyzing historical disasters and unfulfilled contingencies.",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_174_interpreting_environmental_statisti",
+    "sectionId": "sec_b2_02_ecology_climate_zud_sustainability",
+    "cefrLevel": "B2",
+    "sequencePosition": 174,
+    "title": "Interpreting Environmental Statistical Graphs",
+    "communicativeTheme": "Reading trend lines, bar charts, and pasture degradation data",
+    "primaryLearningPurpose": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Interpreting Environmental Statistical Graphs.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a1_noun_plural_markers",
+      "gram_a1_telling_time_clock_calendar",
+      "gram_a2_verb_past_narrative_v",
+      "gram_b2_converb_gradual_proportional_tusam",
+      "gram_b2_voice_stacking_causative_passive",
+      "gram_b2_conditionals_counterfactual_past"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_20_interpreting_graphs_statistics"
+    ],
+    "lexicalDomains": [
+      "lex_b2_ecology_climate_zud"
+    ],
+    "estimatedNewCoreLemmas": 45,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 36,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "280-360 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "mongolian_voice_required",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "250-320 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Reading trend lines, bar charts, and pasture degradation data.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Interpreting Environmental Statistical Graphs",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while reading trend lines, bar charts, and pasture degradation data."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_173_past_counterfactual_conditionals_su"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_170_negative_framing_converb_suffixes_",
+      "unit_b2_167_the_meteorology_of_dzud_frost_ice_s"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Reading trend lines, bar charts, and pasture degradation data.",
+    "newProductiveCoreLemmas": 24,
+    "newReceptiveCoreLemmas": 21,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_175_commercial_resource_negotiations_pa",
+    "sectionId": "sec_b2_02_ecology_climate_zud_sustainability",
+    "cefrLevel": "B2",
+    "sequencePosition": 175,
+    "title": "Commercial Resource Negotiations: Pastoral vs Mining Rights",
+    "communicativeTheme": "Negotiating environmental rehabilitation clauses and pasture access",
+    "primaryLearningPurpose": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Commercial Resource Negotiations: Pastoral vs Mining Rights.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a1_case_dative_locative_location",
+      "gram_a2_verb_past_recent_witnessed_laa",
+      "gram_b2_converb_durative_adversative_saar_baital",
+      "gram_b2_voice_double_causative_delegated"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_05_business_negotiations_terms"
+    ],
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_mining_infrastructure"
+    ],
+    "estimatedNewCoreLemmas": 45,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 36,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Economic quarterly assessment of mineral extraction concessions and foreign direct investment",
+      "textLengthWords": "320-420 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "280-380 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Negotiating environmental rehabilitation clauses and pasture access.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Commercial Resource Negotiations: Pastoral vs Mining Rights",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while negotiating environmental rehabilitation clauses and pasture access."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_174_interpreting_environmental_statisti"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_172_double_causative_morphology_delegat",
+      "unit_b2_167_the_meteorology_of_dzud_frost_ice_s"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Negotiating environmental rehabilitation clauses and pasture access.",
+    "newProductiveCoreLemmas": 24,
+    "newReceptiveCoreLemmas": 21,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_176_ecological_resilience_capstone_cris",
+    "sectionId": "sec_b2_02_ecology_climate_zud_sustainability",
+    "cefrLevel": "B2",
+    "sequencePosition": 176,
+    "title": "Ecological Resilience Capstone: Crisis Management Advisory",
+    "communicativeTheme": "Drafting a full multi-agency winter resilience strategic plan",
+    "primaryLearningPurpose": "Consolidate, integrate, and demonstrate communicative mastery of Ecological Resilience Capstone: Crisis Management Advisory through simulated holistic tasks.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a1_converb_sequential_aad",
+      "gram_a2_verb_habitual_present_dag",
+      "gram_b1_clause_causal_uchir_uchraas_tul",
+      "gram_b2_converb_negative_framing_guigeer",
+      "gram_b2_conditionals_counterfactual_past"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_20_interpreting_graphs_statistics",
+      "comm_b2_24_crisis_management_advisories"
+    ],
+    "lexicalDomains": [
+      "lex_b2_ecology_climate_zud"
+    ],
+    "estimatedNewCoreLemmas": 53,
+    "estimatedNewMultiwordExpressions": 18,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 43,
+      "generalPurposeLemmas": 10,
+      "multiwordExpressions": 18
+    },
+    "readingTarget": {
+      "genre": "Analytical research report: comparative analysis of modern nomadic heritage vs urbanization",
+      "textLengthWords": "380-450 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Roundtable public affairs debate on sustainable energy transitions in the Gobi",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Analytical research brief evaluating mining revenue distribution models and sovereign wealth funds",
+      "targetLength": "350-450 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Drafting a full multi-agency winter resilience strategic plan.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Ecological Resilience Capstone: Crisis Management Advisory",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while drafting a full multi-agency winter resilience strategic plan."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_175_commercial_resource_negotiations_pa"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_174_interpreting_environmental_statisti",
+      "unit_b2_167_the_meteorology_of_dzud_frost_ice_s"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Drafting a full multi-agency winter resilience strategic plan.",
+    "newProductiveCoreLemmas": 28,
+    "newReceptiveCoreLemmas": 25,
+    "newProductiveExpressions": 11,
+    "newReceptiveExpressions": 7
+  },
+  {
+    "unitId": "unit_b2_177_the_morin_khuur_acoustic_engineerin",
+    "sectionId": "sec_b2_03_material_culture_music_performing_arts",
+    "cefrLevel": "B2",
+    "sequencePosition": 177,
+    "title": "The Morin Khuur: Acoustic Engineering & Spiritual Lore",
+    "communicativeTheme": "Analyzing the craftsmanship, tuning, and folklore of the horse-head fiddle",
+    "primaryLearningPurpose": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: The Morin Khuur: Acoustic Engineering & Spiritual Lore.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a2_participle_desire_inclination_maar",
+      "gram_b1_converb_contemporaneous_magts",
+      "gram_b1_evidentiality_hearsay_gene_suragtai",
+      "gram_b2_voice_stacking_causative_passive"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_18_critiquing_artistic_exhibitions"
+    ],
+    "lexicalDomains": [
+      "lex_b2_material_culture_horsemanship"
+    ],
+    "estimatedNewCoreLemmas": 45,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 36,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "320-420 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "mongolian_voice_required",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "280-380 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Analyzing the craftsmanship, tuning, and folklore of the horse-head fiddle.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of The Morin Khuur: Acoustic Engineering & Spiritual Lore",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while analyzing the craftsmanship, tuning, and folklore of the horse-head fiddle."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_176_ecological_resilience_capstone_cris"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_176_ecological_resilience_capstone_cris"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Analyzing the craftsmanship, tuning, and folklore of the horse-head fiddle.",
+    "newProductiveCoreLemmas": 24,
+    "newReceptiveCoreLemmas": 21,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_178_urtyn_duu_long_song_vocal_melisma_g",
+    "sectionId": "sec_b2_03_material_culture_music_performing_arts",
+    "cefrLevel": "B2",
+    "sequencePosition": 178,
+    "title": "Urtyn Duu (Long Song): Vocal Melisma & Glottal Tremolo",
+    "communicativeTheme": "Analyzing the vocal techniques and aesthetic philosophy of Urtyn Duu",
+    "primaryLearningPurpose": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Urtyn Duu (Long Song): Vocal Melisma & Glottal Tremolo.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a2_converb_purposive_khaar",
+      "gram_b1_converb_durative_saar",
+      "gram_b2_voice_double_causative_delegated"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_18_critiquing_artistic_exhibitions"
+    ],
+    "lexicalDomains": [
+      "lex_b2_performing_arts_music_folklore"
+    ],
+    "estimatedNewCoreLemmas": 45,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 36,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "280-360 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "250-320 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Analyzing the vocal techniques and aesthetic philosophy of Urtyn Duu.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Urtyn Duu (Long Song): Vocal Melisma & Glottal Tremolo",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while analyzing the vocal techniques and aesthetic philosophy of urtyn duu."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_177_the_morin_khuur_acoustic_engineerin"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_176_ecological_resilience_capstone_cris"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Analyzing the vocal techniques and aesthetic philosophy of Urtyn Duu.",
+    "newProductiveCoreLemmas": 24,
+    "newReceptiveCoreLemmas": 21,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_179_kh_mii_throat_singing_overtone_phys",
+    "sectionId": "sec_b2_03_material_culture_music_performing_arts",
+    "cefrLevel": "B2",
+    "sequencePosition": 179,
+    "title": "Khöömii Throat Singing: Overtone Physics & Styles",
+    "communicativeTheme": "Distinguishing sygyt (исгэрээ), kharkhiraa (хархираа), and ezengileer",
+    "primaryLearningPurpose": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Khöömii Throat Singing: Overtone Physics & Styles.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a2_reported_speech_gej_kheleh",
+      "gram_b1_converb_modal_manner_n",
+      "gram_b2_conditionals_counterfactual_past"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_18_critiquing_artistic_exhibitions"
+    ],
+    "lexicalDomains": [
+      "lex_b2_performing_arts_music_folklore"
+    ],
+    "estimatedNewCoreLemmas": 45,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 36,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "320-420 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "280-380 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Distinguishing sygyt (исгэрээ), kharkhiraa (хархираа), and ezengileer.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Khöömii Throat Singing: Overtone Physics & Styles",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while distinguishing sygyt (исгэрээ), kharkhiraa (хархираа), and ezengileer."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_178_urtyn_duu_long_song_vocal_melisma_g"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_177_the_morin_khuur_acoustic_engineerin"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Distinguishing sygyt (исгэрээ), kharkhiraa (хархираа), and ezengileer.",
+    "newProductiveCoreLemmas": 24,
+    "newReceptiveCoreLemmas": 21,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_180_concessive_contrast_discourse_conju",
+    "sectionId": "sec_b2_03_material_culture_music_performing_arts",
+    "cefrLevel": "B2",
+    "sequencePosition": 180,
+    "title": "Concessive Contrast Discourse: Conjunctions Боловч & Хэдий ч",
+    "communicativeTheme": "Balancing high artistic critique with nuanced reservations",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_concessive_contrast_vch_gesen) to fulfill communicative functions in: Concessive Contrast Discourse: Conjunctions Боловч & Хэдий ч.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_concessive_contrast_vch_gesen"
+    ],
+    "grammarReinforced": [
+      "gram_a1_case_ablative_origin",
+      "gram_a2_verb_past_resultative_zhee",
+      "gram_b1_converb_limiting_ngaa"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_02_academic_essay_concessions"
+    ],
+    "lexicalDomains": [
+      "lex_b2_performing_arts_music_folklore"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "280-360 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "mongolian_voice_required",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "250-320 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Balancing high artistic critique with nuanced reservations.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Concessive Contrast Discourse: Conjunctions Боловч & Хэдий ч",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while balancing high artistic critique with nuanced reservations."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_179_kh_mii_throat_singing_overtone_phys"
+    ],
+    "reviewOfUnitIds": [
+      "unit_a2_105_ger_etiquette_sacred_threshold_hear",
+      "unit_b2_178_urtyn_duu_long_song_vocal_melisma_g",
+      "unit_b2_177_the_morin_khuur_acoustic_engineerin"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Balancing high artistic critique with nuanced reservations.",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_181_epistemic_stance_presumption_the_ma",
+    "sectionId": "sec_b2_03_material_culture_music_performing_arts",
+    "cefrLevel": "B2",
+    "sequencePosition": 181,
+    "title": "Epistemic Stance & Presumption: The Marker Биз / Байх",
+    "communicativeTheme": "Framing delicate hypotheses and presumptions in cultural analysis",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_epistemic_stance_biz_baih) to fulfill communicative functions in: Epistemic Stance & Presumption: The Marker Биз / Байх.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_epistemic_stance_biz_baih"
+    ],
+    "grammarReinforced": [
+      "gram_a1_nominal_negation_bish",
+      "gram_a1_existential_baina_baihgui",
+      "gram_a2_participle_relative_clause_past_san",
+      "gram_a2_participle_relative_clause_habitual_dag",
+      "gram_a2_participle_relative_clause_future_kh",
+      "gram_a2_participle_negative_aagui",
+      "gram_b1_converb_abnutative_lgui",
+      "gram_b2_information_structure_topic_bol_harin",
+      "gram_b2_concessive_contrast_vch_gesen"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_18_critiquing_artistic_exhibitions"
+    ],
+    "lexicalDomains": [
+      "lex_b2_performing_arts_music_folklore"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "320-420 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "280-380 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Framing delicate hypotheses and presumptions in cultural analysis.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Epistemic Stance & Presumption: The Marker Биз / Байх",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while framing delicate hypotheses and presumptions in cultural analysis."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_180_concessive_contrast_discourse_conju"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b1_132_epistemic_probability_particles_vs_",
+      "unit_b2_179_kh_mii_throat_singing_overtone_phys",
+      "unit_b2_177_the_morin_khuur_acoustic_engineerin"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Framing delicate hypotheses and presumptions in cultural analysis.",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_182_sensory_appearance_modals_suffixes_",
+    "sectionId": "sec_b2_03_material_culture_music_performing_arts",
+    "cefrLevel": "B2",
+    "sequencePosition": 182,
+    "title": "Sensory Appearance Modals: Suffixes -х шинжтэй / -х шиг байна",
+    "communicativeTheme": "Describing aesthetic impressions and performance atmosphere",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_epistemic_appearance_shig_baiana_yanzytai) to fulfill communicative functions in: Sensory Appearance Modals: Suffixes -х шинжтэй / -х шиг байна.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_epistemic_appearance_shig_baiana_yanzytai"
+    ],
+    "grammarReinforced": [
+      "gram_a1_verb_aspect_progressive_j_baina",
+      "gram_b1_epistemic_probability_bololtoi_magadgui",
+      "gram_b2_information_structure_exclusive_focus_l",
+      "gram_b2_epistemic_stance_biz_baih"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_18_critiquing_artistic_exhibitions"
+    ],
+    "lexicalDomains": [
+      "lex_b2_performing_arts_music_folklore"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "280-360 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_required",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "250-320 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Describing aesthetic impressions and performance atmosphere.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Sensory Appearance Modals: Suffixes -х шинжтэй / -х шиг байна",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while describing aesthetic impressions and performance atmosphere."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_181_epistemic_stance_presumption_the_ma"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_180_concessive_contrast_discourse_conju",
+      "unit_b2_177_the_morin_khuur_acoustic_engineerin"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Describing aesthetic impressions and performance atmosphere.",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_183_indirect_discourse_framing_verbs_",
+    "sectionId": "sec_b2_03_material_culture_music_performing_arts",
+    "cefrLevel": "B2",
+    "sequencePosition": 183,
+    "title": "Indirect Discourse Framing Verbs: Өгүүлэх, Дурдах, Сануулах",
+    "communicativeTheme": "Citing cultural critics and musicologists with varied reporting verbs",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_indirect_discourse_framing_verbs) to fulfill communicative functions in: Indirect Discourse Framing Verbs: Өгүүлэх, Дурдах, Сануулах.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_indirect_discourse_framing_verbs"
+    ],
+    "grammarReinforced": [
+      "gram_b2_converb_chaining_discourse",
+      "gram_b2_concessive_contrast_vch_gesen",
+      "gram_b2_epistemic_appearance_shig_baiana_yanzytai"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_11_summarizing_complex_articles"
+    ],
+    "lexicalDomains": [
+      "lex_b2_performing_arts_music_folklore"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "320-420 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "mongolian_voice_required",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "280-380 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Citing cultural critics and musicologists with varied reporting verbs.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Indirect Discourse Framing Verbs: Өгүүлэх, Дурдах, Сануулах",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while citing cultural critics and musicologists with varied reporting verbs."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_182_sensory_appearance_modals_suffixes_"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b1_123_complex_banking_electronic_funds_tr",
+      "unit_b2_181_epistemic_stance_presumption_the_ma",
+      "unit_b2_177_the_morin_khuur_acoustic_engineerin"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Citing cultural critics and musicologists with varied reporting verbs.",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_184_limiting_scalar_particles_the_phras",
+    "sectionId": "sec_b2_03_material_culture_music_performing_arts",
+    "cefrLevel": "B2",
+    "sequencePosition": 184,
+    "title": "Limiting Scalar Particles: The Phrasing Бүү Хэл",
+    "communicativeTheme": "Expressing emphatic scalar extremes ('Морин хуур бүү хэл...')",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_limiting_scalar_particles_buu_khel) to fulfill communicative functions in: Limiting Scalar Particles: The Phrasing Бүү Хэл.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_limiting_scalar_particles_buu_khel"
+    ],
+    "grammarReinforced": [
+      "gram_a2_case_instrumental_transport_language",
+      "gram_b2_converb_chaining_switch_reference",
+      "gram_b2_epistemic_stance_biz_baih",
+      "gram_b2_indirect_discourse_framing_verbs"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_15_employing_emphatic_nuance"
+    ],
+    "lexicalDomains": [
+      "lex_b2_performing_arts_music_folklore"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "280-360 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "250-320 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Expressing emphatic scalar extremes ('Морин хуур бүү хэл...').",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Limiting Scalar Particles: The Phrasing Бүү Хэл",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while expressing emphatic scalar extremes ('морин хуур бүү хэл...')."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_183_indirect_discourse_framing_verbs_"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b1_130_limiting_incidental_converb_suffixe",
+      "unit_b2_182_sensory_appearance_modals_suffixes_",
+      "unit_b2_177_the_morin_khuur_acoustic_engineerin"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Expressing emphatic scalar extremes ('Морин хуур бүү хэл...').",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_185_cross_cultural_comparative_heritage",
+    "sectionId": "sec_b2_03_material_culture_music_performing_arts",
+    "cefrLevel": "B2",
+    "sequencePosition": 185,
+    "title": "Cross-Cultural Comparative Heritage Analysis",
+    "communicativeTheme": "Contrasting Mongolian pastoral heritage with sedentary traditions",
+    "primaryLearningPurpose": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Cross-Cultural Comparative Heritage Analysis.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a1_nominal_predicate_zero_copula",
+      "gram_a1_verb_tense_present_habitual_dag",
+      "gram_a1_noun_phrase_attributive_adjective",
+      "gram_a2_case_directional_towards",
+      "gram_a2_converb_concessive_vch_bolovch",
+      "gram_b2_discourse_connectors_rhetorical",
+      "gram_b2_epistemic_appearance_shig_baiana_yanzytai",
+      "gram_b2_limiting_scalar_particles_buu_khel"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_17_cross_cultural_comparisons"
+    ],
+    "lexicalDomains": [
+      "lex_b2_material_culture_horsemanship"
+    ],
+    "estimatedNewCoreLemmas": 45,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 36,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "320-420 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "280-380 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Contrasting Mongolian pastoral heritage with sedentary traditions.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Cross-Cultural Comparative Heritage Analysis",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while contrasting mongolian pastoral heritage with sedentary traditions."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_184_limiting_scalar_particles_the_phras"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_177_the_morin_khuur_acoustic_engineerin"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Contrasting Mongolian pastoral heritage with sedentary traditions.",
+    "newProductiveCoreLemmas": 24,
+    "newReceptiveCoreLemmas": 21,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_186_performing_arts_capstone_musicologi",
+    "sectionId": "sec_b2_03_material_culture_music_performing_arts",
+    "cefrLevel": "B2",
+    "sequencePosition": 186,
+    "title": "Performing Arts Capstone: Musicological Exhibition Critique",
+    "communicativeTheme": "Publishing a comprehensive critical review of a national concert",
+    "primaryLearningPurpose": "Consolidate, integrate, and demonstrate communicative mastery of Performing Arts Capstone: Musicological Exhibition Critique through simulated holistic tasks.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a1_verb_tense_past_witnessed_laa",
+      "gram_a2_case_instrumental_means",
+      "gram_b2_discourse_causal_consequence_uuden_ulmaar",
+      "gram_b2_concessive_contrast_vch_gesen",
+      "gram_b2_indirect_discourse_framing_verbs"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_17_cross_cultural_comparisons",
+      "comm_b2_18_critiquing_artistic_exhibitions"
+    ],
+    "lexicalDomains": [
+      "lex_b2_performing_arts_music_folklore"
+    ],
+    "estimatedNewCoreLemmas": 53,
+    "estimatedNewMultiwordExpressions": 18,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 43,
+      "generalPurposeLemmas": 10,
+      "multiwordExpressions": 18
+    },
+    "readingTarget": {
+      "genre": "Analytical research report: comparative analysis of modern nomadic heritage vs urbanization",
+      "textLengthWords": "380-450 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Roundtable public affairs debate on sustainable energy transitions in the Gobi",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "mongolian_voice_required",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Analytical research brief evaluating mining revenue distribution models and sovereign wealth funds",
+      "targetLength": "350-450 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Publishing a comprehensive critical review of a national concert.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Performing Arts Capstone: Musicological Exhibition Critique",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while publishing a comprehensive critical review of a national concert."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_185_cross_cultural_comparative_heritage"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_184_limiting_scalar_particles_the_phras",
+      "unit_b2_177_the_morin_khuur_acoustic_engineerin"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Publishing a comprehensive critical review of a national concert.",
+    "newProductiveCoreLemmas": 28,
+    "newReceptiveCoreLemmas": 25,
+    "newProductiveExpressions": 11,
+    "newReceptiveExpressions": 7
+  },
+  {
+    "unitId": "unit_b2_187_scholarly_research_methodology_hypo",
+    "sectionId": "sec_b2_04_academic_critique_rhetoric_formal_stance",
+    "cefrLevel": "B2",
+    "sequencePosition": 187,
+    "title": "Scholarly Research Methodology & Hypothesis Formulation",
+    "communicativeTheme": "Formulating academic theses, research questions, and literature scopes",
+    "primaryLearningPurpose": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Scholarly Research Methodology & Hypothesis Formulation.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a1_case_comitative_accompaniment",
+      "gram_a1_case_comitative_possession_predicates",
+      "gram_a2_adverbial_comparative_shig_adil_met",
+      "gram_a2_converb_terminative_tal",
+      "gram_b1_noun_derivation_abstract_dal_laga",
+      "gram_b1_nominalization_participles_cases",
+      "gram_b2_particles_emphatic_nuance",
+      "gram_b2_epistemic_stance_biz_baih",
+      "gram_b2_limiting_scalar_particles_buu_khel"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_21_academic_abstract_formulation"
+    ],
+    "lexicalDomains": [
+      "lex_c1_academic_philology_mongolistics"
+    ],
+    "estimatedNewCoreLemmas": 45,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 36,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "320-420 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Academic keynote lecture presentation on Mongolian linguistics and archaeology",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Academic journal abstract and literature review synthesis",
+      "targetLength": "280-380 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Formulating academic theses, research questions, and literature scopes.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Scholarly Research Methodology & Hypothesis Formulation",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while formulating academic theses, research questions, and literature scopes."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_186_performing_arts_capstone_musicologi"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_186_performing_arts_capstone_musicologi"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Formulating academic theses, research questions, and literature scopes.",
+    "newProductiveCoreLemmas": 24,
+    "newReceptiveCoreLemmas": 21,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_188_purposive_clausal_distinctions_vs_v",
+    "sectionId": "sec_b2_04_academic_critique_rhetoric_formal_stance",
+    "cefrLevel": "B2",
+    "sequencePosition": 188,
+    "title": "Purposive Clausal Distinctions: Гэж vs -хаар vs Тулд",
+    "communicativeTheme": "Selecting precise purposive morphology based on intent and register",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_purposive_distinctions_gej_khaar_tuld) to fulfill communicative functions in: Purposive Clausal Distinctions: Гэж vs -хаар vs Тулд.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_purposive_distinctions_gej_khaar_tuld"
+    ],
+    "grammarReinforced": [
+      "gram_a1_verb_dictionary_infinitive_kh",
+      "gram_a1_verb_volitional_intention_ya",
+      "gram_a1_verb_tense_future_prospective_na",
+      "gram_a2_indefinite_pronouns_negation",
+      "gram_b1_verb_derivation_denominal_lakh",
+      "gram_b1_subordinate_subject_marking_genitive",
+      "gram_b2_epistemic_appearance_shig_baiana_yanzytai"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_21_academic_abstract_formulation"
+    ],
+    "lexicalDomains": [
+      "lex_c1_academic_philology_mongolistics"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "280-360 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "250-320 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Selecting precise purposive morphology based on intent and register.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Purposive Clausal Distinctions: Гэж vs -хаар vs Тулд",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while selecting precise purposive morphology based on intent and register."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_187_scholarly_research_methodology_hypo"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b1_139_purposive_clauses_conjunctions_and_",
+      "unit_b2_186_performing_arts_capstone_musicologi"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Selecting precise purposive morphology based on intent and register.",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_189_hypothetical_conditionals_in_academ",
+    "sectionId": "sec_b2_04_academic_critique_rhetoric_formal_stance",
+    "cefrLevel": "B2",
+    "sequencePosition": 189,
+    "title": "Hypothetical Conditionals in Academic Argumentation",
+    "communicativeTheme": "Modeling theoretical scenarios and academic contingencies",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_conditionals_hypothetical_present) to fulfill communicative functions in: Hypothetical Conditionals in Academic Argumentation.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_conditionals_hypothetical_present"
+    ],
+    "grammarReinforced": [
+      "gram_a1_verb_imperative_polite_aarai",
+      "gram_b1_clause_purposive_tuld_tuloo",
+      "gram_b2_indirect_discourse_framing_verbs",
+      "gram_b2_purposive_distinctions_gej_khaar_tuld"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_02_academic_essay_concessions"
+    ],
+    "lexicalDomains": [
+      "lex_c1_academic_philology_mongolistics"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "320-420 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "mongolian_voice_required",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Academic journal abstract and literature review synthesis",
+      "targetLength": "280-380 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Modeling theoretical scenarios and academic contingencies.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Hypothetical Conditionals in Academic Argumentation",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while modeling theoretical scenarios and academic contingencies."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_188_purposive_clausal_distinctions_vs_v"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_173_past_counterfactual_conditionals_su",
+      "unit_b2_187_scholarly_research_methodology_hypo"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Modeling theoretical scenarios and academic contingencies.",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_190_complex_modal_obligation_the_modal_",
+    "sectionId": "sec_b2_04_academic_critique_rhetoric_formal_stance",
+    "cefrLevel": "B2",
+    "sequencePosition": 190,
+    "title": "Complex Modal Obligation: The Modal Suffix -х учиртай",
+    "communicativeTheme": "Expressing prescriptive necessity and ethical duties in scholarship",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_modal_complex_obligation_uchirtai) to fulfill communicative functions in: Complex Modal Obligation: The Modal Suffix -х учиртай.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_modal_complex_obligation_uchirtai"
+    ],
+    "grammarReinforced": [
+      "gram_a2_verb_future_deductive_kh_bolno",
+      "gram_b1_voice_causative_uul_lga",
+      "gram_b1_participle_agentive_gch",
+      "gram_b2_limiting_scalar_particles_buu_khel",
+      "gram_b2_conditionals_hypothetical_present"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_02_academic_essay_concessions"
+    ],
+    "lexicalDomains": [
+      "lex_c1_academic_philology_mongolistics"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "280-360 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "250-320 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Expressing prescriptive necessity and ethical duties in scholarship.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Complex Modal Obligation: The Modal Suffix -х учиртай",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while expressing prescriptive necessity and ethical duties in scholarship."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_189_hypothetical_conditionals_in_academ"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b1_129_modal_converb_of_manner_suffix_",
+      "unit_b2_188_purposive_clausal_distinctions_vs_v",
+      "unit_b2_187_scholarly_research_methodology_hypo"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Expressing prescriptive necessity and ethical duties in scholarship.",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_191_relative_clause_subject_genitive_no",
+    "sectionId": "sec_b2_04_academic_critique_rhetoric_formal_stance",
+    "cefrLevel": "B2",
+    "sequencePosition": 191,
+    "title": "Relative Clause Subject Genitive-Nominative Alternation",
+    "communicativeTheme": "Mastering subtle syntactic shifts in embedded academic clauses",
+    "primaryLearningPurpose": "Acquire and apply grammatical morphology (gram_b2_participle_relative_subject_genitive_alternation) to fulfill communicative functions in: Relative Clause Subject Genitive-Nominative Alternation.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_participle_relative_subject_genitive_alternation"
+    ],
+    "grammarReinforced": [
+      "gram_a1_case_nominative_unmarked",
+      "gram_a1_case_genitive_possession",
+      "gram_b1_voice_causative_argument_structure",
+      "gram_b1_postpositions_similative_shig_adil_met",
+      "gram_b2_purposive_distinctions_gej_khaar_tuld",
+      "gram_b2_modal_complex_obligation_uchirtai"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_21_academic_abstract_formulation"
+    ],
+    "lexicalDomains": [
+      "lex_c1_academic_philology_mongolistics"
+    ],
+    "estimatedNewCoreLemmas": 48,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 39,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "320-420 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "280-380 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Mastering subtle syntactic shifts in embedded academic clauses.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Relative Clause Subject Genitive-Nominative Alternation",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while mastering subtle syntactic shifts in embedded academic clauses."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_190_complex_modal_obligation_the_modal_"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b1_140_agentive_participle_nominal_derivat",
+      "unit_b2_189_hypothetical_conditionals_in_academ",
+      "unit_b2_187_scholarly_research_methodology_hypo"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Mastering subtle syntactic shifts in embedded academic clauses.",
+    "newProductiveCoreLemmas": 26,
+    "newReceptiveCoreLemmas": 22,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_192_delivering_prepared_academic_confer",
+    "sectionId": "sec_b2_04_academic_critique_rhetoric_formal_stance",
+    "cefrLevel": "B2",
+    "sequencePosition": 192,
+    "title": "Delivering Prepared Academic Conference Presentations",
+    "communicativeTheme": "Presenting a 10-minute slide deck with formal scholarly intro/outro",
+    "primaryLearningPurpose": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Delivering Prepared Academic Conference Presentations.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_b1_voice_passive_gd",
+      "gram_b1_clause_temporal_omno_daraa_yed",
+      "gram_b2_conditionals_hypothetical_present",
+      "gram_b2_participle_relative_subject_genitive_alternation"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_07_delivering_prepared_presentations"
+    ],
+    "lexicalDomains": [
+      "lex_c1_academic_philology_mongolistics"
+    ],
+    "estimatedNewCoreLemmas": 45,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 36,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "280-360 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Academic keynote lecture presentation on Mongolian linguistics and archaeology",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "mongolian_voice_required",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Academic journal abstract and literature review synthesis",
+      "targetLength": "250-320 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Presenting a 10-minute slide deck with formal scholarly intro/outro.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Delivering Prepared Academic Conference Presentations",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while presenting a 10-minute slide deck with formal scholarly intro/outro."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_191_relative_clause_subject_genitive_no"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_190_complex_modal_obligation_the_modal_",
+      "unit_b2_187_scholarly_research_methodology_hypo"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Presenting a 10-minute slide deck with formal scholarly intro/outro.",
+    "newProductiveCoreLemmas": 24,
+    "newReceptiveCoreLemmas": 21,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_193_handling_rigorous_academic_q_a_sess",
+    "sectionId": "sec_b2_04_academic_critique_rhetoric_formal_stance",
+    "cefrLevel": "B2",
+    "sequencePosition": 193,
+    "title": "Handling Rigorous Academic Q&A Sessions",
+    "communicativeTheme": "Defending methodology, admitting limitations, and refuting critique",
+    "primaryLearningPurpose": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Handling Rigorous Academic Q&A Sessions.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a1_polar_questions_uu_uu",
+      "gram_a1_content_questions_be_ve",
+      "gram_a2_numerals_ordinal",
+      "gram_b1_voice_reciprocal_collective",
+      "gram_b2_converb_gradual_proportional_tusam",
+      "gram_b2_modal_complex_obligation_uchirtai"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_08_handling_qa_sessions"
+    ],
+    "lexicalDomains": [
+      "lex_c1_academic_philology_mongolistics"
+    ],
+    "estimatedNewCoreLemmas": 45,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 36,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "320-420 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Academic journal abstract and literature review synthesis",
+      "targetLength": "280-380 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Defending methodology, admitting limitations, and refuting critique.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Handling Rigorous Academic Q&A Sessions",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while defending methodology, admitting limitations, and refuting critique."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_192_delivering_prepared_academic_confer"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_191_relative_clause_subject_genitive_no",
+      "unit_b2_187_scholarly_research_methodology_hypo"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Defending methodology, admitting limitations, and refuting critique.",
+    "newProductiveCoreLemmas": 24,
+    "newReceptiveCoreLemmas": 21,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_194_commercial_legal_contract_parsing_l",
+    "sectionId": "sec_b2_04_academic_critique_rhetoric_formal_stance",
+    "cefrLevel": "B2",
+    "sequencePosition": 194,
+    "title": "Commercial Legal Contract Parsing & Lease Clauses",
+    "communicativeTheme": "Comprehending breach, termination, force majeure, and dispute articles",
+    "primaryLearningPurpose": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Commercial Legal Contract Parsing & Lease Clauses.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a1_case_dative_locative_temporal",
+      "gram_b1_aspect_intensive_chih_complete",
+      "gram_b2_converb_durative_adversative_saar_baital",
+      "gram_b2_purposive_distinctions_gej_khaar_tuld",
+      "gram_b2_participle_relative_subject_genitive_alternation"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_16_legal_contract_comprehension"
+    ],
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "estimatedNewCoreLemmas": 45,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 36,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "280-360 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "250-320 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Comprehending breach, termination, force majeure, and dispute articles.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Commercial Legal Contract Parsing & Lease Clauses",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while comprehending breach, termination, force majeure, and dispute articles."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_193_handling_rigorous_academic_q_a_sess"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_187_scholarly_research_methodology_hypo"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Comprehending breach, termination, force majeure, and dispute articles.",
+    "newProductiveCoreLemmas": 24,
+    "newReceptiveCoreLemmas": 21,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_195_mediation_of_professional_conflicts",
+    "sectionId": "sec_b2_04_academic_critique_rhetoric_formal_stance",
+    "cefrLevel": "B2",
+    "sequencePosition": 195,
+    "title": "Mediation of Professional Conflicts Between Peers",
+    "communicativeTheme": "Facilitating dialogue between disputing parties to reach compromise",
+    "primaryLearningPurpose": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Mediation of Professional Conflicts Between Peers.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a1_possessive_pronouns_minii_chiniih",
+      "gram_a1_case_dative_locative_recipient",
+      "gram_a2_reflexive_possessive_base",
+      "gram_b2_converb_negative_framing_guigeer",
+      "gram_b2_conditionals_hypothetical_present"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_19_conflict_mediation_peers"
+    ],
+    "lexicalDomains": [
+      "lex_b1_education_career_workplace"
+    ],
+    "estimatedNewCoreLemmas": 45,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 36,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "320-420 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "mongolian_voice_required",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "280-380 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Facilitating dialogue between disputing parties to reach compromise.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Mediation of Professional Conflicts Between Peers",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while facilitating dialogue between disputing parties to reach compromise."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_194_commercial_legal_contract_parsing_l"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b1_140_agentive_participle_nominal_derivat",
+      "unit_b2_187_scholarly_research_methodology_hypo"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Facilitating dialogue between disputing parties to reach compromise.",
+    "newProductiveCoreLemmas": 24,
+    "newReceptiveCoreLemmas": 21,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_196_popularizing_scientific_discoveries",
+    "sectionId": "sec_b2_04_academic_critique_rhetoric_formal_stance",
+    "cefrLevel": "B2",
+    "sequencePosition": 196,
+    "title": "Popularizing Scientific Discoveries for Mass Media",
+    "communicativeTheme": "Translating technical research papers into engaging public articles",
+    "primaryLearningPurpose": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Popularizing Scientific Discoveries for Mass Media.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a2_reflexive_case_combinations",
+      "gram_b2_voice_stacking_causative_passive",
+      "gram_b2_modal_complex_obligation_uchirtai"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_23_scientific_popular_articles"
+    ],
+    "lexicalDomains": [
+      "lex_b1_media_digital_society"
+    ],
+    "estimatedNewCoreLemmas": 45,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 36,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "Investigative journalism pieces, policy debate transcripts, and academic essays",
+      "textLengthWords": "280-360 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Unscripted panel debates, investigative podcasts, and high-level negotiations",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Formal policy proposal, critical comparative essay, or investigative journalistic report",
+      "targetLength": "250-320 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Translating technical research papers into engaging public articles.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of Popularizing Scientific Discoveries for Mass Media",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while translating technical research papers into engaging public articles."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_195_mediation_of_professional_conflicts"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b1_134_film_literary_criticism_evaluating_",
+      "unit_b2_187_scholarly_research_methodology_hypo"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Translating technical research papers into engaging public articles.",
+    "newProductiveCoreLemmas": 24,
+    "newReceptiveCoreLemmas": 21,
+    "newProductiveExpressions": 8,
+    "newReceptiveExpressions": 5
+  },
+  {
+    "unitId": "unit_b2_197_b2_vantage_capstone_academic_sympos",
+    "sectionId": "sec_b2_04_academic_critique_rhetoric_formal_stance",
+    "cefrLevel": "B2",
+    "sequencePosition": 197,
+    "title": "B2 Vantage Capstone: Academic Symposium Abstract & Speech",
+    "communicativeTheme": "Drafting a published abstract and delivering a live defense keynote",
+    "primaryLearningPurpose": "Consolidate, integrate, and demonstrate communicative mastery of B2 Vantage Capstone: Academic Symposium Abstract & Speech through simulated holistic tasks.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a2_possessive_third_person_enclitic_ni",
+      "gram_b2_voice_double_causative_delegated",
+      "gram_b2_participle_relative_subject_genitive_alternation"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_07_delivering_prepared_presentations",
+      "comm_b2_21_academic_abstract_formulation",
+      "comm_b2_25_strategic_consultation"
+    ],
+    "lexicalDomains": [
+      "lex_c1_academic_philology_mongolistics"
+    ],
+    "estimatedNewCoreLemmas": 53,
+    "estimatedNewMultiwordExpressions": 18,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 43,
+      "generalPurposeLemmas": 10,
+      "multiwordExpressions": 18
+    },
+    "readingTarget": {
+      "genre": "Analytical research report: comparative analysis of modern nomadic heritage vs urbanization",
+      "textLengthWords": "380-450 words",
+      "targetSkills": [
+        "Dissecting complex multi-clause converb chains with switch-reference subjects",
+        "Analyzing authorial rhetorical stance, argumentative concessions, and emphasis particles",
+        "Evaluating counterfactual hypotheses (-сан бол) and institutional causality (үүднээс, улмаас)"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Roundtable public affairs debate on sustainable energy transitions in the Gobi",
+      "speechRate": "Authentic conversational native rate (140-165 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Deciphering fast converbial subordination chains with overlapping conversational turns",
+        "Perceiving pragmatic emphasis particles (даа, шүү, ч, л) shaping speaker commitment",
+        "Evaluating implicit assumptions, diplomatic hedging, and rhetorical contrast"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Analytical research brief evaluating mining revenue distribution models and sovereign wealth funds",
+      "targetLength": "350-450 words",
+      "targetSkills": [
+        "Constructing complex multi-tiered converb chains demonstrating clear switch-reference clarity",
+        "Formulating hypothetical counterfactual arguments (-сан бол) with pragmatic epistemic hedging",
+        "Synthesizing opposing institutional perspectives with formal concessive connectors (боловч, хэдий ч)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Execute a contextualized communicative dialogue or monologue demonstrating: Drafting a published abstract and delivering a live defense keynote.",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural and Pragmatic Dynamics of B2 Vantage Capstone: Academic Symposium Abstract & Speech",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Observe authentic Mongolian communicative norms, appropriate register deference, and socio-cultural etiquette while drafting a published abstract and delivering a live defense keynote."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_196_popularizing_scientific_discoveries"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_193_handling_rigorous_academic_q_a_sess",
+      "unit_b2_187_scholarly_research_methodology_hypo"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners accurately deploy the lexical repertoire, morphological structures, and sociolinguistic protocols required to navigate: Drafting a published abstract and delivering a live defense keynote.",
+    "newProductiveCoreLemmas": 28,
+    "newReceptiveCoreLemmas": 25,
+    "newProductiveExpressions": 11,
+    "newReceptiveExpressions": 7
+  }
+]

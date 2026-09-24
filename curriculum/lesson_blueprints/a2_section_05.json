@@ -1,0 +1,3519 @@
+[
+  {
+    "lessonId": "les_a2_103_01_interior_layout_furniture_lexicon",
+    "unitId": "unit_a2_103_domestic_living_spaces_furnishing_l",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "Living Rooms, Balconies & Decor: Interior Layout & Furnishings",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce room types, interior furnishings, and spatial arrangement vocabulary (зочны өрөө, унтлагын өрөө, тагт, үүдний өрөө, буйдан, шүүгээ, хивс, тавих, байрлуулах).",
+    "communicativeOutcome": "Describe the interior floor plan of an apartment or house, detailing furniture placement in each room.",
+    "objectivesIntroduced": [
+      "obj_a2_103_01_interior_layout_lexicon"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_102_01_lease_furnishings_lexicon"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_spatial_postpositions_deeree_door",
+      "gram_a1_case_dative_locative_location"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_05_describing_home_rooms_furniture"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_04_renting_apartment_housing"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 9,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_housing_home"
+    ],
+    "previousVocabularyReused": [
+      "өрөө",
+      "тавилга",
+      "ширээ",
+      "сандал",
+      "гэр",
+      "байр"
+    ],
+    "readingObjective": "Read an interior design article describing optimal furniture layout for small urban apartments.",
+    "listeningObjective": "Understand an interior decorator advising where to place a bookshelf and sofa.",
+    "writingObjective": "List 6 furniture items with their typical room locations in Cyrillic.",
+    "spokenProductionObjective": "Describe room arrangement: 'Зочны өрөөний цонхны доор буйдангаа байрлуулж, өөдөөс нь зурагт тавьсан'.",
+    "registerTarget": "Domestic home arrangement and interior design register",
+    "pragmaticTarget": "Using precise spatial postpositions to describe home layout clearly.",
+    "prerequisiteLessonIds": [
+      "les_a2_102_04_negotiating_lease_terms_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_55_01_residential_housing_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_55_residential_housing_apartments_ger_"
+    ],
+    "reviewReason": "Expands basic room naming to comprehensive interior spatial layout.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce furniture and interior decor terminology clearly.",
+    "successCriteria": [
+      "Defines зочны өрөө (living room), тагт (balcony), буйдан (sofa), шүүгээ (cabinet/closet)",
+      "Forms spatial descriptions using compound postpositions (дэргэд, өөдөөс нь, буланд)"
+    ],
+    "masteryEvidence": "Accurately describes the layout of a 3-room apartment using precise spatial postpositions.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_103_02_furniture_catalog_floorplan_reading",
+    "unitId": "unit_a2_103_domestic_living_spaces_furnishing_l",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Deciphering Furniture Catalogs & Floorplan Blueprints",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Develop reading comprehension of furniture store promotional catalogs, dimension listings, assembly guides, and architectural floorplans.",
+    "communicativeOutcome": "Inspect a furniture catalog, verify product dimensions (урт, өргөн, өндөр), materials (мод, төмөр, даавуу), and match items to a floorplan layout.",
+    "objectivesIntroduced": [
+      "obj_a2_103_02_read_furniture_catalogs"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_103_01_interior_layout_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_participle_relative_clause_habitual_dag"
+    ],
+    "grammarReviewed": [
+      "gram_a1_noun_phrase_attributive_adjective",
+      "gram_a1_predicate_adjective_nominal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_05_describing_home_rooms_furniture"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 2,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_housing_home",
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "хэмжээ",
+      "үнэ",
+      "материал",
+      "модон",
+      "өнгө",
+      "хямдрал"
+    ],
+    "readingObjective": "Locate dimensions, materials, and warranty information in a 120-word modular furniture catalog snippet.",
+    "listeningObjective": "",
+    "writingObjective": "Transcribe furniture dimensions into a room planning worksheet.",
+    "spokenProductionObjective": "Explain to a partner whether the dining table will fit in the kitchen.",
+    "registerTarget": "Commercial retail catalog and specifications register",
+    "pragmaticTarget": "Checking spatial dimensions carefully against real room measurements.",
+    "prerequisiteLessonIds": [
+      "les_a2_103_01_interior_layout_furniture_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_77_02_reading_product_specifications"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_77_third_person_possessive_enclitic_th"
+    ],
+    "reviewReason": "Extends retail specification reading to home furnishings and architectural measurements.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Read furniture product specifications aloud.",
+    "successCriteria": [
+      "Extracts length, width, and height correctly from product description",
+      "Determines whether the item matches the designated room space"
+    ],
+    "masteryEvidence": "Correctly matches 4 furniture pieces to corresponding rooms on a floorplan diagram.",
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_103_03_room_rearrangement_acoustic_listening",
+    "unitId": "unit_a2_103_domestic_living_spaces_furnishing_l",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Lab: Rearranging the Living Room & Moving Furniture",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic listening comprehension of an authentic dialogue between two family members rearranging furniture, discussing aesthetic preferences, and shifting heavy items.",
+    "communicativeOutcome": "Follow spoken spatial instructions during a furniture move: 'Буйданг нааш нь тат', 'Шүүгээг хана руу шахаж тавья'.",
+    "objectivesIntroduced": [
+      "obj_a2_103_03_decode_furniture_moving"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_103_01_interior_layout_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_39_01_instrumental_case"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_spatial_postpositions_deeree_door",
+      "gram_a1_verb_imperative_polite_aarai"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_05_describing_home_rooms_furniture"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 2,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_housing_home"
+    ],
+    "previousVocabularyReused": [
+      "татаж",
+      "түлхэх",
+      "тавих",
+      "хана",
+      "булан",
+      "зай"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Identify specific movement directives (нааш нь, цааш нь, эргүүлэх) from audio dialogue.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Direct a mover: 'Ширээг баруун буланд тавиад, сандлуудыг тойруулаад тавьчих'.",
+    "registerTarget": "Everyday practical household coordination register",
+    "pragmaticTarget": "Parsing rapid directional adverbs (нааш нь, цааш нь, дээш нь) in physical coordination contexts.",
+    "prerequisiteLessonIds": [
+      "les_a2_103_01_interior_layout_furniture_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_81_03_courier_delivery_acoustic_lab"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_81_errands_dry_cleaning_tailoring_re"
+    ],
+    "reviewReason": "Applies physical delivery listening to domestic spatial reorganization.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Realistic household audio with furniture sliding sounds and coordinated verbal cues.",
+    "successCriteria": [
+      "Identifies where each piece of furniture was ultimately placed",
+      "Follows directional adverbs indicating distance and orientation accurately"
+    ],
+    "masteryEvidence": "Accurately draws final furniture arrangement on a floor grid based on dialogue audio.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "phonetic_discrimination",
+      "sequencing"
+    ]
+  },
+  {
+    "lessonId": "les_a2_103_04_home_renovation_decor_dialogue",
+    "unitId": "unit_a2_103_domestic_living_spaces_furnishing_l",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Redecorating the Home: Choosing Paint, Curtains & Lighting",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Master spoken communication for discussing home renovation, interior styling, color coordination, and lighting choices with family or a decorator.",
+    "communicativeOutcome": "Discuss home redecorating plans with a partner: select wallpaper colors, curtain styles, and lighting fixtures to create a cozy home atmosphere.",
+    "objectivesIntroduced": [
+      "obj_a2_103_04_home_renovation_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_103_01_interior_layout_lexicon",
+      "obj_a2_103_02_read_furniture_catalogs"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_16_01_greet_time_of_day"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_comitative_association",
+      "gram_a1_predicate_adjective_nominal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_diphthongs"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_05_describing_home_rooms_furniture"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_13_apologies_politeness"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 3,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_housing_home",
+      "lex_domain_social_interaction"
+    ],
+    "previousVocabularyReused": [
+      "гэр",
+      "өнгө",
+      "гэрэл",
+      "хөшиг",
+      "тохилог",
+      "солих"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand decorator suggesting warm ambient lighting and cream curtains for the living room.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Propose decorating ideas: 'Унтлагын өрөөний ханыг цайвар цэнхэр өнгөөр будаж, дулаахан шар гэрэл тавибал их тохилог харагдана'.",
+    "registerTarget": "Collaborative domestic styling and home improvement register",
+    "pragmaticTarget": "Giving constructive design opinions and reaching mutual aesthetic consensus.",
+    "prerequisiteLessonIds": [
+      "les_a2_103_01_interior_layout_furniture_lexicon",
+      "les_a2_103_03_room_rearrangement_acoustic_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_78_05_clothing_alterations_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_78_department_store_apparel_sizing_fi"
+    ],
+    "reviewReason": "Transfers aesthetic design and color coordination to interior spaces.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Engaging, collaborative domestic conversation between partners planning apartment updates.",
+    "successCriteria": [
+      "Proposes color, curtain, and lighting choices using descriptive adjectives",
+      "Reaches agreement on home renovation budget and timeline"
+    ],
+    "masteryEvidence": "Conducts a 5-turn home redecorating dialogue finalizing living room styling seamlessly.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_104_01_ger_architectural_anatomy_lexicon",
+    "unitId": "unit_a2_104_the_mongolian_ger_architectural_ana",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "Crown, Pillars & Lattice: Architectural Anatomy of the Ger",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce the traditional nomadic dwelling's architectural components and engineering terms (тооно, багана, уни, хана, хаалга, өрх, бүслүүр, эсгий бүрээс).",
+    "communicativeOutcome": "Name and describe every structural element of a Mongolian ger, explaining how the trellis wall, roof poles, and compression crown assemble into a stable nomadic home.",
+    "objectivesIntroduced": [
+      "obj_a2_104_01_ger_anatomy_lexicon"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_103_01_interior_layout_lexicon"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_genitive_possession",
+      "gram_a1_predicate_adjective_nominal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_14_countryside_ger_visiting_etiquette"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_05_describing_home_rooms_furniture"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 7,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_housing_home",
+      "lex_domain_culture_traditions"
+    ],
+    "previousVocabularyReused": [
+      "гэр",
+      "мод",
+      "эсгий",
+      "хана",
+      "хаалга",
+      "барих"
+    ],
+    "readingObjective": "Read a cultural heritage guide detailing the engineering genius of the portable nomadic ger.",
+    "listeningObjective": "Understand an elder carpenter naming the structural components of a five-wall ger (таван ханатай гэр).",
+    "writingObjective": "Label an anatomical diagram of a ger with 6 structural terms in Cyrillic.",
+    "spokenProductionObjective": "Explain ger construction: 'Монгол гэрийн тооныг хоёр багана тулдаг бөгөөд олон униар ханатайгаа холбогддог'.",
+    "registerTarget": "Traditional cultural architecture and craftsmanship register",
+    "pragmaticTarget": "Respecting traditional terminology for the sacred nomadic dwelling.",
+    "prerequisiteLessonIds": [
+      "les_a2_103_04_home_renovation_decor_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_55_01_residential_housing_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_55_residential_housing_apartments_ger_"
+    ],
+    "reviewReason": "Transitions general housing terminology into authoritative nomadic architectural anatomy.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce traditional nomadic architectural terms clearly.",
+    "successCriteria": [
+      "Defines тооно (crown ring), багана (central pillars), уни (roof poles), хана (lattice wall)",
+      "Explains the function of each element in assembling the dwelling"
+    ],
+    "masteryEvidence": "Accurately identifies and explains all 8 components of a ger on an architectural schematic.",
+    "recommendedExerciseModalities": [
+      "diagram_labeling",
+      "matching",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_104_02_sacred_orientation_interior_zones_reading",
+    "unitId": "unit_a2_104_the_mongolian_ger_architectural_ana",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Steppe Engineering: Felt Layers, Outer Canvas, Horsehair Ropes & Carpentry",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce vocabulary for ger insulation layers (эсгий бүрээс), tension bands (бүслүүр), and weatherproofing canvas.",
+    "communicativeOutcome": "Identify and name every material component required to winterize a nomadic dwelling.",
+    "objectivesIntroduced": [
+      "obj_a2_104_02_read_ger_spatial_zoning"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_104_01_ger_anatomy_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_spatial_postpositions_deeree_door",
+      "gram_a1_case_dative_locative_location"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_14_countryside_ger_visiting_etiquette"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_culture_traditions",
+      "lex_domain_housing_home"
+    ],
+    "previousVocabularyReused": [
+      "хоймор",
+      "баруун",
+      "зүүн",
+      "үүд",
+      "хүндэтгэх",
+      "суух"
+    ],
+    "readingObjective": "Locate cultural explanations for the male/female quarters and the sacred status of the hoimor in a 140-word text.",
+    "listeningObjective": "",
+    "writingObjective": "Transcribe the 4 spatial quadrants onto a circular ger floorplan schematic.",
+    "spokenProductionObjective": "Explain to a foreign traveler where guests are invited to sit in a countryside ger.",
+    "registerTarget": "Cultural ethnography and traditional etiquette register",
+    "pragmaticTarget": "Internalizing sacred spatial boundaries to navigate nomadic homes with perfect respect.",
+    "prerequisiteLessonIds": [
+      "les_a2_104_01_ger_architectural_anatomy_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_55_04_reading_home_advertisements"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_55_residential_housing_apartments_ger_"
+    ],
+    "reviewReason": "Deepens home reading from urban apartments to sacred nomadic spatial philosophy.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Read cultural ethnography excerpt aloud.",
+    "successCriteria": [
+      "Identifies хоймор as the north seat of honor for elders, guests, and altars",
+      "Associates west (баруун тал) with male activities and east (зүүн тал) with female domestic tasks"
+    ],
+    "masteryEvidence": "Correctly assigns 6 household activities and objects to their designated ger quadrant.",
+    "recommendedExerciseModalities": [
+      "matching",
+      "diagram_labeling",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_104_03_raising_a_ger_acoustic_listening",
+    "unitId": "unit_a2_104_the_mongolian_ger_architectural_ana",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Lab: Community Teamwork — Raising a Nomad's Ger",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic listening comprehension of an authentic countryside audio recording where herders and neighbors collaborate to erect a ger (гэр барих), calling out instructions and lifting the crown.",
+    "communicativeOutcome": "Follow spoken commands during ger assembly: 'Баганыг тэгш бариарай', 'Униа ээлжилж өлгөе', 'Бүслүүрээ чанга тат'.",
+    "objectivesIntroduced": [
+      "obj_a2_104_03_decode_ger_raising"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_104_01_ger_anatomy_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_39_01_instrumental_case"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_verb_imperative_polite_aarai",
+      "gram_a1_converb_coordinating_j_ch"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_14_countryside_ger_visiting_etiquette"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 1,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_culture_traditions",
+      "lex_domain_housing_home"
+    ],
+    "previousVocabularyReused": [
+      "барих",
+      "өргөх",
+      "тэгш",
+      "холбох",
+      "эсгий",
+      "бүс"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Identify specific assembly stages (unfolding walls, hoisting the crown, inserting roof poles) from live audio commands.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Explain the sequence of raising a ger to a peer in 3 sentences.",
+    "registerTarget": "Spontaneous cooperative countryside work register",
+    "pragmaticTarget": "Parsing shouted instructions over windy steppe acoustics during communal labor.",
+    "prerequisiteLessonIds": [
+      "les_a2_104_02_sacred_orientation_interior_zones_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_95_04_travel_podcast_acoustic_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_95_narrating_past_vacations_countrysid"
+    ],
+    "reviewReason": "Applies countryside listening skills to communal nomadic construction.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Authentic steppe audio with wind ambiance, wooden clatter, and communal calls.",
+    "successCriteria": [
+      "Orders the 4 stages of ger assembly correctly based on heard directives",
+      "Identifies which structural part requires immediate adjustment in the audio"
+    ],
+    "masteryEvidence": "Accurately sequences the full ger erection process based on raw audio commands.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "sequencing",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_104_04_guiding_nomadic_homestay_guests_dialogue",
+    "unitId": "unit_a2_104_the_mongolian_ger_architectural_ana",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Welcome to Our Ger: Introducing Nomadic Architecture to Visitors",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Master spoken communication for guiding a newcomer or foreign guest into a traditional ger, explaining architectural features, sacred orientation, and heating stove operation.",
+    "communicativeOutcome": "Give a complete verbal tour of a traditional ger to a visiting guest: point out the crown and pillars, explain natural solar timekeeping through the toono, and invite them to the hoimor.",
+    "objectivesIntroduced": [
+      "obj_a2_104_04_ger_tour_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_104_01_ger_anatomy_lexicon",
+      "obj_a2_104_02_read_ger_spatial_zoning"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_16_01_greet_time_of_day"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_predicate_adjective_nominal",
+      "gram_a1_verb_imperative_polite_aarai"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_14_countryside_ger_visiting_etiquette"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_13_apologies_politeness"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_culture_traditions",
+      "lex_domain_social_interaction"
+    ],
+    "previousVocabularyReused": [
+      "тавтай морил",
+      "хоймор",
+      "зуух",
+      "нар",
+      "цаг",
+      "суух"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand guest asking how the felt insulation protects against winter cold (-40°C).",
+    "writingObjective": "",
+    "spokenProductionObjective": "Guide visitor: 'Манай гэрт тавтай морилно уу! Та хойморт тухалж сууна уу. Дээшээ харвал энэ нь тооно бөгөөд нарны тусгалаар цаг мэддэг'.",
+    "registerTarget": "Warm hospitable cultural interpretation register",
+    "pragmaticTarget": "Explaining nomadic wisdom and living culture with pride and gracious hospitality.",
+    "prerequisiteLessonIds": [
+      "les_a2_104_01_ger_architectural_anatomy_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_97_03_extending_invitations_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_97_extending_social_invitations_to_gat"
+    ],
+    "reviewReason": "Fuses social welcoming etiquette with traditional nomadic architecture interpretation.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Warm, proud host guiding an appreciative guest into a cozy countryside ger.",
+    "successCriteria": [
+      "Names at least 4 structural elements and explains their practical or cultural role",
+      "Invites guest to sit in the culturally appropriate quadrant with polite honorific phrasing"
+    ],
+    "masteryEvidence": "Conducts a 5-turn cultural tour dialogue welcoming a visitor into a ger flawlessly.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_105_01_concessive_converb_vch_intro",
+    "unitId": "unit_a2_105_ger_etiquette_sacred_threshold_hear",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "Although & Even Though: The Concessive Converb (-вч / боловч)",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the concessive converb suffix (-вч / -эвч / -овч / -өвч) and periphrastic marker боловч ('although / even though / despite'), enabling complex subordinate clauses expressing contrast or unexpected outcomes.",
+    "communicativeOutcome": "Form concessive complex sentences: 'Гадаа хүйтэн байвч, гэрийн дотор маш дулаахан байна' (Although it is cold outside, inside the ger it is very warm), 'Ядарсан боловч ажлаа дуусгав' (Although tired, finished the work).",
+    "objectivesIntroduced": [
+      "obj_a2_105_01_concessive_converb_vch"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_104_01_ger_anatomy_lexicon"
+    ],
+    "grammarIntroduced": [
+      "gram_a2_converb_concessive_vch_bolovch"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_converb_conditional_val",
+      "gram_a1_predicate_adjective_nominal"
+    ],
+    "phonologyIntroduced": [
+      "phono_a2_concessive_vch_juncture"
+    ],
+    "phonologyPracticed": [
+      "phono_a1_masculine_feminine_harmony"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_14_countryside_ger_visiting_etiquette"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_culture_traditions",
+      "lex_domain_social_interaction"
+    ],
+    "previousVocabularyReused": [
+      "хүйтэн",
+      "дулаан",
+      "хэцүү",
+      "гэхдээ",
+      "боловч",
+      "байх"
+    ],
+    "readingObjective": "Read a cultural article discussing how nomadic pastoralism thrives despite extreme Siberian winters.",
+    "listeningObjective": "Identify concessive clauses (-вч / боловч) in conversational audio debates.",
+    "writingObjective": "Combine 4 pairs of contrasting independent clauses into complex concessive sentences using -вч.",
+    "spokenProductionObjective": "Express concessive contrast: 'Хол зам туулсан боловч, бид огт ядраагүй'.",
+    "registerTarget": "Standard subordinate clause complex register",
+    "pragmaticTarget": "Balancing contrasting realities and acknowledging hardships without complaining.",
+    "prerequisiteLessonIds": [
+      "les_a2_104_04_guiding_nomadic_homestay_guests_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_50_01_sequential_converb_aad"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_50_sequential_converb_clause_connector"
+    ],
+    "reviewReason": "Expands subordinate converbial repertoire from sequence (-аад) to concession (-вч).",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model phonological attachment of -вч across vowel and consonant stems.",
+    "successCriteria": [
+      "Attaches -вч correctly according to vowel harmony and epenthesis rules",
+      "Constructs concessive sentences with боловч after nouns, adjectives, or past participles"
+    ],
+    "masteryEvidence": "Produces 'Хэдийгээр бороо орсон боловч бид аяллаа үргэлжлүүллээ' flawlessly.",
+    "recommendedExerciseModalities": [
+      "suffix_selection",
+      "clause_combination",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_105_02_sacred_threshold_hearth_taboos_lexicon",
+    "unitId": "unit_a2_105_ger_etiquette_sacred_threshold_hear",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Deciphering the Nomadic Cultural Code: Steppe Taboos, Customs & Sacred Borders",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Read authentic guidelines detailing taboo actions (stepping on threshold, walking between pillars, whistling in ger).",
+    "communicativeOutcome": "Explain traditional nomadic etiquette: never step on the door threshold (босго), never pass between the two central pillars, respect the hearth fire (голомт), and accept tea with right hand.",
+    "objectivesIntroduced": [
+      "obj_a2_105_02_ger_taboos_etiquette_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_105_01_concessive_converb_vch"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_converb_concessive_vch_bolovch"
+    ],
+    "grammarReviewed": [
+      "gram_a1_verb_prohibitive_bitgii",
+      "gram_a1_case_instrumental_transport_language"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_14_countryside_ger_visiting_etiquette"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_culture_traditions",
+      "lex_domain_social_interaction"
+    ],
+    "previousVocabularyReused": [
+      "босго",
+      "гал",
+      "багана",
+      "хүндэтгэх",
+      "ёс",
+      "хориотой"
+    ],
+    "readingObjective": "Identify forbidden behaviors and prescribed guest responses from traditional cultural texts.",
+    "listeningObjective": "Understand an elder herder gently instructing a young visitor on proper hearth customs.",
+    "writingObjective": "List 5 essential cultural taboos (цээрлэх ёс) when visiting a nomadic ger in Cyrillic.",
+    "spokenProductionObjective": "Explain etiquette: 'Монгол гэрт орохдоо босгон дээр гишгэж болохгүй, мөн гал руу хог хаяж цээрлэнэ'.",
+    "registerTarget": "Sacred cultural tradition and behavioral etiquette register",
+    "pragmaticTarget": "Understanding the spiritual and practical significance behind ancient pastoral taboos.",
+    "prerequisiteLessonIds": [
+      "les_a2_105_01_concessive_converb_vch_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_87_01_modal_permission_bolno_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_87_modal_permission_possibility_suffix"
+    ],
+    "reviewReason": "Applies modal prohibitions (болохгүй, цээрлэнэ) to traditional sacred taboos.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce sacred cultural taboo terminology clearly.",
+    "successCriteria": [
+      "Defines босго (threshold), голомт (hearth/sacred fire), цээрлэх (to taboo/abstain)",
+      "Explains why stepping on the threshold is considered disrespectful to the host"
+    ],
+    "masteryEvidence": "Accurately details 5 inviolable ger etiquette rules using appropriate prohibitive forms.",
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "true_false",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_105_03_nomadic_hospitality_tea_offering_dialogue",
+    "unitId": "unit_a2_105_ger_etiquette_sacred_threshold_hear",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Milk Tea & Snuff Bottles: The Pastoral Greeting Ritual",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Master spoken communication for traditional pastoral guest greetings: exchanging snuff bottles (хөөрөг зөрүүлэх), inquiring about herd well-being (тарган тавтай өвөлжиж байна уу?), and receiving milk tea with both hands.",
+    "communicativeOutcome": "Perform the traditional nomadic greeting ritual seamlessly upon entering a herder's ger: exchange seasonal greetings, accept milk tea respectfully, and engage in gracious small talk.",
+    "objectivesIntroduced": [
+      "obj_a2_105_03_pastoral_greeting_ritual_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_105_01_concessive_converb_vch",
+      "obj_a2_105_02_ger_taboos_etiquette_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_16_01_greet_time_of_day"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_converb_concessive_vch_bolovch"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_comitative_association",
+      "gram_a1_verb_imperative_polite_aarai"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_diphthongs"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_14_countryside_ger_visiting_etiquette"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_13_apologies_politeness"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_culture_traditions",
+      "lex_domain_social_interaction"
+    ],
+    "previousVocabularyReused": [
+      "цай",
+      "уух",
+      "мал",
+      "өвөлжих",
+      "зусах",
+      "баярлалаа"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand an elder host welcoming weary travelers with fresh hot milk tea and clotted cream (өрөм).",
+    "writingObjective": "",
+    "spokenProductionObjective": "Perform pastoral greeting: 'Сайн байна уу? Мал сүрэг тарган тавтай зусаж байна уу? Сайхан цай байна, баярлалаа'.",
+    "registerTarget": "High traditional pastoral courtesy register",
+    "pragmaticTarget": "Holding tea bowl with right hand supported by left elbow, sipping before putting down.",
+    "prerequisiteLessonIds": [
+      "les_a2_105_02_sacred_threshold_hearth_taboos_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_16_05_greeting_dialogue_practice"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_16_daily_greetings_time_of_day_cultura"
+    ],
+    "reviewReason": "Evolves basic greetings into the full ceremonial nomadic pastoral greeting ritual.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Warm, resonant countryside dialogue between herder host and respectful visiting guest.",
+    "successCriteria": [
+      "Uses traditional seasonal livestock inquiry formula appropriately",
+      "Receives tea and dairy offerings with proper verbal gratitude and cultural gestures"
+    ],
+    "masteryEvidence": "Executes a 5-turn pastoral greeting dialogue with impeccable cultural propriety.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_105_04_steppe_etiquette_tales_acoustic_listening",
+    "unitId": "unit_a2_105_ger_etiquette_sacred_threshold_hear",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Acoustic Lab: Steppe Etiquette Tales & Cultural Misunderstandings",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic listening comprehension of an audio story narrating a foreign traveler's initial blunders in a herder camp and how the gracious nomadic hosts accommodated them.",
+    "communicativeOutcome": "Extract cultural lessons and concessive grammar structures from an audio narrative describing steppe hospitality and mutual cultural adaptation.",
+    "objectivesIntroduced": [
+      "obj_a2_105_04_decode_etiquette_narratives"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_105_01_concessive_converb_vch"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_41_01_witnessed_past_laa"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a2_converb_concessive_vch_bolovch",
+      "gram_a1_converb_sequential_aad"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_14_countryside_ger_visiting_etiquette"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 1,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_culture_traditions",
+      "lex_domain_travel_transport"
+    ],
+    "previousVocabularyReused": [
+      "зочин",
+      "айх",
+      "мэдэхгүй",
+      "заах",
+      "инээх",
+      "сурах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Identify specific cultural blunders (e.g. whistling inside a ger) mentioned in the 2-minute audio narrative.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Explain why whistling inside a ger is tabood (it summons storm winds) to a peer.",
+    "registerTarget": "Humorous and educational narrative storytelling register",
+    "pragmaticTarget": "Understanding the protective logic underlying traditional folkloric taboos.",
+    "prerequisiteLessonIds": [
+      "les_a2_105_02_sacred_threshold_hearth_taboos_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_94_04_radio_memoir_acoustic_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_94_childhood_hometown_recollections_ea"
+    ],
+    "reviewReason": "Applies narrative acoustic listening to traditional pastoral folklore and customs.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Warm storytelling audio with gentle humor and steppe ambiance.",
+    "successCriteria": [
+      "Identifies the 2 etiquette mistakes made by the traveler in the story",
+      "Extracts how the hosts explained the custom using concessive converb structures"
+    ],
+    "masteryEvidence": "Accurately answers 5 comprehension questions analyzing the etiquette story.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "phonetic_discrimination",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_105_05_homestay_cultural_code_writing",
+    "unitId": "unit_a2_105_ger_etiquette_sacred_threshold_hear",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 5,
+    "title": "Nomadic Etiquette Guide: Writing a Countryside Visiting Handbook",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Synthesize concessive converbs (-вч / боловч), ger anatomy, and sacred taboos into a concise written cultural etiquette guide for visitors to nomadic camps.",
+    "communicativeOutcome": "Draft a 6-point cultural guidebook entry instructing travelers on proper behavior inside a Mongolian ger, utilizing concessive contrast and respectful modal forms.",
+    "objectivesIntroduced": [
+      "obj_a2_105_05_write_etiquette_guide"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_105_01_concessive_converb_vch",
+      "obj_a2_105_02_ger_taboos_etiquette_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_50_01_sequential_converb"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_converb_concessive_vch_bolovch"
+    ],
+    "grammarReviewed": [
+      "gram_a1_verb_prohibitive_bitgii",
+      "gram_a1_verb_imperative_polite_aarai"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_14_countryside_ger_visiting_etiquette"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_culture_traditions",
+      "lex_domain_travel_transport"
+    ],
+    "previousVocabularyReused": [
+      "дүрэм",
+      "ёс",
+      "бичих",
+      "зөвлөмж",
+      "аялагч",
+      "хүндэтгэх"
+    ],
+    "readingObjective": "Review authentic cultural tourism guidelines for structural layout and tone.",
+    "listeningObjective": "",
+    "writingObjective": "Draft a 6-sentence visitor etiquette handbook incorporating at least two concessive clauses (-вч / боловч).",
+    "spokenProductionObjective": "",
+    "registerTarget": "Instructive cultural guidebook register",
+    "pragmaticTarget": "Presenting traditional customs clearly, respectfully, and persuasively.",
+    "prerequisiteLessonIds": [
+      "les_a2_105_01_concessive_converb_vch_intro",
+      "les_a2_105_02_sacred_threshold_hearth_taboos_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_50_01_sequential_converb_aad"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_50_sequential_converb_clause_connector"
+    ],
+    "reviewReason": "Combines sequential instructions with concessive clauses in cultural guide writing.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Audio read-back of written cultural etiquette handbook.",
+    "successCriteria": [
+      "Produces written guidebook containing at least 2 correctly formed concessive clauses in -вч / боловч",
+      "Covers entry, seating, tea acceptance, and fire reverence comprehensively"
+    ],
+    "masteryEvidence": "Drafts 'Гэрт орохдоо босгон дээр бүү гишгээрэй. Цаг агаар халуун байвч, гэрт малгайгаа өмсөж ордог ёстой...' flawlessly.",
+    "recommendedExerciseModalities": [
+      "short-answer writing",
+      "sentence construction",
+      "error correction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_106_01_five_pastoral_animals_lexicon",
+    "unitId": "unit_a2_106_the_five_animals_of_pastoral_nomadi",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "The Five Snouts: Pastoral Herds of the Steppe (Таван хошуу мал)",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce the foundational Mongolian pastoral livestock taxonomy: horse, cattle/yak, camel, sheep, goat (адуу/морь, үхэр/сарлаг, тэмээ, хонь, ямаа), their herds (сүрэг), and collective terms.",
+    "communicativeOutcome": "Identify, categorize, and describe the five traditional livestock types of Mongolia, distinguishing large cattle (бод мал) from small stock (бог мал).",
+    "objectivesIntroduced": [
+      "obj_a2_106_01_five_animals_lexicon"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_105_01_concessive_converb_vch"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_noun_plural_nuud",
+      "gram_a1_predicate_adjective_nominal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_15_nomadic_livestock_five_animals"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_14_countryside_ger_visiting_etiquette"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 7,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_countryside_nature",
+      "lex_domain_culture_traditions"
+    ],
+    "previousVocabularyReused": [
+      "мал",
+      "сүрэг",
+      "морь",
+      "үхэр",
+      "хонь",
+      "хөдөө"
+    ],
+    "readingObjective": "Read a pastoral veterinary brochure detailing the geographic distribution of camels in the Gobi and yaks in the Khangai.",
+    "listeningObjective": "Understand an elder herder explaining the distinction between бод (horses, cattle, camels) and бог (sheep, goats).",
+    "writingObjective": "List the five pastoral animals with their corresponding herd collective nouns in Cyrillic.",
+    "spokenProductionObjective": "Describe a herder's stock: 'Манай нутгийн айлууд голдуу үхэр, хонь өсгөдөг бол говьд тэмээн сүрэг олон байдаг'.",
+    "registerTarget": "Traditional pastoral animal husbandry register",
+    "pragmaticTarget": "Using accurate pastoral collective nouns (адуун сүрэг, хонин сүрэг, тэмээн жин) respectfully.",
+    "prerequisiteLessonIds": [
+      "les_a2_105_05_homestay_cultural_code_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_56_01_countryside_landscape_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_56_countryside_landscapes_pastoral_ge"
+    ],
+    "reviewReason": "Connects pastoral landscapes with active livestock husbandry.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce pastoral livestock terms clearly.",
+    "successCriteria": [
+      "Names all five snouts: морь, үхэр, тэмээ, хонь, ямаа",
+      "Distinguishes бод мал (large stock) from бог мал (small stock)"
+    ],
+    "masteryEvidence": "Accurately categorizes and describes livestock distribution across 4 ecological zones of Mongolia.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "matching",
+      "contextual_cloze"
+    ]
+  },
+  {
+    "lessonId": "les_a2_106_02_livestock_age_terminology_reading",
+    "unitId": "unit_a2_106_the_five_animals_of_pastoral_nomadi",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Herd Taxonomy: Traditional Age, Gender & Coat Color Distinctions of the Five Snouts",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce specialized Mongolian terms for young stock (даага, хурга, тугал, ботго) and adult gender/color designations.",
+    "communicativeOutcome": "Accurately name livestock by age cohort and coat color when conversing with herders.",
+    "objectivesIntroduced": [
+      "obj_a2_106_02_read_livestock_census"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_106_01_five_animals_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_numerals_cardinal_counting",
+      "gram_a1_case_genitive_possession"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_15_nomadic_livestock_five_animals"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 7,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_countryside_nature",
+      "lex_domain_culture_traditions"
+    ],
+    "previousVocabularyReused": [
+      "төл",
+      "хүүхэд",
+      "тоо",
+      "өсөх",
+      "хавар",
+      "намар"
+    ],
+    "readingObjective": "Extract livestock counts and spring newborn survival figures from a 120-word soum herding report.",
+    "listeningObjective": "",
+    "writingObjective": "Pair adult livestock with their young offspring in a taxonomy study table.",
+    "spokenProductionObjective": "Explain spring births: 'Энэ хавар манай хотонд зуун хурга, тавин ишиг бойжиж байна'.",
+    "registerTarget": "Agricultural statistical and pastoral husbandry register",
+    "pragmaticTarget": "Understanding the deep cultural joy associated with successful spring births (төл хүлээн авах).",
+    "prerequisiteLessonIds": [
+      "les_a2_106_01_five_pastoral_animals_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_27_01_counting_tens_hundreds"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_27_cardinal_numerals_higher_quantitie"
+    ],
+    "reviewReason": "Applies numerical quantification to authentic pastoral livestock headcounts.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Read pastoral agricultural report aloud.",
+    "successCriteria": [
+      "Pairs every adult animal with its corresponding young: морь-унага, хонь-хурга, ямаа-ишиг, үхэр-тугал, тэмээ-ботго",
+      "Extracts newborn counts from a soum census text"
+    ],
+    "masteryEvidence": "Achieves 100% accuracy matching young animal terms to their species and age brackets.",
+    "recommendedExerciseModalities": [
+      "matching",
+      "categorization",
+      "contextual_cloze"
+    ]
+  },
+  {
+    "lessonId": "les_a2_106_03_pasture_herding_acoustic_listening",
+    "unitId": "unit_a2_106_the_five_animals_of_pastoral_nomadi",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Lab: Pasture Calls, Whistles & Herding Directives",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic listening comprehension of authentic open-air pasture audio where herders ride horses, whistle, call out traditional animal driving sounds (чөөг, хөөг, өвөө), and guide livestock toward water wells.",
+    "communicativeOutcome": "Understand herder calls on the steppe, distinguish specific pastoral commands, and follow herding movements across pastures.",
+    "objectivesIntroduced": [
+      "obj_a2_106_03_decode_pastoral_calls"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_106_01_five_animals_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_39_01_instrumental_case"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_allative_direction",
+      "gram_a1_verb_imperative_polite_aarai"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_15_nomadic_livestock_five_animals"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 1,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_countryside_nature"
+    ],
+    "previousVocabularyReused": [
+      "худаг",
+      "ус",
+      "бэлчээр",
+      "туух",
+      "морь",
+      "дуудах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Identify specific herding directives (bringing sheep to the well, rounding up horses) from steppe pasture audio.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Explain to a partner which pasture the herd is moving toward based on audio cues.",
+    "registerTarget": "Open-air pastoral acoustic and vocal directive register",
+    "pragmaticTarget": "Deciphering traditional animal calling interjections used across the Eurasian steppe.",
+    "prerequisiteLessonIds": [
+      "les_a2_106_02_livestock_age_terminology_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_104_03_raising_a_ger_acoustic_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_104_the_mongolian_ger_architectural_ana"
+    ],
+    "reviewReason": "Expands countryside auditory decoding from domestic camp to open pasture fields.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Steppe pasture audio with horse hoofbeats, sheep bleating, and rhythmic herder whistling.",
+    "successCriteria": [
+      "Identifies which livestock type is being directed from audio cues",
+      "Extracts destination (уст худаг, хойд бэлчээр) from heard herder speech"
+    ],
+    "masteryEvidence": "Accurately maps out pasture livestock movements based on 3 distinct herding audio tracks.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "phonetic_discrimination",
+      "sequencing"
+    ]
+  },
+  {
+    "lessonId": "les_a2_106_04_herder_camp_pastoral_life_dialogue",
+    "unitId": "unit_a2_106_the_five_animals_of_pastoral_nomadi",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "A Day in the Khot Ail: Inquiring About Herds, Grazing & Pasture",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Master spoken communication for conversational exchanges with herders: discussing pasture condition (бэлчээрийн гарц), seasonal migration plans (оторт явах), and herd health.",
+    "communicativeOutcome": "Engage in an authentic, respectful conversation with a nomadic herder about pasture conditions, livestock numbers, and nomadic seasonal rhythms.",
+    "objectivesIntroduced": [
+      "obj_a2_106_04_pastoral_life_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_106_01_five_animals_lexicon",
+      "obj_a2_106_02_read_livestock_census"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_16_01_greet_time_of_day"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_comitative_association",
+      "gram_a1_polar_questions_uu_uu"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_diphthongs"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_15_nomadic_livestock_five_animals"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_13_apologies_politeness"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 3,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_countryside_nature",
+      "lex_domain_social_interaction"
+    ],
+    "previousVocabularyReused": [
+      "бэлчээр",
+      "өвс",
+      "бороо",
+      "отор",
+      "нүүх",
+      "сайхан"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand herder explaining that good summer rains have produced rich grass for the horses.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Inquire about pasture: 'Танай нутгаар зуншлага хэр байна? Бэлчээрийн өвс ногоо сайн ургаж байна уу?'.",
+    "registerTarget": "Respectful pastoral small talk register",
+    "pragmaticTarget": "Never asking direct, blunt livestock counts (considered bad omen); using respectful general inquiries instead.",
+    "prerequisiteLessonIds": [
+      "les_a2_106_01_five_pastoral_animals_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_105_03_nomadic_hospitality_tea_offering_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_105_ger_etiquette_sacred_threshold_hear"
+    ],
+    "reviewReason": "Deepens tea-offering dialogue into rich conversational discussion of livestock and pasture.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Warm, authentic dialogue between traveling guest and knowledgeable herder host.",
+    "successCriteria": [
+      "Uses traditional pastoral idioms for pasture well-being (зуншлага сайхан, ногоо сайн)",
+      "Respects cultural convention of indirect herd inquiry"
+    ],
+    "masteryEvidence": "Conducts a 5-turn pastoral dialogue discussing grazing lands and livestock well-being with natural poise.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_107_01_terminative_converb_tal_intro",
+    "unitId": "unit_a2_107_pastoral_dairy_processing_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "Until & By the Time: The Terminative Converb (-тал/-тэл/-тол/-төл)",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the terminative converb suffix (-тал4 / -тэл / -тол / -төл) indicating temporal boundaries: an action continuing 'until' an event occurs, or an event happening 'by the time' another action unfolds.",
+    "communicativeOutcome": "Form terminative temporal clauses: 'Сүүг буцалтал самар' (Stir the milk until it boils), 'Намайг очитол хоол бэлэн болсон байв' (By the time I arrived, dinner was ready).",
+    "objectivesIntroduced": [
+      "obj_a2_107_01_terminative_converb_tal"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_106_01_five_animals_lexicon"
+    ],
+    "grammarIntroduced": [
+      "gram_a2_converb_terminative_tal"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_converb_sequential_aad",
+      "gram_a1_verb_imperative_polite_aarai"
+    ],
+    "phonologyIntroduced": [
+      "phono_a2_terminative_suffix_harmony"
+    ],
+    "phonologyPracticed": [
+      "phono_a1_masculine_feminine_harmony"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_26_simple_recipe_cooking_steps"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_food_cuisine",
+      "lex_domain_daily_routines"
+    ],
+    "previousVocabularyReused": [
+      "хүлээх",
+      "болох",
+      "хийх",
+      "очих",
+      "ирнэ",
+      "хүртэл"
+    ],
+    "readingObjective": "Read traditional dairy preparation instructions explaining how long to simmer milk.",
+    "listeningObjective": "Identify verbs ending in -тал4 in cooking instructions.",
+    "writingObjective": "Combine 4 pairs of clauses into temporal bounds using -тал4.",
+    "spokenProductionObjective": "Give step-by-step instruction: 'Сүү хөртөл тагийг нь битгий таглаарай'.",
+    "registerTarget": "Procedural instructional and culinary process register",
+    "pragmaticTarget": "Expressing precise temporal endpoints in culinary and craft processes.",
+    "prerequisiteLessonIds": [
+      "les_a2_106_04_herder_camp_pastoral_life_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_50_01_sequential_converb_aad"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_50_sequential_converb_clause_connector"
+    ],
+    "reviewReason": "Expands clause connectors from sequence (-аад) to terminative endpoints (-тал).",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model harmonious articulation of -тал, -тэл, -тол, -төл.",
+    "successCriteria": [
+      "Attaches correct harmonic allomorph of -тал4 based on root vowels",
+      "Constructs clauses specifying actions continuing until a state change occurs"
+    ],
+    "masteryEvidence": "Produces 'Өрөм тогттол сүүг хөдөлгөөнгүй байлгах хэрэгтэй' with grammatical precision.",
+    "recommendedExerciseModalities": [
+      "suffix_selection",
+      "clause_combination",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_107_02_white_food_dairy_processing_lexicon",
+    "unitId": "unit_a2_107_pastoral_dairy_processing_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "White Food: Pastoral Dairy Processing & Delicacies (Цагаан идээ)",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce traditional Mongolian dairy products and processing terminology (цагаан идээ, сүү саах, хөөрүүлэх, өрөм хураах, ааруул хатаах, тараг бүрэх, айраг исгэх).",
+    "communicativeOutcome": "Describe traditional nomadic dairy crafts: milking cows/mares, boiling milk, skimming clotted cream (өрөм), setting yogurt (тараг), drying curd cheese (ааруул), and fermenting airag.",
+    "objectivesIntroduced": [
+      "obj_a2_107_02_dairy_processing_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_107_01_terminative_converb_tal"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_converb_terminative_tal"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_accusative_definite",
+      "gram_a1_case_instrumental_transport_language"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_26_simple_recipe_cooking_steps"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_food_cuisine",
+      "lex_domain_culture_traditions"
+    ],
+    "previousVocabularyReused": [
+      "сүү",
+      "идээ",
+      "өрөм",
+      "ааруул",
+      "айраг",
+      "хийх"
+    ],
+    "readingObjective": "Read an authentic recipe guide explaining how to make dried curd cheese (ааруул) in the summer sun.",
+    "listeningObjective": "Understand an elder explaining the intricate steps of fermenting mare's milk into airag.",
+    "writingObjective": "List 5 iconic Mongolian dairy products with their preparation methods in Cyrillic.",
+    "spokenProductionObjective": "Explain dairy process: 'Бид өглөө эрт сүүгээ саагаад, тогоонд хөөрүүлж өрөм хураадаг'.",
+    "registerTarget": "Traditional culinary heritage and dairy craft register",
+    "pragmaticTarget": "Expressing appreciation for the artisanal complexity of nomadic dairy culture.",
+    "prerequisiteLessonIds": [
+      "les_a2_107_01_terminative_converb_tal_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_60_01_food_preparation_cooking_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_60_cooking_recipes_food_preparation_"
+    ],
+    "reviewReason": "Elevates domestic cooking to nomadic dairy processing traditions.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce pastoral dairy terminology clearly.",
+    "successCriteria": [
+      "Defines өрөм (clotted cream), ааруул (dried curd), тараг (yogurt), айраг (fermented mare's milk)",
+      "Uses processing verbs: саах (milk), хөөрүүлэх (boil milk), бүрэх (set yogurt), исгэх (ferment)"
+    ],
+    "masteryEvidence": "Accurately details the 4-step sequence for preparing curd cheese using terminative converbs.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_107_03_dairy_making_masterclass_dialogue",
+    "unitId": "unit_a2_107_pastoral_dairy_processing_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Making Airag & Aaruul: Learning Dairy Crafts from a Nomadic Host",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Develop spoken communicative fluency for participating in dairy preparation: asking how many times to churn airag (айраг бүлэх), when to cut curds, and how to preserve milk products for winter.",
+    "communicativeOutcome": "Engage in an interactive cooking dialogue with a herder host, asking practical questions about dairy processing steps, timing, and traditional fermentation secrets.",
+    "objectivesIntroduced": [
+      "obj_a2_107_03_dairy_making_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_107_01_terminative_converb_tal",
+      "obj_a2_107_02_dairy_processing_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_16_01_greet_time_of_day"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_converb_terminative_tal"
+    ],
+    "grammarReviewed": [
+      "gram_a1_verb_imperative_polite_aarai",
+      "gram_a1_polar_questions_uu_uu"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_diphthongs"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_26_simple_recipe_cooking_steps"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_13_apologies_politeness"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_food_cuisine",
+      "lex_domain_culture_traditions"
+    ],
+    "previousVocabularyReused": [
+      "бүлэх",
+      "хэрхэн",
+      "хэзээ",
+      "цаг",
+      "заах",
+      "амттай"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand host instructing visitor to churn the leather airag sack (хөхүүр) 1,000 times until frothy.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Ask and confirm: 'Энэ ааруулыг наранд хэдэн өдөр хаттал нь тавих вэ?'.",
+    "registerTarget": "Hands-on apprenticeship and domestic instruction register",
+    "pragmaticTarget": "Showing enthusiasm to learn nomadic traditions hands-on.",
+    "prerequisiteLessonIds": [
+      "les_a2_107_02_white_food_dairy_processing_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_60_05_cooking_recipe_instruction_dialog"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_60_cooking_recipes_food_preparation_"
+    ],
+    "reviewReason": "Deepens recipe dialogue with pastoral artisanal techniques.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Warm, patient dialogue between knowledgeable dairy craftswoman and enthusiastic learner.",
+    "successCriteria": [
+      "Asks procedural questions about dairy fermentation timing using -тал",
+      "Follows host's live culinary instructions accurately"
+    ],
+    "masteryEvidence": "Conducts a 5-turn dairy crafting dialogue mastering churning and drying protocols.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_107_04_culinary_heritage_acoustic_listening",
+    "unitId": "unit_a2_107_pastoral_dairy_processing_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Acoustic Lab: Radio Documentary on Nomadic Gastronomy & Milk Fermentation",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic listening comprehension of a radio documentary exploring the microbial science and heritage of nomadic milk fermentation, churn acoustics, and seasonal diets.",
+    "communicativeOutcome": "Extract processing steps, scientific health benefits of dairy curds, and seasonal consumption patterns from an authentic documentary audio clip.",
+    "objectivesIntroduced": [
+      "obj_a2_107_04_decode_gastronomy_documentary"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_107_01_terminative_converb_tal"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_41_01_witnessed_past_laa"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a2_converb_terminative_tal",
+      "gram_a1_converb_coordinating_j_ch"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_26_simple_recipe_cooking_steps"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 1,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_food_cuisine",
+      "lex_domain_culture_traditions"
+    ],
+    "previousVocabularyReused": [
+      "эрүүл мэнд",
+      "ашигтай",
+      "хоол",
+      "зун",
+      "өвөл",
+      "эрдэмтэн"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Identify specific health benefits of aaruul (calcium, teeth strengthening) from documentary narration.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Summarize the documentary's explanation of summer dairy detox to a peer.",
+    "registerTarget": "Educational radio documentary broadcast register",
+    "pragmaticTarget": "Synthesizing culinary heritage with modern nutritional science concepts.",
+    "prerequisiteLessonIds": [
+      "les_a2_107_02_white_food_dairy_processing_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_94_04_radio_memoir_acoustic_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_94_childhood_hometown_recollections_ea"
+    ],
+    "reviewReason": "Applies documentary listening skills to gastronomic and ethnobotanical science.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Polished documentary narration interspersed with rhythmic sounds of butter churning.",
+    "successCriteria": [
+      "Identifies the primary scientific benefit of fermented dairy explained in the audio",
+      "Extracts terminative clauses ending in -тал4 from the spoken narrative"
+    ],
+    "masteryEvidence": "Answers 5 detailed factual questions after listening to a 90-second documentary segment.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "phonetic_discrimination",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_107_05_traditional_recipe_card_writing",
+    "unitId": "unit_a2_107_pastoral_dairy_processing_",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 5,
+    "title": "Nomad's Kitchen: Writing a Traditional Step-by-Step Dairy Recipe",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Synthesize terminative converbs (-тал4), dairy processing vocabulary, and imperative directives into a clear written recipe card for making Mongolian yogurt or clotted cream.",
+    "communicativeOutcome": "Write an instructional recipe card outlining equipment, ingredients, and sequential preparation steps for an authentic nomadic dairy delicacy.",
+    "objectivesIntroduced": [
+      "obj_a2_107_05_write_dairy_recipe"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_107_01_terminative_converb_tal",
+      "obj_a2_107_02_dairy_processing_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_50_01_sequential_converb"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_converb_terminative_tal"
+    ],
+    "grammarReviewed": [
+      "gram_a1_verb_imperative_polite_aarai",
+      "gram_a1_converb_sequential_aad"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_26_simple_recipe_cooking_steps"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_food_cuisine",
+      "lex_domain_culture_traditions"
+    ],
+    "previousVocabularyReused": [
+      "жор",
+      "орц",
+      "хийх",
+      "дараалал",
+      "тогоо",
+      "амтлах"
+    ],
+    "readingObjective": "Review a classic cookbook layout for traditional pastoral confectionery.",
+    "listeningObjective": "",
+    "writingObjective": "Draft a 6-step recipe for making yogurt (тараг бүрэх) utilizing at least 2 terminative converbs in -тал4.",
+    "spokenProductionObjective": "",
+    "registerTarget": "Instructive culinary recipe register",
+    "pragmaticTarget": "Structuring clear, repeatable instructional steps with unambiguous temporal markers.",
+    "prerequisiteLessonIds": [
+      "les_a2_107_01_terminative_converb_tal_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_60_05_cooking_recipe_instruction_dialog"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_60_cooking_recipes_food_preparation_"
+    ],
+    "reviewReason": "Transitions verbal recipe instructions into structured written recipe card publications.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Audio read-back of written recipe instructions.",
+    "successCriteria": [
+      "Produces written recipe card with ingredients, tools, and ordered steps",
+      "Integrates terminative converbs accurately: 'бүлээхэн болтол нь хөргөнө'"
+    ],
+    "masteryEvidence": "Drafts 'Сүүгээ сайтар хөөрүүлээд, бүлээн болтол нь хөргөнө. Дараа нь хөрөнгө хийж хучаад, 4 цаг болтол хөдөлгөхгүй тавина' flawlessly.",
+    "recommendedExerciseModalities": [
+      "short-answer writing",
+      "sentence construction",
+      "error correction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_108_01_indefinite_pronouns_negation_intro",
+    "unitId": "unit_a2_108_countryside_travel_logistics_season",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "Nowhere & Nobody: Indefinite Pronouns with Negation (юу ч үгүй, хэн ч биш)",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce indefinite pronouns combined with emphatic particle ч and negative predicates expressing absolute negative polarity: хэн ч биш / байхгүй (nobody), юу ч үгүй / хийхгүй (nothing), хаашаа ч үгүй (nowhere), хэзээ ч үгүй (never).",
+    "communicativeOutcome": "Express absolute negative states in remote wilderness: 'Тэнд хэн ч байхгүй' (There is nobody there), 'Замд юу ч харагдахгүй байна' (Nothing is visible on the road), 'Би хаашаа ч яваагүй' (I went nowhere).",
+    "objectivesIntroduced": [
+      "obj_a2_108_01_negative_indefinites"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_107_01_terminative_converb_tal"
+    ],
+    "grammarIntroduced": [
+      "gram_a2_indefinite_pronouns_negation"
+    ],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_negative_particles_gui_bish",
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "phonologyIntroduced": [
+      "phono_a2_negative_indefinite_stress"
+    ],
+    "phonologyPracticed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_16_seasonal_weather_forecast"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_travel_transport",
+      "lex_domain_geography_places"
+    ],
+    "previousVocabularyReused": [
+      "хэн",
+      "юу",
+      "хаана",
+      "хэзээ",
+      "байхгүй",
+      "үгүй"
+    ],
+    "readingObjective": "Read safety advisories describing isolated Gobi wilderness stretches where there are no settlements for 200 km.",
+    "listeningObjective": "Identify negative indefinite constructions (юу ч алга, хэн ч ирээгүй) in travel broadcasts.",
+    "writingObjective": "Write 4 sentences describing isolated steppe conditions using negative indefinites.",
+    "spokenProductionObjective": "Describe remote wilderness: 'Энэ талд хэн ч амьдардаггүй, юу ч үгүй нам гүм байдаг'.",
+    "registerTarget": "Standard negative polarity and wilderness description register",
+    "pragmaticTarget": "Using emphatic particle 'ч' with negation to convey complete emptiness or absence emphatically.",
+    "prerequisiteLessonIds": [
+      "les_a2_107_05_traditional_recipe_card_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_22_01_negation_particles_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_22_negative_predicates_particles_bi"
+    ],
+    "reviewReason": "Expands simple negation (үгүй, биш) to complete negative indefinite pronouns.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model emphatic stress on clitic particle 'ч' before negative verbs.",
+    "successCriteria": [
+      "Pairs interrogative stems with particle ч and negative predicates (хэн ч үгүй, юу ч үгүй)",
+      "Contrasts negative polarity with affirmative existential statements"
+    ],
+    "masteryEvidence": "Produces 'Өвлийн замд ямар ч машин тааралдсангүй' without hesitation.",
+    "recommendedExerciseModalities": [
+      "suffix_selection",
+      "sentence_transformation",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_108_02_countryside_travel_hazards_weather_lexicon",
+    "unitId": "unit_a2_108_countryside_travel_logistics_season",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Deciphering Countryside Route Maps, Waypoint Guides & Fuel Supply Tables",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Analyze regional travel advisories and highway waypoint charts for steppe journeys.",
+    "communicativeOutcome": "Understand seasonal weather warnings, plan off-road road trips, prepare reserve fuel and spare tires, and describe treacherous mountain pass conditions.",
+    "objectivesIntroduced": [
+      "obj_a2_108_02_travel_hazards_weather_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_108_01_negative_indefinites"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_indefinite_pronouns_negation"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_ablative_origin",
+      "gram_a1_predicate_adjective_nominal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_16_seasonal_weather_forecast"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_travel_transport",
+      "lex_domain_weather_climate"
+    ],
+    "previousVocabularyReused": [
+      "цас",
+      "бороо",
+      "шуурга",
+      "зам",
+      "унаа",
+      "аюултай"
+    ],
+    "readingObjective": "Identify gas station locations, dirt track crossings, and river fords on regional route maps.",
+    "listeningObjective": "Understand an off-road expedition leader briefing drivers on rocky passes and reserve fuel canisters.",
+    "writingObjective": "List 5 essential winter road trip survival items in Cyrillic.",
+    "spokenProductionObjective": "Warn companions: 'Даваа цасаар хаагдсан тул өнөөдөр яагаад ч явж болохгүй'.",
+    "registerTarget": "Emergency preparedness and travel safety advisory register",
+    "pragmaticTarget": "Taking steppe weather risks seriously and adhering strictly to safety advisories.",
+    "prerequisiteLessonIds": [
+      "les_a2_108_01_indefinite_pronouns_negation_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_57_01_weather_seasons_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_57_weather_conditions_seasons_climate"
+    ],
+    "reviewReason": "Elevates basic weather descriptions to severe steppe logistics and travel safety hazards.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce meteorological warning terms clearly.",
+    "successCriteria": [
+      "Defines цасан шуурга (blizzard), даваа (mountain pass), шатахуун (fuel), төөрөх (get lost)",
+      "Interprets severity levels of national meteorological warnings"
+    ],
+    "masteryEvidence": "Accurately assesses route viability based on an official road condition bulletin.",
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "information_extraction",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_108_03_road_condition_advisory_dialogue",
+    "unitId": "unit_a2_108_countryside_travel_logistics_season",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Is the Pass Clear: Inquiring About Road Conditions at Countryside Gas Stations",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Master spoken communication for en-route countryside travel: asking gas station attendants and local drivers about road conditions ahead, muddy river crossings, and pass clearance.",
+    "communicativeOutcome": "Stop at a remote countryside petrol station, inquire about pass viability ('Даваагаар машин гарч байна уу?'), check fuel quality, and decide whether to proceed or wait out a storm.",
+    "objectivesIntroduced": [
+      "obj_a2_108_03_road_condition_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_108_01_negative_indefinites",
+      "obj_a2_108_02_travel_hazards_weather_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_16_01_greet_time_of_day"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_indefinite_pronouns_negation"
+    ],
+    "grammarReviewed": [
+      "gram_a1_converb_conditional_val",
+      "gram_a1_polar_questions_uu_uu"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_diphthongs"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_16_seasonal_weather_forecast"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_13_apologies_politeness"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_travel_transport"
+    ],
+    "previousVocabularyReused": [
+      "бензин",
+      "зам",
+      "гарах",
+      "хэцүү",
+      "хонох",
+      "болгоомжтой"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand local trucker warning that the river bridge washed out and detour is necessary.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Inquire and decide: 'Урд талын даваа цастай юу? Хэрэв зам хэцүү бол бид сумын төвд хонохоор шийдлээ'.",
+    "registerTarget": "Practical traveler roadside consultation register",
+    "pragmaticTarget": "Seeking reliable local intelligence before entering hazardous terrain.",
+    "prerequisiteLessonIds": [
+      "les_a2_108_01_indefinite_pronouns_negation_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_71_05_route_planning_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_71_urban_bus_navigation_routes_stops_"
+    ],
+    "reviewReason": "Expands route navigation dialogues from city buses to remote steppe highways.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Realistic roadside exchange with idling diesel engine background sound.",
+    "successCriteria": [
+      "Asks detailed questions regarding road surface, mud, and pass conditions",
+      "Incorporates negative indefinites: 'замд ямар ч утасны сүлжээ байхгүй'"
+    ],
+    "masteryEvidence": "Conducts a 5-turn roadside inquiry dialogue reaching a safe travel decision.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_108_04_weather_warning_broadcast_listening",
+    "unitId": "unit_a2_108_countryside_travel_logistics_season",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Acoustic Lab: National Meteorological Emergency Bulletins",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic listening comprehension of official radio weather warnings (цаг агаарын аюултай үзэгдлийн сэрэмжлүүлэг), wind velocity alerts (м/с), and temperature drops.",
+    "communicativeOutcome": "Decode emergency radio alerts: extract specific aimags affected, wind gusts in meters per second, blizzard onset times, and travel bans.",
+    "objectivesIntroduced": [
+      "obj_a2_108_04_decode_weather_alerts"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_108_01_negative_indefinites"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_27_01_counting_tens_hundreds"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a2_indefinite_pronouns_negation",
+      "gram_a1_case_dative_locative_time"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_16_seasonal_weather_forecast"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 2,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_weather_climate",
+      "lex_domain_civic_administrative"
+    ],
+    "previousVocabularyReused": [
+      "сэрэмжлүүлэг",
+      "салхи",
+      "хүйтрэх",
+      "аймаг",
+      "анхаарах",
+      "сонсох"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Extract wind speeds (18-20 м/с) and blizzard start times from an urgent radio bulletin.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Summarize the emergency bulletin to fellow travelers in 3 sentences.",
+    "registerTarget": "Urgent official broadcast warning register",
+    "pragmaticTarget": "Extracting critical numbers and geographic scopes rapidly during emergency broadcasts.",
+    "prerequisiteLessonIds": [
+      "les_a2_108_02_countryside_travel_hazards_weather_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_68_03_traffic_radio_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_68_handling_transit_delays_traffic_jam"
+    ],
+    "reviewReason": "Elevates traffic delay listening to nationwide meteorological alerts.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Urgent news chime followed by authoritative announcer reading weather bulletin.",
+    "successCriteria": [
+      "Identifies which 3 aimags are placed under blizzard warning from audio",
+      "Extracts specific advisory directives (e.g. hold livestock near camps, cancel long-distance travel)"
+    ],
+    "masteryEvidence": "Accurately completes an emergency action sheet based on a 60-second weather bulletin.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "phonetic_discrimination",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_108_05_expedition_safety_checklist_writing",
+    "unitId": "unit_a2_108_countryside_travel_logistics_season",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 5,
+    "title": "Winter Expedition: Writing an Off-Road Safety Plan & Equipment Checklist",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Synthesize negative indefinite pronouns (юу ч үгүй, хаашаа ч үгүй), travel hazard terms, and conditional precautions into a written expedition safety protocol.",
+    "communicativeOutcome": "Draft a written travel safety checklist and emergency protocol for an off-road journey across remote aimags, outlining contingency plans for breakdowns and storms.",
+    "objectivesIntroduced": [
+      "obj_a2_108_05_write_travel_safety_plan"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_108_01_negative_indefinites",
+      "obj_a2_108_02_travel_hazards_weather_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_50_01_sequential_converb"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_indefinite_pronouns_negation"
+    ],
+    "grammarReviewed": [
+      "gram_a1_converb_conditional_val",
+      "gram_a1_verb_prohibitive_bitgii"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_16_seasonal_weather_forecast"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_travel_transport",
+      "lex_domain_weather_climate"
+    ],
+    "previousVocabularyReused": [
+      "төлөвлөгөө",
+      "аюулгүй",
+      "бэлтгэл",
+      "дулаан",
+      "хэрэгсэл",
+      "бичих"
+    ],
+    "readingObjective": "Review professional mountaineering and 4WD club expedition checklists.",
+    "listeningObjective": "",
+    "writingObjective": "Draft a 6-point travel safety guide containing at least 2 negative indefinite pronoun constructions.",
+    "spokenProductionObjective": "",
+    "registerTarget": "Instructive safety protocol and planning register",
+    "pragmaticTarget": "Presenting life-saving travel precautions systematically and authoritatively.",
+    "prerequisiteLessonIds": [
+      "les_a2_108_01_indefinite_pronouns_negation_intro",
+      "les_a2_108_03_road_condition_advisory_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_95_05_travel_blog_post_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_95_narrating_past_vacations_countrysid"
+    ],
+    "reviewReason": "Connects travel blogging with professional safety and logistics planning.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Audio read-back of written expedition safety checklist.",
+    "successCriteria": [
+      "Produces written safety protocol with vehicle checks, emergency supplies, and weather protocol",
+      "Applies negative indefinites correctly: 'сүлжээгүй газар хаашаа ч ганцаараа бүү яв'"
+    ],
+    "masteryEvidence": "Drafts 'Хээр хөдөө замд гарахад юу ч тохиолдож болно. Тиймээс бэлтгэлгүйгээр хаашаа ч явахгүй байх нь чухал...' flawlessly.",
+    "recommendedExerciseModalities": [
+      "short-answer writing",
+      "sentence construction",
+      "error correction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_109_01_lost_property_inquiry_lexicon",
+    "unitId": "unit_a2_109_reporting_lost_possessions_in_the_c",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "Lost & Found: Reporting Missing Possessions & Identifying Belongings",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce lost property, item descriptions, and search inquiry vocabulary (гээх, хаях, гээгдүүлсэн эд зүйл, олох, түрийвч, бичиг баримт, түлхүүр, эрэх, хайх, байцаагч).",
+    "communicativeOutcome": "Report lost or misplaced personal items (wallet, ID card, backpack, phone, keys) at a hotel desk, airport lost-and-found, or police substation.",
+    "objectivesIntroduced": [
+      "obj_a2_109_01_lost_property_lexicon"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_108_01_negative_indefinites"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_genitive_possession",
+      "gram_a1_predicate_adjective_nominal"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_28_describing_lost_items"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 9,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 3,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_civic_administrative",
+      "lex_domain_commerce_transactions"
+    ],
+    "previousVocabularyReused": [
+      "гээх",
+      "олох",
+      "түрийвч",
+      "утас",
+      "цүнх",
+      "хайх"
+    ],
+    "readingObjective": "Read public lost-and-found notice board listings describing discovered items.",
+    "listeningObjective": "Understand an inquiry clerk asking when and where a bag was last seen.",
+    "writingObjective": "List 6 common personal belongings with color and brand descriptors in Cyrillic.",
+    "spokenProductionObjective": "Report a lost item: 'Би таксинд хар өнгийн арьсан түрийвчээ гээчихлээ. Дотор нь миний иргэний үнэмлэх байсан'.",
+    "registerTarget": "Administrative inquiry and public service desk register",
+    "pragmaticTarget": "Providing precise identifying features (color, brand, distinguishing marks, contents) calmly.",
+    "prerequisiteLessonIds": [
+      "les_a2_108_05_expedition_safety_checklist_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_70_01_banking_atm_cash_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_70_banking_basics_atms_cash_withdrawal"
+    ],
+    "reviewReason": "Connects financial card replacement needs with lost property reporting.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce lost property and personal item terminology clearly.",
+    "successCriteria": [
+      "Defines гээгдүүлсэн эд зүйл (lost property), түрийвч (wallet), бичиг баримт (documents)",
+      "Forms detailed item descriptions including material, color, and contents"
+    ],
+    "masteryEvidence": "Accurately files an oral lost-item claim describing a missing backpack and contents.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "matching",
+      "contextual_cloze"
+    ]
+  },
+  {
+    "lessonId": "les_a2_109_02_lost_and_found_bulletin_reading",
+    "unitId": "unit_a2_109_reporting_lost_possessions_in_the_c",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Deciphering Lost Property Notices & Community Finder Boards",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Develop targeted reading comprehension of online community lost-and-found announcements, social media group posts, and municipal transit claim forms.",
+    "communicativeOutcome": "Inspect online lost-and-found bulletins, verify claimed item details, locations found, and contact telephone numbers.",
+    "objectivesIntroduced": [
+      "obj_a2_109_02_read_lost_notices"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_109_01_lost_property_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_location",
+      "gram_a1_case_instrumental_transport_language"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_28_describing_lost_items"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_civic_administrative",
+      "lex_domain_social_interaction"
+    ],
+    "previousVocabularyReused": [
+      "зар",
+      "олсон",
+      "утсаар",
+      "холбогдох",
+      "шагналтай",
+      "хүлээлгэн өгөх"
+    ],
+    "readingObjective": "Locate date found, route number, and handover desk location in a 120-word transit lost-property notice.",
+    "listeningObjective": "",
+    "writingObjective": "Transcribe contact info and identifying marks from a finder's notice into an inquiry claim.",
+    "spokenProductionObjective": "Explain to a peer that an item matching their description was posted on the notice board.",
+    "registerTarget": "Public announcement and community board register",
+    "pragmaticTarget": "Verifying ownership claims through unique non-public identifying details.",
+    "prerequisiteLessonIds": [
+      "les_a2_109_01_lost_property_inquiry_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_69_02_postal_forms_tracking_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_69_postal_courier_package_delivery_ser"
+    ],
+    "reviewReason": "Extends postal tracking form reading to public lost-and-found notices.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Read public lost-and-found announcement aloud.",
+    "successCriteria": [
+      "Identifies found item type, discovery location, and custodian contact information",
+      "Recognizes terms like шагналтай (reward offered) and эзэн нь холбогдоно уу (owner please contact)"
+    ],
+    "masteryEvidence": "Correctly matches 3 lost claims to 3 published finder announcements.",
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "matching",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_109_04_lost_item_report_dialogue",
+    "unitId": "unit_a2_109_reporting_lost_possessions_in_the_c",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Filing the Official Report: Authoring a Lost Property & Bag Recovery Petition",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Synthesize descriptive adjectives and relative clauses to write a formal lost item declaration for transit police.",
+    "communicativeOutcome": "Submit an official written claim form detailing lost luggage characteristics and contact data.",
+    "objectivesIntroduced": [
+      "obj_a2_109_04_lost_report_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_109_01_lost_property_lexicon",
+      "obj_a2_109_02_read_lost_notices"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_16_01_greet_time_of_day"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_case_ablative_origin",
+      "gram_a1_verb_tense_past_witnessed_laa"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_28_describing_lost_items"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_13_apologies_politeness"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_civic_administrative",
+      "lex_domain_social_interaction"
+    ],
+    "previousVocabularyReused": [
+      "гээсэн",
+      "орхисон",
+      "хайж байна",
+      "дугаар",
+      "мэдэгдэх",
+      "туслах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand duty officer asking for signature and passport number to process official claim.",
+    "writingObjective": "Draft a 6-line lost property declaration specifying brand, color, contents, and transit location.",
+    "spokenProductionObjective": "Report missing backpack: 'Би өчигдөр орой ресторанд хар цүнхээ мартаад гарчихжээ. Олдвол энэ дугаарт залгаж мэдэгдэнэ үү?'.",
+    "registerTarget": "Formal administrative complaint and inquiry register",
+    "pragmaticTarget": "Maintaining polite composure and providing clear descriptive facts under stress.",
+    "prerequisiteLessonIds": [
+      "les_a2_109_02_lost_and_found_bulletin_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_81_05_tailoring_repair_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_81_errands_dry_cleaning_tailoring_re"
+    ],
+    "reviewReason": "Spirals service desk customer dialogues into administrative recovery interactions.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Courteous, helpful dialogue between duty officer and relieved customer.",
+    "successCriteria": [
+      "Explains timeline and location of loss with past verbal constructions",
+      "Provides distinguishing features and valid callback number clearly"
+    ],
+    "masteryEvidence": "Conducts a 5-turn lost item report dialogue leaving complete verifiable details.",
+    "recommendedExerciseModalities": [
+      "sentence_construction",
+      "error_correction",
+      "short-answer writing"
+    ]
+  },
+  {
+    "lessonId": "les_a2_110_01_deductive_future_kh_bolno_intro",
+    "unitId": "unit_a2_110_telephone_courtesy_leaving_messages",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "It Will Come to Pass: The Deductive Future (-х болно / боломжтой)",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the deductive future and polite eventuality construction (-х болно / -х боломжтой) used in administrative forecasts, polite announcements, and formal telephone confirmations.",
+    "communicativeOutcome": "State polite commitments and schedule eventualities: 'Бид маргааш эргэн залгах болно' (We will call back tomorrow), 'Та өглөө ирэх боломжтой юу?' (Will you be able to come in the morning?).",
+    "objectivesIntroduced": [
+      "obj_a2_110_01_deductive_future_kh_bolno"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_109_01_lost_property_lexicon"
+    ],
+    "grammarIntroduced": [
+      "gram_a2_verb_future_deductive_kh_bolno"
+    ],
+    "grammarPracticed": [
+      "gram_a2_participle_relative_clause_future_kh"
+    ],
+    "grammarReviewed": [
+      "gram_a1_verbal_noun_future_participle_h",
+      "gram_a1_existential_baina_baihgui"
+    ],
+    "phonologyIntroduced": [
+      "phono_a2_deductive_future_phrasing"
+    ],
+    "phonologyPracticed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_masculine_feminine_harmony"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_29_phone_conversations_leaving_messages"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 3,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_communication_speech",
+      "lex_domain_workplace_occupations"
+    ],
+    "previousVocabularyReused": [
+      "болох",
+      "залгах",
+      "ирнэ",
+      "хэлэх",
+      "боломжтой",
+      "хийх"
+    ],
+    "readingObjective": "Read customer service email confirmations promising callback timeframes.",
+    "listeningObjective": "Identify deductive future predicates (-х болно) in automated customer service announcements.",
+    "writingObjective": "Formulate 4 polite formal commitments using -х болно.",
+    "spokenProductionObjective": "State formal commitment: 'Манай менежер тантай маргааш үдээс хойш холбогдох болно'.",
+    "registerTarget": "High polite administrative and customer service register",
+    "pragmaticTarget": "Using -х болно as a respectful, dignified alternative to plain future verb forms.",
+    "prerequisiteLessonIds": [
+      "les_a2_109_04_lost_item_report_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_20_01_expressing_intentions_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_a1_20_expressing_intentions_wishes_fut"
+    ],
+    "reviewReason": "Elevates simple future intentions into formal deductive promises.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Model dignified cadence in polite administrative promises ending in -х болно.",
+    "successCriteria": [
+      "Pairs future participle (-х) with auxiliary болно / боломжтой",
+      "Applies deductive future in professional phone and email promises"
+    ],
+    "masteryEvidence": "Produces 'Бид таны хүсэлтийг шуурхай шийдвэрлэх болно' with polished diction.",
+    "recommendedExerciseModalities": [
+      "suffix_selection",
+      "sentence_construction",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_110_02_telephone_etiquette_office_lexicon",
+    "unitId": "unit_a2_110_telephone_courtesy_leaving_messages",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "May I Ask Who Is Calling: Professional Telephone Etiquette Vocabulary",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Introduce professional office telephone protocol and phrasing (хэнтэй ярьж байна вэ, түр хүлээнэ үү, шугам холбох, мессеж үлдээх, таслах, дугаар андуурах).",
+    "communicativeOutcome": "Conduct professional office phone calls: introduce your department, ask for callers' names politely, place calls on hold, and transfer extensions.",
+    "objectivesIntroduced": [
+      "obj_a2_110_02_telephone_etiquette_lexicon"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_110_01_deductive_future_kh_bolno"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_verb_future_deductive_kh_bolno"
+    ],
+    "grammarReviewed": [
+      "gram_a1_verb_imperative_polite_aarai",
+      "gram_a1_interrogative_wh_pronouns"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_29_phone_conversations_leaving_messages"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 8,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_communication_speech",
+      "lex_domain_workplace_occupations"
+    ],
+    "previousVocabularyReused": [
+      "утас",
+      "ярих",
+      "хүлээх",
+      "холбох",
+      "компани",
+      "алба"
+    ],
+    "readingObjective": "Read an office employee telephone etiquette standard operating manual.",
+    "listeningObjective": "Understand an administrative receptionist placing a client on brief hold to check availability.",
+    "writingObjective": "List 5 essential phone courtesy phrases in Cyrillic.",
+    "spokenProductionObjective": "Answer telephone: 'Сайн байна уу? 'Монгол Экспедишн' компани байна. Танд юугаар туслах вэ?'.",
+    "registerTarget": "Corporate front-desk telephone courtesy register",
+    "pragmaticTarget": "Projecting warmth, professionalism, and prompt attentiveness over audio-only phone channels.",
+    "prerequisiteLessonIds": [
+      "les_a2_110_01_deductive_future_kh_bolno_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_69_03_courier_phone_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_69_postal_courier_package_delivery_ser"
+    ],
+    "reviewReason": "Evolves delivery phone calls into comprehensive corporate telephone protocols.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce professional telephone formulas clearly.",
+    "successCriteria": [
+      "Defines холбох (transfer/connect), түр хүлээх (hold on a moment), андуурах (dial wrong number)",
+      "Forms polite phone inquiries: 'Хэнтэй холбогдохыг хүсэж байна вэ?'"
+    ],
+    "masteryEvidence": "Accurately articulates all standard phone exchange formulas across 4 call scenarios.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_110_03_corporate_switchboard_dialogue",
+    "unitId": "unit_a2_110_telephone_courtesy_leaving_messages",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Please Hold the Line: Switchboard Transfers & Leaving Voicemails",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Develop spoken communicative fluency for handling multi-branch phone inquiries: transferring calls to specific extensions, explaining lines are busy, and recording detailed callback requests.",
+    "communicativeOutcome": "Manage an office switchboard exchange: direct caller to accounting or sales, inform them that the line is engaged, and take down a comprehensive callback memo.",
+    "objectivesIntroduced": [
+      "obj_a2_110_03_switchboard_dialogue"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_110_01_deductive_future_kh_bolno",
+      "obj_a2_110_02_telephone_etiquette_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_16_01_greet_time_of_day"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_verb_future_deductive_kh_bolno"
+    ],
+    "grammarReviewed": [
+      "gram_a1_converb_sequential_aad",
+      "gram_a1_verb_imperative_polite_aarai"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_diphthongs"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_29_phone_conversations_leaving_messages"
+    ],
+    "communicativeFunctionsPracticed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_13_apologies_politeness"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 3,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_communication_speech",
+      "lex_domain_workplace_occupations"
+    ],
+    "previousVocabularyReused": [
+      "шугам",
+      "завгүй",
+      "дарга",
+      "тэмдэглэх",
+      "дугаар",
+      "эргэн залгах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Understand caller requesting transfer to the international marketing director.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Handle transfer: 'Түр хүлээнэ үү, би таныг захирлын туслахтай холбож өгөх болно... Уучлаарай, одоогоор шугам завгүй байна. Та зурвас үлдээх үү?'.",
+    "registerTarget": "Corporate switchboard and administrative receptionist register",
+    "pragmaticTarget": "Maintaining polite poise when managing busy lines and impatient callers.",
+    "prerequisiteLessonIds": [
+      "les_a2_110_02_telephone_etiquette_office_lexicon",
+      "les_a2_110_01_deductive_future_kh_bolno_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_99_03_passing_messages_phone_dialogue"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_99_reporting_third_party_statements_ve"
+    ],
+    "reviewReason": "Combines telephone message relay with deductive future commitments.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Polished telephone audio with realistic phone filter and transfer tones.",
+    "successCriteria": [
+      "Places caller on hold politely and updates them on line status",
+      "Records callback number and promises follow-up using -х болно"
+    ],
+    "masteryEvidence": "Conducts a 5-turn corporate receptionist phone call flawlessly.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "listening_comprehension"
+    ]
+  },
+  {
+    "lessonId": "les_a2_110_04_automated_voicemail_acoustic_listening",
+    "unitId": "unit_a2_110_telephone_courtesy_leaving_messages",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Acoustic Lab: Automated IVR Menus & Recorded Voicemail Outlines",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic listening comprehension of automated Interactive Voice Response (IVR) phone menus ('Нэгийг дарна уу, хоёрыг дарна уу') and recorded answering machine announcements.",
+    "communicativeOutcome": "Navigate automated telephone systems: listen to numeric menu options, select correct department, and listen to recorded operating hours.",
+    "objectivesIntroduced": [
+      "obj_a2_110_04_decode_ivr_menus"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_110_01_deductive_future_kh_bolno"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_27_01_counting_tens_hundreds"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_participle_relative_clause_future_kh"
+    ],
+    "grammarReviewed": [
+      "gram_a2_verb_future_deductive_kh_bolno",
+      "gram_a1_verb_imperative_polite_aarai"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_29_phone_conversations_leaving_messages"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 1,
+    "newReceptiveLemmaTarget": 3,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_communication_speech",
+      "lex_domain_technology_devices"
+    ],
+    "previousVocabularyReused": [
+      "товч",
+      "дарах",
+      "лавлах",
+      "ажиллах",
+      "цаг",
+      "сонгох"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Identify which key to press for flight cancellations in an automated airline phone system.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Explain the phone menu options to a partner based on the automated recording.",
+    "registerTarget": "Automated IVR synthetic telephone register",
+    "pragmaticTarget": "Extracting key navigational numbers from rapid automated voice prompts without repeating.",
+    "prerequisiteLessonIds": [
+      "les_a2_110_02_telephone_etiquette_office_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_70_03_teller_guidance_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_70_banking_basics_atms_cash_withdrawal"
+    ],
+    "reviewReason": "Transfers automated ATM audio comprehension to telephony IVR systems.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Crisp automated IVR telephone audio with simulated dial tones and numeric prompts.",
+    "successCriteria": [
+      "Selects the correct numeric key for 3 distinct customer service needs",
+      "Extracts office working hours stated in the voicemail greeting"
+    ],
+    "masteryEvidence": "Accurately navigates a 3-tier automated banking IVR menu based on audio prompts.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "phonetic_discrimination",
+      "sequencing"
+    ]
+  },
+  {
+    "lessonId": "les_a2_110_05_phone_log_callback_memo_writing",
+    "unitId": "unit_a2_110_telephone_courtesy_leaving_messages",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 5,
+    "title": "Call Log Protocol: Writing Workplace Phone Records & Action Summaries",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Synthesize deductive future forms (-х болно), telephone vocabulary, and reported action directives into a formal corporate call log register.",
+    "communicativeOutcome": "Maintain an official office call log sheet: record incoming inquiries, summarize caller requests, assign action items, and note committed callback dates.",
+    "objectivesIntroduced": [
+      "obj_a2_110_05_write_call_logs"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_110_01_deductive_future_kh_bolno",
+      "obj_a2_110_02_telephone_etiquette_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_50_01_sequential_converb"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_verb_future_deductive_kh_bolno"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_dative_locative_time",
+      "gram_a1_converb_coordinating_j_ch"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_29_phone_conversations_leaving_messages"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_communication_speech",
+      "lex_domain_workplace_occupations"
+    ],
+    "previousVocabularyReused": [
+      "бүртгэл",
+      "утас",
+      "огноо",
+      "шийдвэрлэх",
+      "хариулах",
+      "бичих"
+    ],
+    "readingObjective": "Review professional administrative call log templates from international Mongolian corporations.",
+    "listeningObjective": "",
+    "writingObjective": "Draft a 5-entry workplace telephone log utilizing -х болно for pending action items.",
+    "spokenProductionObjective": "",
+    "registerTarget": "Administrative record-keeping and workflow documentation register",
+    "pragmaticTarget": "Maintaining precise chronological accountability for all institutional communications.",
+    "prerequisiteLessonIds": [
+      "les_a2_110_01_deductive_future_kh_bolno_intro",
+      "les_a2_110_03_corporate_switchboard_dialogue"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_99_05_phone_memo_message_slip_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_99_reporting_third_party_statements_ve"
+    ],
+    "reviewReason": "Expands single phone message slips into a comprehensive institutional call registry.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Audio read-back of written call log records.",
+    "successCriteria": [
+      "Produces structured call log with caller name, affiliation, phone number, issue, and follow-up deadline",
+      "Uses deductive future for assigned responsibilities: 'Менежер 14:00 цагт эргэн залгах болно'"
+    ],
+    "masteryEvidence": "Drafts complete, audit-ready call log entries from 2 simulated phone recordings.",
+    "recommendedExerciseModalities": [
+      "short-answer writing",
+      "sentence construction",
+      "error correction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_111_01_pastoral_homestay_immersion_lexicon",
+    "unitId": "unit_a2_111_waystage_pastoral_capstone_rural_ho",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 1,
+    "title": "Living with Herders: Nomadic Homestay Immersion & Steppe Routines",
+    "lessonType": "vocabulary_introduction",
+    "primaryPurpose": "Synthesize the entire nomadic pastoral domain: morning animal turnout (мал бэлчээх), penning stock (хотлуулах), fetching well water, gathering argal dung fuel (аргал түүх), preparing evening stew, and sharing tea with nomadic hosts.",
+    "communicativeOutcome": "Participate fully in the daily rhythms of a nomadic homestay family, offering help with camp chores, describing pastoral routines, and expressing profound gratitude for hospitality.",
+    "objectivesIntroduced": [
+      "obj_a2_111_01_homestay_immersion_lexicon"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_a2_110_01_deductive_future_kh_bolno"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a1_converb_coordinating_j_ch",
+      "gram_a1_converb_sequential_aad"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_consonant_clusters"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_masculine_feminine_harmony"
+    ],
+    "communicativeFunctionsIntroduced": [
+      "comm_a2_14_countryside_ger_visiting_etiquette",
+      "comm_a2_15_nomadic_livestock_five_animals"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 8,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_countryside_nature",
+      "lex_domain_culture_traditions"
+    ],
+    "previousVocabularyReused": [
+      "гэр",
+      "мал",
+      "аргал",
+      "ус",
+      "хот",
+      "туслах"
+    ],
+    "readingObjective": "Read a cultural homestay guide outlining daily camp responsibilities and herder expectations.",
+    "listeningObjective": "Understand an elder host allocating morning camp tasks among family members.",
+    "writingObjective": "List the sequential daily chores of a pastoral nomadic camp from sunrise to sunset in Cyrillic.",
+    "spokenProductionObjective": "Offer assistance: 'Би өглөө худаг руу ус авахаар явах уу, эсвэл аргал түүхэд туслах уу?'.",
+    "registerTarget": "Warm cooperative pastoral homestay register",
+    "pragmaticTarget": "Showing initiative to contribute to camp labor humbly and respectfully.",
+    "prerequisiteLessonIds": [
+      "les_a2_110_05_phone_log_callback_memo_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_104_01_ger_architectural_anatomy_lexicon"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_104_the_mongolian_ger_architectural_ana"
+    ],
+    "reviewReason": "Synthesizes ger architecture and etiquette into full immersive camp living.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Pronounce pastoral daily labor and camp vocabulary clearly.",
+    "successCriteria": [
+      "Defines аргал түүх (gather dried dung fuel), хотлуулах (pen livestock for night), бэлчээх (graze herds)",
+      "Forms cooperative offers of assistance in herder camps"
+    ],
+    "masteryEvidence": "Accurately sequences and describes a full 24-hour day in a nomadic camp.",
+    "recommendedExerciseModalities": [
+      "categorization",
+      "contextual_cloze",
+      "matching"
+    ]
+  },
+  {
+    "lessonId": "les_a2_111_02_steppeland_memoir_reading",
+    "unitId": "unit_a2_111_waystage_pastoral_capstone_rural_ho",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 2,
+    "title": "Deciphering Pastoral Memoirs & Rural Homestay Reflections",
+    "lessonType": "reading_development",
+    "primaryPurpose": "Develop advanced A2 reading comprehension of authentic published travel essays, student homestay diaries, and cultural reflections recounting transformative stays with nomadic families in the Mongolian steppe.",
+    "communicativeOutcome": "Read an extended 180-word narrative essay describing a three-week homestay in the Orkhon Valley, identifying descriptive adjectives, participial relative clauses, and reflective observations.",
+    "objectivesIntroduced": [
+      "obj_a2_111_02_read_pastoral_memoirs"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_111_01_homestay_immersion_lexicon"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_participle_relative_clause_past_san",
+      "gram_a2_converb_concessive_vch_bolovch"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_instrumental_transport_language"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_14_countryside_ger_visiting_etiquette"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 4,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_countryside_nature",
+      "lex_domain_personal_history"
+    ],
+    "previousVocabularyReused": [
+      "өдөр",
+      "амьдрал",
+      "сэтгэгдэл",
+      "байгаль",
+      "сурах",
+      "мартагдашгүй"
+    ],
+    "readingObjective": "Analyze narrative trajectory, key lessons learned, and philosophical reflections across a 180-word homestay memoir.",
+    "listeningObjective": "",
+    "writingObjective": "Extract 3 core themes from the reading text into a reflection matrix.",
+    "spokenProductionObjective": "Explain to a classmate what made the author's stay in the Orkhon Valley so memorable.",
+    "registerTarget": "Literary reflective personal travel prose register",
+    "pragmaticTarget": "Appreciating emotional and philosophical nuance in personal narrative prose.",
+    "prerequisiteLessonIds": [
+      "les_a2_111_01_pastoral_homestay_immersion_lexicon"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_101_04_biography_profile_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_101_personal_history_capstone_autobiogr"
+    ],
+    "reviewReason": "Synthesizes biographical reading skills with authentic pastoral memoir analysis.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Read extended literary homestay narrative aloud.",
+    "successCriteria": [
+      "Parses complex sentences containing both concessive (-вч) and relative (-сан) clauses",
+      "Answers 5 comprehensive analytical questions on authorial intent and perspective"
+    ],
+    "masteryEvidence": "Demonstrates unassisted reading comprehension of an authentic 180-word steppe memoir.",
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "contextual_cloze",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_111_03_homestay_evening_hearth_acoustic_listening",
+    "unitId": "unit_a2_111_waystage_pastoral_capstone_rural_ho",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Lab: Evening by the Hearth — Stories, Legends & Flute Melodies",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop acoustic listening comprehension of an extended 2.5-minute audio recording inside a ger at night: crackling wood fire in the stove, sheep settling outside, an elder reciting a steppe legend, and family members exchanging reflections.",
+    "communicativeOutcome": "Extract legendary folklore motifs, character actions, and family dialogue from an authentic evening hearthside audio capture.",
+    "objectivesIntroduced": [
+      "obj_a2_111_03_decode_hearthside_folklore"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_111_01_homestay_immersion_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_94_04_decode_radio_memoirs"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a2_verb_past_narrative_v",
+      "gram_a2_verb_past_resultative_zhee"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_14_countryside_ger_visiting_etiquette"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 1,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_culture_traditions",
+      "lex_domain_personal_history"
+    ],
+    "previousVocabularyReused": [
+      "домог",
+      "үдэш",
+      "ярих",
+      "сонсох",
+      "өвөө",
+      "сэтгэл"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Comprehend a 2.5-minute hearthside storytelling recording, identifying the moral of the elder's legend.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Retell the core event of the herder's legend to a classmate in 3 Mongolian sentences.",
+    "registerTarget": "Traditional oral folklore and intimate evening family storytelling register",
+    "pragmaticTarget": "Sustaining deep acoustic concentration through multi-layered natural ambient soundscapes.",
+    "prerequisiteLessonIds": [
+      "les_a2_111_01_pastoral_homestay_immersion_lexicon",
+      "les_a2_111_02_steppeland_memoir_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_94_04_radio_memoir_acoustic_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_94_childhood_hometown_recollections_ea"
+    ],
+    "reviewReason": "Capstone expansion of narrative acoustic listening to authentic multi-speaker folklore.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Atmospheric evening ger acoustics with crackling stove fire, wind gusts, and elder's resonant storytelling voice.",
+    "successCriteria": [
+      "Identifies the legendary figures and their animal companions from audio",
+      "Extracts narrative past verbs in -в and resultative forms in -жээ from the oral tale"
+    ],
+    "masteryEvidence": "Accurately diagrams the narrative arc of a 2.5-minute traditional hearthside tale.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "sequencing",
+      "categorization"
+    ]
+  },
+  {
+    "lessonId": "les_a2_111_04_hearthside_folklore_acoustic_listening",
+    "unitId": "unit_a2_111_waystage_pastoral_capstone_rural_ho",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 4,
+    "title": "Acoustic Lab: Evening by the Hearth — Oral Folklore, Proverbs & Horsehead Fiddle",
+    "lessonType": "listening_development",
+    "primaryPurpose": "Develop sustained listening comprehension for continuous natural spoken Mongolian in an elder's hearthside folktale.",
+    "communicativeOutcome": "Extract legendary folklore motifs, character actions, and family dialogue from an authentic evening hearthside audio capture.",
+    "objectivesIntroduced": [
+      "obj_a2_111_03_decode_hearthside_folklore"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_111_01_homestay_immersion_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_94_04_decode_radio_memoirs"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [],
+    "grammarReviewed": [
+      "gram_a2_verb_past_narrative_v",
+      "gram_a2_verb_past_resultative_zhee"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_vowel_reduction_non_initial"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_nasal_vowels"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_14_countryside_ger_visiting_etiquette"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 1,
+    "newReceptiveLemmaTarget": 2,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_culture_traditions",
+      "lex_domain_personal_history"
+    ],
+    "previousVocabularyReused": [
+      "домог",
+      "үдэш",
+      "ярих",
+      "сонсох",
+      "өвөө",
+      "сэтгэл"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Follow an uninterrupted 2.5-minute traditional oral narrative and identify moral lessons.",
+    "writingObjective": "",
+    "spokenProductionObjective": "Retell the core event of the herder's legend to a classmate in 3 Mongolian sentences.",
+    "registerTarget": "Traditional oral folklore and intimate evening family storytelling register",
+    "pragmaticTarget": "Sustaining deep acoustic concentration through multi-layered natural ambient soundscapes.",
+    "prerequisiteLessonIds": [
+      "les_a2_111_01_pastoral_homestay_immersion_lexicon",
+      "les_a2_111_02_steppeland_memoir_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_94_04_radio_memoir_acoustic_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_94_childhood_hometown_recollections_ea"
+    ],
+    "reviewReason": "Capstone expansion of narrative acoustic listening to authentic multi-speaker folklore.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Atmospheric evening ger acoustics with crackling stove fire, wind gusts, and elder's resonant storytelling voice.",
+    "successCriteria": [
+      "Identifies the legendary figures and their animal companions from audio",
+      "Extracts narrative past verbs in -в and resultative forms in -жээ from the oral tale"
+    ],
+    "masteryEvidence": "Accurately diagrams the narrative arc of a 2.5-minute traditional hearthside tale.",
+    "recommendedExerciseModalities": [
+      "listening_comprehension",
+      "story_sequencing",
+      "inference_extraction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_111_05_full_pastoral_encounter_simulation",
+    "unitId": "unit_a2_111_waystage_pastoral_capstone_rural_ho",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 5,
+    "title": "Interactive Simulation: The Steppe Encounter & Parting Blessings",
+    "lessonType": "dialogue_work",
+    "primaryPurpose": "Execute a full multi-turn unscripted spoken simulation encompassing arrival at a remote nomadic camp, greeting the herders, helping with livestock, sharing an evening meal, and parting with traditional blessings.",
+    "communicativeOutcome": "Navigate a 4-stage interactive simulation representing a complete 24-hour pastoral visit, adapting fluidly to dynamic host inquiries and demonstrating flawless cultural etiquette.",
+    "objectivesIntroduced": [
+      "obj_a2_111_05_simulate_pastoral_encounter"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_111_01_homestay_immersion_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a2_105_03_pastoral_greeting_ritual_dialogue",
+      "obj_a2_106_04_pastoral_life_dialogue",
+      "obj_a2_107_03_dairy_making_dialogue"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_converb_concessive_vch_bolovch",
+      "gram_a2_participle_desire_inclination_maar",
+      "gram_a2_verb_past_resultative_zhee"
+    ],
+    "grammarReviewed": [
+      "gram_a1_case_comitative_association"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_14_countryside_ger_visiting_etiquette",
+      "comm_a2_15_nomadic_livestock_five_animals",
+      "comm_a2_30_congratulations_milestones"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_a1_16_greetings_time_of_day"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 3,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_domain_culture_traditions",
+      "lex_domain_social_interaction"
+    ],
+    "previousVocabularyReused": [
+      "сайн байна уу",
+      "баярлалаа",
+      "зам",
+      "хүрэх",
+      "ерөөе",
+      "баяртай"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Respond seamlessly to host's farewell toast and traditional travel blessing (Алтан шар зам тань өлзийтэй байг).",
+    "writingObjective": "",
+    "spokenProductionObjective": "Execute 6 consecutive spoken turns across 4 simulation stages demonstrating total situational independence.",
+    "registerTarget": "High traditional steppe guest and host farewell register",
+    "pragmaticTarget": "Offering heartfelt reciprocal blessings (Ажил үйлс тань бүтэж, мал сүрэг тань өсөх болтугай) upon departure.",
+    "prerequisiteLessonIds": [
+      "les_a2_111_01_pastoral_homestay_immersion_lexicon",
+      "les_a2_111_03_homestay_evening_hearth_acoustic_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_101_05_autobiographical_interview_simulation"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_101_personal_history_capstone_autobiogr"
+    ],
+    "reviewReason": "Ultimate spoken interaction simulation integrating all A2 linguistic and cultural competencies.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Provide responsive herder host dialogue turns with steppe wind ambiance.",
+    "successCriteria": [
+      "Performs greeting, small talk, meal etiquette, and farewell ritual without communicative hesitation",
+      "Uses appropriate honorific and traditional blessing formulas with total cultural fluency"
+    ],
+    "masteryEvidence": "Completes full 4-stage pastoral immersion simulation with zero communicative breakdowns.",
+    "recommendedExerciseModalities": [
+      "role-play response",
+      "dialogue_completion",
+      "sequencing"
+    ]
+  },
+  {
+    "lessonId": "les_a2_111_04_pastoral_life_capstone_narrative_writing",
+    "unitId": "unit_a2_111_waystage_pastoral_capstone_rural_ho",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 6,
+    "title": "Nomad's Horizon: Writing a Comprehensive Countryside Homestay Journal",
+    "lessonType": "grammar_guided_practice",
+    "primaryPurpose": "Synthesize all major A2 syntactic structures (relative clauses, concessive converbs, terminative converbs, narrative past, and reported speech) into an extended written travel memoir.",
+    "communicativeOutcome": "Compose an 8-sentence reflective essay detailing your journey to a herder camp, the family's kindness, daily pastoral labor, and how the steppe changed your outlook on life.",
+    "objectivesIntroduced": [
+      "obj_a2_111_04_write_homestay_journal"
+    ],
+    "objectivesPracticed": [
+      "obj_a2_111_01_homestay_immersion_lexicon"
+    ],
+    "objectivesReviewed": [
+      "obj_a1_50_01_sequential_converb"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_case_instrumental_means",
+      "gram_a2_participle_relative_clause_habitual_dag",
+      "gram_a2_participle_relative_clause_future_kh",
+      "gram_a2_converb_concessive_vch_bolovch",
+      "gram_a2_converb_terminative_tal",
+      "gram_a2_verb_past_narrative_v"
+    ],
+    "grammarReviewed": [
+      "gram_a1_converb_sequential_aad"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [
+      "phono_a1_cyrillic_spelling_rules"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_14_countryside_ger_visiting_etiquette",
+      "comm_a2_15_nomadic_livestock_five_animals"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 1,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_countryside_nature",
+      "lex_domain_personal_history"
+    ],
+    "previousVocabularyReused": [
+      "аялал",
+      "дурсамж",
+      "малчин",
+      "гэр",
+      "хөдөө",
+      "сайхан"
+    ],
+    "readingObjective": "Review exemplary student memoirs for paragraph transitions and rhetorical cohesion.",
+    "listeningObjective": "",
+    "writingObjective": "Draft an 8-sentence written capstone memoir demonstrating mature clause combining across multiple converb and participial systems.",
+    "spokenProductionObjective": "",
+    "registerTarget": "Polished personal narrative and travel journal register",
+    "pragmaticTarget": "Creating evocative, cohesive paragraphs expressing profound intercultural appreciation.",
+    "prerequisiteLessonIds": [
+      "les_a2_111_02_steppeland_memoir_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_a1_94_05_childhood_memoir_essay_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_94_childhood_hometown_recollections_ea"
+    ],
+    "reviewReason": "Expands early childhood essays into a multi-syntactic capstone narrative.",
+    "audioSuitability": "standard_speech_synthesis_acceptable",
+    "audioPurpose": "Audio read-back of written capstone journal entry.",
+    "successCriteria": [
+      "Integrates at least one relative clause, one concessive converb, and one terminative converb",
+      "Maintains rich pastoral vocabulary and coherent chronological progression"
+    ],
+    "masteryEvidence": "Produces an exemplary 8-sentence written memoir achieving 100% syntactic and lexical accuracy.",
+    "recommendedExerciseModalities": [
+      "short-answer writing",
+      "sentence construction",
+      "error correction"
+    ]
+  },
+  {
+    "lessonId": "les_a2_111_06_waystage_a2_exit_milestone_benchmark_checkpoint",
+    "unitId": "unit_a2_111_waystage_pastoral_capstone_rural_ho",
+    "cefrLevel": "A2",
+    "sequenceWithinUnit": 7,
+    "title": "Comprehensive Waystage (A2) Exit Milestone Benchmark Checkpoint",
+    "lessonType": "checkpoint",
+    "primaryPurpose": "Authoritative CEFR A2 Waystage Exit Benchmark certifying comprehensive mastery across all 48 A2 Units (Units 64–111): urban navigation, commercial transactions, health clinics, personal character, narrative past tense, relative clauses, social invitations, reported speech, nomadic ger architecture, livestock taxonomy, dairy crafts, and countryside travel logistics.",
+    "communicativeOutcome": "Demonstrate complete situational independence, unassisted reading, complex listening comprehension, and fluid interactive spoken production across all Waystage (A2) communicative domains.",
+    "objectivesIntroduced": [],
+    "objectivesPracticed": [
+      "obj_a2_111_01_homestay_immersion_lexicon",
+      "obj_a2_111_05_simulate_pastoral_encounter"
+    ],
+    "objectivesReviewed": [
+      "obj_a2_64_01_urban_districts_lexicon",
+      "obj_a2_73_01_reflexive_possessive_suffix",
+      "obj_a2_80_01_pharmacy_consultation_lexicon",
+      "obj_a2_83_01_postposition_governance",
+      "obj_a2_87_01_modal_bolno_permission",
+      "obj_a2_94_01_narrative_past_v",
+      "obj_a2_97_01_desiderative_maar",
+      "obj_a2_98_01_purposive_converb_khaar",
+      "obj_a2_99_01_reported_speech_gej",
+      "obj_a2_100_01_resultative_past_zhee",
+      "obj_a2_101_01_relative_clause_participles",
+      "obj_a2_105_01_concessive_converb_vch",
+      "obj_a2_107_01_terminative_converb_tal",
+      "obj_a2_108_01_negative_indefinites",
+      "obj_a2_110_01_deductive_future_kh_bolno"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_a2_possessive_reflexive_mor",
+      "gram_a2_participle_relative_clause_past_san",
+      "gram_a2_converb_concessive_vch_bolovch",
+      "gram_a2_converb_terminative_tal",
+      "gram_a2_verb_past_narrative_v",
+      "gram_a2_reported_speech_gej_kheleh",
+      "gram_a2_verb_past_resultative_zhee",
+      "gram_a2_participle_desire_inclination_maar",
+      "gram_a2_converb_purposive_khaar",
+      "gram_a2_indefinite_pronouns_negation",
+      "gram_a2_verb_future_deductive_kh_bolno"
+    ],
+    "grammarReviewed": [
+      "gram_a2_participle_negative_aagui"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [
+      "phono_a1_intonation_polite"
+    ],
+    "phonologyReviewed": [
+      "phono_a1_vowel_length_distinction"
+    ],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_a2_01_asking_giving_street_directions",
+      "comm_a2_03_describing_personality_character",
+      "comm_a2_04_renting_apartment_housing",
+      "comm_a2_07_childhood_hometown_memories",
+      "comm_a2_08_vacation_travel_experiences",
+      "comm_a2_09_making_accepting_invitations",
+      "comm_a2_10_declining_invitations_excuses",
+      "comm_a2_14_countryside_ger_visiting_etiquette",
+      "comm_a2_15_nomadic_livestock_five_animals",
+      "comm_a2_25_reporting_third_party_speech",
+      "comm_a2_26_simple_recipe_cooking_steps",
+      "comm_a2_27_expressing_future_intentions",
+      "comm_a2_28_describing_lost_items",
+      "comm_a2_29_phone_conversations_leaving_messages",
+      "comm_a2_30_congratulations_milestones"
+    ],
+    "communicativeFunctionsReviewed": [],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_domain_countryside_nature",
+      "lex_domain_culture_traditions",
+      "lex_domain_social_interaction"
+    ],
+    "previousVocabularyReused": [
+      "шалгалт",
+      "түвшин",
+      "монгол хэл",
+      "мэдлэг",
+      "амжилт",
+      "бүрэн"
+    ],
+    "readingObjective": "Demonstrate unassisted reading comprehension of an authentic multi-paragraph Mongolian text incorporating relative clauses, concessives, and formal vocabulary.",
+    "listeningObjective": "Demonstrate unassisted comprehension of authentic long-form conversational and broadcast audio clips with natural ambient noise.",
+    "writingObjective": "Draft a coherent, multi-paragraph written essay synthesizing past narrative, future plans, and personal reflections with rich clause combining.",
+    "spokenProductionObjective": "Sustain a dynamic, multi-turn spoken dialogue across varied unfamiliar situations demonstrating situational independence.",
+    "registerTarget": "Comprehensive authoritative CEFR benchmark evaluation register",
+    "pragmaticTarget": "Certifying complete learner readiness to transition from elementary language into independent B1 threshold proficiency.",
+    "prerequisiteLessonIds": [
+      "les_a2_111_05_full_pastoral_encounter_simulation",
+      "les_a2_111_04_pastoral_life_capstone_narrative_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_a2_72_05_full_urban_transit_journey_simulation",
+      "les_a2_82_05_full_retail_service_encounter_simulation",
+      "les_a2_90_04_full_clinical_encounter_simulation",
+      "les_a2_101_06_personal_history_benchmark_checkpoint",
+      "les_a2_110_05_phone_log_callback_memo_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_a2_72_urban_transit_capstone_navigating_the",
+      "unit_a2_82_retail_service_transaction_capstone",
+      "unit_a2_90_medical_encounters_capstone_full_cl",
+      "unit_a2_101_personal_history_capstone_autobiogr",
+      "unit_a2_110_telephone_courtesy_leaving_messages"
+    ],
+    "reviewReason": "Ultimate authoritative milestone certifying complete learner graduation from CEFR A2 Waystage into B1 Threshold.",
+    "audioSuitability": "mongolian_voice_required",
+    "audioPurpose": "Deliver high-fidelity audio stimuli for formal A2 graduation benchmark examination items.",
+    "successCriteria": [
+      "Achieves passing score across all 4 skill modalities (Reading, Listening, Writing, Speaking)",
+      "Demonstrates mastery of all 32 A2 grammar targets and core lexical inventories",
+      "Navigates both metropolitan urban and nomadic pastoral domains with linguistic and cultural confidence"
+    ],
+    "masteryEvidence": "Successfully passes the comprehensive 4-modality A2 Waystage Exit Examination, certifying full progression to CEFR B1.",
+    "recommendedExerciseModalities": [
+      "reading_comprehension",
+      "listening_comprehension",
+      "role-play response",
+      "short-answer writing"
+    ]
+  }
+]

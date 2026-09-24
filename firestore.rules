@@ -1,0 +1,111 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Default Deny
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isSignedIn() && request.auth.uid == userId;
+    }
+
+    function isValidId(id) {
+      return id is string && id.size() > 0 && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function incoming() {
+      return request.resource.data;
+    }
+
+    function existing() {
+      return resource.data;
+    }
+
+    function isValidUserProfile(data, userId) {
+      return data.id == userId &&
+        data.keys().hasAll(['id', 'createdAt', 'lastActiveAt']) &&
+        data.keys().hasOnly(['id', 'email', 'displayName', 'preferredAudioSpeed', 'createdAt', 'lastActiveAt']) &&
+        data.id is string && data.id.size() <= 128 &&
+        (!('email' in data) || (data.email is string && data.email.size() <= 256)) &&
+        (!('displayName' in data) || (data.displayName is string && data.displayName.size() <= 100)) &&
+        (!('preferredAudioSpeed' in data) || (data.preferredAudioSpeed in ['0.75', '1.0'])) &&
+        data.createdAt is timestamp &&
+        data.lastActiveAt is timestamp;
+    }
+
+    function isValidCourseProgress(data, userId, courseId) {
+      return data.userId == userId &&
+        data.courseId == courseId &&
+        data.keys().hasAll(['id', 'courseId', 'userId', 'updatedAt']) &&
+        data.keys().hasOnly([
+          'id', 'courseId', 'userId', 'completedLessonIds', 'completedUnitIds',
+          'masteredVocabCount', 'totalExercisesAttempted', 'totalExercisesCorrect',
+          'timeSpentMinutes', 'updatedAt'
+        ]) &&
+        data.id is string && data.id.size() <= 128 &&
+        data.courseId is string && data.courseId.size() <= 128 &&
+        data.userId is string && data.userId.size() <= 128 &&
+        (!('completedLessonIds' in data) || (data.completedLessonIds is list && data.completedLessonIds.size() <= 2000)) &&
+        (!('completedUnitIds' in data) || (data.completedUnitIds is list && data.completedUnitIds.size() <= 500)) &&
+        (!('masteredVocabCount' in data) || (data.masteredVocabCount is number && data.masteredVocabCount >= 0)) &&
+        (!('totalExercisesAttempted' in data) || (data.totalExercisesAttempted is number && data.totalExercisesAttempted >= 0)) &&
+        (!('totalExercisesCorrect' in data) || (data.totalExercisesCorrect is number && data.totalExercisesCorrect >= 0)) &&
+        (!('timeSpentMinutes' in data) || (data.timeSpentMinutes is number && data.timeSpentMinutes >= 0)) &&
+        data.updatedAt is timestamp;
+    }
+
+    function isValidStudyNote(data, userId) {
+      return data.userId == userId &&
+        data.keys().hasAll(['id', 'userId', 'title', 'content', 'createdAt']) &&
+        data.keys().hasOnly(['id', 'userId', 'title', 'cyrillicSnippet', 'content', 'tags', 'createdAt', 'updatedAt']) &&
+        data.id is string && data.id.size() <= 128 &&
+        data.userId is string && data.userId.size() <= 128 &&
+        data.title is string && data.title.size() > 0 && data.title.size() <= 200 &&
+        data.content is string && data.content.size() <= 5000 &&
+        (!('cyrillicSnippet' in data) || (data.cyrillicSnippet is string && data.cyrillicSnippet.size() <= 500)) &&
+        (!('tags' in data) || (data.tags is list && data.tags.size() <= 20)) &&
+        data.createdAt is timestamp &&
+        (!('updatedAt' in data) || data.updatedAt is timestamp);
+    }
+
+    // User Profile
+    match /users/{userId} {
+      allow get: if isOwner(userId) && isValidId(userId);
+      allow create: if isOwner(userId) && isValidId(userId) && isValidUserProfile(incoming(), userId) && incoming().createdAt == request.time;
+      allow update: if isOwner(userId) && isValidId(userId) && isValidUserProfile(incoming(), userId) && incoming().id == existing().id && incoming().createdAt == existing().createdAt;
+      allow delete: if false;
+
+      // Course Progress Subcollection
+      match /progress/{courseId} {
+        allow get, list: if isOwner(userId) && isValidId(userId);
+        allow create: if isOwner(userId) && isValidId(userId) && isValidId(courseId) && isValidCourseProgress(incoming(), userId, courseId);
+        allow update: if isOwner(userId) && isValidId(userId) && isValidId(courseId) && isValidCourseProgress(incoming(), userId, courseId) && incoming().userId == existing().userId && incoming().courseId == existing().courseId;
+        allow delete: if false;
+      }
+
+      // Personal Study Notes Subcollection
+      match /notes/{noteId} {
+        allow get, list: if isOwner(userId) && isValidId(userId);
+        allow create: if isOwner(userId) && isValidId(userId) && isValidId(noteId) && isValidStudyNote(incoming(), userId) && incoming().createdAt == request.time;
+        allow update: if isOwner(userId) && isValidId(userId) && isValidId(noteId) && isValidStudyNote(incoming(), userId) && incoming().id == existing().id && incoming().userId == existing().userId && incoming().createdAt == existing().createdAt;
+        allow delete: if isOwner(userId) && isValidId(userId) && isValidId(noteId);
+      }
+    }
+
+    // Public Curriculum Data (Course structure and Lexicon)
+    match /courses/{document=**} {
+      allow read, write: if true;
+    }
+
+    match /lexicon/{document=**} {
+      allow read, write: if true;
+    }
+
+  }
+}
+

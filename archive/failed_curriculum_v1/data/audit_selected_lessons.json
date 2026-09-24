@@ -1,0 +1,3958 @@
+[
+  {
+    "id": "les_001",
+    "title": "The Seven Short Vowels & Lip Rounding - Lesson 1",
+    "cyrillicTitle": "Долоон үндсэн эгшиг ба уруулын зохицол - Хичээл 1",
+    "estimatedMinutes": 15,
+    "grammarOverview": {
+      "summary": "In present affirmative equative sentences (\"X is Y\"), no verb \"to be\" is required. The particle \"бол\" or \"нь\" or direct juxtaposing is used.",
+      "keyPoints": [
+        "Subject + Object / Predicate Noun (e.g. Би оюутан = I am a student)",
+        "Subject + бол + Predicate Noun (emphasis / topic: Энэ бол ном = This is a book)",
+        "Subject + нь + Predicate Noun (declarative focus: Тэр нь эмч = He is a doctor)"
+      ],
+      "rules": [
+        {
+          "id": "g_a1_02",
+          "title": "Nominative & Zero Copula Equative Sentences",
+          "cyrillicTitle": "Нэрлэхийн тийн ялгал ба нөхцөлгүй холбоос",
+          "summary": "In present affirmative equative sentences (\"X is Y\"), no verb \"to be\" is required. The particle \"бол\" or \"нь\" or direct juxtaposing is used.",
+          "formula": "",
+          "explanation": "In present affirmative equative sentences (\"X is Y\"), no verb \"to be\" is required. The particle \"бол\" or \"нь\" or direct juxtaposing is used.",
+          "examples": [
+            {
+              "cyrillic": "Би монгол хүн.",
+              "english": "I am a Mongolian.",
+              "breakdown": "Би монгол хүн."
+            },
+            {
+              "cyrillic": "Энэ бол сургууль.",
+              "english": "This is a school.",
+              "breakdown": "Энэ бол сургууль."
+            },
+            {
+              "cyrillic": "Энэ миний ном биш.",
+              "english": "This is not my book.",
+              "breakdown": "Энэ миний ном биш."
+            }
+          ],
+          "exceptions": [
+            "Trying to insert a literal verb like англи \"is\" in basic equative sentences.",
+            "Omitting negative биш in negation: \"Би оюутан биш\" (I am not a student)."
+          ]
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "id": "lex_6",
+        "cyrillic": "эм эгшиг",
+        "ipa": "[ɛm ɛɡʃiɡ]",
+        "english": "feminine vowel",
+        "partOfSpeech": "noun",
+        "genderHarmony": "feminine",
+        "exampleSentenceCyrillic": "Эм эгшиг нь монгол амьдралд чухал.",
+        "exampleSentenceEnglish": "Feminine vowel is important in Mongolian life."
+      },
+      {
+        "id": "lex_7",
+        "cyrillic": "саармаг эгшиг",
+        "ipa": "[saarmaɡ ɛɡʃiɡ]",
+        "english": "neutral vowel",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "Саармаг эгшиг нь монгол амьдралд чухал.",
+        "exampleSentenceEnglish": "Neutral vowel is important in Mongolian life."
+      },
+      {
+        "id": "lex_8",
+        "cyrillic": "урт эгшиг",
+        "ipa": "[ʊrtʰ ɛɡʃiɡ]",
+        "english": "long vowel",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "Урт эгшиг нь монгол амьдралд чухал.",
+        "exampleSentenceEnglish": "Long vowel is important in Mongolian life."
+      },
+      {
+        "id": "lex_9",
+        "cyrillic": "хос эгшиг",
+        "ipa": "[xɔs ɛɡʃiɡ]",
+        "english": "diphthong",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "Хос эгшиг нь монгол амьдралд чухал.",
+        "exampleSentenceEnglish": "Diphthong is important in Mongolian life."
+      },
+      {
+        "id": "lex_10",
+        "cyrillic": "богино эгшиг",
+        "ipa": "[pɔɡinɔ ɛɡʃiɡ]",
+        "english": "short vowel",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "Богино эгшиг нь монгол амьдралд чухал.",
+        "exampleSentenceEnglish": "Short vowel is important in Mongolian life."
+      }
+    ],
+    "exercises": [
+      {
+        "id": "les_001_ex_01",
+        "type": "AUDIO_DICTATION",
+        "prompt": "Listen attentively to the audio recording and transcribe the Cyrillic phrase accurately.",
+        "audioText": "Эм эгшиг нь монгол амьдралд чухал.",
+        "slowAudioText": "Эм ... эгшиг ... нь ... монгол ... амьдралд ... чухал.",
+        "cyrillicSentence": "Эм эгшиг нь монгол амьдралд чухал.",
+        "englishTranslation": "Feminine vowel is important in Mongolian life.",
+        "correctAnswer": "Эм эгшиг нь монгол амьдралд чухал",
+        "detailedGrammarNote": "In standard Khalkha Mongolian orthography, notice how the term \"эм эгшиг\" adheres to feminine vowel harmony. The sentence follows canonical Subject-Object-Verb (SOV) order."
+      },
+      {
+        "id": "les_001_ex_02",
+        "type": "AUDIO_COMPREHENSION",
+        "prompt": "Listen to the spoken Mongolian statement and identify the correct analytical meaning.",
+        "audioText": "Саармаг эгшиг нь монгол амьдралд чухал.",
+        "cyrillicSentence": "Саармаг эгшиг нь монгол амьдралд чухал.",
+        "englishTranslation": "Neutral vowel is important in Mongolian life.",
+        "options": [
+          {
+            "id": "opt_1",
+            "text": "Neutral vowel is important in Mongolian life.",
+            "isCorrect": true,
+            "explanation": "Accurately captures the semantics and syntactic nuances of the spoken utterance."
+          },
+          {
+            "id": "opt_2",
+            "text": "The counterpart statement referring to long vowel.",
+            "isCorrect": false,
+            "explanation": "Incorrect subject; the speaker clearly uttered \"саармаг эгшиг\"."
+          },
+          {
+            "id": "opt_3",
+            "text": "A negative assertion denying the presence of neutral vowel.",
+            "isCorrect": false,
+            "explanation": "The audio is an affirmative declarative clause without negation."
+          },
+          {
+            "id": "opt_4",
+            "text": "An interrogative inquiring about the location of feminine vowel.",
+            "isCorrect": false,
+            "explanation": "No question particle (уу/үү/вэ/бэ) is present in the recorded sentence."
+          }
+        ],
+        "detailedGrammarNote": "Listen for lexical vowel length and consonant assimilation. \"саармаг эгшиг\" ([saarmaɡ ɛɡʃiɡ]) acts as the topical focus."
+      },
+      {
+        "id": "les_001_ex_03",
+        "type": "SENTENCE_CONSTRUCTION",
+        "prompt": "Construct the grammatically standard Mongolian sentence by arranging the word tiles in strict SOV syntax.",
+        "englishTranslation": "Feminine vowel is important in Mongolian life.",
+        "wordTokens": [
+          "чухал",
+          "амьдралд",
+          "монгол",
+          "нь",
+          "эгшиг",
+          "Эм"
+        ],
+        "correctTokenOrder": [
+          "Эм",
+          "эгшиг",
+          "нь",
+          "монгол",
+          "амьдралд",
+          "чухал"
+        ],
+        "cyrillicSentence": "Эм эгшиг нь монгол амьдралд чухал.",
+        "detailedGrammarNote": "Mongolian is a strictly head-final, left-branching language. Modifiers precede heads, direct objects precede transitive verbs, and finite predicates conclude the clause."
+      },
+      {
+        "id": "les_001_ex_04",
+        "type": "GRAMMAR_APPLICATION",
+        "prompt": "Attach the harmonically valid ablative case suffix (\"from / out of\") to the stem \"эм эгшиг\".",
+        "baseWord": "эм эгшиг",
+        "suffixOptions": [
+          "-ээс",
+          "-аас",
+          "-өөс",
+          "-оос"
+        ],
+        "correctSuffix": "-ээс",
+        "options": [
+          {
+            "id": "suf_0",
+            "text": "эм эгшигээс",
+            "isCorrect": true,
+            "explanation": "Correct: \"эм эгшиг\" is a feminine root and requires the harmonic matching suffix -ээс."
+          },
+          {
+            "id": "suf_1",
+            "text": "эм эгшигаас",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for feminine roots."
+          },
+          {
+            "id": "suf_2",
+            "text": "эм эгшигөөс",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for feminine roots."
+          },
+          {
+            "id": "suf_3",
+            "text": "эм эгшигоос",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for feminine roots."
+          }
+        ],
+        "detailedGrammarNote": "Vowel harmony in Mongolian dictates that back vowels (а, о, у) take back-vocalic suffixes, while front vowels (э, ө, ү) take front-vocalic suffixes. In present affirmative equative sentences (\"X is Y\"), no verb \"to be\" is required. The particle \"бол\" or \"нь\" or direct juxtaposing is used."
+      },
+      {
+        "id": "les_001_ex_05",
+        "type": "PHONETIC_DISCRIMINATION",
+        "prompt": "Listen and distinguish the phonemic contrast between masculine and feminine vowels in the audio prompt.",
+        "audioText": "эм эгшиг vs хос эгшиг",
+        "options": [
+          {
+            "id": "p_1",
+            "text": "Root \"эм эгшиг\" contains feminine back vowels.",
+            "isCorrect": true,
+            "explanation": "Accurate phonological identification."
+          },
+          {
+            "id": "p_2",
+            "text": "Both roots share identical front-rounded vowel configurations.",
+            "isCorrect": false,
+            "explanation": "Incorrect; Mongolian contrasts back and front vowel sets."
+          },
+          {
+            "id": "p_3",
+            "text": "The vowels are completely neutralized under Cyrillic stress rules.",
+            "isCorrect": false,
+            "explanation": "Mongolian preserves vowel distinctions in initial syllables."
+          }
+        ],
+        "detailedGrammarNote": "The initial syllable in Mongolian carries primary phonological prominence. Vowel quality in subsequent syllables is governed by harmony with this initial syllable."
+      },
+      {
+        "id": "les_001_ex_06",
+        "type": "TRANSLATION",
+        "prompt": "Translate the following authentic Mongolian sentence into English:",
+        "cyrillicSentence": "Урт эгшиг нь монгол амьдралд чухал.",
+        "englishTranslation": "Long vowel is important in Mongolian life.",
+        "options": [
+          {
+            "id": "tr_1",
+            "text": "Long vowel is important in Mongolian life.",
+            "isCorrect": true
+          },
+          {
+            "id": "tr_2",
+            "text": "The students greeted long vowel warmly.",
+            "isCorrect": false
+          },
+          {
+            "id": "tr_3",
+            "text": "feminine vowel was purchased yesterday.",
+            "isCorrect": false
+          },
+          {
+            "id": "tr_4",
+            "text": "We are traveling towards neutral vowel.",
+            "isCorrect": false
+          }
+        ],
+        "detailedGrammarNote": "In this sentence, note how \"урт эгшиг\" (noun) forms the core thematic subject."
+      },
+      {
+        "id": "les_001_ex_07",
+        "type": "VOCABULARY_MATCH",
+        "prompt": "Select the precise definition for the Mongolian term \"эм эгшиг\" [[ɛm ɛɡʃiɡ]].",
+        "options": [
+          {
+            "id": "vm_1",
+            "text": "feminine vowel (noun)",
+            "isCorrect": true,
+            "explanation": "Accurate lexical definition."
+          },
+          {
+            "id": "vm_2",
+            "text": "neutral vowel (noun)",
+            "isCorrect": false,
+            "explanation": "Refers to another lexical concept."
+          },
+          {
+            "id": "vm_3",
+            "text": "long vowel (noun)",
+            "isCorrect": false,
+            "explanation": "Incorrect lexical translation."
+          },
+          {
+            "id": "vm_4",
+            "text": "diphthong (noun)",
+            "isCorrect": false,
+            "explanation": "Incorrect lexical translation."
+          }
+        ],
+        "detailedGrammarNote": "\"эм эгшиг\" is classified as a noun with feminine vowel harmony. Standard IPA transcription: /[ɛm ɛɡʃiɡ]/."
+      },
+      {
+        "id": "les_001_ex_08",
+        "type": "TRANSLATION",
+        "prompt": "Choose the correct Mongolian Cyrillic rendering for: \"Diphthong is important in Mongolian life.\"",
+        "englishTranslation": "Diphthong is important in Mongolian life.",
+        "cyrillicSentence": "Хос эгшиг нь монгол амьдралд чухал.",
+        "options": [
+          {
+            "id": "rev_1",
+            "text": "Хос эгшиг нь монгол амьдралд чухал.",
+            "isCorrect": true
+          },
+          {
+            "id": "rev_2",
+            "text": "Эм эгшиг нь монгол амьдралд чухал.",
+            "isCorrect": false
+          },
+          {
+            "id": "rev_3",
+            "text": "Саармаг эгшиг нь монгол амьдралд чухал.",
+            "isCorrect": false
+          },
+          {
+            "id": "rev_4",
+            "text": "Урт эгшиг нь монгол амьдралд чухал.",
+            "isCorrect": false
+          }
+        ],
+        "detailedGrammarNote": "Notice the morphological markers indicating aspect, location, and person."
+      },
+      {
+        "id": "les_001_ex_09",
+        "type": "SENTENCE_CONSTRUCTION",
+        "prompt": "Assemble the compound clause featuring the perfective converb -аад/-ээд:",
+        "englishTranslation": "Having taken the feminine vowel, went towards the neutral vowel.",
+        "cyrillicSentence": "эм эгшиг аваад, саармаг эгшиг рүү явлаа",
+        "wordTokens": [
+          "явлаа",
+          "рүү",
+          "эгшиг",
+          "саармаг",
+          "аваад,",
+          "эгшиг",
+          "эм"
+        ],
+        "correctTokenOrder": [
+          "эм",
+          "эгшиг",
+          "аваад,",
+          "саармаг",
+          "эгшиг",
+          "рүү",
+          "явлаа"
+        ],
+        "detailedGrammarNote": "The perfective converb -аад/-ээд marks an anterior action completed immediately prior to the matrix verb."
+      },
+      {
+        "id": "les_001_ex_10",
+        "type": "AUDIO_DICTATION",
+        "prompt": "Listen and transcribe the full conversational statement in Cyrillic:",
+        "audioText": "Урт эгшиг нь монгол амьдралд чухал.",
+        "slowAudioText": "Урт ... эгшиг ... нь ... монгол ... амьдралд ... чухал.",
+        "cyrillicSentence": "Урт эгшиг нь монгол амьдралд чухал.",
+        "englishTranslation": "Long vowel is important in Mongolian life.",
+        "correctAnswer": "Урт эгшиг нь монгол амьдралд чухал",
+        "detailedGrammarNote": "Check consonant assimilation and unaccented short vowel retention in intermediate syllables."
+      },
+      {
+        "id": "les_001_ex_11",
+        "type": "GRAMMAR_APPLICATION",
+        "prompt": "Identify the syntactic role and inflectional ending used in \"Саармаг эгшиг нь монгол амьдралд чухал.\".",
+        "options": [
+          {
+            "id": "ga_1",
+            "text": "Demonstrates Nominative & Zero Copula Equative Sentences in declarative context.",
+            "isCorrect": true,
+            "explanation": "In present affirmative equative sentences (\"X is Y\"), no verb \"to be\" is required. The particle \"бол\" or \"нь\" or direct juxtaposing is used."
+          },
+          {
+            "id": "ga_2",
+            "text": "Employs an archaic vocative particle uncharacteristic of modern prose.",
+            "isCorrect": false,
+            "explanation": "The sentence uses standard contemporary modern Khalkha grammar."
+          },
+          {
+            "id": "ga_3",
+            "text": "Expresses counterfactual past conditionals.",
+            "isCorrect": false,
+            "explanation": "No counterfactual conditional morpheme (-сан бол) is present."
+          }
+        ],
+        "detailedGrammarNote": "Нэрлэхийн тийн ялгал ба нөхцөлгүй холбоос: In present affirmative equative sentences (\"X is Y\"), no verb \"to be\" is required. The particle \"бол\" or \"нь\" or direct juxtaposing is used."
+      }
+    ],
+    "sectionId": "sec_01",
+    "sectionTitle": "Phonology, Cyrillic Alphabet & Vowel Harmony",
+    "unitId": "unit_001",
+    "unitTitle": "The Seven Short Vowels & Lip Rounding",
+    "unitNumber": 1,
+    "cefr": "A1"
+  },
+  {
+    "id": "les_091",
+    "title": "Grandparents and Extended Maternal/Paternal Lineages - Lesson 1",
+    "cyrillicTitle": "Өвөө эмээ ба авга, нагацын төрөл - Хичээл 1",
+    "estimatedMinutes": 15,
+    "grammarOverview": {
+      "summary": "Signifies \"although, even though, despite the fact that\".",
+      "keyPoints": [
+        "Verb Stem + -вч (e.g. ядавч, суувч, үзэвч)",
+        "Participle (-сан/-х) + боловч (e.g. хийсэн боловч, явах боловч)"
+      ],
+      "rules": [
+        {
+          "id": "g_b1_02",
+          "title": "Concessive Converb (-вч / боловч)",
+          "cyrillicTitle": "Найруулах найруулгын харшлах холбох нөхцөл",
+          "summary": "Signifies \"although, even though, despite the fact that\".",
+          "formula": "",
+          "explanation": "Signifies \"although, even though, despite the fact that\".",
+          "examples": [
+            {
+              "cyrillic": "Хүйтэн байвч бид гадаа ажилласан.",
+              "english": "Although it was cold, we worked outside.",
+              "breakdown": "Хүйтэн байвч бид гадаа ажилласан."
+            },
+            {
+              "cyrillic": "Олон удаа уншсан боловч сайн ойлгосонгүй.",
+              "english": "Even though I read it many times, I did not understand well.",
+              "breakdown": "Олон удаа уншсан боловч сайн ойлгосонгүй."
+            }
+          ],
+          "exceptions": [
+            "Using concessive where causal учир нь is required.",
+            "Forgetting that the subject can change across clauses with -вч."
+          ]
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "id": "lex_456",
+        "cyrillic": "эвт шаазгай буга барина",
+        "ipa": "[ɛwtʰ ʃaat͡sɡai̯ pʊɡa parina]",
+        "english": "harmonious magpies can catch a deer (unity is strength)",
+        "partOfSpeech": "idiom",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "эвт шаазгай буга барина бол Монголын нийгэмд чухал ойлголт.",
+        "exampleSentenceEnglish": "harmonious magpies can catch a deer (unity is strength) is an important concept in Mongolian society."
+      },
+      {
+        "id": "lex_457",
+        "cyrillic": "далайд дусал нэмэр",
+        "ipa": "[taɮai̯t tʊsaɮ nɛmɛr]",
+        "english": "every drop contributes to the ocean",
+        "partOfSpeech": "idiom",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "далайд дусал нэмэр бол Монголын нийгэмд чухал ойлголт.",
+        "exampleSentenceEnglish": "every drop contributes to the ocean is an important concept in Mongolian society."
+      },
+      {
+        "id": "lex_458",
+        "cyrillic": "хүн нэрээ тогос өдөө",
+        "ipa": "[xʏn nɛrɛɛ tʰɔɡɔs œtœœ]",
+        "english": "a man guards his name as a peacock guards its feathers",
+        "partOfSpeech": "idiom",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "хүн нэрээ тогос өдөө бол Монголын нийгэмд чухал ойлголт.",
+        "exampleSentenceEnglish": "a man guards his name as a peacock guards its feathers is an important concept in Mongolian society."
+      },
+      {
+        "id": "lex_459",
+        "cyrillic": "усаа уувал ёсоо дага",
+        "ipa": "[ʊsaa ʊʊwaɮ jɔsɔɔ taɡa]",
+        "english": "if you drink the water follow the custom (when in Rome...)",
+        "partOfSpeech": "idiom",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "усаа уувал ёсоо дага бол Монголын нийгэмд чухал ойлголт.",
+        "exampleSentenceEnglish": "if you drink the water follow the custom (when in Rome...) is an important concept in Mongolian society."
+      },
+      {
+        "id": "lex_460",
+        "cyrillic": "эрдэмтэй хүн даруу",
+        "ipa": "[ɛrtɛmtʰɛi̯ xʏn tarʊʊ]",
+        "english": "a learned person is humble",
+        "partOfSpeech": "idiom",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "эрдэмтэй хүн даруу бол Монголын нийгэмд чухал ойлголт.",
+        "exampleSentenceEnglish": "a learned person is humble is an important concept in Mongolian society."
+      }
+    ],
+    "exercises": [
+      {
+        "id": "les_091_ex_01",
+        "type": "AUDIO_DICTATION",
+        "prompt": "Listen attentively to the audio recording and transcribe the Cyrillic phrase accurately.",
+        "audioText": "эвт шаазгай буга барина бол Монголын нийгэмд чухал ойлголт.",
+        "slowAudioText": "эвт ... шаазгай ... буга ... барина ... бол ... Монголын ... нийгэмд ... чухал ... ойлголт.",
+        "cyrillicSentence": "эвт шаазгай буга барина бол Монголын нийгэмд чухал ойлголт.",
+        "englishTranslation": "harmonious magpies can catch a deer (unity is strength) is an important concept in Mongolian society.",
+        "correctAnswer": "эвт шаазгай буга барина бол Монголын нийгэмд чухал ойлголт",
+        "detailedGrammarNote": "In standard Khalkha Mongolian orthography, notice how the term \"эвт шаазгай буга барина\" adheres to masculine vowel harmony. The sentence follows canonical Subject-Object-Verb (SOV) order."
+      },
+      {
+        "id": "les_091_ex_02",
+        "type": "AUDIO_COMPREHENSION",
+        "prompt": "Listen to the spoken Mongolian statement and identify the correct analytical meaning.",
+        "audioText": "далайд дусал нэмэр бол Монголын нийгэмд чухал ойлголт.",
+        "cyrillicSentence": "далайд дусал нэмэр бол Монголын нийгэмд чухал ойлголт.",
+        "englishTranslation": "every drop contributes to the ocean is an important concept in Mongolian society.",
+        "options": [
+          {
+            "id": "opt_1",
+            "text": "every drop contributes to the ocean is an important concept in Mongolian society.",
+            "isCorrect": true,
+            "explanation": "Accurately captures the semantics and syntactic nuances of the spoken utterance."
+          },
+          {
+            "id": "opt_2",
+            "text": "The counterpart statement referring to a man guards his name as a peacock guards its feathers.",
+            "isCorrect": false,
+            "explanation": "Incorrect subject; the speaker clearly uttered \"далайд дусал нэмэр\"."
+          },
+          {
+            "id": "opt_3",
+            "text": "A negative assertion denying the presence of every drop contributes to the ocean.",
+            "isCorrect": false,
+            "explanation": "The audio is an affirmative declarative clause without negation."
+          },
+          {
+            "id": "opt_4",
+            "text": "An interrogative inquiring about the location of harmonious magpies can catch a deer (unity is strength).",
+            "isCorrect": false,
+            "explanation": "No question particle (уу/үү/вэ/бэ) is present in the recorded sentence."
+          }
+        ],
+        "detailedGrammarNote": "Listen for lexical vowel length and consonant assimilation. \"далайд дусал нэмэр\" ([taɮai̯t tʊsaɮ nɛmɛr]) acts as the topical focus."
+      },
+      {
+        "id": "les_091_ex_03",
+        "type": "SENTENCE_CONSTRUCTION",
+        "prompt": "Construct the grammatically standard Mongolian sentence by arranging the word tiles in strict SOV syntax.",
+        "englishTranslation": "harmonious magpies can catch a deer (unity is strength) is an important concept in Mongolian society.",
+        "wordTokens": [
+          "ойлголт",
+          "чухал",
+          "нийгэмд",
+          "Монголын",
+          "бол",
+          "барина",
+          "буга",
+          "шаазгай",
+          "эвт"
+        ],
+        "correctTokenOrder": [
+          "эвт",
+          "шаазгай",
+          "буга",
+          "барина",
+          "бол",
+          "Монголын",
+          "нийгэмд",
+          "чухал",
+          "ойлголт"
+        ],
+        "cyrillicSentence": "эвт шаазгай буга барина бол Монголын нийгэмд чухал ойлголт.",
+        "detailedGrammarNote": "Mongolian is a strictly head-final, left-branching language. Modifiers precede heads, direct objects precede transitive verbs, and finite predicates conclude the clause."
+      },
+      {
+        "id": "les_091_ex_04",
+        "type": "GRAMMAR_APPLICATION",
+        "prompt": "Attach the harmonically valid ablative case suffix (\"from / out of\") to the stem \"эвт шаазгай буга барина\".",
+        "baseWord": "эвт шаазгай буга барина",
+        "suffixOptions": [
+          "-аас",
+          "-ээс",
+          "-оос",
+          "-өөс"
+        ],
+        "correctSuffix": "-аас",
+        "options": [
+          {
+            "id": "suf_0",
+            "text": "эвт шаазгай буга баринааас",
+            "isCorrect": true,
+            "explanation": "Correct: \"эвт шаазгай буга барина\" is a masculine root and requires the harmonic matching suffix -аас."
+          },
+          {
+            "id": "suf_1",
+            "text": "эвт шаазгай буга баринаээс",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          },
+          {
+            "id": "suf_2",
+            "text": "эвт шаазгай буга баринаоос",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          },
+          {
+            "id": "suf_3",
+            "text": "эвт шаазгай буга баринаөөс",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          }
+        ],
+        "detailedGrammarNote": "Vowel harmony in Mongolian dictates that back vowels (а, о, у) take back-vocalic suffixes, while front vowels (э, ө, ү) take front-vocalic suffixes. Signifies \"although, even though, despite the fact that\"."
+      },
+      {
+        "id": "les_091_ex_05",
+        "type": "PHONETIC_DISCRIMINATION",
+        "prompt": "Listen and distinguish the phonemic contrast between masculine and feminine vowels in the audio prompt.",
+        "audioText": "эвт шаазгай буга барина vs усаа уувал ёсоо дага",
+        "options": [
+          {
+            "id": "p_1",
+            "text": "Root \"эвт шаазгай буга барина\" contains masculine back vowels.",
+            "isCorrect": true,
+            "explanation": "Accurate phonological identification."
+          },
+          {
+            "id": "p_2",
+            "text": "Both roots share identical front-rounded vowel configurations.",
+            "isCorrect": false,
+            "explanation": "Incorrect; Mongolian contrasts back and front vowel sets."
+          },
+          {
+            "id": "p_3",
+            "text": "The vowels are completely neutralized under Cyrillic stress rules.",
+            "isCorrect": false,
+            "explanation": "Mongolian preserves vowel distinctions in initial syllables."
+          }
+        ],
+        "detailedGrammarNote": "The initial syllable in Mongolian carries primary phonological prominence. Vowel quality in subsequent syllables is governed by harmony with this initial syllable."
+      },
+      {
+        "id": "les_091_ex_06",
+        "type": "TRANSLATION",
+        "prompt": "Translate the following authentic Mongolian sentence into English:",
+        "cyrillicSentence": "хүн нэрээ тогос өдөө бол Монголын нийгэмд чухал ойлголт.",
+        "englishTranslation": "a man guards his name as a peacock guards its feathers is an important concept in Mongolian society.",
+        "options": [
+          {
+            "id": "tr_1",
+            "text": "a man guards his name as a peacock guards its feathers is an important concept in Mongolian society.",
+            "isCorrect": true
+          },
+          {
+            "id": "tr_2",
+            "text": "The students greeted a man guards his name as a peacock guards its feathers warmly.",
+            "isCorrect": false
+          },
+          {
+            "id": "tr_3",
+            "text": "harmonious magpies can catch a deer (unity is strength) was purchased yesterday.",
+            "isCorrect": false
+          },
+          {
+            "id": "tr_4",
+            "text": "We are traveling towards every drop contributes to the ocean.",
+            "isCorrect": false
+          }
+        ],
+        "detailedGrammarNote": "In this sentence, note how \"хүн нэрээ тогос өдөө\" (idiom) forms the core thematic subject."
+      },
+      {
+        "id": "les_091_ex_07",
+        "type": "VOCABULARY_MATCH",
+        "prompt": "Select the precise definition for the Mongolian term \"эвт шаазгай буга барина\" [[ɛwtʰ ʃaat͡sɡai̯ pʊɡa parina]].",
+        "options": [
+          {
+            "id": "vm_1",
+            "text": "harmonious magpies can catch a deer (unity is strength) (idiom)",
+            "isCorrect": true,
+            "explanation": "Accurate lexical definition."
+          },
+          {
+            "id": "vm_2",
+            "text": "every drop contributes to the ocean (idiom)",
+            "isCorrect": false,
+            "explanation": "Refers to another lexical concept."
+          },
+          {
+            "id": "vm_3",
+            "text": "a man guards his name as a peacock guards its feathers (idiom)",
+            "isCorrect": false,
+            "explanation": "Incorrect lexical translation."
+          },
+          {
+            "id": "vm_4",
+            "text": "if you drink the water follow the custom (when in Rome...) (idiom)",
+            "isCorrect": false,
+            "explanation": "Incorrect lexical translation."
+          }
+        ],
+        "detailedGrammarNote": "\"эвт шаазгай буга барина\" is classified as a idiom with masculine vowel harmony. Standard IPA transcription: /[ɛwtʰ ʃaat͡sɡai̯ pʊɡa parina]/."
+      },
+      {
+        "id": "les_091_ex_08",
+        "type": "TRANSLATION",
+        "prompt": "Choose the correct Mongolian Cyrillic rendering for: \"if you drink the water follow the custom (when in Rome...) is an important concept in Mongolian society.\"",
+        "englishTranslation": "if you drink the water follow the custom (when in Rome...) is an important concept in Mongolian society.",
+        "cyrillicSentence": "усаа уувал ёсоо дага бол Монголын нийгэмд чухал ойлголт.",
+        "options": [
+          {
+            "id": "rev_1",
+            "text": "усаа уувал ёсоо дага бол Монголын нийгэмд чухал ойлголт.",
+            "isCorrect": true
+          },
+          {
+            "id": "rev_2",
+            "text": "эвт шаазгай буга барина бол Монголын нийгэмд чухал ойлголт.",
+            "isCorrect": false
+          },
+          {
+            "id": "rev_3",
+            "text": "далайд дусал нэмэр бол Монголын нийгэмд чухал ойлголт.",
+            "isCorrect": false
+          },
+          {
+            "id": "rev_4",
+            "text": "хүн нэрээ тогос өдөө бол Монголын нийгэмд чухал ойлголт.",
+            "isCorrect": false
+          }
+        ],
+        "detailedGrammarNote": "Notice the morphological markers indicating aspect, location, and person."
+      },
+      {
+        "id": "les_091_ex_09",
+        "type": "SENTENCE_CONSTRUCTION",
+        "prompt": "Assemble the compound clause featuring the perfective converb -аад/-ээд:",
+        "englishTranslation": "Having taken the harmonious magpies can catch a deer (unity is strength), went towards the every drop contributes to the ocean.",
+        "cyrillicSentence": "эвт шаазгай буга барина аваад, далайд дусал нэмэр рүү явлаа",
+        "wordTokens": [
+          "явлаа",
+          "рүү",
+          "нэмэр",
+          "дусал",
+          "далайд",
+          "аваад,",
+          "барина",
+          "буга",
+          "шаазгай",
+          "эвт"
+        ],
+        "correctTokenOrder": [
+          "эвт",
+          "шаазгай",
+          "буга",
+          "барина",
+          "аваад,",
+          "далайд",
+          "дусал",
+          "нэмэр",
+          "рүү",
+          "явлаа"
+        ],
+        "detailedGrammarNote": "The perfective converb -аад/-ээд marks an anterior action completed immediately prior to the matrix verb."
+      },
+      {
+        "id": "les_091_ex_10",
+        "type": "AUDIO_DICTATION",
+        "prompt": "Listen and transcribe the full conversational statement in Cyrillic:",
+        "audioText": "хүн нэрээ тогос өдөө бол Монголын нийгэмд чухал ойлголт.",
+        "slowAudioText": "хүн ... нэрээ ... тогос ... өдөө ... бол ... Монголын ... нийгэмд ... чухал ... ойлголт.",
+        "cyrillicSentence": "хүн нэрээ тогос өдөө бол Монголын нийгэмд чухал ойлголт.",
+        "englishTranslation": "a man guards his name as a peacock guards its feathers is an important concept in Mongolian society.",
+        "correctAnswer": "хүн нэрээ тогос өдөө бол Монголын нийгэмд чухал ойлголт",
+        "detailedGrammarNote": "Check consonant assimilation and unaccented short vowel retention in intermediate syllables."
+      },
+      {
+        "id": "les_091_ex_11",
+        "type": "GRAMMAR_APPLICATION",
+        "prompt": "Identify the syntactic role and inflectional ending used in \"далайд дусал нэмэр бол Монголын нийгэмд чухал ойлголт.\".",
+        "options": [
+          {
+            "id": "ga_1",
+            "text": "Demonstrates Concessive Converb (-вч / боловч) in declarative context.",
+            "isCorrect": true,
+            "explanation": "Signifies \"although, even though, despite the fact that\"."
+          },
+          {
+            "id": "ga_2",
+            "text": "Employs an archaic vocative particle uncharacteristic of modern prose.",
+            "isCorrect": false,
+            "explanation": "The sentence uses standard contemporary modern Khalkha grammar."
+          },
+          {
+            "id": "ga_3",
+            "text": "Expresses counterfactual past conditionals.",
+            "isCorrect": false,
+            "explanation": "No counterfactual conditional morpheme (-сан бол) is present."
+          }
+        ],
+        "detailedGrammarNote": "Найруулах найруулгын харшлах холбох нөхцөл: Signifies \"although, even though, despite the fact that\"."
+      }
+    ],
+    "sectionId": "sec_03",
+    "sectionTitle": "Family, Kinship & Dative-Locative Spatial Expressions",
+    "unitId": "unit_016",
+    "unitTitle": "Grandparents and Extended Maternal/Paternal Lineages",
+    "unitNumber": 16,
+    "cefr": "A1"
+  },
+  {
+    "id": "les_181",
+    "title": "Pastoralism & Origin: Advanced Competency Unit 31 - Lesson 1",
+    "cyrillicTitle": "Таван хошуу мал, нүүдэлчин ахуй ба гарахын тийн ялгал - Хичээл 31 - Хичээл 1",
+    "estimatedMinutes": 15,
+    "grammarOverview": {
+      "summary": "Indicates instrument, means, path, or mode of action (\"by, through, with, in\"). Four-way vowel harmony applies.",
+      "keyPoints": [
+        "Masculine non-labial: + аар (e.g. харандаагаар, номоор)",
+        "Feminine non-labial: + ээр (e.g. үзэгээр, гэрээр)",
+        "Masculine labial (o): + оор (e.g. олоор, хоолоор)",
+        "Feminine labial (ө): + өөр (e.g. нүдээр, өдрөөр)"
+      ],
+      "rules": [
+        {
+          "id": "g_a1_07",
+          "title": "Instrumental Case (Үйлдэхийн тийн ялгал: -аар, -ээр, -оор, -өөр)",
+          "cyrillicTitle": "Үйлдэхийн тийн ялгал",
+          "summary": "Indicates instrument, means, path, or mode of action (\"by, through, with, in\"). Four-way vowel harmony applies.",
+          "formula": "",
+          "explanation": "Indicates instrument, means, path, or mode of action (\"by, through, with, in\"). Four-way vowel harmony applies.",
+          "examples": [
+            {
+              "cyrillic": "Би автобусаар явдаг.",
+              "english": "I go by bus.",
+              "breakdown": "Би автобусаар явдаг."
+            },
+            {
+              "cyrillic": "Монгол хэлээр ярьдаг.",
+              "english": "Speaks in the Mongolian language.",
+              "breakdown": "Монгол хэлээр ярьдаг."
+            },
+            {
+              "cyrillic": "Халбагаар хоол иддэг.",
+              "english": "Eats meal with a spoon.",
+              "breakdown": "Халбагаар хоол иддэг."
+            }
+          ],
+          "exceptions": [
+            "Confusing Instrumental (-аар means / by way of) with Comitative (-тай accompanied by).",
+            "Omitting buffer consonant -г- when stem ends in long vowel or diphthong (e.g. автобус + аар = автобусаар; but морь + оор = мориор)."
+          ]
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "id": "lex_906",
+        "cyrillic": "байгаль орчны түүх",
+        "ipa": "[pai̯ɡaɮʲ ɔrt͡ʃʰniː tʰʏʏx]",
+        "english": "environmental history",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "байгаль орчны түүх бол чухал салбар юм.",
+        "exampleSentenceEnglish": "environmental history is an important field."
+      },
+      {
+        "id": "lex_907",
+        "cyrillic": "мэргэжлийн түүх",
+        "ipa": "[mɛrɡɛt͡ʃɮii̯n tʰʏʏx]",
+        "english": "professional / vocational history",
+        "partOfSpeech": "noun",
+        "genderHarmony": "feminine",
+        "exampleSentenceCyrillic": "мэргэжлийн түүх бол чухал салбар юм.",
+        "exampleSentenceEnglish": "professional / vocational history is an important field."
+      },
+      {
+        "id": "lex_908",
+        "cyrillic": "академик түүх",
+        "ipa": "[akʰatjɛmikʰ tʰʏʏx]",
+        "english": "academic history",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "академик түүх бол чухал салбар юм.",
+        "exampleSentenceEnglish": "academic history is an important field."
+      },
+      {
+        "id": "lex_909",
+        "cyrillic": "сонгодог түүх",
+        "ipa": "[sɔnɡɔtɔɡ tʰʏʏx]",
+        "english": "classical history",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "сонгодог түүх бол чухал салбар юм.",
+        "exampleSentenceEnglish": "classical history is an important field."
+      },
+      {
+        "id": "lex_910",
+        "cyrillic": "гүн ухааны түүх",
+        "ipa": "[ɡʏn ʊxaaniː tʰʏʏx]",
+        "english": "philosophical history",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "гүн ухааны түүх бол чухал салбар юм.",
+        "exampleSentenceEnglish": "philosophical history is an important field."
+      }
+    ],
+    "exercises": [
+      {
+        "id": "les_181_ex_01",
+        "type": "AUDIO_DICTATION",
+        "prompt": "Listen attentively to the audio recording and transcribe the Cyrillic phrase accurately.",
+        "audioText": "байгаль орчны түүх бол чухал салбар юм.",
+        "slowAudioText": "байгаль ... орчны ... түүх ... бол ... чухал ... салбар ... юм.",
+        "cyrillicSentence": "байгаль орчны түүх бол чухал салбар юм.",
+        "englishTranslation": "environmental history is an important field.",
+        "correctAnswer": "байгаль орчны түүх бол чухал салбар юм",
+        "detailedGrammarNote": "In standard Khalkha Mongolian orthography, notice how the term \"байгаль орчны түүх\" adheres to masculine vowel harmony. The sentence follows canonical Subject-Object-Verb (SOV) order."
+      },
+      {
+        "id": "les_181_ex_02",
+        "type": "AUDIO_COMPREHENSION",
+        "prompt": "Listen to the spoken Mongolian statement and identify the correct analytical meaning.",
+        "audioText": "мэргэжлийн түүх бол чухал салбар юм.",
+        "cyrillicSentence": "мэргэжлийн түүх бол чухал салбар юм.",
+        "englishTranslation": "professional / vocational history is an important field.",
+        "options": [
+          {
+            "id": "opt_1",
+            "text": "professional / vocational history is an important field.",
+            "isCorrect": true,
+            "explanation": "Accurately captures the semantics and syntactic nuances of the spoken utterance."
+          },
+          {
+            "id": "opt_2",
+            "text": "The counterpart statement referring to academic history.",
+            "isCorrect": false,
+            "explanation": "Incorrect subject; the speaker clearly uttered \"мэргэжлийн түүх\"."
+          },
+          {
+            "id": "opt_3",
+            "text": "A negative assertion denying the presence of professional / vocational history.",
+            "isCorrect": false,
+            "explanation": "The audio is an affirmative declarative clause without negation."
+          },
+          {
+            "id": "opt_4",
+            "text": "An interrogative inquiring about the location of environmental history.",
+            "isCorrect": false,
+            "explanation": "No question particle (уу/үү/вэ/бэ) is present in the recorded sentence."
+          }
+        ],
+        "detailedGrammarNote": "Listen for lexical vowel length and consonant assimilation. \"мэргэжлийн түүх\" ([mɛrɡɛt͡ʃɮii̯n tʰʏʏx]) acts as the topical focus."
+      },
+      {
+        "id": "les_181_ex_03",
+        "type": "SENTENCE_CONSTRUCTION",
+        "prompt": "Construct the grammatically standard Mongolian sentence by arranging the word tiles in strict SOV syntax.",
+        "englishTranslation": "environmental history is an important field.",
+        "wordTokens": [
+          "юм",
+          "салбар",
+          "чухал",
+          "бол",
+          "түүх",
+          "орчны",
+          "байгаль"
+        ],
+        "correctTokenOrder": [
+          "байгаль",
+          "орчны",
+          "түүх",
+          "бол",
+          "чухал",
+          "салбар",
+          "юм"
+        ],
+        "cyrillicSentence": "байгаль орчны түүх бол чухал салбар юм.",
+        "detailedGrammarNote": "Mongolian is a strictly head-final, left-branching language. Modifiers precede heads, direct objects precede transitive verbs, and finite predicates conclude the clause."
+      },
+      {
+        "id": "les_181_ex_04",
+        "type": "GRAMMAR_APPLICATION",
+        "prompt": "Attach the harmonically valid ablative case suffix (\"from / out of\") to the stem \"байгаль орчны түүх\".",
+        "baseWord": "байгаль орчны түүх",
+        "suffixOptions": [
+          "-аас",
+          "-ээс",
+          "-оос",
+          "-өөс"
+        ],
+        "correctSuffix": "-аас",
+        "options": [
+          {
+            "id": "suf_0",
+            "text": "байгаль орчны түүхаас",
+            "isCorrect": true,
+            "explanation": "Correct: \"байгаль орчны түүх\" is a masculine root and requires the harmonic matching suffix -аас."
+          },
+          {
+            "id": "suf_1",
+            "text": "байгаль орчны түүхээс",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          },
+          {
+            "id": "suf_2",
+            "text": "байгаль орчны түүхоос",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          },
+          {
+            "id": "suf_3",
+            "text": "байгаль орчны түүхөөс",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          }
+        ],
+        "detailedGrammarNote": "Vowel harmony in Mongolian dictates that back vowels (а, о, у) take back-vocalic suffixes, while front vowels (э, ө, ү) take front-vocalic suffixes. Indicates instrument, means, path, or mode of action (\"by, through, with, in\"). Four-way vowel harmony applies."
+      },
+      {
+        "id": "les_181_ex_05",
+        "type": "PHONETIC_DISCRIMINATION",
+        "prompt": "Listen and distinguish the phonemic contrast between masculine and feminine vowels in the audio prompt.",
+        "audioText": "байгаль орчны түүх vs сонгодог түүх",
+        "options": [
+          {
+            "id": "p_1",
+            "text": "Root \"байгаль орчны түүх\" contains masculine back vowels.",
+            "isCorrect": true,
+            "explanation": "Accurate phonological identification."
+          },
+          {
+            "id": "p_2",
+            "text": "Both roots share identical front-rounded vowel configurations.",
+            "isCorrect": false,
+            "explanation": "Incorrect; Mongolian contrasts back and front vowel sets."
+          },
+          {
+            "id": "p_3",
+            "text": "The vowels are completely neutralized under Cyrillic stress rules.",
+            "isCorrect": false,
+            "explanation": "Mongolian preserves vowel distinctions in initial syllables."
+          }
+        ],
+        "detailedGrammarNote": "The initial syllable in Mongolian carries primary phonological prominence. Vowel quality in subsequent syllables is governed by harmony with this initial syllable."
+      },
+      {
+        "id": "les_181_ex_06",
+        "type": "TRANSLATION",
+        "prompt": "Translate the following authentic Mongolian sentence into English:",
+        "cyrillicSentence": "академик түүх бол чухал салбар юм.",
+        "englishTranslation": "academic history is an important field.",
+        "options": [
+          {
+            "id": "tr_1",
+            "text": "academic history is an important field.",
+            "isCorrect": true
+          },
+          {
+            "id": "tr_2",
+            "text": "The students greeted academic history warmly.",
+            "isCorrect": false
+          },
+          {
+            "id": "tr_3",
+            "text": "environmental history was purchased yesterday.",
+            "isCorrect": false
+          },
+          {
+            "id": "tr_4",
+            "text": "We are traveling towards professional / vocational history.",
+            "isCorrect": false
+          }
+        ],
+        "detailedGrammarNote": "In this sentence, note how \"академик түүх\" (noun) forms the core thematic subject."
+      },
+      {
+        "id": "les_181_ex_07",
+        "type": "VOCABULARY_MATCH",
+        "prompt": "Select the precise definition for the Mongolian term \"байгаль орчны түүх\" [[pai̯ɡaɮʲ ɔrt͡ʃʰniː tʰʏʏx]].",
+        "options": [
+          {
+            "id": "vm_1",
+            "text": "environmental history (noun)",
+            "isCorrect": true,
+            "explanation": "Accurate lexical definition."
+          },
+          {
+            "id": "vm_2",
+            "text": "professional / vocational history (noun)",
+            "isCorrect": false,
+            "explanation": "Refers to another lexical concept."
+          },
+          {
+            "id": "vm_3",
+            "text": "academic history (noun)",
+            "isCorrect": false,
+            "explanation": "Incorrect lexical translation."
+          },
+          {
+            "id": "vm_4",
+            "text": "classical history (noun)",
+            "isCorrect": false,
+            "explanation": "Incorrect lexical translation."
+          }
+        ],
+        "detailedGrammarNote": "\"байгаль орчны түүх\" is classified as a noun with masculine vowel harmony. Standard IPA transcription: /[pai̯ɡaɮʲ ɔrt͡ʃʰniː tʰʏʏx]/."
+      },
+      {
+        "id": "les_181_ex_08",
+        "type": "TRANSLATION",
+        "prompt": "Choose the correct Mongolian Cyrillic rendering for: \"classical history is an important field.\"",
+        "englishTranslation": "classical history is an important field.",
+        "cyrillicSentence": "сонгодог түүх бол чухал салбар юм.",
+        "options": [
+          {
+            "id": "rev_1",
+            "text": "сонгодог түүх бол чухал салбар юм.",
+            "isCorrect": true
+          },
+          {
+            "id": "rev_2",
+            "text": "байгаль орчны түүх бол чухал салбар юм.",
+            "isCorrect": false
+          },
+          {
+            "id": "rev_3",
+            "text": "мэргэжлийн түүх бол чухал салбар юм.",
+            "isCorrect": false
+          },
+          {
+            "id": "rev_4",
+            "text": "академик түүх бол чухал салбар юм.",
+            "isCorrect": false
+          }
+        ],
+        "detailedGrammarNote": "Notice the morphological markers indicating aspect, location, and person."
+      },
+      {
+        "id": "les_181_ex_09",
+        "type": "SENTENCE_CONSTRUCTION",
+        "prompt": "Assemble the compound clause featuring the perfective converb -аад/-ээд:",
+        "englishTranslation": "Having taken the environmental history, went towards the professional / vocational history.",
+        "cyrillicSentence": "байгаль орчны түүх аваад, мэргэжлийн түүх рүү явлаа",
+        "wordTokens": [
+          "явлаа",
+          "рүү",
+          "түүх",
+          "мэргэжлийн",
+          "аваад,",
+          "түүх",
+          "орчны",
+          "байгаль"
+        ],
+        "correctTokenOrder": [
+          "байгаль",
+          "орчны",
+          "түүх",
+          "аваад,",
+          "мэргэжлийн",
+          "түүх",
+          "рүү",
+          "явлаа"
+        ],
+        "detailedGrammarNote": "The perfective converb -аад/-ээд marks an anterior action completed immediately prior to the matrix verb."
+      },
+      {
+        "id": "les_181_ex_10",
+        "type": "AUDIO_DICTATION",
+        "prompt": "Listen and transcribe the full conversational statement in Cyrillic:",
+        "audioText": "академик түүх бол чухал салбар юм.",
+        "slowAudioText": "академик ... түүх ... бол ... чухал ... салбар ... юм.",
+        "cyrillicSentence": "академик түүх бол чухал салбар юм.",
+        "englishTranslation": "academic history is an important field.",
+        "correctAnswer": "академик түүх бол чухал салбар юм",
+        "detailedGrammarNote": "Check consonant assimilation and unaccented short vowel retention in intermediate syllables."
+      },
+      {
+        "id": "les_181_ex_11",
+        "type": "GRAMMAR_APPLICATION",
+        "prompt": "Identify the syntactic role and inflectional ending used in \"мэргэжлийн түүх бол чухал салбар юм.\".",
+        "options": [
+          {
+            "id": "ga_1",
+            "text": "Demonstrates Instrumental Case (Үйлдэхийн тийн ялгал: -аар, -ээр, -оор, -өөр) in declarative context.",
+            "isCorrect": true,
+            "explanation": "Indicates instrument, means, path, or mode of action (\"by, through, with, in\"). Four-way vowel harmony applies."
+          },
+          {
+            "id": "ga_2",
+            "text": "Employs an archaic vocative particle uncharacteristic of modern prose.",
+            "isCorrect": false,
+            "explanation": "The sentence uses standard contemporary modern Khalkha grammar."
+          },
+          {
+            "id": "ga_3",
+            "text": "Expresses counterfactual past conditionals.",
+            "isCorrect": false,
+            "explanation": "No counterfactual conditional morpheme (-сан бол) is present."
+          }
+        ],
+        "detailedGrammarNote": "Үйлдэхийн тийн ялгал: Indicates instrument, means, path, or mode of action (\"by, through, with, in\"). Four-way vowel harmony applies."
+      }
+    ],
+    "sectionId": "sec_05",
+    "sectionTitle": "Five Livestock, Pastoral Life & Ablative of Origin",
+    "unitId": "unit_031",
+    "unitTitle": "Pastoralism & Origin: Advanced Competency Unit 31",
+    "unitNumber": 31,
+    "cefr": "A2"
+  },
+  {
+    "id": "les_274",
+    "title": "Geography & Instruments: Advanced Competency Unit 46 - Lesson 4",
+    "cyrillicTitle": "Байгаль, газар зүй ба үйлдэхийн тийн ялгал - Хичээл 46 - Хичээл 4",
+    "estimatedMinutes": 15,
+    "grammarOverview": {
+      "summary": "Syntactic inversions, head-alliteration (толгой холболт), parallelism, and rhythmic metrics in high Mongolian literature.",
+      "keyPoints": [
+        "Head alliteration: Every line of a quatrain begins with identical phoneme.",
+        "Metrical parallelism: Paired syntagms repeating syntactic structures."
+      ],
+      "rules": [
+        {
+          "id": "g_c2_01",
+          "title": "Stylistic Nuance in Epics, Oratory & Sacred Poetics",
+          "cyrillicTitle": "Туульс, уран илтгэх зүй ба яруу найргийн онцлог",
+          "summary": "Syntactic inversions, head-alliteration (толгой холболт), parallelism, and rhythmic metrics in high Mongolian literature.",
+          "formula": "",
+          "explanation": "Syntactic inversions, head-alliteration (толгой холболт), parallelism, and rhythmic metrics in high Mongolian literature.",
+          "examples": [
+            {
+              "cyrillic": "Алтан наран мандахад, ачит ээж минь сэрдэг.",
+              "english": "When the golden sun rises, my beneficent mother awakes.",
+              "breakdown": "Алтан наран мандахад, ачит ээж минь сэрдэг."
+            },
+            {
+              "cyrillic": "Эвт шаазгай буга барина, эвдрэлтэй арслан туулайд баригдана.",
+              "english": "Harmonious magpies take down an elk; discordant lions are defeated by a hare.",
+              "breakdown": "Эвт шаазгай буга барина, эвдрэлтэй арслан туулайд баригдана."
+            }
+          ],
+          "exceptions": [
+            "Treating poetical inversions as ungrammatical in standard analytical prose."
+          ]
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "id": "lex_1371",
+        "cyrillic": "шинжлэх ухааны хүч",
+        "ipa": "[ʃint͡ʃɮɛx ʊxaaniː xʏt͡ʃʰ]",
+        "english": "scientific power/force",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "шинжлэх ухааны хүч бол чухал салбар юм.",
+        "exampleSentenceEnglish": "scientific power/force is an important field."
+      },
+      {
+        "id": "lex_1372",
+        "cyrillic": "эдийн засгийн хүч",
+        "ipa": "[ɛtii̯n t͡sasɡii̯n xʏt͡ʃʰ]",
+        "english": "economic power/force",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "эдийн засгийн хүч бол чухал салбар юм.",
+        "exampleSentenceEnglish": "economic power/force is an important field."
+      },
+      {
+        "id": "lex_1373",
+        "cyrillic": "байгалийн хүч",
+        "ipa": "[pai̯ɡaɮii̯n xʏt͡ʃʰ]",
+        "english": "natural power/force",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "байгалийн хүч бол чухал салбар юм.",
+        "exampleSentenceEnglish": "natural power/force is an important field."
+      },
+      {
+        "id": "lex_1374",
+        "cyrillic": "нийгмийн хүч",
+        "ipa": "[nii̯ɡmii̯n xʏt͡ʃʰ]",
+        "english": "social power/force",
+        "partOfSpeech": "noun",
+        "genderHarmony": "feminine",
+        "exampleSentenceCyrillic": "нийгмийн хүч бол чухал салбар юм.",
+        "exampleSentenceEnglish": "social power/force is an important field."
+      },
+      {
+        "id": "lex_1375",
+        "cyrillic": "хувийн хүч",
+        "ipa": "[xʊwii̯n xʏt͡ʃʰ]",
+        "english": "private / personal power/force",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "хувийн хүч бол чухал салбар юм.",
+        "exampleSentenceEnglish": "private / personal power/force is an important field."
+      }
+    ],
+    "exercises": [
+      {
+        "id": "les_274_ex_01",
+        "type": "AUDIO_DICTATION",
+        "prompt": "Listen attentively to the audio recording and transcribe the Cyrillic phrase accurately.",
+        "audioText": "шинжлэх ухааны хүч бол чухал салбар юм.",
+        "slowAudioText": "шинжлэх ... ухааны ... хүч ... бол ... чухал ... салбар ... юм.",
+        "cyrillicSentence": "шинжлэх ухааны хүч бол чухал салбар юм.",
+        "englishTranslation": "scientific power/force is an important field.",
+        "correctAnswer": "шинжлэх ухааны хүч бол чухал салбар юм",
+        "detailedGrammarNote": "In standard Khalkha Mongolian orthography, notice how the term \"шинжлэх ухааны хүч\" adheres to masculine vowel harmony. The sentence follows canonical Subject-Object-Verb (SOV) order."
+      },
+      {
+        "id": "les_274_ex_02",
+        "type": "AUDIO_COMPREHENSION",
+        "prompt": "Listen to the spoken Mongolian statement and identify the correct analytical meaning.",
+        "audioText": "эдийн засгийн хүч бол чухал салбар юм.",
+        "cyrillicSentence": "эдийн засгийн хүч бол чухал салбар юм.",
+        "englishTranslation": "economic power/force is an important field.",
+        "options": [
+          {
+            "id": "opt_1",
+            "text": "economic power/force is an important field.",
+            "isCorrect": true,
+            "explanation": "Accurately captures the semantics and syntactic nuances of the spoken utterance."
+          },
+          {
+            "id": "opt_2",
+            "text": "The counterpart statement referring to natural power/force.",
+            "isCorrect": false,
+            "explanation": "Incorrect subject; the speaker clearly uttered \"эдийн засгийн хүч\"."
+          },
+          {
+            "id": "opt_3",
+            "text": "A negative assertion denying the presence of economic power/force.",
+            "isCorrect": false,
+            "explanation": "The audio is an affirmative declarative clause without negation."
+          },
+          {
+            "id": "opt_4",
+            "text": "An interrogative inquiring about the location of scientific power/force.",
+            "isCorrect": false,
+            "explanation": "No question particle (уу/үү/вэ/бэ) is present in the recorded sentence."
+          }
+        ],
+        "detailedGrammarNote": "Listen for lexical vowel length and consonant assimilation. \"эдийн засгийн хүч\" ([ɛtii̯n t͡sasɡii̯n xʏt͡ʃʰ]) acts as the topical focus."
+      },
+      {
+        "id": "les_274_ex_03",
+        "type": "SENTENCE_CONSTRUCTION",
+        "prompt": "Construct the grammatically standard Mongolian sentence by arranging the word tiles in strict SOV syntax.",
+        "englishTranslation": "scientific power/force is an important field.",
+        "wordTokens": [
+          "юм",
+          "салбар",
+          "чухал",
+          "бол",
+          "хүч",
+          "ухааны",
+          "шинжлэх"
+        ],
+        "correctTokenOrder": [
+          "шинжлэх",
+          "ухааны",
+          "хүч",
+          "бол",
+          "чухал",
+          "салбар",
+          "юм"
+        ],
+        "cyrillicSentence": "шинжлэх ухааны хүч бол чухал салбар юм.",
+        "detailedGrammarNote": "Mongolian is a strictly head-final, left-branching language. Modifiers precede heads, direct objects precede transitive verbs, and finite predicates conclude the clause."
+      },
+      {
+        "id": "les_274_ex_04",
+        "type": "GRAMMAR_APPLICATION",
+        "prompt": "Attach the harmonically valid ablative case suffix (\"from / out of\") to the stem \"шинжлэх ухааны хүч\".",
+        "baseWord": "шинжлэх ухааны хүч",
+        "suffixOptions": [
+          "-аас",
+          "-ээс",
+          "-оос",
+          "-өөс"
+        ],
+        "correctSuffix": "-аас",
+        "options": [
+          {
+            "id": "suf_0",
+            "text": "шинжлэх ухааны хүчаас",
+            "isCorrect": true,
+            "explanation": "Correct: \"шинжлэх ухааны хүч\" is a masculine root and requires the harmonic matching suffix -аас."
+          },
+          {
+            "id": "suf_1",
+            "text": "шинжлэх ухааны хүчээс",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          },
+          {
+            "id": "suf_2",
+            "text": "шинжлэх ухааны хүчоос",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          },
+          {
+            "id": "suf_3",
+            "text": "шинжлэх ухааны хүчөөс",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          }
+        ],
+        "detailedGrammarNote": "Vowel harmony in Mongolian dictates that back vowels (а, о, у) take back-vocalic suffixes, while front vowels (э, ө, ү) take front-vocalic suffixes. Syntactic inversions, head-alliteration (толгой холболт), parallelism, and rhythmic metrics in high Mongolian literature."
+      },
+      {
+        "id": "les_274_ex_05",
+        "type": "PHONETIC_DISCRIMINATION",
+        "prompt": "Listen and distinguish the phonemic contrast between masculine and feminine vowels in the audio prompt.",
+        "audioText": "шинжлэх ухааны хүч vs нийгмийн хүч",
+        "options": [
+          {
+            "id": "p_1",
+            "text": "Root \"шинжлэх ухааны хүч\" contains masculine back vowels.",
+            "isCorrect": true,
+            "explanation": "Accurate phonological identification."
+          },
+          {
+            "id": "p_2",
+            "text": "Both roots share identical front-rounded vowel configurations.",
+            "isCorrect": false,
+            "explanation": "Incorrect; Mongolian contrasts back and front vowel sets."
+          },
+          {
+            "id": "p_3",
+            "text": "The vowels are completely neutralized under Cyrillic stress rules.",
+            "isCorrect": false,
+            "explanation": "Mongolian preserves vowel distinctions in initial syllables."
+          }
+        ],
+        "detailedGrammarNote": "The initial syllable in Mongolian carries primary phonological prominence. Vowel quality in subsequent syllables is governed by harmony with this initial syllable."
+      },
+      {
+        "id": "les_274_ex_06",
+        "type": "TRANSLATION",
+        "prompt": "Translate the following authentic Mongolian sentence into English:",
+        "cyrillicSentence": "байгалийн хүч бол чухал салбар юм.",
+        "englishTranslation": "natural power/force is an important field.",
+        "options": [
+          {
+            "id": "tr_1",
+            "text": "natural power/force is an important field.",
+            "isCorrect": true
+          },
+          {
+            "id": "tr_2",
+            "text": "The students greeted natural power/force warmly.",
+            "isCorrect": false
+          },
+          {
+            "id": "tr_3",
+            "text": "scientific power/force was purchased yesterday.",
+            "isCorrect": false
+          },
+          {
+            "id": "tr_4",
+            "text": "We are traveling towards economic power/force.",
+            "isCorrect": false
+          }
+        ],
+        "detailedGrammarNote": "In this sentence, note how \"байгалийн хүч\" (noun) forms the core thematic subject."
+      },
+      {
+        "id": "les_274_ex_07",
+        "type": "VOCABULARY_MATCH",
+        "prompt": "Select the precise definition for the Mongolian term \"шинжлэх ухааны хүч\" [[ʃint͡ʃɮɛx ʊxaaniː xʏt͡ʃʰ]].",
+        "options": [
+          {
+            "id": "vm_1",
+            "text": "scientific power/force (noun)",
+            "isCorrect": true,
+            "explanation": "Accurate lexical definition."
+          },
+          {
+            "id": "vm_2",
+            "text": "economic power/force (noun)",
+            "isCorrect": false,
+            "explanation": "Refers to another lexical concept."
+          },
+          {
+            "id": "vm_3",
+            "text": "natural power/force (noun)",
+            "isCorrect": false,
+            "explanation": "Incorrect lexical translation."
+          },
+          {
+            "id": "vm_4",
+            "text": "social power/force (noun)",
+            "isCorrect": false,
+            "explanation": "Incorrect lexical translation."
+          }
+        ],
+        "detailedGrammarNote": "\"шинжлэх ухааны хүч\" is classified as a noun with masculine vowel harmony. Standard IPA transcription: /[ʃint͡ʃɮɛx ʊxaaniː xʏt͡ʃʰ]/."
+      },
+      {
+        "id": "les_274_ex_08",
+        "type": "TRANSLATION",
+        "prompt": "Choose the correct Mongolian Cyrillic rendering for: \"social power/force is an important field.\"",
+        "englishTranslation": "social power/force is an important field.",
+        "cyrillicSentence": "нийгмийн хүч бол чухал салбар юм.",
+        "options": [
+          {
+            "id": "rev_1",
+            "text": "нийгмийн хүч бол чухал салбар юм.",
+            "isCorrect": true
+          },
+          {
+            "id": "rev_2",
+            "text": "шинжлэх ухааны хүч бол чухал салбар юм.",
+            "isCorrect": false
+          },
+          {
+            "id": "rev_3",
+            "text": "эдийн засгийн хүч бол чухал салбар юм.",
+            "isCorrect": false
+          },
+          {
+            "id": "rev_4",
+            "text": "байгалийн хүч бол чухал салбар юм.",
+            "isCorrect": false
+          }
+        ],
+        "detailedGrammarNote": "Notice the morphological markers indicating aspect, location, and person."
+      },
+      {
+        "id": "les_274_ex_09",
+        "type": "SENTENCE_CONSTRUCTION",
+        "prompt": "Assemble the compound clause featuring the perfective converb -аад/-ээд:",
+        "englishTranslation": "Having taken the scientific power/force, went towards the economic power/force.",
+        "cyrillicSentence": "шинжлэх ухааны хүч аваад, эдийн засгийн хүч рүү явлаа",
+        "wordTokens": [
+          "явлаа",
+          "рүү",
+          "хүч",
+          "засгийн",
+          "эдийн",
+          "аваад,",
+          "хүч",
+          "ухааны",
+          "шинжлэх"
+        ],
+        "correctTokenOrder": [
+          "шинжлэх",
+          "ухааны",
+          "хүч",
+          "аваад,",
+          "эдийн",
+          "засгийн",
+          "хүч",
+          "рүү",
+          "явлаа"
+        ],
+        "detailedGrammarNote": "The perfective converb -аад/-ээд marks an anterior action completed immediately prior to the matrix verb."
+      },
+      {
+        "id": "les_274_ex_10",
+        "type": "AUDIO_DICTATION",
+        "prompt": "Listen and transcribe the full conversational statement in Cyrillic:",
+        "audioText": "байгалийн хүч бол чухал салбар юм.",
+        "slowAudioText": "байгалийн ... хүч ... бол ... чухал ... салбар ... юм.",
+        "cyrillicSentence": "байгалийн хүч бол чухал салбар юм.",
+        "englishTranslation": "natural power/force is an important field.",
+        "correctAnswer": "байгалийн хүч бол чухал салбар юм",
+        "detailedGrammarNote": "Check consonant assimilation and unaccented short vowel retention in intermediate syllables."
+      },
+      {
+        "id": "les_274_ex_11",
+        "type": "GRAMMAR_APPLICATION",
+        "prompt": "Identify the syntactic role and inflectional ending used in \"эдийн засгийн хүч бол чухал салбар юм.\".",
+        "options": [
+          {
+            "id": "ga_1",
+            "text": "Demonstrates Stylistic Nuance in Epics, Oratory & Sacred Poetics in declarative context.",
+            "isCorrect": true,
+            "explanation": "Syntactic inversions, head-alliteration (толгой холболт), parallelism, and rhythmic metrics in high Mongolian literature."
+          },
+          {
+            "id": "ga_2",
+            "text": "Employs an archaic vocative particle uncharacteristic of modern prose.",
+            "isCorrect": false,
+            "explanation": "The sentence uses standard contemporary modern Khalkha grammar."
+          },
+          {
+            "id": "ga_3",
+            "text": "Expresses counterfactual past conditionals.",
+            "isCorrect": false,
+            "explanation": "No counterfactual conditional morpheme (-сан бол) is present."
+          }
+        ],
+        "detailedGrammarNote": "Туульс, уран илтгэх зүй ба яруу найргийн онцлог: Syntactic inversions, head-alliteration (толгой холболт), parallelism, and rhythmic metrics in high Mongolian literature."
+      }
+    ],
+    "sectionId": "sec_06",
+    "sectionTitle": "Steppe Geography, Nature & Instrumental Case of Means",
+    "unitId": "unit_046",
+    "unitTitle": "Geography & Instruments: Advanced Competency Unit 46",
+    "unitNumber": 46,
+    "cefr": "A2"
+  },
+  {
+    "id": "les_367",
+    "title": "Routines & Converbs: Advanced Competency Unit 62 - Lesson 1",
+    "cyrillicTitle": "Өдөр тутмын хэвшил ба зэрэгцүүлэн холбох нөхцөл - Хичээл 62 - Хичээл 1",
+    "estimatedMinutes": 15,
+    "grammarOverview": {
+      "summary": "Indicates that the subject causes another agent to perform the action (\"make someone do, have something done\").",
+      "keyPoints": [
+        "Consonant stems: + уул / үүл (e.g. унш -> уншуулах, хий -> хийлгэх)",
+        "Vowel stems: + лга / лгэ / лго / лгө (e.g. суу -> суулгах, үз -> үзүүлэх)"
+      ],
+      "rules": [
+        {
+          "id": "g_b1_03",
+          "title": "Causative Voice (-уул, -үүл, -лга, -лгэ, -га, -гэ)",
+          "cyrillicTitle": "Үйлдэх хэв (Бусдаар үйлдүүлэх хэв)",
+          "summary": "Indicates that the subject causes another agent to perform the action (\"make someone do, have something done\").",
+          "formula": "",
+          "explanation": "Indicates that the subject causes another agent to perform the action (\"make someone do, have something done\").",
+          "examples": [
+            {
+              "cyrillic": "Багш оюутнуудаар дасгал хийлгэв.",
+              "english": "The teacher had the students do the exercise.",
+              "breakdown": "Багш оюутнуудаар дасгал хийлгэв."
+            },
+            {
+              "cyrillic": "Ээж хүүхдээ унтуулав.",
+              "english": "The mother put the child to sleep.",
+              "breakdown": "Ээж хүүхдээ унтуулав."
+            }
+          ],
+          "exceptions": [
+            "Marking the caused agent with wrong case: the caused agent of an intransitive verb is in the Accusative (-ыг), but of a transitive verb is in the Dative-Locative (-д)."
+          ]
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "id": "lex_1836",
+        "cyrillic": "их хөгжим",
+        "ipa": "[ix xœɡt͡ʃim]",
+        "english": "great / major music",
+        "partOfSpeech": "noun",
+        "genderHarmony": "feminine",
+        "exampleSentenceCyrillic": "их хөгжим бол чухал салбар юм.",
+        "exampleSentenceEnglish": "great / major music is an important field."
+      },
+      {
+        "id": "lex_1837",
+        "cyrillic": "дээд хөгжим",
+        "ipa": "[tɛɛt xœɡt͡ʃim]",
+        "english": "upper / supreme / higher music",
+        "partOfSpeech": "noun",
+        "genderHarmony": "feminine",
+        "exampleSentenceCyrillic": "дээд хөгжим бол чухал салбар юм.",
+        "exampleSentenceEnglish": "upper / supreme / higher music is an important field."
+      },
+      {
+        "id": "lex_1838",
+        "cyrillic": "ерөнхий хөгжим",
+        "ipa": "[jɛrœnxii̯ xœɡt͡ʃim]",
+        "english": "general / overarching music",
+        "partOfSpeech": "noun",
+        "genderHarmony": "feminine",
+        "exampleSentenceCyrillic": "ерөнхий хөгжим бол чухал салбар юм.",
+        "exampleSentenceEnglish": "general / overarching music is an important field."
+      },
+      {
+        "id": "lex_1839",
+        "cyrillic": "тусгай хөгжим",
+        "ipa": "[tʰʊsɡai̯ xœɡt͡ʃim]",
+        "english": "special / specific music",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "тусгай хөгжим бол чухал салбар юм.",
+        "exampleSentenceEnglish": "special / specific music is an important field."
+      },
+      {
+        "id": "lex_1840",
+        "cyrillic": "үндэсний хөгжим",
+        "ipa": "[ʏntɛsnii̯ xœɡt͡ʃim]",
+        "english": "national / fundamental music",
+        "partOfSpeech": "noun",
+        "genderHarmony": "feminine",
+        "exampleSentenceCyrillic": "үндэсний хөгжим бол чухал салбар юм.",
+        "exampleSentenceEnglish": "national / fundamental music is an important field."
+      }
+    ],
+    "exercises": [
+      {
+        "id": "les_367_ex_01",
+        "type": "AUDIO_DICTATION",
+        "prompt": "Listen attentively to the audio recording and transcribe the Cyrillic phrase accurately.",
+        "audioText": "их хөгжим бол чухал салбар юм.",
+        "slowAudioText": "их ... хөгжим ... бол ... чухал ... салбар ... юм.",
+        "cyrillicSentence": "их хөгжим бол чухал салбар юм.",
+        "englishTranslation": "great / major music is an important field.",
+        "correctAnswer": "их хөгжим бол чухал салбар юм",
+        "detailedGrammarNote": "In standard Khalkha Mongolian orthography, notice how the term \"их хөгжим\" adheres to feminine vowel harmony. The sentence follows canonical Subject-Object-Verb (SOV) order."
+      },
+      {
+        "id": "les_367_ex_02",
+        "type": "AUDIO_COMPREHENSION",
+        "prompt": "Listen to the spoken Mongolian statement and identify the correct analytical meaning.",
+        "audioText": "дээд хөгжим бол чухал салбар юм.",
+        "cyrillicSentence": "дээд хөгжим бол чухал салбар юм.",
+        "englishTranslation": "upper / supreme / higher music is an important field.",
+        "options": [
+          {
+            "id": "opt_1",
+            "text": "upper / supreme / higher music is an important field.",
+            "isCorrect": true,
+            "explanation": "Accurately captures the semantics and syntactic nuances of the spoken utterance."
+          },
+          {
+            "id": "opt_2",
+            "text": "The counterpart statement referring to general / overarching music.",
+            "isCorrect": false,
+            "explanation": "Incorrect subject; the speaker clearly uttered \"дээд хөгжим\"."
+          },
+          {
+            "id": "opt_3",
+            "text": "A negative assertion denying the presence of upper / supreme / higher music.",
+            "isCorrect": false,
+            "explanation": "The audio is an affirmative declarative clause without negation."
+          },
+          {
+            "id": "opt_4",
+            "text": "An interrogative inquiring about the location of great / major music.",
+            "isCorrect": false,
+            "explanation": "No question particle (уу/үү/вэ/бэ) is present in the recorded sentence."
+          }
+        ],
+        "detailedGrammarNote": "Listen for lexical vowel length and consonant assimilation. \"дээд хөгжим\" ([tɛɛt xœɡt͡ʃim]) acts as the topical focus."
+      },
+      {
+        "id": "les_367_ex_03",
+        "type": "SENTENCE_CONSTRUCTION",
+        "prompt": "Construct the grammatically standard Mongolian sentence by arranging the word tiles in strict SOV syntax.",
+        "englishTranslation": "great / major music is an important field.",
+        "wordTokens": [
+          "юм",
+          "салбар",
+          "чухал",
+          "бол",
+          "хөгжим",
+          "их"
+        ],
+        "correctTokenOrder": [
+          "их",
+          "хөгжим",
+          "бол",
+          "чухал",
+          "салбар",
+          "юм"
+        ],
+        "cyrillicSentence": "их хөгжим бол чухал салбар юм.",
+        "detailedGrammarNote": "Mongolian is a strictly head-final, left-branching language. Modifiers precede heads, direct objects precede transitive verbs, and finite predicates conclude the clause."
+      },
+      {
+        "id": "les_367_ex_04",
+        "type": "GRAMMAR_APPLICATION",
+        "prompt": "Attach the harmonically valid ablative case suffix (\"from / out of\") to the stem \"их хөгжим\".",
+        "baseWord": "их хөгжим",
+        "suffixOptions": [
+          "-ээс",
+          "-аас",
+          "-өөс",
+          "-оос"
+        ],
+        "correctSuffix": "-ээс",
+        "options": [
+          {
+            "id": "suf_0",
+            "text": "их хөгжимээс",
+            "isCorrect": true,
+            "explanation": "Correct: \"их хөгжим\" is a feminine root and requires the harmonic matching suffix -ээс."
+          },
+          {
+            "id": "suf_1",
+            "text": "их хөгжимаас",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for feminine roots."
+          },
+          {
+            "id": "suf_2",
+            "text": "их хөгжимөөс",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for feminine roots."
+          },
+          {
+            "id": "suf_3",
+            "text": "их хөгжимоос",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for feminine roots."
+          }
+        ],
+        "detailedGrammarNote": "Vowel harmony in Mongolian dictates that back vowels (а, о, у) take back-vocalic suffixes, while front vowels (э, ө, ү) take front-vocalic suffixes. Indicates that the subject causes another agent to perform the action (\"make someone do, have something done\")."
+      },
+      {
+        "id": "les_367_ex_05",
+        "type": "PHONETIC_DISCRIMINATION",
+        "prompt": "Listen and distinguish the phonemic contrast between masculine and feminine vowels in the audio prompt.",
+        "audioText": "их хөгжим vs тусгай хөгжим",
+        "options": [
+          {
+            "id": "p_1",
+            "text": "Root \"их хөгжим\" contains feminine back vowels.",
+            "isCorrect": true,
+            "explanation": "Accurate phonological identification."
+          },
+          {
+            "id": "p_2",
+            "text": "Both roots share identical front-rounded vowel configurations.",
+            "isCorrect": false,
+            "explanation": "Incorrect; Mongolian contrasts back and front vowel sets."
+          },
+          {
+            "id": "p_3",
+            "text": "The vowels are completely neutralized under Cyrillic stress rules.",
+            "isCorrect": false,
+            "explanation": "Mongolian preserves vowel distinctions in initial syllables."
+          }
+        ],
+        "detailedGrammarNote": "The initial syllable in Mongolian carries primary phonological prominence. Vowel quality in subsequent syllables is governed by harmony with this initial syllable."
+      },
+      {
+        "id": "les_367_ex_06",
+        "type": "TRANSLATION",
+        "prompt": "Translate the following authentic Mongolian sentence into English:",
+        "cyrillicSentence": "ерөнхий хөгжим бол чухал салбар юм.",
+        "englishTranslation": "general / overarching music is an important field.",
+        "options": [
+          {
+            "id": "tr_1",
+            "text": "general / overarching music is an important field.",
+            "isCorrect": true
+          },
+          {
+            "id": "tr_2",
+            "text": "The students greeted general / overarching music warmly.",
+            "isCorrect": false
+          },
+          {
+            "id": "tr_3",
+            "text": "great / major music was purchased yesterday.",
+            "isCorrect": false
+          },
+          {
+            "id": "tr_4",
+            "text": "We are traveling towards upper / supreme / higher music.",
+            "isCorrect": false
+          }
+        ],
+        "detailedGrammarNote": "In this sentence, note how \"ерөнхий хөгжим\" (noun) forms the core thematic subject."
+      },
+      {
+        "id": "les_367_ex_07",
+        "type": "VOCABULARY_MATCH",
+        "prompt": "Select the precise definition for the Mongolian term \"их хөгжим\" [[ix xœɡt͡ʃim]].",
+        "options": [
+          {
+            "id": "vm_1",
+            "text": "great / major music (noun)",
+            "isCorrect": true,
+            "explanation": "Accurate lexical definition."
+          },
+          {
+            "id": "vm_2",
+            "text": "upper / supreme / higher music (noun)",
+            "isCorrect": false,
+            "explanation": "Refers to another lexical concept."
+          },
+          {
+            "id": "vm_3",
+            "text": "general / overarching music (noun)",
+            "isCorrect": false,
+            "explanation": "Incorrect lexical translation."
+          },
+          {
+            "id": "vm_4",
+            "text": "special / specific music (noun)",
+            "isCorrect": false,
+            "explanation": "Incorrect lexical translation."
+          }
+        ],
+        "detailedGrammarNote": "\"их хөгжим\" is classified as a noun with feminine vowel harmony. Standard IPA transcription: /[ix xœɡt͡ʃim]/."
+      },
+      {
+        "id": "les_367_ex_08",
+        "type": "TRANSLATION",
+        "prompt": "Choose the correct Mongolian Cyrillic rendering for: \"special / specific music is an important field.\"",
+        "englishTranslation": "special / specific music is an important field.",
+        "cyrillicSentence": "тусгай хөгжим бол чухал салбар юм.",
+        "options": [
+          {
+            "id": "rev_1",
+            "text": "тусгай хөгжим бол чухал салбар юм.",
+            "isCorrect": true
+          },
+          {
+            "id": "rev_2",
+            "text": "их хөгжим бол чухал салбар юм.",
+            "isCorrect": false
+          },
+          {
+            "id": "rev_3",
+            "text": "дээд хөгжим бол чухал салбар юм.",
+            "isCorrect": false
+          },
+          {
+            "id": "rev_4",
+            "text": "ерөнхий хөгжим бол чухал салбар юм.",
+            "isCorrect": false
+          }
+        ],
+        "detailedGrammarNote": "Notice the morphological markers indicating aspect, location, and person."
+      },
+      {
+        "id": "les_367_ex_09",
+        "type": "SENTENCE_CONSTRUCTION",
+        "prompt": "Assemble the compound clause featuring the perfective converb -аад/-ээд:",
+        "englishTranslation": "Having taken the great / major music, went towards the upper / supreme / higher music.",
+        "cyrillicSentence": "их хөгжим аваад, дээд хөгжим рүү явлаа",
+        "wordTokens": [
+          "явлаа",
+          "рүү",
+          "хөгжим",
+          "дээд",
+          "аваад,",
+          "хөгжим",
+          "их"
+        ],
+        "correctTokenOrder": [
+          "их",
+          "хөгжим",
+          "аваад,",
+          "дээд",
+          "хөгжим",
+          "рүү",
+          "явлаа"
+        ],
+        "detailedGrammarNote": "The perfective converb -аад/-ээд marks an anterior action completed immediately prior to the matrix verb."
+      },
+      {
+        "id": "les_367_ex_10",
+        "type": "AUDIO_DICTATION",
+        "prompt": "Listen and transcribe the full conversational statement in Cyrillic:",
+        "audioText": "ерөнхий хөгжим бол чухал салбар юм.",
+        "slowAudioText": "ерөнхий ... хөгжим ... бол ... чухал ... салбар ... юм.",
+        "cyrillicSentence": "ерөнхий хөгжим бол чухал салбар юм.",
+        "englishTranslation": "general / overarching music is an important field.",
+        "correctAnswer": "ерөнхий хөгжим бол чухал салбар юм",
+        "detailedGrammarNote": "Check consonant assimilation and unaccented short vowel retention in intermediate syllables."
+      },
+      {
+        "id": "les_367_ex_11",
+        "type": "GRAMMAR_APPLICATION",
+        "prompt": "Identify the syntactic role and inflectional ending used in \"дээд хөгжим бол чухал салбар юм.\".",
+        "options": [
+          {
+            "id": "ga_1",
+            "text": "Demonstrates Causative Voice (-уул, -үүл, -лга, -лгэ, -га, -гэ) in declarative context.",
+            "isCorrect": true,
+            "explanation": "Indicates that the subject causes another agent to perform the action (\"make someone do, have something done\")."
+          },
+          {
+            "id": "ga_2",
+            "text": "Employs an archaic vocative particle uncharacteristic of modern prose.",
+            "isCorrect": false,
+            "explanation": "The sentence uses standard contemporary modern Khalkha grammar."
+          },
+          {
+            "id": "ga_3",
+            "text": "Expresses counterfactual past conditionals.",
+            "isCorrect": false,
+            "explanation": "No counterfactual conditional morpheme (-сан бол) is present."
+          }
+        ],
+        "detailedGrammarNote": "Үйлдэх хэв (Бусдаар үйлдүүлэх хэв): Indicates that the subject causes another agent to perform the action (\"make someone do, have something done\")."
+      }
+    ],
+    "sectionId": "sec_09",
+    "sectionTitle": "Daily Routines, Habits & Coordinating Converbs",
+    "unitId": "unit_062",
+    "unitTitle": "Routines & Converbs: Advanced Competency Unit 62",
+    "unitNumber": 62,
+    "cefr": "B1"
+  },
+  {
+    "id": "les_436",
+    "title": "Migration & Conditions: Advanced Competency Unit 73 - Lesson 4",
+    "cyrillicTitle": "Нүүдэл суудал ба нөхцөлт холбох нөхцөл - Хичээл 73 - Хичээл 4",
+    "estimatedMinutes": 15,
+    "grammarOverview": {
+      "summary": "Specifies movement towards a general direction or target destination (\"towards, in the direction of\").",
+      "keyPoints": [
+        "Words not ending in -р: + руу (masculine), + рүү (feminine)",
+        "Words ending in -р: + луу (masculine), + лүү (feminine) to prevent double \"r\" clash (e.g. гэр -> гэр лүү)"
+      ],
+      "rules": [
+        {
+          "id": "g_a2_02",
+          "title": "Directional Case (Чиглэхийн тийн ялгал: -руу, -рүү / -луу, -лүү)",
+          "cyrillicTitle": "Чиглэхийн тийн ялгал",
+          "summary": "Specifies movement towards a general direction or target destination (\"towards, in the direction of\").",
+          "formula": "",
+          "explanation": "Specifies movement towards a general direction or target destination (\"towards, in the direction of\").",
+          "examples": [
+            {
+              "cyrillic": "Би хот руу явна.",
+              "english": "I will go towards the city.",
+              "breakdown": "Би хот руу явна."
+            },
+            {
+              "cyrillic": "Бид гэр лүүгээ харилаа.",
+              "english": "We returned towards our home.",
+              "breakdown": "Бид гэр лүүгээ харилаа."
+            },
+            {
+              "cyrillic": "Уул өөд, гол руу алхлаа.",
+              "english": "Walked up the mountain, towards the river.",
+              "breakdown": "Уул өөд, гол руу алхлаа."
+            }
+          ],
+          "exceptions": [
+            "Writing *гэр рүү instead of dissimilated гэр лүү.",
+            "Confusing with Dative-Locative -д/-т which denotes arriving AT the point, whereas -руу emphasizes motion TOWARDS."
+          ]
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "id": "lex_2181",
+        "cyrillic": "түүхэн онол",
+        "ipa": "[tʰʏʏxɛn ɔnɔɮ]",
+        "english": "historical theory",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "түүхэн онол бол чухал салбар юм.",
+        "exampleSentenceEnglish": "historical theory is an important field."
+      },
+      {
+        "id": "lex_2182",
+        "cyrillic": "соёлын онол",
+        "ipa": "[sɔjɔɮiːn ɔnɔɮ]",
+        "english": "cultural theory",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "соёлын онол бол чухал салбар юм.",
+        "exampleSentenceEnglish": "cultural theory is an important field."
+      },
+      {
+        "id": "lex_2183",
+        "cyrillic": "шинжлэх ухааны онол",
+        "ipa": "[ʃint͡ʃɮɛx ʊxaaniː ɔnɔɮ]",
+        "english": "scientific theory",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "шинжлэх ухааны онол бол чухал салбар юм.",
+        "exampleSentenceEnglish": "scientific theory is an important field."
+      },
+      {
+        "id": "lex_2184",
+        "cyrillic": "эдийн засгийн онол",
+        "ipa": "[ɛtii̯n t͡sasɡii̯n ɔnɔɮ]",
+        "english": "economic theory",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "эдийн засгийн онол бол чухал салбар юм.",
+        "exampleSentenceEnglish": "economic theory is an important field."
+      },
+      {
+        "id": "lex_2185",
+        "cyrillic": "байгалийн онол",
+        "ipa": "[pai̯ɡaɮii̯n ɔnɔɮ]",
+        "english": "natural theory",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "байгалийн онол бол чухал салбар юм.",
+        "exampleSentenceEnglish": "natural theory is an important field."
+      }
+    ],
+    "exercises": [
+      {
+        "id": "les_436_ex_01",
+        "type": "AUDIO_DICTATION",
+        "prompt": "Listen attentively to the audio recording and transcribe the Cyrillic phrase accurately.",
+        "audioText": "түүхэн онол бол чухал салбар юм.",
+        "slowAudioText": "түүхэн ... онол ... бол ... чухал ... салбар ... юм.",
+        "cyrillicSentence": "түүхэн онол бол чухал салбар юм.",
+        "englishTranslation": "historical theory is an important field.",
+        "correctAnswer": "түүхэн онол бол чухал салбар юм",
+        "detailedGrammarNote": "In standard Khalkha Mongolian orthography, notice how the term \"түүхэн онол\" adheres to masculine vowel harmony. The sentence follows canonical Subject-Object-Verb (SOV) order."
+      },
+      {
+        "id": "les_436_ex_02",
+        "type": "AUDIO_COMPREHENSION",
+        "prompt": "Listen to the spoken Mongolian statement and identify the correct analytical meaning.",
+        "audioText": "соёлын онол бол чухал салбар юм.",
+        "cyrillicSentence": "соёлын онол бол чухал салбар юм.",
+        "englishTranslation": "cultural theory is an important field.",
+        "options": [
+          {
+            "id": "opt_1",
+            "text": "cultural theory is an important field.",
+            "isCorrect": true,
+            "explanation": "Accurately captures the semantics and syntactic nuances of the spoken utterance."
+          },
+          {
+            "id": "opt_2",
+            "text": "The counterpart statement referring to scientific theory.",
+            "isCorrect": false,
+            "explanation": "Incorrect subject; the speaker clearly uttered \"соёлын онол\"."
+          },
+          {
+            "id": "opt_3",
+            "text": "A negative assertion denying the presence of cultural theory.",
+            "isCorrect": false,
+            "explanation": "The audio is an affirmative declarative clause without negation."
+          },
+          {
+            "id": "opt_4",
+            "text": "An interrogative inquiring about the location of historical theory.",
+            "isCorrect": false,
+            "explanation": "No question particle (уу/үү/вэ/бэ) is present in the recorded sentence."
+          }
+        ],
+        "detailedGrammarNote": "Listen for lexical vowel length and consonant assimilation. \"соёлын онол\" ([sɔjɔɮiːn ɔnɔɮ]) acts as the topical focus."
+      },
+      {
+        "id": "les_436_ex_03",
+        "type": "SENTENCE_CONSTRUCTION",
+        "prompt": "Construct the grammatically standard Mongolian sentence by arranging the word tiles in strict SOV syntax.",
+        "englishTranslation": "historical theory is an important field.",
+        "wordTokens": [
+          "юм",
+          "салбар",
+          "чухал",
+          "бол",
+          "онол",
+          "түүхэн"
+        ],
+        "correctTokenOrder": [
+          "түүхэн",
+          "онол",
+          "бол",
+          "чухал",
+          "салбар",
+          "юм"
+        ],
+        "cyrillicSentence": "түүхэн онол бол чухал салбар юм.",
+        "detailedGrammarNote": "Mongolian is a strictly head-final, left-branching language. Modifiers precede heads, direct objects precede transitive verbs, and finite predicates conclude the clause."
+      },
+      {
+        "id": "les_436_ex_04",
+        "type": "GRAMMAR_APPLICATION",
+        "prompt": "Attach the harmonically valid ablative case suffix (\"from / out of\") to the stem \"түүхэн онол\".",
+        "baseWord": "түүхэн онол",
+        "suffixOptions": [
+          "-аас",
+          "-ээс",
+          "-оос",
+          "-өөс"
+        ],
+        "correctSuffix": "-аас",
+        "options": [
+          {
+            "id": "suf_0",
+            "text": "түүхэн онолаас",
+            "isCorrect": true,
+            "explanation": "Correct: \"түүхэн онол\" is a masculine root and requires the harmonic matching suffix -аас."
+          },
+          {
+            "id": "suf_1",
+            "text": "түүхэн онолээс",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          },
+          {
+            "id": "suf_2",
+            "text": "түүхэн онолоос",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          },
+          {
+            "id": "suf_3",
+            "text": "түүхэн онолөөс",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          }
+        ],
+        "detailedGrammarNote": "Vowel harmony in Mongolian dictates that back vowels (а, о, у) take back-vocalic suffixes, while front vowels (э, ө, ү) take front-vocalic suffixes. Specifies movement towards a general direction or target destination (\"towards, in the direction of\")."
+      },
+      {
+        "id": "les_436_ex_05",
+        "type": "PHONETIC_DISCRIMINATION",
+        "prompt": "Listen and distinguish the phonemic contrast between masculine and feminine vowels in the audio prompt.",
+        "audioText": "түүхэн онол vs эдийн засгийн онол",
+        "options": [
+          {
+            "id": "p_1",
+            "text": "Root \"түүхэн онол\" contains masculine back vowels.",
+            "isCorrect": true,
+            "explanation": "Accurate phonological identification."
+          },
+          {
+            "id": "p_2",
+            "text": "Both roots share identical front-rounded vowel configurations.",
+            "isCorrect": false,
+            "explanation": "Incorrect; Mongolian contrasts back and front vowel sets."
+          },
+          {
+            "id": "p_3",
+            "text": "The vowels are completely neutralized under Cyrillic stress rules.",
+            "isCorrect": false,
+            "explanation": "Mongolian preserves vowel distinctions in initial syllables."
+          }
+        ],
+        "detailedGrammarNote": "The initial syllable in Mongolian carries primary phonological prominence. Vowel quality in subsequent syllables is governed by harmony with this initial syllable."
+      },
+      {
+        "id": "les_436_ex_06",
+        "type": "TRANSLATION",
+        "prompt": "Translate the following authentic Mongolian sentence into English:",
+        "cyrillicSentence": "шинжлэх ухааны онол бол чухал салбар юм.",
+        "englishTranslation": "scientific theory is an important field.",
+        "options": [
+          {
+            "id": "tr_1",
+            "text": "scientific theory is an important field.",
+            "isCorrect": true
+          },
+          {
+            "id": "tr_2",
+            "text": "The students greeted scientific theory warmly.",
+            "isCorrect": false
+          },
+          {
+            "id": "tr_3",
+            "text": "historical theory was purchased yesterday.",
+            "isCorrect": false
+          },
+          {
+            "id": "tr_4",
+            "text": "We are traveling towards cultural theory.",
+            "isCorrect": false
+          }
+        ],
+        "detailedGrammarNote": "In this sentence, note how \"шинжлэх ухааны онол\" (noun) forms the core thematic subject."
+      },
+      {
+        "id": "les_436_ex_07",
+        "type": "VOCABULARY_MATCH",
+        "prompt": "Select the precise definition for the Mongolian term \"түүхэн онол\" [[tʰʏʏxɛn ɔnɔɮ]].",
+        "options": [
+          {
+            "id": "vm_1",
+            "text": "historical theory (noun)",
+            "isCorrect": true,
+            "explanation": "Accurate lexical definition."
+          },
+          {
+            "id": "vm_2",
+            "text": "cultural theory (noun)",
+            "isCorrect": false,
+            "explanation": "Refers to another lexical concept."
+          },
+          {
+            "id": "vm_3",
+            "text": "scientific theory (noun)",
+            "isCorrect": false,
+            "explanation": "Incorrect lexical translation."
+          },
+          {
+            "id": "vm_4",
+            "text": "economic theory (noun)",
+            "isCorrect": false,
+            "explanation": "Incorrect lexical translation."
+          }
+        ],
+        "detailedGrammarNote": "\"түүхэн онол\" is classified as a noun with masculine vowel harmony. Standard IPA transcription: /[tʰʏʏxɛn ɔnɔɮ]/."
+      },
+      {
+        "id": "les_436_ex_08",
+        "type": "TRANSLATION",
+        "prompt": "Choose the correct Mongolian Cyrillic rendering for: \"economic theory is an important field.\"",
+        "englishTranslation": "economic theory is an important field.",
+        "cyrillicSentence": "эдийн засгийн онол бол чухал салбар юм.",
+        "options": [
+          {
+            "id": "rev_1",
+            "text": "эдийн засгийн онол бол чухал салбар юм.",
+            "isCorrect": true
+          },
+          {
+            "id": "rev_2",
+            "text": "түүхэн онол бол чухал салбар юм.",
+            "isCorrect": false
+          },
+          {
+            "id": "rev_3",
+            "text": "соёлын онол бол чухал салбар юм.",
+            "isCorrect": false
+          },
+          {
+            "id": "rev_4",
+            "text": "шинжлэх ухааны онол бол чухал салбар юм.",
+            "isCorrect": false
+          }
+        ],
+        "detailedGrammarNote": "Notice the morphological markers indicating aspect, location, and person."
+      },
+      {
+        "id": "les_436_ex_09",
+        "type": "SENTENCE_CONSTRUCTION",
+        "prompt": "Assemble the compound clause featuring the perfective converb -аад/-ээд:",
+        "englishTranslation": "Having taken the historical theory, went towards the cultural theory.",
+        "cyrillicSentence": "түүхэн онол аваад, соёлын онол рүү явлаа",
+        "wordTokens": [
+          "явлаа",
+          "рүү",
+          "онол",
+          "соёлын",
+          "аваад,",
+          "онол",
+          "түүхэн"
+        ],
+        "correctTokenOrder": [
+          "түүхэн",
+          "онол",
+          "аваад,",
+          "соёлын",
+          "онол",
+          "рүү",
+          "явлаа"
+        ],
+        "detailedGrammarNote": "The perfective converb -аад/-ээд marks an anterior action completed immediately prior to the matrix verb."
+      },
+      {
+        "id": "les_436_ex_10",
+        "type": "AUDIO_DICTATION",
+        "prompt": "Listen and transcribe the full conversational statement in Cyrillic:",
+        "audioText": "шинжлэх ухааны онол бол чухал салбар юм.",
+        "slowAudioText": "шинжлэх ... ухааны ... онол ... бол ... чухал ... салбар ... юм.",
+        "cyrillicSentence": "шинжлэх ухааны онол бол чухал салбар юм.",
+        "englishTranslation": "scientific theory is an important field.",
+        "correctAnswer": "шинжлэх ухааны онол бол чухал салбар юм",
+        "detailedGrammarNote": "Check consonant assimilation and unaccented short vowel retention in intermediate syllables."
+      },
+      {
+        "id": "les_436_ex_11",
+        "type": "GRAMMAR_APPLICATION",
+        "prompt": "Identify the syntactic role and inflectional ending used in \"соёлын онол бол чухал салбар юм.\".",
+        "options": [
+          {
+            "id": "ga_1",
+            "text": "Demonstrates Directional Case (Чиглэхийн тийн ялгал: -руу, -рүү / -луу, -лүү) in declarative context.",
+            "isCorrect": true,
+            "explanation": "Specifies movement towards a general direction or target destination (\"towards, in the direction of\")."
+          },
+          {
+            "id": "ga_2",
+            "text": "Employs an archaic vocative particle uncharacteristic of modern prose.",
+            "isCorrect": false,
+            "explanation": "The sentence uses standard contemporary modern Khalkha grammar."
+          },
+          {
+            "id": "ga_3",
+            "text": "Expresses counterfactual past conditionals.",
+            "isCorrect": false,
+            "explanation": "No counterfactual conditional morpheme (-сан бол) is present."
+          }
+        ],
+        "detailedGrammarNote": "Чиглэхийн тийн ялгал: Specifies movement towards a general direction or target destination (\"towards, in the direction of\")."
+      }
+    ],
+    "sectionId": "sec_10",
+    "sectionTitle": "Seasonal Migrations & Conditional Clause Structures",
+    "unitId": "unit_073",
+    "unitTitle": "Migration & Conditions: Advanced Competency Unit 73",
+    "unitNumber": 73,
+    "cefr": "B1"
+  },
+  {
+    "id": "les_505",
+    "title": "Causative, Passive & Society: Advanced Competency Unit 85 - Lesson 1",
+    "cyrillicTitle": "Үйлдэх ба үйлдэгдэх хэв: Түүх, нийгэм, хууль - Хичээл 85 - Хичээл 1",
+    "estimatedMinutes": 15,
+    "grammarOverview": {
+      "summary": "Signifies point of departure (\"from\"), origin, material, cause, or the standard in comparative constructions (\"than\").",
+      "keyPoints": [
+        "Masculine unrounded: + аас (e.g. ааваас, сургуулиас)",
+        "Feminine unrounded: + ээс (e.g. гэрээс, ээжээс)",
+        "Masculine rounded (о): + оос (e.g. хотоос, олноос)",
+        "Feminine rounded (ө): + өөс (e.g. өдрөөс, өвөөс)"
+      ],
+      "rules": [
+        {
+          "id": "g_a1_06",
+          "title": "Ablative Case (Гарахын тийн ялгал: -аас, -ээс, -оос, -өөс)",
+          "cyrillicTitle": "Гарахын тийн ялгал",
+          "summary": "Signifies point of departure (\"from\"), origin, material, cause, or the standard in comparative constructions (\"than\").",
+          "formula": "",
+          "explanation": "Signifies point of departure (\"from\"), origin, material, cause, or the standard in comparative constructions (\"than\").",
+          "examples": [
+            {
+              "cyrillic": "Би хөдөөнөөс ирсэн.",
+              "english": "I came from the countryside.",
+              "breakdown": "Би хөдөөнөөс ирсэн."
+            },
+            {
+              "cyrillic": "Модноос алим унав.",
+              "english": "An apple fell from the tree.",
+              "breakdown": "Модноос алим унав."
+            },
+            {
+              "cyrillic": "Энэ ном тэр номоос сонирхолтой.",
+              "english": "This book is more interesting than that book.",
+              "breakdown": "Энэ ном тэр номоос сонирхолтой."
+            }
+          ],
+          "exceptions": [
+            "Ignoring labial harmony: writing *хотоос as *хотаас.",
+            "Confusing comparative standard case: Mongolian uses Ablative for \"than\" (e.g. Ааваас өндөр = taller than father)."
+          ]
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "id": "lex_2526",
+        "cyrillic": "гэр орон",
+        "ipa": "[ɡɛr ɔrɔn]",
+        "english": "home and dwelling",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "гэр орон нь монгол хэлний баялаг илэрхийлэл юм.",
+        "exampleSentenceEnglish": "home and dwelling is a rich expression in Mongolian."
+      },
+      {
+        "id": "lex_2527",
+        "cyrillic": "эд хогшил",
+        "ipa": "[ɛt xɔɡʃiɮ]",
+        "english": "household furnishings",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "эд хогшил нь монгол хэлний баялаг илэрхийлэл юм.",
+        "exampleSentenceEnglish": "household furnishings is a rich expression in Mongolian."
+      },
+      {
+        "id": "lex_2528",
+        "cyrillic": "мал сүрэг",
+        "ipa": "[maɮ sʏrɛɡ]",
+        "english": "herds of livestock",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "мал сүрэг нь монгол хэлний баялаг илэрхийлэл юм.",
+        "exampleSentenceEnglish": "herds of livestock is a rich expression in Mongolian."
+      },
+      {
+        "id": "lex_2529",
+        "cyrillic": "өвс тэжээл",
+        "ipa": "[œws tʰɛt͡ʃɛɛɮ]",
+        "english": "fodder and hay",
+        "partOfSpeech": "noun",
+        "genderHarmony": "feminine",
+        "exampleSentenceCyrillic": "өвс тэжээл нь монгол хэлний баялаг илэрхийлэл юм.",
+        "exampleSentenceEnglish": "fodder and hay is a rich expression in Mongolian."
+      },
+      {
+        "id": "lex_2530",
+        "cyrillic": "ус бэлчээр",
+        "ipa": "[ʊs pɛɮt͡ʃʰɛɛr]",
+        "english": "water and pasture",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "ус бэлчээр нь монгол хэлний баялаг илэрхийлэл юм.",
+        "exampleSentenceEnglish": "water and pasture is a rich expression in Mongolian."
+      }
+    ],
+    "exercises": [
+      {
+        "id": "les_505_ex_01",
+        "type": "AUDIO_DICTATION",
+        "prompt": "Listen attentively to the audio recording and transcribe the Cyrillic phrase accurately.",
+        "audioText": "гэр орон нь монгол хэлний баялаг илэрхийлэл юм.",
+        "slowAudioText": "гэр ... орон ... нь ... монгол ... хэлний ... баялаг ... илэрхийлэл ... юм.",
+        "cyrillicSentence": "гэр орон нь монгол хэлний баялаг илэрхийлэл юм.",
+        "englishTranslation": "home and dwelling is a rich expression in Mongolian.",
+        "correctAnswer": "гэр орон нь монгол хэлний баялаг илэрхийлэл юм",
+        "detailedGrammarNote": "In standard Khalkha Mongolian orthography, notice how the term \"гэр орон\" adheres to masculine vowel harmony. The sentence follows canonical Subject-Object-Verb (SOV) order."
+      },
+      {
+        "id": "les_505_ex_02",
+        "type": "AUDIO_COMPREHENSION",
+        "prompt": "Listen to the spoken Mongolian statement and identify the correct analytical meaning.",
+        "audioText": "эд хогшил нь монгол хэлний баялаг илэрхийлэл юм.",
+        "cyrillicSentence": "эд хогшил нь монгол хэлний баялаг илэрхийлэл юм.",
+        "englishTranslation": "household furnishings is a rich expression in Mongolian.",
+        "options": [
+          {
+            "id": "opt_1",
+            "text": "household furnishings is a rich expression in Mongolian.",
+            "isCorrect": true,
+            "explanation": "Accurately captures the semantics and syntactic nuances of the spoken utterance."
+          },
+          {
+            "id": "opt_2",
+            "text": "The counterpart statement referring to herds of livestock.",
+            "isCorrect": false,
+            "explanation": "Incorrect subject; the speaker clearly uttered \"эд хогшил\"."
+          },
+          {
+            "id": "opt_3",
+            "text": "A negative assertion denying the presence of household furnishings.",
+            "isCorrect": false,
+            "explanation": "The audio is an affirmative declarative clause without negation."
+          },
+          {
+            "id": "opt_4",
+            "text": "An interrogative inquiring about the location of home and dwelling.",
+            "isCorrect": false,
+            "explanation": "No question particle (уу/үү/вэ/бэ) is present in the recorded sentence."
+          }
+        ],
+        "detailedGrammarNote": "Listen for lexical vowel length and consonant assimilation. \"эд хогшил\" ([ɛt xɔɡʃiɮ]) acts as the topical focus."
+      },
+      {
+        "id": "les_505_ex_03",
+        "type": "SENTENCE_CONSTRUCTION",
+        "prompt": "Construct the grammatically standard Mongolian sentence by arranging the word tiles in strict SOV syntax.",
+        "englishTranslation": "home and dwelling is a rich expression in Mongolian.",
+        "wordTokens": [
+          "юм",
+          "илэрхийлэл",
+          "баялаг",
+          "хэлний",
+          "монгол",
+          "нь",
+          "орон",
+          "гэр"
+        ],
+        "correctTokenOrder": [
+          "гэр",
+          "орон",
+          "нь",
+          "монгол",
+          "хэлний",
+          "баялаг",
+          "илэрхийлэл",
+          "юм"
+        ],
+        "cyrillicSentence": "гэр орон нь монгол хэлний баялаг илэрхийлэл юм.",
+        "detailedGrammarNote": "Mongolian is a strictly head-final, left-branching language. Modifiers precede heads, direct objects precede transitive verbs, and finite predicates conclude the clause."
+      },
+      {
+        "id": "les_505_ex_04",
+        "type": "GRAMMAR_APPLICATION",
+        "prompt": "Attach the harmonically valid ablative case suffix (\"from / out of\") to the stem \"гэр орон\".",
+        "baseWord": "гэр орон",
+        "suffixOptions": [
+          "-аас",
+          "-ээс",
+          "-оос",
+          "-өөс"
+        ],
+        "correctSuffix": "-аас",
+        "options": [
+          {
+            "id": "suf_0",
+            "text": "гэр оронаас",
+            "isCorrect": true,
+            "explanation": "Correct: \"гэр орон\" is a masculine root and requires the harmonic matching suffix -аас."
+          },
+          {
+            "id": "suf_1",
+            "text": "гэр оронээс",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          },
+          {
+            "id": "suf_2",
+            "text": "гэр ороноос",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          },
+          {
+            "id": "suf_3",
+            "text": "гэр оронөөс",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          }
+        ],
+        "detailedGrammarNote": "Vowel harmony in Mongolian dictates that back vowels (а, о, у) take back-vocalic suffixes, while front vowels (э, ө, ү) take front-vocalic suffixes. Signifies point of departure (\"from\"), origin, material, cause, or the standard in comparative constructions (\"than\")."
+      },
+      {
+        "id": "les_505_ex_05",
+        "type": "PHONETIC_DISCRIMINATION",
+        "prompt": "Listen and distinguish the phonemic contrast between masculine and feminine vowels in the audio prompt.",
+        "audioText": "гэр орон vs өвс тэжээл",
+        "options": [
+          {
+            "id": "p_1",
+            "text": "Root \"гэр орон\" contains masculine back vowels.",
+            "isCorrect": true,
+            "explanation": "Accurate phonological identification."
+          },
+          {
+            "id": "p_2",
+            "text": "Both roots share identical front-rounded vowel configurations.",
+            "isCorrect": false,
+            "explanation": "Incorrect; Mongolian contrasts back and front vowel sets."
+          },
+          {
+            "id": "p_3",
+            "text": "The vowels are completely neutralized under Cyrillic stress rules.",
+            "isCorrect": false,
+            "explanation": "Mongolian preserves vowel distinctions in initial syllables."
+          }
+        ],
+        "detailedGrammarNote": "The initial syllable in Mongolian carries primary phonological prominence. Vowel quality in subsequent syllables is governed by harmony with this initial syllable."
+      },
+      {
+        "id": "les_505_ex_06",
+        "type": "TRANSLATION",
+        "prompt": "Translate the following authentic Mongolian sentence into English:",
+        "cyrillicSentence": "мал сүрэг нь монгол хэлний баялаг илэрхийлэл юм.",
+        "englishTranslation": "herds of livestock is a rich expression in Mongolian.",
+        "options": [
+          {
+            "id": "tr_1",
+            "text": "herds of livestock is a rich expression in Mongolian.",
+            "isCorrect": true
+          },
+          {
+            "id": "tr_2",
+            "text": "The students greeted herds of livestock warmly.",
+            "isCorrect": false
+          },
+          {
+            "id": "tr_3",
+            "text": "home and dwelling was purchased yesterday.",
+            "isCorrect": false
+          },
+          {
+            "id": "tr_4",
+            "text": "We are traveling towards household furnishings.",
+            "isCorrect": false
+          }
+        ],
+        "detailedGrammarNote": "In this sentence, note how \"мал сүрэг\" (noun) forms the core thematic subject."
+      },
+      {
+        "id": "les_505_ex_07",
+        "type": "VOCABULARY_MATCH",
+        "prompt": "Select the precise definition for the Mongolian term \"гэр орон\" [[ɡɛr ɔrɔn]].",
+        "options": [
+          {
+            "id": "vm_1",
+            "text": "home and dwelling (noun)",
+            "isCorrect": true,
+            "explanation": "Accurate lexical definition."
+          },
+          {
+            "id": "vm_2",
+            "text": "household furnishings (noun)",
+            "isCorrect": false,
+            "explanation": "Refers to another lexical concept."
+          },
+          {
+            "id": "vm_3",
+            "text": "herds of livestock (noun)",
+            "isCorrect": false,
+            "explanation": "Incorrect lexical translation."
+          },
+          {
+            "id": "vm_4",
+            "text": "fodder and hay (noun)",
+            "isCorrect": false,
+            "explanation": "Incorrect lexical translation."
+          }
+        ],
+        "detailedGrammarNote": "\"гэр орон\" is classified as a noun with masculine vowel harmony. Standard IPA transcription: /[ɡɛr ɔrɔn]/."
+      },
+      {
+        "id": "les_505_ex_08",
+        "type": "TRANSLATION",
+        "prompt": "Choose the correct Mongolian Cyrillic rendering for: \"fodder and hay is a rich expression in Mongolian.\"",
+        "englishTranslation": "fodder and hay is a rich expression in Mongolian.",
+        "cyrillicSentence": "өвс тэжээл нь монгол хэлний баялаг илэрхийлэл юм.",
+        "options": [
+          {
+            "id": "rev_1",
+            "text": "өвс тэжээл нь монгол хэлний баялаг илэрхийлэл юм.",
+            "isCorrect": true
+          },
+          {
+            "id": "rev_2",
+            "text": "гэр орон нь монгол хэлний баялаг илэрхийлэл юм.",
+            "isCorrect": false
+          },
+          {
+            "id": "rev_3",
+            "text": "эд хогшил нь монгол хэлний баялаг илэрхийлэл юм.",
+            "isCorrect": false
+          },
+          {
+            "id": "rev_4",
+            "text": "мал сүрэг нь монгол хэлний баялаг илэрхийлэл юм.",
+            "isCorrect": false
+          }
+        ],
+        "detailedGrammarNote": "Notice the morphological markers indicating aspect, location, and person."
+      },
+      {
+        "id": "les_505_ex_09",
+        "type": "SENTENCE_CONSTRUCTION",
+        "prompt": "Assemble the compound clause featuring the perfective converb -аад/-ээд:",
+        "englishTranslation": "Having taken the home and dwelling, went towards the household furnishings.",
+        "cyrillicSentence": "гэр орон аваад, эд хогшил рүү явлаа",
+        "wordTokens": [
+          "явлаа",
+          "рүү",
+          "хогшил",
+          "эд",
+          "аваад,",
+          "орон",
+          "гэр"
+        ],
+        "correctTokenOrder": [
+          "гэр",
+          "орон",
+          "аваад,",
+          "эд",
+          "хогшил",
+          "рүү",
+          "явлаа"
+        ],
+        "detailedGrammarNote": "The perfective converb -аад/-ээд marks an anterior action completed immediately prior to the matrix verb."
+      },
+      {
+        "id": "les_505_ex_10",
+        "type": "AUDIO_DICTATION",
+        "prompt": "Listen and transcribe the full conversational statement in Cyrillic:",
+        "audioText": "мал сүрэг нь монгол хэлний баялаг илэрхийлэл юм.",
+        "slowAudioText": "мал ... сүрэг ... нь ... монгол ... хэлний ... баялаг ... илэрхийлэл ... юм.",
+        "cyrillicSentence": "мал сүрэг нь монгол хэлний баялаг илэрхийлэл юм.",
+        "englishTranslation": "herds of livestock is a rich expression in Mongolian.",
+        "correctAnswer": "мал сүрэг нь монгол хэлний баялаг илэрхийлэл юм",
+        "detailedGrammarNote": "Check consonant assimilation and unaccented short vowel retention in intermediate syllables."
+      },
+      {
+        "id": "les_505_ex_11",
+        "type": "GRAMMAR_APPLICATION",
+        "prompt": "Identify the syntactic role and inflectional ending used in \"эд хогшил нь монгол хэлний баялаг илэрхийлэл юм.\".",
+        "options": [
+          {
+            "id": "ga_1",
+            "text": "Demonstrates Ablative Case (Гарахын тийн ялгал: -аас, -ээс, -оос, -өөс) in declarative context.",
+            "isCorrect": true,
+            "explanation": "Signifies point of departure (\"from\"), origin, material, cause, or the standard in comparative constructions (\"than\")."
+          },
+          {
+            "id": "ga_2",
+            "text": "Employs an archaic vocative particle uncharacteristic of modern prose.",
+            "isCorrect": false,
+            "explanation": "The sentence uses standard contemporary modern Khalkha grammar."
+          },
+          {
+            "id": "ga_3",
+            "text": "Expresses counterfactual past conditionals.",
+            "isCorrect": false,
+            "explanation": "No counterfactual conditional morpheme (-сан бол) is present."
+          }
+        ],
+        "detailedGrammarNote": "Гарахын тийн ялгал: Signifies point of departure (\"from\"), origin, material, cause, or the standard in comparative constructions (\"than\")."
+      }
+    ],
+    "sectionId": "sec_12",
+    "sectionTitle": "Causative & Passive Voices in Society, History & Law",
+    "unitId": "unit_085",
+    "unitTitle": "Causative, Passive & Society: Advanced Competency Unit 85",
+    "unitNumber": 85,
+    "cefr": "B2"
+  },
+  {
+    "id": "les_570",
+    "title": "Complex Syntax & Chaining: Advanced Competency Unit 95 - Lesson 6",
+    "cyrillicTitle": "Нийлмэл өгүүлбэр, нөхцөлт үйлийн тогтолцоо - Хичээл 95 - Хичээл 6",
+    "estimatedMinutes": 15,
+    "grammarOverview": {
+      "summary": "Denotes the specific purpose or intent of an action (\"in order to, with the purpose of\").",
+      "keyPoints": [
+        "Future participle in -х + Instrumental case -аар/-ээр/-оор/-өөр",
+        "e.g. сур + хаар = сурахаар (in order to learn); үз + хээр = үзэхээр (in order to see)"
+      ],
+      "rules": [
+        {
+          "id": "g_b2_02",
+          "title": "Purposive Converb (-хаар, -хээр, -хоор, -хөөр)",
+          "cyrillicTitle": "Зорилго заах холбох нөхцөл (-хаар)",
+          "summary": "Denotes the specific purpose or intent of an action (\"in order to, with the purpose of\").",
+          "formula": "",
+          "explanation": "Denotes the specific purpose or intent of an action (\"in order to, with the purpose of\").",
+          "examples": [
+            {
+              "cyrillic": "Би ном авахаар дэлгүүр орсон.",
+              "english": "I went to the store in order to buy a book.",
+              "breakdown": "Би ном авахаар дэлгүүр орсон."
+            },
+            {
+              "cyrillic": "Тэр монгол хэл сурахаар Улаанбаатарт иржээ.",
+              "english": "He came to Ulaanbaatar to study Mongolian.",
+              "breakdown": "Тэр монгол хэл сурахаар Улаанбаатарт иржээ."
+            }
+          ],
+          "exceptions": [
+            "Confusing with -х гэж (quotative intent) or -х тулд (formal purpose clause). -хаар is the standard spoken and written converb."
+          ]
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "id": "lex_2851",
+        "cyrillic": "хуульшгүй",
+        "ipa": "[xʊʊɮʲʃɡʏi̯]",
+        "english": "inevitable / that cannot be хууль",
+        "partOfSpeech": "adjective",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "хуульшгүй нь тухайн нөхцөлд бүрэн тохирно.",
+        "exampleSentenceEnglish": "хуульшгүй fits suitably in this context."
+      },
+      {
+        "id": "lex_2852",
+        "cyrillic": "хуульхуйц",
+        "ipa": "[xʊʊɮʲxʊi̯t͡sʰ]",
+        "english": "worthy of / sufficient to хууль",
+        "partOfSpeech": "adjective",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "хуульхуйц нь тухайн нөхцөлд бүрэн тохирно.",
+        "exampleSentenceEnglish": "хуульхуйц fits suitably in this context."
+      },
+      {
+        "id": "lex_2853",
+        "cyrillic": "хуульлтэй",
+        "ipa": "[xʊʊɮʲɮtʰɛi̯]",
+        "english": "possessing quality of хууль",
+        "partOfSpeech": "adjective",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "хуульлтэй нь тухайн нөхцөлд бүрэн тохирно.",
+        "exampleSentenceEnglish": "хуульлтэй fits suitably in this context."
+      },
+      {
+        "id": "lex_2854",
+        "cyrillic": "хуульлгүй",
+        "ipa": "[xʊʊɮʲɮɡʏi̯]",
+        "english": "without attribute of хууль",
+        "partOfSpeech": "adjective",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "хуульлгүй нь тухайн нөхцөлд бүрэн тохирно.",
+        "exampleSentenceEnglish": "хуульлгүй fits suitably in this context."
+      },
+      {
+        "id": "lex_2855",
+        "cyrillic": "хуульчид",
+        "ipa": "[xʊʊɮʲt͡ʃʰit]",
+        "english": "plural specialists / practitioners хууль",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "хуульчид нь тухайн нөхцөлд бүрэн тохирно.",
+        "exampleSentenceEnglish": "хуульчид fits suitably in this context."
+      }
+    ],
+    "exercises": [
+      {
+        "id": "les_570_ex_01",
+        "type": "AUDIO_DICTATION",
+        "prompt": "Listen attentively to the audio recording and transcribe the Cyrillic phrase accurately.",
+        "audioText": "хуульшгүй нь тухайн нөхцөлд бүрэн тохирно.",
+        "slowAudioText": "хуульшгүй ... нь ... тухайн ... нөхцөлд ... бүрэн ... тохирно.",
+        "cyrillicSentence": "хуульшгүй нь тухайн нөхцөлд бүрэн тохирно.",
+        "englishTranslation": "хуульшгүй fits suitably in this context.",
+        "correctAnswer": "хуульшгүй нь тухайн нөхцөлд бүрэн тохирно",
+        "detailedGrammarNote": "In standard Khalkha Mongolian orthography, notice how the term \"хуульшгүй\" adheres to masculine vowel harmony. The sentence follows canonical Subject-Object-Verb (SOV) order."
+      },
+      {
+        "id": "les_570_ex_02",
+        "type": "AUDIO_COMPREHENSION",
+        "prompt": "Listen to the spoken Mongolian statement and identify the correct analytical meaning.",
+        "audioText": "хуульхуйц нь тухайн нөхцөлд бүрэн тохирно.",
+        "cyrillicSentence": "хуульхуйц нь тухайн нөхцөлд бүрэн тохирно.",
+        "englishTranslation": "хуульхуйц fits suitably in this context.",
+        "options": [
+          {
+            "id": "opt_1",
+            "text": "хуульхуйц fits suitably in this context.",
+            "isCorrect": true,
+            "explanation": "Accurately captures the semantics and syntactic nuances of the spoken utterance."
+          },
+          {
+            "id": "opt_2",
+            "text": "The counterpart statement referring to possessing quality of хууль.",
+            "isCorrect": false,
+            "explanation": "Incorrect subject; the speaker clearly uttered \"хуульхуйц\"."
+          },
+          {
+            "id": "opt_3",
+            "text": "A negative assertion denying the presence of worthy of / sufficient to хууль.",
+            "isCorrect": false,
+            "explanation": "The audio is an affirmative declarative clause without negation."
+          },
+          {
+            "id": "opt_4",
+            "text": "An interrogative inquiring about the location of inevitable / that cannot be хууль.",
+            "isCorrect": false,
+            "explanation": "No question particle (уу/үү/вэ/бэ) is present in the recorded sentence."
+          }
+        ],
+        "detailedGrammarNote": "Listen for lexical vowel length and consonant assimilation. \"хуульхуйц\" ([xʊʊɮʲxʊi̯t͡sʰ]) acts as the topical focus."
+      },
+      {
+        "id": "les_570_ex_03",
+        "type": "SENTENCE_CONSTRUCTION",
+        "prompt": "Construct the grammatically standard Mongolian sentence by arranging the word tiles in strict SOV syntax.",
+        "englishTranslation": "хуульшгүй fits suitably in this context.",
+        "wordTokens": [
+          "тохирно",
+          "бүрэн",
+          "нөхцөлд",
+          "тухайн",
+          "нь",
+          "хуульшгүй"
+        ],
+        "correctTokenOrder": [
+          "хуульшгүй",
+          "нь",
+          "тухайн",
+          "нөхцөлд",
+          "бүрэн",
+          "тохирно"
+        ],
+        "cyrillicSentence": "хуульшгүй нь тухайн нөхцөлд бүрэн тохирно.",
+        "detailedGrammarNote": "Mongolian is a strictly head-final, left-branching language. Modifiers precede heads, direct objects precede transitive verbs, and finite predicates conclude the clause."
+      },
+      {
+        "id": "les_570_ex_04",
+        "type": "GRAMMAR_APPLICATION",
+        "prompt": "Attach the harmonically valid ablative case suffix (\"from / out of\") to the stem \"хуульшгүй\".",
+        "baseWord": "хуульшгүй",
+        "suffixOptions": [
+          "-аас",
+          "-ээс",
+          "-оос",
+          "-өөс"
+        ],
+        "correctSuffix": "-аас",
+        "options": [
+          {
+            "id": "suf_0",
+            "text": "хуульшгүйаас",
+            "isCorrect": true,
+            "explanation": "Correct: \"хуульшгүй\" is a masculine root and requires the harmonic matching suffix -аас."
+          },
+          {
+            "id": "suf_1",
+            "text": "хуульшгүйээс",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          },
+          {
+            "id": "suf_2",
+            "text": "хуульшгүйоос",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          },
+          {
+            "id": "suf_3",
+            "text": "хуульшгүйөөс",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          }
+        ],
+        "detailedGrammarNote": "Vowel harmony in Mongolian dictates that back vowels (а, о, у) take back-vocalic suffixes, while front vowels (э, ө, ү) take front-vocalic suffixes. Denotes the specific purpose or intent of an action (\"in order to, with the purpose of\")."
+      },
+      {
+        "id": "les_570_ex_05",
+        "type": "PHONETIC_DISCRIMINATION",
+        "prompt": "Listen and distinguish the phonemic contrast between masculine and feminine vowels in the audio prompt.",
+        "audioText": "хуульшгүй vs хуульлгүй",
+        "options": [
+          {
+            "id": "p_1",
+            "text": "Root \"хуульшгүй\" contains masculine back vowels.",
+            "isCorrect": true,
+            "explanation": "Accurate phonological identification."
+          },
+          {
+            "id": "p_2",
+            "text": "Both roots share identical front-rounded vowel configurations.",
+            "isCorrect": false,
+            "explanation": "Incorrect; Mongolian contrasts back and front vowel sets."
+          },
+          {
+            "id": "p_3",
+            "text": "The vowels are completely neutralized under Cyrillic stress rules.",
+            "isCorrect": false,
+            "explanation": "Mongolian preserves vowel distinctions in initial syllables."
+          }
+        ],
+        "detailedGrammarNote": "The initial syllable in Mongolian carries primary phonological prominence. Vowel quality in subsequent syllables is governed by harmony with this initial syllable."
+      },
+      {
+        "id": "les_570_ex_06",
+        "type": "TRANSLATION",
+        "prompt": "Translate the following authentic Mongolian sentence into English:",
+        "cyrillicSentence": "хуульлтэй нь тухайн нөхцөлд бүрэн тохирно.",
+        "englishTranslation": "хуульлтэй fits suitably in this context.",
+        "options": [
+          {
+            "id": "tr_1",
+            "text": "хуульлтэй fits suitably in this context.",
+            "isCorrect": true
+          },
+          {
+            "id": "tr_2",
+            "text": "The students greeted possessing quality of хууль warmly.",
+            "isCorrect": false
+          },
+          {
+            "id": "tr_3",
+            "text": "inevitable / that cannot be хууль was purchased yesterday.",
+            "isCorrect": false
+          },
+          {
+            "id": "tr_4",
+            "text": "We are traveling towards worthy of / sufficient to хууль.",
+            "isCorrect": false
+          }
+        ],
+        "detailedGrammarNote": "In this sentence, note how \"хуульлтэй\" (adjective) forms the core thematic subject."
+      },
+      {
+        "id": "les_570_ex_07",
+        "type": "VOCABULARY_MATCH",
+        "prompt": "Select the precise definition for the Mongolian term \"хуульшгүй\" [[xʊʊɮʲʃɡʏi̯]].",
+        "options": [
+          {
+            "id": "vm_1",
+            "text": "inevitable / that cannot be хууль (adjective)",
+            "isCorrect": true,
+            "explanation": "Accurate lexical definition."
+          },
+          {
+            "id": "vm_2",
+            "text": "worthy of / sufficient to хууль (adjective)",
+            "isCorrect": false,
+            "explanation": "Refers to another lexical concept."
+          },
+          {
+            "id": "vm_3",
+            "text": "possessing quality of хууль (adjective)",
+            "isCorrect": false,
+            "explanation": "Incorrect lexical translation."
+          },
+          {
+            "id": "vm_4",
+            "text": "without attribute of хууль (adjective)",
+            "isCorrect": false,
+            "explanation": "Incorrect lexical translation."
+          }
+        ],
+        "detailedGrammarNote": "\"хуульшгүй\" is classified as a adjective with masculine vowel harmony. Standard IPA transcription: /[xʊʊɮʲʃɡʏi̯]/."
+      },
+      {
+        "id": "les_570_ex_08",
+        "type": "TRANSLATION",
+        "prompt": "Choose the correct Mongolian Cyrillic rendering for: \"хуульлгүй fits suitably in this context.\"",
+        "englishTranslation": "хуульлгүй fits suitably in this context.",
+        "cyrillicSentence": "хуульлгүй нь тухайн нөхцөлд бүрэн тохирно.",
+        "options": [
+          {
+            "id": "rev_1",
+            "text": "хуульлгүй нь тухайн нөхцөлд бүрэн тохирно.",
+            "isCorrect": true
+          },
+          {
+            "id": "rev_2",
+            "text": "хуульшгүй нь тухайн нөхцөлд бүрэн тохирно.",
+            "isCorrect": false
+          },
+          {
+            "id": "rev_3",
+            "text": "хуульхуйц нь тухайн нөхцөлд бүрэн тохирно.",
+            "isCorrect": false
+          },
+          {
+            "id": "rev_4",
+            "text": "хуульлтэй нь тухайн нөхцөлд бүрэн тохирно.",
+            "isCorrect": false
+          }
+        ],
+        "detailedGrammarNote": "Notice the morphological markers indicating aspect, location, and person."
+      },
+      {
+        "id": "les_570_ex_09",
+        "type": "SENTENCE_CONSTRUCTION",
+        "prompt": "Assemble the compound clause featuring the perfective converb -аад/-ээд:",
+        "englishTranslation": "Having taken the inevitable / that cannot be хууль, went towards the worthy of / sufficient to хууль.",
+        "cyrillicSentence": "хуульшгүй аваад, хуульхуйц рүү явлаа",
+        "wordTokens": [
+          "явлаа",
+          "рүү",
+          "хуульхуйц",
+          "аваад,",
+          "хуульшгүй"
+        ],
+        "correctTokenOrder": [
+          "хуульшгүй",
+          "аваад,",
+          "хуульхуйц",
+          "рүү",
+          "явлаа"
+        ],
+        "detailedGrammarNote": "The perfective converb -аад/-ээд marks an anterior action completed immediately prior to the matrix verb."
+      },
+      {
+        "id": "les_570_ex_10",
+        "type": "AUDIO_DICTATION",
+        "prompt": "Listen and transcribe the full conversational statement in Cyrillic:",
+        "audioText": "хуульлтэй нь тухайн нөхцөлд бүрэн тохирно.",
+        "slowAudioText": "хуульлтэй ... нь ... тухайн ... нөхцөлд ... бүрэн ... тохирно.",
+        "cyrillicSentence": "хуульлтэй нь тухайн нөхцөлд бүрэн тохирно.",
+        "englishTranslation": "хуульлтэй fits suitably in this context.",
+        "correctAnswer": "хуульлтэй нь тухайн нөхцөлд бүрэн тохирно",
+        "detailedGrammarNote": "Check consonant assimilation and unaccented short vowel retention in intermediate syllables."
+      },
+      {
+        "id": "les_570_ex_11",
+        "type": "GRAMMAR_APPLICATION",
+        "prompt": "Identify the syntactic role and inflectional ending used in \"хуульхуйц нь тухайн нөхцөлд бүрэн тохирно.\".",
+        "options": [
+          {
+            "id": "ga_1",
+            "text": "Demonstrates Purposive Converb (-хаар, -хээр, -хоор, -хөөр) in declarative context.",
+            "isCorrect": true,
+            "explanation": "Denotes the specific purpose or intent of an action (\"in order to, with the purpose of\")."
+          },
+          {
+            "id": "ga_2",
+            "text": "Employs an archaic vocative particle uncharacteristic of modern prose.",
+            "isCorrect": false,
+            "explanation": "The sentence uses standard contemporary modern Khalkha grammar."
+          },
+          {
+            "id": "ga_3",
+            "text": "Expresses counterfactual past conditionals.",
+            "isCorrect": false,
+            "explanation": "No counterfactual conditional morpheme (-сан бол) is present."
+          }
+        ],
+        "detailedGrammarNote": "Зорилго заах холбох нөхцөл (-хаар): Denotes the specific purpose or intent of an action (\"in order to, with the purpose of\")."
+      }
+    ],
+    "sectionId": "sec_13",
+    "sectionTitle": "Complex Converb Chaining & Discourse Hierarchy",
+    "unitId": "unit_095",
+    "unitTitle": "Complex Syntax & Chaining: Advanced Competency Unit 95",
+    "unitNumber": 95,
+    "cefr": "B2"
+  },
+  {
+    "id": "les_653",
+    "title": "Honorifics & Steppe Philosophy: Advanced Competency Unit 111 - Lesson 3",
+    "cyrillicTitle": "Хүндэтгэлийн найруулга, төрт ёс ба гүн ухаан - Хичээл 111 - Хичээл 3",
+    "estimatedMinutes": 15,
+    "grammarOverview": {
+      "summary": "Indicates the indirect object (\"to\"), static location (\"in, at, on\"), or time of occurrence (\"at, on, in\").",
+      "keyPoints": [
+        "Words ending in vowels, semi-vowels, or resonant consonants (м, н, л, б, в): + д (e.g. сургуульд, гэрт)",
+        "Words ending in voiceless obstruents (г, р, с, д, т, ц, ч, х): + т (e.g. гэрт, хотод)"
+      ],
+      "rules": [
+        {
+          "id": "g_a1_04",
+          "title": "Dative-Locative Case (Өгөх оршихын тийн ялгал: -д, -т)",
+          "cyrillicTitle": "Өгөх оршихын тийн ялгал",
+          "summary": "Indicates the indirect object (\"to\"), static location (\"in, at, on\"), or time of occurrence (\"at, on, in\").",
+          "formula": "",
+          "explanation": "Indicates the indirect object (\"to\"), static location (\"in, at, on\"), or time of occurrence (\"at, on, in\").",
+          "examples": [
+            {
+              "cyrillic": "Би Улаанбаатарт амьдардаг.",
+              "english": "I live in Ulaanbaatar.",
+              "breakdown": "Би Улаанбаатарт амьдардаг."
+            },
+            {
+              "cyrillic": "Дүүдээ ном өгөв.",
+              "english": "Gave a book to younger sibling.",
+              "breakdown": "Дүүдээ ном өгөв."
+            },
+            {
+              "cyrillic": "Таван цагт уулзъя.",
+              "english": "Let's meet at five o'clock.",
+              "breakdown": "Таван цагт уулзъя."
+            }
+          ],
+          "exceptions": [
+            "Using accusative instead of dative-locative for static location (*Би хотыг байна is incorrect; use Би хотод байна).",
+            "Misapplying -д after -р (*гэрд is wrong; correct is гэрт)."
+          ]
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "id": "lex_3266",
+        "cyrillic": "хотлаг",
+        "ipa": "[xɔtʰɮaɡ]",
+        "english": "feature / quality хот",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "хотлаг нь тухайн нөхцөлд бүрэн тохирно.",
+        "exampleSentenceEnglish": "хотлаг fits suitably in this context."
+      },
+      {
+        "id": "lex_3267",
+        "cyrillic": "хотшгүй",
+        "ipa": "[xɔtʰʃɡʏi̯]",
+        "english": "inevitable / that cannot be хот",
+        "partOfSpeech": "adjective",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "хотшгүй нь тухайн нөхцөлд бүрэн тохирно.",
+        "exampleSentenceEnglish": "хотшгүй fits suitably in this context."
+      },
+      {
+        "id": "lex_3268",
+        "cyrillic": "хотхуйц",
+        "ipa": "[xɔtʰxʊi̯t͡sʰ]",
+        "english": "worthy of / sufficient to хот",
+        "partOfSpeech": "adjective",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "хотхуйц нь тухайн нөхцөлд бүрэн тохирно.",
+        "exampleSentenceEnglish": "хотхуйц fits suitably in this context."
+      },
+      {
+        "id": "lex_3269",
+        "cyrillic": "хотлтэй",
+        "ipa": "[xɔtʰɮtʰɛi̯]",
+        "english": "possessing quality of хот",
+        "partOfSpeech": "adjective",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "хотлтэй нь тухайн нөхцөлд бүрэн тохирно.",
+        "exampleSentenceEnglish": "хотлтэй fits suitably in this context."
+      },
+      {
+        "id": "lex_3270",
+        "cyrillic": "хотлгүй",
+        "ipa": "[xɔtʰɮɡʏi̯]",
+        "english": "without attribute of хот",
+        "partOfSpeech": "adjective",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "хотлгүй нь тухайн нөхцөлд бүрэн тохирно.",
+        "exampleSentenceEnglish": "хотлгүй fits suitably in this context."
+      }
+    ],
+    "exercises": [
+      {
+        "id": "les_653_ex_01",
+        "type": "AUDIO_DICTATION",
+        "prompt": "Listen attentively to the audio recording and transcribe the Cyrillic phrase accurately.",
+        "audioText": "хотлаг нь тухайн нөхцөлд бүрэн тохирно.",
+        "slowAudioText": "хотлаг ... нь ... тухайн ... нөхцөлд ... бүрэн ... тохирно.",
+        "cyrillicSentence": "хотлаг нь тухайн нөхцөлд бүрэн тохирно.",
+        "englishTranslation": "хотлаг fits suitably in this context.",
+        "correctAnswer": "хотлаг нь тухайн нөхцөлд бүрэн тохирно",
+        "detailedGrammarNote": "In standard Khalkha Mongolian orthography, notice how the term \"хотлаг\" adheres to masculine vowel harmony. The sentence follows canonical Subject-Object-Verb (SOV) order."
+      },
+      {
+        "id": "les_653_ex_02",
+        "type": "AUDIO_COMPREHENSION",
+        "prompt": "Listen to the spoken Mongolian statement and identify the correct analytical meaning.",
+        "audioText": "хотшгүй нь тухайн нөхцөлд бүрэн тохирно.",
+        "cyrillicSentence": "хотшгүй нь тухайн нөхцөлд бүрэн тохирно.",
+        "englishTranslation": "хотшгүй fits suitably in this context.",
+        "options": [
+          {
+            "id": "opt_1",
+            "text": "хотшгүй fits suitably in this context.",
+            "isCorrect": true,
+            "explanation": "Accurately captures the semantics and syntactic nuances of the spoken utterance."
+          },
+          {
+            "id": "opt_2",
+            "text": "The counterpart statement referring to worthy of / sufficient to хот.",
+            "isCorrect": false,
+            "explanation": "Incorrect subject; the speaker clearly uttered \"хотшгүй\"."
+          },
+          {
+            "id": "opt_3",
+            "text": "A negative assertion denying the presence of inevitable / that cannot be хот.",
+            "isCorrect": false,
+            "explanation": "The audio is an affirmative declarative clause without negation."
+          },
+          {
+            "id": "opt_4",
+            "text": "An interrogative inquiring about the location of feature / quality хот.",
+            "isCorrect": false,
+            "explanation": "No question particle (уу/үү/вэ/бэ) is present in the recorded sentence."
+          }
+        ],
+        "detailedGrammarNote": "Listen for lexical vowel length and consonant assimilation. \"хотшгүй\" ([xɔtʰʃɡʏi̯]) acts as the topical focus."
+      },
+      {
+        "id": "les_653_ex_03",
+        "type": "SENTENCE_CONSTRUCTION",
+        "prompt": "Construct the grammatically standard Mongolian sentence by arranging the word tiles in strict SOV syntax.",
+        "englishTranslation": "хотлаг fits suitably in this context.",
+        "wordTokens": [
+          "тохирно",
+          "бүрэн",
+          "нөхцөлд",
+          "тухайн",
+          "нь",
+          "хотлаг"
+        ],
+        "correctTokenOrder": [
+          "хотлаг",
+          "нь",
+          "тухайн",
+          "нөхцөлд",
+          "бүрэн",
+          "тохирно"
+        ],
+        "cyrillicSentence": "хотлаг нь тухайн нөхцөлд бүрэн тохирно.",
+        "detailedGrammarNote": "Mongolian is a strictly head-final, left-branching language. Modifiers precede heads, direct objects precede transitive verbs, and finite predicates conclude the clause."
+      },
+      {
+        "id": "les_653_ex_04",
+        "type": "GRAMMAR_APPLICATION",
+        "prompt": "Attach the harmonically valid ablative case suffix (\"from / out of\") to the stem \"хотлаг\".",
+        "baseWord": "хотлаг",
+        "suffixOptions": [
+          "-аас",
+          "-ээс",
+          "-оос",
+          "-өөс"
+        ],
+        "correctSuffix": "-аас",
+        "options": [
+          {
+            "id": "suf_0",
+            "text": "хотлагаас",
+            "isCorrect": true,
+            "explanation": "Correct: \"хотлаг\" is a masculine root and requires the harmonic matching suffix -аас."
+          },
+          {
+            "id": "suf_1",
+            "text": "хотлагээс",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          },
+          {
+            "id": "suf_2",
+            "text": "хотлагоос",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          },
+          {
+            "id": "suf_3",
+            "text": "хотлагөөс",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          }
+        ],
+        "detailedGrammarNote": "Vowel harmony in Mongolian dictates that back vowels (а, о, у) take back-vocalic suffixes, while front vowels (э, ө, ү) take front-vocalic suffixes. Indicates the indirect object (\"to\"), static location (\"in, at, on\"), or time of occurrence (\"at, on, in\")."
+      },
+      {
+        "id": "les_653_ex_05",
+        "type": "PHONETIC_DISCRIMINATION",
+        "prompt": "Listen and distinguish the phonemic contrast between masculine and feminine vowels in the audio prompt.",
+        "audioText": "хотлаг vs хотлтэй",
+        "options": [
+          {
+            "id": "p_1",
+            "text": "Root \"хотлаг\" contains masculine back vowels.",
+            "isCorrect": true,
+            "explanation": "Accurate phonological identification."
+          },
+          {
+            "id": "p_2",
+            "text": "Both roots share identical front-rounded vowel configurations.",
+            "isCorrect": false,
+            "explanation": "Incorrect; Mongolian contrasts back and front vowel sets."
+          },
+          {
+            "id": "p_3",
+            "text": "The vowels are completely neutralized under Cyrillic stress rules.",
+            "isCorrect": false,
+            "explanation": "Mongolian preserves vowel distinctions in initial syllables."
+          }
+        ],
+        "detailedGrammarNote": "The initial syllable in Mongolian carries primary phonological prominence. Vowel quality in subsequent syllables is governed by harmony with this initial syllable."
+      },
+      {
+        "id": "les_653_ex_06",
+        "type": "TRANSLATION",
+        "prompt": "Translate the following authentic Mongolian sentence into English:",
+        "cyrillicSentence": "хотхуйц нь тухайн нөхцөлд бүрэн тохирно.",
+        "englishTranslation": "хотхуйц fits suitably in this context.",
+        "options": [
+          {
+            "id": "tr_1",
+            "text": "хотхуйц fits suitably in this context.",
+            "isCorrect": true
+          },
+          {
+            "id": "tr_2",
+            "text": "The students greeted worthy of / sufficient to хот warmly.",
+            "isCorrect": false
+          },
+          {
+            "id": "tr_3",
+            "text": "feature / quality хот was purchased yesterday.",
+            "isCorrect": false
+          },
+          {
+            "id": "tr_4",
+            "text": "We are traveling towards inevitable / that cannot be хот.",
+            "isCorrect": false
+          }
+        ],
+        "detailedGrammarNote": "In this sentence, note how \"хотхуйц\" (adjective) forms the core thematic subject."
+      },
+      {
+        "id": "les_653_ex_07",
+        "type": "VOCABULARY_MATCH",
+        "prompt": "Select the precise definition for the Mongolian term \"хотлаг\" [[xɔtʰɮaɡ]].",
+        "options": [
+          {
+            "id": "vm_1",
+            "text": "feature / quality хот (noun)",
+            "isCorrect": true,
+            "explanation": "Accurate lexical definition."
+          },
+          {
+            "id": "vm_2",
+            "text": "inevitable / that cannot be хот (adjective)",
+            "isCorrect": false,
+            "explanation": "Refers to another lexical concept."
+          },
+          {
+            "id": "vm_3",
+            "text": "worthy of / sufficient to хот (adjective)",
+            "isCorrect": false,
+            "explanation": "Incorrect lexical translation."
+          },
+          {
+            "id": "vm_4",
+            "text": "possessing quality of хот (adjective)",
+            "isCorrect": false,
+            "explanation": "Incorrect lexical translation."
+          }
+        ],
+        "detailedGrammarNote": "\"хотлаг\" is classified as a noun with masculine vowel harmony. Standard IPA transcription: /[xɔtʰɮaɡ]/."
+      },
+      {
+        "id": "les_653_ex_08",
+        "type": "TRANSLATION",
+        "prompt": "Choose the correct Mongolian Cyrillic rendering for: \"хотлтэй fits suitably in this context.\"",
+        "englishTranslation": "хотлтэй fits suitably in this context.",
+        "cyrillicSentence": "хотлтэй нь тухайн нөхцөлд бүрэн тохирно.",
+        "options": [
+          {
+            "id": "rev_1",
+            "text": "хотлтэй нь тухайн нөхцөлд бүрэн тохирно.",
+            "isCorrect": true
+          },
+          {
+            "id": "rev_2",
+            "text": "хотлаг нь тухайн нөхцөлд бүрэн тохирно.",
+            "isCorrect": false
+          },
+          {
+            "id": "rev_3",
+            "text": "хотшгүй нь тухайн нөхцөлд бүрэн тохирно.",
+            "isCorrect": false
+          },
+          {
+            "id": "rev_4",
+            "text": "хотхуйц нь тухайн нөхцөлд бүрэн тохирно.",
+            "isCorrect": false
+          }
+        ],
+        "detailedGrammarNote": "Notice the morphological markers indicating aspect, location, and person."
+      },
+      {
+        "id": "les_653_ex_09",
+        "type": "SENTENCE_CONSTRUCTION",
+        "prompt": "Assemble the compound clause featuring the perfective converb -аад/-ээд:",
+        "englishTranslation": "Having taken the feature / quality хот, went towards the inevitable / that cannot be хот.",
+        "cyrillicSentence": "хотлаг аваад, хотшгүй рүү явлаа",
+        "wordTokens": [
+          "явлаа",
+          "рүү",
+          "хотшгүй",
+          "аваад,",
+          "хотлаг"
+        ],
+        "correctTokenOrder": [
+          "хотлаг",
+          "аваад,",
+          "хотшгүй",
+          "рүү",
+          "явлаа"
+        ],
+        "detailedGrammarNote": "The perfective converb -аад/-ээд marks an anterior action completed immediately prior to the matrix verb."
+      },
+      {
+        "id": "les_653_ex_10",
+        "type": "AUDIO_DICTATION",
+        "prompt": "Listen and transcribe the full conversational statement in Cyrillic:",
+        "audioText": "хотхуйц нь тухайн нөхцөлд бүрэн тохирно.",
+        "slowAudioText": "хотхуйц ... нь ... тухайн ... нөхцөлд ... бүрэн ... тохирно.",
+        "cyrillicSentence": "хотхуйц нь тухайн нөхцөлд бүрэн тохирно.",
+        "englishTranslation": "хотхуйц fits suitably in this context.",
+        "correctAnswer": "хотхуйц нь тухайн нөхцөлд бүрэн тохирно",
+        "detailedGrammarNote": "Check consonant assimilation and unaccented short vowel retention in intermediate syllables."
+      },
+      {
+        "id": "les_653_ex_11",
+        "type": "GRAMMAR_APPLICATION",
+        "prompt": "Identify the syntactic role and inflectional ending used in \"хотшгүй нь тухайн нөхцөлд бүрэн тохирно.\".",
+        "options": [
+          {
+            "id": "ga_1",
+            "text": "Demonstrates Dative-Locative Case (Өгөх оршихын тийн ялгал: -д, -т) in declarative context.",
+            "isCorrect": true,
+            "explanation": "Indicates the indirect object (\"to\"), static location (\"in, at, on\"), or time of occurrence (\"at, on, in\")."
+          },
+          {
+            "id": "ga_2",
+            "text": "Employs an archaic vocative particle uncharacteristic of modern prose.",
+            "isCorrect": false,
+            "explanation": "The sentence uses standard contemporary modern Khalkha grammar."
+          },
+          {
+            "id": "ga_3",
+            "text": "Expresses counterfactual past conditionals.",
+            "isCorrect": false,
+            "explanation": "No counterfactual conditional morpheme (-сан бол) is present."
+          }
+        ],
+        "detailedGrammarNote": "Өгөх оршихын тийн ялгал: Indicates the indirect object (\"to\"), static location (\"in, at, on\"), or time of occurrence (\"at, on, in\")."
+      }
+    ],
+    "sectionId": "sec_15",
+    "sectionTitle": "Honorific Registers, Statehood, Philosophy & Poetry",
+    "unitId": "unit_111",
+    "unitTitle": "Honorifics & Steppe Philosophy: Advanced Competency Unit 111",
+    "unitNumber": 111,
+    "cefr": "C1"
+  },
+  {
+    "id": "les_686",
+    "title": "Classical Masterworks: Advanced Competency Unit 118 - Lesson 1",
+    "cyrillicTitle": "Монголын нууц товчоо, туульс ба дээд найруулга - Хичээл 118 - Хичээл 1",
+    "estimatedMinutes": 15,
+    "grammarOverview": {
+      "summary": "Specifies movement towards a general direction or target destination (\"towards, in the direction of\").",
+      "keyPoints": [
+        "Words not ending in -р: + руу (masculine), + рүү (feminine)",
+        "Words ending in -р: + луу (masculine), + лүү (feminine) to prevent double \"r\" clash (e.g. гэр -> гэр лүү)"
+      ],
+      "rules": [
+        {
+          "id": "g_a2_02",
+          "title": "Directional Case (Чиглэхийн тийн ялгал: -руу, -рүү / -луу, -лүү)",
+          "cyrillicTitle": "Чиглэхийн тийн ялгал",
+          "summary": "Specifies movement towards a general direction or target destination (\"towards, in the direction of\").",
+          "formula": "",
+          "explanation": "Specifies movement towards a general direction or target destination (\"towards, in the direction of\").",
+          "examples": [
+            {
+              "cyrillic": "Би хот руу явна.",
+              "english": "I will go towards the city.",
+              "breakdown": "Би хот руу явна."
+            },
+            {
+              "cyrillic": "Бид гэр лүүгээ харилаа.",
+              "english": "We returned towards our home.",
+              "breakdown": "Бид гэр лүүгээ харилаа."
+            },
+            {
+              "cyrillic": "Уул өөд, гол руу алхлаа.",
+              "english": "Walked up the mountain, towards the river.",
+              "breakdown": "Уул өөд, гол руу алхлаа."
+            }
+          ],
+          "exceptions": [
+            "Writing *гэр рүү instead of dissimilated гэр лүү.",
+            "Confusing with Dative-Locative -д/-т which denotes arriving AT the point, whereas -руу emphasizes motion TOWARDS."
+          ]
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "id": "lex_3431",
+        "cyrillic": "хангайжуулалт",
+        "ipa": "[xanɡai̯t͡ʃʊʊɮaɮtʰ]",
+        "english": "-ization / making into хангай",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "хангайжуулалт нь тухайн нөхцөлд бүрэн тохирно.",
+        "exampleSentenceEnglish": "хангайжуулалт fits suitably in this context."
+      },
+      {
+        "id": "lex_3432",
+        "cyrillic": "хангайжилт",
+        "ipa": "[xanɡai̯t͡ʃiɮtʰ]",
+        "english": "state of becoming хангай",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "хангайжилт нь тухайн нөхцөлд бүрэн тохирно.",
+        "exampleSentenceEnglish": "хангайжилт fits suitably in this context."
+      },
+      {
+        "id": "lex_3433",
+        "cyrillic": "хангайлагч",
+        "ipa": "[xanɡai̯ɮaɡt͡ʃʰ]",
+        "english": "one who initiates / practitioner хангай",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "хангайлагч нь тухайн нөхцөлд бүрэн тохирно.",
+        "exampleSentenceEnglish": "хангайлагч fits suitably in this context."
+      },
+      {
+        "id": "lex_3434",
+        "cyrillic": "хангайлагдагч",
+        "ipa": "[xanɡai̯ɮaɡtaɡt͡ʃʰ]",
+        "english": "one who receives action хангай",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "хангайлагдагч нь тухайн нөхцөлд бүрэн тохирно.",
+        "exampleSentenceEnglish": "хангайлагдагч fits suitably in this context."
+      },
+      {
+        "id": "lex_3435",
+        "cyrillic": "хангайлал",
+        "ipa": "[xanɡai̯ɮaɮ]",
+        "english": "act or institution of хангай",
+        "partOfSpeech": "noun",
+        "genderHarmony": "masculine",
+        "exampleSentenceCyrillic": "хангайлал нь тухайн нөхцөлд бүрэн тохирно.",
+        "exampleSentenceEnglish": "хангайлал fits suitably in this context."
+      }
+    ],
+    "exercises": [
+      {
+        "id": "les_686_ex_01",
+        "type": "AUDIO_DICTATION",
+        "prompt": "Listen attentively to the audio recording and transcribe the Cyrillic phrase accurately.",
+        "audioText": "хангайжуулалт нь тухайн нөхцөлд бүрэн тохирно.",
+        "slowAudioText": "хангайжуулалт ... нь ... тухайн ... нөхцөлд ... бүрэн ... тохирно.",
+        "cyrillicSentence": "хангайжуулалт нь тухайн нөхцөлд бүрэн тохирно.",
+        "englishTranslation": "хангайжуулалт fits suitably in this context.",
+        "correctAnswer": "хангайжуулалт нь тухайн нөхцөлд бүрэн тохирно",
+        "detailedGrammarNote": "In standard Khalkha Mongolian orthography, notice how the term \"хангайжуулалт\" adheres to masculine vowel harmony. The sentence follows canonical Subject-Object-Verb (SOV) order."
+      },
+      {
+        "id": "les_686_ex_02",
+        "type": "AUDIO_COMPREHENSION",
+        "prompt": "Listen to the spoken Mongolian statement and identify the correct analytical meaning.",
+        "audioText": "хангайжилт нь тухайн нөхцөлд бүрэн тохирно.",
+        "cyrillicSentence": "хангайжилт нь тухайн нөхцөлд бүрэн тохирно.",
+        "englishTranslation": "хангайжилт fits suitably in this context.",
+        "options": [
+          {
+            "id": "opt_1",
+            "text": "хангайжилт fits suitably in this context.",
+            "isCorrect": true,
+            "explanation": "Accurately captures the semantics and syntactic nuances of the spoken utterance."
+          },
+          {
+            "id": "opt_2",
+            "text": "The counterpart statement referring to one who initiates / practitioner хангай.",
+            "isCorrect": false,
+            "explanation": "Incorrect subject; the speaker clearly uttered \"хангайжилт\"."
+          },
+          {
+            "id": "opt_3",
+            "text": "A negative assertion denying the presence of state of becoming хангай.",
+            "isCorrect": false,
+            "explanation": "The audio is an affirmative declarative clause without negation."
+          },
+          {
+            "id": "opt_4",
+            "text": "An interrogative inquiring about the location of -ization / making into хангай.",
+            "isCorrect": false,
+            "explanation": "No question particle (уу/үү/вэ/бэ) is present in the recorded sentence."
+          }
+        ],
+        "detailedGrammarNote": "Listen for lexical vowel length and consonant assimilation. \"хангайжилт\" ([xanɡai̯t͡ʃiɮtʰ]) acts as the topical focus."
+      },
+      {
+        "id": "les_686_ex_03",
+        "type": "SENTENCE_CONSTRUCTION",
+        "prompt": "Construct the grammatically standard Mongolian sentence by arranging the word tiles in strict SOV syntax.",
+        "englishTranslation": "хангайжуулалт fits suitably in this context.",
+        "wordTokens": [
+          "тохирно",
+          "бүрэн",
+          "нөхцөлд",
+          "тухайн",
+          "нь",
+          "хангайжуулалт"
+        ],
+        "correctTokenOrder": [
+          "хангайжуулалт",
+          "нь",
+          "тухайн",
+          "нөхцөлд",
+          "бүрэн",
+          "тохирно"
+        ],
+        "cyrillicSentence": "хангайжуулалт нь тухайн нөхцөлд бүрэн тохирно.",
+        "detailedGrammarNote": "Mongolian is a strictly head-final, left-branching language. Modifiers precede heads, direct objects precede transitive verbs, and finite predicates conclude the clause."
+      },
+      {
+        "id": "les_686_ex_04",
+        "type": "GRAMMAR_APPLICATION",
+        "prompt": "Attach the harmonically valid ablative case suffix (\"from / out of\") to the stem \"хангайжуулалт\".",
+        "baseWord": "хангайжуулалт",
+        "suffixOptions": [
+          "-аас",
+          "-ээс",
+          "-оос",
+          "-өөс"
+        ],
+        "correctSuffix": "-аас",
+        "options": [
+          {
+            "id": "suf_0",
+            "text": "хангайжуулалтаас",
+            "isCorrect": true,
+            "explanation": "Correct: \"хангайжуулалт\" is a masculine root and requires the harmonic matching suffix -аас."
+          },
+          {
+            "id": "suf_1",
+            "text": "хангайжуулалтээс",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          },
+          {
+            "id": "suf_2",
+            "text": "хангайжуулалтоос",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          },
+          {
+            "id": "suf_3",
+            "text": "хангайжуулалтөөс",
+            "isCorrect": false,
+            "explanation": "Incorrect: Violates Mongolian vowel harmony principles for masculine roots."
+          }
+        ],
+        "detailedGrammarNote": "Vowel harmony in Mongolian dictates that back vowels (а, о, у) take back-vocalic suffixes, while front vowels (э, ө, ү) take front-vocalic suffixes. Specifies movement towards a general direction or target destination (\"towards, in the direction of\")."
+      },
+      {
+        "id": "les_686_ex_05",
+        "type": "PHONETIC_DISCRIMINATION",
+        "prompt": "Listen and distinguish the phonemic contrast between masculine and feminine vowels in the audio prompt.",
+        "audioText": "хангайжуулалт vs хангайлагдагч",
+        "options": [
+          {
+            "id": "p_1",
+            "text": "Root \"хангайжуулалт\" contains masculine back vowels.",
+            "isCorrect": true,
+            "explanation": "Accurate phonological identification."
+          },
+          {
+            "id": "p_2",
+            "text": "Both roots share identical front-rounded vowel configurations.",
+            "isCorrect": false,
+            "explanation": "Incorrect; Mongolian contrasts back and front vowel sets."
+          },
+          {
+            "id": "p_3",
+            "text": "The vowels are completely neutralized under Cyrillic stress rules.",
+            "isCorrect": false,
+            "explanation": "Mongolian preserves vowel distinctions in initial syllables."
+          }
+        ],
+        "detailedGrammarNote": "The initial syllable in Mongolian carries primary phonological prominence. Vowel quality in subsequent syllables is governed by harmony with this initial syllable."
+      },
+      {
+        "id": "les_686_ex_06",
+        "type": "TRANSLATION",
+        "prompt": "Translate the following authentic Mongolian sentence into English:",
+        "cyrillicSentence": "хангайлагч нь тухайн нөхцөлд бүрэн тохирно.",
+        "englishTranslation": "хангайлагч fits suitably in this context.",
+        "options": [
+          {
+            "id": "tr_1",
+            "text": "хангайлагч fits suitably in this context.",
+            "isCorrect": true
+          },
+          {
+            "id": "tr_2",
+            "text": "The students greeted one who initiates / practitioner хангай warmly.",
+            "isCorrect": false
+          },
+          {
+            "id": "tr_3",
+            "text": "-ization / making into хангай was purchased yesterday.",
+            "isCorrect": false
+          },
+          {
+            "id": "tr_4",
+            "text": "We are traveling towards state of becoming хангай.",
+            "isCorrect": false
+          }
+        ],
+        "detailedGrammarNote": "In this sentence, note how \"хангайлагч\" (noun) forms the core thematic subject."
+      },
+      {
+        "id": "les_686_ex_07",
+        "type": "VOCABULARY_MATCH",
+        "prompt": "Select the precise definition for the Mongolian term \"хангайжуулалт\" [[xanɡai̯t͡ʃʊʊɮaɮtʰ]].",
+        "options": [
+          {
+            "id": "vm_1",
+            "text": "-ization / making into хангай (noun)",
+            "isCorrect": true,
+            "explanation": "Accurate lexical definition."
+          },
+          {
+            "id": "vm_2",
+            "text": "state of becoming хангай (noun)",
+            "isCorrect": false,
+            "explanation": "Refers to another lexical concept."
+          },
+          {
+            "id": "vm_3",
+            "text": "one who initiates / practitioner хангай (noun)",
+            "isCorrect": false,
+            "explanation": "Incorrect lexical translation."
+          },
+          {
+            "id": "vm_4",
+            "text": "one who receives action хангай (noun)",
+            "isCorrect": false,
+            "explanation": "Incorrect lexical translation."
+          }
+        ],
+        "detailedGrammarNote": "\"хангайжуулалт\" is classified as a noun with masculine vowel harmony. Standard IPA transcription: /[xanɡai̯t͡ʃʊʊɮaɮtʰ]/."
+      },
+      {
+        "id": "les_686_ex_08",
+        "type": "TRANSLATION",
+        "prompt": "Choose the correct Mongolian Cyrillic rendering for: \"хангайлагдагч fits suitably in this context.\"",
+        "englishTranslation": "хангайлагдагч fits suitably in this context.",
+        "cyrillicSentence": "хангайлагдагч нь тухайн нөхцөлд бүрэн тохирно.",
+        "options": [
+          {
+            "id": "rev_1",
+            "text": "хангайлагдагч нь тухайн нөхцөлд бүрэн тохирно.",
+            "isCorrect": true
+          },
+          {
+            "id": "rev_2",
+            "text": "хангайжуулалт нь тухайн нөхцөлд бүрэн тохирно.",
+            "isCorrect": false
+          },
+          {
+            "id": "rev_3",
+            "text": "хангайжилт нь тухайн нөхцөлд бүрэн тохирно.",
+            "isCorrect": false
+          },
+          {
+            "id": "rev_4",
+            "text": "хангайлагч нь тухайн нөхцөлд бүрэн тохирно.",
+            "isCorrect": false
+          }
+        ],
+        "detailedGrammarNote": "Notice the morphological markers indicating aspect, location, and person."
+      },
+      {
+        "id": "les_686_ex_09",
+        "type": "SENTENCE_CONSTRUCTION",
+        "prompt": "Assemble the compound clause featuring the perfective converb -аад/-ээд:",
+        "englishTranslation": "Having taken the -ization / making into хангай, went towards the state of becoming хангай.",
+        "cyrillicSentence": "хангайжуулалт аваад, хангайжилт рүү явлаа",
+        "wordTokens": [
+          "явлаа",
+          "рүү",
+          "хангайжилт",
+          "аваад,",
+          "хангайжуулалт"
+        ],
+        "correctTokenOrder": [
+          "хангайжуулалт",
+          "аваад,",
+          "хангайжилт",
+          "рүү",
+          "явлаа"
+        ],
+        "detailedGrammarNote": "The perfective converb -аад/-ээд marks an anterior action completed immediately prior to the matrix verb."
+      },
+      {
+        "id": "les_686_ex_10",
+        "type": "AUDIO_DICTATION",
+        "prompt": "Listen and transcribe the full conversational statement in Cyrillic:",
+        "audioText": "хангайлагч нь тухайн нөхцөлд бүрэн тохирно.",
+        "slowAudioText": "хангайлагч ... нь ... тухайн ... нөхцөлд ... бүрэн ... тохирно.",
+        "cyrillicSentence": "хангайлагч нь тухайн нөхцөлд бүрэн тохирно.",
+        "englishTranslation": "хангайлагч fits suitably in this context.",
+        "correctAnswer": "хангайлагч нь тухайн нөхцөлд бүрэн тохирно",
+        "detailedGrammarNote": "Check consonant assimilation and unaccented short vowel retention in intermediate syllables."
+      },
+      {
+        "id": "les_686_ex_11",
+        "type": "GRAMMAR_APPLICATION",
+        "prompt": "Identify the syntactic role and inflectional ending used in \"хангайжилт нь тухайн нөхцөлд бүрэн тохирно.\".",
+        "options": [
+          {
+            "id": "ga_1",
+            "text": "Demonstrates Directional Case (Чиглэхийн тийн ялгал: -руу, -рүү / -луу, -лүү) in declarative context.",
+            "isCorrect": true,
+            "explanation": "Specifies movement towards a general direction or target destination (\"towards, in the direction of\")."
+          },
+          {
+            "id": "ga_2",
+            "text": "Employs an archaic vocative particle uncharacteristic of modern prose.",
+            "isCorrect": false,
+            "explanation": "The sentence uses standard contemporary modern Khalkha grammar."
+          },
+          {
+            "id": "ga_3",
+            "text": "Expresses counterfactual past conditionals.",
+            "isCorrect": false,
+            "explanation": "No counterfactual conditional morpheme (-сан бол) is present."
+          }
+        ],
+        "detailedGrammarNote": "Чиглэхийн тийн ялгал: Specifies movement towards a general direction or target destination (\"towards, in the direction of\")."
+      }
+    ],
+    "sectionId": "sec_16",
+    "sectionTitle": "Master Steppe Literature, Secret History & Classical Nuances",
+    "unitId": "unit_118",
+    "unitTitle": "Classical Masterworks: Advanced Competency Unit 118",
+    "unitNumber": 118,
+    "cefr": "C2"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Mongolian Cyrillic Course",
+  "description": "Comprehensive Mongolian language learning platform teaching Cyrillic script, phonetics, 7 grammatical cases, converbs, and audio exercises from beginner to advanced with focused completion analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

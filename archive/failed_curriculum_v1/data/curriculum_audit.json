@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-09-22T01:42:31.554Z",
+  "metrics": {
+    "totalSections": 16,
+    "totalUnits": 120,
+    "totalLessons": 700,
+    "totalExercises": 7700,
+    "totalVocabularyItems": 3549,
+    "totalGrammarConcepts": 25
+  },
+  "cefrDistribution": {
+    "exercises": {
+      "A1": 1980,
+      "A2": 2046,
+      "B1": 1518,
+      "B2": 1441,
+      "C1": 385,
+      "C2": 330
+    },
+    "vocabulary": {
+      "A1": 350,
+      "A2": 737,
+      "B1": 1303,
+      "B2": 799,
+      "C1": 355,
+      "C2": 5
+    }
+  },
+  "exerciseTypeDistribution": {
+    "AUDIO_DICTATION": 1400,
+    "AUDIO_COMPREHENSION": 700,
+    "SENTENCE_CONSTRUCTION": 1400,
+    "GRAMMAR_APPLICATION": 1400,
+    "PHONETIC_DISCRIMINATION": 700,
+    "TRANSLATION": 1400,
+    "VOCABULARY_MATCH": 700
+  },
+  "criteriaValidation": {
+    "cefrStagesValid": true,
+    "sectionsTargetMet": true,
+    "unitsTargetMet": true,
+    "lessonsTargetMet": true,
+    "exercisesTargetMet": true,
+    "vocabularyTargetMet": true
+  }
+}

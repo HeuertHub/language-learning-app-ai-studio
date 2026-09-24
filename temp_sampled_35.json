@@ -1,0 +1,2937 @@
+[
+  {
+    "unitId": "unit_pre_a1_01_alphabet_consonants_intro",
+    "sectionId": "sec_pre_a1_01_cyrillic_graphemes_vowels",
+    "cefrLevel": "Pre-A1",
+    "sequencePosition": 1,
+    "title": "Cyrillic Script Recognition & Shared Consonants",
+    "communicativeTheme": "Deciphering Cyrillic letters and recognizing global cognates",
+    "primaryLearningPurpose": "Introduce the 35 Cyrillic letters with special focus on letters identical to Latin (А, О, М, Т) and false friends (В, Н, Р, С, Х).",
+    "primaryCompetencyIds": [
+      "macro_a1_social_survival"
+    ],
+    "secondaryReviewCompetencyIds": [],
+    "grammarIntroduced": [],
+    "grammarReinforced": [],
+    "phonologyTargets": [
+      "phono_cyr_35_alphabet"
+    ],
+    "communicativeFunctions": [],
+    "lexicalDomains": [
+      "lex_a1_core_greetings_courtesy"
+    ],
+    "estimatedNewCoreLemmas": 12,
+    "estimatedNewMultiwordExpressions": 2,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 8,
+      "generalPurposeLemmas": 4,
+      "multiwordExpressions": 2
+    },
+    "readingTarget": {
+      "genre": "Isolated words and international cognates",
+      "textLengthWords": "1-10 words",
+      "targetSkills": [
+        "Letter-by-letter phonetic decoding",
+        "Overcoming Latin-Cyrillic visual interference"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Recitation of alphabet letter sounds",
+      "speechRate": "Slow, distinct (60-80 wpm)",
+      "audioSuitability": "standard_speech_synthesis",
+      "targetSkills": [
+        "Letter-to-sound identification",
+        "Distinguishing Cyrillic В [w/v] from B [b]"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Cyrillic handwriting and keyboard typing",
+      "targetLength": "10-15 isolated letters and 3 simple words",
+      "targetSkills": [
+        "Transcribing dictated letters",
+        "Locating basic characters on Mongolian keyboard"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "Oral phoneme reproduction",
+      "targetTask": "Pronounce isolated consonant sounds upon seeing Cyrillic flashcards",
+      "targetSkills": [
+        "Accurate articulation of basic stops and nasals without English aspiration"
+      ]
+    },
+    "registerTarget": "Instructional classroom register",
+    "culturalContext": {
+      "title": "Adoption of the Cyrillic Alphabet in 1941",
+      "scopingMetadata": "National historical standard nationwide",
+      "integrationDetails": "Introduces Ts. Damdinsüren's 1941 script reform and the coexistence of Cyrillic and Traditional Mongol Bichig in official seals."
+    },
+    "prerequisiteUnitIds": [],
+    "reviewOfUnitIds": [],
+    "futureDependencyHints": [
+      "unit_pre_a1_02_mongolian_distinct_letters",
+      "unit_pre_a1_03_cardinal_short_vowels"
+    ],
+    "unitOutcome": "Learners accurately decode and transcribe initial Cyrillic letters, correctly identifying false friends like В, Н, Р, and Х."
+  },
+  {
+    "unitId": "unit_pre_a1_07_personal_names_and_identification",
+    "sectionId": "sec_pre_a1_01_cyrillic_graphemes_vowels",
+    "cefrLevel": "Pre-A1",
+    "sequencePosition": 7,
+    "title": "Spelling Personal Names & ID Cards",
+    "communicativeTheme": "Introducing one's name and reading Mongolian names",
+    "primaryLearningPurpose": "Apply all Section 1 graphemes and vowels to deciphering authentic Mongolian personal names, spelling foreign names, and reading identity badges.",
+    "primaryCompetencyIds": [
+      "macro_a1_social_survival"
+    ],
+    "secondaryReviewCompetencyIds": [],
+    "grammarIntroduced": [],
+    "grammarReinforced": [],
+    "phonologyTargets": [
+      "phono_cyr_35_alphabet"
+    ],
+    "communicativeFunctions": [
+      "comm_a1_06_self_introduction_name"
+    ],
+    "lexicalDomains": [
+      "lex_a1_core_greetings_courtesy"
+    ],
+    "estimatedNewCoreLemmas": 16,
+    "estimatedNewMultiwordExpressions": 3,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 12,
+      "generalPurposeLemmas": 4,
+      "multiwordExpressions": 3
+    },
+    "readingTarget": {
+      "genre": "Conference badges, student IDs, and business cards",
+      "textLengthWords": "20-40 words",
+      "targetSkills": [
+        "Extracting first name and patronymic from formal credentials"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Spoken self-introductions in social contexts",
+      "speechRate": "Slow, distinct (70-90 wpm)",
+      "audioSuitability": "standard_speech_synthesis",
+      "targetSkills": [
+        "Catching foreign and native names pronounced with Mongolian phonology"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Registration form entries",
+      "targetLength": "Completing an entry form with full name and country",
+      "targetSkills": [
+        "Correct Cyrillic transliteration of learner's own name"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "Formulaic name introduction",
+      "targetTask": "State: 'Намайг [нэр] гэдэг' (My name is [name])",
+      "targetSkills": [
+        "Natural intonation in introductory formula"
+      ]
+    },
+    "registerTarget": "Everyday formal and informal introductions",
+    "culturalContext": {
+      "title": "Mongolian Patronymic System",
+      "scopingMetadata": "Official legal and social standard",
+      "integrationDetails": "How Mongolians use their father's (or mother's) name in the genitive case followed by their given name, and the abbreviation of patronymics on ID cards."
+    },
+    "prerequisiteUnitIds": [
+      "unit_pre_a1_06_digits_and_classroom_prompts"
+    ],
+    "reviewOfUnitIds": [
+      "unit_pre_a1_01_alphabet_consonants_intro",
+      "unit_pre_a1_02_mongolian_distinct_letters"
+    ],
+    "futureDependencyHints": [
+      "unit_pre_a1_08_vowel_length_pairs",
+      "unit_a1_01_formulaic_greetings_mastery"
+    ],
+    "unitOutcome": "Learners spell and introduce their name in Cyrillic, read authentic Mongolian names on ID badges, and state their name using standard introductory phrasing."
+  },
+  {
+    "unitId": "unit_pre_a1_14_public_signs_and_notices",
+    "sectionId": "sec_pre_a1_02_syllables_vowel_harmony_formulae",
+    "cefrLevel": "Pre-A1",
+    "sequencePosition": 14,
+    "title": "Navigating Public Signs, Entrances & Storefronts",
+    "communicativeTheme": "Reading city signs, store open/closed notices, and building labels",
+    "primaryLearningPurpose": "Decode authentic public urban signage in Cyrillic: Орох (Entrance), Гарах (Exit), Нээлттэй (Open), Хаалттай (Closed), Касс (Cashier), Цайны газар (Canteen).",
+    "primaryCompetencyIds": [
+      "macro_a1_physical_environment"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a1_social_survival"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [],
+    "phonologyTargets": [
+      "phono_consonant_basic_inventory"
+    ],
+    "communicativeFunctions": [
+      "comm_a1_10_identifying_objects"
+    ],
+    "lexicalDomains": [
+      "lex_a2_urban_navigation_transit",
+      "lex_a1_core_greetings_courtesy"
+    ],
+    "estimatedNewCoreLemmas": 18,
+    "estimatedNewMultiwordExpressions": 3,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 14,
+      "generalPurposeLemmas": 4,
+      "multiwordExpressions": 3
+    },
+    "readingTarget": {
+      "genre": "Photographs of authentic storefronts, door signs, and street banners",
+      "textLengthWords": "20-40 words",
+      "targetSkills": [
+        "Rapid visual decoding of practical survival signage without hesitation"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "Public service announcements in stores or transit hubs",
+      "speechRate": "Slow, distinct (70-90 wpm)",
+      "audioSuitability": "standard_speech_synthesis",
+      "targetSkills": [
+        "Recognizing announcements indicating opening or closing times"
+      ]
+    },
+    "writingTarget": {
+      "genre": "Sign copying and labeling",
+      "targetLength": "10 common public signs copied accurately",
+      "targetSkills": [
+        "Accurate orthography of verbal nouns used as public signs (Орох, Гарах)"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "Reading signs aloud",
+      "targetTask": "Read aloud 5 photographed signs and state their functional meaning",
+      "targetSkills": [
+        "Accurate pronunciation of consonant clusters in words like 'нээлттэй'"
+      ]
+    },
+    "registerTarget": "Public informational signage register",
+    "culturalContext": {
+      "title": "Commercial Signboards in Ulaanbaatar",
+      "scopingMetadata": "Urban Ulaanbaatar and aimag centers",
+      "integrationDetails": "The mix of Mongolian Cyrillic and English loan words in modern Ulaanbaatar shopping centers and canteens (Цайны газар)."
+    },
+    "prerequisiteUnitIds": [
+      "unit_pre_a1_13_gratitude_apologies_politeness"
+    ],
+    "reviewOfUnitIds": [
+      "unit_pre_a1_04_consonants_inventory_stops"
+    ],
+    "futureDependencyHints": [
+      "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone"
+    ],
+    "unitOutcome": "Learners navigate physical public spaces independently by deciphering signs for entrance, exit, operating hours, restrooms, and basic store categories."
+  },
+  {
+    "unitId": "unit_a1_18_zero_copula_identity_origin_predica",
+    "sectionId": "sec_a1_01_identity_courtesy_nominal_clauses",
+    "cefrLevel": "A1",
+    "sequencePosition": 18,
+    "title": "Zero-Copula Identity & Origin Predication",
+    "communicativeTheme": "Stating nationality and hometown using nominal predicates",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Zero-Copula Identity & Origin Predication.",
+    "primaryCompetencyIds": [
+      "macro_a1_social_survival"
+    ],
+    "secondaryReviewCompetencyIds": [],
+    "grammarIntroduced": [
+      "gram_a1_nominal_predicate_zero_copula",
+      "gram_a1_case_nominative_unmarked"
+    ],
+    "grammarReinforced": [
+      "gram_a1_pronouns_personal_nominative"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_a1_07_origin_nationality"
+    ],
+    "lexicalDomains": [
+      "lex_a1_core_greetings_courtesy"
+    ],
+    "estimatedNewCoreLemmas": 26,
+    "estimatedNewMultiwordExpressions": 6,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 20,
+      "generalPurposeLemmas": 6,
+      "multiwordExpressions": 6
+    },
+    "readingTarget": {
+      "genre": "A1 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "30-60 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "A1 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Slow, distinct (80-100 wpm)",
+      "audioSuitability": "standard_speech_synthesis",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "A1 structured communicative text",
+      "targetLength": "4-8 sentences",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "A1 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Stating nationality and hometown using nominal predicates",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Everyday standard courteous",
+    "culturalContext": {
+      "title": "Cultural dynamics of Zero-Copula Identity & Origin Predication",
+      "scopingMetadata": "Everyday contemporary urban and rural norms",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Stating nationality and hometown using nominal predicates in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_a1_17_personal_pronouns_direct_address_pr"
+    ],
+    "reviewOfUnitIds": [
+      "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Zero-Copula Identity & Origin Predication."
+  },
+  {
+    "unitId": "unit_a1_26_content_question_particles_and_",
+    "sectionId": "sec_a1_02_physical_space_quantities_locative",
+    "cefrLevel": "A1",
+    "sequencePosition": 26,
+    "title": "Content Question Particles: Бэ and Вэ",
+    "communicativeTheme": "Formulating open-ended inquiries (Хэн бэ, Хаана вэ, Юу вэ)",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Content Question Particles: Бэ and Вэ.",
+    "primaryCompetencyIds": [
+      "macro_a1_physical_environment"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a1_social_survival"
+    ],
+    "grammarIntroduced": [
+      "gram_a1_content_questions_be_ve"
+    ],
+    "grammarReinforced": [
+      "gram_a1_case_dative_locative_location"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_a1_35_asking_language_clarification"
+    ],
+    "lexicalDomains": [
+      "lex_a1_core_greetings_courtesy"
+    ],
+    "estimatedNewCoreLemmas": 28,
+    "estimatedNewMultiwordExpressions": 7,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 22,
+      "generalPurposeLemmas": 6,
+      "multiwordExpressions": 7
+    },
+    "readingTarget": {
+      "genre": "A1 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "30-60 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "A1 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Slow, distinct (80-100 wpm)",
+      "audioSuitability": "standard_speech_synthesis",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "A1 structured communicative text",
+      "targetLength": "4-8 sentences",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "A1 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Formulating open-ended inquiries (Хэн бэ, Хаана вэ, Юу вэ)",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Everyday standard courteous",
+    "culturalContext": {
+      "title": "Cultural dynamics of Content Question Particles: Бэ and Вэ",
+      "scopingMetadata": "Everyday contemporary urban and rural norms",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Formulating open-ended inquiries (Хэн бэ, Хаана вэ, Юу вэ) in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_a1_25_dative_locative_spatial_anchoring_s"
+    ],
+    "reviewOfUnitIds": [
+      "unit_a1_23_section_synthesis_social_reception_"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Content Question Particles: Бэ and Вэ."
+  },
+  {
+    "unitId": "unit_a1_35_days_of_the_week_weekly_calendars",
+    "sectionId": "sec_a1_03_daily_routines_motion_temporality",
+    "cefrLevel": "A1",
+    "sequencePosition": 35,
+    "title": "Days of the Week & Weekly Calendars",
+    "communicativeTheme": "Planning activities across the seven days of the week",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Days of the Week & Weekly Calendars.",
+    "primaryCompetencyIds": [
+      "macro_a1_time_routines_transport"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a1_physical_environment"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a1_telling_time_clock_calendar"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_a1_25_days_of_the_week"
+    ],
+    "lexicalDomains": [
+      "lex_a1_numerals_time_calendar"
+    ],
+    "estimatedNewCoreLemmas": 28,
+    "estimatedNewMultiwordExpressions": 6,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 22,
+      "generalPurposeLemmas": 6,
+      "multiwordExpressions": 6
+    },
+    "readingTarget": {
+      "genre": "A1 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "30-60 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "A1 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Slow, distinct (80-100 wpm)",
+      "audioSuitability": "standard_speech_synthesis",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "A1 structured communicative text",
+      "targetLength": "4-8 sentences",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "A1 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Planning activities across the seven days of the week",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Everyday standard courteous",
+    "culturalContext": {
+      "title": "Cultural dynamics of Days of the Week & Weekly Calendars",
+      "scopingMetadata": "Everyday contemporary urban and rural norms",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Planning activities across the seven days of the week in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_a1_34_telling_clock_time_"
+    ],
+    "reviewOfUnitIds": [
+      "unit_a1_32_classroom_discourse_spatial_instruc"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Days of the Week & Weekly Calendars."
+  },
+  {
+    "unitId": "unit_a1_46_beverages_tea_traditional_dairy_off",
+    "sectionId": "sec_a1_04_food_hospitality_dining_transactions",
+    "cefrLevel": "A1",
+    "sequencePosition": 46,
+    "title": "Beverages, Tea & Traditional Dairy Offerings",
+    "communicativeTheme": "Ordering milk tea, black tea, coffee, and dairy snacks",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Beverages, Tea & Traditional Dairy Offerings.",
+    "primaryCompetencyIds": [
+      "macro_a1_food_and_commerce"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a1_social_survival"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a1_noun_phrase_attributive_adjective"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_a1_18_ordering_drinks_tea"
+    ],
+    "lexicalDomains": [
+      "lex_a1_food_dining_traditional"
+    ],
+    "estimatedNewCoreLemmas": 29,
+    "estimatedNewMultiwordExpressions": 7,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 23,
+      "generalPurposeLemmas": 6,
+      "multiwordExpressions": 7
+    },
+    "readingTarget": {
+      "genre": "A1 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "30-60 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "A1 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Slow, distinct (80-100 wpm)",
+      "audioSuitability": "standard_speech_synthesis",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "A1 structured communicative text",
+      "targetLength": "4-8 sentences",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "A1 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Ordering milk tea, black tea, coffee, and dairy snacks",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Everyday standard courteous",
+    "culturalContext": {
+      "title": "Cultural dynamics of Beverages, Tea & Traditional Dairy Offerings",
+      "scopingMetadata": "Everyday contemporary urban and rural norms",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Ordering milk tea, black tea, coffee, and dairy snacks in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_a1_45_traditional_cuisine_restaurant_orde"
+    ],
+    "reviewOfUnitIds": [
+      "unit_a1_43_public_transit_commuting_bus_routes"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Beverages, Tea & Traditional Dairy Offerings."
+  },
+  {
+    "unitId": "unit_a1_58_perfective_past_participle_suffixes",
+    "sectionId": "sec_a1_05_family_kinship_possession_immediate_environment",
+    "cefrLevel": "A1",
+    "sequencePosition": 58,
+    "title": "Perfective Past Participle: Suffixes -сан",
+    "communicativeTheme": "Narrating completed past achievements and historical facts",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Perfective Past Participle: Suffixes -сан.",
+    "primaryCompetencyIds": [
+      "macro_a1_social_survival"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a1_food_and_commerce"
+    ],
+    "grammarIntroduced": [
+      "gram_a1_verb_tense_past_perfective_san"
+    ],
+    "grammarReinforced": [
+      "gram_a1_verb_aspect_progressive_j_baina"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_a1_16_family_size_marital_status"
+    ],
+    "lexicalDomains": [
+      "lex_a1_kinship_family"
+    ],
+    "estimatedNewCoreLemmas": 29,
+    "estimatedNewMultiwordExpressions": 5,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 24,
+      "generalPurposeLemmas": 5,
+      "multiwordExpressions": 5
+    },
+    "readingTarget": {
+      "genre": "A1 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "30-60 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "A1 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Slow, distinct (80-100 wpm)",
+      "audioSuitability": "standard_speech_synthesis",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "A1 structured communicative text",
+      "targetLength": "4-8 sentences",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "A1 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Narrating completed past achievements and historical facts",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Everyday standard courteous",
+    "culturalContext": {
+      "title": "Cultural dynamics of Perfective Past Participle: Suffixes -сан",
+      "scopingMetadata": "Everyday contemporary urban and rural norms",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Narrating completed past achievements and historical facts in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_a1_57_ongoing_progressive_aspect_verbal_s"
+    ],
+    "reviewOfUnitIds": [
+      "unit_a1_55_possessive_pronouns_"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Perfective Past Participle: Suffixes -сан."
+  },
+  {
+    "unitId": "unit_a2_66_intercity_bus_passenger_train_trave",
+    "sectionId": "sec_a2_01_city_navigation_transit_public_encounters",
+    "cefrLevel": "A2",
+    "sequencePosition": 66,
+    "title": "Intercity Bus & Passenger Train Travel",
+    "communicativeTheme": "Booking sleeper train tickets to Darkhan/Erdenet and intercity buses",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Intercity Bus & Passenger Train Travel.",
+    "primaryCompetencyIds": [
+      "macro_a2_practical_survival_services"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a1_time_routines_transport"
+    ],
+    "grammarIntroduced": [
+      "gram_a2_case_instrumental_means"
+    ],
+    "grammarReinforced": [
+      "gram_a2_case_directional_towards"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_a2_18_buying_bus_train_tickets"
+    ],
+    "lexicalDomains": [
+      "lex_a2_urban_navigation_transit"
+    ],
+    "estimatedNewCoreLemmas": 32,
+    "estimatedNewMultiwordExpressions": 8,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 25,
+      "generalPurposeLemmas": 7,
+      "multiwordExpressions": 8
+    },
+    "readingTarget": {
+      "genre": "A2 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "60-120 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "A2 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Moderate (100-120 wpm)",
+      "audioSuitability": "standard_speech_synthesis",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "A2 structured communicative text",
+      "targetLength": "8-15 sentences",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "A2 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Booking sleeper train tickets to Darkhan/Erdenet and intercity buses",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Everyday conversational & transactional",
+    "culturalContext": {
+      "title": "Cultural dynamics of Intercity Bus & Passenger Train Travel",
+      "scopingMetadata": "Everyday contemporary urban and rural norms",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Booking sleeper train tickets to Darkhan/Erdenet and intercity buses in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_a2_65_hailing_street_taxis_giving_micro_d"
+    ],
+    "reviewOfUnitIds": [
+      "unit_a1_63_a1_capstone_family_story_living_env"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Intercity Bus & Passenger Train Travel."
+  },
+  {
+    "unitId": "unit_a2_75_reflexive_possessive_base_suffixes_",
+    "sectionId": "sec_a2_02_commerce_services_transactional_bargaining",
+    "cefrLevel": "A2",
+    "sequencePosition": 75,
+    "title": "Reflexive-Possessive Base: Suffixes -аа/-ээ",
+    "communicativeTheme": "Marking one's own possessions ('дээлээ өмсөх')",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Reflexive-Possessive Base: Suffixes -аа/-ээ.",
+    "primaryCompetencyIds": [
+      "macro_a2_practical_survival_services"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a1_food_and_commerce"
+    ],
+    "grammarIntroduced": [
+      "gram_a2_reflexive_possessive_base"
+    ],
+    "grammarReinforced": [],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_a2_02_describing_appearance_clothing"
+    ],
+    "lexicalDomains": [
+      "lex_a2_shopping_commerce_clothing"
+    ],
+    "estimatedNewCoreLemmas": 33,
+    "estimatedNewMultiwordExpressions": 8,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 26,
+      "generalPurposeLemmas": 7,
+      "multiwordExpressions": 8
+    },
+    "readingTarget": {
+      "genre": "A2 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "60-120 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "A2 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Moderate (100-120 wpm)",
+      "audioSuitability": "standard_speech_synthesis",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "A2 structured communicative text",
+      "targetLength": "8-15 sentences",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "A2 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Marking one's own possessions ('дээлээ өмсөх')",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Everyday conversational & transactional",
+    "culturalContext": {
+      "title": "Cultural dynamics of Reflexive-Possessive Base: Suffixes -аа/-ээ",
+      "scopingMetadata": "Everyday contemporary urban and rural norms",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Marking one's own possessions ('дээлээ өмсөх') in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_a2_74_clothing_sizes_fabrics_fitting_room"
+    ],
+    "reviewOfUnitIds": [
+      "unit_a2_72_urban_transit_capstone_navigating_t"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Reflexive-Possessive Base: Suffixes -аа/-ээ."
+  },
+  {
+    "unitId": "unit_a2_85_purchasing_medicine_pharmacy_consul",
+    "sectionId": "sec_a2_03_health_wellness_body_consultations",
+    "cefrLevel": "A2",
+    "sequencePosition": 85,
+    "title": "Purchasing Medicine & Pharmacy Consultations",
+    "communicativeTheme": "Buying antibiotics, pain relievers, and syrups at the chemist",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Purchasing Medicine & Pharmacy Consultations.",
+    "primaryCompetencyIds": [
+      "macro_a2_practical_survival_services"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a1_physical_environment"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_a2_converb_temporal_while_khad"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_a2_13_buying_medicine_pharmacy"
+    ],
+    "lexicalDomains": [
+      "lex_a2_health_body_medicine"
+    ],
+    "estimatedNewCoreLemmas": 35,
+    "estimatedNewMultiwordExpressions": 8,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 27,
+      "generalPurposeLemmas": 8,
+      "multiwordExpressions": 8
+    },
+    "readingTarget": {
+      "genre": "A2 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "60-120 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "A2 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Moderate (100-120 wpm)",
+      "audioSuitability": "standard_speech_synthesis",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "A2 structured communicative text",
+      "targetLength": "8-15 sentences",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "A2 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Buying antibiotics, pain relievers, and syrups at the chemist",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Everyday conversational & transactional",
+    "culturalContext": {
+      "title": "Cultural dynamics of Purchasing Medicine & Pharmacy Consultations",
+      "scopingMetadata": "Everyday contemporary urban and rural norms",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Buying antibiotics, pain relievers, and syrups at the chemist in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_a2_84_describing_illness_symptoms_to_a_ph"
+    ],
+    "reviewOfUnitIds": [
+      "unit_a2_82_retail_service_transaction_capstone"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Purchasing Medicine & Pharmacy Consultations."
+  },
+  {
+    "unitId": "unit_a2_95_narrating_past_vacations_countrysid",
+    "sectionId": "sec_a2_04_narratives_memories_social_invitations",
+    "cefrLevel": "A2",
+    "sequencePosition": 95,
+    "title": "Narrating Past Vacations & Countryside Holidays",
+    "communicativeTheme": "Sharing multi-day travel experiences to Khövsgöl or Terelj",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Narrating Past Vacations & Countryside Holidays.",
+    "primaryCompetencyIds": [
+      "macro_a2_personal_history_and_social"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a1_social_survival"
+    ],
+    "grammarIntroduced": [
+      "gram_a2_verb_past_recent_witnessed_laa"
+    ],
+    "grammarReinforced": [
+      "gram_a2_verb_past_narrative_v"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_a2_08_vacation_travel_experiences"
+    ],
+    "lexicalDomains": [
+      "lex_a2_urban_navigation_transit"
+    ],
+    "estimatedNewCoreLemmas": 34,
+    "estimatedNewMultiwordExpressions": 7,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 28,
+      "generalPurposeLemmas": 6,
+      "multiwordExpressions": 7
+    },
+    "readingTarget": {
+      "genre": "A2 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "60-120 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "A2 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Moderate (100-120 wpm)",
+      "audioSuitability": "standard_speech_synthesis",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "A2 structured communicative text",
+      "targetLength": "8-15 sentences",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "A2 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Sharing multi-day travel experiences to Khövsgöl or Terelj",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Everyday conversational & transactional",
+    "culturalContext": {
+      "title": "Cultural dynamics of Narrating Past Vacations & Countryside Holidays",
+      "scopingMetadata": "Everyday contemporary urban and rural norms",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Sharing multi-day travel experiences to Khövsgöl or Terelj in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_a2_94_childhood_hometown_recollections_ea"
+    ],
+    "reviewOfUnitIds": [
+      "unit_a2_92_describing_physical_appearance_groo"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Narrating Past Vacations & Countryside Holidays."
+  },
+  {
+    "unitId": "unit_a2_105_ger_etiquette_sacred_threshold_hear",
+    "sectionId": "sec_a2_05_nomadic_countryside_ger_etiquette_livestock",
+    "cefrLevel": "A2",
+    "sequencePosition": 105,
+    "title": "Ger Etiquette: Sacred Threshold & Hearth Customs",
+    "communicativeTheme": "Observing taboos: not stepping on threshold, respecting hearth",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Ger Etiquette: Sacred Threshold & Hearth Customs.",
+    "primaryCompetencyIds": [
+      "macro_a2_housing_and_hospitality"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a2_practical_survival_services"
+    ],
+    "grammarIntroduced": [
+      "gram_a2_converb_concessive_vch_bolovch"
+    ],
+    "grammarReinforced": [],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_a2_14_countryside_ger_visiting_etiquette"
+    ],
+    "lexicalDomains": [
+      "lex_a2_housing_ger_household"
+    ],
+    "estimatedNewCoreLemmas": 35,
+    "estimatedNewMultiwordExpressions": 10,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 29,
+      "generalPurposeLemmas": 6,
+      "multiwordExpressions": 10
+    },
+    "readingTarget": {
+      "genre": "A2 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "60-120 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "A2 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Moderate (100-120 wpm)",
+      "audioSuitability": "standard_speech_synthesis",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "A2 structured communicative text",
+      "targetLength": "8-15 sentences",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "A2 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Observing taboos: not stepping on threshold, respecting hearth",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Everyday conversational & transactional",
+    "culturalContext": {
+      "title": "Cultural dynamics of Ger Etiquette: Sacred Threshold & Hearth Customs",
+      "scopingMetadata": "Everyday contemporary urban and rural norms",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Observing taboos: not stepping on threshold, respecting hearth in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_a2_104_the_mongolian_ger_architectural_ana"
+    ],
+    "reviewOfUnitIds": [
+      "unit_a2_102_apartment_rental_leases_furnishings"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Ger Etiquette: Sacred Threshold & Hearth Customs."
+  },
+  {
+    "unitId": "unit_b1_114_formal_workplace_email_business_cor",
+    "sectionId": "sec_b1_01_workplace_careers_institutional_communication",
+    "cefrLevel": "B1",
+    "sequencePosition": 114,
+    "title": "Formal Workplace Email & Business Correspondence",
+    "communicativeTheme": "Writing formal memos, requesting meetings, and attaching reports",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Formal Workplace Email & Business Correspondence.",
+    "primaryCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a2_practical_survival_services"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_b1_verb_derivation_denominal_lakh"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b1_10_writing_formal_email_letter"
+    ],
+    "lexicalDomains": [
+      "lex_b1_education_career_workplace"
+    ],
+    "estimatedNewCoreLemmas": 36,
+    "estimatedNewMultiwordExpressions": 9,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 28,
+      "generalPurposeLemmas": 8,
+      "multiwordExpressions": 9
+    },
+    "readingTarget": {
+      "genre": "B1 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "120-250 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "B1 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Normal conversational (120-140 wpm)",
+      "audioSuitability": "mongolian_speech_synthesis_only",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "B1 structured communicative text",
+      "targetLength": "150-250 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B1 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Writing formal memos, requesting meetings, and attaching reports",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Workplace & public informal",
+    "culturalContext": {
+      "title": "Cultural dynamics of Formal Workplace Email & Business Correspondence",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Writing formal memos, requesting meetings, and attaching reports in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b1_113_job_interview_strategies_answering_"
+    ],
+    "reviewOfUnitIds": [
+      "unit_a2_111_waystage_pastoral_capstone_rural_ho"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Formal Workplace Email & Business Correspondence."
+  },
+  {
+    "unitId": "unit_b1_120_workplace_conflict_resolution_clari",
+    "sectionId": "sec_b1_01_workplace_careers_institutional_communication",
+    "cefrLevel": "B1",
+    "sequencePosition": 120,
+    "title": "Workplace Conflict Resolution & Clarifications",
+    "communicativeTheme": "Resolving misunderstandings with colleagues politely",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Workplace Conflict Resolution & Clarifications.",
+    "primaryCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_a2_practical_survival_services"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_b1_aspect_intensive_chih_complete"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b1_20_clarifying_misunderstandings"
+    ],
+    "lexicalDomains": [
+      "lex_b1_education_career_workplace"
+    ],
+    "estimatedNewCoreLemmas": 37,
+    "estimatedNewMultiwordExpressions": 7,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 29,
+      "generalPurposeLemmas": 8,
+      "multiwordExpressions": 7
+    },
+    "readingTarget": {
+      "genre": "B1 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "120-250 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "B1 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Normal conversational (120-140 wpm)",
+      "audioSuitability": "mongolian_speech_synthesis_only",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "B1 structured communicative text",
+      "targetLength": "150-250 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B1 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Resolving misunderstandings with colleagues politely",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Workplace & public informal",
+    "culturalContext": {
+      "title": "Cultural dynamics of Workplace Conflict Resolution & Clarifications",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Resolving misunderstandings with colleagues politely in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b1_119_intensive_completive_aspect_suffix_"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b1_117_passive_voice_morphosyntax_suffixes"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Workplace Conflict Resolution & Clarifications."
+  },
+  {
+    "unitId": "unit_b1_127_contemporaneous_converb_suffixes_",
+    "sectionId": "sec_b1_02_biography_opinion_discourse_causality",
+    "cefrLevel": "B1",
+    "sequencePosition": 127,
+    "title": "Contemporaneous Converb: Suffixes -магц/-мэгц",
+    "communicativeTheme": "Indicating immediate succession ('ирэнгүүт, ирмэгц')",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Contemporaneous Converb: Suffixes -магц/-мэгц.",
+    "primaryCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [
+      "gram_b1_converb_contemporaneous_magts"
+    ],
+    "grammarReinforced": [
+      "gram_b1_clause_causal_uchir_uchraas_tul"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b1_02_sequencing_past_chronology"
+    ],
+    "lexicalDomains": [
+      "lex_b1_education_career_workplace"
+    ],
+    "estimatedNewCoreLemmas": 36,
+    "estimatedNewMultiwordExpressions": 11,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 30,
+      "generalPurposeLemmas": 6,
+      "multiwordExpressions": 11
+    },
+    "readingTarget": {
+      "genre": "B1 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "120-250 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "B1 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Normal conversational (120-140 wpm)",
+      "audioSuitability": "mongolian_speech_synthesis_only",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "B1 structured communicative text",
+      "targetLength": "150-250 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B1 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Indicating immediate succession ('ирэнгүүт, ирмэгц')",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Workplace & public informal",
+    "culturalContext": {
+      "title": "Cultural dynamics of Contemporaneous Converb: Suffixes -магц/-мэгц",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Indicating immediate succession ('ирэнгүүт, ирмэгц') in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b1_126_causal_conjunctions_connectors_"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b1_124_formulating_nuanced_personal_stance"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Contemporaneous Converb: Suffixes -магц/-мэгц."
+  },
+  {
+    "unitId": "unit_b1_134_film_literary_criticism_evaluating_",
+    "sectionId": "sec_b1_02_biography_opinion_discourse_causality",
+    "cefrLevel": "B1",
+    "sequencePosition": 134,
+    "title": "Film & Literary Criticism: Evaluating Works of Art",
+    "communicativeTheme": "Writing structured movie and novel reviews with thematic critique",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Film & Literary Criticism: Evaluating Works of Art.",
+    "primaryCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b1_22_discussing_books_films_reviews"
+    ],
+    "lexicalDomains": [
+      "lex_b1_media_digital_society"
+    ],
+    "estimatedNewCoreLemmas": 34,
+    "estimatedNewMultiwordExpressions": 10,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 27,
+      "generalPurposeLemmas": 7,
+      "multiwordExpressions": 10
+    },
+    "readingTarget": {
+      "genre": "B1 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "120-250 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "B1 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Normal conversational (120-140 wpm)",
+      "audioSuitability": "mongolian_speech_synthesis_only",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "B1 structured communicative text",
+      "targetLength": "150-250 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B1 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Writing structured movie and novel reviews with thematic critique",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Workplace & public informal",
+    "culturalContext": {
+      "title": "Cultural dynamics of Film & Literary Criticism: Evaluating Works of Art",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Writing structured movie and novel reviews with thematic critique in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b1_133_giving_professional_advice_actionab"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b1_131_abnutative_converb_suffix_"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Film & Literary Criticism: Evaluating Works of Art."
+  },
+  {
+    "unitId": "unit_b1_142_temporal_framing_clauses_",
+    "sectionId": "sec_b1_03_geography_aimags_environment_climate",
+    "cefrLevel": "B1",
+    "sequencePosition": 142,
+    "title": "Temporal Framing Clauses: Өмнө, Дараа, Үед",
+    "communicativeTheme": "Structuring temporal chronology in ecological histories",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Temporal Framing Clauses: Өмнө, Дараа, Үед.",
+    "primaryCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "grammarIntroduced": [
+      "gram_b1_clause_temporal_omno_daraa_yed"
+    ],
+    "grammarReinforced": [
+      "gram_b1_postpositions_similative_shig_adil_met"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b1_02_sequencing_past_chronology"
+    ],
+    "lexicalDomains": [
+      "lex_b1_geography_landforms_aimags"
+    ],
+    "estimatedNewCoreLemmas": 37,
+    "estimatedNewMultiwordExpressions": 11,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 30,
+      "generalPurposeLemmas": 7,
+      "multiwordExpressions": 11
+    },
+    "readingTarget": {
+      "genre": "B1 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "120-250 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "B1 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Normal conversational (120-140 wpm)",
+      "audioSuitability": "mongolian_speech_synthesis_only",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "B1 structured communicative text",
+      "targetLength": "150-250 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B1 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Structuring temporal chronology in ecological histories",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Workplace & public informal",
+    "culturalContext": {
+      "title": "Cultural dynamics of Temporal Framing Clauses: Өмнө, Дараа, Үед",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Structuring temporal chronology in ecological histories in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b1_141_similative_postpositions_"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b1_139_purposive_clauses_conjunctions_and_"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Temporal Framing Clauses: Өмнө, Дараа, Үед."
+  },
+  {
+    "unitId": "unit_b1_150_zolgokh_greeting_ritual_supporting_",
+    "sectionId": "sec_b1_04_festivals_naadam_tsagaan_sar_customs",
+    "cefrLevel": "B1",
+    "sequencePosition": 150,
+    "title": "Zolgokh Greeting Ritual: Supporting the Elder's Arms",
+    "communicativeTheme": "Performing the ritual arm support and exchanging holiday greetings",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Zolgokh Greeting Ritual: Supporting the Elder's Arms.",
+    "primaryCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b1_14_traditional_celebrations_tsagaan_sar"
+    ],
+    "lexicalDomains": [
+      "lex_b1_national_festivals_rituals"
+    ],
+    "estimatedNewCoreLemmas": 38,
+    "estimatedNewMultiwordExpressions": 9,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 29,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 9
+    },
+    "readingTarget": {
+      "genre": "B1 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "120-250 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "B1 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Normal conversational (120-140 wpm)",
+      "audioSuitability": "mongolian_speech_synthesis_only",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "B1 structured communicative text",
+      "targetLength": "150-250 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B1 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Performing the ritual arm support and exchanging holiday greetings",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Workplace & public informal",
+    "culturalContext": {
+      "title": "Cultural dynamics of Zolgokh Greeting Ritual: Supporting the Elder's Arms",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Performing the ritual arm support and exchanging holiday greetings in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b1_149_tsagaan_sar_white_moon_bit_n_eve_pr"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b1_147_horse_racing_age_classes_giingoo"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Zolgokh Greeting Ritual: Supporting the Elder's Arms."
+  },
+  {
+    "unitId": "unit_b2_158_converb_chaining_in_complex_discour",
+    "sectionId": "sec_b2_01_public_policy_civil_society_media",
+    "cefrLevel": "B2",
+    "sequencePosition": 158,
+    "title": "Converb Chaining in Complex Discourse Syntax",
+    "communicativeTheme": "Connecting 3 or more converbial clauses without structural collapse",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Converb Chaining in Complex Discourse Syntax.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_converb_chaining_discourse"
+    ],
+    "grammarReinforced": [
+      "gram_b2_information_structure_exclusive_focus_l"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_12_expository_causal_chains"
+    ],
+    "lexicalDomains": [
+      "lex_b2_governance_democracy_civil_society"
+    ],
+    "estimatedNewCoreLemmas": 41,
+    "estimatedNewMultiwordExpressions": 11,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 32,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 11
+    },
+    "readingTarget": {
+      "genre": "B2 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "250-450 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "B2 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Native conversational (140-160 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "B2 structured communicative text",
+      "targetLength": "250-400 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Connecting 3 or more converbial clauses without structural collapse",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural dynamics of Converb Chaining in Complex Discourse Syntax",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Connecting 3 or more converbial clauses without structural collapse in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_157_civil_society_advocacy_protests_pub"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b1_155_threshold_independence_capstone_cul"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Converb Chaining in Complex Discourse Syntax."
+  },
+  {
+    "unitId": "unit_b2_166_public_policy_capstone_municipal_ur",
+    "sectionId": "sec_b2_01_public_policy_civil_society_media",
+    "cefrLevel": "B2",
+    "sequencePosition": 166,
+    "title": "Public Policy Capstone: Municipal Urban Planning Brief",
+    "communicativeTheme": "Synthesizing governance, debate, and press release in a policy proposal",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Public Policy Capstone: Municipal Urban Planning Brief.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_opinion_discourse_causality"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_06_evaluating_public_policies",
+      "comm_b2_11_summarizing_complex_articles"
+    ],
+    "lexicalDomains": [
+      "lex_b2_governance_democracy_civil_society"
+    ],
+    "estimatedNewCoreLemmas": 38,
+    "estimatedNewMultiwordExpressions": 11,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 30,
+      "generalPurposeLemmas": 8,
+      "multiwordExpressions": 11
+    },
+    "readingTarget": {
+      "genre": "B2 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "250-450 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "B2 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Native conversational (140-160 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "B2 structured communicative text",
+      "targetLength": "250-400 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Synthesizing governance, debate, and press release in a policy proposal",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural dynamics of Public Policy Capstone: Municipal Urban Planning Brief",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Synthesizing governance, debate, and press release in a policy proposal in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_165_moderating_multi_speaker_panel_disc"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_163_formal_oxford_style_debate_cross_ex"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Public Policy Capstone: Municipal Urban Planning Brief."
+  },
+  {
+    "unitId": "unit_b2_174_interpreting_environmental_statisti",
+    "sectionId": "sec_b2_02_ecology_climate_zud_sustainability",
+    "cefrLevel": "B2",
+    "sequencePosition": 174,
+    "title": "Interpreting Environmental Statistical Graphs",
+    "communicativeTheme": "Reading trend lines, bar charts, and pasture degradation data",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Interpreting Environmental Statistical Graphs.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_b2_conditionals_counterfactual_past"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_20_interpreting_graphs_statistics"
+    ],
+    "lexicalDomains": [
+      "lex_b2_ecology_climate_zud"
+    ],
+    "estimatedNewCoreLemmas": 41,
+    "estimatedNewMultiwordExpressions": 12,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 33,
+      "generalPurposeLemmas": 8,
+      "multiwordExpressions": 12
+    },
+    "readingTarget": {
+      "genre": "B2 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "250-450 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "B2 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Native conversational (140-160 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "B2 structured communicative text",
+      "targetLength": "250-400 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Reading trend lines, bar charts, and pasture degradation data",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural dynamics of Interpreting Environmental Statistical Graphs",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Reading trend lines, bar charts, and pasture degradation data in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_173_past_counterfactual_conditionals_su"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_171_stacked_voice_causative_passive_mor"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Interpreting Environmental Statistical Graphs."
+  },
+  {
+    "unitId": "unit_b2_182_sensory_appearance_modals_suffixes_",
+    "sectionId": "sec_b2_03_material_culture_music_performing_arts",
+    "cefrLevel": "B2",
+    "sequencePosition": 182,
+    "title": "Sensory Appearance Modals: Suffixes -х шинжтэй / -х шиг байна",
+    "communicativeTheme": "Describing aesthetic impressions and performance atmosphere",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Sensory Appearance Modals: Suffixes -х шинжтэй / -х шиг байна.",
+    "primaryCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b1_professional_and_cultural"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_epistemic_appearance_shig_baiana_yanzytai"
+    ],
+    "grammarReinforced": [
+      "gram_b2_epistemic_stance_biz_baih"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_18_critiquing_artistic_exhibitions"
+    ],
+    "lexicalDomains": [
+      "lex_b2_performing_arts_music_folklore"
+    ],
+    "estimatedNewCoreLemmas": 39,
+    "estimatedNewMultiwordExpressions": 10,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 30,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 10
+    },
+    "readingTarget": {
+      "genre": "B2 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "250-450 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "B2 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Native conversational (140-160 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "B2 structured communicative text",
+      "targetLength": "250-400 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Describing aesthetic impressions and performance atmosphere",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural dynamics of Sensory Appearance Modals: Suffixes -х шинжтэй / -х шиг байна",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Describing aesthetic impressions and performance atmosphere in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_181_epistemic_stance_presumption_the_ma"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_179_kh_mii_throat_singing_overtone_phys"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Sensory Appearance Modals: Suffixes -х шинжтэй / -х шиг байна."
+  },
+  {
+    "unitId": "unit_b2_190_complex_modal_obligation_the_modal_",
+    "sectionId": "sec_b2_04_academic_critique_rhetoric_formal_stance",
+    "cefrLevel": "B2",
+    "sequencePosition": 190,
+    "title": "Complex Modal Obligation: The Modal Suffix -х учиртай",
+    "communicativeTheme": "Expressing prescriptive necessity and ethical duties in scholarship",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Complex Modal Obligation: The Modal Suffix -х учиртай.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "grammarIntroduced": [
+      "gram_b2_modal_complex_obligation_uchirtai"
+    ],
+    "grammarReinforced": [
+      "gram_b2_conditionals_hypothetical_present"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_02_academic_essay_concessions"
+    ],
+    "lexicalDomains": [
+      "lex_c1_academic_philology_mongolistics"
+    ],
+    "estimatedNewCoreLemmas": 43,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 35,
+      "generalPurposeLemmas": 8,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "B2 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "250-450 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "B2 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Native conversational (140-160 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "B2 structured communicative text",
+      "targetLength": "250-400 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Expressing prescriptive necessity and ethical duties in scholarship",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural dynamics of Complex Modal Obligation: The Modal Suffix -х учиртай",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Expressing prescriptive necessity and ethical duties in scholarship in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_189_hypothetical_conditionals_in_academ"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_187_scholarly_research_methodology_hypo"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Complex Modal Obligation: The Modal Suffix -х учиртай."
+  },
+  {
+    "unitId": "unit_b2_196_popularizing_scientific_discoveries",
+    "sectionId": "sec_b2_04_academic_critique_rhetoric_formal_stance",
+    "cefrLevel": "B2",
+    "sequencePosition": 196,
+    "title": "Popularizing Scientific Discoveries for Mass Media",
+    "communicativeTheme": "Translating technical research papers into engaging public articles",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Popularizing Scientific Discoveries for Mass Media.",
+    "primaryCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_b2_23_scientific_popular_articles"
+    ],
+    "lexicalDomains": [
+      "lex_b1_media_digital_society"
+    ],
+    "estimatedNewCoreLemmas": 44,
+    "estimatedNewMultiwordExpressions": 11,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 36,
+      "generalPurposeLemmas": 8,
+      "multiwordExpressions": 11
+    },
+    "readingTarget": {
+      "genre": "B2 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "250-450 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "B2 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Native conversational (140-160 wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "B2 structured communicative text",
+      "targetLength": "250-400 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "B2 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Translating technical research papers into engaging public articles",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Public debate & academic formal",
+    "culturalContext": {
+      "title": "Cultural dynamics of Popularizing Scientific Discoveries for Mass Media",
+      "scopingMetadata": "Societal, institutional, and environmental realities",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Translating technical research papers into engaging public articles in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_b2_195_mediation_of_professional_conflicts"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_193_handling_rigorous_academic_q_a_sess"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Popularizing Scientific Discoveries for Mass Media."
+  },
+  {
+    "unitId": "unit_c1_200_statutory_drafting_legal_framing_fo",
+    "sectionId": "sec_c1_01_constitutional_law_governance_statutory",
+    "cefrLevel": "C1",
+    "sequencePosition": 200,
+    "title": "Statutory Drafting & Legal Framing Formulations",
+    "communicativeTheme": "Formulating statutory prohibitions, authorizations, and penalties",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Statutory Drafting & Legal Framing Formulations.",
+    "primaryCompetencyIds": [
+      "macro_c1_executive_and_legislative"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "grammarIntroduced": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "grammarReinforced": [
+      "gram_c1_archaic_jussive_sugai_tugai"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "estimatedNewCoreLemmas": 44,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 35,
+      "generalPurposeLemmas": 9,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "C1 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "450-750 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "C1 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Rapid authentic native (160+ wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "C1 structured communicative text",
+      "targetLength": "400-650 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "C1 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Formulating statutory prohibitions, authorizations, and penalties",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Institutional, chancellery & diplomatic",
+    "culturalContext": {
+      "title": "Cultural dynamics of Statutory Drafting & Legal Framing Formulations",
+      "scopingMetadata": "Historical, constitutional, and spiritual foundations",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Formulating statutory prohibitions, authorizations, and penalties in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_c1_199_archaic_classical_jussives_suffixes"
+    ],
+    "reviewOfUnitIds": [
+      "unit_b2_197_b2_vantage_capstone_academic_sympos"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Statutory Drafting & Legal Framing Formulations."
+  },
+  {
+    "unitId": "unit_c1_207_constitutional_jurisprudence_capsto",
+    "sectionId": "sec_c1_01_constitutional_law_governance_statutory",
+    "cefrLevel": "C1",
+    "sequencePosition": 207,
+    "title": "Constitutional Jurisprudence Capstone: Bill Analysis",
+    "communicativeTheme": "Conducting complete legislative redrafting of a statutory bill",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Constitutional Jurisprudence Capstone: Bill Analysis.",
+    "primaryCompetencyIds": [
+      "macro_c1_executive_and_legislative"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b2_scholarly_debate_critique"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_c1_03_drafting_executive_decrees",
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "estimatedNewCoreLemmas": 44,
+    "estimatedNewMultiwordExpressions": 12,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 37,
+      "generalPurposeLemmas": 7,
+      "multiwordExpressions": 12
+    },
+    "readingTarget": {
+      "genre": "C1 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "450-750 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "C1 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Rapid authentic native (160+ wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "C1 structured communicative text",
+      "targetLength": "400-650 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "C1 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Conducting complete legislative redrafting of a statutory bill",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Institutional, chancellery & diplomatic",
+    "culturalContext": {
+      "title": "Cultural dynamics of Constitutional Jurisprudence Capstone: Bill Analysis",
+      "scopingMetadata": "Historical, constitutional, and spiritual foundations",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Conducting complete legislative redrafting of a statutory bill in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_c1_206_drafting_executive_ministerial_decr"
+    ],
+    "reviewOfUnitIds": [
+      "unit_c1_204_constitutional_court_jurisprudence_"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Constitutional Jurisprudence Capstone: Bill Analysis."
+  },
+  {
+    "unitId": "unit_c1_214_investigative_financial_journalism_",
+    "sectionId": "sec_c1_02_macroeconomics_mining_international_trade",
+    "cefrLevel": "C1",
+    "sequencePosition": 214,
+    "title": "Investigative Financial Journalism: Auditing Concessions",
+    "communicativeTheme": "Writing investigative exposés on mineral license procurement",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Investigative Financial Journalism: Auditing Concessions.",
+    "primaryCompetencyIds": [
+      "macro_c1_executive_and_legislative"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_b2_commercial_and_analytical"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_c1_07_investigative_journalism_reports"
+    ],
+    "lexicalDomains": [
+      "lex_c1_macroeconomics_mining_infrastructure"
+    ],
+    "estimatedNewCoreLemmas": 42,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 35,
+      "generalPurposeLemmas": 7,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "C1 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "450-750 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "C1 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Rapid authentic native (160+ wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "C1 structured communicative text",
+      "targetLength": "400-650 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "C1 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Writing investigative exposés on mineral license procurement",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Institutional, chancellery & diplomatic",
+    "culturalContext": {
+      "title": "Cultural dynamics of Investigative Financial Journalism: Auditing Concessions",
+      "scopingMetadata": "Historical, constitutional, and spiritual foundations",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Writing investigative exposés on mineral license procurement in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_c1_213_sovereign_wealth_funds_future_herit"
+    ],
+    "reviewOfUnitIds": [
+      "unit_c1_211_rhetorical_inversion_clefting_in_an"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Investigative Financial Journalism: Auditing Concessions."
+  },
+  {
+    "unitId": "unit_c1_221_honorific_nouns_somatic_terms_",
+    "sectionId": "sec_c1_03_diplomacy_geopolitics_epistemic_discourse",
+    "cefrLevel": "C1",
+    "sequencePosition": 221,
+    "title": "Honorific Nouns & Somatic Terms: Мутар, Айлдвар, Соёрхол",
+    "communicativeTheme": "Elevating bodily parts and utterances of revered elders and leaders",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Honorific Nouns & Somatic Terms: Мутар, Айлдвар, Соёрхол.",
+    "primaryCompetencyIds": [
+      "macro_c1_epistemic_and_philosophical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_c1_executive_and_legislative"
+    ],
+    "grammarIntroduced": [
+      "gram_c1_honorific_nouns_and_somatic_terms"
+    ],
+    "grammarReinforced": [
+      "gram_c1_honorific_suppletive_existentials"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_c1_01_honorific_elder_conversations"
+    ],
+    "lexicalDomains": [
+      "lex_c1_diplomacy_geopolitics_foreign_policy"
+    ],
+    "estimatedNewCoreLemmas": 43,
+    "estimatedNewMultiwordExpressions": 14,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 36,
+      "generalPurposeLemmas": 7,
+      "multiwordExpressions": 14
+    },
+    "readingTarget": {
+      "genre": "C1 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "450-750 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "C1 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Rapid authentic native (160+ wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "C1 structured communicative text",
+      "targetLength": "400-650 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "C1 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Elevating bodily parts and utterances of revered elders and leaders",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Institutional, chancellery & diplomatic",
+    "culturalContext": {
+      "title": "Cultural dynamics of Honorific Nouns & Somatic Terms: Мутар, Айлдвар, Соёрхол",
+      "scopingMetadata": "Historical, constitutional, and spiritual foundations",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Elevating bodily parts and utterances of revered elders and leaders in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_c1_220_suppletive_honorific_existentials_"
+    ],
+    "reviewOfUnitIds": [
+      "unit_c1_218_mongolia_s_third_neighbor_foreign_p"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Honorific Nouns & Somatic Terms: Мутар, Айлдвар, Соёрхол."
+  },
+  {
+    "unitId": "unit_c1_227_critical_peer_review_of_scholarly_t",
+    "sectionId": "sec_c1_03_diplomacy_geopolitics_epistemic_discourse",
+    "cefrLevel": "C1",
+    "sequencePosition": 227,
+    "title": "Critical Peer Review of Scholarly Translations",
+    "communicativeTheme": "Evaluating nuances in translations of philosophical and diplomatic texts",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Critical Peer Review of Scholarly Translations.",
+    "primaryCompetencyIds": [
+      "macro_c1_epistemic_and_philosophical"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_c1_executive_and_legislative"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_c1_05_academic_peer_review",
+      "comm_c1_15_literary_translation_evaluation"
+    ],
+    "lexicalDomains": [
+      "lex_c1_academic_philology_mongolistics"
+    ],
+    "estimatedNewCoreLemmas": 44,
+    "estimatedNewMultiwordExpressions": 12,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 37,
+      "generalPurposeLemmas": 7,
+      "multiwordExpressions": 12
+    },
+    "readingTarget": {
+      "genre": "C1 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "450-750 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "C1 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Rapid authentic native (160+ wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "C1 structured communicative text",
+      "targetLength": "400-650 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "C1 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Evaluating nuances in translations of philosophical and diplomatic texts",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Institutional, chancellery & diplomatic",
+    "culturalContext": {
+      "title": "Cultural dynamics of Critical Peer Review of Scholarly Translations",
+      "scopingMetadata": "Historical, constitutional, and spiritual foundations",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Evaluating nuances in translations of philosophical and diplomatic texts in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_c1_226_consecutive_interpreting_support_re"
+    ],
+    "reviewOfUnitIds": [
+      "unit_c1_224_classical_converb_relics_suffixes_"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Critical Peer Review of Scholarly Translations."
+  },
+  {
+    "unitId": "unit_c2_230_conversational_repair_turn_taking_p",
+    "sectionId": "sec_c2_01_contemporary_literature_satire_stylistics",
+    "cefrLevel": "C2",
+    "sequencePosition": 230,
+    "title": "Conversational Repair & Turn-Taking Particles",
+    "communicativeTheme": "Deploying subtle repair markers: нөгөө юу билээ, яалаа, ер нь бол",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Conversational Repair & Turn-Taking Particles.",
+    "primaryCompetencyIds": [
+      "macro_c2_colloquial_and_satirical_virtuosity"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_c1_epistemic_and_philosophical"
+    ],
+    "grammarIntroduced": [
+      "gram_c2_conversational_repair_and_discourse_particles"
+    ],
+    "grammarReinforced": [
+      "gram_c2_rapid_khalkha_spoken_phonotactics"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_c2_02_conversational_repair_turn_taking"
+    ],
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "estimatedNewCoreLemmas": 40,
+    "estimatedNewMultiwordExpressions": 13,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 34,
+      "generalPurposeLemmas": 6,
+      "multiwordExpressions": 13
+    },
+    "readingTarget": {
+      "genre": "C2 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "750-1200 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "C2 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Rapid authentic native (160+ wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "C2 structured communicative text",
+      "targetLength": "650-1000 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "C2 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Deploying subtle repair markers: нөгөө юу билээ, яалаа, ер нь бол",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Supreme stylistic, poetic & ceremonial",
+    "culturalContext": {
+      "title": "Cultural dynamics of Conversational Repair & Turn-Taking Particles",
+      "scopingMetadata": "Historical, constitutional, and spiritual foundations",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Deploying subtle repair markers: нөгөө юу билээ, яалаа, ер нь бол in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_c2_229_rapid_khalkha_spoken_phonotactics_r"
+    ],
+    "reviewOfUnitIds": [
+      "unit_c1_227_critical_peer_review_of_scholarly_t"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Conversational Repair & Turn-Taking Particles."
+  },
+  {
+    "unitId": "unit_c2_236_pan_mongolian_dialectal_morphosynta",
+    "sectionId": "sec_c2_01_contemporary_literature_satire_stylistics",
+    "cefrLevel": "C2",
+    "sequencePosition": 236,
+    "title": "Pan-Mongolian Dialectal Morphosyntax & Phonetics",
+    "communicativeTheme": "Comprehending Buriat, Kalmyk, Oirat, and Chahar varieties",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Pan-Mongolian Dialectal Morphosyntax & Phonetics.",
+    "primaryCompetencyIds": [
+      "macro_c2_colloquial_and_satirical_virtuosity"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_c1_epistemic_and_philosophical"
+    ],
+    "grammarIntroduced": [
+      "gram_c2_dialectal_morphosyntax_awareness"
+    ],
+    "grammarReinforced": [
+      "gram_c2_literary_polyphony_and_indirect_interior_monologue"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_c2_14_pan_mongolian_dialect_comprehension"
+    ],
+    "lexicalDomains": [
+      "lex_c1_academic_philology_mongolistics"
+    ],
+    "estimatedNewCoreLemmas": 41,
+    "estimatedNewMultiwordExpressions": 15,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 35,
+      "generalPurposeLemmas": 6,
+      "multiwordExpressions": 15
+    },
+    "readingTarget": {
+      "genre": "C2 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "750-1200 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "C2 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Rapid authentic native (160+ wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "C2 structured communicative text",
+      "targetLength": "650-1000 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "C2 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Comprehending Buriat, Kalmyk, Oirat, and Chahar varieties",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Supreme stylistic, poetic & ceremonial",
+    "culturalContext": {
+      "title": "Cultural dynamics of Pan-Mongolian Dialectal Morphosyntax & Phonetics",
+      "scopingMetadata": "Historical, constitutional, and spiritual foundations",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Comprehending Buriat, Kalmyk, Oirat, and Chahar varieties in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_c2_235_literary_polyphony_interior_monolog"
+    ],
+    "reviewOfUnitIds": [
+      "unit_c2_233_somatic_steppe_metaphors_liver_gall"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Pan-Mongolian Dialectal Morphosyntax & Phonetics."
+  },
+  {
+    "unitId": "unit_c2_242_chinggis_khaan_jamukha_the_oath_of_",
+    "sectionId": "sec_c2_02_secret_history_classical_mongolian_philology",
+    "cefrLevel": "C2",
+    "sequencePosition": 242,
+    "title": "Chinggis Khaan & Jamukha: The Oath of Anda (Brothers)",
+    "communicativeTheme": "Textual parsing of dialogue on steppe brotherhood, betrayal, and honor",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Chinggis Khaan & Jamukha: The Oath of Anda (Brothers).",
+    "primaryCompetencyIds": [
+      "macro_c2_poetic_philological_heritage"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_c1_academic_philology_mongolistics"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_c2_10_secret_history_philological_reading"
+    ],
+    "lexicalDomains": [
+      "lex_c2_classical_literature_secret_history"
+    ],
+    "estimatedNewCoreLemmas": 44,
+    "estimatedNewMultiwordExpressions": 12,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 38,
+      "generalPurposeLemmas": 6,
+      "multiwordExpressions": 12
+    },
+    "readingTarget": {
+      "genre": "C2 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "750-1200 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "C2 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Rapid authentic native (160+ wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "C2 structured communicative text",
+      "targetLength": "650-1000 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "C2 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Textual parsing of dialogue on steppe brotherhood, betrayal, and honor",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Supreme stylistic, poetic & ceremonial",
+    "culturalContext": {
+      "title": "Cultural dynamics of Chinggis Khaan & Jamukha: The Oath of Anda (Brothers)",
+      "scopingMetadata": "Historical, constitutional, and spiritual foundations",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Textual parsing of dialogue on steppe brotherhood, betrayal, and honor in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_c2_241_the_alan_qo_a_parable_of_the_five_a"
+    ],
+    "reviewOfUnitIds": [
+      "unit_c2_239_classical_epic_syntax_in_the_secret"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Chinggis Khaan & Jamukha: The Oath of Anda (Brothers)."
+  },
+  {
+    "unitId": "unit_c2_248_poetic_parallelism_head_alliteratio",
+    "sectionId": "sec_c2_03_gnomic_wisdom_epics_ceremonial_tengrism",
+    "cefrLevel": "C2",
+    "sequencePosition": 248,
+    "title": "Poetic Parallelism & Head Alliteration (Толгой Холбох Ёс)",
+    "communicativeTheme": "Mastering the four-line initial alliterative meter of Mongolian verse",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Poetic Parallelism & Head Alliteration (Толгой Холбох Ёс).",
+    "primaryCompetencyIds": [
+      "macro_c2_poetic_philological_heritage"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_c2_colloquial_and_satirical_virtuosity"
+    ],
+    "grammarIntroduced": [
+      "gram_c2_rhetorical_parallelism_alliteration"
+    ],
+    "grammarReinforced": [
+      "gram_c2_proverbial_syntactic_compression"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_c2_09_metric_alliterative_poetry"
+    ],
+    "lexicalDomains": [
+      "lex_c2_gnomic_wisdom_proverbs_rhetoric"
+    ],
+    "estimatedNewCoreLemmas": 42,
+    "estimatedNewMultiwordExpressions": 14,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 35,
+      "generalPurposeLemmas": 7,
+      "multiwordExpressions": 14
+    },
+    "readingTarget": {
+      "genre": "C2 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "750-1200 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "C2 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Rapid authentic native (160+ wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "C2 structured communicative text",
+      "targetLength": "650-1000 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "C2 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Mastering the four-line initial alliterative meter of Mongolian verse",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Supreme stylistic, poetic & ceremonial",
+    "culturalContext": {
+      "title": "Cultural dynamics of Poetic Parallelism & Head Alliteration (Толгой Холбох Ёс)",
+      "scopingMetadata": "Historical, constitutional, and spiritual foundations",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Mastering the four-line initial alliterative meter of Mongolian verse in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_c2_247_gnomic_wisdom_traditional_proverbs_"
+    ],
+    "reviewOfUnitIds": [
+      "unit_c2_245_classical_inscriptions_the_stele_of"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Poetic Parallelism & Head Alliteration (Толгой Холбох Ёс)."
+  },
+  {
+    "unitId": "unit_c2_254_tengrist_cosmology_munkh_tenger_et_",
+    "sectionId": "sec_c2_03_gnomic_wisdom_epics_ceremonial_tengrism",
+    "cefrLevel": "C2",
+    "sequencePosition": 254,
+    "title": "Tengrist Cosmology: Munkh Tenger & Etügen Mother Earth",
+    "communicativeTheme": "Philosophical exploration of the eternal blue sky and ecological ethics",
+    "primaryLearningPurpose": "Master communicative strategies and morphosyntax for: Tengrist Cosmology: Munkh Tenger & Etügen Mother Earth.",
+    "primaryCompetencyIds": [
+      "macro_c2_poetic_philological_heritage"
+    ],
+    "secondaryReviewCompetencyIds": [
+      "macro_c2_colloquial_and_satirical_virtuosity"
+    ],
+    "grammarIntroduced": [],
+    "grammarReinforced": [
+      "gram_c2_praise_poetry_cataloguing_syntax"
+    ],
+    "phonologyTargets": [],
+    "communicativeFunctions": [
+      "comm_c2_11_ceremonial_blessings_performance"
+    ],
+    "lexicalDomains": [
+      "lex_c2_philosophy_tengrism_buddhism"
+    ],
+    "estimatedNewCoreLemmas": 43,
+    "estimatedNewMultiwordExpressions": 16,
+    "lexicalBreakdown": {
+      "domainSpecificLemmas": 36,
+      "generalPurposeLemmas": 7,
+      "multiwordExpressions": 16
+    },
+    "readingTarget": {
+      "genre": "C2 authentic texts, dialogue scripts, and public media",
+      "textLengthWords": "750-1200 words",
+      "targetSkills": [
+        "Gist extraction",
+        "Specific detail scanning",
+        "Syntactic role parsing"
+      ]
+    },
+    "listeningTarget": {
+      "genre": "C2 spoken dialogues, instructions, and authentic media",
+      "speechRate": "Rapid authentic native (160+ wpm)",
+      "audioSuitability": "native_speaker_preferred",
+      "targetSkills": [
+        "Key information identification",
+        "Prosodic boundary detection",
+        "Speaker stance discernment"
+      ]
+    },
+    "writingTarget": {
+      "genre": "C2 structured communicative text",
+      "targetLength": "650-1000 words",
+      "targetSkills": [
+        "Grammatical accuracy",
+        "Appropriate register markers",
+        "Cohesive paragraph flow"
+      ]
+    },
+    "spokenProductionTarget": {
+      "genre": "C2 interactive oral exchange and presentation",
+      "targetTask": "Engage in communicative task related to: Philosophical exploration of the eternal blue sky and ecological ethics",
+      "targetSkills": [
+        "Turn-taking agility",
+        "Accurate phonological phrasing",
+        "Spontaneous lexical retrieval"
+      ]
+    },
+    "registerTarget": "Supreme stylistic, poetic & ceremonial",
+    "culturalContext": {
+      "title": "Cultural dynamics of Tengrist Cosmology: Munkh Tenger & Etügen Mother Earth",
+      "scopingMetadata": "Historical, constitutional, and spiritual foundations",
+      "integrationDetails": "Cultural considerations and etiquette relevant to Philosophical exploration of the eternal blue sky and ecological ethics in modern Mongolia."
+    },
+    "prerequisiteUnitIds": [
+      "unit_c2_253_praise_poetry_steppe_steeds_sacred_"
+    ],
+    "reviewOfUnitIds": [
+      "unit_c2_251_the_epic_of_geser_steppe_chivalry_c"
+    ],
+    "futureDependencyHints": [],
+    "unitOutcome": "Learners successfully master the vocabulary, structures, and interactional norms of: Tengrist Cosmology: Munkh Tenger & Etügen Mother Earth."
+  }
+]

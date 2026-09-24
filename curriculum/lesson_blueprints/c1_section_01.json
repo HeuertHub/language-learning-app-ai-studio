@@ -1,0 +1,3549 @@
+[
+  {
+    "lessonId": "les_c1_198_01_administrative_chancellery_syntax_intro",
+    "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosyntax: Administrative Chancellery Architecture & Complex Nominal Embeddings",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the syntactic architecture of formal state chancellery Mongolian, characterized by multi-tiered participial nominalizations, genitive agent embeddings, and preposed non-finite clausal modifiers preceding statutory head nouns.",
+    "communicativeOutcome": "Deconstruct and parse high-register legal sentences exceeding 40 words, isolating the main statutory predicate from nested institutional subordinate clauses without ambiguity.",
+    "objectivesIntroduced": [
+      "obj_c1_198_01_parse_chancellery_nominalizations"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_b2_191_01_identify_genitive_subject_alternation"
+    ],
+    "grammarIntroduced": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarPracticed": [
+      "gram_b2_participle_relative_subject_genitive_alternation"
+    ],
+    "grammarReviewed": [
+      "gram_b1_reported_speech_indirect_tense_shift"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "үндсэн хууль",
+      "төрийн байгуулал",
+      "бүрэн эрх",
+      "засаглал",
+      "хууль тогтоох",
+      "шүүх засаглал"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "state chancellery statutory",
+    "pragmaticTarget": "institutional legal authority",
+    "prerequisiteLessonIds": [
+      "les_b2_197_06_b2_vantage_culminating_academic_capstone"
+    ],
+    "reviewsLessonIds": [
+      "les_b2_191_01_relative_subject_case_alternation_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b2_191_relative_clause_subject_genitive_no"
+    ],
+    "reviewReason": "Extends B2 genitive-nominative relative clause subject alternation directly into complex state constitutional syntax.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Accurately maps the dependency hierarchy in statutory clauses containing triple-nested participial modifiers",
+      "Distinguishes the governing judicial predicate from descriptive subordinate criteria in constitutional articles"
+    ],
+    "masteryEvidence": "Diagrams and translates the syntactic structure of a 45-word constitutional article into plain analytical discourse without losing deontic force.",
+    "recommendedExerciseModalities": [
+      "discourse_analysis",
+      "sentence_reordering"
+    ]
+  },
+  {
+    "lessonId": "les_c1_198_02_constitutional_articles_parsing_reading",
+    "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 2,
+    "title": "Statutory Reading: Sovereign Rights & Constitutional Separation of Powers",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an unabridged 520-word excerpt from Chapter 1 and Chapter 3 of the 1992 Democratic Constitution of Mongolia, examining sovereign rights declarations, parliamentary prerogatives, and executive checks.",
+    "communicativeOutcome": "Extract precise institutional boundaries, statutory caveats, and legislative checks from authoritative constitutional articles.",
+    "objectivesIntroduced": [
+      "obj_c1_198_02_interpret_constitutional_declarations"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_198_01_parse_chancellery_nominalizations"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_b2_modal_complex_obligation_uchirtai"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_02_parliamentary_interpellation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "төрийн тэргүүн",
+      "парламент",
+      "хууль зүйн хороо",
+      "халдашгүй дархан байдал"
+    ],
+    "readingObjective": "Analyze complex constitutional provisions detailing the division of executive, legislative, and judicial sovereignty.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "constitutional judicial",
+    "pragmaticTarget": "statutory exegesis",
+    "prerequisiteLessonIds": [
+      "les_c1_198_01_administrative_chancellery_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_b2_190_01_complex_obligation_uchirtai_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b2_190_complex_modal_obligation_the_modal_"
+    ],
+    "reviewReason": "Synthesizes teleological obligation markers with constitutional mandate formulations.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies the precise constitutional conditions under which the President may veto parliamentary statutes",
+      "Extracts the legal distinction between supreme state power and delegated executive administration"
+    ],
+    "masteryEvidence": "Answers 4 complex analytical queries comparing Mongolian separation of powers against semi-presidential systems based on text citations.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "claim_evidence_matching"
+    ]
+  },
+  {
+    "lessonId": "les_c1_198_03_sovereign_rights_commentary_writing",
+    "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 3,
+    "title": "Legal Commentary Writing: Jurisprudential Analysis of Article 16 Fundamental Rights",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 420-word scholarly legal commentary analyzing the scope and limitations of citizen fundamental rights under Article 16 of the Constitution, deploying state chancellery syntax.",
+    "communicativeOutcome": "Produce rigorous juristic prose evaluating how constitutional rights are balanced against public security and statutory limitations.",
+    "objectivesIntroduced": [
+      "obj_c1_198_03_author_juristic_commentary"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_198_01_parse_chancellery_nominalizations"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_b2_voice_stacking_causative_passive"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_13_scholarly_synthesis"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "иргэний эрх",
+      "эрх чөлөө",
+      "үндэсний аюулгүй байдал",
+      "хязгаарлалт",
+      "хууль дээдлэх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft an authoritative legal commentary structuring constitutional arguments with multi-tiered nominalizations and formal syntactic connectors.",
+    "spokenProductionObjective": "",
+    "registerTarget": "academic juristic chancellery",
+    "pragmaticTarget": "principled constitutional reasoning",
+    "prerequisiteLessonIds": [
+      "les_c1_198_02_constitutional_articles_parsing_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b2_197_04_strategic_academic_consultation_brief_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_b2_197_b2_vantage_capstone_academic_sympos"
+    ],
+    "reviewReason": "Bridges B2 strategic consultation brief composition into formal constitutional law commentary.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Structures arguments with clear distinction between unalienable rights and statutory regulatory reservations",
+      "Deploys at least 4 complex participial nominalization constructions without syntactic breakdown"
+    ],
+    "masteryEvidence": "Submits a 420-word legal analysis of property rights and mineral wealth ownership under Article 6 adhering to chancellery style.",
+    "recommendedExerciseModalities": [
+      "summary_writing",
+      "paragraph_reconstruction"
+    ]
+  },
+  {
+    "lessonId": "les_c1_198_04_constitutional_order_deliberation_spoken",
+    "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 4,
+    "title": "Deliberative Speaking: Defending Constitutional Balances in Judicial Reform",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Engage in an advanced 4-minute spoken juristic defense of constitutional checks and balances during proposed amendments to the Law on Courts.",
+    "communicativeOutcome": "Articulate nuanced constitutional principles orally, refuting unconstitutional executive encroachment with measured diplomatic authority.",
+    "objectivesIntroduced": [
+      "obj_c1_198_04_defend_constitutional_integrity_orally"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_198_01_parse_chancellery_nominalizations"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_b2_conditionals_hypothetical_present"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "шүүхийн хараат бус байдал",
+      "шүүгчийн халдашгүй эрх",
+      "хууль зүйн үр дагавар"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Deliver an unscripted, authoritative oral argumentation analyzing the constitutional validity of proposed judicial oversight reforms.",
+    "registerTarget": "formal parliamentary judicial",
+    "pragmaticTarget": "firm diplomatic contestation",
+    "prerequisiteLessonIds": [
+      "les_c1_198_03_sovereign_rights_commentary_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_b2_189_01_hypothetical_conditionals_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b2_189_hypothetical_conditionals_in_academ"
+    ],
+    "reviewReason": "Applies B2 hypothetical conditionals (-вал... болохсон) to test constitutional counterfactuals during oral argumentation.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide high-register courtroom oral argumentation model demonstrating judicial pacing and controlled oratorical pauses.",
+    "successCriteria": [
+      "Refutes executive overreach proposals by directly citing constitutional sovereignty articles without colloquialisms",
+      "Maintains controlled oratorical cadence (130-150 wpm) with precise juristic vocabulary"
+    ],
+    "masteryEvidence": "Performs a 4-minute simulated testimony before the Parliamentary Legal Standing Committee defending judicial independence.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_198_05_parliamentary_debates_on_basic_law_listening",
+    "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 5,
+    "title": "Acoustic Dissection: Authentic 1991–1992 Constitutional Drafting Debates",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4-minute historical audio recording of the People's Great Khural (Ардын Их Хурал) plenary session debating the balance between state symbols, human rights, and the presidency.",
+    "communicativeOutcome": "Comprehend elevated historical political oratory delivered at natural speed (155-175 wpm), tracking diverging philosophies on state sovereignty.",
+    "objectivesIntroduced": [
+      "obj_c1_198_05_comprehend_historical_parliamentary_debates"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_198_01_parse_chancellery_nominalizations"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_b2_discourse_focus_particles_l_ch"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_02_parliamentary_interpellation"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "ардын их хурал",
+      "депутат",
+      "төрийн сүлд",
+      "түүхэн уламжлал",
+      "тусгаар тогтнол"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Extract competing constitutional drafting positions, ideological premises, and rhetorical appeals from archival parliamentary debates.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "historical oratorical parliamentary",
+    "pragmaticTarget": "historical debate exegesis",
+    "prerequisiteLessonIds": [
+      "les_c1_198_02_constitutional_articles_parsing_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_b2_184_01_limiting_scalar_particles_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b2_184_focus_particles_and_scalar_pragmati"
+    ],
+    "reviewReason": "Scrutinizes how scalar particles (ч, л) alter political stance during intense historical legislative votes.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic uncleaned historical plenary recording with acoustic background resonance of the Government House chamber.",
+    "successCriteria": [
+      "Identifies the precise ideological divergence between advocates of a parliamentary system versus a strong presidential model",
+      "Transcribes nuanced archaic and formal legislative expressions spoken under emotional debate conditions"
+    ],
+    "masteryEvidence": "Synthesizes the core points of dispute from three distinct deputy speeches and charts their final resolution into the adopted text.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "stance_identification"
+    ]
+  },
+  {
+    "lessonId": "les_c1_199_01_archaic_jussive_syntax_intro",
+    "unitId": "unit_c1_199_archaic_classical_jussives_suffixes",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosyntax: Archaic & Classical Jussive Suffixes -сугай/-сүгэй & -тугай/-түгэй",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the syntactic formation, archaic morphological conditioning, and sovereign performative force of 1st person (-сугай/-сүгэй 'I/we shall hereby') and 3rd person (-тугай/-түгэй 'let it be / may it be enacted') classical jussive suffixes.",
+    "communicativeOutcome": "Deploy formulaic classical jussive suffixes correctly in formal legislative enactments, decree promulgations, and state ceremonial resolutions.",
+    "objectivesIntroduced": [
+      "obj_c1_199_01_master_classical_jussives"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_c1_198_01_parse_chancellery_nominalizations"
+    ],
+    "grammarIntroduced": [
+      "gram_c1_archaic_jussive_sugai_tugai"
+    ],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_b2_modal_complex_obligation_uchirtai"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "зарлиг",
+      "тогтоол",
+      "батлах",
+      "хэрэгжүүлэх",
+      "мөрдөх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "classical state chancellery",
+    "pragmaticTarget": "sovereign promulgation",
+    "prerequisiteLessonIds": [
+      "les_c1_198_03_sovereign_rights_commentary_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_198_01_administrative_chancellery_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_198_the_1992_democratic_constitution_of"
+    ],
+    "reviewReason": "Integrates archaic jussive modal heads into state administrative chancellery sentences.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Applies vowel harmony correctly to attach -сугай/-сүгэй and -тугай/-түгэй to diverse verb stems",
+      "Distinguishes performative legal enactments ('тогтоосугай') from descriptive future obligations ('тогтооно')"
+    ],
+    "masteryEvidence": "Converts 5 modern administrative commands into authoritative classical decree enactments without error.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c1_199_02_presidential_decree_preambles_reading",
+    "unitId": "unit_c1_199_archaic_classical_jussives_suffixes",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 2,
+    "title": "Chancellery Reading: Presidential Decrees & Classical Promulgation Preambles",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an authentic 480-word Presidential Decree (Монгол Улсын Ерөнхийлөгчийн Зарлиг) conferring state honors and enacting national directives using classical jussives.",
+    "communicativeOutcome": "Comprehend state ceremonial decrees, analyzing how constitutional justification preambles transition into binding jussive operative clauses.",
+    "objectivesIntroduced": [
+      "obj_c1_199_02_parse_presidential_decrees"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_199_01_master_classical_jussives"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_archaic_jussive_sugai_tugai"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "шагнал",
+      "цол",
+      "соёрхох",
+      "үндэслэл",
+      "хүчин төгөлдөр"
+    ],
+    "readingObjective": "Analyze the formulaic rhetorical architecture of state decrees linking constitutional authorizations to operative commands.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "presidential ceremonial chancellery",
+    "pragmaticTarget": "formal state validation",
+    "prerequisiteLessonIds": [
+      "les_c1_199_01_archaic_jussive_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_198_02_constitutional_articles_parsing_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_198_the_1992_democratic_constitution_of"
+    ],
+    "reviewReason": "Traces constitutional authority clauses directly into executive presidential decree formulations.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Extracts the constitutional statutory basis authorizing the decree from the preamble participial clause",
+      "Identifies the exact legal duties assigned to executive agencies in the operative jussive clauses"
+    ],
+    "masteryEvidence": "Summarizes the legal scope and ministerial duties established by a 480-word presidential decree with complete accuracy.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "claim_evidence_matching"
+    ]
+  },
+  {
+    "lessonId": "les_c1_199_03_drafting_statutory_enactments_writing",
+    "unitId": "unit_c1_199_archaic_classical_jussives_suffixes",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 3,
+    "title": "Legislative Drafting: Operative Clauses & Formal Enactment Decrees",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 400-word formal Government Resolution (Засгийн газрын тогтоол) or statutory enactment deploying classical jussives ('тушаасугай', 'даалгасугай', 'мөрдсүгэй').",
+    "communicativeOutcome": "Produce legally binding chancellery text matching official Mongolian Government gazette publishing standards.",
+    "objectivesIntroduced": [
+      "obj_c1_199_03_draft_binding_enactments"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_199_01_master_classical_jussives"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_archaic_jussive_sugai_tugai"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "захирамж",
+      "үүрэг болгох",
+      "хяналт тавих",
+      "төсөв хуваарилах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft a multi-clause administrative resolution specifying enforcement timelines, responsible ministers, and audit criteria.",
+    "spokenProductionObjective": "",
+    "registerTarget": "state legislative chancellery",
+    "pragmaticTarget": "deontic legislative mandate",
+    "prerequisiteLessonIds": [
+      "les_c1_199_02_presidential_decree_preambles_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_198_03_sovereign_rights_commentary_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_198_the_1992_democratic_constitution_of"
+    ],
+    "reviewReason": "Synthesizes constitutional commentary principles into operative legislative decree drafting.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Constructs a four-article resolution with flawless preamble citations and operative jussive predicates",
+      "Avoids colloquial imperative or conversational modal structures throughout the drafting"
+    ],
+    "masteryEvidence": "Submits a compliant Government resolution establishing a state conservation agency adhering to official Gazette protocol.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c1_199_04_state_ceremonial_proclamations_spoken",
+    "unitId": "unit_c1_199_archaic_classical_jussives_suffixes",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 4,
+    "title": "Ceremonial Oratory: Delivering State Proclamations & Investiture Decrees",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver a 3.5-minute formal oral proclamation of a state decree conferring national honors or promulgating a solemn public statute.",
+    "communicativeOutcome": "Execute solemn, measured ceremonial oratory adhering to state protocol cadence (120-140 wpm) with impeccable phonological phrasing.",
+    "objectivesIntroduced": [
+      "obj_c1_199_04_recite_state_proclamations"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_199_01_master_classical_jussives"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_archaic_jussive_sugai_tugai"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_13_scholarly_synthesis"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "хүндэтгэл",
+      "ёслол",
+      "уншиж сонсгох",
+      "төрийн дуулал"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Recite a state ceremonial investiture proclamation with gravitas, precise vowel quantities, and authoritative terminal falling intonation.",
+    "registerTarget": "state ceremonial oratorical",
+    "pragmaticTarget": "solemn investiture",
+    "prerequisiteLessonIds": [
+      "les_c1_199_03_drafting_statutory_enactments_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_b2_197_05_world_congress_plenary_speech"
+    ],
+    "reviewsUnitIds": [
+      "unit_b2_197_b2_vantage_capstone_academic_sympos"
+    ],
+    "reviewReason": "Bridges B2 academic plenary oration into solemn C1 state ceremonial proclamation cadence.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide benchmark recording of Chief of Staff of the President reading state awards decree at the State Ceremonial Hall.",
+    "successCriteria": [
+      "Articulates archaic suffixes (-сугай/-сүгэй, -тугай/-түгэй) with resonant solemnity without stumbling",
+      "Executes deliberate pauses separating preamble grounds from operational mandates"
+    ],
+    "masteryEvidence": "Records a flawless 3-minute oral delivery of a national proclamation broadcast simulation.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "reformulation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_199_05_oath_taking_and_promulgation_listening",
+    "unitId": "unit_c1_199_archaic_classical_jussives_suffixes",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 5,
+    "title": "Acoustic Dissection: Presidential Inauguration Oath & Promulgation Ceremonies",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4-minute unedited broadcast of the Presidential Inauguration Ceremony in the State Great Khural, analyzing the solemn oath of office and decree promulgations.",
+    "communicativeOutcome": "Process highly stylized archaic and formal juristic vows delivered in ceremonial acoustics with 100% conceptual precision.",
+    "objectivesIntroduced": [
+      "obj_c1_199_05_comprehend_state_oaths"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_199_01_master_classical_jussives"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_archaic_jussive_sugai_tugai"
+    ],
+    "grammarReviewed": [
+      "gram_b2_indirect_discourse_framing_verbs"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_02_parliamentary_interpellation"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "тангараг өргөх",
+      "төрийн далбаа",
+      "адислах",
+      "үнэнч байх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Comprehend formulaic constitutional vows and formal presidential pledges spoken under live ceremonial conditions.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "state ceremonial constitutional",
+    "pragmaticTarget": "sacred public commitment",
+    "prerequisiteLessonIds": [
+      "les_c1_199_02_presidential_decree_preambles_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_198_05_parliamentary_debates_on_basic_law_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_198_the_1992_democratic_constitution_of"
+    ],
+    "reviewReason": "Links parliamentary debate listening into solemn constitutional investiture ceremonies.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide live broadcast recording of the oath-taking ceremony in the Great Hall of the State Great Khural.",
+    "successCriteria": [
+      "Transcribes the exact phrasing of the presidential constitutional oath without missing archaic legal formulas",
+      "Identifies the ceremonial turn transitions between the Speaker of Parliament and the President-elect"
+    ],
+    "masteryEvidence": "Analyzes and contrasts the archaic rhetorical formulas in the oath with standard contemporary legal prose.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c1_200_01_legal_statutory_framing_syntax_intro",
+    "unitId": "unit_c1_200_statutory_drafting_legal_framing_fo",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosyntax: Statutory Framing Formulations & Deontic Legislative Modifiers",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the specialized morphosyntactic framing conventions of Mongolian statutory drafting: obligation predicates ('үүрэг хүлээнэ', 'үүрэгтэй'), entitlement formulas ('эрх эдэлнэ', 'эрхтэй'), prohibitive prohibitions ('хориглоно', 'үл зөвшөөрнө'), and conditional scope boundaries.",
+    "communicativeOutcome": "Distinguish and deploy rigorous deontic legislative formulas that establish enforceable legal rights and duties without semantic ambiguity.",
+    "objectivesIntroduced": [
+      "obj_c1_200_01_master_statutory_framing"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_c1_199_01_master_classical_jussives"
+    ],
+    "grammarIntroduced": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_b2_modal_complex_obligation_uchirtai"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "хуулийн заалт",
+      "хэм хэмжээ",
+      "зохицуулалт",
+      "хариуцлага",
+      "зөрчил"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "statutory codification",
+    "pragmaticTarget": "normative legal precision",
+    "prerequisiteLessonIds": [
+      "les_c1_199_03_drafting_statutory_enactments_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_198_01_administrative_chancellery_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_198_the_1992_democratic_constitution_of"
+    ],
+    "reviewReason": "Consolidates chancellery syntax into precise normative statutory article framing formulas.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Differentiates between mandatory obligations ('үүрэгтэй'), discretionary permissions ('эрхтэй'), and strict statutory prohibitions ('хориглоно')",
+      "Structures conditional statutory sub-clauses with clear scope demarcation"
+    ],
+    "masteryEvidence": "Drafts 5 distinct statutory provisions correctly assigning rights, duties, and penal triggers according to Mongolian legislative standards.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c1_200_02_statutory_articles_subclauses_reading",
+    "unitId": "unit_c1_200_statutory_drafting_legal_framing_fo",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 2,
+    "title": "Statutory Reading: Legislative Code Architecture & Penalty Clauses",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse a 500-word extract from the Mongolian Civil Code and Law on Administrative Infractions, scrutinizing definitions, general provisions, exceptions, and sanctions.",
+    "communicativeOutcome": "Trace cross-references, exclusionary clauses, and administrative sanction mechanisms across interwoven statutory articles.",
+    "objectivesIntroduced": [
+      "obj_c1_200_02_parse_statutory_codes"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_200_01_master_statutory_framing"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "иргэний хууль",
+      "зөрчлийн хууль",
+      "торгууль",
+      "шийтгэл",
+      "нөхөн төлбөр"
+    ],
+    "readingObjective": "Navigate multi-tiered statutory codes, evaluating how exceptions ('энэ хуулийн ...-д зааснаас бусад тохиолдолд') modify default norms.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "statutory codification",
+    "pragmaticTarget": "statutory boundary demarcation",
+    "prerequisiteLessonIds": [
+      "les_c1_200_01_legal_statutory_framing_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_198_02_constitutional_articles_parsing_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_198_the_1992_democratic_constitution_of"
+    ],
+    "reviewReason": "Extends constitutional rights reading into subordinate statutory code structure and penal enforcement.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies how statutory exclusions qualify primary legal duties in contested liability cases",
+      "Maps legal consequences tied to breach of specific subclauses without misinterpreting statutory references"
+    ],
+    "masteryEvidence": "Solves a complex legal scenario problem by applying 3 interrelated articles of the Civil Code accurately.",
+    "recommendedExerciseModalities": [
+      "claim_evidence_matching",
+      "source_comparison"
+    ]
+  },
+  {
+    "lessonId": "les_c1_200_03_statutory_amendment_provisions_writing",
+    "unitId": "unit_c1_200_statutory_drafting_legal_framing_fo",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 3,
+    "title": "Legislative Drafting: Statutory Amendment Bill & Transitional Provisions",
+    "lessonType": "writing",
+    "primaryPurpose": "Draft a 420-word formal legislative amendment bill ('Хуульд нэмэлт, өөрчлөлт оруулах тухай хуулийн төсөл') complete with enacting formulas, amended clauses, and transitional enforcement timelines.",
+    "communicativeOutcome": "Author legislative text adhering strictly to the Law on Legislation of Mongolia (Хууль тогтоомжийн тухай хууль).",
+    "objectivesIntroduced": [
+      "obj_c1_200_03_author_statutory_bills"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_200_01_master_statutory_framing"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "төсөл",
+      "нэмэлт өөрчлөлт",
+      "хүчингүй болгох",
+      "дагаж мөрдөх журам"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft an official parliamentary amendment bill introducing specific regulatory modifications with flawless statutory phrasing.",
+    "spokenProductionObjective": "",
+    "registerTarget": "statutory legislative",
+    "pragmaticTarget": "formal lawmaking enactment",
+    "prerequisiteLessonIds": [
+      "les_c1_200_02_statutory_articles_subclauses_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_199_03_drafting_statutory_enactments_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_199_archaic_classical_jussives_suffixes"
+    ],
+    "reviewReason": "Builds upon government decree drafting to master full parliamentary statutory amendment bills.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Formats amendment articles ('... хуулийн ... дүгээр зүйлийн ... дахь хэсгийг доор дурдсанаар өөрчлөн найруулсугай') flawlessly",
+      "Includes precise transitional enforcement provisions ensuring legal continuity"
+    ],
+    "masteryEvidence": "Submits a complete 3-article draft amendment bill revising renewable energy concessions conforming to ministry submission standards.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "paragraph_reconstruction"
+    ]
+  },
+  {
+    "lessonId": "les_c1_200_04_legislative_drafting_defense_spoken",
+    "unitId": "unit_c1_200_statutory_drafting_legal_framing_fo",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 4,
+    "title": "Legislative Advocacy: Defending Bill Provisions in Standing Committee Hearings",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver a 4-minute spoken defense of a draft statutory amendment before the Parliamentary Standing Committee on Legal Affairs, justifying legal necessity and regulatory coherence.",
+    "communicativeOutcome": "Present and defend legislative definitions and legal remedies against skepticism from committee MPs with precision and composure.",
+    "objectivesIntroduced": [
+      "obj_c1_200_04_defend_bill_provisions_orally"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_200_01_master_statutory_framing"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "grammarReviewed": [
+      "gram_b2_conditionals_hypothetical_present"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_02_parliamentary_interpellation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "байнгын хороо",
+      "хэлэлцүүлэг",
+      "үзэл баримтлал",
+      "үр нөлөө"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Argue persuasively for the adoption of legislative articles, articulating statutory rationale and fielding critical parliamentary queries.",
+    "registerTarget": "parliamentary legislative formal",
+    "pragmaticTarget": "persuasive statutory justification",
+    "prerequisiteLessonIds": [
+      "les_c1_200_03_statutory_amendment_provisions_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_198_04_constitutional_order_deliberation_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_198_the_1992_democratic_constitution_of"
+    ],
+    "reviewReason": "Deepens oral constitutional defense into granular statutory clause justification.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide parliamentary standing committee testimony model featuring structured clause defense and MP questioning.",
+    "successCriteria": [
+      "Articulates legal necessity using statutory framing terminology without colloquial approximations",
+      "Responds directly to procedural challenges citing specific articles of the Law on Legislation"
+    ],
+    "masteryEvidence": "Defends a controversial amendment during a simulated 4-minute committee debate with rigorous juristic rationale.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_200_05_standing_committee_statutory_debate_listening",
+    "unitId": "unit_c1_200_statutory_drafting_legal_framing_fo",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 5,
+    "title": "Acoustic Dissection: Parliamentary Committee Clause-by-Clause Review Session",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4-minute authentic audio recording of a parliamentary standing committee conducting a clause-by-clause reading of a commercial statute.",
+    "communicativeOutcome": "Comprehend technical legislative amendments proposed on the fly by lawmakers speaking rapidly (150-170 wpm) amidst parliamentary cross-talk.",
+    "objectivesIntroduced": [
+      "obj_c1_200_05_comprehend_clause_review_debates"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_200_01_master_statutory_framing"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_02_parliamentary_interpellation"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "зарчмын зөрүүтэй санал",
+      "санал хураалт",
+      "дэмжих",
+      "татгалзах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Track fast-paced parliamentary drafting exchanges, identifying textual alterations, vote calls, and committee chair rulings.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "parliamentary technical legislative",
+    "pragmaticTarget": "procedural debate tracking",
+    "prerequisiteLessonIds": [
+      "les_c1_200_02_statutory_articles_subclauses_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_198_05_parliamentary_debates_on_basic_law_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_198_the_1992_democratic_constitution_of"
+    ],
+    "reviewReason": "Transitions from plenary constitutional debates to technical clause-by-clause legislative drafting reviews.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide live committee room recording containing rapid procedural exchanges, microphone rustle, and technical amendments.",
+    "successCriteria": [
+      "Transcribes the exact wording of a proposed substantive amendment ('зарчмын зөрүүтэй санал') amidst noisy audio",
+      "Determines whether the committee vote approved or rejected the amended phrasing"
+    ],
+    "masteryEvidence": "Produces an accurate legislative markup tracking 3 specific wording modifications adopted during the committee session.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "stance_identification"
+    ]
+  },
+  {
+    "lessonId": "les_c1_201_01_complex_appositive_titles_syntax_intro",
+    "unitId": "unit_c1_201_appositive_titles_epithets_chancell",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosyntax: Elaborate Appositive Titles, Diplomatic Epithets & Chancellery Preambles",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the syntactic mechanics of multi-word appositive titles, state honorific epithets ('Онц бөгөөд Бүрэн эрхт', 'Эрхэмсэг ноён/хатагтай'), and chancellery preambular framing preceding diplomatic and state correspondence.",
+    "communicativeOutcome": "Construct and parse elaborate chancellery titles, ensuring grammatical agreement and protocol precedence across multi-nominal apposition chains.",
+    "objectivesIntroduced": [
+      "obj_c1_201_01_master_appositive_titles"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_c1_200_01_master_statutory_framing"
+    ],
+    "grammarIntroduced": [
+      "gram_c1_complex_appositive_titles_and_epithets"
+    ],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_b2_discourse_connectors_rhetorical"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c1_02_diplomatic_official_receptions"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law",
+      "lex_c1_diplomacy_geopolitics_foreign_policy"
+    ],
+    "previousVocabularyReused": [
+      "элчин сайд",
+      "ноён",
+      "хатагтай",
+      "төлөөлөгч",
+      "хүндэт"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "diplomatic state protocol",
+    "pragmaticTarget": "protocolary deference and hierarchy",
+    "prerequisiteLessonIds": [
+      "les_c1_200_03_statutory_amendment_provisions_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_198_01_administrative_chancellery_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_198_the_1992_democratic_constitution_of"
+    ],
+    "reviewReason": "Incorporates complex honorific nominal appositions into formal administrative chancellery sentences.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Correctly assigns case inflection only to the terminal element in long multi-word appositive title chains",
+      "Orders diplomatic ranks, institutional offices, and state honorific epithets in accordance with state protocol"
+    ],
+    "masteryEvidence": "Constructs 5 flawless diplomatic salutation strings and preambular titles for visiting foreign dignitaries.",
+    "recommendedExerciseModalities": [
+      "discourse_analysis",
+      "stylistic_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_201_02_historical_diplomatic_and_state_treaties_reading",
+    "unitId": "unit_c1_201_appositive_titles_epithets_chancell",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 2,
+    "title": "Historical & Diplomatic Reading: State Treaties & Diplomatic Credential Preambles",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an authentic 480-word diplomatic instrument: a Letter of Credence (Итгэмжлэх жуух бичиг) and bilateral treaty preamble incorporating elaborate state titles and archaic honorific epithets.",
+    "communicativeOutcome": "Deconstruct high-level protocol texts, analyzing how sovereign titles establish diplomatic reciprocity and legal validity between states.",
+    "objectivesIntroduced": [
+      "obj_c1_201_02_parse_diplomatic_instruments"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_201_01_master_appositive_titles"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_complex_appositive_titles_and_epithets"
+    ],
+    "grammarReviewed": [
+      "gram_c1_archaic_jussive_sugai_tugai"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_02_diplomatic_official_receptions"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_13_scholarly_synthesis"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law",
+      "lex_c1_diplomacy_geopolitics_foreign_policy"
+    ],
+    "previousVocabularyReused": [
+      "итгэмжлэх жуух бичиг",
+      "гэрээ",
+      "батламж жуух",
+      "харилцаа"
+    ],
+    "readingObjective": "Analyze complex diplomatic instruments, decoding nested titular preambles, sovereign affirmations, and plenipotentiary authority grants.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "diplomatic protocolary high",
+    "pragmaticTarget": "sovereign mutual recognition",
+    "prerequisiteLessonIds": [
+      "les_c1_201_01_complex_appositive_titles_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_199_02_presidential_decree_preambles_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_199_archaic_classical_jussives_suffixes"
+    ],
+    "reviewReason": "Contrasts domestic presidential decrees with bilateral international treaty instruments.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies the plenipotentiary authority delegated to the ambassador from the titular preamble",
+      "Interprets archaic epistolary formulaic expressions of mutual esteem and state sovereign friendship"
+    ],
+    "masteryEvidence": "Analyzes a 480-word diplomatic treaty preamble and maps the exact protocolary hierarchy of signatories.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "claim_evidence_matching"
+    ]
+  },
+  {
+    "lessonId": "les_c1_201_03_formal_chancellery_dispatch_writing",
+    "unitId": "unit_c1_201_appositive_titles_epithets_chancell",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 3,
+    "title": "Chancellery Writing: Diplomatic Note Verbale & Official State Dispatches",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 400-word formal Diplomatic Note (Ноот бичиг) from the Ministry of Foreign Affairs to a foreign embassy, deploying complex appositive titles and ceremonial formulas.",
+    "communicativeOutcome": "Produce impeccable diplomatic correspondence conforming to Vienna Convention norms and Mongolian state chancellery style.",
+    "objectivesIntroduced": [
+      "obj_c1_201_03_author_diplomatic_notes"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_201_01_master_appositive_titles"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_complex_appositive_titles_and_epithets"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_02_diplomatic_official_receptions"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law",
+      "lex_c1_diplomacy_geopolitics_foreign_policy"
+    ],
+    "previousVocabularyReused": [
+      "ноот бичиг",
+      "гадаад харилцааны яам",
+      "гүнээ хүндэтгэх",
+      "мэдэгдэх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft an official Diplomatic Note regarding border transit arrangements, utilizing standard third-person opening and closing protocol formulas.",
+    "spokenProductionObjective": "",
+    "registerTarget": "diplomatic chancellery",
+    "pragmaticTarget": "rigorous diplomatic courtesy",
+    "prerequisiteLessonIds": [
+      "les_c1_201_02_historical_diplomatic_and_state_treaties_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_200_03_statutory_amendment_provisions_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_200_statutory_drafting_legal_framing_fo"
+    ],
+    "reviewReason": "Synthesizes statutory drafting precision with diplomatic epistolary etiquette.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Opens with the mandatory formulaic courtesy ('Монгол Улсын Гадаад харилцааны яам нь ... Элчин сайдын яаманд гүнээ хүндэтгэлээ илэрхийлэхийн сацуу...') flawlessly",
+      "Maintains formal third-person distancing throughout the substantive transit communication"
+    ],
+    "masteryEvidence": "Submits a formal diplomatic note requesting bilateral consular consultations compliant with ministry protocol.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c1_201_04_protocolary_state_introductions_spoken",
+    "unitId": "unit_c1_201_appositive_titles_epithets_chancell",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 4,
+    "title": "Protocolary Speaking: Introducing Dignitaries at State Banquets & Bilateral Summits",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver formal spoken introductions and protocol toasts (3.5 minutes) introducing visiting heads of state and ambassadorial delegations at an official state reception.",
+    "communicativeOutcome": "Announce foreign and domestic dignitaries orally with dignified presence, correct epithet stacking, and flawless prosodic timing.",
+    "objectivesIntroduced": [
+      "obj_c1_201_04_deliver_protocolary_introductions"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_201_01_master_appositive_titles"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_complex_appositive_titles_and_epithets"
+    ],
+    "grammarReviewed": [
+      "gram_c1_archaic_jussive_sugai_tugai"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_02_diplomatic_official_receptions"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_13_scholarly_synthesis"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law",
+      "lex_c1_diplomacy_geopolitics_foreign_policy"
+    ],
+    "previousVocabularyReused": [
+      "төрийн хүндэтгэлийн зоог",
+      "хундага өргөх",
+      "төлөөлөгчид",
+      "найрсаг харилцаа"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Execute ceremonial toast and dignitary announcements adhering to state protocol etiquette and pitch-accent prominence.",
+    "registerTarget": "state diplomatic oratorical",
+    "pragmaticTarget": "ceremonial hospitality and deference",
+    "prerequisiteLessonIds": [
+      "les_c1_201_03_formal_chancellery_dispatch_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_199_04_state_ceremonial_proclamations_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_199_archaic_classical_jussives_suffixes"
+    ],
+    "reviewReason": "Extends presidential proclamation recitation into international diplomatic banquet toasts.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide model recording of Chief of Protocol introducing visiting delegations at the State Ceremonial Complex.",
+    "successCriteria": [
+      "Recites full official titles without stumbling or colloquial shortening of titles",
+      "Executes appropriate ceremonial pacing (125-140 wpm) and vocal projection"
+    ],
+    "masteryEvidence": "Delivers an unscripted 3-minute toast opening a high-level bilateral trade summit adhering to protocol guidelines.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "reformulation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_201_05_state_chancellery_protocol_briefing_listening",
+    "unitId": "unit_c1_201_appositive_titles_epithets_chancell",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 5,
+    "title": "Acoustic Dissection: State Protocol Briefing on Diplomatic Precedence & Credentials",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4-minute operational briefing by the Director of State Protocol detailing diplomatic precedence, seating orders, and credential presentation etiquette.",
+    "communicativeOutcome": "Comprehend complex protocol instructions, detecting subtle distinctions between order of arrival, ambassadorial seniority, and ceremonial exemptions.",
+    "objectivesIntroduced": [
+      "obj_c1_201_05_comprehend_protocol_briefings"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_201_01_master_appositive_titles"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_complex_appositive_titles_and_epithets"
+    ],
+    "grammarReviewed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_02_diplomatic_official_receptions"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_02_parliamentary_interpellation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law",
+      "lex_c1_diplomacy_geopolitics_foreign_policy"
+    ],
+    "previousVocabularyReused": [
+      "протокол",
+      "эгнээ",
+      "суудал хуваарилалт",
+      "ёслолын алба"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Extract detailed operational protocol instructions from fast spoken administrative speech regarding high-level state visits.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "state protocol administrative",
+    "pragmaticTarget": "operational procedural clarity",
+    "prerequisiteLessonIds": [
+      "les_c1_201_02_historical_diplomatic_and_state_treaties_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_200_05_standing_committee_statutory_debate_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_200_statutory_drafting_legal_framing_fo"
+    ],
+    "reviewReason": "Bridges parliamentary debate listening into executive diplomatic protocol briefing analysis.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic administrative audio of a protocol briefing covering seating hierarchies and title conventions.",
+    "successCriteria": [
+      "Identifies the exact diplomatic rank order and protocol seating arrangement described by the speaker",
+      "Distinguishes between mandatory ceremonial requirements and discretionary embassy courtesies"
+    ],
+    "masteryEvidence": "Produces an accurate protocol run-down and seating chart for a 12-member delegation based solely on the audio briefing.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c1_202_01_causative_nominalization_syntax_intro",
+    "unitId": "unit_c1_202_causative_nominalizations_in_instit",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 1,
+    "title": "Morphosyntax: Causative Nominalizations (-уулалт/-үүлэлт) in State Governance",
+    "lessonType": "grammar_introduction",
+    "primaryPurpose": "Introduce the morphosyntactic formation, agentive demotion, and institutional semantic force of causative nominalization suffixes (-уулалт/-үүлэлт, -лгалт/-лгэлт) derived from double causatives in governance discourse.",
+    "communicativeOutcome": "Formulate and parse abstract governance processes (e.g. 'хэрэгжүүлэлт' implementation, 'сайжруулалт' upgrading, 'батлуулалт' securing ratification) expressing institutional delegation.",
+    "objectivesIntroduced": [
+      "obj_c1_202_01_master_causative_nominalizations"
+    ],
+    "objectivesPracticed": [],
+    "objectivesReviewed": [
+      "obj_c1_201_01_master_appositive_titles"
+    ],
+    "grammarIntroduced": [
+      "gram_c1_causative_nominalizations_in_governance"
+    ],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_b2_voice_double_causative_delegated"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "хэрэгжүүлэх",
+      "гүйцэтгэл",
+      "зохион байгуулалт",
+      "үр дүн",
+      "бодлого"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "institutional administrative policy",
+    "pragmaticTarget": "institutional agency and accountability",
+    "prerequisiteLessonIds": [
+      "les_c1_201_03_formal_chancellery_dispatch_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_b2_172_01_double_causative_morphology_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_b2_172_pastoral_water_management_double_c"
+    ],
+    "reviewReason": "Extends B2 double causative verb morphology into abstract institutional nominalizations.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Attaches causative nominalizing suffixes (-уулалт/-үүлэлт) to complex verbal bases without morphophonological error",
+      "Distinguishes between process nominalizations ('хэрэгжүүлэлт') and stative result nominals ('гүйцэтгэл')"
+    ],
+    "masteryEvidence": "Transforms 6 active administrative directive clauses into abstract governance nominal phrases suitable for cabinet reports.",
+    "recommendedExerciseModalities": [
+      "stylistic_transformation",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c1_202_02_ministerial_mandates_and_orders_reading",
+    "unitId": "unit_c1_202_causative_nominalizations_in_instit",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 2,
+    "title": "Administrative Reading: Ministerial Accountability Audits & Implementation Mandates",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse a 510-word ministerial performance audit report assessing agency implementation ('хэрэгжүүлэлтийн шат дараах тайлан') of national development targets.",
+    "communicativeOutcome": "Analyze bureaucratic audit metrics, identifying where causative nominalizations shift responsibility between policy initiators, executive agencies, and contractors.",
+    "objectivesIntroduced": [
+      "obj_c1_202_02_parse_accountability_audits"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_202_01_master_causative_nominalizations"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_causative_nominalizations_in_governance"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "аудит",
+      "хяналт шалгалт",
+      "үнэлгээ",
+      "шалгуур үзүүлэлт",
+      "төлөвлөгөө"
+    ],
+    "readingObjective": "Critique an institutional accountability audit, detecting bureaucratic obfuscation and tracking causative delegated mandates.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "state administrative audit",
+    "pragmaticTarget": "critical administrative evaluation",
+    "prerequisiteLessonIds": [
+      "les_c1_202_01_causative_nominalization_syntax_intro"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_200_02_statutory_articles_subclauses_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_200_statutory_drafting_legal_framing_fo"
+    ],
+    "reviewReason": "Examines statutory enforcement clauses in action within ministerial implementation reports.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies the precise failure points in delegated procurement implementation ('худалдан авалтын зохион байгуулалт')",
+      "Extracts ministerial corrective deadlines from complex administrative prose"
+    ],
+    "masteryEvidence": "Synthesizes an executive critique of agency underperformance based on the 510-word ministerial audit text.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "claim_evidence_matching"
+    ]
+  },
+  {
+    "lessonId": "les_c1_202_03_administrative_directive_drafting_writing",
+    "unitId": "unit_c1_202_causative_nominalizations_in_instit",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 3,
+    "title": "Executive Writing: Inter-Agency Action Plan Directives & Governance Memos",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 430-word inter-agency operational directive ('Хэрэгжүүлэх арга хэмжээний төлөвлөгөөний удирдамж') assigning delegated tasks across four ministries using causative nominalizations.",
+    "communicativeOutcome": "Produce high-level executive directives coordinating cross-sectoral actions with institutional clarity.",
+    "objectivesIntroduced": [
+      "obj_c1_202_03_author_executive_directives"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_202_01_master_causative_nominalizations"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_causative_nominalizations_in_governance"
+    ],
+    "grammarReviewed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 4,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "салбар хоорондын уялдаа",
+      "ажлын хэсэг",
+      "үүрэг даалгавар",
+      "тайлагнах хугацаа"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft a structured inter-agency directive assigning specific implementation, monitoring, and sanction powers.",
+    "spokenProductionObjective": "",
+    "registerTarget": "executive administrative governance",
+    "pragmaticTarget": "authoritative task delegation",
+    "prerequisiteLessonIds": [
+      "les_c1_202_02_ministerial_mandates_and_orders_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_201_03_formal_chancellery_dispatch_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_201_appositive_titles_epithets_chancell"
+    ],
+    "reviewReason": "Transitions from external diplomatic dispatches into internal inter-ministerial executive directives.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Deploys at least 5 varied causative nominalization constructions ('батлуулалт', 'хэрэгжүүлэлт', 'сайжруулалт') naturally",
+      "Clearly delimits supervisory roles versus implementing agency duties"
+    ],
+    "masteryEvidence": "Submits an executive directive establishing an inter-agency anti-corruption monitoring task force.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c1_202_04_inter_ministerial_coordination_briefing_spoken",
+    "unitId": "unit_c1_202_causative_nominalizations_in_instit",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 4,
+    "title": "Executive Briefing: Inter-Agency Task Force Operational Deliberation",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 4-minute executive verbal briefing coordinating multiple ministerial state secretaries during a national infrastructure crisis.",
+    "communicativeOutcome": "Negotiate jurisdictional boundaries, demand accountability, and issue delegated orders using authoritative institutional spoken discourse.",
+    "objectivesIntroduced": [
+      "obj_c1_202_04_lead_executive_briefings"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_202_01_master_causative_nominalizations"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_causative_nominalizations_in_governance"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 5,
+    "newProductiveExpressionTarget": 1,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "төрийн нарийн бичгийн дарга",
+      "шуурхай хуралдаан",
+      "зохицуулалт",
+      "үүрэг өгөх"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Lead an executive task force coordination session, fielding inter-agency jurisdictional objections with decisive command.",
+    "registerTarget": "executive administrative consultative",
+    "pragmaticTarget": "firm institutional coordination",
+    "prerequisiteLessonIds": [
+      "les_c1_202_03_administrative_directive_drafting_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_200_04_legislative_drafting_defense_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_200_statutory_drafting_legal_framing_fo"
+    ],
+    "reviewReason": "Bridges parliamentary legislative defense into executive crisis task force coordination speaking.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide model audio of Cabinet Secretariat State Secretary chairing an emergency inter-agency coordination meeting.",
+    "successCriteria": [
+      "Addresses ministerial peers with appropriate professional deference while asserting central government mandates",
+      "Resolves overlapping agency responsibilities by establishing explicit delivery deadlines"
+    ],
+    "masteryEvidence": "Chairs a 4-minute simulated inter-agency crisis session managing conflicting logistics directives without communication breakdown.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_202_05_administrative_enforcement_hearing_listening",
+    "unitId": "unit_c1_202_causative_nominalizations_in_instit",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 5,
+    "title": "Acoustic Dissection: State Inspection Agency Enforcement & Sanction Hearing",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute unscripted audio recording of a State Specialized Inspection Agency (МХЕГ) formal enforcement hearing addressing severe environmental compliance breaches.",
+    "communicativeOutcome": "Comprehend adversarial administrative hearings, dissecting defense appeals, technical inspector citations, and binding closure orders.",
+    "objectivesIntroduced": [
+      "obj_c1_202_05_comprehend_enforcement_hearings"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_202_01_master_causative_nominalizations"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_causative_nominalizations_in_governance"
+    ],
+    "grammarReviewed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_09_high_level_policy_briefs"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_02_parliamentary_interpellation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "улсын байцаагч",
+      "дүгнэлт",
+      "акт тавих",
+      "үйл ажиллагааг зогсоох",
+      "гомдол"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher high-speed adversarial dialogue between chief state inspectors and corporate defense lawyers debating regulatory sanctions.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "administrative regulatory adversarial",
+    "pragmaticTarget": "regulatory sanction determination",
+    "prerequisiteLessonIds": [
+      "les_c1_202_02_ministerial_mandates_and_orders_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_201_05_state_chancellery_protocol_briefing_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_201_appositive_titles_epithets_chancell"
+    ],
+    "reviewReason": "Transitions from diplomatic protocol listening to high-stakes administrative enforcement hearings.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide live hearing recording featuring overlapping legal objections, document citations, and formal inspector verdicts.",
+    "successCriteria": [
+      "Transcribes the legal articles cited by the inspector as grounds for halting mining activities",
+      "Identifies the procedural flaws claimed by the corporate defense counsel"
+    ],
+    "masteryEvidence": "Produces an accurate hearing summary detailing the regulatory infractions, penalties assessed, and remediation timeline.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "stance_identification"
+    ]
+  },
+  {
+    "lessonId": "les_c1_203_01_appellate_court_briefs_reading",
+    "unitId": "unit_c1_203_courtroom_argumentation_prosecutor_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 1,
+    "title": "Judicial Reading: Appellate Court Briefs & Evidentiary Rebuttals",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse a 520-word appellate court defense memorial challenging prosecutorial indictments under the Criminal Procedure Code of Mongolia, identifying evidentiary admissibility arguments.",
+    "communicativeOutcome": "Extract contested legal doctrines, procedural violation claims, and evidentiary exclusions from sophisticated juristic court pleadings.",
+    "objectivesIntroduced": [
+      "obj_c1_203_01_parse_appellate_briefs"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_200_01_master_statutory_framing"
+    ],
+    "objectivesReviewed": [
+      "obj_c1_198_01_parse_chancellery_nominalizations"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "давж заалдах",
+      "прокурор",
+      "өмгөөлөгч",
+      "нотлох баримт",
+      "шүүхийн тогтоол"
+    ],
+    "readingObjective": "Critique complex juristic arguments asserting constitutional due process breaches in lower court trial records.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "courtroom appellate juristic",
+    "pragmaticTarget": "adversarial judicial challenge",
+    "prerequisiteLessonIds": [
+      "les_c1_202_03_administrative_directive_drafting_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_200_02_statutory_articles_subclauses_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_200_statutory_drafting_legal_framing_fo"
+    ],
+    "reviewReason": "Applies statutory code reading directly to appellate criminal and civil litigation pleadings.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies the precise procedural violation invoked to demand the suppression of unlawfully obtained evidence",
+      "Distinguishes between substantive statutory defenses and procedural jurisdictional objections"
+    ],
+    "masteryEvidence": "Constructs an evidence admissibility chart contrasting prosecutorial claims with defense rebuttals based on the text.",
+    "recommendedExerciseModalities": [
+      "argument_mapping",
+      "source_comparison"
+    ]
+  },
+  {
+    "lessonId": "les_c1_203_02_judicial_hearing_prosecutorial_summation_listening",
+    "unitId": "unit_c1_203_courtroom_argumentation_prosecutor_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 2,
+    "title": "Acoustic Dissection: Live Courtroom Trial — State Prosecutor Closing Summation",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute unedited audio recording of a state prosecutor delivering closing summations in a high-profile corruption trial before the Capital City Court of Appeals.",
+    "communicativeOutcome": "Process rapid (155-175 wpm) oratorical courtroom argumentation, tracking statutory charge stacking and evidentiary burden formulas.",
+    "objectivesIntroduced": [
+      "obj_c1_203_02_comprehend_courtroom_summations"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_203_01_parse_appellate_briefs"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_02_parliamentary_interpellation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "улсын яллагч",
+      "ял дүгнэлт",
+      "гэм буруу",
+      "шийтгэл ногдуулах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher spoken prosecutorial rhetoric combining rigorous statutory citations with emotive societal appeals.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "courtroom judicial adversarial",
+    "pragmaticTarget": "prosecutorial indictment",
+    "prerequisiteLessonIds": [
+      "les_c1_203_01_appellate_court_briefs_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_202_05_administrative_enforcement_hearing_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_202_causative_nominalizations_in_instit"
+    ],
+    "reviewReason": "Extends administrative enforcement hearing comprehension into formal criminal appellate court hearings.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic courtroom acoustics featuring judge interjections, prosecutor pacing, and formal legal cadences.",
+    "successCriteria": [
+      "Transcribes the precise statutory criminal article provisions and requested sentencing terms without error",
+      "Identifies how the prosecutor establishes intent and causal nexus through syntactic subordination"
+    ],
+    "masteryEvidence": "Summarizes the prosecutor's 3 primary evidentiary pillars and proposed sentence from the oral testimony.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "stance_identification"
+    ]
+  },
+  {
+    "lessonId": "les_c1_203_03_appellate_oral_pleading_defense_spoken",
+    "unitId": "unit_c1_203_courtroom_argumentation_prosecutor_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 3,
+    "title": "Adversarial Advocacy: Defense Counsel Oral Pleading & Motion Practice",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 4-minute defense oral pleading before a 3-judge appellate panel, rebutting prosecutorial charges and motioning for complete dismissal.",
+    "communicativeOutcome": "Present persuasive courtroom arguments with judicial gravitas, handling judicial bench interruptions with rapid legal agility.",
+    "objectivesIntroduced": [
+      "obj_c1_203_03_deliver_courtroom_oral_pleadings"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_203_01_parse_appellate_briefs"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "хэрэгсэхгүй болгох",
+      "цагаатгах",
+      "өмгөөллийн үг",
+      "шүүх бүрэлдэхүүн"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Execute an authoritative courtroom defense summation, refuting statutory misapplications with persuasive juristic rhetoric.",
+    "registerTarget": "courtroom judicial advocacy",
+    "pragmaticTarget": "persuasive legal refutation",
+    "prerequisiteLessonIds": [
+      "les_c1_203_02_judicial_hearing_prosecutorial_summation_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_202_04_inter_ministerial_coordination_briefing_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_202_causative_nominalizations_in_instit"
+    ],
+    "reviewReason": "Bridges executive task force advocacy into courtroom judicial defense oral pleading.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of senior advocate delivering oral defense pleading before the Court of Appeals.",
+    "successCriteria": [
+      "Addresses the judicial panel using mandatory court honorifics ('Хүндэт шүүх бүрэлдэхүүн') appropriately",
+      "Dismantles prosecutorial evidentiary claims citing specific statutory infractions without hesitation"
+    ],
+    "masteryEvidence": "Performs a 4-minute simulated appellate court argument responding successfully to 2 aggressive bench questions.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_203_04_drafting_grounds_for_appeal_writing",
+    "unitId": "unit_c1_203_courtroom_argumentation_prosecutor_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 4,
+    "title": "Juristic Writing: Formal Notice of Appeal & Assignment of Errors",
+    "lessonType": "writing",
+    "primaryPurpose": "Draft a 420-word formal Notice of Appeal ('Давж заалдах гомдол') for submission to the High Court, articulating specific errors in statutory interpretation committed by the trial court.",
+    "communicativeOutcome": "Produce legally binding appellate petitions satisfying all procedural requirements of the Civil or Criminal Procedure Code.",
+    "objectivesIntroduced": [
+      "obj_c1_203_04_draft_appellate_petitions"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_203_01_parse_appellate_briefs"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "гомдлын шаардлага",
+      "анхан шатны шүүх",
+      "буруу хэрэглэсэн",
+      "өөрчлөлт оруулах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft an appellate brief demonstrating that the trial court erroneously interpreted or misapplied substantive statutory provisions.",
+    "spokenProductionObjective": "",
+    "registerTarget": "courtroom judicial chancellery",
+    "pragmaticTarget": "formal appellate remedy petition",
+    "prerequisiteLessonIds": [
+      "les_c1_203_03_appellate_oral_pleading_defense_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_200_03_statutory_amendment_provisions_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_200_statutory_drafting_legal_framing_fo"
+    ],
+    "reviewReason": "Synthesizes statutory drafting discipline into formal appellate judicial pleading drafting.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Articulates three distinct grounds for appeal citing specific sub-articles of the relevant code",
+      "Structures the prayer for relief ('Гомдлын шаардлага') with complete procedural correctness"
+    ],
+    "masteryEvidence": "Submits a compliant 420-word appellate complaint petition seeking overturning of a civil commercial judgment.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c1_204_01_tsets_verdicts_and_conclusions_reading",
+    "unitId": "unit_c1_204_constitutional_court_jurisprudence_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 1,
+    "title": "Constitutional Reading: Tsets Conclusions (Дүгнэлт) & Plenary Resolutions (Тогтоол)",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse a 520-word formal Conclusion of the Constitutional Court of Mongolia (Үндсэн хуулийн цэцийн дүгнэлт) striking down an unconstitutional parliamentary statute.",
+    "communicativeOutcome": "Analyze constitutional jurisprudence reasoning, parsing constitutional balancing tests, supra-statutory norms, and judicial review doctrines.",
+    "objectivesIntroduced": [
+      "obj_c1_204_01_parse_tsets_jurisprudence"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_198_01_parse_chancellery_nominalizations"
+    ],
+    "objectivesReviewed": [
+      "obj_c1_200_01_master_statutory_framing"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "үндсэн хуулийн цэц",
+      "дүгнэлт",
+      "хүчингүй болгох",
+      "зөрчсөн",
+      "маргаан"
+    ],
+    "readingObjective": "Examine judicial review reasoning that invalidates parliamentary legislation on grounds of constitutional inconsistency.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "constitutional high judicial",
+    "pragmaticTarget": "constitutional judicial review",
+    "prerequisiteLessonIds": [
+      "les_c1_203_04_drafting_grounds_for_appeal_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_198_02_constitutional_articles_parsing_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_198_the_1992_democratic_constitution_of"
+    ],
+    "reviewReason": "Deepens constitutional article analysis into Constitutional Court adjudicatory rulings.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies the precise constitutional conflict between statutory legislation and supreme constitutional principles",
+      "Distinguishes between a mid-tier Tsets Conclusion (Дүгнэлт) and a final Plenary Resolution (Тогтоол)"
+    ],
+    "masteryEvidence": "Constructs an analytical breakdown of a Tsets judicial decision evaluating rationale and legal effects.",
+    "recommendedExerciseModalities": [
+      "argument_mapping",
+      "source_comparison"
+    ]
+  },
+  {
+    "lessonId": "les_c1_204_02_tsets_plenary_session_deliberation_listening",
+    "unitId": "unit_c1_204_constitutional_court_jurisprudence_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 2,
+    "title": "Acoustic Dissection: Constitutional Court Open Hearing Oral Arguments",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute authentic recording of a Constitutional Court open session where petitioner citizen representatives and parliamentary authorized representatives clash.",
+    "communicativeOutcome": "Process highly abstract, dense constitutional debate delivered under formal court protocol at native oratorical tempo (150-170 wpm).",
+    "objectivesIntroduced": [
+      "obj_c1_204_02_comprehend_tsets_hearings"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_204_01_parse_tsets_jurisprudence"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_02_parliamentary_interpellation"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "итгэмжлэгдсэн төлөөлөгч",
+      "цэцийн гишүүн",
+      "мэтгэлцээн",
+      "асуулт хариулт"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Extract nuanced legal interpretations during live Constitutional Court oral arguments between petitioning advocates and State Great Khural delegates.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "constitutional judicial deliberative",
+    "pragmaticTarget": "supreme judicial contestation",
+    "prerequisiteLessonIds": [
+      "les_c1_204_01_tsets_verdicts_and_conclusions_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_203_02_judicial_hearing_prosecutorial_summation_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_203_courtroom_argumentation_prosecutor_"
+    ],
+    "reviewReason": "Elevates courtroom listening skills to Constitutional Court plenary hearings.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide live hearing audio featuring formal judicial protocol, solemn judge questions, and impassioned legal defense.",
+    "successCriteria": [
+      "Identifies the core constitutional contention regarding voter representation parity",
+      "Follows multi-step judicial questioning testing the legislative intent behind the challenged statute"
+    ],
+    "masteryEvidence": "Produces a forensic debate summary mapping out the points of agreement, irreconcilable conflicts, and judicial interrogations.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "stance_identification"
+    ]
+  },
+  {
+    "lessonId": "les_c1_204_03_constitutional_dispute_argumentation_spoken",
+    "unitId": "unit_c1_204_constitutional_court_jurisprudence_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 3,
+    "title": "Constitutional Advocacy: Arguing Before the Bench of the Constitutional Court",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 4-minute constitutional oral argument representing an aggrieved citizen group before the Constitutional Court, demonstrating that a government decree violates fundamental rights.",
+    "communicativeOutcome": "Present rigorous constitutional jurisprudence orally, weaving constitutional text, precedent conclusions, and human rights principles into a compelling plea.",
+    "objectivesIntroduced": [
+      "obj_c1_204_03_argue_constitutional_cases_orally"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_204_01_parse_tsets_jurisprudence"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "үндсэн эрх",
+      "зөрчигдсөн",
+      "цэцийн их суудлын хуралдаан",
+      "нотолгоо"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Argue persuasively before the Tsets bench, balancing statutory critique with foundational constitutional norms.",
+    "registerTarget": "constitutional high judicial oral",
+    "pragmaticTarget": "principled constitutional vindication",
+    "prerequisiteLessonIds": [
+      "les_c1_204_02_tsets_plenary_session_deliberation_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_203_03_appellate_oral_pleading_defense_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_203_courtroom_argumentation_prosecutor_"
+    ],
+    "reviewReason": "Bridges appellate defense pleading into constitutional court judicial review advocacy.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of constitutional scholar presenting amicus curiae oral argument before the Tsets.",
+    "successCriteria": [
+      "Frames arguments strictly within constitutional competence without relitigating factual evidentiary disputes",
+      "Fields questions from the bench with respectful, legally grounded immediate answers"
+    ],
+    "masteryEvidence": "Delivers a 4-minute simulated constitutional oral defense proving the unconstitutionality of an administrative search regulation.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_204_04_petition_to_constitutional_court_writing",
+    "unitId": "unit_c1_204_constitutional_court_jurisprudence_",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 4,
+    "title": "Juristic Writing: Drafting a Formal Petition (Өргөдөл, Мэдээлэл) to the Constitutional Court",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 450-word formal citizen petition ('Үндсэн хуулийн цэцэд гаргах мэдээлэл') requesting judicial review of a parliamentary tax statute alleged to violate property rights.",
+    "communicativeOutcome": "Produce high-level constitutional litigation briefs adhering strictly to the Law on Constitutional Court Procedure.",
+    "objectivesIntroduced": [
+      "obj_c1_204_04_author_constitutional_petitions"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_204_01_parse_tsets_jurisprudence"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "мэдээлэл гаргагч",
+      "маргаан үүсгэх",
+      "үндсэн хуулийн зөрчил",
+      "хүсэлт"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft a formal constitutional petition detailing statutory inconsistency, factual background, and legal grounds for nullification.",
+    "spokenProductionObjective": "",
+    "registerTarget": "constitutional judicial chancellery",
+    "pragmaticTarget": "formal constitutional petitioning",
+    "prerequisiteLessonIds": [
+      "les_c1_204_03_constitutional_dispute_argumentation_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_203_04_drafting_grounds_for_appeal_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_203_courtroom_argumentation_prosecutor_"
+    ],
+    "reviewReason": "Extends appellate judicial pleading drafting into constitutional petition formulation.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Constructs a four-part petition containing jurisdictional basis, factual narrative, constitutional analysis, and specific prayers",
+      "Demonstrates direct causal infringement between the challenged statutory article and constitutional articles"
+    ],
+    "masteryEvidence": "Submits a compliant 450-word petition to the Constitutional Court challenging an unconstitutional executive licensing fee.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c1_205_01_concession_agreements_arbitration_clauses_reading",
+    "unitId": "unit_c1_205_bilateral_concession_contracts_inve",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 1,
+    "title": "Commercial Reading: Mineral Concession Contracts & International Arbitration Clauses",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse an authentic 510-word excerpt from a public-private partnership concession agreement (Концессын гэрээ), examining stabilization clauses, sovereign immunity waivers, and arbitration clauses.",
+    "communicativeOutcome": "Deconstruct complex international commercial contracts in Mongolian, identifying risks, dispute escalation tiers, and choice-of-law provisions.",
+    "objectivesIntroduced": [
+      "obj_c1_205_01_parse_concession_contracts"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_200_01_master_statutory_framing"
+    ],
+    "objectivesReviewed": [
+      "obj_c1_198_01_parse_chancellery_nominalizations"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law",
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "концесс",
+      "арбитрын шүүх",
+      "тогтворжуулах гэрээ",
+      "маргаан шийдвэрлэх"
+    ],
+    "readingObjective": "Analyze complex commercial concession terms, decoding arbitration triggers, damages calculation formulas, and force majeure exclusions.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "international commercial legal",
+    "pragmaticTarget": "contractual risk assessment",
+    "prerequisiteLessonIds": [
+      "les_c1_204_04_petition_to_constitutional_court_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_200_02_statutory_articles_subclauses_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_200_statutory_drafting_legal_framing_fo"
+    ],
+    "reviewReason": "Applies statutory code analysis to international commercial concession agreements.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies the specific institutional rules (e.g. UNCITRAL vs MIAC) designated for dispute resolution",
+      "Extracts how stabilization clauses insulate foreign concessionaires from domestic regulatory changes"
+    ],
+    "masteryEvidence": "Drafts an executive risk audit highlighting 3 ambiguous liability clauses in a 510-word concession contract.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "claim_evidence_matching"
+    ]
+  },
+  {
+    "lessonId": "les_c1_205_02_commercial_arbitration_tribunal_listening",
+    "unitId": "unit_c1_205_bilateral_concession_contracts_inve",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 2,
+    "title": "Acoustic Dissection: International Commercial Arbitration Tribunal Hearing",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4.5-minute audio simulation of an international commercial arbitration hearing at the Mongolian International Arbitration Center (МҮХАҮТ-ын дэргэдэх Монголын Олон Улсын Арбитр) concerning breach of a mining concession.",
+    "communicativeOutcome": "Comprehend technical commercial dispute testimonies, cross-examinations of valuation experts, and tribunal president rulings.",
+    "objectivesIntroduced": [
+      "obj_c1_205_02_comprehend_arbitration_hearings"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_205_01_parse_concession_contracts"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_02_parliamentary_interpellation"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law",
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "арбитрч",
+      "нэхэмжлэгч",
+      "хариуцагч",
+      "гэрээний үүрэг",
+      "хохирол"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher rapid commercial cross-examination regarding contract fulfillment, royalty payment schedules, and expropriation claims.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "international commercial arbitration",
+    "pragmaticTarget": "arbitral dispute resolution",
+    "prerequisiteLessonIds": [
+      "les_c1_205_01_concession_agreements_arbitration_clauses_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_203_02_judicial_hearing_prosecutorial_summation_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_203_courtroom_argumentation_prosecutor_"
+    ],
+    "reviewReason": "Bridges courtroom judicial trial listening into commercial arbitration tribunal hearings.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic arbitral chamber audio featuring multi-party cross-examination and legal evidentiary objections.",
+    "successCriteria": [
+      "Transcribes the exact financial claim and interest penalty sought by claimant counsel",
+      "Distinguishes between undisputed facts and contested valuation methodology"
+    ],
+    "masteryEvidence": "Produces an arbitral bench briefing detailing claimant demands, defense rebuttals, and key tribunal questions.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c1_205_03_arbitration_memorial_claim_drafting_writing",
+    "unitId": "unit_c1_205_bilateral_concession_contracts_inve",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 3,
+    "title": "Commercial Writing: Statement of Claim (Нэхэмжлэлийн шаардлага) in Arbitration",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 440-word formal Statement of Claim for submission to an international arbitration tribunal, pleading expropriation and breach of a bilateral investment treaty (Хоёр талын хөрөнгө оруулалтын гэрээ).",
+    "communicativeOutcome": "Produce high-stakes commercial arbitration pleadings with precise contractual citations and liquidated damages claims.",
+    "objectivesIntroduced": [
+      "obj_c1_205_03_author_arbitration_claims"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_205_01_parse_concession_contracts"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law",
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "нэхэмжлэл",
+      "нөхөн олговор",
+      "хөрөнгө хураах",
+      "гэрээ цуцлах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft a formal commercial arbitration memorial setting out jurisdiction, facts, legal breach, and quantified damages.",
+    "spokenProductionObjective": "",
+    "registerTarget": "commercial legal arbitration",
+    "pragmaticTarget": "formal arbitral claim enforcement",
+    "prerequisiteLessonIds": [
+      "les_c1_205_02_commercial_arbitration_tribunal_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_204_04_petition_to_constitutional_court_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_204_constitutional_court_jurisprudence_"
+    ],
+    "reviewReason": "Synthesizes constitutional petition drafting into international commercial arbitration memorial writing.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Structures the memorial with immaculate procedural sections: jurisdiction, merits, and quantum of damages",
+      "Deploys legal statutory framing formulas ('үүрэг хүлээнэ', 'нөхөн төлөх үүрэгтэй') without ambiguity"
+    ],
+    "masteryEvidence": "Submits a 440-word arbitration memorial demanding restitution for unlawful concession cancellation.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c1_205_04_settlement_negotiation_dispute_advocacy_spoken",
+    "unitId": "unit_c1_205_bilateral_concession_contracts_inve",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 4,
+    "title": "Commercial Advocacy: High-Stakes Investor-State Dispute Settlement Negotiation",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Conduct an unscripted 4-minute bilateral negotiation representing the Ministry of Justice opposite foreign investor counsel, seeking an amicable settlement before arbitration awards are formalized.",
+    "communicativeOutcome": "Negotiate multi-million dollar contractual concessions orally, balancing sovereign interests against international treaty liabilities.",
+    "objectivesIntroduced": [
+      "obj_c1_205_04_negotiate_investment_settlements"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_205_01_parse_concession_contracts"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law",
+      "lex_c1_macroeconomics_trade_finance"
+    ],
+    "previousVocabularyReused": [
+      "эвлэрлийн гэрээ",
+      "буулт хийх",
+      "нөхцөл тохиролцох",
+      "эрсдэл бууруулах"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Argue commercial and sovereign positions with tactical flexibility, countering punitive penalty demands with structured compromises.",
+    "registerTarget": "diplomatic commercial consultative",
+    "pragmaticTarget": "strategic settlement compromise",
+    "prerequisiteLessonIds": [
+      "les_c1_205_03_arbitration_memorial_claim_drafting_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_204_03_constitutional_dispute_argumentation_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_204_constitutional_court_jurisprudence_"
+    ],
+    "reviewReason": "Bridges constitutional court advocacy into bilateral investor-state contract negotiations.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide model dialogue of senior legal counsel negotiating a settlement in a concession dispute.",
+    "successCriteria": [
+      "Maintains calm diplomatic firmness while rejecting punitive claims",
+      "Formulates concrete restructuring proposals using precise commercial legal syntax"
+    ],
+    "masteryEvidence": "Successfully negotiates a restructuring agreement across a 4-minute recorded bilateral simulation.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_206_01_cabinet_resolution_structures_reading",
+    "unitId": "unit_c1_206_drafting_executive_ministerial_decr",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 1,
+    "title": "Administrative Reading: Cabinet Resolutions & Subordinate Regulatory Decrees",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse a 500-word comprehensive Cabinet Resolution (Засгийн газрын тогтоол) approving national public procurement regulations and delegation matrices.",
+    "communicativeOutcome": "Deconstruct administrative regulatory instruments, analyzing enabling statute citations, operative mandates, appendices, and oversight mechanisms.",
+    "objectivesIntroduced": [
+      "obj_c1_206_01_parse_cabinet_resolutions"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_202_01_master_causative_nominalizations"
+    ],
+    "objectivesReviewed": [
+      "obj_c1_199_01_master_classical_jussives"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_causative_nominalizations_in_governance"
+    ],
+    "grammarReviewed": [
+      "gram_c1_archaic_jussive_sugai_tugai"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "засгийн газрын тогтоол",
+      "журам батлах",
+      "хэрэгжилтэд хяналт тавих",
+      "хавсралт"
+    ],
+    "readingObjective": "Critique complex secondary legislation instruments, assessing whether executive regulations exceed statutory parliamentary mandates.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "executive administrative regulatory",
+    "pragmaticTarget": "regulatory compliance analysis",
+    "prerequisiteLessonIds": [
+      "les_c1_205_04_settlement_negotiation_dispute_advocacy_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_199_02_presidential_decree_preambles_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_199_archaic_classical_jussives_suffixes"
+    ],
+    "reviewReason": "Compares presidential decree architectures with executive cabinet regulatory resolutions.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Identifies the parent statute and specific authorizing article in the preamble",
+      "Distinguishes between binding regulatory commands and hortatory guidance in the resolution annex"
+    ],
+    "masteryEvidence": "Evaluates the legal validity and intra vires status of an executive decree based on the authorizing statutory text.",
+    "recommendedExerciseModalities": [
+      "source_comparison",
+      "claim_evidence_matching"
+    ]
+  },
+  {
+    "lessonId": "les_c1_206_02_drafting_ministerial_decree_statutory_rationale_writing",
+    "unitId": "unit_c1_206_drafting_executive_ministerial_decr",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 2,
+    "title": "Chancellery Writing: Drafting Ministerial Orders (Сайдын тушаал) & Regulatory Procedures",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 430-word Ministerial Order with accompanying procedural regulation ('Журам батлах тухай сайдын тушаал') implementing national digital data security standards.",
+    "communicativeOutcome": "Produce legally airtight ministerial orders and administrative regulations adhering strictly to the General Administrative Law of Mongolia.",
+    "objectivesIntroduced": [
+      "obj_c1_206_02_draft_ministerial_orders"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_206_01_parse_cabinet_resolutions"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_c1_archaic_jussive_sugai_tugai"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "сайдын тушаал",
+      "тушаах нь",
+      "мөрдөх",
+      "бүртгэл",
+      "хууль зүйн яам"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft an official ministerial order containing preambular authorizations, operative provisions ('Тушаасугай'), and multi-article regulations.",
+    "spokenProductionObjective": "",
+    "registerTarget": "ministerial chancellery regulatory",
+    "pragmaticTarget": "administrative regulatory enactment",
+    "prerequisiteLessonIds": [
+      "les_c1_206_01_cabinet_resolution_structures_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_199_03_drafting_statutory_enactments_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_199_archaic_classical_jussives_suffixes"
+    ],
+    "reviewReason": "Synthesizes classical jussives into contemporary ministerial decree drafting.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Incorporates formulaic enacting jussives ('тушаасугай', 'даалгасугай') in accordance with ministry drafting manuals",
+      "Avoids ultra vires expansion of ministry authority beyond the statutory delegation"
+    ],
+    "masteryEvidence": "Submits a complete draft ministerial order and annex establishing data governance protocols ready for Ministry of Justice state registration.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c1_206_03_cabinet_press_secretary_decree_announcement_listening",
+    "unitId": "unit_c1_206_drafting_executive_ministerial_decr",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 3,
+    "title": "Acoustic Dissection: Government Press Briefing on Major Executive Resolutions",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 4-minute live press briefing by the Cabinet Press Secretary and Minister of Justice explaining newly adopted government decrees regarding emergency economic measures.",
+    "communicativeOutcome": "Process fast-paced institutional press announcements (155-180 wpm), separating official policy rationale from journalist inquiries.",
+    "objectivesIntroduced": [
+      "obj_c1_206_03_comprehend_cabinet_briefings"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_206_01_parse_cabinet_resolutions"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_causative_nominalizations_in_governance"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_02_parliamentary_interpellation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "хэвлэлийн хурал",
+      "мэдээлэл хийх",
+      "засгийн газрын хуралдаан",
+      "сэтгүүлчдийн асуулт"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Comprehend rapid-fire government press conference speech, tracking policy declarations, implementation timelines, and spontaneous ministerial rebuttals.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "institutional government press",
+    "pragmaticTarget": "official policy clarification",
+    "prerequisiteLessonIds": [
+      "les_c1_206_01_cabinet_resolution_structures_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_202_05_administrative_enforcement_hearing_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_202_causative_nominalizations_in_instit"
+    ],
+    "reviewReason": "Transitions from administrative hearing audio to live cabinet press conference broadcasts.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide authentic press conference recording with rapid journalistic questions and official spokesperson cadences.",
+    "successCriteria": [
+      "Identifies the precise effective date and financial scope of the emergency economic decree",
+      "Distinguishes between mandatory decree provisions and voluntary industry recommendations"
+    ],
+    "masteryEvidence": "Produces an executive summary of the press conference clarifying 3 controversial policy questions.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "stance_identification"
+    ]
+  },
+  {
+    "lessonId": "les_c1_206_04_executive_order_regulatory_defense_spoken",
+    "unitId": "unit_c1_206_drafting_executive_ministerial_decr",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 4,
+    "title": "Executive Advocacy: Defending Ministerial Regulations Against Administrative Challenge",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 4-minute defense of a controversial ministerial order before the Administrative Court or Public Scrutiny Council, proving compliance with the General Administrative Law.",
+    "communicativeOutcome": "Articulate executive legal authority, administrative necessity, and procedural proportionality with consummate professional composure.",
+    "objectivesIntroduced": [
+      "obj_c1_206_04_defend_regulations_orally"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_206_01_parse_cabinet_resolutions"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_causative_nominalizations_in_governance"
+    ],
+    "grammarReviewed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 7,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "захиргааны хэрэг",
+      "хууль ёсны ашиг сонирхол",
+      "зохицуулалт",
+      "нийтийн эрх ашиг"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Argue persuasively in defense of executive regulations, demonstrating procedural compliance and public interest balance.",
+    "registerTarget": "administrative judicial defensive",
+    "pragmaticTarget": "institutional regulatory defense",
+    "prerequisiteLessonIds": [
+      "les_c1_206_02_drafting_ministerial_decree_statutory_rationale_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_202_04_inter_ministerial_coordination_briefing_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_202_causative_nominalizations_in_instit"
+    ],
+    "reviewReason": "Elevates internal administrative coordination into public and judicial defense of ministerial regulations.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of ministry legal department director defending regulatory procedures before administrative hearing.",
+    "successCriteria": [
+      "Deploys formal administrative terms ('сонсох ажиллагаа', 'эрх мэдлийн хязгаар') accurately",
+      "Rebuts allegations of administrative overreach citing statutory authorizations without delay"
+    ],
+    "masteryEvidence": "Defends a contentious environmental regulation across a 4-minute simulated hearing against aggressive industry cross-examination.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_207_01_supreme_court_dossier_analysis_reading",
+    "unitId": "unit_c1_207_constitutional_jurisprudence_capsto",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 1,
+    "title": "Capstone Jurisprudential Reading: Supreme Court En Banc Landmark Case Dossier",
+    "lessonType": "reading",
+    "primaryPurpose": "Parse a comprehensive 560-word case file and judicial opinion from the Supreme Court of Mongolia (Улсын Дээд Шүүхийн Хяналтын Шатны Тогтоол) resolving conflicting lower court interpretations of constitutional property guarantees.",
+    "communicativeOutcome": "Dissect the ultimate appellate judicial reasoning in Mongolia, tracing statutory construction canons, constitutional harmonization, and binding judicial precedent formulations.",
+    "objectivesIntroduced": [
+      "obj_c1_207_01_master_supreme_court_dossiers"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_198_01_parse_chancellery_nominalizations",
+      "obj_c1_204_01_parse_tsets_jurisprudence"
+    ],
+    "objectivesReviewed": [
+      "obj_c1_200_01_master_statutory_framing"
+    ],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_c1_legal_statutory_framing",
+      "gram_c1_causative_nominalizations_in_governance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsPracticed": [],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_13_scholarly_synthesis"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "улсын дээд шүүх",
+      "хяналтын шат",
+      "тайлбарлах",
+      "нэг мөр хэрэглэх",
+      "эцсийн шийдвэр"
+    ],
+    "readingObjective": "Critique complex en banc Supreme Court rulings that establish definitive statutory interpretations binding across the judiciary.",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "supreme judicial precedent",
+    "pragmaticTarget": "definitive judicial interpretation",
+    "prerequisiteLessonIds": [
+      "les_c1_206_04_executive_order_regulatory_defense_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_204_01_tsets_verdicts_and_conclusions_reading"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_204_constitutional_court_jurisprudence_"
+    ],
+    "reviewReason": "Synthesizes Constitutional Court jurisprudence with Supreme Court statutory interpretation precedents.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Extracts the core rule of law ('хууль хэрэглээний нэгдмэл байдал') established by the Supreme Court bench",
+      "Distinguishes obiter dicta commentary from binding ratio decidendi precedents"
+    ],
+    "masteryEvidence": "Constructs an authoritative 350-word juristic analysis summarizing the judicial doctrine established in the landmark case.",
+    "recommendedExerciseModalities": [
+      "argument_mapping",
+      "source_comparison"
+    ]
+  },
+  {
+    "lessonId": "les_c1_207_02_full_bench_judicial_interrogation_listening",
+    "unitId": "unit_c1_207_constitutional_jurisprudence_capsto",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 2,
+    "title": "Acoustic Dissection: Supreme Court Full Chamber (Хяналтын шат) Oral Interrogation",
+    "lessonType": "listening",
+    "primaryPurpose": "Listen to a 5-minute unedited recording of a Supreme Court cassation hearing where five Supreme Court justices rigorously interrogate appellate counsel regarding statutory conflicts.",
+    "communicativeOutcome": "Comprehend the pinnacle of Mongolian judicial speech, processing rapid multi-judge questioning (160-185 wpm) delivered in reverberant court acoustics.",
+    "objectivesIntroduced": [
+      "obj_c1_207_02_comprehend_supreme_court_interrogation"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_207_01_master_supreme_court_dossiers"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_c1_legal_statutory_framing"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_02_parliamentary_interpellation"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "хяналтын шатны шүүх хуралдаан",
+      "шүүгчийн асуулт",
+      "хариулт",
+      "тайлбар"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "Decipher fast-paced judicial cross-interrogation dissecting complex statutory doctrines and legislative intent.",
+    "writingObjective": "",
+    "spokenProductionObjective": "",
+    "registerTarget": "supreme judicial deliberative",
+    "pragmaticTarget": "apex judicial interrogation",
+    "prerequisiteLessonIds": [
+      "les_c1_207_01_supreme_court_dossier_analysis_reading"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_204_02_tsets_plenary_session_deliberation_listening"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_204_constitutional_court_jurisprudence_"
+    ],
+    "reviewReason": "Consolidates constitutional oral hearing comprehension into supreme appellate judicial chamber interrogations.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide live courtroom audio of Supreme Court Chamber proceedings with multi-speaker judicial questioning and counsel responses.",
+    "successCriteria": [
+      "Transcribes the legal hypothesis and statutory contradiction posed by the presiding judge accurately",
+      "Evaluates whether the arguing advocate's oral answer resolved or deepened the judicial panel's doubts"
+    ],
+    "masteryEvidence": "Produces an exhaustive judicial colloquy transcript and analytical breakdown from the 5-minute recording.",
+    "recommendedExerciseModalities": [
+      "extended_listening_comprehension",
+      "discourse_analysis"
+    ]
+  },
+  {
+    "lessonId": "les_c1_207_03_appellate_memorandum_of_law_writing",
+    "unitId": "unit_c1_207_constitutional_jurisprudence_capsto",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 3,
+    "title": "Capstone Writing: Comprehensive Cassation Petition (Хяналтын журмаар гаргах гомдол)",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 460-word authoritative Cassation Petition to the Supreme Court of Mongolia, synthesizing chancellery syntax, statutory framing, and constitutional doctrines.",
+    "communicativeOutcome": "Produce an exemplary appellate legal brief satisfying all formal requirements for Supreme Court review under the Civil or Administrative Procedure Code.",
+    "objectivesIntroduced": [
+      "obj_c1_207_03_author_cassation_petitions"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_207_01_master_supreme_court_dossiers"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_c1_legal_statutory_framing",
+      "gram_c1_causative_nominalizations_in_governance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_09_formal_policy_recommendations"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "хяналтын гомдол",
+      "хууль буруу тайлбарласан",
+      "шийдвэрийг хүчингүй болгох"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Draft a master-level cassation appeal detailing lower court misinterpretations and demonstrating that the appeal raises an issue of nationwide jurisprudence.",
+    "spokenProductionObjective": "",
+    "registerTarget": "supreme judicial chancellery",
+    "pragmaticTarget": "formal cassation advocacy",
+    "prerequisiteLessonIds": [
+      "les_c1_207_02_full_bench_judicial_interrogation_listening"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_203_04_drafting_grounds_for_appeal_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_203_courtroom_argumentation_prosecutor_"
+    ],
+    "reviewReason": "Extends intermediate appellate notice of appeal drafting into supreme court cassation brief composition.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Demonstrates that lower court rulings created conflicting jurisprudence across appellate circuits",
+      "Applies sophisticated participial nominalizations and deontic statutory modifiers without flaw"
+    ],
+    "masteryEvidence": "Submits a compliant 460-word Cassation Petition requesting full reversal of an appellate court judgment.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c1_207_04_constitutional_remedies_amicus_brief_writing",
+    "unitId": "unit_c1_207_constitutional_jurisprudence_capsto",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 4,
+    "title": "Capstone Writing: Amicus Curiae Jurisprudential Advisory Opinion",
+    "lessonType": "writing",
+    "primaryPurpose": "Author a 450-word Amicus Curiae brief submitted by the National Human Rights Commission or Bar Association to the Supreme Court En Banc regarding statutory harmony and civil liberties.",
+    "communicativeOutcome": "Produce high-register impartial juristic counsel evaluating broad public policy implications and international treaty compliance.",
+    "objectivesIntroduced": [
+      "obj_c1_207_04_author_amicus_opinions"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_207_01_master_supreme_court_dossiers"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_c1_legal_statutory_framing",
+      "gram_c1_causative_nominalizations_in_governance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_13_scholarly_synthesis"
+    ],
+    "newProductiveLemmaTarget": 5,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 2,
+    "newReceptiveExpressionTarget": 2,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "хөндлөнгийн дүгнэлт",
+      "хүний эрхийн үндэсний комисс",
+      "олон улсын гэрээ конвенц"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "Author an amicus curiae memorandum analyzing constitutional rights doctrines and recommending systemic statutory harmonization.",
+    "spokenProductionObjective": "",
+    "registerTarget": "academic judicial advisory",
+    "pragmaticTarget": "disinterested juristic counsel",
+    "prerequisiteLessonIds": [
+      "les_c1_207_03_appellate_memorandum_of_law_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_198_03_sovereign_rights_commentary_writing"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_198_the_1992_democratic_constitution_of"
+    ],
+    "reviewReason": "Synthesizes constitutional commentary writing into high-level amicus curiae legal brief formulation.",
+    "audioSuitability": "none",
+    "audioPurpose": null,
+    "successCriteria": [
+      "Balances domestic constitutional norms against ratified international human rights covenants",
+      "Adopts an objective, authoritative advisory tone avoiding partisan litigant bias"
+    ],
+    "masteryEvidence": "Submits a 450-word Amicus brief guiding the Supreme Court on privacy rights in digital communications surveillance.",
+    "recommendedExerciseModalities": [
+      "statutory_clause_drafting",
+      "summary_writing"
+    ]
+  },
+  {
+    "lessonId": "les_c1_207_05_supreme_court_en_banc_oral_argument_spoken",
+    "unitId": "unit_c1_207_constitutional_jurisprudence_capsto",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 5,
+    "title": "Capstone Advocacy: Supreme Court En Banc Oral Pleading & Judicial Defense",
+    "lessonType": "spoken_production",
+    "primaryPurpose": "Deliver an unscripted 4.5-minute oral pleading before the Full Bench of the Supreme Court of Mongolia, defending a cassation petition and fielding demanding judicial scrutiny.",
+    "communicativeOutcome": "Demonstrate pinnacle C1 spoken courtroom mastery, responding spontaneously to theoretical legal inquiries with effortless linguistic precision.",
+    "objectivesIntroduced": [
+      "obj_c1_207_05_deliver_supreme_court_oral_pleadings"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_207_01_master_supreme_court_dossiers"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax"
+    ],
+    "grammarReviewed": [
+      "gram_c1_legal_statutory_framing",
+      "gram_c1_causative_nominalizations_in_governance"
+    ],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_10_high_stakes_negotiation"
+    ],
+    "newProductiveLemmaTarget": 6,
+    "newReceptiveLemmaTarget": 6,
+    "newProductiveExpressionTarget": 3,
+    "newReceptiveExpressionTarget": 1,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "хяналтын шатны шүүх",
+      "өмгөөллийн үндэслэл",
+      "хууль хэрэглээ",
+      "эцсийн тайлбар"
+    ],
+    "readingObjective": "",
+    "listeningObjective": "",
+    "writingObjective": "",
+    "spokenProductionObjective": "Argue an advanced constitutional cassation petition orally before the Supreme Court justices, handling complex hypothetical counter-arguments with authority.",
+    "registerTarget": "supreme judicial oratorical",
+    "pragmaticTarget": "authoritative judicial persuasion",
+    "prerequisiteLessonIds": [
+      "les_c1_207_04_constitutional_remedies_amicus_brief_writing"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_204_03_constitutional_dispute_argumentation_spoken"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_204_constitutional_court_jurisprudence_"
+    ],
+    "reviewReason": "Culminates oral advocacy across Constitutional Court disputes into supreme appellate oral pleading mastery.",
+    "audioSuitability": "native_speaker_preferred",
+    "audioPurpose": "Provide benchmark audio of distinguished appellate advocate presenting oral arguments to the Supreme Court En Banc.",
+    "successCriteria": [
+      "Maintains impeccable judicial decorum and oratorical presence throughout the 4.5-minute plea",
+      "Resolves judicial hypotheticals by citing statutory coherence and supreme constitutional principles without pause"
+    ],
+    "masteryEvidence": "Delivers an unscripted 4.5-minute oral defense before a simulated Supreme Court panel securing acceptance of the petition.",
+    "recommendedExerciseModalities": [
+      "oral_presentation_planning",
+      "rebuttal_transformation"
+    ]
+  },
+  {
+    "lessonId": "les_c1_207_06_c1_sec01_culminating_constitutional_capstone",
+    "unitId": "unit_c1_207_constitutional_jurisprudence_capsto",
+    "cefrLevel": "C1",
+    "sequenceWithinUnit": 6,
+    "title": "Culminating Synthesis Capstone: Section 01 Mastery Defense & Constitutional Dossier",
+    "lessonType": "synthesis_capstone",
+    "primaryPurpose": "Execute a comprehensive multi-stage Section 01 capstone synthesis integrating chancellery syntax, classical jussives, statutory framing, appositive titles, causative nominalizations, and judicial argumentation across a simulated national constitutional dispute.",
+    "communicativeOutcome": "Demonstrate complete operational proficiency in Mongolian constitutional, statutory, and judicial discourse across all four communicative modalities.",
+    "objectivesIntroduced": [
+      "obj_c1_207_06_master_sec01_culminating_synthesis"
+    ],
+    "objectivesPracticed": [
+      "obj_c1_198_01_parse_chancellery_nominalizations",
+      "obj_c1_199_01_master_classical_jussives",
+      "obj_c1_200_01_master_statutory_framing",
+      "obj_c1_201_01_master_appositive_titles",
+      "obj_c1_202_01_master_causative_nominalizations"
+    ],
+    "objectivesReviewed": [],
+    "grammarIntroduced": [],
+    "grammarPracticed": [
+      "gram_c1_administrative_chancellery_syntax",
+      "gram_c1_archaic_jussive_sugai_tugai",
+      "gram_c1_legal_statutory_framing",
+      "gram_c1_complex_appositive_titles_and_epithets",
+      "gram_c1_causative_nominalizations_in_governance"
+    ],
+    "grammarReviewed": [],
+    "phonologyIntroduced": [],
+    "phonologyPracticed": [],
+    "phonologyReviewed": [],
+    "communicativeFunctionsIntroduced": [],
+    "communicativeFunctionsPracticed": [
+      "comm_c1_04_statutory_legislative_drafting"
+    ],
+    "communicativeFunctionsReviewed": [
+      "comm_b2_13_scholarly_synthesis"
+    ],
+    "newProductiveLemmaTarget": 0,
+    "newReceptiveLemmaTarget": 0,
+    "newProductiveExpressionTarget": 0,
+    "newReceptiveExpressionTarget": 0,
+    "lexicalDomains": [
+      "lex_c1_jurisprudence_constitutional_law"
+    ],
+    "previousVocabularyReused": [
+      "үндсэн хууль",
+      "цэц",
+      "улсын дээд шүүх",
+      "тогтоол",
+      "зарлиг",
+      "тушаал",
+      "гомдол",
+      "нэхэмжлэл"
+    ],
+    "readingObjective": "Synthesize multiple legal dossiers containing contradictory statutory interpretations, executive orders, and citizen claims.",
+    "listeningObjective": "Extract legal points of contention from complex multi-party judicial hearings delivered at natural native pace.",
+    "writingObjective": "Draft an authoritative, multi-section judicial opinion or comprehensive legal brief resolving the constitutional dispute.",
+    "spokenProductionObjective": "Deliver an unscripted oral defense of the legal resolution before a panel of legal experts, fielding technical counter-arguments.",
+    "registerTarget": "comprehensive state chancellery & judicial",
+    "pragmaticTarget": "definitive juristic mastery and resolution",
+    "prerequisiteLessonIds": [
+      "les_c1_207_03_appellate_memorandum_of_law_writing",
+      "les_c1_207_05_supreme_court_en_banc_oral_argument_spoken"
+    ],
+    "reviewsLessonIds": [
+      "les_c1_198_01_administrative_chancellery_syntax_intro",
+      "les_c1_199_01_archaic_jussive_syntax_intro",
+      "les_c1_200_01_legal_statutory_framing_syntax_intro",
+      "les_c1_201_01_complex_appositive_titles_syntax_intro",
+      "les_c1_202_01_causative_nominalization_syntax_intro"
+    ],
+    "reviewsUnitIds": [
+      "unit_c1_198_the_1992_democratic_constitution_of",
+      "unit_c1_199_archaic_classical_jussives_suffixes",
+      "unit_c1_200_statutory_drafting_legal_framing_fo",
+      "unit_c1_201_appositive_titles_epithets_chancell",
+      "unit_c1_202_causative_nominalizations_in_instit"
+    ],
+    "reviewReason": "Comprehensive culmination of all Section 01 grammar, lexical domains, and communicative functions.",
+    "audioSuitability": "native_speaker_required",
+    "audioPurpose": "Provide multi-speaker judicial deliberation recording representing the apex of formal Mongolian oratorical argumentation.",
+    "successCriteria": [
+      "Executes all 5 Section 01 grammatical structures flawlessly across written and oral tasks",
+      "Resolves complex constitutional controversies demonstrating deep institutional comprehension",
+      "Switches between state chancellery, statutory drafting, and oral adversarial registers without code confusion"
+    ],
+    "masteryEvidence": "Successfully defends an unabridged constitutional dossier comprising a 450-word written brief and a 4.5-minute oral defense before an expert panel.",
+    "recommendedExerciseModalities": [
+      "argument_mapping",
+      "statutory_clause_drafting",
+      "rebuttal_transformation"
+    ]
+  }
+]
