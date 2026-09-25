@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import type { Lesson, Unit, LevelCurriculum, Exercise } from '../types/curriculum';
 import { playMongolianAudio } from '../utils/audio';
+import { normalizeEvaluationText } from '../utils/evaluationEngine';
 import { CyrillicKeyboard } from './CyrillicKeyboard';
 import {
   Volume2,
@@ -130,8 +131,8 @@ export const LessonView: React.FC<LessonViewProps> = ({
 
     switch (currentExercise.type) {
       case 'AUDIO_DICTATION': {
-        const cleanUser = textInput.trim().toLowerCase().replace(/[.,!?;:]/g, '');
-        const cleanExpected = (currentExercise.correctAnswer || '').trim().toLowerCase().replace(/[.,!?;:]/g, '');
+        const cleanUser = normalizeEvaluationText(textInput, { stripPunctuation: true, caseSensitive: false });
+        const cleanExpected = normalizeEvaluationText(currentExercise.correctAnswer || '', { stripPunctuation: true, caseSensitive: false });
         correct = cleanUser === cleanExpected;
         break;
       }
@@ -144,9 +145,15 @@ export const LessonView: React.FC<LessonViewProps> = ({
         break;
       }
       case 'SENTENCE_CONSTRUCTION': {
-        const userOrder = builtSentenceTokens.join(' ').trim().toLowerCase();
-        const expectedOrder = (currentExercise.correctTokenOrder || []).join(' ').trim().toLowerCase();
-        correct = userOrder === expectedOrder;
+        const cleanUserTokens = builtSentenceTokens.map((t) =>
+          normalizeEvaluationText(t, { stripPunctuation: true, caseSensitive: false })
+        );
+        const cleanExpectedTokens = (currentExercise.correctTokenOrder || []).map((t) =>
+          normalizeEvaluationText(t, { stripPunctuation: true, caseSensitive: false })
+        );
+        correct =
+          cleanUserTokens.length === cleanExpectedTokens.length &&
+          cleanUserTokens.every((t, i) => t === cleanExpectedTokens[i]);
         break;
       }
       case 'GRAMMAR_APPLICATION': {
