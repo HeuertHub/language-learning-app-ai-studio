@@ -1,4 +1,6 @@
-export type CEFRLevel = 'A1' | 'A2' | 'B1' | 'B2' | 'C1' | 'C2';
+import type { ExerciseDefinition } from './exerciseEngine';
+
+export type CEFRLevel = 'Pre-A1' | 'A1' | 'A2' | 'B1' | 'B2' | 'C1' | 'C2';
 
 export type ExerciseType =
   | 'AUDIO_DICTATION'        // Listen to audio and transcribe in Cyrillic
@@ -69,13 +71,18 @@ export interface Lesson {
   title: string;
   cyrillicTitle: string;
   estimatedMinutes: number;
+  lessonType?: string;
+  primaryPurpose?: string;
+  communicativeOutcome?: string;
+  audioSuitability?: string;
+  audioPurpose?: string;
   grammarOverview: {
     summary: string;
     keyPoints: string[];
     rules: GrammarRule[];
   };
   vocabulary: VocabularyItem[];
-  exercises: Exercise[];
+  exercises: (ExerciseDefinition | Exercise)[];
 }
 
 export interface Unit {

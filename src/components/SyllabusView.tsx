@@ -61,8 +61,8 @@ export const SyllabusView: React.FC<SyllabusViewProps> = ({
               <div className="text-stone-600 font-medium">
                 {completedCount} of {totalLessons} Lessons Completed
               </div>
-              <div className="text-stone-500 text-[11px]">
-                {progress.timeSpentMinutes} Focus Minutes Logged
+              <div className="text-stone-500 text-[11px] font-mono">
+                {totalLessons - completedCount} Lessons Remaining
               </div>
             </div>
           </div>
@@ -74,7 +74,7 @@ export const SyllabusView: React.FC<SyllabusViewProps> = ({
             <span className="text-xs text-stone-500 font-medium mr-1 flex items-center gap-1">
               <Filter className="w-3.5 h-3.5" /> Filter Level:
             </span>
-            {(['ALL', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2'] as const).map((level) => (
+            {(['ALL', 'Pre-A1', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2'] as const).map((level) => (
               <button
                 key={level}
                 type="button"

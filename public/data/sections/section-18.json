@@ -1,0 +1,1090 @@
+{
+  "sectionId": "sec_b2_02_ecology_climate_zud_sustainability",
+  "sectionNumber": 18,
+  "title": "Ecological Dynamics, Climate Change, Dzud & Resource Economics",
+  "cyrillicTitle": "Уур амьсгалын өөрчлөлт, зудын эрсдэл ба тогтвортой хөгжил",
+  "cefr": "B2",
+  "theme": "Interpret statistical charts and environmental data, evaluate disaster management plans, discuss renewable energy, and negotiate commercial terms regarding resource stewardship.",
+  "description": "Deepen technical analysis of Mongolia's unique ecological vulnerabilities, the winter disaster (зуд) phenomenon, pasture degradation, renewable energy transitions, and mining resource tensions.",
+  "unitCount": 10,
+  "lessonCount": 46,
+  "exerciseCount": 0,
+  "units": [
+    {
+      "id": "unit_b2_167_the_meteorology_of_dzud_frost_ice_s",
+      "unitNumber": 167,
+      "title": "The Meteorology of Dzud: Frost, Ice & Starvation",
+      "cyrillicTitle": "Dissecting the winter disaster types: цагаан, төмөр, хар зуд",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: The Meteorology of Dzud: Frost, Ice & Starvation.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "Dissecting the winter disaster types: цагаан, төмөр, хар зуд",
+      "lessons": [
+        {
+          "id": "les_b2_167_01_siberian_anticyclone_meteorological_bulletin_reading",
+          "title": "Meteorological Dossier: Siberian Anticyclone Dynamics & Ground Frost Severity",
+          "cyrillicTitle": "Extract critical temperature anomalies, snow-cover depths, and pasture blockage metrics from institutional weather bulletins.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse dense synoptic weather bulletins and agro-meteorological bulletins analyzing cold-air inversions, barometric pressure anomalies, and snowpack crusting.",
+          "communicativeOutcome": "Extract critical temperature anomalies, snow-cover depths, and pasture blockage metrics from institutional weather bulletins.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse dense synoptic weather bulletins and agro-meteorological bulletins analyzing cold-air inversions, barometric pressure anomalies, and snowpack crusting.",
+            "keyPoints": [
+              "obj_b2_167_01_parse_synoptic_bulletins"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_167_02_emergency_agency_acoustic_bulletin_listening",
+          "title": "Acoustic Warning: National Emergency Agency Severe Dzud Radio Alert",
+          "cyrillicTitle": "Comprehend rapid spoken crisis alerts (145 wpm) and transcribe actionable safety directives and road closures.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Interpret rapid, urgent emergency management announcements containing blizzard route closures, stranded herder coordinates, and livestock shelter advisories.",
+          "communicativeOutcome": "Comprehend rapid spoken crisis alerts (145 wpm) and transcribe actionable safety directives and road closures.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Expose learners to rapid multi-region emergency dispatches with authentic radio static and acoustic urgency.",
+          "grammarOverview": {
+            "summary": "Interpret rapid, urgent emergency management announcements containing blizzard route closures, stranded herder coordinates, and livestock shelter advisories.",
+            "keyPoints": [
+              "obj_b2_167_02_comprehend_crisis_broadcasts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_167_03_livestock_emergency_evacuation_advisory_writing",
+          "title": "Advisory Composition: Herder Wintering & Fodder Allocation Warning",
+          "cyrillicTitle": "Author an authoritative 240-word district crisis advisory specifying pasture closures and emergency fodder distribution quotas.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Draft structured crisis advisories detailing otar migration permits, emergency hay reserves distribution, and livestock hypothermia prevention.",
+          "communicativeOutcome": "Author an authoritative 240-word district crisis advisory specifying pasture closures and emergency fodder distribution quotas.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Draft structured crisis advisories detailing otar migration permits, emergency hay reserves distribution, and livestock hypothermia prevention.",
+            "keyPoints": [
+              "obj_b2_167_03_draft_crisis_advisories"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_167_04_provincial_emergency_press_briefing_speech",
+          "title": "Spoken Delivery: Aimag Disaster Commission Crisis Press Briefing",
+          "cyrillicTitle": "Deliver a 3-minute formal crisis briefing outlining provincial relief efforts with measured oratorical cadence and clear evidential framing.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an oral situation report summarizing provincial livestock losses, road unblocking operations, and aid convoy logistics.",
+          "communicativeOutcome": "Deliver a 3-minute formal crisis briefing outlining provincial relief efforts with measured oratorical cadence and clear evidential framing.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide an exemplar regional governor disaster briefing modeling measured pace and grave vocal resonance.",
+          "grammarOverview": {
+            "summary": "Deliver an oral situation report summarizing provincial livestock losses, road unblocking operations, and aid convoy logistics.",
+            "keyPoints": [
+              "obj_b2_167_04_deliver_crisis_briefing"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_167_05_comparative_district_vulnerability_memo_writing",
+          "title": "Analytical Memorandum: Cross-Soum Dzud Vulnerability & Risk Tiering",
+          "cyrillicTitle": "Author a 250-word policy memorandum categorizing 4 districts into Red, Orange, and Yellow disaster risk tiers.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Synthesize meteorological data, livestock herd numbers, and fodder stock levels into an executive risk tiering memorandum.",
+          "communicativeOutcome": "Author a 250-word policy memorandum categorizing 4 districts into Red, Orange, and Yellow disaster risk tiers.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Synthesize meteorological data, livestock herd numbers, and fodder stock levels into an executive risk tiering memorandum.",
+            "keyPoints": [
+              "obj_b2_167_05_tier_disaster_vulnerability"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_168_gradual_proportional_converb_suffix",
+      "unitNumber": 168,
+      "title": "Gradual Proportional Converb: Suffixes -тусам/-түсэм",
+      "cyrillicTitle": "Expressing correlative progression ('хүйтрэх тусам хэцүү болно')",
+      "description": "Acquire and apply grammatical morphology (gram_b2_converb_gradual_proportional_tusam) to fulfill communicative functions in: Gradual Proportional Converb: Suffixes -тусам/-түсэм.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_converb_gradual_proportional_tusam",
+      "lessons": [
+        {
+          "id": "les_b2_168_01_gradual_proportional_converb_syntax_intro",
+          "title": "Morphosyntax: Gradual Proportional Converb Suffixes '-тусам/-түсэм'",
+          "cyrillicTitle": "Construct complex paired sentences expressing proportional environmental acceleration using -тусам/-түсэм.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the morphophonology, syntactic distribution, and semantic function of the gradual proportional converb (-тусам/-түсэм) expressing correlated change ('the more... the more...').",
+          "communicativeOutcome": "Construct complex paired sentences expressing proportional environmental acceleration using -тусам/-түсэм.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the morphophonology, syntactic distribution, and semantic function of the gradual proportional converb (-тусам/-түсэм) expressing correlated change ('the more... the more...').",
+            "keyPoints": [
+              "obj_b2_168_01_master_proportional_converb"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_168_02_pasture_degradation_correlations_reading",
+          "title": "Ecological Research: Exponential Overgrazing & Pasture Biomass Depletion",
+          "cyrillicTitle": "Interpret proportional scientific correlations in a 340-word academic study on pasture carrying capacities.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Analyze a specialized botanical report tracing how increases in herd density proportionally degrade palatable steppe vegetation cover.",
+          "communicativeOutcome": "Interpret proportional scientific correlations in a 340-word academic study on pasture carrying capacities.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Analyze a specialized botanical report tracing how increases in herd density proportionally degrade palatable steppe vegetation cover.",
+            "keyPoints": [
+              "obj_b2_168_02_read_pasture_degradation_studies"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_168_03_pasture_carrying_capacity_oral_briefing",
+          "title": "Oral Analysis: Presenting Proportional Herd Pressure to Pasture Committees",
+          "cyrillicTitle": "Explain complex ecological trade-offs in a 3-minute persuasive address using -тусам/-түсэм and measured evidential rhetoric.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an oral briefing to local herder cooperative leaders demonstrating how continued herd expansion proportionally diminishes winter survival odds.",
+          "communicativeOutcome": "Explain complex ecological trade-offs in a 3-minute persuasive address using -тусам/-түсэм and measured evidential rhetoric.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark recording of agricultural extension agent delivering persuasive pasture management briefing.",
+          "grammarOverview": {
+            "summary": "Deliver an oral briefing to local herder cooperative leaders demonstrating how continued herd expansion proportionally diminishes winter survival odds.",
+            "keyPoints": [
+              "obj_b2_168_03_deliver_carrying_capacity_briefing"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_168_04_climate_desertification_analytical_summary_writing",
+          "title": "Written Synthesis: Long-Term Steppe Aridification & Degradation Trends",
+          "cyrillicTitle": "Draft a 260-word technical summary demonstrating proportional links between declining soil moisture and vegetative shift.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an analytical summary condensing multi-year environmental observations into an executive report on desertification progression.",
+          "communicativeOutcome": "Draft a 260-word technical summary demonstrating proportional links between declining soil moisture and vegetative shift.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an analytical summary condensing multi-year environmental observations into an executive report on desertification progression.",
+            "keyPoints": [
+              "obj_b2_168_04_write_aridification_summary"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_169_durative_adversative_converb_suffix",
+      "unitNumber": 169,
+      "title": "Durative Adversative Converb: Suffixes -саар байтал",
+      "cyrillicTitle": "Contrasting sustained efforts with contrary outcomes",
+      "description": "Acquire and apply grammatical morphology (gram_b2_converb_durative_adversative_saar_baital) to fulfill communicative functions in: Durative Adversative Converb: Suffixes -саар байтал.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_converb_durative_adversative_saar_baital",
+      "lessons": [
+        {
+          "id": "les_b2_169_01_durative_adversative_converb_syntax_intro",
+          "title": "Morphosyntax: Durative Adversative Converb Suffixes '-саар байтал'",
+          "cyrillicTitle": "Formulate compound adversative sentences expressing persistent crisis management amidst deteriorating weather.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic formation and semantic contrast of the compound converb '-саар байтал' indicating an ongoing action interrupted or defied by an adverse development ('while... still / in spite of ongoing...').",
+          "communicativeOutcome": "Formulate compound adversative sentences expressing persistent crisis management amidst deteriorating weather.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic formation and semantic contrast of the compound converb '-саар байтал' indicating an ongoing action interrupted or defied by an adverse development ('while... still / in spite of ongoing...').",
+            "keyPoints": [
+              "obj_b2_169_01_master_durative_adversative_converb"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_169_02_herder_testimony_delayed_fodder_listening",
+          "title": "Acoustic Dissection: Herder Cooperative Testimony on Stranded Convoys",
+          "cyrillicTitle": "Extract timeline discrepancies and administrative grievances from emotional spoken eyewitness accounts (140 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to authentic rural herder testimonies describing the agony of waiting for subsidized hay while livestock perish in snowdrifts.",
+          "communicativeOutcome": "Extract timeline discrepancies and administrative grievances from emotional spoken eyewitness accounts (140 wpm).",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Expose learners to regional Western Khalkha dialect phonology and heartfelt conversational pacing of elderly rural herders.",
+          "grammarOverview": {
+            "summary": "Listen to authentic rural herder testimonies describing the agony of waiting for subsidized hay while livestock perish in snowdrifts.",
+            "keyPoints": [
+              "obj_b2_169_02_extract_testimony_grievances"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_169_03_logistics_failure_inspection_report_reading",
+          "title": "Investigative Audit: State Inspection of Winterization Resource Depots",
+          "cyrillicTitle": "Analyze institutional culpability and contractual non-performance in a 360-word State Inspection Agency audit.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a formal auditing investigation detailing state procurement failures and unfulfilled municipal emergency stockpiles.",
+          "communicativeOutcome": "Analyze institutional culpability and contractual non-performance in a 360-word State Inspection Agency audit.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a formal auditing investigation detailing state procurement failures and unfulfilled municipal emergency stockpiles.",
+            "keyPoints": [
+              "obj_b2_169_03_audit_procurement_failures"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_169_04_cross_examining_crisis_logistics_spoken",
+          "title": "Spoken Interrogation: Cross-Examining Supply Chain Directors on Neglect",
+          "cyrillicTitle": "Conduct a 3-minute sharp oral interrogation confronting an official with documented neglect using -саар байтал and rhetorical pressure.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Simulate parliamentary or council cross-examination of emergency supply directors regarding known stock deficits prior to blizzard onset.",
+          "communicativeOutcome": "Conduct a 3-minute sharp oral interrogation confronting an official with documented neglect using -саар байтал and rhetorical pressure.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide model adversarial cross-examination recording illustrating controlled indignation and incisive grammatical framing.",
+          "grammarOverview": {
+            "summary": "Simulate parliamentary or council cross-examination of emergency supply directors regarding known stock deficits prior to blizzard onset.",
+            "keyPoints": [
+              "obj_b2_169_04_interrogate_supply_directors"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_170_negative_framing_converb_suffixes_",
+      "unitNumber": 170,
+      "title": "Negative Framing Converb: Suffixes -гүйгээр",
+      "cyrillicTitle": "Describing processes carried out without essential prerequisites",
+      "description": "Acquire and apply grammatical morphology (gram_b2_converb_negative_framing_guigeer) to fulfill communicative functions in: Negative Framing Converb: Suffixes -гүйгээр.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_converb_negative_framing_guigeer",
+      "lessons": [
+        {
+          "id": "les_b2_170_01_negative_framing_converb_syntax_intro",
+          "title": "Morphosyntax: Negative Framing Converb Suffixes '-гүйгээр'",
+          "cyrillicTitle": "Formulate precise regulatory conditional mandates specifying mandatory environmental actions without which operations cannot proceed.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic scope and administrative application of the negative framing converb '-гүйгээр' expressing essential prerequisites and conditional exclusion ('without having done...').",
+          "communicativeOutcome": "Formulate precise regulatory conditional mandates specifying mandatory environmental actions without which operations cannot proceed.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic scope and administrative application of the negative framing converb '-гүйгээр' expressing essential prerequisites and conditional exclusion ('without having done...').",
+            "keyPoints": [
+              "obj_b2_170_01_master_negative_framing_converb"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_170_02_environmental_compliance_audit_reading",
+          "title": "Regulatory Review: Environmental Compliance in Mining Tailings Management",
+          "cyrillicTitle": "Evaluate regulatory infractions and legal consequences in an official environmental enforcement directive.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a dense 350-word ministerial environmental compliance order halting mining operations due to unpermitted tailing dam discharges.",
+          "communicativeOutcome": "Evaluate regulatory infractions and legal consequences in an official environmental enforcement directive.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a dense 350-word ministerial environmental compliance order halting mining operations due to unpermitted tailing dam discharges.",
+            "keyPoints": [
+              "obj_b2_170_02_read_compliance_directives"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_170_03_zero_wastewater_regulatory_mandate_writing",
+          "title": "Administrative Drafting: Mandatory Wastewater Treatment Compliance Order",
+          "cyrillicTitle": "Author a 250-word legally enforceable administrative compliance order specifying zero-discharge obligations.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Draft a formal administrative mandate prohibiting mineral processing operations without certified closed-cycle wastewater recycling facilities.",
+          "communicativeOutcome": "Author a 250-word legally enforceable administrative compliance order specifying zero-discharge obligations.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Draft a formal administrative mandate prohibiting mineral processing operations without certified closed-cycle wastewater recycling facilities.",
+            "keyPoints": [
+              "obj_b2_170_03_draft_compliance_orders"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_170_04_pasture_water_protection_advocacy_speech",
+          "title": "Spoken Advocacy: Demanding River Basin Conservation at Tripartite Council",
+          "cyrillicTitle": "Deliver a 3-minute persuasive advocacy address demanding strict environmental compliance using '-гүйгээр' and evidential rhetoric.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an impassioned yet legally grounded oral appeal at a river basin council asserting that no gold exploration may occur without local pastoral consent.",
+          "communicativeOutcome": "Deliver a 3-minute persuasive advocacy address demanding strict environmental compliance using '-гүйгээр' and evidential rhetoric.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark speech of civic environmental leader defending river headwaters with persuasive eloquence.",
+          "grammarOverview": {
+            "summary": "Deliver an impassioned yet legally grounded oral appeal at a river basin council asserting that no gold exploration may occur without local pastoral consent.",
+            "keyPoints": [
+              "obj_b2_170_04_deliver_basin_advocacy_speech"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_171_stacked_voice_causative_passive_mor",
+      "unitNumber": 171,
+      "title": "Stacked Voice: Causative-Passive Morphology (-уулагдах)",
+      "cyrillicTitle": "Expressing actions where a delegated causee is acted upon",
+      "description": "Acquire and apply grammatical morphology (gram_b2_voice_stacking_causative_passive) to fulfill communicative functions in: Stacked Voice: Causative-Passive Morphology (-уулагдах).",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_voice_stacking_causative_passive",
+      "lessons": [
+        {
+          "id": "les_b2_171_01_stacked_voice_causative_passive_intro",
+          "title": "Morphosyntax: Stacked Causative-Passive Morphology '-уулагдах / -лгэгдэх'",
+          "cyrillicTitle": "Construct complex institutional statements describing parties being subjected to mandatory state or corporate directives.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the double-suffix morphological hierarchy combining causative derivation (-уул-/-лга-) with passive inflection (-агд-/-гд-) to express compelled or externally mandated institutional actions ('be made to undergo...').",
+          "communicativeOutcome": "Construct complex institutional statements describing parties being subjected to mandatory state or corporate directives.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the double-suffix morphological hierarchy combining causative derivation (-уул-/-лга-) with passive inflection (-агд-/-гд-) to express compelled or externally mandated institutional actions ('be made to undergo...').",
+            "keyPoints": [
+              "obj_b2_171_01_master_stacked_causative_passive"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_171_02_supreme_court_pasture_expropriation_reading",
+          "title": "Judicial Parsing: Supreme Court Ruling on Pasture Expropriation & Compensation",
+          "cyrillicTitle": "Extract legal precedents, statutory liability definitions, and restitution orders from a formal court ruling.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a highly technical 370-word judicial judgment from the Administrative Court reviewing herders who were compelled to relocate from mining lease territories.",
+          "communicativeOutcome": "Extract legal precedents, statutory liability definitions, and restitution orders from a formal court ruling.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a highly technical 370-word judicial judgment from the Administrative Court reviewing herders who were compelled to relocate from mining lease territories.",
+            "keyPoints": [
+              "obj_b2_171_02_read_judicial_rulings"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_171_03_pasture_eviction_investigative_audio_listening",
+          "title": "Investigative Audio: Investigative Report on Coerced Winter Camp Resettlement",
+          "cyrillicTitle": "Discern factual intimidation claims from legal corporate defenses in a multi-party spoken investigative program (145 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to an investigative audio documentary tracking herder families forced to dismantle ancestral winter encampments under corporate security pressure.",
+          "communicativeOutcome": "Discern factual intimidation claims from legal corporate defenses in a multi-party spoken investigative program (145 wpm).",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic broadcast journalism audio with field interviews, background machinery noise, and sharp interviewer tone.",
+          "grammarOverview": {
+            "summary": "Listen to an investigative audio documentary tracking herder families forced to dismantle ancestral winter encampments under corporate security pressure.",
+            "keyPoints": [
+              "obj_b2_171_03_analyze_investigative_audio"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_171_04_oral_defense_pasture_sovereignty_speech",
+          "title": "Spoken Testimony: Defending Ancestral Grazing Rights Before Land Inquiry",
+          "cyrillicTitle": "Deliver a 3-minute impassioned legal-pastoral defense articulating why herders cannot be forced into resettlement.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an oral defense of herder rights before a national land commission, arguing against coerced relocation and unlawful licensing.",
+          "communicativeOutcome": "Deliver a 3-minute impassioned legal-pastoral defense articulating why herders cannot be forced into resettlement.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of senior legal advocate delivering oral arguments at national land tribunal.",
+          "grammarOverview": {
+            "summary": "Deliver an oral defense of herder rights before a national land commission, arguing against coerced relocation and unlawful licensing.",
+            "keyPoints": [
+              "obj_b2_171_04_deliver_pasture_defense_speech"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_171_05_legal_petition_against_expropriation_writing",
+          "title": "Legal Petition: Formal Appeal to Constitutional Court on Pasture Inviolability",
+          "cyrillicTitle": "Author a 260-word formal legal appeal detailing violations of pasture user rights and requesting an immediate injunction.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Draft a formal legal petition appealing an administrative eviction order, arguing that pastoralists were unconstitutionally subjected to forced contract signing.",
+          "communicativeOutcome": "Author a 260-word formal legal appeal detailing violations of pasture user rights and requesting an immediate injunction.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Draft a formal legal petition appealing an administrative eviction order, arguing that pastoralists were unconstitutionally subjected to forced contract signing.",
+            "keyPoints": [
+              "obj_b2_171_05_draft_legal_appeal"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_172_double_causative_morphology_delegat",
+      "unitNumber": 172,
+      "title": "Double Causative Morphology: Delegated Actions",
+      "cyrillicTitle": "Expressing secondary delegation of agency through institutional chains",
+      "description": "Acquire and apply grammatical morphology (gram_b2_voice_double_causative_delegated) to fulfill communicative functions in: Double Causative Morphology: Delegated Actions.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_voice_double_causative_delegated",
+      "lessons": [
+        {
+          "id": "les_b2_172_01_double_causative_morphology_intro",
+          "title": "Morphosyntax: Double Causative Morphology (-уул-уул- / -лга-уул-) in Delegated Action",
+          "cyrillicTitle": "Construct complex institutional delegation chains distinguishing primary instigator, intermediate manager, and ultimate executor.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce double causative derivation expressing secondary delegation where an executive causes an intermediary to compel a contractor to perform environmental remediation.",
+          "communicativeOutcome": "Construct complex institutional delegation chains distinguishing primary instigator, intermediate manager, and ultimate executor.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce double causative derivation expressing secondary delegation where an executive causes an intermediary to compel a contractor to perform environmental remediation.",
+            "keyPoints": [
+              "obj_b2_172_01_master_double_causative"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_172_02_mine_tailings_remediation_tender_reading",
+          "title": "Technical Reading: Mine Tailings Ecological Remediation Subcontracting Tender",
+          "cyrillicTitle": "Evaluate hierarchical performance liabilities and milestone verification protocols in a commercial ecological contract.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 360-word commercial tender document outlining obligations where a mining concessionaire delegates environmental engineering to specialized firms.",
+          "communicativeOutcome": "Evaluate hierarchical performance liabilities and milestone verification protocols in a commercial ecological contract.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 360-word commercial tender document outlining obligations where a mining concessionaire delegates environmental engineering to specialized firms.",
+            "keyPoints": [
+              "obj_b2_172_02_parse_remediation_tenders"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_172_03_executive_delegation_remediation_speech",
+          "title": "Spoken Direction: Corporate Executive Delegating Environmental Remediation",
+          "cyrillicTitle": "Deliver a 3-minute executive managerial briefing delegating multi-stage environmental remediation tasks with authoritative clarity.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an executive managerial directive instructing division heads to commission external engineering audits and oversee revegetation contractors.",
+          "communicativeOutcome": "Deliver a 3-minute executive managerial briefing delegating multi-stage environmental remediation tasks with authoritative clarity.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark recording of corporate mining director delivering executive operational orders to management team.",
+          "grammarOverview": {
+            "summary": "Deliver an executive managerial directive instructing division heads to commission external engineering audits and oversee revegetation contractors.",
+            "keyPoints": [
+              "obj_b2_172_03_deliver_delegation_briefing"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_172_04_environmental_responsibility_agreement_writing",
+          "title": "Contract Drafting: Corporate Social & Ecological Responsibility Agreement",
+          "cyrillicTitle": "Author a 250-word legally binding corporate social responsibility contract section governing delegated pasture restoration.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Draft formal contract clauses specifying that the operating company must cause its subcontractors to carry out biological topsoil restoration.",
+          "communicativeOutcome": "Author a 250-word legally binding corporate social responsibility contract section governing delegated pasture restoration.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Draft formal contract clauses specifying that the operating company must cause its subcontractors to carry out biological topsoil restoration.",
+            "keyPoints": [
+              "obj_b2_172_04_draft_delegated_contract_clauses"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_173_past_counterfactual_conditionals_su",
+      "unitNumber": 173,
+      "title": "Past Counterfactual Conditionals: Suffixes -сан бол",
+      "cyrillicTitle": "Analyzing historical disasters and unfulfilled contingencies",
+      "description": "Acquire and apply grammatical morphology (gram_b2_conditionals_counterfactual_past) to fulfill communicative functions in: Past Counterfactual Conditionals: Suffixes -сан бол.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_conditionals_counterfactual_past",
+      "lessons": [
+        {
+          "id": "les_b2_173_01_past_counterfactual_syntax_intro",
+          "title": "Morphosyntax: Past Counterfactual Conditionals (-сан бол... -х байсан)",
+          "cyrillicTitle": "Construct complex hypothetical sentences evaluating alternative disaster mitigation decisions that could have altered historical outcomes.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic structure, modal semantics, and pragmatic application of past counterfactual conditionals (-сан бол... -х байсан / байв) expressing unfulfilled past contingencies and averted alternative outcomes.",
+          "communicativeOutcome": "Construct complex hypothetical sentences evaluating alternative disaster mitigation decisions that could have altered historical outcomes.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic structure, modal semantics, and pragmatic application of past counterfactual conditionals (-сан бол... -х байсан / байв) expressing unfulfilled past contingencies and averted alternative outcomes.",
+            "keyPoints": [
+              "obj_b2_173_01_master_counterfactual_conditionals"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_173_02_disaster_post_mortem_hearing_listening",
+          "title": "Acoustic Analysis: Parliamentary Disaster Review Hearing on Early Warning Failures",
+          "cyrillicTitle": "Extract retrospective counterfactual arguments and institutional culpability assessments from a fast-paced legislative hearing (150 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a parliamentary inquiry examining meteorological agency warnings and analyzing what losses could have been prevented if early alerts had been acted upon.",
+          "communicativeOutcome": "Extract retrospective counterfactual arguments and institutional culpability assessments from a fast-paced legislative hearing (150 wpm).",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide multi-speaker parliamentary committee recording featuring acoustic overlap and counterfactual pitch inflections.",
+          "grammarOverview": {
+            "summary": "Listen to a parliamentary inquiry examining meteorological agency warnings and analyzing what losses could have been prevented if early alerts had been acted upon.",
+            "keyPoints": [
+              "obj_b2_173_02_analyze_post_mortem_hearings"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_173_03_retrospective_monograph_dzud_reading",
+          "title": "Academic Retrospective: Modeling Pasture Resilience in the 2009-2010 Dzud",
+          "cyrillicTitle": "Comprehend complex statistical and counterfactual econometric models in an academic environmental monograph.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 380-word academic retrospective analyzing how pasture loss and livestock mortality rates would have changed under alternative grazing reserve regimes.",
+          "communicativeOutcome": "Comprehend complex statistical and counterfactual econometric models in an academic environmental monograph.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 380-word academic retrospective analyzing how pasture loss and livestock mortality rates would have changed under alternative grazing reserve regimes.",
+            "keyPoints": [
+              "obj_b2_173_03_read_counterfactual_monographs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_173_04_parliamentary_counterfactual_testimony_spoken",
+          "title": "Spoken Testimony: Expert Presentation on Lessons Learned from Past Dzuds",
+          "cyrillicTitle": "Deliver a 3-minute authoritative policy briefing detailing lessons from past disasters using -сан бол and persuasive evidentials.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an expert oral address to a legislative inquiry presenting counterfactual evidence showing how policy reforms would prevent future systemic collapses.",
+          "communicativeOutcome": "Deliver a 3-minute authoritative policy briefing detailing lessons from past disasters using -сан бол and persuasive evidentials.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark recording of senior climatologist testifying before national emergency reform commission.",
+          "grammarOverview": {
+            "summary": "Deliver an expert oral address to a legislative inquiry presenting counterfactual evidence showing how policy reforms would prevent future systemic collapses.",
+            "keyPoints": [
+              "obj_b2_173_04_deliver_expert_testimony"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_173_05_retrospective_policy_critique_essay_writing",
+          "title": "Analytical Essay: Retrospective Evaluation of National Dzud Response Policies",
+          "cyrillicTitle": "Author a 270-word formal retrospective policy essay integrating counterfactual argumentation and strategic recommendations.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an analytical policy critique evaluating how disaster losses could have been minimized through decentralized fodder storage and emergency transport.",
+          "communicativeOutcome": "Author a 270-word formal retrospective policy essay integrating counterfactual argumentation and strategic recommendations.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an analytical policy critique evaluating how disaster losses could have been minimized through decentralized fodder storage and emergency transport.",
+            "keyPoints": [
+              "obj_b2_173_05_write_retrospective_critique"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_174_interpreting_environmental_statisti",
+      "unitNumber": 174,
+      "title": "Interpreting Environmental Statistical Graphs",
+      "cyrillicTitle": "Reading trend lines, bar charts, and pasture degradation data",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Interpreting Environmental Statistical Graphs.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "Reading trend lines, bar charts, and pasture degradation data",
+      "lessons": [
+        {
+          "id": "les_b2_174_01_environmental_data_visualization_reading",
+          "title": "Data Reading: Multi-Variable Climate Charts & Pasture Biomass Anomalies",
+          "cyrillicTitle": "Extract exact statistical correlations, standard deviations, and multi-decadal trends from scientific environmental charts.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse dense agro-meteorological infographics, scatter plots, and comparative precipitation tables tracking 30-year climatic shifts in Mongolia.",
+          "communicativeOutcome": "Extract exact statistical correlations, standard deviations, and multi-decadal trends from scientific environmental charts.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse dense agro-meteorological infographics, scatter plots, and comparative precipitation tables tracking 30-year climatic shifts in Mongolia.",
+            "keyPoints": [
+              "obj_b2_174_01_read_environmental_charts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_174_02_climatologist_trend_briefing_listening",
+          "title": "Acoustic Dissection: Climatologist Lecture on Long-Cycle Precipitation Shifts",
+          "cyrillicTitle": "Comprehend complex spoken scientific descriptions of statistical trendlines, cycles, and standard errors (145 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to an academic climatologist describing rainfall distribution graphs and explaining the decoupling of summer rains from vegetative recovery.",
+          "communicativeOutcome": "Comprehend complex spoken scientific descriptions of statistical trendlines, cycles, and standard errors (145 wpm).",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide high-register academic lecture recording with technical pacing and precise pronunciation of statistical terms.",
+          "grammarOverview": {
+            "summary": "Listen to an academic climatologist describing rainfall distribution graphs and explaining the decoupling of summer rains from vegetative recovery.",
+            "keyPoints": [
+              "obj_b2_174_02_comprehend_statistical_lectures"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_174_03_spoken_graph_briefing_pastoral_council",
+          "title": "Spoken Delivery: Explaining Climate Data Infographics to Pasture Committees",
+          "cyrillicTitle": "Deliver a 3-minute oral briefing translating complex multi-variable climate charts into practical grazing recommendations.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Present environmental data graphs to a regional pastoral committee, explaining technical statistical curves in accessible, policy-relevant language.",
+          "communicativeOutcome": "Deliver a 3-minute oral briefing translating complex multi-variable climate charts into practical grazing recommendations.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide model audio of technical advisor presenting data slides at agricultural planning conference.",
+          "grammarOverview": {
+            "summary": "Present environmental data graphs to a regional pastoral committee, explaining technical statistical curves in accessible, policy-relevant language.",
+            "keyPoints": [
+              "obj_b2_174_03_deliver_graph_briefing"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_174_04_data_driven_livestock_report_writing",
+          "title": "Technical Writing: Analytical Report Interpreting Decadal Livestock Loss Curves",
+          "cyrillicTitle": "Author a 260-word data-driven technical report explaining statistical correlations between winter precipitation and spring herd losses.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a rigorous technical data report analyzing historical livestock mortality curves and projecting future resilience requirements.",
+          "communicativeOutcome": "Author a 260-word data-driven technical report explaining statistical correlations between winter precipitation and spring herd losses.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a rigorous technical data report analyzing historical livestock mortality curves and projecting future resilience requirements.",
+            "keyPoints": [
+              "obj_b2_174_04_write_data_report"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_175_commercial_resource_negotiations_pa",
+      "unitNumber": 175,
+      "title": "Commercial Resource Negotiations: Pastoral vs Mining Rights",
+      "cyrillicTitle": "Negotiating environmental rehabilitation clauses and pasture access",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Commercial Resource Negotiations: Pastoral vs Mining Rights.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "Negotiating environmental rehabilitation clauses and pasture access",
+      "lessons": [
+        {
+          "id": "les_b2_175_01_water_concession_contract_reading",
+          "title": "Contract Parsing: Bilateral Mining Concession & Pasture Water Co-Use Agreement",
+          "cyrillicTitle": "Extract contested water quotas, monitoring obligations, and compensation triggers from a formal bilateral concession contract.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 370-word draft commercial contract between an international mining consortium and a soum administration regulating deep aquifer exploitation.",
+          "communicativeOutcome": "Extract contested water quotas, monitoring obligations, and compensation triggers from a formal bilateral concession contract.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 370-word draft commercial contract between an international mining consortium and a soum administration regulating deep aquifer exploitation.",
+            "keyPoints": [
+              "obj_b2_175_01_parse_concession_contracts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_175_02_tense_bilateral_negotiation_listening",
+          "title": "Acoustic Dissection: Live Tripartite Negotiation Audio on Deep Well Drilling Rights",
+          "cyrillicTitle": "Track hidden concessions, diplomatic deflection, and firm red lines across 3 distinct spoken registers (145 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a live audio recording of a contentious negotiation session between mining legal counsel, soum officials, and herder elders.",
+          "communicativeOutcome": "Track hidden concessions, diplomatic deflection, and firm red lines across 3 distinct spoken registers (145 wpm).",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Expose learners to high-stakes commercial bargaining with authentic cross-talk, tactical silence, and firm pushback.",
+          "grammarOverview": {
+            "summary": "Listen to a live audio recording of a contentious negotiation session between mining legal counsel, soum officials, and herder elders.",
+            "keyPoints": [
+              "obj_b2_175_02_track_negotiation_dynamics"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_175_03_resource_negotiation_simulation_spoken",
+          "title": "Interactive Simulation: Multi-Party Negotiation on Pasture Transit Corridors",
+          "cyrillicTitle": "Negotiate and secure a binding seasonal transit corridor agreement during a 4-minute simulated bilateral bargaining session.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Engage in an intensive oral negotiation simulation defending seasonal nomadic migration corridors through an active mining lease area without introducing new vocabulary.",
+          "communicativeOutcome": "Negotiate and secure a binding seasonal transit corridor agreement during a 4-minute simulated bilateral bargaining session.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark bilateral negotiation audio modeling courteous opening, firm counter-demands, and formal compromise.",
+          "grammarOverview": {
+            "summary": "Engage in an intensive oral negotiation simulation defending seasonal nomadic migration corridors through an active mining lease area without introducing new vocabulary.",
+            "keyPoints": [
+              "obj_b2_175_03_conduct_transit_negotiation"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_175_04_mou_shared_aquifer_drafting_writing",
+          "title": "Contract Drafting: Tripartite Memorandum of Understanding on Aquifer Conservation",
+          "cyrillicTitle": "Author a 260-word binding tripartite agreement detailing water meter inspection rights and emergency shutdown protocols.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Draft a formal Memorandum of Understanding (MoU) establishing a joint community-corporate monitoring council for subterranean water extraction.",
+          "communicativeOutcome": "Author a 260-word binding tripartite agreement detailing water meter inspection rights and emergency shutdown protocols.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Draft a formal Memorandum of Understanding (MoU) establishing a joint community-corporate monitoring council for subterranean water extraction.",
+            "keyPoints": [
+              "obj_b2_175_04_draft_tripartite_mou"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_175_05_closing_argumentation_water_rights_speech",
+          "title": "Spoken Oratory: Closing Defense of Pastoral Water Sovereignty at Soum Assembly",
+          "cyrillicTitle": "Deliver a 3-minute persuasive ratification speech securing assembly consensus on the resource negotiation outcome.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an impassioned closing address to the Citizens' Representative Hural urging ratification of the negotiated water protection pact.",
+          "communicativeOutcome": "Deliver a 3-minute persuasive ratification speech securing assembly consensus on the resource negotiation outcome.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark speech of civic negotiator presenting agreement to local citizens assembly.",
+          "grammarOverview": {
+            "summary": "Deliver an impassioned closing address to the Citizens' Representative Hural urging ratification of the negotiated water protection pact.",
+            "keyPoints": [
+              "obj_b2_175_05_deliver_ratification_speech"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_176_ecological_resilience_capstone_cris",
+      "unitNumber": 176,
+      "title": "Ecological Resilience Capstone: Crisis Management Advisory",
+      "cyrillicTitle": "Drafting a full multi-agency winter resilience strategic plan",
+      "description": "Consolidate, integrate, and demonstrate communicative mastery of Ecological Resilience Capstone: Crisis Management Advisory through simulated holistic tasks.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "Drafting a full multi-agency winter resilience strategic plan",
+      "lessons": [
+        {
+          "id": "les_b2_176_01_comprehensive_disaster_dossier_reading",
+          "title": "Capstone Reading: Multi-Agency Integrated Disaster Risk Reduction Dossier",
+          "cyrillicTitle": "Extract and synthesize multi-sector crisis metrics from an exhaustive national ecological security report.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 420-word comprehensive disaster reduction dossier synthesizing satellite telemetry, pasture carrying indices, and financial loss projections.",
+          "communicativeOutcome": "Extract and synthesize multi-sector crisis metrics from an exhaustive national ecological security report.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 420-word comprehensive disaster reduction dossier synthesizing satellite telemetry, pasture carrying indices, and financial loss projections.",
+            "keyPoints": [
+              "obj_b2_176_01_parse_disaster_dossier"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_176_02_inter_ministerial_crisis_command_listening",
+          "title": "Capstone Listening: Inter-Ministerial Emergency Command Center Teleconference",
+          "cyrillicTitle": "Comprehend real-time operational decisions, resource reallocations, and emergency declarations delivered at rapid native speed (155 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a fast-paced crisis command audio conference between the Deputy Prime Minister, NEMA Chief, and regional governors coordinating live relief.",
+          "communicativeOutcome": "Comprehend real-time operational decisions, resource reallocations, and emergency declarations delivered at rapid native speed (155 wpm).",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic multi-region command center teleconference recording with urgent interruptions and rapid instructions.",
+          "grammarOverview": {
+            "summary": "Listen to a fast-paced crisis command audio conference between the Deputy Prime Minister, NEMA Chief, and regional governors coordinating live relief.",
+            "keyPoints": [
+              "obj_b2_176_02_comprehend_command_briefings"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_176_03_national_disaster_risk_advisory_writing",
+          "title": "Advisory Composition: Strategic National Disaster Advisory for Cabinet Council",
+          "cyrillicTitle": "Author a high-level government advisory synthesizing early warning data, logistic deployments, and long-term resilience investments.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Draft a comprehensive 280-word strategic national disaster advisory for the Government Cabinet proposing immediate macro-interventions.",
+          "communicativeOutcome": "Author a high-level government advisory synthesizing early warning data, logistic deployments, and long-term resilience investments.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Draft a comprehensive 280-word strategic national disaster advisory for the Government Cabinet proposing immediate macro-interventions.",
+            "keyPoints": [
+              "obj_b2_176_03_author_strategic_advisory"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_176_04_emergency_reallocation_executive_decree_writing",
+          "title": "Statutory Drafting: Prime Ministerial Decree on Emergency Feed Redistribution",
+          "cyrillicTitle": "Author a 250-word legally binding statutory government resolution specifying budgetary allocations and enforcement responsibilities.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Draft the operative clauses of a Prime Ministerial decree releasing state fodder reserves and establishing subsidized transport corridors.",
+          "communicativeOutcome": "Author a 250-word legally binding statutory government resolution specifying budgetary allocations and enforcement responsibilities.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Draft the operative clauses of a Prime Ministerial decree releasing state fodder reserves and establishing subsidized transport corridors.",
+            "keyPoints": [
+              "obj_b2_176_04_draft_statutory_decree"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_176_05_cabinet_emergency_defense_speech",
+          "title": "Spoken Oratory: Ministerial Defense of Crisis Budget Allocations in Parliament",
+          "cyrillicTitle": "Deliver a 4-minute commanding parliamentary speech defending emergency ecological expenditures against fiscal conservative pushback.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver a formal ministerial defense before the State Great Khural justifying the emergency budget reallocation and answering opposition challenges.",
+          "communicativeOutcome": "Deliver a 4-minute commanding parliamentary speech defending emergency ecological expenditures against fiscal conservative pushback.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark speech of Minister of Food and Agriculture defending emergency winterization appropriations in Parliament.",
+          "grammarOverview": {
+            "summary": "Deliver a formal ministerial defense before the State Great Khural justifying the emergency budget reallocation and answering opposition challenges.",
+            "keyPoints": [
+              "obj_b2_176_05_defend_emergency_budget"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_176_06_b2_sec02_culminating_resilience_capstone",
+          "title": "Culminating Capstone: Comprehensive Ecological Resilience & Crisis Advisory Synthesis",
+          "cyrillicTitle": "Demonstrate complete mastery across B2 Section 02 competencies through multi-modal crisis analysis, drafting, and defense.",
+          "estimatedMinutes": 15,
+          "lessonType": "synthesis_capstone",
+          "primaryPurpose": "Synthesize all Section 02 ecological, meteorological, economic, and grammatical competencies into a multi-phase crisis management simulation without introducing new vocabulary.",
+          "communicativeOutcome": "Demonstrate complete mastery across B2 Section 02 competencies through multi-modal crisis analysis, drafting, and defense.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide multi-voice capstone simulation audio containing high-speed crisis teleconference excerpts.",
+          "grammarOverview": {
+            "summary": "Synthesize all Section 02 ecological, meteorological, economic, and grammatical competencies into a multi-phase crisis management simulation without introducing new vocabulary.",
+            "keyPoints": [
+              "obj_b2_176_06_master_ecological_resilience_capstone"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    }
+  ]
+}

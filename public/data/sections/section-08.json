@@ -1,0 +1,2072 @@
+{
+  "sectionId": "sec_a2_01_city_navigation_transit_public_encounters",
+  "sectionNumber": 8,
+  "title": "Urban Transit, Wayfinding & Public Space Encounters",
+  "cyrillicTitle": "Хот доторх зорчилт, зам асуух ба нийтийн үйлчилгээ",
+  "cefr": "A2",
+  "theme": "Navigate urban spaces, hail street taxis, purchase intercity bus and train tickets, understand transport announcements, and follow complex spatial directions.",
+  "description": "Equip learners to navigate Ulaanbaatar and provincial centres independently, use buses and taxis, ask multi-step directions, understand public transit schedules, and deploy directional cases and converbs.",
+  "unitCount": 9,
+  "lessonCount": 47,
+  "exerciseCount": 15,
+  "units": [
+    {
+      "id": "unit_a2_64_navigating_ulaanbaatar_bus_routes_d",
+      "unitNumber": 64,
+      "title": "Navigating Ulaanbaatar Bus Routes & Digital Smart Cards",
+      "cyrillicTitle": "Checking route itineraries, transfers, and digital U-Money cards",
+      "description": "Acquire and apply grammatical morphology (gram_a2_case_instrumental_transport_language) to fulfill communicative functions in: Navigating Ulaanbaatar Bus Routes & Digital Smart Cards.",
+      "cefrLevel": "A2",
+      "primaryGrammarTopic": "gram_a2_case_instrumental_transport_language",
+      "lessons": [
+        {
+          "id": "les_a2_64_01_instrumental_transport_allomorphs",
+          "title": "Taking the Bus: The Instrumental Suffix (-аар/-ээр/-оор/-өөр)",
+          "cyrillicTitle": "Explain which mode of transport you use to commute across the city (e.g. 'Би автобусаар явна', 'Би машинаар ирлээ').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the instrumental case suffix to express vehicles, transport modes, and physical instruments of transit.",
+          "communicativeOutcome": "Explain which mode of transport you use to commute across the city (e.g. 'Би автобусаар явна', 'Би машинаар ирлээ').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Model vowel harmony allomorphs of the instrumental case on stems ending in consonants and vowels.",
+          "grammarOverview": {
+            "summary": "Introduce the instrumental case suffix to express vehicles, transport modes, and physical instruments of transit.",
+            "keyPoints": [
+              "obj_a2_64_01_express_transport_instrumental"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_a2_64_01_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Instrumental Case Suffix Selection for Transport",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "SUFFIX_ATTACHMENT",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "instrumental_case_allomorphy",
+                "vowel_harmony_transport"
+              ],
+              "grammarTargets": [
+                "gram_a2_instrumental_case_transport"
+              ],
+              "vocabularyTargets": [
+                "автобус",
+                "автобусаар"
+              ],
+              "prompt": "Attach the correct harmonic allomorph of the instrumental case suffix (-аар/-ээр/-оор/-өөр) to the transport noun 'автобус' (bus):",
+              "baseWord": "автобус",
+              "suffixOptions": [
+                "-аар",
+                "-ээр",
+                "-оор",
+                "-өөр"
+              ],
+              "correctSuffix": "-аар",
+              "correctAnswer": "автобусаар",
+              "acceptableAlternatives": [
+                "автобусаар",
+                "-аар"
+              ],
+              "hint": "Determine whether 'автобус' has masculine back or feminine front vowels, and attach the corresponding four-fold instrumental suffix without rounding.",
+              "explanation": "Because 'автобус' ends in a consonant following back vowel 'у', it attaches the masculine unrounded instrumental suffix '-аар', yielding 'автобусаар' (by bus).",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! 'автобусаар' is correct.",
+                "onFailure": "Back vowel 'у' takes '-аар' -> 'автобусаар'."
+              },
+              "detailedGrammarNote": "The four-fold instrumental case suffix (-аар⁴) designates the means of transportation or instrument. Suffix vowel selection is governed by the vowel of the preceding syllable.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Би автобусаар явна.",
+                "slowSpeechSynthesisText": "Би автобусаар явна.",
+                "ipaTranscription": "/pʰi awtʰɔpʊsaːr jawn/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "NORMALIZED_TEXT",
+                "caseSensitive": false,
+                "stripPunctuation": true,
+                "normalizeWhitespace": true
+              },
+              "lessonId": "les_a2_64_01_instrumental_transport_allomorphs",
+              "unitId": "unit_a2_64_navigating_ulaanbaatar_bus_routes_d",
+              "cefrLevel": "A2"
+            },
+            {
+              "exerciseId": "ex_a2_64_01_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "Rounded Vowel Harmony in Instrumental: 'Онгоц'",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "rounding_harmony_application"
+              ],
+              "grammarTargets": [
+                "gram_a2_instrumental_case_transport"
+              ],
+              "vocabularyTargets": [
+                "онгоц",
+                "онгоцоор"
+              ],
+              "prompt": "How do you say 'by airplane' using the noun 'онгоц' and the instrumental case suffix?",
+              "stimulusTextCyrillic": "онгоц",
+              "hint": "The root has vowel 'о', so the suffix must also be rounded 'оор'.",
+              "options": [
+                {
+                  "id": "opt_ongotsoor",
+                  "text": "онгоцоор (by airplane)",
+                  "cyrillic": "онгоцоор",
+                  "isCorrect": true,
+                  "explanation": "Correct! Labial harmony dictates '-оор' after 'о'."
+                },
+                {
+                  "id": "opt_ongotsaar",
+                  "text": "*онгоцаар",
+                  "cyrillic": "*онгоцаар",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Violates rounding harmony (must be -оор after short 'о')."
+                },
+                {
+                  "id": "opt_ongotseer",
+                  "text": "*онгоцоор",
+                  "cyrillic": "*онгоцоор",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. '-ээр' is front unrounded."
+                },
+                {
+                  "id": "opt_ongotsoor_front",
+                  "text": "*онгоцөөр",
+                  "cyrillic": "*онгоцөөр",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'өөр' is front rounded."
+                }
+              ],
+              "correctAnswer": "онгоцоор (by airplane)",
+              "acceptableAlternatives": [
+                "онгоцоор"
+              ],
+              "explanation": "In Khalkha Mongolian, the non-high vowels 'о' and 'ө' enforce labial rounding harmony: after 'о', the suffix must be '-оор' ('онгоцоор').",
+              "learnerFeedback": {
+                "onSuccess": "Зөв! 'онгоцоор' follows labial rounding harmony.",
+                "onFailure": "After 'о', use '-оор' -> 'онгоцоор'."
+              },
+              "detailedGrammarNote": "Rounding harmony (уруулын зохицол) requires suffixes with non-high vowels (а, э, о, ө) to match the rounding of a preceding stem 'о' or 'ө'.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Бид Улаанбаатар руу онгоцоор ниссэн.",
+                "slowSpeechSynthesisText": "Бид Улаанбаатар руу онгоцоор ниссэн.",
+                "ipaTranscription": "/pʰitʰ ʊɮaːŋpaːtʰər rʊː ɔŋɢətsʰɔːr nissəŋ/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a2_64_01_instrumental_transport_allomorphs",
+              "unitId": "unit_a2_64_navigating_ulaanbaatar_bus_routes_d",
+              "cefrLevel": "A2"
+            },
+            {
+              "exerciseId": "ex_a2_64_01_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "Foot Transit vs Instrumental Vehicle Contrast",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "locomotion_lexical_idiom",
+                "case_selection"
+              ],
+              "grammarTargets": [
+                "gram_a2_instrumental_case_transport"
+              ],
+              "vocabularyTargets": [
+                "явган",
+                "машинаар"
+              ],
+              "prompt": "To say 'I go to work on foot (walking)', which form is grammatically correct in Mongolian?",
+              "hint": "The adverbial 'явган' (on foot) does NOT take the instrumental suffix '-аар'.",
+              "options": [
+                {
+                  "id": "opt_yavgan",
+                  "text": "Би явган явдаг. (I go on foot.)",
+                  "cyrillic": "Би явган явдаг.",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'Явган явах' is an idiomatic bare adverbial construction meaning 'to walk/go on foot'."
+                },
+                {
+                  "id": "opt_yavganaara",
+                  "text": "*Би явганаар явдаг.",
+                  "cyrillic": "*Би явганаар явдаг.",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Native speakers never attach the instrumental suffix to 'явган'."
+                },
+                {
+                  "id": "opt_huluur",
+                  "text": "*Би хөлөөрөө явдаг.",
+                  "cyrillic": "*Би хөлөөрөө явдаг.",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Literal 'by foot' is not standard transit phrasing."
+                }
+              ],
+              "correctAnswer": "Би явган явдаг. (I go on foot.)",
+              "acceptableAlternatives": [
+                "Би явган явдаг.",
+                "явган явдаг"
+              ],
+              "explanation": "While vehicles take the instrumental case ('машинаар', 'автобусаар'), pedestrian transit is expressed with the bare root adverb 'явган' + verb.",
+              "learnerFeedback": {
+                "onSuccess": "Сайн байна! 'явган явах' takes no case suffix.",
+                "onFailure": "'явган' is used without '-аар': 'Би явган явдаг.'."
+              },
+              "detailedGrammarNote": "'Явган' functions as a Manner Adverbial directly preceding the motion verb without nominal case morphology.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Би өдөр бүр ажилдаа явган явдаг.",
+                "slowSpeechSynthesisText": "Би өдөр бүр ажилдаа явган явдаг.",
+                "ipaTranscription": "/pʰi ɵtər pʰur atʃʰiɮtʰaː jawɢəŋ jawtəɡ/",
+                "speakerRole": "female_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a2_64_01_instrumental_transport_allomorphs",
+              "unitId": "unit_a2_64_navigating_ulaanbaatar_bus_routes_d",
+              "cefrLevel": "A2"
+            },
+            {
+              "exerciseId": "ex_a2_64_01_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "Token Assembly: Daily Commute Description",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "TOKEN_REARRANGEMENT",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "commute_sentence_synthesis",
+                "adverbial_case_ordering"
+              ],
+              "grammarTargets": [
+                "gram_a2_instrumental_case_transport",
+                "gram_a1_sov_word_order"
+              ],
+              "vocabularyTargets": [
+                "ажилдаа",
+                "машинаар",
+                "явдаг",
+                "би"
+              ],
+              "prompt": "Arrange the tokens to form: 'I go to my work by car':",
+              "wordTokens": [
+                "явдаг",
+                "би",
+                "машинаар",
+                "ажилдаа"
+              ],
+              "correctTokenOrder": [
+                "би",
+                "ажилдаа",
+                "машинаар",
+                "явдаг"
+              ],
+              "correctAnswer": "би ажилдаа машинаар явдаг",
+              "acceptableAlternatives": [
+                "Би ажилдаа машинаар явдаг.",
+                "Би машинаар ажилдаа явдаг"
+              ],
+              "hint": "Subject (би) -> Destination (ажилдаа) -> Means (машинаар) -> Verb (явдаг).",
+              "explanation": "Canonical ordering places the directional goal and the instrumental means of transit before the habitual verb 'явдаг'.",
+              "learnerFeedback": {
+                "onSuccess": "Төгс! Proper word order with instrumental case 'машинаар'.",
+                "onFailure": "Order: би -> ажилдаа -> машинаар -> явдаг."
+              },
+              "detailedGrammarNote": "'Машинаар' attaches '-аар' to 'машин' (car). The reflex-possessive dative-locative 'ажилдаа' indicates 'to one's own work'.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Би ажилдаа машинаар явдаг.",
+                "slowSpeechSynthesisText": "Би ажилдаа машинаар явдаг.",
+                "ipaTranscription": "/pʰi atʃʰiɮtʰaː maʃiŋaːr jawtəɡ/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "TOKEN_ORDER"
+              },
+              "lessonId": "les_a2_64_01_instrumental_transport_allomorphs",
+              "unitId": "unit_a2_64_navigating_ulaanbaatar_bus_routes_d",
+              "cefrLevel": "A2"
+            },
+            {
+              "exerciseId": "ex_a2_64_01_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "Acoustic Transit Suffix Dictation",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "AUDIO_DICTATION",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "acoustic_case_recognition",
+                "spelling_accuracy"
+              ],
+              "grammarTargets": [
+                "gram_a2_instrumental_case_transport"
+              ],
+              "vocabularyTargets": [
+                "галт тэргээр"
+              ],
+              "prompt": "Listen to the audio sentence: 'Бид Дархан руу _______ явсан' (We went to Darkhan by train). Type the missing word for 'by train':",
+              "stimulusTextCyrillic": "галт тэргээр",
+              "hint": "Identify the two-word compound for 'train' and attach the appropriate front unrounded instrumental case ending with vowel syncope.",
+              "correctAnswer": "галт тэргээр",
+              "acceptableAlternatives": [
+                "галт тэргээр",
+                "Галт тэргээр"
+              ],
+              "explanation": "'Галт тэрэг' (train, literally 'fire vehicle') ends in front-vowel 'тэрэг', taking front unrounded instrumental '-ээр' -> 'галт тэргээр'.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! 'галт тэргээр' spelled accurately.",
+                "onFailure": "Remember: 'галт тэрэг' takes front suffix -ээр with vowel syncope -> 'галт тэргээр'."
+              },
+              "detailedGrammarNote": "Stems ending in 'г' preserve the consonant before the long vowel suffix: тэрэг + -ээр -> тэргээр (with short vowel syncope).",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Бид Дархан руу галт тэргээр явсан.",
+                "slowSpeechSynthesisText": "галт тэргээр",
+                "ipaTranscription": "/ɢaɮtʰ tʰirɡeːr/",
+                "speakerRole": "female_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "NORMALIZED_TEXT",
+                "caseSensitive": false,
+                "stripPunctuation": true,
+                "normalizeWhitespace": true
+              },
+              "lessonId": "les_a2_64_01_instrumental_transport_allomorphs",
+              "unitId": "unit_a2_64_navigating_ulaanbaatar_bus_routes_d",
+              "cefrLevel": "A2"
+            }
+          ],
+          "exerciseCount": 5
+        },
+        {
+          "id": "les_a2_64_02_bus_routes_u_money_cards",
+          "title": "Smart Card Tap & Bus Stops: U-Money in Practice",
+          "cyrillicTitle": "Purchase, tap, and reload a municipal bus card, and ask where to check card balance.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce practical vocabulary for digital transit smart cards (U-Money), balance checks, and boarding etiquette.",
+          "communicativeOutcome": "Purchase, tap, and reload a municipal bus card, and ask where to check card balance.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Demonstrate authentic fast speech customer requests at small street convenience kiosks.",
+          "grammarOverview": {
+            "summary": "Introduce practical vocabulary for digital transit smart cards (U-Money), balance checks, and boarding etiquette.",
+            "keyPoints": [
+              "obj_a2_64_02_u_money_card_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_64_03_transit_announcements_decoding",
+          "title": "Digital Transit Media: U-Money Smart Cards, Fares & Validation",
+          "cyrillicTitle": "Purchase, reload, and tap a digital U-Money transit card when boarding municipal buses.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce vocabulary for electronic fare media, smart card readers, balance recharge points, and automated bus turnstiles.",
+          "communicativeOutcome": "Purchase, reload, and tap a digital U-Money transit card when boarding municipal buses.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Provide high-fidelity onboard recordings with authentic bus background ambient rumble and chime.",
+          "grammarOverview": {
+            "summary": "Introduce vocabulary for electronic fare media, smart card readers, balance recharge points, and automated bus turnstiles.",
+            "keyPoints": [
+              "obj_a2_64_03_decode_automated_bus_announcements"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_64_04_route_maps_schedules_reading",
+          "title": "Deciphering Bus Shelter Route Diagrams & Operating Hours",
+          "cyrillicTitle": "Read a bus shelter schedule to determine operating hours, route paths, and whether a bus runs on weekends.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Build reading skills for authentic municipal bus stop route placards, direction arrows, and first/last bus schedules.",
+          "communicativeOutcome": "Read a bus shelter schedule to determine operating hours, route paths, and whether a bus runs on weekends.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Provide spoken pronunciation of route numbers and schedule captions.",
+          "grammarOverview": {
+            "summary": "Build reading skills for authentic municipal bus stop route placards, direction arrows, and first/last bus schedules.",
+            "keyPoints": [
+              "obj_a2_64_04_read_bus_route_placards"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_a2_64_04_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Extracting Operating Hours from Bus Stop Schedule",
+              "modality": "READING_COMPREHENSION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "timetable_decoding",
+                "temporal_information_extraction"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "эхлэх цаг",
+                "дуусах цаг",
+                "чиглэл"
+              ],
+              "prompt": "Read the bus route timetable posted at a shelter in Ulaanbaatar:\n\n[Ч:1 ЧИГЛЭЛ]\n- Эхлэх цаг: 06:30\n- Дуусах цаг: 22:30\n- Хүлээх хугацаа: 8-12 минут\n\nWhat is the earliest departure time (эхлэх цаг) for this route?",
+              "stimulusTextCyrillic": "Эхлэх цаг: 06:30, Дуусах цаг: 22:30",
+              "hint": "'Эхлэх' means 'to start / begin'.",
+              "options": [
+                {
+                  "id": "time_0630",
+                  "text": "06:30 AM",
+                  "cyrillic": "06:30",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'Эхлэх цаг: 06:30' denotes start of service at 06:30."
+                },
+                {
+                  "id": "time_2230",
+                  "text": "22:30 PM",
+                  "cyrillic": "22:30",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 22:30 is the closing time (дуусах цаг)."
+                },
+                {
+                  "id": "time_0812",
+                  "text": "08:12 AM",
+                  "cyrillic": "8-12 минут",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 8-12 is the interval headway in minutes."
+                }
+              ],
+              "correctAnswer": "06:30 AM",
+              "acceptableAlternatives": [
+                "06:30",
+                "6:30"
+              ],
+              "explanation": "'Эхлэх цаг' means departure start time. The schedule states 06:30.",
+              "learnerFeedback": {
+                "onSuccess": "Сайн байна! 06:30 is the start time.",
+                "onFailure": "'Эхлэх цаг' = starting time (06:30)."
+              },
+              "detailedGrammarNote": "Verbal nouns in -х ('эхлэх', 'дуусах', 'хүлээх') function as attributive nouns modifying 'цаг' (time) and 'хугацаа' (duration).",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Энэ автобусны эхлэх цаг өглөө зургаан цаг гучин минут.",
+                "slowSpeechSynthesisText": "Эхлэх цаг: 06:30.",
+                "ipaTranscription": "/exɮəx tsʰaɡ tsʊrɢaːŋ tsʰaɡ ɢʊtsʰəŋ mʲinʊtʰ/",
+                "speakerRole": "narrator",
+                "speechRate": 0.9
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a2_64_04_route_maps_schedules_reading",
+              "unitId": "unit_a2_64_navigating_ulaanbaatar_bus_routes_d",
+              "cefrLevel": "A2"
+            },
+            {
+              "exerciseId": "ex_a2_64_04_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "Interpreting Bus Stop Headway & Wait Times",
+              "modality": "READING_COMPREHENSION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "headway_comprehension",
+                "transit_intervals"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "хүлээх хугацаа",
+                "минут"
+              ],
+              "prompt": "According to the sign: 'Хүлээх хугацаа: 8-12 минут' (Waiting duration: 8-12 minutes), how often does a bus arrive during normal operating hours?",
+              "stimulusTextCyrillic": "Хүлээх хугацаа: 8-12 минут",
+              "hint": "'Хугацаа' means duration or interval.",
+              "options": [
+                {
+                  "id": "hw_freq",
+                  "text": "Every 8 to 12 minutes",
+                  "cyrillic": "8-12 минут тутамд",
+                  "isCorrect": true,
+                  "explanation": "Correct! The bus frequency interval is between 8 and 12 minutes."
+                },
+                {
+                  "id": "hw_trip",
+                  "text": "The entire trip takes only 8 minutes",
+                  "cyrillic": "Явах хугацаа",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'Хүлээх' means waiting, not traveling."
+                },
+                {
+                  "id": "hw_delay",
+                  "text": "The bus is delayed by 12 hours",
+                  "cyrillic": "Хоцролт",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The text refers to minutes between buses."
+                }
+              ],
+              "correctAnswer": "Every 8 to 12 minutes",
+              "acceptableAlternatives": [
+                "Every 8 to 12 minutes",
+                "8-12 минут"
+              ],
+              "explanation": "'Хүлээх хугацаа' indicates headway frequency between successive transit vehicles.",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! You understood headway intervals.",
+                "onFailure": "'Хүлээх хугацаа' = waiting time (8-12 minutes)."
+              },
+              "detailedGrammarNote": "'Хүлээх' derives from the verb 'хүлээ-' (to wait). The suffix '-х' forms the future/habitual participle functioning here as an adjective.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Автобус хоорондын хүлээх хугацаа наймаас арван хоёр минут байна.",
+                "slowSpeechSynthesisText": "Хүлээх хугацаа 8-12 минут.",
+                "ipaTranscription": "/xʊɮiːx xʊɢatsʰaː næːmaːs arwəŋ xɔjər mʲinʊtʰ/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a2_64_04_route_maps_schedules_reading",
+              "unitId": "unit_a2_64_navigating_ulaanbaatar_bus_routes_d",
+              "cefrLevel": "A2"
+            },
+            {
+              "exerciseId": "ex_a2_64_04_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "U-Money Electronic Card Notice Deciphering",
+              "modality": "READING_COMPREHENSION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "civic_signage_comprehension",
+                "imperative_notice_reading"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "уншуулах",
+                "карт",
+                "бэлэн мөнгө"
+              ],
+              "prompt": "Read the red warning banner on the bus door:\n\n'Бэлэн мөнгө авахгүй. Та U-Money картаа заавал уншуулна уу.'\n\nWhat does this notice instruct passengers to do?",
+              "stimulusTextCyrillic": "Бэлэн мөнгө авахгүй. Та U-Money картаа заавал уншуулна уу.",
+              "hint": "'Бэлэн мөнгө' is cash; 'уншуулах' means to tap/scan a card.",
+              "options": [
+                {
+                  "id": "umoney_tap",
+                  "text": "Cash is not accepted; you must tap your U-Money card.",
+                  "cyrillic": "U-Money картаа заавал уншуулна уу",
+                  "isCorrect": true,
+                  "explanation": "Correct! Cash ('бэлэн мөнгө') is rejected and tapping the smart card is mandatory ('заавал')."
+                },
+                {
+                  "id": "umoney_cash",
+                  "text": "You can pay with cash or card freely.",
+                  "cyrillic": "Бэлэн мөнгө авна",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'Бэлэн мөнгө авахгүй' means cash is NOT accepted."
+                },
+                {
+                  "id": "umoney_free",
+                  "text": "Transit is completely free today.",
+                  "cyrillic": "Үнэгүй",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. You must pay via card."
+                }
+              ],
+              "correctAnswer": "Cash is not accepted; you must tap your U-Money card.",
+              "acceptableAlternatives": [
+                "Cash is not accepted; you must tap your U-Money card.",
+                "U-Money картаа заавал уншуулна уу"
+              ],
+              "explanation": "'Бэлэн мөнгө авахгүй' (No cash accepted). 'Та U-Money картаа заавал уншуулна уу' (Please be sure to scan your U-Money card).",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! Cashless bus transit rule understood.",
+                "onFailure": "Notice states: No cash accepted, tap your U-Money card."
+              },
+              "detailedGrammarNote": "'Уншуулах' is the causative form of 'унших' (to read). In transit tech, it means 'to have the machine read / to tap' a card.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Бэлэн мөнгө авахгүй. Та Ю-Мани картаа заавал уншуулна уу.",
+                "slowSpeechSynthesisText": "Бэлэн мөнгө авахгүй. Та Ю-Мани картаа заавал уншуулна уу.",
+                "ipaTranscription": "/pʰeɮəŋ mɵŋɡ əwəxɢuː. tʰa jʊː-manʲi xʰartʰaː tsaːwəɮ ʊŋʃʊːɮnə ʊː/",
+                "speakerRole": "female_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a2_64_04_route_maps_schedules_reading",
+              "unitId": "unit_a2_64_navigating_ulaanbaatar_bus_routes_d",
+              "cefrLevel": "A2"
+            },
+            {
+              "exerciseId": "ex_a2_64_04_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "Route Orientation: Eastbound vs Westbound Directions",
+              "modality": "READING_COMPREHENSION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "directional_terminology",
+                "route_map_navigation"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "баруун тийш",
+                "зүүн тийш"
+              ],
+              "prompt": "You are at 'Сүхбаатарын талбай' and want to go towards the Officers' Palace (Офицеруудын ордон), which is located in the eastern part of Ulaanbaatar. Which platform direction should you board?",
+              "hint": "'Зүүн' means East; 'тийш' is the directive postposition ('towards').",
+              "options": [
+                {
+                  "id": "dir_east",
+                  "text": "Зүүн тийш явах чиглэл (Eastbound direction)",
+                  "cyrillic": "Зүүн тийш",
+                  "isCorrect": true,
+                  "explanation": "Correct! Officers' Palace is located in the East ('зүүн тийш')."
+                },
+                {
+                  "id": "dir_west",
+                  "text": "Баруун тийш явах чиглэл (Westbound direction)",
+                  "cyrillic": "Баруун тийш",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'Баруун тийш' heads toward Dragon Terminal (Драгон) in the West."
+                },
+                {
+                  "id": "dir_south",
+                  "text": "Хойшоо явах чиглэл (Northbound direction)",
+                  "cyrillic": "Хойшоо",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Heading towards 7 Buudal in the North."
+                }
+              ],
+              "correctAnswer": "Зүүн тийш явах чиглэл (Eastbound direction)",
+              "acceptableAlternatives": [
+                "Зүүн тийш",
+                "Зүүн тийш явах чиглэл"
+              ],
+              "explanation": "Ulaanbaatar main transit axes run East-West along Peace Avenue (Энхтайваны өргөн чөлөө). 'Зүүн тийш' means towards the East.",
+              "learnerFeedback": {
+                "onSuccess": "Сайн байна! 'Зүүн тийш' is eastbound.",
+                "onFailure": "East is 'зүүн', so look for 'Зүүн тийш'."
+              },
+              "detailedGrammarNote": "Direction in Mongolian combines the cardinal point noun with the directive postposition 'тийш/тийшээ' (towards).",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Офицеруудын ордон руу зүүн тийш явах автобусанд сууна.",
+                "slowSpeechSynthesisText": "Зүүн тийш явах автобус.",
+                "ipaTranscription": "/tsuːŋ tʰiːʃ jəwəx awtʰɔpʊs/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a2_64_04_route_maps_schedules_reading",
+              "unitId": "unit_a2_64_navigating_ulaanbaatar_bus_routes_d",
+              "cefrLevel": "A2"
+            },
+            {
+              "exerciseId": "ex_a2_64_04_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "Transit Disruption Notice Reading Comprehension",
+              "modality": "READING_COMPREHENSION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "disruption_notice_comprehension",
+                "public_service_announcements"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "замын засвар",
+                "түр зогсохгүй",
+                "тойрч явах"
+              ],
+              "prompt": "Read this municipal transit bulletin:\n\n'Замын засварын ажилтай холбогдуулан 9-р сарын 25-ны өдөр Ч:5 чиглэлийн автобус Төв Шуудангийн зогсоолд түр зогсохгүй. Нарны замаар тойрч явна.'\n\nWhy will the Ch:5 bus bypass the Central Post Office stop today?",
+              "stimulusTextCyrillic": "Замын засварын ажилтай холбогдуулан ... Төв Шуудангийн зогсоолд түр зогсохгүй.",
+              "hint": "'Замын засвар' means road repair.",
+              "options": [
+                {
+                  "id": "dis_repair",
+                  "text": "Due to road repair work, it will detour via Sun Road and not stop at Central Post Office.",
+                  "cyrillic": "Замын засварын улмаас зогсохгүй",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'Замын засварын ажилтай холбогдуулан' = in connection with road repairs."
+                },
+                {
+                  "id": "dis_inspection",
+                  "text": "Scheduled route inspection: The line is undergoing scheduled mechanical testing and route audit.",
+                  "cyrillic": "Шугам замын үзлэг шалгалтын улмаас",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The notice specifically states road repair work (замын засвар)."
+                },
+                {
+                  "id": "dis_holiday",
+                  "text": "It is a national holiday and all buses are suspended.",
+                  "cyrillic": "Баяр",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Service is running but detouring."
+                }
+              ],
+              "correctAnswer": "Due to road repair work, it will detour via Sun Road and not stop at Central Post Office.",
+              "acceptableAlternatives": [
+                "Due to road repair work",
+                "Замын засварын ажилтай холбогдуулан"
+              ],
+              "explanation": "'Замын засвар' = road repair. The notice explains that Ch:5 will detour via Narны зам (Sun Road) without stopping at Central Post Office.",
+              "learnerFeedback": {
+                "onSuccess": "Төгс! Complex municipal disruption notice decoded accurately.",
+                "onFailure": "The notice states the bus detours due to road repairs (замын засвар)."
+              },
+              "detailedGrammarNote": "The chancellery postpositional phrase '-тай холбогдуулан' (in connection with / due to) governs nominalized cause phrases in administrative notices.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Замын засварын ажилтай холбогдуулан автобус Төв Шууданд зогсохгүй.",
+                "slowSpeechSynthesisText": "Замын засварын ажилтай холбогдуулан түр зогсохгүй.",
+                "ipaTranscription": "/tsamiːŋ tsaswəriːŋ atʃʰiɮtʰæː xɔɮpɔɢtʰʊːɮəŋ awtʰɔpʊs tʰɵw ʃʊːtəŋtʰ tsɔɡsɔxɢuː/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a2_64_04_route_maps_schedules_reading",
+              "unitId": "unit_a2_64_navigating_ulaanbaatar_bus_routes_d",
+              "cefrLevel": "A2"
+            }
+          ],
+          "exerciseCount": 5
+        },
+        {
+          "id": "les_a2_64_05_bus_stop_inquiries_dialogue",
+          "title": "Which Bus Goes to the Central Post Office? Stop Inquiries",
+          "cyrillicTitle": "Ask pedestrians for bus route advice, confirm if a bus goes through Sukhbaatar Square, and signal intent to alight.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Develop interactive spoken ability to ask bystanders at a crowded stop which bus reaches a specific destination.",
+          "communicativeOutcome": "Ask pedestrians for bus route advice, confirm if a bus goes through Sukhbaatar Square, and signal intent to alight.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Simulate natural conversational pace between two commuters at an outdoor winter bus stop.",
+          "grammarOverview": {
+            "summary": "Develop interactive spoken ability to ask bystanders at a crowded stop which bus reaches a specific destination.",
+            "keyPoints": [
+              "obj_a2_64_05_inquire_bus_destinations"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_64_06_transit_card_sms_writing",
+          "title": "Transit SMS: Coordinating Bus Commute Times with a Friend",
+          "cyrillicTitle": "Compose a brief message informing a friend which bus you boarded and at which stop to meet.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Synthesize instrumental case, bus route numbers, and arrival predictions in short personal messaging.",
+          "communicativeOutcome": "Compose a brief message informing a friend which bus you boarded and at which stop to meet.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Read back written messages for ear training.",
+          "grammarOverview": {
+            "summary": "Synthesize instrumental case, bus route numbers, and arrival predictions in short personal messaging.",
+            "keyPoints": [
+              "obj_a2_64_06_draft_transit_sms"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a2_65_hailing_street_taxis_giving_micro_d",
+      "unitNumber": 65,
+      "title": "Hailing Street Taxis & Giving Micro-Directions",
+      "cyrillicTitle": "Directing taxi drivers through intersections using landmarks",
+      "description": "Acquire and apply grammatical morphology (gram_a2_case_directional_towards) to fulfill communicative functions in: Hailing Street Taxis & Giving Micro-Directions.",
+      "cefrLevel": "A2",
+      "primaryGrammarTopic": "gram_a2_case_directional_towards",
+      "lessons": [
+        {
+          "id": "les_a2_65_01_directional_case_micro_turns",
+          "title": "Directing the Driver: The Directional Suffix (-руу/-рүү)",
+          "cyrillicTitle": "Instruct a taxi driver to turn or head towards specific landmarks (e.g. 'Баруун гар тийшээ, их дэлгүүр лүү эргээрэй').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the directional case suffix (-руу/-рүү) after consonants and vowels to indicate orientation and movement towards landmarks.",
+          "communicativeOutcome": "Instruct a taxi driver to turn or head towards specific landmarks (e.g. 'Баруун гар тийшээ, их дэлгүүр лүү эргээрэй').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Model vowel harmony choices (-руу vs -рүү) after various noun codas.",
+          "grammarOverview": {
+            "summary": "Introduce the directional case suffix (-руу/-рүү) after consonants and vowels to indicate orientation and movement towards landmarks.",
+            "keyPoints": [
+              "obj_a2_65_01_directional_suffix_marking"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_65_02_hailing_taxis_landmark_navigation",
+          "title": "Hailing Street Cabs: Raising Hands & Landmark Waypoints",
+          "cyrillicTitle": "Hail an informal street taxi, state destination by prominent landmark, and negotiate a per-kilometer fare.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce essential colloquial vocabulary for hailing informal street cabs, negotiating drop-off points, and using landmarks.",
+          "communicativeOutcome": "Hail an informal street taxi, state destination by prominent landmark, and negotiate a per-kilometer fare.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Simulate authentic street side roadside noise and driver banter.",
+          "grammarOverview": {
+            "summary": "Introduce essential colloquial vocabulary for hailing informal street cabs, negotiating drop-off points, and using landmarks.",
+            "keyPoints": [
+              "obj_a2_65_02_street_taxi_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_65_03_in_cab_navigation_dialogue",
+          "title": "Acoustic Lab: Street Hailing Ambient Shouts & Approaching Cabs",
+          "cyrillicTitle": "Guide driver through side streets, ask to pull over right after an intersection, and request change.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Develop acoustic discrimination for short shouted landmark names and cab honks in dense street traffic.",
+          "communicativeOutcome": "Guide driver through side streets, ask to pull over right after an intersection, and request change.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Deliver realistic passenger-driver dialogue with typical turns of speech and hesitation.",
+          "grammarOverview": {
+            "summary": "Develop acoustic discrimination for short shouted landmark names and cab honks in dense street traffic.",
+            "keyPoints": [
+              "obj_a2_65_03_in_cab_turn_guidance"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_a2_65_03_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Acoustic Dissection: Micro-Turn Commands in Cab",
+              "modality": "ORTHOGRAPHY_PHONOLOGY",
+              "interactionPattern": "AUDIO_COMPREHENSION",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "in_cab_listening_comprehension",
+                "spatial_turn_directives"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "баруун гар тийшээ",
+                "эргээрэй"
+              ],
+              "prompt": "Listen to the passenger giving a directional command to the taxi driver:\n\n'Ах аа, энэ уулзвараар баруун гар тийшээ эргээрэй.'\n\nWhich direction did the passenger instruct the driver to turn?",
+              "stimulusTextCyrillic": "Ах аа, энэ уулзвараар баруун гар тийшээ эргээрэй.",
+              "hint": "'Баруун гар тийшээ' = to the right hand side.",
+              "options": [
+                {
+                  "id": "turn_right",
+                  "text": "Turn right at this intersection (Баруун гар тийшээ)",
+                  "cyrillic": "Баруун гар тийшээ эргээрэй",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'Баруун' is right and 'эргээрэй' is please turn."
+                },
+                {
+                  "id": "turn_left",
+                  "text": "Turn left at this intersection (Зүүн гар тийшээ)",
+                  "cyrillic": "Зүүн гар тийшээ эргээрэй",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Left is 'зүүн гар тийшээ'."
+                },
+                {
+                  "id": "turn_straight",
+                  "text": "Go straight through the intersection (Шулуун яваарай)",
+                  "cyrillic": "Шулуун яваарай",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Straight is 'чигээрээ / шулуун'."
+                }
+              ],
+              "correctAnswer": "Turn right at this intersection (Баруун гар тийшээ)",
+              "acceptableAlternatives": [
+                "Turn right",
+                "Баруун гар тийшээ эргээрэй",
+                "Баруун гар тийшээ"
+              ],
+              "explanation": "'Баруун гар тийшээ эргээрэй' means 'Please turn right'. 'Уулзвараар' uses the instrumental case denoting passage through the intersection.",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! 'Баруун' is right.",
+                "onFailure": "Listen for 'баруун гар тийшээ' (to the right)."
+              },
+              "detailedGrammarNote": "In Mongolian taxi parlance, addresses like 'Ах аа' (older brother / sir) are universally polite colloquial vocatives for male drivers.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Ах аа, энэ уулзвараар баруун гар тийшээ эргээрэй.",
+                "slowSpeechSynthesisText": "Энэ уулзвараар баруун гар тийшээ эргээрэй.",
+                "ipaTranscription": "/ax aː, en ʊːɮtswəraːr pʰarʊːŋ ɡar tʰiːʃeː erɡeːreː/",
+                "speakerRole": "female_native",
+                "speechRate": 0.85,
+                "acousticEnvironment": "in_cab_ambient_traffic"
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a2_65_03_in_cab_navigation_dialogue",
+              "unitId": "unit_a2_65_hailing_street_taxis_giving_micro_d",
+              "cefrLevel": "A2"
+            },
+            {
+              "exerciseId": "ex_a2_65_03_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "Stop Command Relative to Traffic Light Threshold",
+              "modality": "ORTHOGRAPHY_PHONOLOGY",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "threshold_postposition_comprehension",
+                "stopping_instructions"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "гэрлэн дохио",
+                "өнгөрөөд",
+                "зогсоорой"
+              ],
+              "prompt": "Listen to the passenger instruction: 'Гэрлэн дохио өнгөрөөд замын хажууд зогсоорой.' Where should the driver pull over?",
+              "stimulusTextCyrillic": "Гэрлэн дохио өнгөрөөд замын хажууд зогсоорой.",
+              "hint": "'Өнгөрөөд' means 'having passed / past', and 'замын хажууд' means 'at the side of the road'.",
+              "options": [
+                {
+                  "id": "loc_past_light",
+                  "text": "Right past the traffic light, on the side of the road.",
+                  "cyrillic": "Гэрлэн дохио өнгөрөөд",
+                  "isCorrect": true,
+                  "explanation": "Correct! Converb '-өөд' in 'өнгөрөөд' indicates action sequence: pass the light first, then stop roadside."
+                },
+                {
+                  "id": "loc_before_light",
+                  "text": "Before reaching the traffic light in the middle lane.",
+                  "cyrillic": "Гэрлэн дохионы наана",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'Өнгөрөөд' means past the light."
+                },
+                {
+                  "id": "loc_u_turn",
+                  "text": "Make a U-turn at the traffic light.",
+                  "cyrillic": "Буцаж эргэх",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. No U-turn requested."
+                }
+              ],
+              "correctAnswer": "Right past the traffic light, on the side of the road.",
+              "acceptableAlternatives": [
+                "Right past the traffic light",
+                "Гэрлэн дохио өнгөрөөд"
+              ],
+              "explanation": "'Гэрлэн дохио' (traffic light) + 'өнгөрөөд' (having passed) + 'замын хажууд зогсоорой' (please stop at the roadside).",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! Accurate comprehension of motion converb 'өнгөрөөд'.",
+                "onFailure": "'Өнгөрөөд' means after passing the light."
+              },
+              "detailedGrammarNote": "The successive converb in -аад⁴ ('өнгөрөөд') expresses sequential action: after performing the first action, immediately execute the second.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Гэрлэн дохио өнгөрөөд замын хажууд зогсоорой.",
+                "slowSpeechSynthesisText": "Гэрлэн дохио өнгөрөөд замын хажууд зогсоорой.",
+                "ipaTranscription": "/ɡerɮəŋ tʰɔxʲɔː ɵŋɡɵrɵːtʰ tsamiːŋ xatʃʊːtʰ tsɔɡsɔːreː/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a2_65_03_in_cab_navigation_dialogue",
+              "unitId": "unit_a2_65_hailing_street_taxis_giving_micro_d",
+              "cefrLevel": "A2"
+            },
+            {
+              "exerciseId": "ex_a2_65_03_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "Token Assembly: Straight Ahead Micro-Direction",
+              "modality": "ORTHOGRAPHY_PHONOLOGY",
+              "interactionPattern": "TOKEN_REARRANGEMENT",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "spontaneous_direction_giving",
+                "imperative_assembly"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "шулуун",
+                "гүүр",
+                "даваад",
+                "яваарай"
+              ],
+              "prompt": "Assemble the tokens to tell the driver: 'Cross the bridge and keep going straight':",
+              "wordTokens": [
+                "яваарай",
+                "даваад",
+                "гүүр",
+                "шулуун"
+              ],
+              "correctTokenOrder": [
+                "гүүр",
+                "даваад",
+                "шулуун",
+                "яваарай"
+              ],
+              "correctAnswer": "гүүр даваад шулуун яваарай",
+              "acceptableAlternatives": [
+                "Гүүр даваад шулуун яваарай.",
+                "гүүр даваад чигээрээ яваарай"
+              ],
+              "hint": "Bridge (гүүр) -> having crossed (даваад) -> straight (шулуун) -> please go (яваарай).",
+              "explanation": "Object noun + sequential converb 'даваад' precedes the manner adverb 'шулуун' and imperative 'яваарай'.",
+              "learnerFeedback": {
+                "onSuccess": "Сайн байна! Natural navigation command formed.",
+                "onFailure": "Sequence: гүүр -> даваад -> шулуун -> яваарай."
+              },
+              "detailedGrammarNote": "'Давах' means to cross over (a mountain pass, hill, or bridge). With converb '-аад', it coordinates the route action.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Гүүр даваад шулуун яваарай.",
+                "slowSpeechSynthesisText": "Гүүр даваад шулуун яваарай.",
+                "ipaTranscription": "/ɡuːr tʰawaːtʰ ʃʊɮʊːŋ jəwaːreː/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "TOKEN_ORDER"
+              },
+              "lessonId": "les_a2_65_03_in_cab_navigation_dialogue",
+              "unitId": "unit_a2_65_hailing_street_taxis_giving_micro_d",
+              "cefrLevel": "A2"
+            },
+            {
+              "exerciseId": "ex_a2_65_03_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "Fare Negotiation Under Ambient Street Noise",
+              "modality": "ORTHOGRAPHY_PHONOLOGY",
+              "interactionPattern": "AUDIO_COMPREHENSION",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "street_hail_listening",
+                "numeral_fare_comprehension"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "километр",
+                "хэд",
+                "мянган төгрөг"
+              ],
+              "prompt": "Listen to the street hail exchange through traffic noise:\n\nPassenger: 'Багшийн дээд хүртэл явах уу?'\nDriver: 'За суучих. Нэг километр нь хоёр мянган төгрөг шүү.'\n\nWhat is the driver's rate per kilometer?",
+              "stimulusTextCyrillic": "Нэг километр нь хоёр мянган төгрөг шүү.",
+              "hint": "2000 = хоёр мянга.",
+              "options": [
+                {
+                  "id": "fare_2000",
+                  "text": "2,000 MNT per kilometer",
+                  "cyrillic": "2000 төгрөг",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'Хоёр мянган төгрөг' is 2,000 MNT."
+                },
+                {
+                  "id": "fare_1500",
+                  "text": "1,500 MNT per kilometer",
+                  "cyrillic": "1500 төгрөг",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Driver specified 2000 MNT."
+                },
+                {
+                  "id": "fare_3000",
+                  "text": "3,000 MNT flat rate",
+                  "cyrillic": "3000 төгрөг",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Rate is 2000 per km."
+                }
+              ],
+              "correctAnswer": "2,000 MNT per kilometer",
+              "acceptableAlternatives": [
+                "2,000 MNT",
+                "2000",
+                "хоёр мянга"
+              ],
+              "explanation": "The unofficial street taxi driver agreed to drive ('За суучих') and quoted 2,000 MNT per kilometer ('хоёр мянган төгрөг').",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! Street taxi fare extracted through noise.",
+                "onFailure": "Driver stated: 'Хоёр мянган төгрөг' = 2,000 MNT."
+              },
+              "detailedGrammarNote": "In informal street hailing (гар өргөх), drivers state their per-kilometer rate followed by emphatic particle 'шүү' ('хоёр мянган төгрөг шүү').",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "За суучих. Нэг километр нь хоёр мянган төгрөг шүү.",
+                "slowSpeechSynthesisText": "Нэг километр нь хоёр мянган төгрөг шүү.",
+                "ipaTranscription": "/tsa sʊːtʃʰix. nʲeɡ xʲiɮɔmʲetʰər nʲ xɔjər mʲaŋɢəŋ tʰɵɡrɵɡ ʃuː/",
+                "speakerRole": "male_native",
+                "speechRate": 0.9,
+                "acousticEnvironment": "street_traffic_noise"
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a2_65_03_in_cab_navigation_dialogue",
+              "unitId": "unit_a2_65_hailing_street_taxis_giving_micro_d",
+              "cefrLevel": "A2"
+            },
+            {
+              "exerciseId": "ex_a2_65_03_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "Cloze Insertion: Landmark-Relative Stop Instruction",
+              "modality": "ORTHOGRAPHY_PHONOLOGY",
+              "interactionPattern": "CLOZE_TEXT",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "spatial_postposition_cloze",
+                "in_cab_prompt"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "урд талд",
+                "зогсох"
+              ],
+              "prompt": "You want the driver to stop in front of the central Department Store (Их Дэлгүүр). Fill in the spatial postposition for 'in front of':\n\n'Их Дэлгүүрийн ______ талд буулгаад өгөөрэй.'",
+              "stimulusTextCyrillic": "Их Дэлгүүрийн ______ талд буулгаад өгөөрэй.",
+              "hint": "Consider the cardinal/spatial antonym of 'хойд' (back/north) commonly used in Mongolian urban directions for frontal location.",
+              "correctAnswer": "урд",
+              "acceptableAlternatives": [
+                "урд",
+                "Урд"
+              ],
+              "explanation": "'Урд талд' means 'in front of / on the south side'. Combined with 'буулгаад өгөөрэй' (please drop me off).",
+              "learnerFeedback": {
+                "onSuccess": "Гайхалтай! 'урд талд' is the precise spatial postposition.",
+                "onFailure": "Remember that 'урд талд' expresses 'in front of' (opposite of 'хойд талд')."
+              },
+              "detailedGrammarNote": "Postpositions of orientation (урд талд, ард талд, баруун талд, зүүн талд) systematically govern preceding nouns in the genitive case ('Их Дэлгүүрийн').",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Их Дэлгүүрийн урд талд буулгаад өгөөрэй.",
+                "slowSpeechSynthesisText": "Их Дэлгүүрийн урд талд буулгаад өгөөрэй.",
+                "ipaTranscription": "/ix tʰeɮɡuːriːŋ ʊrtʰ tʰaɮtʰ pʊːɮɢaːtʰ ɵɡɵːreː/",
+                "speakerRole": "female_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "NORMALIZED_TEXT",
+                "caseSensitive": false,
+                "stripPunctuation": true,
+                "normalizeWhitespace": true
+              },
+              "lessonId": "les_a2_65_03_in_cab_navigation_dialogue",
+              "unitId": "unit_a2_65_hailing_street_taxis_giving_micro_d",
+              "cefrLevel": "A2"
+            }
+          ],
+          "exerciseCount": 5
+        },
+        {
+          "id": "les_a2_65_04_taxi_radio_fare_listening",
+          "title": "Acoustic Lab: Radio Dispatch Audio & Fare Calculations",
+          "cyrillicTitle": "Extract pickup address, destination landmark, and calculated fare from authentic taxi dispatch communications.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Sharpen listening comprehension of authentic taxi radio chatter, automated dispatch updates, and fare calculation disputes.",
+          "communicativeOutcome": "Extract pickup address, destination landmark, and calculated fare from authentic taxi dispatch communications.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Acoustic dispatch audio with radio squelch, background traffic horns, and rapid Mongolian numbers.",
+          "grammarOverview": {
+            "summary": "Sharpen listening comprehension of authentic taxi radio chatter, automated dispatch updates, and fare calculation disputes.",
+            "keyPoints": [
+              "obj_a2_65_04_decode_taxi_dispatch_audio"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_65_05_micro_directions_written_pin",
+          "title": "Written Micro-Directions: Dropping a Text Pin for Ride Pickup",
+          "cyrillicTitle": "Write clear pickup instructions in a ride app chat explaining exactly where you are waiting.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Synthesize directional case (-руу/-рүү), spatial adverbs, and landmark descriptions in written ride-hailing notes.",
+          "communicativeOutcome": "Write clear pickup instructions in a ride app chat explaining exactly where you are waiting.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Audio playback of user drafted pickup messages.",
+          "grammarOverview": {
+            "summary": "Synthesize directional case (-руу/-рүү), spatial adverbs, and landmark descriptions in written ride-hailing notes.",
+            "keyPoints": [
+              "obj_a2_65_05_write_pickup_instructions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a2_66_intercity_bus_passenger_train_trave",
+      "unitNumber": 66,
+      "title": "Intercity Bus & Passenger Train Travel",
+      "cyrillicTitle": "Booking sleeper train tickets to Darkhan/Erdenet and intercity buses",
+      "description": "Acquire and apply grammatical morphology (gram_a2_case_instrumental_means) to fulfill communicative functions in: Intercity Bus & Passenger Train Travel.",
+      "cefrLevel": "A2",
+      "primaryGrammarTopic": "gram_a2_case_instrumental_means",
+      "lessons": [
+        {
+          "id": "les_a2_66_01_instrumental_means_transit_goals",
+          "title": "By Train, By Bus, By Card: Instrumental Case of Means (-аар4)",
+          "cyrillicTitle": "Specify transit vehicles and transaction methods across provinces (e.g. 'Бид Дархан руу хурдан галт тэргээр явна', 'Би тасалбарын үнийг картаар төлнө').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the instrumental case suffix (-аар / -ээр / -оор / -өөр) for expressing means of transit, tools, and methods of payment in intercity travel.",
+          "communicativeOutcome": "Specify transit vehicles and transaction methods across provinces (e.g. 'Бид Дархан руу хурдан галт тэргээр явна', 'Би тасалбарын үнийг картаар төлнө').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Model quadruple vowel harmony of the instrumental suffix (-аар, -ээр, -оор, -өөр).",
+          "grammarOverview": {
+            "summary": "Introduce the instrumental case suffix (-аар / -ээр / -оор / -өөр) for expressing means of transit, tools, and methods of payment in intercity travel.",
+            "keyPoints": [
+              "obj_a2_66_01_instrumental_means_marking"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_66_02_intercity_terminals_rail_vocabulary",
+          "title": "Dragon Terminal & Railway Station: Intercity Travel Hubs",
+          "cyrillicTitle": "Distinguish between train carriage types, understand baggage weight allowances, and navigate bus platforms.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce core vocabulary for regional transport hubs, rail berths, sleeper compartments, and long-distance buses.",
+          "communicativeOutcome": "Distinguish between train carriage types, understand baggage weight allowances, and navigate bus platforms.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Acoustic modeling of terminal announcements and ticketing clerk voice.",
+          "grammarOverview": {
+            "summary": "Introduce core vocabulary for regional transport hubs, rail berths, sleeper compartments, and long-distance buses.",
+            "keyPoints": [
+              "obj_a2_66_02_intercity_terminal_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_66_03_station_pa_announcement_listening",
+          "title": "Platform Audio Lab: Departure Calls & Track Announcements",
+          "cyrillicTitle": "Extract train/bus route numbers, track numbers, departure delays, and boarding calls from live public address audio.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Develop acoustic comprehension of reverberant public railway station and long-distance bus terminal announcements.",
+          "communicativeOutcome": "Extract train/bus route numbers, track numbers, departure delays, and boarding calls from live public address audio.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Provide reverberant station audio with realistic echo, platform bells, and diesel train engine sounds.",
+          "grammarOverview": {
+            "summary": "Develop acoustic comprehension of reverberant public railway station and long-distance bus terminal announcements.",
+            "keyPoints": [
+              "obj_a2_66_03_decode_platform_announcements"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_66_04_train_bus_timetables_reading",
+          "title": "Deciphering Mongolian Railway Tickets & Departure Boards",
+          "cyrillicTitle": "Inspect a printed railway ticket or digital PDF voucher to find carriage number, berth, passenger name, and departure date.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Develop targeted reading skills for official Mongolian railway e-tickets, carriage numbers, berth codes, and baggage vouchers.",
+          "communicativeOutcome": "Inspect a printed railway ticket or digital PDF voucher to find carriage number, berth, passenger name, and departure date.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce formal administrative ticket labels.",
+          "grammarOverview": {
+            "summary": "Develop targeted reading skills for official Mongolian railway e-tickets, carriage numbers, berth codes, and baggage vouchers.",
+            "keyPoints": [
+              "obj_a2_66_04_read_railway_tickets"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_66_05_ticket_counter_booking_dialogue",
+          "title": "At the Ticket Window: Booking Sleeper Berths & Round-Trips",
+          "cyrillicTitle": "Purchase round-trip tickets to an aimag center, specify lower berth preference, and ask about cancellation policies.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate spoken interaction at an intercity bus or train ticket window, negotiating departure times and berth positions.",
+          "communicativeOutcome": "Purchase round-trip tickets to an aimag center, specify lower berth preference, and ask about cancellation policies.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Model fast, professional cashier responses through ticket glass microphone.",
+          "grammarOverview": {
+            "summary": "Simulate spoken interaction at an intercity bus or train ticket window, negotiating departure times and berth positions.",
+            "keyPoints": [
+              "obj_a2_66_05_book_intercity_tickets"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_66_06_travel_itinerary_drafting",
+          "title": "Intercity Travel Plan: Writing Itinerary & Packing Essentials",
+          "cyrillicTitle": "Write a 5-6 sentence travel itinerary detailing departure station, transit purpose, stops, and arrival checklist.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Consolidate purposive converb, transportation nouns, and schedule timings in a comprehensive written travel plan.",
+          "communicativeOutcome": "Write a 5-6 sentence travel itinerary detailing departure station, transit purpose, stops, and arrival checklist.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Read back generated travel plan for self-correction.",
+          "grammarOverview": {
+            "summary": "Consolidate purposive converb, transportation nouns, and schedule timings in a comprehensive written travel plan.",
+            "keyPoints": [
+              "obj_a2_66_06_write_travel_itinerary"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a2_67_pedestrian_wayfinding_landmark_rela",
+      "unitNumber": 67,
+      "title": "Pedestrian Wayfinding & Landmark Relative Positions",
+      "cyrillicTitle": "Giving multi-step pedestrian instructions in central UB",
+      "description": "Acquire and apply grammatical morphology (gram_a2_adverbial_comparative_shig_adil_met) to fulfill communicative functions in: Pedestrian Wayfinding & Landmark Relative Positions.",
+      "cefrLevel": "A2",
+      "primaryGrammarTopic": "gram_a2_adverbial_comparative_shig_adil_met",
+      "lessons": [
+        {
+          "id": "les_a2_67_01_comparative_adverbials_postpositions",
+          "title": "Like and Similar To: Comparative Adverbials (Шиг, Адил, Мэт)",
+          "cyrillicTitle": "Describe building landmarks by analogy (e.g. 'Тэр барилга цамхаг шиг харагдана', 'Номын сангийн адил том байшин').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce comparative adverbials and postpositions (шиг, адил, мэт) to describe landmarks, visual likeness, and relative scale.",
+          "communicativeOutcome": "Describe building landmarks by analogy (e.g. 'Тэр барилга цамхаг шиг харагдана', 'Номын сангийн адил том байшин').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Model clitic-like prosodic integration of 'шиг' after nominal phrases.",
+          "grammarOverview": {
+            "summary": "Introduce comparative adverbials and postpositions (шиг, адил, мэт) to describe landmarks, visual likeness, and relative scale.",
+            "keyPoints": [
+              "obj_a2_67_01_comparative_particles"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_67_02_urban_spatial_landmarks_lexicon",
+          "title": "Alleyways, Squares & Underpasses: Urban Topography",
+          "cyrillicTitle": "Name and recognize complex pedestrian infrastructure, crosswalks, traffic circles, and public statues.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce spatial vocabulary for navigating pedestrian zones, subterranean underpasses (нүхэн гарц), alleys, and monumental statues.",
+          "communicativeOutcome": "Name and recognize complex pedestrian infrastructure, crosswalks, traffic circles, and public statues.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce compound spatial terms with stress on initial syllable.",
+          "grammarOverview": {
+            "summary": "Introduce spatial vocabulary for navigating pedestrian zones, subterranean underpasses (нүхэн гарц), alleys, and monumental statues.",
+            "keyPoints": [
+              "obj_a2_67_02_pedestrian_infrastructure_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_67_03_multistep_pedestrian_dialogue",
+          "title": "Turn Past the Statues: Interactive Multi-Step Directions",
+          "cyrillicTitle": "Ask a passerby how to walk to the State Department Store from Chinggis Square, confirming each intermediate landmark.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Master asking for and executing multi-step pedestrian directions involving at least three spatial transitions.",
+          "communicativeOutcome": "Ask a passerby how to walk to the State Department Store from Chinggis Square, confirming each intermediate landmark.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Deliver authentic multi-speaker dialogue recorded outdoors on a windy city street.",
+          "grammarOverview": {
+            "summary": "Master asking for and executing multi-step pedestrian directions involving at least three spatial transitions.",
+            "keyPoints": [
+              "obj_a2_67_03_multistep_wayfinding_dialogue"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_67_04_pedestrian_route_map_reading",
+          "title": "Deciphering City Center Walking Maps & Heritage Trails",
+          "cyrillicTitle": "Read a historical downtown walking circuit map, identifying key architectural highlights and distance markers.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Develop reading skills for municipal walking tour brochures, monument plaques, and walking route legends.",
+          "communicativeOutcome": "Read a historical downtown walking circuit map, identifying key architectural highlights and distance markers.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Narrate text excerpts from historical walking trail guide.",
+          "grammarOverview": {
+            "summary": "Develop reading skills for municipal walking tour brochures, monument plaques, and walking route legends.",
+            "keyPoints": [
+              "obj_a2_67_04_read_walking_tour_maps"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_67_05_ambient_street_directions_listening",
+          "title": "Acoustic Wayfinding Lab: Parsing Directions in City Noise",
+          "cyrillicTitle": "Extract exact turns, distance in meters, and destination landmarks from rapid street responses.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Develop focused acoustic decoding of rapid spoken directions against realistic ambient background noise of horns, wind, and footsteps.",
+          "communicativeOutcome": "Extract exact turns, distance in meters, and destination landmarks from rapid street responses.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic audio captured on Peace Avenue with traffic hum, footsteps, and wind noise.",
+          "grammarOverview": {
+            "summary": "Develop focused acoustic decoding of rapid spoken directions against realistic ambient background noise of horns, wind, and footsteps.",
+            "keyPoints": [
+              "obj_a2_67_05_decode_noisy_street_directions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_67_06_written_wayfinding_guide_portfolio",
+          "title": "Wayfinding Portfolio: Drafting Written Walking Directions",
+          "cyrillicTitle": "Draft written step-by-step walking instructions explaining how to walk from a major hotel to a traditional restaurant.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Synthesize comparative particles, directional suffixes, spatial postpositions, and landmarks into a written guide for foreign guests.",
+          "communicativeOutcome": "Draft written step-by-step walking instructions explaining how to walk from a major hotel to a traditional restaurant.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Synthesize written text for self-audit.",
+          "grammarOverview": {
+            "summary": "Synthesize comparative particles, directional suffixes, spatial postpositions, and landmarks into a written guide for foreign guests.",
+            "keyPoints": [
+              "obj_a2_67_06_draft_written_walking_guide"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a2_68_handling_transit_delays_traffic_jam",
+      "unitNumber": 68,
+      "title": "Handling Transit Delays & Traffic Jams (Түгжрэл)",
+      "cyrillicTitle": "Reporting unexpected transit hold-ups via phone and messaging",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Handling Transit Delays & Traffic Jams (Түгжрэл).",
+      "cefrLevel": "A2",
+      "primaryGrammarTopic": "Reporting unexpected transit hold-ups via phone and messaging",
+      "lessons": [
+        {
+          "id": "les_a2_68_01_witnessed_recent_past_transit",
+          "title": "Immediate Incidents: The Witnessed Recent Past (-лаа/-лээ/-лоо/-лөө)",
+          "cyrillicTitle": "Announce immediate occurrences in transit (e.g. 'Машин эвдэрлээ', 'Зам бөглөрлөө', 'Бид ирлээ').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the witnessed recent past tense suffix (-лаа4) to report immediate events, sudden delays, and newly observed breakdowns.",
+          "communicativeOutcome": "Announce immediate occurrences in transit (e.g. 'Машин эвдэрлээ', 'Зам бөглөрлөө', 'Бид ирлээ').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Model emphatic exclamatory intonation on witnessed past verb forms.",
+          "grammarOverview": {
+            "summary": "Introduce the witnessed recent past tense suffix (-лаа4) to report immediate events, sudden delays, and newly observed breakdowns.",
+            "keyPoints": [
+              "obj_a2_68_01_witnessed_past_immediate_events"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_68_02_traffic_congestion_lexicon",
+          "title": "Deciphering Road Condition Bulletins, Traffic Radio Alerts & Detours",
+          "cyrillicTitle": "Explain why you are delayed in traffic, identify detour signs, and discuss vehicle repairs.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read authentic public transit advisories, traffic jam warnings, and winter road condition alerts in Cyrillic.",
+          "communicativeOutcome": "Explain why you are delayed in traffic, identify detour signs, and discuss vehicle repairs.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce terms for vehicular parts and roadway conditions.",
+          "grammarOverview": {
+            "summary": "Read authentic public transit advisories, traffic jam warnings, and winter road condition alerts in Cyrillic.",
+            "keyPoints": [
+              "obj_a2_68_02_traffic_delay_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_68_03_radio_traffic_bulletin_listening",
+          "title": "Acoustic Lab: Radio Traffic Bulletins & Rush-Hour Updates",
+          "cyrillicTitle": "Extract gridlocked bridge names, average vehicle speeds, and suggested alternative bypass routes from radio audio.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Develop acoustic listening comprehension of authentic Ulaanbaatar radio traffic broadcasts (FM 106.3 / Авто радио).",
+          "communicativeOutcome": "Extract gridlocked bridge names, average vehicle speeds, and suggested alternative bypass routes from radio audio.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Deliver fast-paced radio announcer voice with signature radio jingle and background traffic noise.",
+          "grammarOverview": {
+            "summary": "Develop acoustic listening comprehension of authentic Ulaanbaatar radio traffic broadcasts (FM 106.3 / Авто радио).",
+            "keyPoints": [
+              "obj_a2_68_03_decode_radio_traffic_bulletins"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_68_04_calling_to_explain_delay_dialogue",
+          "title": "Calling Ahead: Apologizing for Traffic & Rescheduling Arrival",
+          "cyrillicTitle": "Call a meeting host, state current stuck location, apologize for the unexpected delay, and commit to a new arrival window.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Develop spoken conversational skills for calling an appointment or host while stuck in traffic, apologizing politely, and adjusting arrival time.",
+          "communicativeOutcome": "Call a meeting host, state current stuck location, apologize for the unexpected delay, and commit to a new arrival window.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Simulate telephone acoustic equalization with authentic car horn background ambiance.",
+          "grammarOverview": {
+            "summary": "Develop spoken conversational skills for calling an appointment or host while stuck in traffic, apologizing politely, and adjusting arrival time.",
+            "keyPoints": [
+              "obj_a2_68_04_delay_apology_phone_exchange"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_68_05_polite_delay_notice_sms_writing",
+          "title": "Written Delay Notice: Drafting Apology Texts to Colleagues",
+          "cyrillicTitle": "Compose a polite SMS or instant message to colleagues explaining a transit breakdown and giving ETA.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Synthesize witnessed past tense, traffic vocabulary, and temporal markers into clear, courteous written messages.",
+          "communicativeOutcome": "Compose a polite SMS or instant message to colleagues explaining a transit breakdown and giving ETA.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Audio playback of sample SMS texts for orthographic review.",
+          "grammarOverview": {
+            "summary": "Synthesize witnessed past tense, traffic vocabulary, and temporal markers into clear, courteous written messages.",
+            "keyPoints": [
+              "obj_a2_68_05_draft_delay_sms"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a2_69_postal_courier_package_delivery_ser",
+      "unitNumber": 69,
+      "title": "Postal, Courier & Package Delivery Services",
+      "cyrillicTitle": "Mailing packages at Mongol Post and receiving express courier parcels",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Postal, Courier & Package Delivery Services.",
+      "cefrLevel": "A2",
+      "primaryGrammarTopic": "Mailing packages at Mongol Post and receiving express courier parcels",
+      "lessons": [
+        {
+          "id": "les_a2_69_01_postal_services_parcel_lexicon",
+          "title": "Mongol Post & Parcel Lockers: Courier Service Vocabulary",
+          "cyrillicTitle": "Identify parcel services, weigh packages, and ask about domestic vs international courier rates.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce practical vocabulary for postal counters (шуудангийн салбар), parcel shipping (илгээмж), automated parcel lockers, tracking numbers, and packaging materials.",
+          "communicativeOutcome": "Identify parcel services, weigh packages, and ask about domestic vs international courier rates.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce postal terminology and measure unit combinations.",
+          "grammarOverview": {
+            "summary": "Introduce practical vocabulary for postal counters (шуудангийн салбар), parcel shipping (илгээмж), automated parcel lockers, tracking numbers, and packaging materials.",
+            "keyPoints": [
+              "obj_a2_69_01_postal_courier_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_69_02_postal_customs_rates_reading",
+          "title": "Deciphering Shipping Labels, Tracking Slips & Customs Forms",
+          "cyrillicTitle": "Inspect a postal receipt to find tracking barcode number, sender/recipient addresses, weight, and delivery status.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Develop reading comprehension for postal tracking printouts, shipping labels, customs declaration slips, and delivery notifications.",
+          "communicativeOutcome": "Inspect a postal receipt to find tracking barcode number, sender/recipient addresses, weight, and delivery status.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce formal administrative label categories.",
+          "grammarOverview": {
+            "summary": "Develop reading comprehension for postal tracking printouts, shipping labels, customs declaration slips, and delivery notifications.",
+            "keyPoints": [
+              "obj_a2_69_02_read_postal_tracking_slips"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_69_03_courier_dispatch_audio_listening",
+          "title": "Reading International Customs Declarations & Fragile Parcel Regulations",
+          "cyrillicTitle": "Understand courier delivery calls, identify requested building entry information, and agree on parcel handover.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Analyze postal customs declaration forms, prohibited item lists, and insurance option clauses.",
+          "communicativeOutcome": "Understand courier delivery calls, identify requested building entry information, and agree on parcel handover.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Simulate courier voice calling from a moving moped/van with street background noise.",
+          "grammarOverview": {
+            "summary": "Analyze postal customs declaration forms, prohibited item lists, and insurance option clauses.",
+            "keyPoints": [
+              "obj_a2_69_03_decode_courier_delivery_calls"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_69_04_mailing_parcels_counter_dialogue",
+          "title": "At the Postal Counter: Mailing Parcels & Choosing Shipping Classes",
+          "cyrillicTitle": "Conduct a full postal counter transaction: hand over parcel, choose airmail vs surface, purchase packing tape, and receive tracking receipt.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Master spoken interaction at a postal counter, weighing parcels, declaring fragile contents, and purchasing packing boxes.",
+          "communicativeOutcome": "Conduct a full postal counter transaction: hand over parcel, choose airmail vs surface, purchase packing tape, and receive tracking receipt.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Deliver authentic, clear counter dialogue with typical postal scale and tape dispensing sounds.",
+          "grammarOverview": {
+            "summary": "Master spoken interaction at a postal counter, weighing parcels, declaring fragile contents, and purchasing packing boxes.",
+            "keyPoints": [
+              "obj_a2_69_04_postal_counter_dialogue"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_69_05_postal_waybill_addressing_writing",
+          "title": "Addressing the Waybill: Formatting Mongolian Postal Addresses",
+          "cyrillicTitle": "Fill out an official postal dispatch waybill and address label with complete hierarchical precision in Cyrillic.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Teach the correct hierarchical formatting of Mongolian postal addresses (Aimag/City -> District/Sum -> Khoroo/Bag -> Street -> Building -> Door).",
+          "communicativeOutcome": "Fill out an official postal dispatch waybill and address label with complete hierarchical precision in Cyrillic.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Read back correctly structured address fields.",
+          "grammarOverview": {
+            "summary": "Teach the correct hierarchical formatting of Mongolian postal addresses (Aimag/City -> District/Sum -> Khoroo/Bag -> Street -> Building -> Door).",
+            "keyPoints": [
+              "obj_a2_69_05_write_mongolian_postal_addresses"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a2_70_banking_basics_atms_cash_withdrawal",
+      "unitNumber": 70,
+      "title": "Banking Basics: ATMs & Cash Withdrawals",
+      "cyrillicTitle": "Using Khan Bank / Golomt ATMs and handling currency queries",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Banking Basics: ATMs & Cash Withdrawals.",
+      "cefrLevel": "A2",
+      "primaryGrammarTopic": "Using Khan Bank / Golomt ATMs and handling currency queries",
+      "lessons": [
+        {
+          "id": "les_a2_70_01_atm_banking_interface_lexicon",
+          "title": "ATM Terminology: Cards, PINs & Cash Withdrawals",
+          "cyrillicTitle": "Operate a Mongolian ATM interface, understand touchscreen options, and execute cash withdrawals.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce practical vocabulary for operating Mongolian automated teller machines (АТМ / Бэлэн мөнгөний машин), selecting accounts, entering PINs, and requesting receipts.",
+          "communicativeOutcome": "Operate a Mongolian ATM interface, understand touchscreen options, and execute cash withdrawals.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Acoustic modeling of automated ATM voice prompts.",
+          "grammarOverview": {
+            "summary": "Introduce practical vocabulary for operating Mongolian automated teller machines (АТМ / Бэлэн мөнгөний машин), selecting accounts, entering PINs, and requesting receipts.",
+            "keyPoints": [
+              "obj_a2_70_01_atm_banking_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_70_02_atm_screen_prompts_receipts_reading",
+          "title": "Deciphering ATM Screen Alerts & Transaction Receipts",
+          "cyrillicTitle": "Inspect ATM screen warnings and printed transaction slips to verify withdrawal amount, deducted fee, and remaining balance.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Develop reading comprehension for ATM error prompts, daily withdrawal limits, balance printouts, and fee disclosures.",
+          "communicativeOutcome": "Inspect ATM screen warnings and printed transaction slips to verify withdrawal amount, deducted fee, and remaining balance.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce formal banking receipt abbreviations and labels.",
+          "grammarOverview": {
+            "summary": "Develop reading comprehension for ATM error prompts, daily withdrawal limits, balance printouts, and fee disclosures.",
+            "keyPoints": [
+              "obj_a2_70_02_read_atm_receipts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_70_04_atm_troubleshooting_dialogue",
+          "title": "Machine Errors: Reporting Retained Cards & Unpaid Cash",
+          "cyrillicTitle": "Explain an ATM malfunction to a bank officer, provide machine ID, and submit a card reclamation request.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Develop spoken communicative competence for seeking immediate assistance when an ATM swallows a card or dispenses incomplete cash.",
+          "communicativeOutcome": "Explain an ATM malfunction to a bank officer, provide machine ID, and submit a card reclamation request.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Deliver authentic customer distress and calm teller reassurance dialogue.",
+          "grammarOverview": {
+            "summary": "Develop spoken communicative competence for seeking immediate assistance when an ATM swallows a card or dispenses incomplete cash.",
+            "keyPoints": [
+              "obj_a2_70_04_atm_troubleshooting_dialogue"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a2_71_currency_exchange_international_rem",
+      "unitNumber": 71,
+      "title": "Currency Exchange & International Remittances",
+      "cyrillicTitle": "Exchanging USD/EUR/CNY at Naiman Sharga currency exchange",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Currency Exchange & International Remittances.",
+      "cefrLevel": "A2",
+      "primaryGrammarTopic": "Exchanging USD/EUR/CNY at Naiman Sharga currency exchange",
+      "lessons": [
+        {
+          "id": "les_a2_71_01_currency_forex_remittance_lexicon",
+          "title": "Naiman Sharga & Forex: Currency Exchange Terminology",
+          "cyrillicTitle": "Understand foreign exchange rate terminology, compare currency denominations, and calculate conversions between Tugriks and USD/EUR/KRW.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce practical vocabulary for foreign exchange markets (валют арилжаа), buy/sell rates (авах/зарах ханш), commissions, and international money transfers.",
+          "communicativeOutcome": "Understand foreign exchange rate terminology, compare currency denominations, and calculate conversions between Tugriks and USD/EUR/KRW.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce currency names and exchange terminology clearly.",
+          "grammarOverview": {
+            "summary": "Introduce practical vocabulary for foreign exchange markets (валют арилжаа), buy/sell rates (авах/зарах ханш), commissions, and international money transfers.",
+            "keyPoints": [
+              "obj_a2_71_01_currency_exchange_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_71_02_exchange_rate_boards_reading",
+          "title": "Deciphering Exchange Rate Boards & Wire Transfer Forms",
+          "cyrillicTitle": "Inspect currency comparison boards to choose the most advantageous exchange venue, and verify wire transfer fee structures.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Develop reading skills for authentic digital forex boards, bank comparative rate monitors, and international wire transfer paperwork.",
+          "communicativeOutcome": "Inspect currency comparison boards to choose the most advantageous exchange venue, and verify wire transfer fee structures.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce currency table headings and numerical exchange values.",
+          "grammarOverview": {
+            "summary": "Develop reading skills for authentic digital forex boards, bank comparative rate monitors, and international wire transfer paperwork.",
+            "keyPoints": [
+              "obj_a2_71_02_read_forex_boards"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_71_03_teller_transaction_audio_listening",
+          "title": "Acoustic Lab: Rapid Note Counting & Serial Number Verification",
+          "cyrillicTitle": "Understand teller statements about currency condition, reject damaged banknotes, and verify spoken totals.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Develop acoustic comprehension of forex teller dialogue, high-speed electronic banknote counters, and counterfeit/damaged bill notifications.",
+          "communicativeOutcome": "Understand teller statements about currency condition, reject damaged banknotes, and verify spoken totals.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic audio with banknote counter clicking, bill snapping, and rapid numerical totals.",
+          "grammarOverview": {
+            "summary": "Develop acoustic comprehension of forex teller dialogue, high-speed electronic banknote counters, and counterfeit/damaged bill notifications.",
+            "keyPoints": [
+              "obj_a2_71_03_decode_forex_teller_audio"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_71_04_currency_exchange_booth_dialogue",
+          "title": "At the Exchange Booth: Exchanging Dollars & Choosing Denominations",
+          "cyrillicTitle": "Exchange foreign cash into Tugriks, negotiate small denomination bills, count cash in front of teller, and verify receipt.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate a live exchange encounter at a Naiman Sharga or commercial bank booth, requesting specific denominations (жижиг/том дэвсгэрт) and crisp notes.",
+          "communicativeOutcome": "Exchange foreign cash into Tugriks, negotiate small denomination bills, count cash in front of teller, and verify receipt.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Model realistic customer-teller negotiations behind security glass.",
+          "grammarOverview": {
+            "summary": "Simulate a live exchange encounter at a Naiman Sharga or commercial bank booth, requesting specific denominations (жижиг/том дэвсгэрт) and crisp notes.",
+            "keyPoints": [
+              "obj_a2_71_04_exchange_booth_dialogue"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a2_72_urban_transit_capstone_navigating_t",
+      "unitNumber": 72,
+      "title": "Urban Transit Capstone: Navigating the Capital",
+      "cyrillicTitle": "Executing a full-day cross-city journey with multiple transit modes",
+      "description": "Consolidate, integrate, and demonstrate communicative mastery of Urban Transit Capstone: Navigating the Capital through simulated holistic tasks.",
+      "cefrLevel": "A2",
+      "primaryGrammarTopic": "Executing a full-day cross-city journey with multiple transit modes",
+      "lessons": [
+        {
+          "id": "les_a2_72_01_multimodal_urban_navigation_lexicon",
+          "title": "Cross-Town Commuting: Multimodal Transit Integration",
+          "cyrillicTitle": "Formulate a multi-leg urban transit route combining bus, walking, and taxi across Ulaanbaatar.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce high-level urban mobility vocabulary for cross-town transfers (дамжин суух), micro-mobility rentals, commuter corridors, and rush-hour route optimization.",
+          "communicativeOutcome": "Formulate a multi-leg urban transit route combining bus, walking, and taxi across Ulaanbaatar.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce complex multimodal travel terms and compound sentences.",
+          "grammarOverview": {
+            "summary": "Introduce high-level urban mobility vocabulary for cross-town transfers (дамжин суух), micro-mobility rentals, commuter corridors, and rush-hour route optimization.",
+            "keyPoints": [
+              "obj_a2_72_01_multimodal_transit_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_72_02_integrated_ticketing_transfers_lexicon",
+          "title": "Smart Fare Media: Multi-Leg Transfers & Transit Hub Lexicon",
+          "cyrillicTitle": "Inquire about transfer windows and cross-town route intersections using specialized transit terminology.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Master lexical items for multi-leg commuter transfers, connecting express routes, and electronic card recharge.",
+          "communicativeOutcome": "Inquire about transfer windows and cross-town route intersections using specialized transit terminology.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce complex multimodal travel terms and compound sentences.",
+          "grammarOverview": {
+            "summary": "Master lexical items for multi-leg commuter transfers, connecting express routes, and electronic card recharge.",
+            "keyPoints": [
+              "obj_a2_72_01_multimodal_transit_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_72_03_transit_guide_rental_rules_reading",
+          "title": "Deciphering the Capital Commuter Guide & Rental Terms",
+          "cyrillicTitle": "Inspect transit guides and rental agreements to extract rules regarding peak hours, baggage limits, penalty fees, and parking zones.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Develop targeted reading comprehension of an authentic urban transit guidebook, digital mobility terms of service, and parking regulations.",
+          "communicativeOutcome": "Inspect transit guides and rental agreements to extract rules regarding peak hours, baggage limits, penalty fees, and parking zones.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Read administrative regulatory terms aloud.",
+          "grammarOverview": {
+            "summary": "Develop targeted reading comprehension of an authentic urban transit guidebook, digital mobility terms of service, and parking regulations.",
+            "keyPoints": [
+              "obj_a2_72_03_read_urban_transit_guide"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_72_02_commuter_acoustic_decoding_lab",
+          "title": "Acoustic Lab: Capital Commuter Discourse Decoding",
+          "cyrillicTitle": "Synthesize information from multi-speaker discussions involving bus drivers, taxi operators, and fellow passengers across different transit hubs.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Develop advanced acoustic decoding skills across a series of realistic multi-speaker ambient audio vignettes from across the capital.",
+          "communicativeOutcome": "Synthesize information from multi-speaker discussions involving bus drivers, taxi operators, and fellow passengers across different transit hubs.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Produce a seamless 2-minute audio landscape featuring street, bus interior, and ticket office sounds.",
+          "grammarOverview": {
+            "summary": "Develop advanced acoustic decoding skills across a series of realistic multi-speaker ambient audio vignettes from across the capital.",
+            "keyPoints": [
+              "obj_a2_72_02_decode_commuter_discourse"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_72_04_cross_city_journey_simulation",
+          "title": "Interactive Simulation: The Cross-City Transit Journey",
+          "cyrillicTitle": "Successfully navigate an entire journey from a hotel to a train station: hail a cab, reroute around a traffic jam, take a bus, and purchase a railway ticket.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Synthesize all spoken interaction capabilities developed across Section 1 in an unscripted multi-stage transit simulation.",
+          "communicativeOutcome": "Successfully navigate an entire journey from a hotel to a train station: hail a cab, reroute around a traffic jam, take a bus, and purchase a railway ticket.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Provide responsive native speaker voice prompts for the interactive simulation.",
+          "grammarOverview": {
+            "summary": "Synthesize all spoken interaction capabilities developed across Section 1 in an unscripted multi-stage transit simulation.",
+            "keyPoints": [
+              "obj_a2_72_04_simulate_cross_city_transit"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_72_06_metropolitan_transit_itinerary_drafting",
+          "title": "Metropolitan Transit Dossier: Authoring a 3-Leg Journey Itinerary",
+          "cyrillicTitle": "Draft a comprehensive commuter briefing detailing vehicles, transfers, and fare methods across Ulaanbaatar.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Synthesize instrumental case of transport and means to compose an unassisted multi-modal urban transit plan.",
+          "communicativeOutcome": "Draft a comprehensive commuter briefing detailing vehicles, transfers, and fare methods across Ulaanbaatar.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Provide responsive native speaker voice prompts for the interactive simulation.",
+          "grammarOverview": {
+            "summary": "Synthesize instrumental case of transport and means to compose an unassisted multi-modal urban transit plan.",
+            "keyPoints": [
+              "obj_a2_72_04_simulate_cross_city_transit"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_72_05_urban_transit_benchmark_checkpoint",
+          "title": "Benchmark Checkpoint: Urban Transit & Civic Transactions",
+          "cyrillicTitle": "Demonstrate comprehensive communicative competence across all Section 1 functional domains without reference materials.",
+          "estimatedMinutes": 15,
+          "lessonType": "checkpoint",
+          "primaryPurpose": "Formal milestone evaluation assessing productive and receptive mastery of Section 1: instrumental case for transport, directional case, purposive converb, witnessed recent past, wayfinding, postal logistics, and banking encounters.",
+          "communicativeOutcome": "Demonstrate comprehensive communicative competence across all Section 1 functional domains without reference materials.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Deliver high-fidelity audio stimuli for formal benchmark assessment items.",
+          "grammarOverview": {
+            "summary": "Formal milestone evaluation assessing productive and receptive mastery of Section 1: instrumental case for transport, directional case, purposive converb, witnessed recent past, wayfinding, postal logistics, and banking encounters.",
+            "keyPoints": [
+              "Formal milestone evaluation assessing productive and receptive mastery of Section 1: instrumental case for transport, directional case, purposive converb, witnessed recent past, wayfinding, postal logistics, and banking encounters."
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    }
+  ]
+}

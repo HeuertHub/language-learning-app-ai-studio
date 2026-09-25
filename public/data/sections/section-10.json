@@ -1,0 +1,879 @@
+{
+  "sectionId": "sec_a2_03_health_wellness_body_consultations",
+  "sectionNumber": 10,
+  "title": "Health, Wellness, Anatomy & Medical Encounters",
+  "cyrillicTitle": "Эрүүл мэнд, бие махбод ба эмнэлгийн тусламж",
+  "cefr": "A2",
+  "theme": "Describe illness symptoms, interact at pharmacies, schedule medical appointments, explain allergies, understand prescription dosages, and talk about healthy routines.",
+  "description": "Provide learners with the language needed to describe bodily symptoms, consult doctors, buy over-the-counter medicine, understand medical instructions, and express rules and obligations.",
+  "unitCount": 8,
+  "lessonCount": 37,
+  "exerciseCount": 0,
+  "units": [
+    {
+      "id": "unit_a2_83_human_anatomy_somatic_pain_location",
+      "unitNumber": 83,
+      "title": "Human Anatomy & Somatic Pain Locations",
+      "cyrillicTitle": "Describing body parts and specific pain loci (толгой, гэдэс, шүд)",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Human Anatomy & Somatic Pain Locations.",
+      "cefrLevel": "A2",
+      "primaryGrammarTopic": "Describing body parts and specific pain loci (толгой, гэдэс, шүд)",
+      "lessons": [
+        {
+          "id": "les_a2_83_01_body_parts_somatic_pain_lexicon",
+          "title": "Where Does It Hurt: Human Anatomy & Pain Verbs (өвдөх, хатгах, чинэрэх)",
+          "cyrillicTitle": "Pinpoint physical pain and differentiate between sharp, throbbing, aching, and stabbing sensations.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce human anatomical vocabulary (толгой, хоолой, гэдэс, нуруу, шүд, үе мөч) paired with sensory pain descriptors (өвдөх, хатгах, шархирах, янгинах, чинэрэх).",
+          "communicativeOutcome": "Pinpoint physical pain and differentiate between sharp, throbbing, aching, and stabbing sensations.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce anatomical body parts and sensory pain verbs clearly.",
+          "grammarOverview": {
+            "summary": "Introduce human anatomical vocabulary (толгой, хоолой, гэдэс, нуруу, шүд, үе мөч) paired with sensory pain descriptors (өвдөх, хатгах, шархирах, янгинах, чинэрэх).",
+            "keyPoints": [
+              "obj_a2_83_01_anatomy_pain_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_83_02_medical_triage_intake_reading",
+          "title": "Deciphering Clinic Intake Forms & Triage Questionnaires",
+          "cyrillicTitle": "Inspect medical intake paperwork, identify chronic vs acute complaints, and rate pain severity.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Develop reading comprehension for clinic intake forms (үзлэгийн хуудас), pain scale questionnaires (1-10 оноо), and symptom checklists.",
+          "communicativeOutcome": "Inspect medical intake paperwork, identify chronic vs acute complaints, and rate pain severity.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Read clinical intake form categories aloud.",
+          "grammarOverview": {
+            "summary": "Develop reading comprehension for clinic intake forms (үзлэгийн хуудас), pain scale questionnaires (1-10 оноо), and symptom checklists.",
+            "keyPoints": [
+              "obj_a2_83_02_read_clinic_intake_forms"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_83_03_patient_nurse_triage_listening",
+          "title": "Acoustic Lab: Triage Nurse Assessments & Blood Pressure Checks",
+          "cyrillicTitle": "Understand nurse instructions during preliminary triage and extract vital sign values (blood pressure and body temperature).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Develop acoustic listening comprehension of nurse triage checks: measuring blood pressure (даралт үзэх), checking temperature (халуун хэмжих), and asking diagnostic questions.",
+          "communicativeOutcome": "Understand nurse instructions during preliminary triage and extract vital sign values (blood pressure and body temperature).",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Deliver realistic nurse-patient triage dialogue with blood pressure cuff velcro sounds.",
+          "grammarOverview": {
+            "summary": "Develop acoustic listening comprehension of nurse triage checks: measuring blood pressure (даралт үзэх), checking temperature (халуун хэмжих), and asking diagnostic questions.",
+            "keyPoints": [
+              "obj_a2_83_03_decode_triage_assessments"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_83_04_doctor_somatic_exam_dialogue",
+          "title": "In the Examination Room: Explaining Pain to the General Practitioner",
+          "cyrillicTitle": "Conduct a clinical consultation with a doctor, specifying pain location, intensity, and aggravating factors (eating, moving, cold).",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Master spoken interaction with a physician: answering palpation questions ('Энд дарахад өвдөж байна уу?'), detailing duration, and explaining when pain worsens.",
+          "communicativeOutcome": "Conduct a clinical consultation with a doctor, specifying pain location, intensity, and aggravating factors (eating, moving, cold).",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Model gentle, inquisitive doctor voice and clear patient symptom articulation.",
+          "grammarOverview": {
+            "summary": "Master spoken interaction with a physician: answering palpation questions ('Энд дарахад өвдөж байна уу?'), detailing duration, and explaining when pain worsens.",
+            "keyPoints": [
+              "obj_a2_83_04_doctor_exam_dialogue"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a2_84_describing_illness_symptoms_to_a_ph",
+      "unitNumber": 84,
+      "title": "Describing Illness Symptoms to a Physician",
+      "cyrillicTitle": "Reporting fever, coughing, chills, and duration of symptoms",
+      "description": "Acquire and apply grammatical morphology (gram_a2_converb_temporal_while_khad) to fulfill communicative functions in: Describing Illness Symptoms to a Physician.",
+      "cefrLevel": "A2",
+      "primaryGrammarTopic": "gram_a2_converb_temporal_while_khad",
+      "lessons": [
+        {
+          "id": "les_a2_84_01_temporal_converb_khad_intro",
+          "title": "When I Walk, It Hurts: The Temporal Converb (-хад/-хэд/-ход/-хөд)",
+          "cyrillicTitle": "Explain conditional symptoms: 'Явахад хөл өвдөж байна' (When walking, my leg hurts), 'Ханиалгахад цээж хатгаж байна' (When coughing, my chest stabs).",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the temporal-locative converb (-хад4 / -хэд / -ход / -хөд) indicating 'when/while/upon doing', essential for describing conditions under which symptoms manifest.",
+          "communicativeOutcome": "Explain conditional symptoms: 'Явахад хөл өвдөж байна' (When walking, my leg hurts), 'Ханиалгахад цээж хатгаж байна' (When coughing, my chest stabs).",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Model quadruple vowel harmony in temporal suffix (-хад, -хэд, -ход, -хөд).",
+          "grammarOverview": {
+            "summary": "Introduce the temporal-locative converb (-хад4 / -хэд / -ход / -хөд) indicating 'when/while/upon doing', essential for describing conditions under which symptoms manifest.",
+            "keyPoints": [
+              "obj_a2_84_01_temporal_converb_khad"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_84_02_clinical_illness_symptoms_lexicon",
+          "title": "Cold, Flu & Fatigue: Systemic Illness Vocabulary",
+          "cyrillicTitle": "Describe common winter ailments, viral symptoms, nausea, dizziness, and bodily chills.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce systemic illness and constitutional symptom vocabulary (ханиад томуу, халуурах, даарах, жихүүцэх, дотор муухайрах, толгой эргэх, сульдах).",
+          "communicativeOutcome": "Describe common winter ailments, viral symptoms, nausea, dizziness, and bodily chills.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce systemic symptom terms clearly.",
+          "grammarOverview": {
+            "summary": "Introduce systemic illness and constitutional symptom vocabulary (ханиад томуу, халуурах, даарах, жихүүцэх, дотор муухайрах, толгой эргэх, сульдах).",
+            "keyPoints": [
+              "obj_a2_84_02_illness_symptoms_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_84_03_workplace_sick_leave_call_dialogue",
+          "title": "Calling In Sick: Requesting Leave & Explaining Flu Symptoms",
+          "cyrillicTitle": "Call your office or school to report illness, state expected absence duration, and confirm coverage for urgent tasks.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Develop spoken communicative fluency for calling a supervisor or teacher, explaining acute illness, requesting sick leave (чөлөө авах), and promising a medical certificate.",
+          "communicativeOutcome": "Call your office or school to report illness, state expected absence duration, and confirm coverage for urgent tasks.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Deliver authentic congested/sick phone voice contrasting with understanding manager.",
+          "grammarOverview": {
+            "summary": "Develop spoken communicative fluency for calling a supervisor or teacher, explaining acute illness, requesting sick leave (чөлөө авах), and promising a medical certificate.",
+            "keyPoints": [
+              "obj_a2_84_03_sick_leave_phone_dialogue"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_84_04_flu_advisory_acoustic_listening",
+          "title": "Calling In Sick: Workplace Absence Notice & Urgent Shift Handover",
+          "cyrillicTitle": "Extract key public health advisories regarding high-risk groups, clinic operating hours, and fever management recommendations from radio broadcasts.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Execute an urgent telephone dialogue with a department supervisor to report acute illness and request absence.",
+          "communicativeOutcome": "Extract key public health advisories regarding high-risk groups, clinic operating hours, and fever management recommendations from radio broadcasts.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authoritative radio broadcaster tone with official public health advisory background chime.",
+          "grammarOverview": {
+            "summary": "Execute an urgent telephone dialogue with a department supervisor to report acute illness and request absence.",
+            "keyPoints": [
+              "obj_a2_84_04_decode_health_broadcasts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_84_05_sick_leave_written_request",
+          "title": "Formal Absence: Writing a Sick Leave Note & Symptom Report",
+          "cyrillicTitle": "Draft a formal written absence notification to an employer or university stating symptom onset, medical appointment, and expected return date.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Synthesize temporal converbs (-хад4), symptom vocabulary, and polite written formulas into a formal written sick leave request (чөлөө гуйх өргөдөл / мэдэгдэл).",
+          "communicativeOutcome": "Draft a formal written absence notification to an employer or university stating symptom onset, medical appointment, and expected return date.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Audio read-back of formal sick leave document.",
+          "grammarOverview": {
+            "summary": "Synthesize temporal converbs (-хад4), symptom vocabulary, and polite written formulas into a formal written sick leave request (чөлөө гуйх өргөдөл / мэдэгдэл).",
+            "keyPoints": [
+              "obj_a2_84_05_write_sick_leave_note"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a2_85_purchasing_medicine_pharmacy_consul",
+      "unitNumber": 85,
+      "title": "Purchasing Medicine & Pharmacy Consultations",
+      "cyrillicTitle": "Buying antibiotics, pain relievers, and syrups at the chemist",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Purchasing Medicine & Pharmacy Consultations.",
+      "cefrLevel": "A2",
+      "primaryGrammarTopic": "Buying antibiotics, pain relievers, and syrups at the chemist",
+      "lessons": [
+        {
+          "id": "les_a2_85_01_pharmacy_dosage_medication_lexicon",
+          "title": "At the Pharmacy: Dosages, Pills, Syrups & Prescriptions",
+          "cyrillicTitle": "Ask for over-the-counter medicine, understand pharmacist dosage instructions, and check prescription requirements.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce pharmacy and pharmaceutical vocabulary (эмийн сан, эмчийн жор, шахмал эм, сироп, түрхлэг, тун хэмжээ, хоолны дараа/өмнө).",
+          "communicativeOutcome": "Ask for over-the-counter medicine, understand pharmacist dosage instructions, and check prescription requirements.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce pharmaceutical dosage forms clearly.",
+          "grammarOverview": {
+            "summary": "Introduce pharmacy and pharmaceutical vocabulary (эмийн сан, эмчийн жор, шахмал эм, сироп, түрхлэг, тун хэмжээ, хоолны дараа/өмнө).",
+            "keyPoints": [
+              "obj_a2_85_01_pharmacy_dosage_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_85_02_medication_package_insert_reading",
+          "title": "Deciphering Medicine Boxes & Patient Information Leaflets",
+          "cyrillicTitle": "Inspect a medicine box to locate daily dosage limits, storage temperature (хөргөгчинд хадгалах), and expiry date.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Develop targeted reading comprehension of Mongolian pharmaceutical packaging (хайрцаг), expiry dates (дуусах хугацаа), storage conditions, and contraindications.",
+          "communicativeOutcome": "Inspect a medicine box to locate daily dosage limits, storage temperature (хөргөгчинд хадгалах), and expiry date.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Read package warning statements aloud.",
+          "grammarOverview": {
+            "summary": "Develop targeted reading comprehension of Mongolian pharmaceutical packaging (хайрцаг), expiry dates (дуусах хугацаа), storage conditions, and contraindications.",
+            "keyPoints": [
+              "obj_a2_85_02_read_medication_packaging"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_85_03_pharmacist_advice_acoustic_listening",
+          "title": "Acoustic Lab: Pharmacist Consultation & Side Effect Cautions",
+          "cyrillicTitle": "Extract crucial warnings from pharmacist audio: whether the drug causes drowsiness, if it should be taken with milk or water, and duration of course.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Develop acoustic listening comprehension of fast pharmacist explanations behind security glass: side effects (нойр хүргэх, толгой өвдөх), drug interactions, and water intake.",
+          "communicativeOutcome": "Extract crucial warnings from pharmacist audio: whether the drug causes drowsiness, if it should be taken with milk or water, and duration of course.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic pharmacy counter dialogue with pill bottle rattle and clear protective guidance.",
+          "grammarOverview": {
+            "summary": "Develop acoustic listening comprehension of fast pharmacist explanations behind security glass: side effects (нойр хүргэх, толгой өвдөх), drug interactions, and water intake.",
+            "keyPoints": [
+              "obj_a2_85_03_decode_pharmacist_cautions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_85_04_pharmacy_counter_purchasing_dialogue",
+          "title": "At the Drugstore Counter: Buying Remedies & Asking for Generics",
+          "cyrillicTitle": "Purchase needed medications at a Mongolian drugstore, ask for an equivalent domestic generic, and verify dosage schedule.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Master spoken interaction at a pharmacy counter: presenting a prescription, asking for affordable generic alternatives, asking for fever reducers, and clarifying instructions.",
+          "communicativeOutcome": "Purchase needed medications at a Mongolian drugstore, ask for an equivalent domestic generic, and verify dosage schedule.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Provide realistic dialogue between customer seeking cold relief and helpful pharmacist.",
+          "grammarOverview": {
+            "summary": "Master spoken interaction at a pharmacy counter: presenting a prescription, asking for affordable generic alternatives, asking for fever reducers, and clarifying instructions.",
+            "keyPoints": [
+              "obj_a2_85_04_pharmacy_counter_dialogue"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a2_86_modal_obligation_modals_vs_",
+      "unitNumber": 86,
+      "title": "Modal Obligation: Modals Хэрэгтэй vs Ёстой",
+      "cyrillicTitle": "Expressing medical necessity and health rules ('Эм уух ёстой')",
+      "description": "Acquire and apply grammatical morphology (gram_a2_modal_obligation_heregtei_yostoi) to fulfill communicative functions in: Modal Obligation: Modals Хэрэгтэй vs Ёстой.",
+      "cefrLevel": "A2",
+      "primaryGrammarTopic": "gram_a2_modal_obligation_heregtei_yostoi",
+      "lessons": [
+        {
+          "id": "les_a2_86_01_modal_obligation_heregtei_yostoi_intro",
+          "title": "Need to & Must: Modal Obligation with Хэрэгтэй & Ёстой",
+          "cyrillicTitle": "Differentiate between personal necessity ('Би эрт унтах хэрэгтэй') and binding rule/obligation ('Иргэн бүр татвар төлөх ёстой').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the modal constructions of obligation: verbal noun in -х + хэрэгтэй (need to / advisory necessity) and verbal noun in -х + ёстой (must / moral or institutional duty).",
+          "communicativeOutcome": "Differentiate between personal necessity ('Би эрт унтах хэрэгтэй') and binding rule/obligation ('Иргэн бүр татвар төлөх ёстой').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Model prosodic prominence on modal predicators (хэрэгтэй, ёстой).",
+          "grammarOverview": {
+            "summary": "Introduce the modal constructions of obligation: verbal noun in -х + хэрэгтэй (need to / advisory necessity) and verbal noun in -х + ёстой (must / moral or institutional duty).",
+            "keyPoints": [
+              "obj_a2_86_01_modal_obligation_constructions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_86_03_doctor_post_op_consultation_dialogue",
+          "title": "Doctor's Orders: Post-Op Care & Mandatory Health Regimens",
+          "cyrillicTitle": "Consult with a physician regarding post-treatment care, clarify mandatory follow-up appointments, and negotiate work restrictions.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Master spoken interaction discussing mandatory treatment protocols: dietary restrictions, follow-up tests, physical therapy, and medication compliance.",
+          "communicativeOutcome": "Consult with a physician regarding post-treatment care, clarify mandatory follow-up appointments, and negotiate work restrictions.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Clear, firm doctor guidance and attentive patient verification questions.",
+          "grammarOverview": {
+            "summary": "Master spoken interaction discussing mandatory treatment protocols: dietary restrictions, follow-up tests, physical therapy, and medication compliance.",
+            "keyPoints": [
+              "obj_a2_86_03_treatment_protocol_dialogue"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_86_02_clinic_regulations_recovery_lexicon",
+          "title": "Hospital Rules & Recovery: Patient Regimens & Protocols",
+          "cyrillicTitle": "Explain hospital visiting hours, quarantine rules, and post-illness recovery regimens (гам барих).",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce institutional hospital rules and medical recovery vocabulary (дэглэм сахих, гам барих, тайван байх, цээрлэх, хориглох, баримтлах).",
+          "communicativeOutcome": "Explain hospital visiting hours, quarantine rules, and post-illness recovery regimens (гам барих).",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce clinical protocol terms clearly.",
+          "grammarOverview": {
+            "summary": "Introduce institutional hospital rules and medical recovery vocabulary (дэглэм сахих, гам барих, тайван байх, цээрлэх, хориглох, баримтлах).",
+            "keyPoints": [
+              "obj_a2_86_02_recovery_regimen_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_86_04_clinic_ward_acoustic_listening",
+          "title": "Acoustic Lab: Inpatient Ward Announcements & Discharge Briefings",
+          "cyrillicTitle": "Extract mandatory hospital ward schedules (inspection rounds, visiting hour ends, mandatory medicine administration) from loudspeaker audio.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Develop acoustic listening comprehension of hospital ward public address announcements, meal schedules, doctor rounds, and discharge briefings.",
+          "communicativeOutcome": "Extract mandatory hospital ward schedules (inspection rounds, visiting hour ends, mandatory medicine administration) from loudspeaker audio.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Hospital hallway reverberation with gentle, authoritative nurse announcements.",
+          "grammarOverview": {
+            "summary": "Develop acoustic listening comprehension of hospital ward public address announcements, meal schedules, doctor rounds, and discharge briefings.",
+            "keyPoints": [
+              "obj_a2_86_04_decode_ward_announcements"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_86_05_patient_care_plan_writing",
+          "title": "Care Protocol: Writing a Patient Discharge Plan & Daily Regimen",
+          "cyrillicTitle": "Draft a written 5-step home recovery schedule for a recovering family member, detailing medication timing, dietary limits, and rest.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Synthesize modal obligation structures (хэрэгтэй, ёстой), medical recovery vocabulary, and sequential steps into a written home care plan.",
+          "communicativeOutcome": "Draft a written 5-step home recovery schedule for a recovering family member, detailing medication timing, dietary limits, and rest.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Audio read-back of written patient recovery plan.",
+          "grammarOverview": {
+            "summary": "Synthesize modal obligation structures (хэрэгтэй, ёстой), medical recovery vocabulary, and sequential steps into a written home care plan.",
+            "keyPoints": [
+              "obj_a2_86_05_write_discharge_care_plan"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a2_87_modal_permission_possibility_suffix",
+      "unitNumber": 87,
+      "title": "Modal Permission & Possibility: Suffixes Болно",
+      "cyrillicTitle": "Asking if one may eat or drink with medication ('Ууж болох уу?')",
+      "description": "Acquire and apply grammatical morphology (gram_a2_modal_permission_possibility_bolno) to fulfill communicative functions in: Modal Permission & Possibility: Suffixes Болно.",
+      "cefrLevel": "A2",
+      "primaryGrammarTopic": "gram_a2_modal_permission_possibility_bolno",
+      "lessons": [
+        {
+          "id": "les_a2_87_01_modal_permission_bolno_bolokhgui_intro",
+          "title": "Allowed & Forbidden: Modal Permission with Болно & Болохгүй",
+          "cyrillicTitle": "Ask for permission ('Би энд сууж болох уу?'), grant permission ('Борно оо'), and state prohibitions ('Энд тамхи татаж болохгүй').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce modal structures of permission and prohibition: converb in -ж/-ч + болно (may / allowed to do) and -ж/-ч + болохгүй (must not / forbidden).",
+          "communicativeOutcome": "Ask for permission ('Би энд сууж болох уу?'), grant permission ('Борно оо'), and state prohibitions ('Энд тамхи татаж болохгүй').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Model polite rising intonation in permission queries ('-ж болох уу?').",
+          "grammarOverview": {
+            "summary": "Introduce modal structures of permission and prohibition: converb in -ж/-ч + болно (may / allowed to do) and -ж/-ч + болохгүй (must not / forbidden).",
+            "keyPoints": [
+              "obj_a2_87_01_modal_permission_bolno"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_87_02_civic_rules_apartment_living_lexicon",
+          "title": "Reading Condominium Association (СӨХ) Charter Rules & Pet Regulations",
+          "cyrillicTitle": "Understand apartment building regulations regarding evening quiet hours (22:00 цагаас хойш дуу чимээ гаргаж болохгүй), pet rules, and trash disposal.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Analyze official residential bylaws regarding pet keeping, common area maintenance, and parking rules.",
+          "communicativeOutcome": "Understand apartment building regulations regarding evening quiet hours (22:00 цагаас хойш дуу чимээ гаргаж болохгүй), pet rules, and trash disposal.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce community housing administrative terms clearly.",
+          "grammarOverview": {
+            "summary": "Analyze official residential bylaws regarding pet keeping, common area maintenance, and parking rules.",
+            "keyPoints": [
+              "obj_a2_87_02_apartment_civic_rules_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_87_03_landlord_tenant_permissions_dialogue",
+          "title": "Tenant & Landlord: Negotiating Apartment Permissions & Renovation",
+          "cyrillicTitle": "Negotiate rental terms and obtain formal permission from a landlord for home modifications or pets.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Master spoken interaction between tenant and landlord: requesting permission to keep a pet, hang picture frames, repaint walls, or host overnight guests.",
+          "communicativeOutcome": "Negotiate rental terms and obtain formal permission from a landlord for home modifications or pets.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Deliver friendly, balanced dialogue between polite tenant and reasonable landlord.",
+          "grammarOverview": {
+            "summary": "Master spoken interaction between tenant and landlord: requesting permission to keep a pet, hang picture frames, repaint walls, or host overnight guests.",
+            "keyPoints": [
+              "obj_a2_87_03_tenant_landlord_permission_dialogue"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_87_04_public_notices_prohibitions_listening",
+          "title": "Deciphering Noise Curfew Bulletins & Waste Sorting Guidelines",
+          "cyrillicTitle": "Heed verbal warnings from curators or security guards regarding flash photography, talking, or carrying open food containers.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Extract specific time windows (22:00 curfew) and recycling requirements from building notices.",
+          "communicativeOutcome": "Heed verbal warnings from curators or security guards regarding flash photography, talking, or carrying open food containers.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Museum acoustics with quiet footsteps, echoing gallery, and firm, polite curator warnings.",
+          "grammarOverview": {
+            "summary": "Extract specific time windows (22:00 curfew) and recycling requirements from building notices.",
+            "keyPoints": [
+              "obj_a2_87_04_decode_public_prohibitions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_87_05_building_bylaws_notice_writing",
+          "title": "Community Rules: Drafting an Apartment Association (СӨХ) Bylaw Notice",
+          "cyrillicTitle": "Draft a formal entryway notice for an apartment block informing residents of parking rules, quiet hours, and trash collection schedules.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Synthesize modal permission/prohibition forms (болно, болохгүй), civic living vocabulary, and temporal markers into an official apartment entryway notice.",
+          "communicativeOutcome": "Draft a formal entryway notice for an apartment block informing residents of parking rules, quiet hours, and trash collection schedules.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Audio read-back of written community notice.",
+          "grammarOverview": {
+            "summary": "Synthesize modal permission/prohibition forms (болно, болохгүй), civic living vocabulary, and temporal markers into an official apartment entryway notice.",
+            "keyPoints": [
+              "obj_a2_87_05_write_building_notice"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a2_88_modal_potentiality_verbs_vs_",
+      "unitNumber": 88,
+      "title": "Modal Potentiality: Verbs Чадах vs Ядах",
+      "cyrillicTitle": "Expressing ability or physical incapacity ('Явж чадахгүй')",
+      "description": "Acquire and apply grammatical morphology (gram_a2_modal_ability_yadah_chadah) to fulfill communicative functions in: Modal Potentiality: Verbs Чадах vs Ядах.",
+      "cefrLevel": "A2",
+      "primaryGrammarTopic": "gram_a2_modal_ability_yadah_chadah",
+      "lessons": [
+        {
+          "id": "les_a2_88_01_modal_ability_chadakh_yadakh_intro",
+          "title": "I Can & I Struggle: Modal Ability with Чадах & Ядах",
+          "cyrillicTitle": "Express physical ability, learned skills, and bodily struggles (e.g. 'Би монголоор ярьж чадна', 'Өвдөөд босож ядаж байна').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce modal auxiliary verbs of capability and difficulty: converb in -ж/-ч + чадах (can / to be able) and -ж/-ч + ядах (to struggle to / fail to do).",
+          "communicativeOutcome": "Express physical ability, learned skills, and bodily struggles (e.g. 'Би монголоор ярьж чадна', 'Өвдөөд босож ядаж байна').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Model prosodic integration of auxiliary verbs with main verb stems.",
+          "grammarOverview": {
+            "summary": "Introduce modal auxiliary verbs of capability and difficulty: converb in -ж/-ч + чадах (can / to be able) and -ж/-ч + ядах (to struggle to / fail to do).",
+            "keyPoints": [
+              "obj_a2_88_01_modal_ability_chadah_yadah"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_88_02_physical_rehabilitation_mobility_lexicon",
+          "title": "Mobility & Recovery: Physical Rehabilitation Vocabulary",
+          "cyrillicTitle": "Describe physical therapy progress, range of motion, walking with crutches, and mobility recovery.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce physical therapy, mobility, and rehabilitation vocabulary (хөдөлгөөн, дасгал, сэргээн засах, гишгэх, өндийх, сунах, тулах).",
+          "communicativeOutcome": "Describe physical therapy progress, range of motion, walking with crutches, and mobility recovery.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce rehabilitation movement terms clearly.",
+          "grammarOverview": {
+            "summary": "Introduce physical therapy, mobility, and rehabilitation vocabulary (хөдөлгөөн, дасгал, сэргээн засах, гишгэх, өндийх, сунах, тулах).",
+            "keyPoints": [
+              "obj_a2_88_02_rehabilitation_mobility_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_88_03_physical_therapy_session_dialogue",
+          "title": "Therapy Session: Reporting Mobility & Physical Limitations",
+          "cyrillicTitle": "Communicate with a physical therapist during a session, stating which exercises you can perform and where you encounter stiffness or pain.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Master spoken interaction with a physical therapist: evaluating pain thresholds, attempting mobility exercises, and explaining what movements cause difficulty.",
+          "communicativeOutcome": "Communicate with a physical therapist during a session, stating which exercises you can perform and where you encounter stiffness or pain.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Supportive physical therapist voice and realistic patient exertion feedback.",
+          "grammarOverview": {
+            "summary": "Master spoken interaction with a physical therapist: evaluating pain thresholds, attempting mobility exercises, and explaining what movements cause difficulty.",
+            "keyPoints": [
+              "obj_a2_88_03_physical_therapy_dialogue"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_88_04_mobility_recovery_acoustic_listening",
+          "title": "Reading Official Capability & Disability Guidelines for Public Work",
+          "cyrillicTitle": "Extract milestone achievements (standing without aid, walking 100 meters, returning to driving) from patient recovery monologues.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Analyze official employment advisories detailing physical capabilities and potentiality using -ж чадах/чадахгүй.",
+          "communicativeOutcome": "Extract milestone achievements (standing without aid, walking 100 meters, returning to driving) from patient recovery monologues.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Heartfelt patient narrative with authentic emotional inflection and clear diction.",
+          "grammarOverview": {
+            "summary": "Analyze official employment advisories detailing physical capabilities and potentiality using -ж чадах/чадахгүй.",
+            "keyPoints": [
+              "obj_a2_88_04_decode_patient_testimonials"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_88_05_rehabilitation_progress_report_writing",
+          "title": "Recovery Journal: Writing a Rehabilitation Milestone Log",
+          "cyrillicTitle": "Write a 5-6 sentence recovery journal documenting motor improvements, exercises completed, and remaining challenges.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Synthesize modal ability/difficulty auxiliaries (чадах, ядах), physical movement verbs, and time adverbials into a written recovery log.",
+          "communicativeOutcome": "Write a 5-6 sentence recovery journal documenting motor improvements, exercises completed, and remaining challenges.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Audio read-back of written rehabilitation journal.",
+          "grammarOverview": {
+            "summary": "Synthesize modal ability/difficulty auxiliaries (чадах, ядах), physical movement verbs, and time adverbials into a written recovery log.",
+            "keyPoints": [
+              "obj_a2_88_05_write_rehab_progress_log"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a2_89_scheduling_clinic_dental_appointmen",
+      "unitNumber": 89,
+      "title": "Scheduling Clinic & Dental Appointments",
+      "cyrillicTitle": "Booking specialist consultations and rescheduling check-ups",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Scheduling Clinic & Dental Appointments.",
+      "cefrLevel": "A2",
+      "primaryGrammarTopic": "Booking specialist consultations and rescheduling check-ups",
+      "lessons": [
+        {
+          "id": "les_a2_89_01_clinic_dental_scheduling_lexicon",
+          "title": "Booking the Dentist: Appointments, Postponements & Cleanings",
+          "cyrillicTitle": "Book, reschedule, or cancel a medical or dental appointment via telephone or online portal.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce clinical and dental appointment scheduling vocabulary (цаг авах, цаг солих, цуцлах, шүдний эмч, үзлэг, цэвэрлэгээ, ломбодох, рентген).",
+          "communicativeOutcome": "Book, reschedule, or cancel a medical or dental appointment via telephone or online portal.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce clinical appointment terminology and dental procedures clearly.",
+          "grammarOverview": {
+            "summary": "Introduce clinical and dental appointment scheduling vocabulary (цаг авах, цаг солих, цуцлах, шүдний эмч, үзлэг, цэвэрлэгээ, ломбодох, рентген).",
+            "keyPoints": [
+              "obj_a2_89_01_appointment_scheduling_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_89_02_appointment_confirmations_sms_reading",
+          "title": "Deciphering Appointment Confirmation Texts & Reminder Alerts",
+          "cyrillicTitle": "Inspect clinic SMS reminders to extract appointment date, doctor's office room number, required preparation, and reply confirmation codes.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Develop reading skills for authentic automated SMS reminders, clinic confirmation notifications, and cancellation deadlines.",
+          "communicativeOutcome": "Inspect clinic SMS reminders to extract appointment date, doctor's office room number, required preparation, and reply confirmation codes.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Read automated appointment SMS text aloud.",
+          "grammarOverview": {
+            "summary": "Develop reading skills for authentic automated SMS reminders, clinic confirmation notifications, and cancellation deadlines.",
+            "keyPoints": [
+              "obj_a2_89_02_read_appointment_sms"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_89_03_receptionist_scheduling_acoustic_listening",
+          "title": "Acoustic Lab: Rapid Clinic Receptionist Phone Booking",
+          "cyrillicTitle": "Understand rapid receptionist queries regarding national registration number (регистр), insurance coverage, and open time slots.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Develop acoustic listening comprehension of fast clinic receptionists navigating booking calendars, checking doctor availability, and confirming personal ID numbers.",
+          "communicativeOutcome": "Understand rapid receptionist queries regarding national registration number (регистр), insurance coverage, and open time slots.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic clinic phone acoustics with keyboard typing in the background.",
+          "grammarOverview": {
+            "summary": "Develop acoustic listening comprehension of fast clinic receptionists navigating booking calendars, checking doctor availability, and confirming personal ID numbers.",
+            "keyPoints": [
+              "obj_a2_89_03_decode_receptionist_booking"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_89_04_dental_clinic_booking_dialogue",
+          "title": "On the Line: Booking, Rescheduling & Confirming Dental Visits",
+          "cyrillicTitle": "Call a dental clinic to schedule an emergency toothache visit or move an existing appointment to a different day.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Master spoken communication for scheduling, rescheduling, and negotiating appointment slots with dental or medical clinic receptionists.",
+          "communicativeOutcome": "Call a dental clinic to schedule an emergency toothache visit or move an existing appointment to a different day.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Deliver natural telephone dialogue between patient and clinic scheduling officer.",
+          "grammarOverview": {
+            "summary": "Master spoken communication for scheduling, rescheduling, and negotiating appointment slots with dental or medical clinic receptionists.",
+            "keyPoints": [
+              "obj_a2_89_04_clinic_booking_dialogue"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a2_90_medical_encounters_capstone_full_cl",
+      "unitNumber": 90,
+      "title": "Medical Encounters Capstone: Full Clinic Consultation",
+      "cyrillicTitle": "Simulating triage check, consultation, prescription, and pharmacy",
+      "description": "Consolidate, integrate, and demonstrate communicative mastery of Medical Encounters Capstone: Full Clinic Consultation through simulated holistic tasks.",
+      "cefrLevel": "A2",
+      "primaryGrammarTopic": "Simulating triage check, consultation, prescription, and pharmacy",
+      "lessons": [
+        {
+          "id": "les_a2_90_01_comprehensive_clinical_lexicon",
+          "title": "Hospital Navigation: Wards, Diagnostics & Medical Records",
+          "cyrillicTitle": "Navigate a major district hospital or university clinic, understand diagnostic test referrals, and locate inpatient vs outpatient departments.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce high-level hospital navigation and diagnostic terminology (оношлогоо, шинжилгээний хариу, дүрс оношлогоо, эмчийн дүгнэлт, эмчилгээний карт, хэвтэн эмчлүүлэх).",
+          "communicativeOutcome": "Navigate a major district hospital or university clinic, understand diagnostic test referrals, and locate inpatient vs outpatient departments.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce hospital facility and diagnostic laboratory terms clearly.",
+          "grammarOverview": {
+            "summary": "Introduce high-level hospital navigation and diagnostic terminology (оношлогоо, шинжилгээний хариу, дүрс оношлогоо, эмчийн дүгнэлт, эмчилгээний карт, хэвтэн эмчлүүлэх).",
+            "keyPoints": [
+              "obj_a2_90_01_comprehensive_clinical_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_90_02_clinical_consultation_acoustic_decoding_lab",
+          "title": "Acoustic Lab: Emergency Clinic Reception, Triage Calls & PA Broadcasts",
+          "cyrillicTitle": "Follow a multi-speaker clinical encounter, extract doctor's diagnosis, understand nurse's care instructions, and note prescription details.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Comprehend ambient acoustic announcements in a hospital lobby, identifying patient queuing numbers and triage urgency.",
+          "communicativeOutcome": "Follow a multi-speaker clinical encounter, extract doctor's diagnosis, understand nurse's care instructions, and note prescription details.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic 2-minute audio environment featuring doctor, patient, and nurse discussing treatment.",
+          "grammarOverview": {
+            "summary": "Comprehend ambient acoustic announcements in a hospital lobby, identifying patient queuing numbers and triage urgency.",
+            "keyPoints": [
+              "obj_a2_90_02_decode_clinical_encounters"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_90_03_diagnostic_results_treatment_reading",
+          "title": "Deciphering Diagnostic Lab Sheets, Ultrasound Reports & Doctor Notes",
+          "cyrillicTitle": "Inspect diagnostic test result sheets, determine whether parameters fall within normal ranges, and read doctor's handwritten treatment recommendations.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Develop targeted reading comprehension of authentic diagnostic reports, blood test ranges (хэвийн хэмжээ), ultrasound summaries, and physician conclusions.",
+          "communicativeOutcome": "Inspect diagnostic test result sheets, determine whether parameters fall within normal ranges, and read doctor's handwritten treatment recommendations.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Read clinical report findings aloud.",
+          "grammarOverview": {
+            "summary": "Develop targeted reading comprehension of authentic diagnostic reports, blood test ranges (хэвийн хэмжээ), ultrasound summaries, and physician conclusions.",
+            "keyPoints": [
+              "obj_a2_90_03_read_diagnostic_reports"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_90_04_full_clinical_encounter_simulation",
+          "title": "Interactive Simulation: The Complete Clinical Encounter",
+          "cyrillicTitle": "Navigate an entire simulated hospital visit: register at reception, describe symptoms to physician, undergo preliminary checks, receive diagnosis, and collect medication.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Synthesize all spoken interaction capabilities developed across medical units in an unscripted multi-stage hospital journey simulation.",
+          "communicativeOutcome": "Navigate an entire simulated hospital visit: register at reception, describe symptoms to physician, undergo preliminary checks, receive diagnosis, and collect medication.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Provide responsive native speaker voice prompts for the interactive simulation.",
+          "grammarOverview": {
+            "summary": "Synthesize all spoken interaction capabilities developed across medical units in an unscripted multi-stage hospital journey simulation.",
+            "keyPoints": [
+              "obj_a2_90_04_simulate_clinical_journey"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a2_90_05_medical_clinic_benchmark_checkpoint",
+          "title": "Benchmark Checkpoint: Health, Medical Encounters & Civic Life",
+          "cyrillicTitle": "Demonstrate comprehensive communicative competence across all Section 3 medical, domestic, and civic domains without reference materials.",
+          "estimatedMinutes": 15,
+          "lessonType": "checkpoint",
+          "primaryPurpose": "Formal milestone evaluation assessing productive and receptive mastery of medical and civic competencies: human anatomy, pain verbs, temporal converb (-хад4), systemic symptoms, pharmacy purchasing, modal obligation (хэрэгтэй/ёстой), permission/prohibition (болно/болохгүй), and modal ability (чадах/ядах).",
+          "communicativeOutcome": "Demonstrate comprehensive communicative competence across all Section 3 medical, domestic, and civic domains without reference materials.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Deliver high-fidelity audio stimuli for formal benchmark assessment items.",
+          "grammarOverview": {
+            "summary": "Formal milestone evaluation assessing productive and receptive mastery of medical and civic competencies: human anatomy, pain verbs, temporal converb (-хад4), systemic symptoms, pharmacy purchasing, modal obligation (хэрэгтэй/ёстой), permission/prohibition (болно/болохгүй), and modal ability (чадах/ядах).",
+            "keyPoints": [
+              "Formal milestone evaluation assessing productive and receptive mastery of medical and civic competencies: human anatomy, pain verbs, temporal converb (-хад4), systemic symptoms, pharmacy purchasing, modal obligation (хэрэгтэй/ёстой), permission/prohibition (болно/болохгүй), and modal ability (чадах/ядах)."
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    }
+  ]
+}

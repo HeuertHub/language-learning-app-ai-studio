@@ -1,0 +1,1143 @@
+{
+  "sectionId": "sec_b2_04_academic_critique_rhetoric_formal_stance",
+  "sectionNumber": 20,
+  "title": "Scholarly Critique, Rhetorical Structures & Academic Synthesis",
+  "cyrillicTitle": "Эрдэм шинжилгээний шүүмж, илтгэл ба найруулга зүй",
+  "cefr": "B2",
+  "theme": "Deliver academic conference presentations, handle grueling Q&A sessions, formulate research abstracts, comprehend commercial contracts, and mediate peer conflicts.",
+  "description": "Consolidate B2 mastery by preparing learners for academic and high-level professional intellectual work, including research presentations, academic abstracts, contract comprehension, and complex modality.",
+  "unitCount": 11,
+  "lessonCount": 48,
+  "exerciseCount": 0,
+  "units": [
+    {
+      "id": "unit_b2_187_scholarly_research_methodology_hypo",
+      "unitNumber": 187,
+      "title": "Scholarly Research Methodology & Hypothesis Formulation",
+      "cyrillicTitle": "Formulating academic theses, research questions, and literature scopes",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Scholarly Research Methodology & Hypothesis Formulation.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "Formulating academic theses, research questions, and literature scopes",
+      "lessons": [
+        {
+          "id": "les_b2_187_01_research_methodology_epistemology_reading",
+          "title": "Academic Reading: Epistemological Frameworks & Methodological Rigor in Mongolistics",
+          "cyrillicTitle": "Extract research hypotheses, epistemological assumptions, and methodological boundaries from an academic treatise.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 390-word foundational monograph on philological and historical methodology, examining qualitative archival inquiry versus quantitative corpus linguistics.",
+          "communicativeOutcome": "Extract research hypotheses, epistemological assumptions, and methodological boundaries from an academic treatise.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 390-word foundational monograph on philological and historical methodology, examining qualitative archival inquiry versus quantitative corpus linguistics.",
+            "keyPoints": [
+              "obj_b2_187_01_read_methodology_monographs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_187_02_hypothesis_formulation_abstract_writing",
+          "title": "Academic Writing: Formulating Scholarly Hypotheses & Problem Statements",
+          "cyrillicTitle": "Author a 250-word research problem statement formulating a testable hypothesis regarding vowel harmony shifts in Middle Mongolian.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Draft the introductory problem statement and core hypothesis of a research prospectus using precise academic hedging and formal abstract terminology.",
+          "communicativeOutcome": "Author a 250-word research problem statement formulating a testable hypothesis regarding vowel harmony shifts in Middle Mongolian.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Draft the introductory problem statement and core hypothesis of a research prospectus using precise academic hedging and formal abstract terminology.",
+            "keyPoints": [
+              "obj_b2_187_02_formulate_research_hypotheses"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_187_03_methodological_defense_colloquium_speech",
+          "title": "Spoken Oratory: Defending Research Methodology at Graduate Doctoral Colloquium",
+          "cyrillicTitle": "Deliver a 3-minute academic defense justifying methodological choices against anticipated faculty skepticism.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an oral defense of a chosen research methodology before an academic faculty committee, justifying data collection limits and analytical frameworks.",
+          "communicativeOutcome": "Deliver a 3-minute academic defense justifying methodological choices against anticipated faculty skepticism.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark recording of doctoral candidate defending research methods before academic council.",
+          "grammarOverview": {
+            "summary": "Deliver an oral defense of a chosen research methodology before an academic faculty committee, justifying data collection limits and analytical frameworks.",
+            "keyPoints": [
+              "obj_b2_187_03_defend_research_methodology"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_187_04_peer_review_methodological_critique_listening",
+          "title": "Acoustic Dissection: Peer Review Evaluation & Methodological Critique Dialogue",
+          "cyrillicTitle": "Comprehend subtle academic criticism, constructive recommendations, and institutional evaluation standards in spoken academic dialogue (150 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a recording of two senior academics rigorously dissecting a newly submitted research grant application, critiquing sample sizes and interpretive leaps.",
+          "communicativeOutcome": "Comprehend subtle academic criticism, constructive recommendations, and institutional evaluation standards in spoken academic dialogue (150 wpm).",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic spoken dialogue between senior university scholars assessing grant proposals.",
+          "grammarOverview": {
+            "summary": "Listen to a recording of two senior academics rigorously dissecting a newly submitted research grant application, critiquing sample sizes and interpretive leaps.",
+            "keyPoints": [
+              "obj_b2_187_04_comprehend_peer_review"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_188_purposive_clausal_distinctions_vs_v",
+      "unitNumber": 188,
+      "title": "Purposive Clausal Distinctions: Гэж vs -хаар vs Тулд",
+      "cyrillicTitle": "Selecting precise purposive morphology based on intent and register",
+      "description": "Acquire and apply grammatical morphology (gram_b2_purposive_distinctions_gej_khaar_tuld) to fulfill communicative functions in: Purposive Clausal Distinctions: Гэж vs -хаар vs Тулд.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_purposive_distinctions_gej_khaar_tuld",
+      "lessons": [
+        {
+          "id": "les_b2_188_01_purposive_distinctions_syntax_intro",
+          "title": "Morphosyntax: Purposive Clausal Triad 'Гэж', '-хаар/хээр' & 'Тулд/Тухайд'",
+          "cyrillicTitle": "Select and construct grammatically flawless purposive clauses calibrated precisely to formal academic register and coreference constraints.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic scope, subject coreference constraints, and register distinctions governing the purposive markers: intentional 'гэж' (same/different subject), converb '-хаар' (same-subject direct teleology), and formal postposition 'тулд' (high-register telic justification).",
+          "communicativeOutcome": "Select and construct grammatically flawless purposive clauses calibrated precisely to formal academic register and coreference constraints.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic scope, subject coreference constraints, and register distinctions governing the purposive markers: intentional 'гэж' (same/different subject), converb '-хаар' (same-subject direct teleology), and formal postposition 'тулд' (high-register telic justification).",
+            "keyPoints": [
+              "obj_b2_188_01_master_purposive_distinctions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_188_02_institutional_grant_proposals_reading",
+          "title": "Academic Reading: Teleological Framing in National Science Foundation Research Proposals",
+          "cyrillicTitle": "Differentiate between proximate methodological aims and long-term societal goals in an academic grant proposal.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 370-word research grant application analyzing how project objectives, societal impacts, and methodological steps are framed using distinct purposive constructions.",
+          "communicativeOutcome": "Differentiate between proximate methodological aims and long-term societal goals in an academic grant proposal.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 370-word research grant application analyzing how project objectives, societal impacts, and methodological steps are framed using distinct purposive constructions.",
+            "keyPoints": [
+              "obj_b2_188_02_read_grant_proposals"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_188_03_research_grant_rationale_writing",
+          "title": "Academic Writing: Formulating Multi-Tiered Project Rationale & Justifications",
+          "cyrillicTitle": "Author a 260-word research rationale deploying 'тулд', '-хаар', and 'зорилгоор' with stylistic variety and syntactic perfection.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Draft the justification section of a 260-word research grant proposal, contrasting short-term data gathering aims with long-term theoretical contributions.",
+          "communicativeOutcome": "Author a 260-word research rationale deploying 'тулд', '-хаар', and 'зорилгоор' with stylistic variety and syntactic perfection.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Draft the justification section of a 260-word research grant proposal, contrasting short-term data gathering aims with long-term theoretical contributions.",
+            "keyPoints": [
+              "obj_b2_188_03_write_grant_rationale"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_188_04_oral_pitch_academic_grant_defense_speech",
+          "title": "Spoken Oratory: Three-Minute Project Pitch to Research Grant Allocation Board",
+          "cyrillicTitle": "Deliver an articulate 3-minute spoken project pitch maintaining clear purposive clausal hierarchy under strict time constraints.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver a concise 3-minute oral project pitch to an academic endowment board, outlining why the project was designed and how funds will be deployed.",
+          "communicativeOutcome": "Deliver an articulate 3-minute spoken project pitch maintaining clear purposive clausal hierarchy under strict time constraints.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide model recording of research director pitching grant proposal to endowment trustees.",
+          "grammarOverview": {
+            "summary": "Deliver a concise 3-minute oral project pitch to an academic endowment board, outlining why the project was designed and how funds will be deployed.",
+            "keyPoints": [
+              "obj_b2_188_04_deliver_grant_pitch"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_188_05_grant_deliberation_committee_listening",
+          "title": "Acoustic Dissection: Endowment Board Closed-Door Allocation Deliberation",
+          "cyrillicTitle": "Identify committee consensus, funding conditions, and evaluative skepticism regarding stated project goals (150 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a behind-the-scenes recording of an academic grant evaluation committee debating whether applicants justified their proposed field expeditions.",
+          "communicativeOutcome": "Identify committee consensus, funding conditions, and evaluative skepticism regarding stated project goals (150 wpm).",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide multi-speaker audio of institutional committee assessing grant applications with natural conversational overlaps.",
+          "grammarOverview": {
+            "summary": "Listen to a behind-the-scenes recording of an academic grant evaluation committee debating whether applicants justified their proposed field expeditions.",
+            "keyPoints": [
+              "obj_b2_188_05_comprehend_grant_deliberations"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_189_hypothetical_conditionals_in_academ",
+      "unitNumber": 189,
+      "title": "Hypothetical Conditionals in Academic Argumentation",
+      "cyrillicTitle": "Modeling theoretical scenarios and academic contingencies",
+      "description": "Acquire and apply grammatical morphology (gram_b2_conditionals_hypothetical_present) to fulfill communicative functions in: Hypothetical Conditionals in Academic Argumentation.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_conditionals_hypothetical_present",
+      "lessons": [
+        {
+          "id": "les_b2_189_01_hypothetical_conditionals_syntax_intro",
+          "title": "Morphosyntax: Hypothetical Conditionals in Academic Argumentation (-вал/-бал... болохсон/байсан)",
+          "cyrillicTitle": "Construct formal hypothetical scenarios modeling theoretical consequences of variable linguistic parameters.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic formation and modal framing of present/future hypothetical conditionals (-вал/-бал + болохсон / байсан / сайнсан) used in academic theorizing and counterfactual modeling.",
+          "communicativeOutcome": "Construct formal hypothetical scenarios modeling theoretical consequences of variable linguistic parameters.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic formation and modal framing of present/future hypothetical conditionals (-вал/-бал + болохсон / байсан / сайнсан) used in academic theorizing and counterfactual modeling.",
+            "keyPoints": [
+              "obj_b2_189_01_master_hypothetical_conditionals"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_189_02_theoretical_modeling_academic_reading",
+          "title": "Academic Reading: Hypothetical Modeling in Altaic Comparative Linguistics",
+          "cyrillicTitle": "Trace complex conditional argumentation chains and deductive conclusions in a theoretical linguistics monograph.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 370-word comparative linguistics paper evaluating what phonological consequences would emerge if proto-Mongolic possessed an initial *p- phoneme.",
+          "communicativeOutcome": "Trace complex conditional argumentation chains and deductive conclusions in a theoretical linguistics monograph.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 370-word comparative linguistics paper evaluating what phonological consequences would emerge if proto-Mongolic possessed an initial *p- phoneme.",
+            "keyPoints": [
+              "obj_b2_189_02_read_linguistic_modeling"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_189_03_thought_experiment_conference_speech",
+          "title": "Spoken Oratory: Presenting a Theoretical Thought Experiment at Linguistics Symposium",
+          "cyrillicTitle": "Deliver a 3-minute oral presentation using hypothetical conditionals to guide international colleagues through theoretical possibilities.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an oral academic presentation introducing a thought experiment testing syntactic shift constraints under intense language contact.",
+          "communicativeOutcome": "Deliver a 3-minute oral presentation using hypothetical conditionals to guide international colleagues through theoretical possibilities.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide model conference speech illustrating elegant theoretical framing and clear rhetorical pauses.",
+          "grammarOverview": {
+            "summary": "Deliver an oral academic presentation introducing a thought experiment testing syntactic shift constraints under intense language contact.",
+            "keyPoints": [
+              "obj_b2_189_03_deliver_thought_experiment_speech"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_189_04_academic_hypothetical_discussion_section_writing",
+          "title": "Academic Writing: Discussion Section Exploring Theoretical Counter-Scenarios",
+          "cyrillicTitle": "Author a 260-word journal discussion section utilizing hypothetical conditionals and concession to fortify scholarly conclusions.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 260-word discussion section of a research paper, analyzing alternative interpretations and exploring what would happen if primary assumptions were modified.",
+          "communicativeOutcome": "Author a 260-word journal discussion section utilizing hypothetical conditionals and concession to fortify scholarly conclusions.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a 260-word discussion section of a research paper, analyzing alternative interpretations and exploring what would happen if primary assumptions were modified.",
+            "keyPoints": [
+              "obj_b2_189_04_write_hypothetical_discussion"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_190_complex_modal_obligation_the_modal_",
+      "unitNumber": 190,
+      "title": "Complex Modal Obligation: The Modal Suffix -х учиртай",
+      "cyrillicTitle": "Expressing prescriptive necessity and ethical duties in scholarship",
+      "description": "Acquire and apply grammatical morphology (gram_b2_modal_complex_obligation_uchirtai) to fulfill communicative functions in: Complex Modal Obligation: The Modal Suffix -х учиртай.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_modal_complex_obligation_uchirtai",
+      "lessons": [
+        {
+          "id": "les_b2_190_01_complex_obligation_uchirtai_syntax_intro",
+          "title": "Morphosyntax: Teleological & Ethical Obligation Modal '-х учиртай / -х ёстой'",
+          "cyrillicTitle": "Formulate sophisticated institutional and academic statements articulating inherent systemic duties and teleological necessities.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic structure, semantic distinctions, and pragmatic force of '-х учиртай' (natural/principled teleological obligation) versus '-х ёстой' (moral/deontic duty) and '-х журамтай' (regulatory mandate).",
+          "communicativeOutcome": "Formulate sophisticated institutional and academic statements articulating inherent systemic duties and teleological necessities.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic structure, semantic distinctions, and pragmatic force of '-х учиртай' (natural/principled teleological obligation) versus '-х ёстой' (moral/deontic duty) and '-х журамтай' (regulatory mandate).",
+            "keyPoints": [
+              "obj_b2_190_01_master_modal_obligation_uchirtai"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_190_02_academic_ethics_charter_reading",
+          "title": "Institutional Reading: Mongolian Academy of Sciences Code of Research Ethics",
+          "cyrillicTitle": "Comprehend statutory obligations, ethical imperatives, and legal liability in high-register institutional regulations.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 380-word institutional research ethics charter defining plagiarism prohibitions, data falsification consequences, and mentorship obligations.",
+          "communicativeOutcome": "Comprehend statutory obligations, ethical imperatives, and legal liability in high-register institutional regulations.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 380-word institutional research ethics charter defining plagiarism prohibitions, data falsification consequences, and mentorship obligations.",
+            "keyPoints": [
+              "obj_b2_190_02_read_ethics_charters"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_190_03_academic_integrity_declaration_writing",
+          "title": "Institutional Writing: Authorial Integrity Declaration & Research Transparency Statement",
+          "cyrillicTitle": "Author an airtight legal-academic declaration specifying authorial provenance and ethical compliance using '-х учиртай'.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Draft a formal 260-word Research Integrity & Conflict of Interest Declaration required for doctoral dissertation submission.",
+          "communicativeOutcome": "Author an airtight legal-academic declaration specifying authorial provenance and ethical compliance using '-х учиртай'.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Draft a formal 260-word Research Integrity & Conflict of Interest Declaration required for doctoral dissertation submission.",
+            "keyPoints": [
+              "obj_b2_190_03_write_integrity_declaration"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_190_04_ethics_hearing_defense_speech",
+          "title": "Spoken Oratory: Address to University Academic Senate on Institutional Responsibility",
+          "cyrillicTitle": "Deliver a 3-minute persuasive address articulating systemic moral obligations of academic leadership using '-х учиртай'.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver a formal address to the University Senate arguing that academic institutions must actively protect young scholars against predatory publishing.",
+          "communicativeOutcome": "Deliver a 3-minute persuasive address articulating systemic moral obligations of academic leadership using '-х учиртай'.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide model address of university senator delivering principled ethical reform speech.",
+          "grammarOverview": {
+            "summary": "Deliver a formal address to the University Senate arguing that academic institutions must actively protect young scholars against predatory publishing.",
+            "keyPoints": [
+              "obj_b2_190_04_deliver_institutional_ethics_speech"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_191_relative_clause_subject_genitive_no",
+      "unitNumber": 191,
+      "title": "Relative Clause Subject Genitive-Nominative Alternation",
+      "cyrillicTitle": "Mastering subtle syntactic shifts in embedded academic clauses",
+      "description": "Acquire and apply grammatical morphology (gram_b2_participle_relative_subject_genitive_alternation) to fulfill communicative functions in: Relative Clause Subject Genitive-Nominative Alternation.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_participle_relative_subject_genitive_alternation",
+      "lessons": [
+        {
+          "id": "les_b2_191_01_relative_subject_case_alternation_syntax_intro",
+          "title": "Morphosyntax: Genitive-Nominative Alternation in Embedded Relative Clause Subjects",
+          "cyrillicTitle": "Construct complex relative clauses with genitive-marked embedded subjects conforming to formal written academic standards.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic conditions, pragmatic prominence, and register determinants governing whether the subject of an embedded participial relative clause takes the unmarked nominative or the formal genitive case (-ийн/-ын).",
+          "communicativeOutcome": "Construct complex relative clauses with genitive-marked embedded subjects conforming to formal written academic standards.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic conditions, pragmatic prominence, and register determinants governing whether the subject of an embedded participial relative clause takes the unmarked nominative or the formal genitive case (-ийн/-ын).",
+            "keyPoints": [
+              "obj_b2_191_01_master_relative_subject_alternation"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_191_02_epigraphic_decipherment_monograph_reading",
+          "title": "Philological Reading: Stele Inscription Decipherment & Steppe Epigraphy",
+          "cyrillicTitle": "Extract philological decipherment arguments, epigraphic paleography, and historical genealogies from dense academic prose.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 390-word epigraphic monograph analyzing the Stele of Yisüngge (1224) and Orkhon Turkic-Mongolian runic memorials.",
+          "communicativeOutcome": "Extract philological decipherment arguments, epigraphic paleography, and historical genealogies from dense academic prose.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 390-word epigraphic monograph analyzing the Stele of Yisüngge (1224) and Orkhon Turkic-Mongolian runic memorials.",
+            "keyPoints": [
+              "obj_b2_191_02_read_epigraphic_monographs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_191_03_scholarly_dissertation_abstract_writing",
+          "title": "Academic Writing: 250-Word Doctoral Dissertation Abstract in Philology",
+          "cyrillicTitle": "Author a publication-standard academic abstract showcasing flawless control of genitive-subject relative clauses.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a formal 250-word doctoral dissertation abstract summarizing research questions, methodology, corpus scope, and original conclusions.",
+          "communicativeOutcome": "Author a publication-standard academic abstract showcasing flawless control of genitive-subject relative clauses.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a formal 250-word doctoral dissertation abstract summarizing research questions, methodology, corpus scope, and original conclusions.",
+            "keyPoints": [
+              "obj_b2_191_03_write_dissertation_abstract"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_191_04_dissertation_defense_opening_speech",
+          "title": "Spoken Oratory: Doctoral Dissertation Defense Formal Opening Statement",
+          "cyrillicTitle": "Deliver a 3.5-minute formal academic defense statement with commanding oratorical dignity and syntactic sophistication.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver the formal 3.5-minute opening statement of a doctoral dissertation defense, outlining the core philological discoveries and their broader significance.",
+          "communicativeOutcome": "Deliver a 3.5-minute formal academic defense statement with commanding oratorical dignity and syntactic sophistication.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark speech of doctoral candidate presenting opening statement to dissertation council.",
+          "grammarOverview": {
+            "summary": "Deliver the formal 3.5-minute opening statement of a doctoral dissertation defense, outlining the core philological discoveries and their broader significance.",
+            "keyPoints": [
+              "obj_b2_191_04_deliver_defense_opening_statement"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_191_05_dissertation_council_examination_listening",
+          "title": "Acoustic Dissection: Dissertation Council Official Opponent Interrogation",
+          "cyrillicTitle": "Comprehend rapid, adversarial academic questioning and complex participial syntax in spoken council proceedings (150 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to the official opponent ('албан ёсны шүүмжлэгч') interrogating a doctoral candidate on source provenance and paleographical dating.",
+          "communicativeOutcome": "Comprehend rapid, adversarial academic questioning and complex participial syntax in spoken council proceedings (150 wpm).",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide multi-speaker audio of official doctoral opponent probing candidate's methodology with rapid academic delivery.",
+          "grammarOverview": {
+            "summary": "Listen to the official opponent ('албан ёсны шүүмжлэгч') interrogating a doctoral candidate on source provenance and paleographical dating.",
+            "keyPoints": [
+              "obj_b2_191_05_comprehend_council_interrogation"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_192_delivering_prepared_academic_confer",
+      "unitNumber": 192,
+      "title": "Delivering Prepared Academic Conference Presentations",
+      "cyrillicTitle": "Presenting a 10-minute slide deck with formal scholarly intro/outro",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Delivering Prepared Academic Conference Presentations.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "Presenting a 10-minute slide deck with formal scholarly intro/outro",
+      "lessons": [
+        {
+          "id": "les_b2_192_01_conference_presentation_structure_reading",
+          "title": "Academic Reading: Rhetorical Architecture & Slide Pacing in International Symposia",
+          "cyrillicTitle": "Extract oratorical framing strategies, slide transition formulas, and visual data commentary conventions from a presentation manual.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 380-word scholarly guide on structuring 15-minute conference presentations in Mongolistics, optimizing slide economy and transition rhetoric.",
+          "communicativeOutcome": "Extract oratorical framing strategies, slide transition formulas, and visual data commentary conventions from a presentation manual.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 380-word scholarly guide on structuring 15-minute conference presentations in Mongolistics, optimizing slide economy and transition rhetoric.",
+            "keyPoints": [
+              "obj_b2_192_01_read_presentation_guidelines"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_192_02_keynote_conference_presentation_listening",
+          "title": "Acoustic Dissection: Keynote Paper at the International Congress of Mongolists",
+          "cyrillicTitle": "Comprehend complex academic conference oratory, slide transition cues, and rhetorical signposting in live conference audio (150 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to an authentic 4-minute conference address on 13th-century postal relay (Өртөө) administrative registers delivered to an international assembly.",
+          "communicativeOutcome": "Comprehend complex academic conference oratory, slide transition cues, and rhetorical signposting in live conference audio (150 wpm).",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic lecture hall acoustic recording of senior historian presenting slides at International Congress of Mongolists.",
+          "grammarOverview": {
+            "summary": "Listen to an authentic 4-minute conference address on 13th-century postal relay (Өртөө) administrative registers delivered to an international assembly.",
+            "keyPoints": [
+              "obj_b2_192_02_comprehend_conference_keynotes"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_192_03_slide_script_and_handout_drafting_writing",
+          "title": "Academic Writing: Conference Slide Commentary Script & Executive Handout",
+          "cyrillicTitle": "Author a high-density academic spoken script integrating slide signposting, quantitative data citations, and theoretical implications.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 260-word conference presentation spoken script accompanying 4 presentation slides, detailing empirical findings on nomadic pastoral ecology.",
+          "communicativeOutcome": "Author a high-density academic spoken script integrating slide signposting, quantitative data citations, and theoretical implications.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a 260-word conference presentation spoken script accompanying 4 presentation slides, detailing empirical findings on nomadic pastoral ecology.",
+            "keyPoints": [
+              "obj_b2_192_03_write_conference_script"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_192_04_delivering_academic_conference_talk_speech",
+          "title": "Spoken Oratory: Delivering 4-Minute Academic Paper at International Symposium",
+          "cyrillicTitle": "Deliver a 4-minute academic conference paper with polished oratorical cadence, clear slide signposts, and authoritative vocal delivery.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver a formal 4-minute academic conference presentation from authored slides, demonstrating flawless rhetorical transitions and scholarly presence.",
+          "communicativeOutcome": "Deliver a 4-minute academic conference paper with polished oratorical cadence, clear slide signposts, and authoritative vocal delivery.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark recording of conference presenter delivering slides with consummate oratorical poise.",
+          "grammarOverview": {
+            "summary": "Deliver a formal 4-minute academic conference presentation from authored slides, demonstrating flawless rhetorical transitions and scholarly presence.",
+            "keyPoints": [
+              "obj_b2_192_04_deliver_conference_paper"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_193_handling_rigorous_academic_q_a_sess",
+      "unitNumber": 193,
+      "title": "Handling Rigorous Academic Q&A Sessions",
+      "cyrillicTitle": "Defending methodology, admitting limitations, and refuting critique",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Handling Rigorous Academic Q&A Sessions.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "Defending methodology, admitting limitations, and refuting critique",
+      "lessons": [
+        {
+          "id": "les_b2_193_01_adversarial_qa_audio_analysis_listening",
+          "title": "Acoustic Dissection: Rapid-Fire Academic Q&A Exchange at International Congress",
+          "cyrillicTitle": "Comprehend rapid spoken questions containing embedded academic critique, rhetorical traps, and skepticism (155 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a rigorous 3.5-minute Q&A session where audience scholars challenge a presenter's statistical sampling, archival dating, and ideological presuppositions.",
+          "communicativeOutcome": "Comprehend rapid spoken questions containing embedded academic critique, rhetorical traps, and skepticism (155 wpm).",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic lecture hall recording of audience members asking rapid, challenging questions via roving microphones.",
+          "grammarOverview": {
+            "summary": "Listen to a rigorous 3.5-minute Q&A session where audience scholars challenge a presenter's statistical sampling, archival dating, and ideological presuppositions.",
+            "keyPoints": [
+              "obj_b2_193_01_comprehend_adversarial_qa"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_193_02_qa_defensive_tactics_reading",
+          "title": "Academic Reading: Diplomatic Evasion & Deflective Reframing in Academic Discourse",
+          "cyrillicTitle": "Extract communicative formulas for diplomatic concession, question reframing, and boundary setting in academic defense.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 370-word academic guide analyzing rhetorical tactics for reframing hostile questions, buying time, acknowledging empirical limits, and neutralizing false premises.",
+          "communicativeOutcome": "Extract communicative formulas for diplomatic concession, question reframing, and boundary setting in academic defense.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 370-word academic guide analyzing rhetorical tactics for reframing hostile questions, buying time, acknowledging empirical limits, and neutralizing false premises.",
+            "keyPoints": [
+              "obj_b2_193_02_read_qa_tactics"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_193_03_spontaneous_qa_rebuttal_speech",
+          "title": "Spoken Oratory: Defending Conference Paper Against Audience Cross-Examination",
+          "cyrillicTitle": "Deliver poised, articulate spoken responses neutralizing audience skepticism with collegial grace and evidential firmness.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver spontaneous 3-minute spoken responses to 2 sharp audience challenges regarding archival authenticity and sample representativeness.",
+          "communicativeOutcome": "Deliver poised, articulate spoken responses neutralizing audience skepticism with collegial grace and evidential firmness.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark recording of scholar handling challenging conference question with poise and precision.",
+          "grammarOverview": {
+            "summary": "Deliver spontaneous 3-minute spoken responses to 2 sharp audience challenges regarding archival authenticity and sample representativeness.",
+            "keyPoints": [
+              "obj_b2_193_03_rebut_academic_challenges"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_193_04_moderating_contentious_academic_panel_speech",
+          "title": "Spoken Oratory: Chairing a Contentious Conference Session & Regulating Floor Debate",
+          "cyrillicTitle": "Deliver 3-minute executive moderator interventions maintaining parliamentary order, scholarly decorum, and strict time limits.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Simulate the role of session chair, diplomatically intervening to cut off overlong audience questions, defusing personal attacks, and summarizing panel outcomes.",
+          "communicativeOutcome": "Deliver 3-minute executive moderator interventions maintaining parliamentary order, scholarly decorum, and strict time limits.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide model audio of international conference chair managing heated floor debate with diplomatic authority.",
+          "grammarOverview": {
+            "summary": "Simulate the role of session chair, diplomatically intervening to cut off overlong audience questions, defusing personal attacks, and summarizing panel outcomes.",
+            "keyPoints": [
+              "obj_b2_193_04_chair_contentious_sessions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_194_commercial_legal_contract_parsing_l",
+      "unitNumber": 194,
+      "title": "Commercial Legal Contract Parsing & Lease Clauses",
+      "cyrillicTitle": "Comprehending breach, termination, force majeure, and dispute articles",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Commercial Legal Contract Parsing & Lease Clauses.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "Comprehending breach, termination, force majeure, and dispute articles",
+      "lessons": [
+        {
+          "id": "les_b2_194_01_commercial_lease_statutory_parsing_reading",
+          "title": "Legal Reading: Commercial Real Estate Lease Agreements & Liability Clauses",
+          "cyrillicTitle": "Comprehend statutory legal terminology, conditional default triggers, and contractual indemnification provisions in formal contract Mongolian.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 390-word commercial lease contract governed by the Mongolian Civil Code, analyzing default remedies, security deposit escrow, and force majeure stipulations.",
+          "communicativeOutcome": "Comprehend statutory legal terminology, conditional default triggers, and contractual indemnification provisions in formal contract Mongolian.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 390-word commercial lease contract governed by the Mongolian Civil Code, analyzing default remedies, security deposit escrow, and force majeure stipulations.",
+            "keyPoints": [
+              "obj_b2_194_01_parse_commercial_contracts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_194_02_contractual_amendment_drafting_writing",
+          "title": "Legal Writing: Drafting Contractual Amendments & Indemnification Protocols",
+          "cyrillicTitle": "Author legally binding contractual clauses conforming to statutory Mongolian drafting standards and precision syntax.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Draft a formal 260-word contractual addendum amending liability limits, rent indexation benchmarks, and dispute arbitration venues.",
+          "communicativeOutcome": "Author legally binding contractual clauses conforming to statutory Mongolian drafting standards and precision syntax.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Draft a formal 260-word contractual addendum amending liability limits, rent indexation benchmarks, and dispute arbitration venues.",
+            "keyPoints": [
+              "obj_b2_194_02_draft_contract_addenda"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_194_03_commercial_contract_negotiation_listening",
+          "title": "Acoustic Dissection: Commercial Lease Negotiation Between Corporate Attorneys",
+          "cyrillicTitle": "Comprehend rapid legal bargaining, conditional concessions, and tactical compromises in spoken commercial negotiations (150 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 3.5-minute audio recording of corporate lawyers vigorously negotiating liability caps, maintenance obligations, and rent abatements.",
+          "communicativeOutcome": "Comprehend rapid legal bargaining, conditional concessions, and tactical compromises in spoken commercial negotiations (150 wpm).",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic spoken dialogue between corporate attorneys sparring over contract clauses.",
+          "grammarOverview": {
+            "summary": "Listen to a 3.5-minute audio recording of corporate lawyers vigorously negotiating liability caps, maintenance obligations, and rent abatements.",
+            "keyPoints": [
+              "obj_b2_194_03_comprehend_contract_bargaining"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_194_04_closing_contractual_arbitration_speech",
+          "title": "Spoken Oratory: Oral Argumentation Before the International Commercial Arbitration Court",
+          "cyrillicTitle": "Deliver a 3.5-minute formal legal argument deploying rigorous statutory terminology and contractual citations with judicial poise.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver a formal 3.5-minute oral argument before an arbitration panel, demonstrating that the opposing party breached explicit lease obligations without legal justification.",
+          "communicativeOutcome": "Deliver a 3.5-minute formal legal argument deploying rigorous statutory terminology and contractual citations with judicial poise.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark speech of legal counsel delivering closing oral arguments before arbitration tribunal.",
+          "grammarOverview": {
+            "summary": "Deliver a formal 3.5-minute oral argument before an arbitration panel, demonstrating that the opposing party breached explicit lease obligations without legal justification.",
+            "keyPoints": [
+              "obj_b2_194_04_deliver_arbitration_argument"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_195_mediation_of_professional_conflicts",
+      "unitNumber": 195,
+      "title": "Mediation of Professional Conflicts Between Peers",
+      "cyrillicTitle": "Facilitating dialogue between disputing parties to reach compromise",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Mediation of Professional Conflicts Between Peers.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "Facilitating dialogue between disputing parties to reach compromise",
+      "lessons": [
+        {
+          "id": "les_b2_195_01_workplace_conflict_dialogue_listening",
+          "title": "Acoustic Dissection: Tense Professional Conflict Between Research Lab Directors",
+          "cyrillicTitle": "Comprehend emotional undertones, suppressed grievances, and conflicting professional interests in spoken workplace conflict (150 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 3.5-minute recording of a heated dispute between two project leads over intellectual credit, budget reallocation, and doctoral student supervision.",
+          "communicativeOutcome": "Comprehend emotional undertones, suppressed grievances, and conflicting professional interests in spoken workplace conflict (150 wpm).",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide multi-speaker audio of professional peers engaging in realistic workplace dispute with natural emotional tension.",
+          "grammarOverview": {
+            "summary": "Listen to a 3.5-minute recording of a heated dispute between two project leads over intellectual credit, budget reallocation, and doctoral student supervision.",
+            "keyPoints": [
+              "obj_b2_195_01_comprehend_workplace_conflict"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_195_02_principled_mediation_guide_reading",
+          "title": "Professional Reading: Principled Negotiation & Peer Conflict Mediation Frameworks",
+          "cyrillicTitle": "Extract mediation methodologies, de-escalation formulas, and shared interest identification strategies from a professional manual.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 380-word organizational psychology manual on non-violent communication, neutral reframing, and interest-based peer mediation protocols in research institutes.",
+          "communicativeOutcome": "Extract mediation methodologies, de-escalation formulas, and shared interest identification strategies from a professional manual.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 380-word organizational psychology manual on non-violent communication, neutral reframing, and interest-based peer mediation protocols in research institutes.",
+            "keyPoints": [
+              "obj_b2_195_02_read_mediation_manuals"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_195_03_spoken_mediation_intervention_speech",
+          "title": "Spoken Oratory: Neutral Mediation Facilitation Between Disputing Department Heads",
+          "cyrillicTitle": "Deliver 3.5-minute spoken mediation facilitations using neutral phrasing, empathic listening reflections, and balanced hypothetical solutions.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver spoken mediation interventions guiding two disputing senior colleagues toward collaborative problem-solving, reframing accusations without judgment.",
+          "communicativeOutcome": "Deliver 3.5-minute spoken mediation facilitations using neutral phrasing, empathic listening reflections, and balanced hypothetical solutions.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide model audio of experienced mediator de-escalating workplace dispute with soothing, neutral intonation.",
+          "grammarOverview": {
+            "summary": "Deliver spoken mediation interventions guiding two disputing senior colleagues toward collaborative problem-solving, reframing accusations without judgment.",
+            "keyPoints": [
+              "obj_b2_195_03_facilitate_peer_mediation"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_195_04_written_mediation_agreement_protocol_writing",
+          "title": "Professional Writing: Formal Workplace Mediation Resolution & Co-Working Agreement",
+          "cyrillicTitle": "Author a professional workplace settlement protocol uniting mutual obligations, grievance releases, and monitoring schedules.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Draft a 260-word formal Mediation Settlement Protocol signed by both parties, establishing mutual commitments, resource allocation schedules, and respectful communication norms.",
+          "communicativeOutcome": "Author a professional workplace settlement protocol uniting mutual obligations, grievance releases, and monitoring schedules.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Draft a 260-word formal Mediation Settlement Protocol signed by both parties, establishing mutual commitments, resource allocation schedules, and respectful communication norms.",
+            "keyPoints": [
+              "obj_b2_195_04_write_mediation_protocol"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_196_popularizing_scientific_discoveries",
+      "unitNumber": 196,
+      "title": "Popularizing Scientific Discoveries for Mass Media",
+      "cyrillicTitle": "Translating technical research papers into engaging public articles",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Popularizing Scientific Discoveries for Mass Media.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "Translating technical research papers into engaging public articles",
+      "lessons": [
+        {
+          "id": "les_b2_196_01_popular_science_journalism_reading",
+          "title": "Media Reading: Transforming Complex Paleoclimatological Studies into Compelling Public Features",
+          "cyrillicTitle": "Extract journalistic narrative hooks, metaphorical explanations of complex data, and accessibility strategies from popular science writing.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 390-word feature article published in a leading national periodical explaining tree-ring analysis of medieval Mongolian droughts to a general audience.",
+          "communicativeOutcome": "Extract journalistic narrative hooks, metaphorical explanations of complex data, and accessibility strategies from popular science writing.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 390-word feature article published in a leading national periodical explaining tree-ring analysis of medieval Mongolian droughts to a general audience.",
+            "keyPoints": [
+              "obj_b2_196_01_read_popular_science"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_196_02_science_feature_article_writing",
+          "title": "Journalistic Writing: Authoring a 260-Word Popular Science Column on Genetic Archaeology",
+          "cyrillicTitle": "Author an engaging popular science article combining accessible vocabulary, vivid imagery, and strict factual fidelity.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 260-word popular science feature explaining ancient DNA discoveries from Bronze Age kurgans, translating technical genomic data into gripping civic history.",
+          "communicativeOutcome": "Author an engaging popular science article combining accessible vocabulary, vivid imagery, and strict factual fidelity.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a 260-word popular science feature explaining ancient DNA discoveries from Bronze Age kurgans, translating technical genomic data into gripping civic history.",
+            "keyPoints": [
+              "obj_b2_196_02_write_popular_science_column"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_196_03_radio_science_broadcasting_listening",
+          "title": "Acoustic Dissection: National Public Radio Science Feature on Nomadic Biotechnology",
+          "cyrillicTitle": "Comprehend dynamic radio broadcasting techniques, soundscape overlays, and accessible scientific interviews (150 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 3.5-minute radio documentary explaining traditional dairy fermentation microflora (айраг/ааруул) and modern probiotic research.",
+          "communicativeOutcome": "Comprehend dynamic radio broadcasting techniques, soundscape overlays, and accessible scientific interviews (150 wpm).",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic public radio audio featuring narrator voice, field recordings, and scientist soundbites.",
+          "grammarOverview": {
+            "summary": "Listen to a 3.5-minute radio documentary explaining traditional dairy fermentation microflora (айраг/ааруул) and modern probiotic research.",
+            "keyPoints": [
+              "obj_b2_196_03_comprehend_science_broadcasts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_196_04_popular_science_tv_interview_speech",
+          "title": "Spoken Oratory: Live Television Interview Explaining Complex Scientific Breakthroughs",
+          "cyrillicTitle": "Deliver an articulate, charismatic broadcast interview translating complex astrophysics into compelling public knowledge.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an engaging 3.5-minute live television studio interview explaining astronomical discoveries made at the Khurel Togoot Observatory to a mass audience.",
+          "communicativeOutcome": "Deliver an articulate, charismatic broadcast interview translating complex astrophysics into compelling public knowledge.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark recording of scientist giving captivating live television interview.",
+          "grammarOverview": {
+            "summary": "Deliver an engaging 3.5-minute live television studio interview explaining astronomical discoveries made at the Khurel Togoot Observatory to a mass audience.",
+            "keyPoints": [
+              "obj_b2_196_04_deliver_science_tv_interview"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_197_b2_vantage_capstone_academic_sympos",
+      "unitNumber": 197,
+      "title": "B2 Vantage Capstone: Academic Symposium Abstract & Speech",
+      "cyrillicTitle": "Drafting a published abstract and delivering a live defense keynote",
+      "description": "Consolidate, integrate, and demonstrate communicative mastery of B2 Vantage Capstone: Academic Symposium Abstract & Speech through simulated holistic tasks.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "Drafting a published abstract and delivering a live defense keynote",
+      "lessons": [
+        {
+          "id": "les_b2_197_01_plenary_symposium_dossier_reading",
+          "title": "Capstone Reading: Multi-Disciplinary Symposium Dossier & Keynote Monograph",
+          "cyrillicTitle": "Synthesize multi-disciplinary academic theses, competing methodological paradigms, and strategic recommendations across 430 words of complex prose.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an extensive 430-word academic symposium dossier integrating philology, legal jurisprudence, environmental economics, and mass communication.",
+          "communicativeOutcome": "Synthesize multi-disciplinary academic theses, competing methodological paradigms, and strategic recommendations across 430 words of complex prose.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an extensive 430-word academic symposium dossier integrating philology, legal jurisprudence, environmental economics, and mass communication.",
+            "keyPoints": [
+              "obj_b2_197_01_parse_symposium_dossier"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_197_02_presidential_symposium_keynote_listening",
+          "title": "Capstone Listening: Opening Plenary Address at World Congress of Mongolists",
+          "cyrillicTitle": "Comprehend elevated academic-oratorical discourse, visionary policy propositions, and historical synthesis in live plenary audio (155 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4-minute opening plenary address delivered by the President of the Mongolian Academy of Sciences, surveying a century of research and future directions.",
+          "communicativeOutcome": "Comprehend elevated academic-oratorical discourse, visionary policy propositions, and historical synthesis in live plenary audio (155 wpm).",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic plenary hall acoustic recording of Academy President addressing international assembly.",
+          "grammarOverview": {
+            "summary": "Listen to a 4-minute opening plenary address delivered by the President of the Mongolian Academy of Sciences, surveying a century of research and future directions.",
+            "keyPoints": [
+              "obj_b2_197_02_comprehend_plenary_keynote"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_197_03_authoring_definitive_symposium_abstract_writing",
+          "title": "Advisory Composition: Definitive Peer-Reviewed Symposium Abstract in Mongolistics",
+          "cyrillicTitle": "Author a pristine, high-density academic abstract demonstrating consummate mastery of all B2 Vantage grammatical and lexical competencies.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a definitive 260-word peer-reviewed symposium abstract summarizing groundbreaking research across linguistics, governance, or pastoral ecology.",
+          "communicativeOutcome": "Author a pristine, high-density academic abstract demonstrating consummate mastery of all B2 Vantage grammatical and lexical competencies.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a definitive 260-word peer-reviewed symposium abstract summarizing groundbreaking research across linguistics, governance, or pastoral ecology.",
+            "keyPoints": [
+              "obj_b2_197_03_author_definitive_abstract"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_197_04_strategic_academic_consultation_brief_writing",
+          "title": "Advisory Composition: Strategic Policy Consultation Brief for State Academic Council",
+          "cyrillicTitle": "Author an authoritative, high-level policy advisory document translating academic research into concrete statutory recommendations.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Draft a 270-word strategic advisory brief for the Prime Minister's Academic Advisory Board, recommending legislative reforms to protect intellectual property and funding.",
+          "communicativeOutcome": "Author an authoritative, high-level policy advisory document translating academic research into concrete statutory recommendations.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Draft a 270-word strategic advisory brief for the Prime Minister's Academic Advisory Board, recommending legislative reforms to protect intellectual property and funding.",
+            "keyPoints": [
+              "obj_b2_197_04_draft_strategic_consultation_brief"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_197_05_world_congress_plenary_speech",
+          "title": "Spoken Oratory: Keynote Plenary Oration at the World Congress of Mongolists",
+          "cyrillicTitle": "Deliver a 4-minute commanding plenary address uniting deep academic scholarship, poetic rhetoric, and global visionary leadership.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an inspiring 4-minute plenary keynote address before 500 international scholars, articulating the enduring relevance of Mongolian civilization to global ecological and ethical challenges.",
+          "communicativeOutcome": "Deliver a 4-minute commanding plenary address uniting deep academic scholarship, poetic rhetoric, and global visionary leadership.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark recording of senior statesman and academician delivering World Congress plenary address.",
+          "grammarOverview": {
+            "summary": "Deliver an inspiring 4-minute plenary keynote address before 500 international scholars, articulating the enduring relevance of Mongolian civilization to global ecological and ethical challenges.",
+            "keyPoints": [
+              "obj_b2_197_05_deliver_world_congress_plenary"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_197_06_b2_vantage_culminating_academic_capstone",
+          "title": "Culminating Capstone: Comprehensive B2 Vantage Level Synthesis & Defense",
+          "cyrillicTitle": "Demonstrate complete, uncompromised CEFR B2 Vantage mastery across reading, listening, writing, and spoken performance across all 24 grammar structures.",
+          "estimatedMinutes": 15,
+          "lessonType": "synthesis_capstone",
+          "primaryPurpose": "Synthesize all 42 Units and four broad domains of CEFR B2 Vantage—democratic governance, environmental resilience, material/performing arts culture, and academic synthesis—in a culminating multi-phase symposium simulation without introducing new vocabulary.",
+          "communicativeOutcome": "Demonstrate complete, uncompromised CEFR B2 Vantage mastery across reading, listening, writing, and spoken performance across all 24 grammar structures.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide multi-track capstone audio recording with full conference hall reverberation, plenary keynote delivery, and audience Q&A exchanges.",
+          "grammarOverview": {
+            "summary": "Synthesize all 42 Units and four broad domains of CEFR B2 Vantage—democratic governance, environmental resilience, material/performing arts culture, and academic synthesis—in a culminating multi-phase symposium simulation without introducing new vocabulary.",
+            "keyPoints": [
+              "obj_b2_197_06_master_b2_vantage_capstone"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    }
+  ]
+}

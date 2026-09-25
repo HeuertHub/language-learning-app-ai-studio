@@ -1,0 +1,1389 @@
+{
+  "sectionId": "sec_a1_05_family_kinship_possession_immediate_environment",
+  "sectionNumber": 7,
+  "title": "Kinship, Reflexive Possession & Immediate Surroundings",
+  "cyrillicTitle": "Гэр бүл, төрөл садан, өөрийн хамаарал ба хүрээлэн буй орчин",
+  "cefr": "A1",
+  "theme": "Describe family members, talk about relationships and marital status, describe one's home/ger, discuss the weather, and synthesize basic personal stories.",
+  "description": "Consolidate the A1 stage by mastering nuclear family kinship relations, genitive possession, possessive pronouns, progressive aspect (-ж байна), past perfective (-сан), and basic environmental descriptions.",
+  "unitCount": 10,
+  "lessonCount": 60,
+  "exerciseCount": 0,
+  "units": [
+    {
+      "id": "unit_a1_54_nuclear_kinship_parents_siblings_ch",
+      "unitNumber": 54,
+      "title": "Nuclear Kinship: Parents, Siblings & Children",
+      "cyrillicTitle": "Describing immediate family members and generational lineage",
+      "description": "Acquire and apply grammatical morphology (gram_a1_case_genitive_possession) to fulfill communicative functions in: Nuclear Kinship: Parents, Siblings & Children.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_case_genitive_possession",
+      "lessons": [
+        {
+          "id": "les_a1_54_01_nuclear_kinship_and_genitive_possession",
+          "title": "Immediate Family: Parents, Siblings, and Genitive Possession -ын/-ийн",
+          "cyrillicTitle": "Name nuclear family members and describe relational possession (e.g. 'Доржийн ах', 'Багшийн охин').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce nuclear kinship terms (аав, ээж, ах, эгч, дүү, хүү, охин) and the genitive case of possession (-ын/-ийн/-ны/-ний) linking family members.",
+          "communicativeOutcome": "Name nuclear family members and describe relational possession (e.g. 'Доржийн ах', 'Багшийн охин').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear articulation of genitive allomorphs and kinship vowel lengths.",
+          "grammarOverview": {
+            "summary": "Introduce nuclear kinship terms (аав, ээж, ах, эгч, дүү, хүү, охин) and the genitive case of possession (-ын/-ийн/-ны/-ний) linking family members.",
+            "keyPoints": [
+              "obj_a1_54_01_identify_nuclear_kinship",
+              "obj_a1_54_02_form_genitive_possession"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_54_02_older_and_younger_siblings_distinctions",
+          "title": "Siblings and Children: Ах, Эгч, Дүү, Хүү, and Охин",
+          "cyrillicTitle": "State sibling birth order and identify children within a family structure.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Deepen distinction between older and younger siblings (эр дүү 'younger brother', эмэгтэй дүү 'younger sister') and sons/daughters (хүү, охин), practicing age rankings.",
+          "communicativeOutcome": "State sibling birth order and identify children within a family structure.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Warm conversational tone discussing family members.",
+          "grammarOverview": {
+            "summary": "Deepen distinction between older and younger siblings (эр дүү 'younger brother', эмэгтэй дүү 'younger sister') and sons/daughters (хүү, охин), practicing age rankings.",
+            "keyPoints": [
+              "obj_a1_54_03_describe_sibling_hierarchy"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_54_03_family_introductions_guided_drills",
+          "title": "Guided Practice: Introducing Family Members and Occupations",
+          "cyrillicTitle": "Present family members, stating their names, professions, and relationships fluently.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate combining kinship terms, genitive possession, and occupations ('Манай аавын нэр Дорж, тэр эмч хийдэг').",
+          "communicativeOutcome": "Present family members, stating their names, professions, and relationships fluently.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Warm, natural personal introductions showing family pride.",
+          "grammarOverview": {
+            "summary": "Automate combining kinship terms, genitive possession, and occupations ('Манай аавын нэр Дорж, тэр эмч хийдэг').",
+            "keyPoints": [
+              "obj_a1_54_04_introduce_family_and_professions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_54_04_family_letters_and_profiles_reading",
+          "title": "Reading Workshop: Letters Home and Family Portrait Captions",
+          "cyrillicTitle": "Extract family composition, ages, locations, and professions from written family letters.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read written letters and social profiles where a writer describes their parents, siblings, and rural hometown roots.",
+          "communicativeOutcome": "Extract family composition, ages, locations, and professions from written family letters.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Warm epistolary voice reading personal letters from home.",
+          "grammarOverview": {
+            "summary": "Read written letters and social profiles where a writer describes their parents, siblings, and rural hometown roots.",
+            "keyPoints": [
+              "obj_a1_54_05_read_family_letters"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_54_05_family_narratives_listening_lab",
+          "title": "Acoustic Lab: Parsing Rapid Spoken Kinship Descriptions",
+          "cyrillicTitle": "Accurately record family members, names, and sibling counts from fast conversational speech.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse natural spoken audio where speakers quickly describe family sizes, sibling orders, and parents' backgrounds.",
+          "communicativeOutcome": "Accurately record family members, names, and sibling counts from fast conversational speech.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic conversational audio featuring varied speaker ages and speech rates.",
+          "grammarOverview": {
+            "summary": "Parse natural spoken audio where speakers quickly describe family sizes, sibling orders, and parents' backgrounds.",
+            "keyPoints": [
+              "obj_a1_54_06_parse_spoken_family_narratives"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_54_06_family_album_presentation_synthesis",
+          "title": "Interactive Synthesis: Sharing the Family Photo Album",
+          "cyrillicTitle": "Conduct a fluid, engaging dialogue presenting one's family and inquiring about a peer's relatives.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate looking through a family photo album with a peer: pointing out relatives, explaining generational relationships, and asking reciprocal questions.",
+          "communicativeOutcome": "Conduct a fluid, engaging dialogue presenting one's family and inquiring about a peer's relatives.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary conversational exchange illustrating personal family album sharing.",
+          "grammarOverview": {
+            "summary": "Simulate looking through a family photo album with a peer: pointing out relatives, explaining generational relationships, and asking reciprocal questions.",
+            "keyPoints": [
+              "obj_a1_54_07_present_family_album"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_55_possessive_pronouns_",
+      "unitNumber": 55,
+      "title": "Possessive Pronouns: Миний, Чиний, Түүний, Манай",
+      "cyrillicTitle": "Expressing personal and collective ownership",
+      "description": "Acquire and apply grammatical morphology (gram_a1_possessive_pronouns_minii_chiniih) to fulfill communicative functions in: Possessive Pronouns: Миний, Чиний, Түүний, Манай.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_possessive_pronouns_minii_chiniih",
+      "lessons": [
+        {
+          "id": "les_a1_55_01_personal_vs_collective_possessive_pronouns",
+          "title": "Mine, Yours, and Ours: Миний, Чиний, Түүний, and Манай",
+          "cyrillicTitle": "Express personal ownership and distinguish individual belongings from family possessions (e.g. 'Энэ миний ном', 'Манай гэр Ховдод байдаг').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce singular possessive pronouns (миний 'my', чиний 'your', түүний 'his/her') and distinguish personal ownership from collective family/communal belonging using 'манай' ('our/my family/my house').",
+          "communicativeOutcome": "Express personal ownership and distinguish individual belongings from family possessions (e.g. 'Энэ миний ном', 'Манай гэр Ховдод байдаг').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear prosodic emphasis contrasting 'миний' and 'манай'.",
+          "grammarOverview": {
+            "summary": "Introduce singular possessive pronouns (миний 'my', чиний 'your', түүний 'his/her') and distinguish personal ownership from collective family/communal belonging using 'манай' ('our/my family/my house').",
+            "keyPoints": [
+              "obj_a1_55_01_form_possessive_pronouns",
+              "obj_a1_55_02_contrast_minii_and_manai"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_55_02_formal_and_plural_possessives_tanii_tednii",
+          "title": "Respect and Groups: Таны, Танай, Бидний, and Тэдний",
+          "cyrillicTitle": "Politely ask about others' possessions and refer to third-party group belongings with respectful address.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce polite formal possessives (таны 'your formal', танай 'your household/family') and plural possessive pronouns (бидний 'our', тэдний 'their').",
+          "communicativeOutcome": "Politely ask about others' possessions and refer to third-party group belongings with respectful address.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Courteous honorific inquiry prosody.",
+          "grammarOverview": {
+            "summary": "Introduce polite formal possessives (таны 'your formal', танай 'your household/family') and plural possessive pronouns (бидний 'our', тэдний 'their').",
+            "keyPoints": [
+              "obj_a1_55_03_form_formal_and_plural_possessives"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_55_03_substantive_possessive_heniyh_drills",
+          "title": "Guided Practice: Substantive Possessives -ийнх and Whose Is It? (Хэнийх вэ?)",
+          "cyrillicTitle": "Clarify ownership of unattached objects and claim items using substantive possessives.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate substantive possessive pronouns and nouns ending in -х/-ийнх (минийх 'mine', чинийх 'yours', манайх 'ours/our family', багшийнх 'the teacher's') and questions with 'Хэнийх вэ?'.",
+          "communicativeOutcome": "Clarify ownership of unattached objects and claim items using substantive possessives.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic lost-and-found classroom interaction.",
+          "grammarOverview": {
+            "summary": "Automate substantive possessive pronouns and nouns ending in -х/-ийнх (минийх 'mine', чинийх 'yours', манайх 'ours/our family', багшийнх 'the teacher's') and questions with 'Хэнийх вэ?'.",
+            "keyPoints": [
+              "obj_a1_55_04_form_substantive_possessives"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_55_04_roommates_and_shared_spaces_reading",
+          "title": "Reading Workshop: Dormitory Rules and Roommate Possession Agreements",
+          "cyrillicTitle": "Understand roommate chore rosters and possession boundaries in shared living quarters.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read student dormitory roommate agreements and household guidelines distinguishing personal belongings from communal resources.",
+          "communicativeOutcome": "Understand roommate chore rosters and possession boundaries in shared living quarters.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear narration reading student accommodation regulations.",
+          "grammarOverview": {
+            "summary": "Read student dormitory roommate agreements and household guidelines distinguishing personal belongings from communal resources.",
+            "keyPoints": [
+              "obj_a1_55_05_read_dormitory_agreements"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_55_05_possessions_and_claims_listening_lab",
+          "title": "Acoustic Lab: Parsing Ownership Disputes and Inquiries in Fast Audio",
+          "cyrillicTitle": "Accurately record who owns which item from fast conversational exchanges.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse rapid spoken dialogue where people claim items, inquire about lost objects, and sort out belongings after group trips.",
+          "communicativeOutcome": "Accurately record who owns which item from fast conversational exchanges.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic multi-speaker audio with background packing noises.",
+          "grammarOverview": {
+            "summary": "Parse rapid spoken dialogue where people claim items, inquire about lost objects, and sort out belongings after group trips.",
+            "keyPoints": [
+              "obj_a1_55_06_parse_ownership_dialogue"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_55_06_sorting_belongings_synthesis",
+          "title": "Interactive Synthesis: Packing Up and Sorting Communal Supplies",
+          "cyrillicTitle": "Conduct a fluid, unscripted sorting dialogue establishing ownership for a dozen items smoothly.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate packing up after a weekend camping trip or study session: sorting mixed-up gear, returning books, identifying jackets, and organizing bags.",
+          "communicativeOutcome": "Conduct a fluid, unscripted sorting dialogue establishing ownership for a dozen items smoothly.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary conversational exchange illustrating cooperative property sorting.",
+          "grammarOverview": {
+            "summary": "Simulate packing up after a weekend camping trip or study session: sorting mixed-up gear, returning books, identifying jackets, and organizing bags.",
+            "keyPoints": [
+              "obj_a1_55_07_coordinate_belongings_sorting"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_56_family_milestones_ages_marital_stat",
+      "unitNumber": 56,
+      "title": "Family Milestones, Ages & Marital Status",
+      "cyrillicTitle": "Discussing ages, birth years, and family structure",
+      "description": "Acquire and apply grammatical morphology (gram_a1_case_dative_locative_recipient) to fulfill communicative functions in: Family Milestones, Ages & Marital Status.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_case_dative_locative_recipient",
+      "lessons": [
+        {
+          "id": "les_a1_56_01_stating_ages_nas_and_dative_recipient",
+          "title": "Ages and Milestones: Хэдэн Настай вэ? and Dative Recipients",
+          "cyrillicTitle": "Ask and state ages of oneself and family members, and designate milestone recipients with dative case.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce age inquiries ('Та хэдэн настай вэ?'), age assertions ('Би хорин таван настай'), and dative-locative case marking on milestone recipients (хүүдээ бэлэг өгөх 'giving a gift to one's son').",
+          "communicativeOutcome": "Ask and state ages of oneself and family members, and designate milestone recipients with dative case.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear articulation of multi-digit numbers and age phrasing.",
+          "grammarOverview": {
+            "summary": "Introduce age inquiries ('Та хэдэн настай вэ?'), age assertions ('Би хорин таван настай'), and dative-locative case marking on milestone recipients (хүүдээ бэлэг өгөх 'giving a gift to one's son').",
+            "keyPoints": [
+              "obj_a1_56_01_ask_and_state_ages",
+              "obj_a1_56_02_form_dative_recipient"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_56_02_marital_status_and_family_composition",
+          "title": "Marital Status and Households: Гэрлэсэн, Суусан, and Хүүхэдтэй",
+          "cyrillicTitle": "Describe marital status, spouse, and family composition accurately and courteously.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce relationship and marital status vocabulary: гэрлэсэн 'married', хүнтэй суусан 'married/settled', ганц бие 'single', хүүхэдтэй 'with children', сандарсан/салсан 'separated/divorced'.",
+          "communicativeOutcome": "Describe marital status, spouse, and family composition accurately and courteously.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Courteous, neutral tone discussing demographic and civil status.",
+          "grammarOverview": {
+            "summary": "Introduce relationship and marital status vocabulary: гэрлэсэн 'married', хүнтэй суусан 'married/settled', ганц бие 'single', хүүхэдтэй 'with children', сандарсан/салсан 'separated/divorced'.",
+            "keyPoints": [
+              "obj_a1_56_03_describe_marital_status"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_56_03_birth_years_and_zodiac_guided_drills",
+          "title": "Guided Practice: Birth Years, Anniversaries, and Lunar Zodiac Animals",
+          "cyrillicTitle": "State birth years, identify lunar birth animals, and celebrate family anniversaries fluently.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate combining four-digit birth years ('Би 1998 онд төрсөн') with traditional 12-year lunar zodiac signs (жил: морь, хонь, бич, нохой гэх мэт) and anniversary milestones.",
+          "communicativeOutcome": "State birth years, identify lunar birth animals, and celebrate family anniversaries fluently.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Warm conversational audio discussing traditional birth year reckoning.",
+          "grammarOverview": {
+            "summary": "Automate combining four-digit birth years ('Би 1998 онд төрсөн') with traditional 12-year lunar zodiac signs (жил: морь, хонь, бич, нохой гэх мэт) and anniversary milestones.",
+            "keyPoints": [
+              "obj_a1_56_04_state_birth_year_and_zodiac"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_56_04_biographical_anniversaries_reading",
+          "title": "Reading Workshop: Golden Wedding Anniversaries and Milestone Tributes",
+          "cyrillicTitle": "Understand familial milestones, celebration dates, honorees' ages, and commemorative wishes.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read anniversary tribute cards, newspaper notices, and social greetings honoring parents' silver/golden wedding milestones and retirement celebrations.",
+          "communicativeOutcome": "Understand familial milestones, celebration dates, honorees' ages, and commemorative wishes.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Warm, formal commemorative voice reading celebratory announcements.",
+          "grammarOverview": {
+            "summary": "Read anniversary tribute cards, newspaper notices, and social greetings honoring parents' silver/golden wedding milestones and retirement celebrations.",
+            "keyPoints": [
+              "obj_a1_56_05_read_milestone_tributes"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_56_05_milestone_interviews_listening_lab",
+          "title": "Acoustic Lab: Parsing Ages, Marriage Years, and Generations in Spoken Audio",
+          "cyrillicTitle": "Accurately record multi-digit dates, ages, and marital statuses from natural spoken interviews.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse rapid verbal interviews where individuals state their age, marriage date, children's ages, and generational milestones.",
+          "communicativeOutcome": "Accurately record multi-digit dates, ages, and marital statuses from natural spoken interviews.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic conversational interview audio with varied regional speakers.",
+          "grammarOverview": {
+            "summary": "Parse rapid verbal interviews where individuals state their age, marriage date, children's ages, and generational milestones.",
+            "keyPoints": [
+              "obj_a1_56_06_parse_demographic_audio"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_56_06_life_history_interview_synthesis",
+          "title": "Interactive Synthesis: Conducting a Life History and Milestone Interview",
+          "cyrillicTitle": "Conduct a comprehensive personal demographic interview with courteous tone and reciprocal sharing.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate a friendly biographical interview with a partner: asking about their age, birth year, zodiac sign, marital status, children, and family milestones.",
+          "communicativeOutcome": "Conduct a comprehensive personal demographic interview with courteous tone and reciprocal sharing.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary conversational exchange illustrating warm biographical interview.",
+          "grammarOverview": {
+            "summary": "Simulate a friendly biographical interview with a partner: asking about their age, birth year, zodiac sign, marital status, children, and family milestones.",
+            "keyPoints": [
+              "obj_a1_56_07_conduct_life_history_interview"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_57_ongoing_progressive_aspect_verbal_s",
+      "unitNumber": 57,
+      "title": "Ongoing Progressive Aspect: Verbal Suffix -ж байна",
+      "cyrillicTitle": "Describing actions taking place right now in real time",
+      "description": "Acquire and apply grammatical morphology (gram_a1_verb_aspect_progressive_j_baina) to fulfill communicative functions in: Ongoing Progressive Aspect: Verbal Suffix -ж байна.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_verb_aspect_progressive_j_baina",
+      "lessons": [
+        {
+          "id": "les_a1_57_01_progressive_aspect_j_baina_formation",
+          "title": "Happening Right Now: The Progressive Aspect -ж байна / -ч байна",
+          "cyrillicTitle": "State what one is doing right now and describe real-time ongoing actions of others (e.g. 'Би ном уншиж байна', 'Тэр цай ууж байна').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the present progressive aspect construction [Verb]-ж/-ч байна denoting actions ongoing right at the moment of speech ('is doing X right now') and phonological rules for selecting -ж vs -ч.",
+          "communicativeOutcome": "State what one is doing right now and describe real-time ongoing actions of others (e.g. 'Би ном уншиж байна', 'Тэр цай ууж байна').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear articulation of progressive converb endings and auxiliary 'байна'.",
+          "grammarOverview": {
+            "summary": "Introduce the present progressive aspect construction [Verb]-ж/-ч байна denoting actions ongoing right at the moment of speech ('is doing X right now') and phonological rules for selecting -ж vs -ч.",
+            "keyPoints": [
+              "obj_a1_57_01_form_progressive_aspect_j_baina"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_57_02_household_activities_and_chores_in_progress",
+          "title": "Around the House: Хоол Хийж Байна, Гэрээ Цэвэрлэж Байна",
+          "cyrillicTitle": "Describe household chores currently underway and explain what each family member is doing at home.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce domestic household action verbs (цэвэрлэх 'to clean', угаах 'to wash', засах 'to fix/tidy', хоол хийх 'to cook', индүүдэх 'to iron') in progressive ongoing frames.",
+          "communicativeOutcome": "Describe household chores currently underway and explain what each family member is doing at home.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Natural phone conversation cadence discussing ongoing household tasks.",
+          "grammarOverview": {
+            "summary": "Introduce domestic household action verbs (цэвэрлэх 'to clean', угаах 'to wash', засах 'to fix/tidy', хоол хийх 'to cook', индүүдэх 'to iron') in progressive ongoing frames.",
+            "keyPoints": [
+              "obj_a1_57_02_describe_household_chores_progressive"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_57_03_phone_availability_and_interruptions_drills",
+          "title": "Guided Practice: Phone Calls, Busy Signals, and Одоо Завгүй Байна",
+          "cyrillicTitle": "Politely manage phone calls while busy, explaining current activities and proposing later follow-up.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate answering phone calls, stating ongoing activities, and explaining temporary unavailability ('Би одоо хичээл хийж байна, дараа залгая').",
+          "communicativeOutcome": "Politely manage phone calls while busy, explaining current activities and proposing later follow-up.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic mobile phone ringtones and brisk conversational speech.",
+          "grammarOverview": {
+            "summary": "Automate answering phone calls, stating ongoing activities, and explaining temporary unavailability ('Би одоо хичээл хийж байна, дараа залгая').",
+            "keyPoints": [
+              "obj_a1_57_03_manage_phone_calls_progressive"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_57_04_live_action_and_event_reports_reading",
+          "title": "Reading Workshop: Live Social Feeds and Real-Time Event Reports",
+          "cyrillicTitle": "Extract ongoing actions, participant positions, and event dynamics from real-time text updates.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read live text feeds, sports commentary updates, and event status streams describing what is happening on the field or festival grounds right now.",
+          "communicativeOutcome": "Extract ongoing actions, participant positions, and event dynamics from real-time text updates.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Energetic commentator voice reading live status feeds.",
+          "grammarOverview": {
+            "summary": "Read live text feeds, sports commentary updates, and event status streams describing what is happening on the field or festival grounds right now.",
+            "keyPoints": [
+              "obj_a1_57_04_read_live_event_updates"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_57_05_busy_household_listening_lab",
+          "title": "Acoustic Lab: Parsing Ambient Activity and Multi-Tasking in Spoken Audio",
+          "cyrillicTitle": "Accurately correlate background soundscapes with stated ongoing progressive actions.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse complex spoken audio featuring multiple background domestic noises (cooking, vacuuming, television) where speakers narrate ongoing activities.",
+          "communicativeOutcome": "Accurately correlate background soundscapes with stated ongoing progressive actions.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Rich ambient acoustic scenes with authentic domestic background sounds.",
+          "grammarOverview": {
+            "summary": "Parse complex spoken audio featuring multiple background domestic noises (cooking, vacuuming, television) where speakers narrate ongoing activities.",
+            "keyPoints": [
+              "obj_a1_57_05_parse_ongoing_actions_audio"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_57_06_live_broadcast_synthesis",
+          "title": "Interactive Synthesis: Live Video Call and Activity Commentary",
+          "cyrillicTitle": "Conduct a fluid, spontaneous video call exchange narrating real-time surroundings and ongoing actions.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate a live video call between two friends in different locations: showing one's surroundings, asking what the other is doing right now, and commenting on activities in progress.",
+          "communicativeOutcome": "Conduct a fluid, spontaneous video call exchange narrating real-time surroundings and ongoing actions.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary conversational exchange illustrating lively video call commentary.",
+          "grammarOverview": {
+            "summary": "Simulate a live video call between two friends in different locations: showing one's surroundings, asking what the other is doing right now, and commenting on activities in progress.",
+            "keyPoints": [
+              "obj_a1_57_06_conduct_video_call_commentary"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_58_perfective_past_participle_suffixes",
+      "unitNumber": 58,
+      "title": "Perfective Past Participle: Suffixes -сан",
+      "cyrillicTitle": "Narrating completed past achievements and historical facts",
+      "description": "Acquire and apply grammatical morphology (gram_a1_verb_tense_past_perfective_san) to fulfill communicative functions in: Perfective Past Participle: Suffixes -сан.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_verb_tense_past_perfective_san",
+      "lessons": [
+        {
+          "id": "les_a1_58_01_perfective_past_san_allomorphs",
+          "title": "Completed Achievements: The Perfective Past Participle -сан/-сэн/-сон/-сөн",
+          "cyrillicTitle": "State completed past actions, historical facts, and educational/career milestones (e.g. 'Би их сургууль төгссөн' - I graduated from university).",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the perfective past participle suffix -сан/-сэн/-сон/-сөн denoting completed past actions, facts, and life achievements, governed by four-way vowel harmony.",
+          "communicativeOutcome": "State completed past actions, historical facts, and educational/career milestones (e.g. 'Би их сургууль төгссөн' - I graduated from university).",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear articulation of perfective past allomorphs across vowel classes.",
+          "grammarOverview": {
+            "summary": "Introduce the perfective past participle suffix -сан/-сэн/-сон/-сөн denoting completed past actions, facts, and life achievements, governed by four-way vowel harmony.",
+            "keyPoints": [
+              "obj_a1_58_01_form_perfective_past_san"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_58_02_past_interrogatives_and_negatives_san_uu_gui",
+          "title": "Questions and Negation: -сан уу? and -аагүй / -сангүй",
+          "cyrillicTitle": "Ask whether someone completed an action and answer affirmatively or negatively.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce perfective past questions with '... -сан уу?' (Did you...?) and past negation using '... -аагүй' (haven't yet / didn't) and '... -сангүй' (did not).",
+          "communicativeOutcome": "Ask whether someone completed an action and answer affirmatively or negatively.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Natural conversational inquiry cadence with rising question intonation.",
+          "grammarOverview": {
+            "summary": "Introduce perfective past questions with '... -сан уу?' (Did you...?) and past negation using '... -аагүй' (haven't yet / didn't) and '... -сангүй' (did not).",
+            "keyPoints": [
+              "obj_a1_58_02_ask_and_negate_perfective_past"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_58_03_travel_and_life_experience_guided_drills",
+          "title": "Guided Practice: Places Visited and Experiences Had",
+          "cyrillicTitle": "Describe past travels, literary experiences, and cultural encounters in structured conversation.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate sharing life experiences, places visited, and books read using the perfective past ('Би Хөвсгөл нуур явсан', 'Тэр энэ номыг уншсан').",
+          "communicativeOutcome": "Describe past travels, literary experiences, and cultural encounters in structured conversation.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Warm conversational audio sharing memorable vacation memories.",
+          "grammarOverview": {
+            "summary": "Automate sharing life experiences, places visited, and books read using the perfective past ('Би Хөвсгөл нуур явсан', 'Тэр энэ номыг уншсан').",
+            "keyPoints": [
+              "obj_a1_58_03_describe_past_experiences"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_58_04_autobiographical_essays_reading",
+          "title": "Reading Workshop: Short Autobiographical Essays and Profiles",
+          "cyrillicTitle": "Extract chronological milestones, schools attended, and career achievements from written autobiographies.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read 80-word personal autobiographies describing birth, schooling, career moves, and current life.",
+          "communicativeOutcome": "Extract chronological milestones, schools attended, and career achievements from written autobiographies.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear, dignified narration reading autobiographical reflections.",
+          "grammarOverview": {
+            "summary": "Read 80-word personal autobiographies describing birth, schooling, career moves, and current life.",
+            "keyPoints": [
+              "obj_a1_58_04_read_autobiographies"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_58_05_life_stories_listening_lab",
+          "title": "Acoustic Lab: Parsing Past Narratives and Accomplishments in Fast Audio",
+          "cyrillicTitle": "Accurately record past accomplishments, dates, and qualifications from spoken personal accounts.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse rapid verbal narratives where speakers summarize their life accomplishments, career shifts, and past experiences.",
+          "communicativeOutcome": "Accurately record past accomplishments, dates, and qualifications from spoken personal accounts.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic narrative recordings featuring diverse speaker accents and pacing.",
+          "grammarOverview": {
+            "summary": "Parse rapid verbal narratives where speakers summarize their life accomplishments, career shifts, and past experiences.",
+            "keyPoints": [
+              "obj_a1_58_05_parse_past_narratives_audio"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_58_06_section_05_mid_checkpoint",
+          "title": "Section 5 Mid-Section Checkpoint: Kinship, Possession, and Life History",
+          "cyrillicTitle": "Demonstrate integrated communicative proficiency describing family relations, asserting possession, discussing life milestones, reporting real-time activities, and narrating past accomplishments.",
+          "estimatedMinutes": 15,
+          "lessonType": "checkpoint",
+          "primaryPurpose": "Comprehensive diagnostic evaluation assessing cumulative mastery across Section 5 Units 54-58: nuclear kinship, genitive possession (-ын/-ийн), possessive pronouns (миний, манай, хэнийх), family milestones and ages, progressive aspect (-ж байна), and perfective past achievements (-сан).",
+          "communicativeOutcome": "Demonstrate integrated communicative proficiency describing family relations, asserting possession, discussing life milestones, reporting real-time activities, and narrating past accomplishments.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Integrated multi-speaker diagnostic assessment audio.",
+          "grammarOverview": {
+            "summary": "Comprehensive diagnostic evaluation assessing cumulative mastery across Section 5 Units 54-58: nuclear kinship, genitive possession (-ын/-ийн), possessive pronouns (миний, манай, хэнийх), family milestones and ages, progressive aspect (-ж байна), and perfective past achievements (-сан).",
+            "keyPoints": [
+              "obj_a1_58_06_section_05_mid_mastery"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_59_prospective_future_marker_suffixes_",
+      "unitNumber": 59,
+      "title": "Prospective Future Marker: Suffixes -на",
+      "cyrillicTitle": "Announcing planned activities and near-future commitments",
+      "description": "Acquire and apply grammatical morphology (gram_a1_verb_tense_future_prospective_na) to fulfill communicative functions in: Prospective Future Marker: Suffixes -на.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_verb_tense_future_prospective_na",
+      "lessons": [
+        {
+          "id": "les_a1_59_01_prospective_future_na_allomorphs",
+          "title": "Looking Ahead: The Prospective Future Marker -на/-нэ/-но/-нө",
+          "cyrillicTitle": "State scheduled future actions, upcoming meetings, and tomorrow's plans (e.g. 'Би маргааш явна', 'Бид орой уулзана').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the prospective future marker suffix -на/-нэ/-но/-нө denoting definite upcoming actions, scheduled events, and commitments, governed by four-way vowel harmony.",
+          "communicativeOutcome": "State scheduled future actions, upcoming meetings, and tomorrow's plans (e.g. 'Би маргааш явна', 'Бид орой уулзана').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear articulation of future tense suffixes across vowel classes.",
+          "grammarOverview": {
+            "summary": "Introduce the prospective future marker suffix -на/-нэ/-но/-нө denoting definite upcoming actions, scheduled events, and commitments, governed by four-way vowel harmony.",
+            "keyPoints": [
+              "obj_a1_59_01_form_prospective_future_na"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_59_02_future_temporal_anchors_and_plans",
+          "title": "Future Anchors: Ирэх Долоо Хоногт, Дараа Сард, and Цаашид",
+          "cyrillicTitle": "Anchor prospective actions to specific future dates and timeframes with precision.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce future time expressions: ирэх долоо хоногт 'next week', ирэх сард 'next month', дараа жил 'next year', удахгүй 'soon', цаашид 'in the future'.",
+          "communicativeOutcome": "Anchor prospective actions to specific future dates and timeframes with precision.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Brisk, forward-looking schedule planning cadence.",
+          "grammarOverview": {
+            "summary": "Introduce future time expressions: ирэх долоо хоногт 'next week', ирэх сард 'next month', дараа жил 'next year', удахгүй 'soon', цаашид 'in the future'.",
+            "keyPoints": [
+              "obj_a1_59_02_anchor_future_plans"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_59_03_weekend_commitments_guided_drills",
+          "title": "Guided Practice: Coordinating Weekend Plans and Mutual Appointments",
+          "cyrillicTitle": "Negotiate meeting times, propose activities, and confirm upcoming social arrangements.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate negotiating weekend plans, setting up appointments, and asking 'Та амралтын өдрүүдээр юу хийх вэ?' with coordinated responses.",
+          "communicativeOutcome": "Negotiate meeting times, propose activities, and confirm upcoming social arrangements.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Warm conversational audio planning social gatherings.",
+          "grammarOverview": {
+            "summary": "Automate negotiating weekend plans, setting up appointments, and asking 'Та амралтын өдрүүдээр юу хийх вэ?' with coordinated responses.",
+            "keyPoints": [
+              "obj_a1_59_03_coordinate_future_plans"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_59_04_itineraries_and_schedules_reading",
+          "title": "Reading Workshop: Travel Tour Itineraries and Conference Schedules",
+          "cyrillicTitle": "Extract departure times, destination venues, and scheduled activities from written itineraries.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read 80-word official schedules and travel itineraries detailing departure times, scheduled site visits, and meal hours across 3 days.",
+          "communicativeOutcome": "Extract departure times, destination venues, and scheduled activities from written itineraries.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear, professional voice reading official tour schedules.",
+          "grammarOverview": {
+            "summary": "Read 80-word official schedules and travel itineraries detailing departure times, scheduled site visits, and meal hours across 3 days.",
+            "keyPoints": [
+              "obj_a1_59_04_read_future_itineraries"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_59_05_schedule_announcements_listening_lab",
+          "title": "Acoustic Lab: Parsing Public Schedule Changes and Future Announcements",
+          "cyrillicTitle": "Accurately record future dates, changed hours, and scheduled activities from spoken public broadcasts.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse rapid verbal announcements regarding transit schedules, opening hours changes, and upcoming event dates.",
+          "communicativeOutcome": "Accurately record future dates, changed hours, and scheduled activities from spoken public broadcasts.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic public transit PA announcements with authentic acoustics.",
+          "grammarOverview": {
+            "summary": "Parse rapid verbal announcements regarding transit schedules, opening hours changes, and upcoming event dates.",
+            "keyPoints": [
+              "obj_a1_59_05_parse_future_announcements_audio"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_59_06_future_plans_interview_synthesis",
+          "title": "Interactive Synthesis: Planning Next Year and Life Goals",
+          "cyrillicTitle": "Conduct a fluid, forward-looking discussion articulating personal aspirations and near-future commitments.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Conduct an extended conversational interview discussing future plans: what you will do next weekend, where you will travel next summer, and what you will study next year.",
+          "communicativeOutcome": "Conduct a fluid, forward-looking discussion articulating personal aspirations and near-future commitments.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary conversational exchange illustrating forward-looking goal sharing.",
+          "grammarOverview": {
+            "summary": "Conduct an extended conversational interview discussing future plans: what you will do next weekend, where you will travel next summer, and what you will study next year.",
+            "keyPoints": [
+              "obj_a1_59_06_conduct_future_plans_interview"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_60_prohibitive_imperative_the_particle",
+      "unitNumber": 60,
+      "title": "Prohibitive Imperative: The Particle Битгий",
+      "cyrillicTitle": "Issuing warnings and polite prohibitions ('Битгий хоцроорой')",
+      "description": "Acquire and apply grammatical morphology (gram_a1_verb_prohibitive_bitgii, gram_a1_verb_urging_optative_aach, gram_a1_verb_jussive_third_person_g) to fulfill communicative functions in: Prohibitive Imperative: The Particle Битгий.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_verb_prohibitive_bitgii, gram_a1_verb_urging_optative_aach, gram_a1_verb_jussive_third_person_g",
+      "lessons": [
+        {
+          "id": "les_a1_60_01_prohibitive_particle_bitgii",
+          "title": "Don't Do That: The Prohibitive Particle Битгий and -аарай",
+          "cyrillicTitle": "Issue polite prohibitions, safety warnings, and comforting reassurances against negative actions.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the prohibitive particle 'битгий' placed before bare imperatives or polite imperative suffixes (-аарай/-ээрэй/-оорой/-өөрэй) to express polite warnings and negative commands ('Битгий хоцроорой', 'Битгий санаа зов').",
+          "communicativeOutcome": "Issue polite prohibitions, safety warnings, and comforting reassurances against negative actions.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Gentle, caring prosody conveying reassurance ('Битгий санаа зовоорой').",
+          "grammarOverview": {
+            "summary": "Introduce the prohibitive particle 'битгий' placed before bare imperatives or polite imperative suffixes (-аарай/-ээрэй/-оорой/-өөрэй) to express polite warnings and negative commands ('Битгий хоцроорой', 'Битгий санаа зов').",
+            "keyPoints": [
+              "obj_a1_60_01_form_prohibitive_bitgii"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_60_02_urging_optative_aach_and_jussive_g",
+          "title": "Urgent Requests and Third-Person Wishes: -аач/-ээч and -г",
+          "cyrillicTitle": "Make heartfelt urgent requests to peers and express third-person permissions or blessings.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce the urging optative suffix -аач/-ээч/-ооч/-өөч ('please do!', urgent entreaty) and third-person jussive/permissive suffix -г ('let him/them do!').",
+          "communicativeOutcome": "Make heartfelt urgent requests to peers and express third-person permissions or blessings.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Expressive intonation conveying earnest entreaty and goodwill.",
+          "grammarOverview": {
+            "summary": "Introduce the urging optative suffix -аач/-ээч/-ооч/-өөч ('please do!', urgent entreaty) and third-person jussive/permissive suffix -г ('let him/them do!').",
+            "keyPoints": [
+              "obj_a1_60_02_form_urging_optative_aach",
+              "obj_a1_60_03_form_third_person_jussive_g"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_60_03_safety_rules_and_reminders_guided_drills",
+          "title": "Guided Practice: Safety Instructions, Lab Etiquette, and Classroom Rules",
+          "cyrillicTitle": "Explain school and workplace safety rules, caution colleagues, and follow safety protocols.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate generating and responding to safety instructions, prohibitions, and classroom guidelines using 'Битгий [Verb]-аарай' and affirmative directives.",
+          "communicativeOutcome": "Explain school and workplace safety rules, caution colleagues, and follow safety protocols.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Clear, instructional briefing voice delivering safety protocols.",
+          "grammarOverview": {
+            "summary": "Automate generating and responding to safety instructions, prohibitions, and classroom guidelines using 'Битгий [Verb]-аарай' and affirmative directives.",
+            "keyPoints": [
+              "obj_a1_60_04_deliver_safety_instructions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_60_04_museum_and_library_notices_reading",
+          "title": "Reading Workshop: Museum Regulations and Public Notice Boards",
+          "cyrillicTitle": "Understand public regulations, photography bans, quiet zones, and security instructions in public buildings.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read official public notices, museum behavior guidelines, and library silence regulations featuring prohibitive and imperative constructions.",
+          "communicativeOutcome": "Understand public regulations, photography bans, quiet zones, and security instructions in public buildings.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Formal administrative voice reading museum guidelines.",
+          "grammarOverview": {
+            "summary": "Read official public notices, museum behavior guidelines, and library silence regulations featuring prohibitive and imperative constructions.",
+            "keyPoints": [
+              "obj_a1_60_05_read_public_regulations"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_60_05_urgent_warnings_listening_lab",
+          "title": "Acoustic Lab: Parsing Sudden Warnings and Cautionary Shouts in Spoken Audio",
+          "cyrillicTitle": "Instantly react to spoken cautions ('Болгоомжтой!', 'Битгий гишгээрэй!') and extract the hazard described.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse rapid verbal cautions, urgent entreaties, and warnings shouted in noisy public environments (traffic, construction, icy sidewalks).",
+          "communicativeOutcome": "Instantly react to spoken cautions ('Болгоомжтой!', 'Битгий гишгээрэй!') and extract the hazard described.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic urgent audio with environmental sound effects (slipping, traffic horn).",
+          "grammarOverview": {
+            "summary": "Parse rapid verbal cautions, urgent entreaties, and warnings shouted in noisy public environments (traffic, construction, icy sidewalks).",
+            "keyPoints": [
+              "obj_a1_60_06_parse_warning_audio"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_60_06_laboratory_tour_briefing_synthesis",
+          "title": "Interactive Synthesis: Conducting a Site Tour and Enforcing Guidelines",
+          "cyrillicTitle": "Conduct a fluid, authoritative yet courteous tour dialogue balancing permissions with prohibitions.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate guiding a new visitor through a sensitive workplace or museum: showing exhibits, giving affirmative guidance, warning about restricted areas, and asking earnest cooperation.",
+          "communicativeOutcome": "Conduct a fluid, authoritative yet courteous tour dialogue balancing permissions with prohibitions.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary conversational exchange illustrating professional site tour etiquette.",
+          "grammarOverview": {
+            "summary": "Simulate guiding a new visitor through a sensitive workplace or museum: showing exhibits, giving affirmative guidance, warning about restricted areas, and asking earnest cooperation.",
+            "keyPoints": [
+              "obj_a1_60_07_conduct_tour_briefing"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_61_spatial_postpositions_",
+      "unitNumber": 61,
+      "title": "Spatial Postpositions: Дээр, Доор, Дотор, Гадаа",
+      "cyrillicTitle": "Locating household items relative to surfaces and enclosures",
+      "description": "Acquire and apply grammatical morphology (gram_a1_spatial_postpositions_deeree_door, gram_a1_pronouns_personal_oblique_stems) to fulfill communicative functions in: Spatial Postpositions: Дээр, Доор, Дотор, Гадаа.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_spatial_postpositions_deeree_door, gram_a1_pronouns_personal_oblique_stems",
+      "lessons": [
+        {
+          "id": "les_a1_61_01_spatial_postpositions_deer_door_dotor_gadaa",
+          "title": "On, Under, Inside, and Outside: Дээр, Доор, Дотор, and Гадаа",
+          "cyrillicTitle": "Locate household items, furniture, and persons relative to surfaces and enclosures (e.g. 'Ширээн дээр ном байна', 'Гэрийн гадаа морь байна').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce primary spatial postpositions taking base or genitive noun complements: дээр 'on/above', доор 'under/below', дотор 'inside', гадаа 'outside', and contrast them with simple case suffixes.",
+          "communicativeOutcome": "Locate household items, furniture, and persons relative to surfaces and enclosures (e.g. 'Ширээн дээр ном байна', 'Гэрийн гадаа морь байна').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear articulation of postposition long vowels (дээр, доор).",
+          "grammarOverview": {
+            "summary": "Introduce primary spatial postpositions taking base or genitive noun complements: дээр 'on/above', доор 'under/below', дотор 'inside', гадаа 'outside', and contrast them with simple case suffixes.",
+            "keyPoints": [
+              "obj_a1_61_01_form_spatial_postpositions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_61_02_oblique_personal_pronoun_stems_nadad_chamd",
+          "title": "To Me, To You: Oblique Pronoun Stems Надад, Чамд, Түүнд, and Бидэнд",
+          "cyrillicTitle": "Address actions toward personal pronouns as indirect objects, recipients, and sources (e.g. 'Надад өгөөч', 'Чамд баярлалаа').",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce the suppletive oblique personal pronoun stems and their case forms: надад/надаас/намайг (from би), чамд/чамаас/чамайг (from чи), түүнд/түүнээс/түүнийг (from тэр), бидэнд (from бид).",
+          "communicativeOutcome": "Address actions toward personal pronouns as indirect objects, recipients, and sources (e.g. 'Надад өгөөч', 'Чамд баярлалаа').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Natural conversational cadence directing objects between speakers.",
+          "grammarOverview": {
+            "summary": "Introduce the suppletive oblique personal pronoun stems and their case forms: надад/надаас/намайг (from би), чамд/чамаас/чамайг (from чи), түүнд/түүнээс/түүнийг (from тэр), бидэнд (from бид).",
+            "keyPoints": [
+              "obj_a1_61_02_form_oblique_pronoun_stems"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_61_03_ger_layout_and_household_orientation_drills",
+          "title": "Guided Practice: Ger Layout, Khoimor, and Traditional Spatial Orientation",
+          "cyrillicTitle": "Explain room layouts, describe traditional ger seating etiquette, and direct visitors to specific spaces.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate spatial descriptions within traditional and modern living quarters: хоймор 'honorific rear/north', баруун тал 'west/right side', зүүн тал 'east/left side', үүд 'entrance/south', and placement of household items.",
+          "communicativeOutcome": "Explain room layouts, describe traditional ger seating etiquette, and direct visitors to specific spaces.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Warm host voice directing guests with respectful spatial terminology.",
+          "grammarOverview": {
+            "summary": "Automate spatial descriptions within traditional and modern living quarters: хоймор 'honorific rear/north', баруун тал 'west/right side', зүүн тал 'east/left side', үүд 'entrance/south', and placement of household items.",
+            "keyPoints": [
+              "obj_a1_61_03_describe_ger_spatial_layout"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_61_04_interior_design_and_apartment_tours_reading",
+          "title": "Reading Workshop: Apartment Floor Plans and Rental Listings",
+          "cyrillicTitle": "Extract room counts, furniture placements, window orientations, and rental amenities from property listings.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read 80-word apartment rental descriptions and furniture floor plans detailing room dimensions, balcony positions, and kitchen appliances.",
+          "communicativeOutcome": "Extract room counts, furniture placements, window orientations, and rental amenities from property listings.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Professional real estate agent voice reading property listings.",
+          "grammarOverview": {
+            "summary": "Read 80-word apartment rental descriptions and furniture floor plans detailing room dimensions, balcony positions, and kitchen appliances.",
+            "keyPoints": [
+              "obj_a1_61_04_read_apartment_listings"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_61_05_locating_lost_items_listening_lab",
+          "title": "Acoustic Lab: Parsing Rapid Search Directions for Misplaced Items",
+          "cyrillicTitle": "Accurately pinpoint object locations based on fast spatial audio descriptions.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse rapid verbal instructions directing someone where to find keys, glasses, or documents inside a cluttered room or office.",
+          "communicativeOutcome": "Accurately pinpoint object locations based on fast spatial audio descriptions.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic hurried phone audio looking for misplaced keys and tickets.",
+          "grammarOverview": {
+            "summary": "Parse rapid verbal instructions directing someone where to find keys, glasses, or documents inside a cluttered room or office.",
+            "keyPoints": [
+              "obj_a1_61_05_parse_spatial_directions_audio"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_61_06_arranging_the_room_synthesis",
+          "title": "Interactive Synthesis: Rearranging Furniture and Organizing the Home",
+          "cyrillicTitle": "Conduct a fluid, collaborative domestic planning dialogue organizing physical space effectively.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate moving into a new apartment or rearranging a ger: discussing where the desk, bed, bookshelf, and stove should go, giving mutual directions, and finalizing the layout.",
+          "communicativeOutcome": "Conduct a fluid, collaborative domestic planning dialogue organizing physical space effectively.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary conversational exchange illustrating collaborative room organization.",
+          "grammarOverview": {
+            "summary": "Simulate moving into a new apartment or rearranging a ger: discussing where the desk, bed, bookshelf, and stove should go, giving mutual directions, and finalizing the layout.",
+            "keyPoints": [
+              "obj_a1_61_06_coordinate_room_arrangement"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_62_weather_temperatures_seasonal_sensa",
+      "unitNumber": 62,
+      "title": "Weather, Temperatures & Seasonal Sensations",
+      "cyrillicTitle": "Describing weather conditions (нар, бороо, цас, хүйтэн, халуун)",
+      "description": "Acquire and apply grammatical morphology (gram_a1_case_ablative_comparative, gram_a1_pronouns_demonstrative_case_declension, gram_a1_interrogatives_case_declension) to fulfill communicative functions in: Weather, Temperatures & Seasonal Sensations.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_case_ablative_comparative, gram_a1_pronouns_demonstrative_case_declension, gram_a1_interrogatives_case_declension",
+      "lessons": [
+        {
+          "id": "les_a1_62_01_weather_phenomena_and_temperatures",
+          "title": "Sun, Rain, Snow, and Degrees: Нар, Бороо, Цас, and Градус",
+          "cyrillicTitle": "Describe daily weather conditions, read thermometers, and state temperatures (e.g. 'Өнөөдөр цас орж байна, хасах арван таван градус').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce core meteorological vocabulary (нар 'sun', бороо 'rain', цас 'snow', салхи 'wind', хүйтэн 'cold', халуун 'hot', дулаан 'warm', сэрүүн 'cool') and temperature reports using 'градус' with positive/negative numbers.",
+          "communicativeOutcome": "Describe daily weather conditions, read thermometers, and state temperatures (e.g. 'Өнөөдөр цас орж байна, хасах арван таван градус').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear meteorological broadcast delivery style.",
+          "grammarOverview": {
+            "summary": "Introduce core meteorological vocabulary (нар 'sun', бороо 'rain', цас 'snow', салхи 'wind', хүйтэн 'cold', халуун 'hot', дулаан 'warm', сэрүүн 'cool') and temperature reports using 'градус' with positive/negative numbers.",
+            "keyPoints": [
+              "obj_a1_62_01_describe_weather_conditions",
+              "obj_a1_62_02_report_temperatures"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_62_02_comparative_weather_with_ablative_aasaa",
+          "title": "Colder Than Yesterday: Comparative Weather with Ablative -аас/-ээс",
+          "cyrillicTitle": "Compare weather across days, cities, and seasons (e.g. 'Өнөөдөр өчигдрөөс хүйтэн байна', 'Улаанбаатар Дарханаас хүйтэн').",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce the comparative construction using the ablative case -аас/-ээс/-оос/-өөс ('[Noun]-аас илүү хүйтэн' / '[Noun]-аас дулаан' - colder/warmer than X) and demonstrative pronoun case declensions (үүнээс, түүнээс).",
+          "communicativeOutcome": "Compare weather across days, cities, and seasons (e.g. 'Өнөөдөр өчигдрөөс хүйтэн байна', 'Улаанбаатар Дарханаас хүйтэн').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Natural conversational comparison prosody highlighting differences.",
+          "grammarOverview": {
+            "summary": "Introduce the comparative construction using the ablative case -аас/-ээс/-оос/-өөс ('[Noun]-аас илүү хүйтэн' / '[Noun]-аас дулаан' - colder/warmer than X) and demonstrative pronoun case declensions (үүнээс, түүнээс).",
+            "keyPoints": [
+              "obj_a1_62_03_form_comparative_ablative"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_62_03_four_seasons_and_clothing_guided_drills",
+          "title": "Guided Practice: Four Seasons, Seasonal Clothing, and Daily Sensation",
+          "cyrillicTitle": "Describe seasons, express bodily sensations of heat/cold, and advise others on suitable attire.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate discussions of the four seasons (хавар 'spring', зун 'summer', намар 'autumn', өвөл 'winter'), seasonal sensations (даарах 'to feel cold', халууцах 'to feel hot'), and dressing appropriately (дулаан хувцаслаарай).",
+          "communicativeOutcome": "Describe seasons, express bodily sensations of heat/cold, and advise others on suitable attire.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Warm, caring parental voice offering practical weather advice.",
+          "grammarOverview": {
+            "summary": "Automate discussions of the four seasons (хавар 'spring', зун 'summer', намар 'autumn', өвөл 'winter'), seasonal sensations (даарах 'to feel cold', халууцах 'to feel hot'), and dressing appropriately (дулаан хувцаслаарай).",
+            "keyPoints": [
+              "obj_a1_62_04_discuss_seasons_and_clothing"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_62_04_meteorological_reports_reading",
+          "title": "Reading Workshop: National Weather Bulletins and Seasonal Forecasts",
+          "cyrillicTitle": "Understand official storm warnings, road condition alerts, and regional weather forecasts in print and online media.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read 80-word official National Meteorological Agency weather bulletins detailing regional storm alerts, wind speeds, and temperature drops across the country.",
+          "communicativeOutcome": "Understand official storm warnings, road condition alerts, and regional weather forecasts in print and online media.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Professional broadcast announcer reading national weather bulletin.",
+          "grammarOverview": {
+            "summary": "Read 80-word official National Meteorological Agency weather bulletins detailing regional storm alerts, wind speeds, and temperature drops across the country.",
+            "keyPoints": [
+              "obj_a1_62_05_read_weather_bulletins"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_62_05_radio_forecast_listening_lab",
+          "title": "Acoustic Lab: Parsing Rapid Radio and TV Weather Broadcasts",
+          "cyrillicTitle": "Accurately record temperatures and weather phenomena across different aimags from spoken media.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse fast professional weather broadcasts on radio and television featuring rapid numerical listings of temperatures and weather conditions across all Mongolian regions.",
+          "communicativeOutcome": "Accurately record temperatures and weather phenomena across different aimags from spoken media.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic fast-paced radio weather report with signature jingle.",
+          "grammarOverview": {
+            "summary": "Parse fast professional weather broadcasts on radio and television featuring rapid numerical listings of temperatures and weather conditions across all Mongolian regions.",
+            "keyPoints": [
+              "obj_a1_62_06_parse_weather_broadcasts_audio"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_62_06_travel_packing_and_weather_synthesis",
+          "title": "Interactive Synthesis: Weather Debrief and Travel Packing Consultation",
+          "cyrillicTitle": "Conduct a fluid, practical weather consultation dialogue ensuring proper travel preparation.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate consulting a friend before an upcoming trip to the countryside: checking the regional forecast, comparing it with the capital, and agreeing on what warm clothes and gear to pack.",
+          "communicativeOutcome": "Conduct a fluid, practical weather consultation dialogue ensuring proper travel preparation.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary conversational exchange illustrating travel weather consultation.",
+          "grammarOverview": {
+            "summary": "Simulate consulting a friend before an upcoming trip to the countryside: checking the regional forecast, comparing it with the capital, and agreeing on what warm clothes and gear to pack.",
+            "keyPoints": [
+              "obj_a1_62_07_consult_travel_weather_packing"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_63_a1_capstone_family_story_living_env",
+      "unitNumber": 63,
+      "title": "A1 Capstone: Family Story & Living Environment",
+      "cyrillicTitle": "Synthesizing kinship, possession, routines, and physical space",
+      "description": "Consolidate, integrate, and demonstrate communicative mastery of A1 Capstone: Family Story & Living Environment through simulated holistic tasks.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "Synthesizing kinship, possession, routines, and physical space",
+      "lessons": [
+        {
+          "id": "les_a1_63_01_my_hometown_and_origins_synthesis",
+          "title": "A1 Capstone 1: My Hometown, Ancestral Roots, and Landscape",
+          "cyrillicTitle": "Deliver an expressive, structured oral and written description of one's hometown and ancestral origin.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Synthesize descriptive vocabulary for hometowns, natural landscapes (уул, гол, тал, нуур), and ancestral origins ('Манай аавын нутаг Завханд байдаг') combining genitive, ablative, and spatial markers.",
+          "communicativeOutcome": "Deliver an expressive, structured oral and written description of one's hometown and ancestral origin.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Warm, poetic voice describing the open beauty of the Mongolian countryside.",
+          "grammarOverview": {
+            "summary": "Synthesize descriptive vocabulary for hometowns, natural landscapes (уул, гол, тал, нуур), and ancestral origins ('Манай аавын нутаг Завханд байдаг') combining genitive, ablative, and spatial markers.",
+            "keyPoints": [
+              "obj_a1_63_01_synthesize_hometown_origins"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_63_02_three_generations_family_narrative",
+          "title": "A1 Capstone 2: Three Generations - Grandparents, Parents, and Children",
+          "cyrillicTitle": "Narrate an extensive family history spanning three generations with chronological and relational clarity.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Synthesize three-generation family narratives (өвөө, эмээ, аав, ээж, хүүхдүүд, ач, зээ) integrating past accomplishments (-сан), ongoing occupations (-ж байна), and ages.",
+          "communicativeOutcome": "Narrate an extensive family history spanning three generations with chronological and relational clarity.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Warm, multigenerational family narrative voice.",
+          "grammarOverview": {
+            "summary": "Synthesize three-generation family narratives (өвөө, эмээ, аав, ээж, хүүхдүүд, ач, зээ) integrating past accomplishments (-сан), ongoing occupations (-ж байна), and ages.",
+            "keyPoints": [
+              "obj_a1_63_02_synthesize_multigenerational_family"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_63_03_daily_life_and_living_space_synthesis",
+          "title": "A1 Capstone 3: Daily Life, Household Routines, and Domestic Living Space",
+          "cyrillicTitle": "Deliver a comprehensive overview of home life, describing physical living spaces and daily household patterns.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Synthesize descriptions of living spaces (ger/apartment), daily domestic routines (-даг), ongoing household tasks (-ж байна), and spatial arrangements (дээр, доор, дотор, гадаа).",
+          "communicativeOutcome": "Deliver a comprehensive overview of home life, describing physical living spaces and daily household patterns.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Warm, inviting host giving a virtual home tour.",
+          "grammarOverview": {
+            "summary": "Synthesize descriptions of living spaces (ger/apartment), daily domestic routines (-даг), ongoing household tasks (-ж байна), and spatial arrangements (дээр, доор, дотор, гадаа).",
+            "keyPoints": [
+              "obj_a1_63_03_synthesize_living_space_routines"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_63_04_grand_story_integration_reading",
+          "title": "A1 Capstone 4: Reading the Grand Mongolian Life Story",
+          "cyrillicTitle": "Demonstrate autonomous reading comprehension of full-length A1 narrative prose.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read an authentic 120-word multi-paragraph life chronicle integrating all core A1 domains: origin, schooling, marriage, children, home environment, weather, and future dreams.",
+          "communicativeOutcome": "Demonstrate autonomous reading comprehension of full-length A1 narrative prose.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Rich, resonant literary narrative voice reading the capstone life story.",
+          "grammarOverview": {
+            "summary": "Read an authentic 120-word multi-paragraph life chronicle integrating all core A1 domains: origin, schooling, marriage, children, home environment, weather, and future dreams.",
+            "keyPoints": [
+              "obj_a1_63_04_read_grand_a1_chronicle"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_63_05_capstone_dress_rehearsal_lab",
+          "title": "A1 Capstone 5: Comprehensive Dress Rehearsal and Acoustic Evaluation",
+          "cyrillicTitle": "Validate auditory comprehension across diverse speakers and rehearse full spoken delivery seamlessly.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Execute an intensive zero-vocabulary capstone dress rehearsal: multi-speaker acoustic evaluations, speed parsing of connected discourse, and self-diagnostic error checks prior to certification.",
+          "communicativeOutcome": "Validate auditory comprehension across diverse speakers and rehearse full spoken delivery seamlessly.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Comprehensive multi-speaker audio suite covering the entire A1 communicative repertoire.",
+          "grammarOverview": {
+            "summary": "Execute an intensive zero-vocabulary capstone dress rehearsal: multi-speaker acoustic evaluations, speed parsing of connected discourse, and self-diagnostic error checks prior to certification.",
+            "keyPoints": [
+              "obj_a1_63_05_execute_capstone_dress_rehearsal"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_63_06_a1_stage_final_certification_checkpoint",
+          "title": "A1 Stage Final Certification Checkpoint: The Mongolian Life Chronicle",
+          "cyrillicTitle": "Achieve full official CEFR A1 certification in Mongolian: engage in spontaneous survival transactions, present an extended family and life story, navigate physical space, and comprehend authentic everyday spoken and written texts.",
+          "estimatedMinutes": 15,
+          "lessonType": "checkpoint",
+          "primaryPurpose": "The definitive, authoritative summative certification checkpoint for the entire CEFR A1 Stage (Sections 1-5, Units 14-63). Evaluates comprehensive linguistic, pragmatic, communicative, and cultural competence across: (1) Identity, introductions, courtesy, and nominal clauses; (2) Physical space, quantities, commerce, and locative structures; (3) Daily routines, motion, transport, and temporality; (4) Food, dining, transactions, and hospitality protocol; and (5) Family kinship, possession, living environment, progressive aspect, past achievements, future commitments, and weather.",
+          "communicativeOutcome": "Achieve full official CEFR A1 certification in Mongolian: engage in spontaneous survival transactions, present an extended family and life story, navigate physical space, and comprehend authentic everyday spoken and written texts.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary formal certification audio testing all A1 listening modalities.",
+          "grammarOverview": {
+            "summary": "The definitive, authoritative summative certification checkpoint for the entire CEFR A1 Stage (Sections 1-5, Units 14-63). Evaluates comprehensive linguistic, pragmatic, communicative, and cultural competence across: (1) Identity, introductions, courtesy, and nominal clauses; (2) Physical space, quantities, commerce, and locative structures; (3) Daily routines, motion, transport, and temporality; (4) Food, dining, transactions, and hospitality protocol; and (5) Family kinship, possession, living environment, progressive aspect, past achievements, future commitments, and weather.",
+            "keyPoints": [
+              "obj_a1_63_06_a1_stage_final_certification_mastery"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    }
+  ]
+}

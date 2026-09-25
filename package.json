@@ -5,10 +5,16 @@
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
-    "build": "vite build",
+    "build": "npm run verify:freeze && npm run build:curriculum && vite build",
     "preview": "vite preview",
     "clean": "rm -rf dist server.js",
-    "lint": "tsc --noEmit"
+    "lint": "tsc --noEmit",
+    "verify:freeze": "python3 scripts/verify_curriculum_freeze.py",
+    "build:curriculum": "python3 scripts/build_runtime_curriculum.py",
+    "validate:exercises": "python3 scripts/validate_exercise_schema.py",
+    "audit:pilot": "python3 scripts/audit_pilot_suite.py",
+    "reconcile:pilot": "python3 scripts/reconcile_pilot_dataset.py",
+    "check:all": "npm run verify:freeze && npm run validate:exercises && npm run audit:pilot && npm run lint"
   },
   "dependencies": {
     "@google/genai": "^2.4.0",

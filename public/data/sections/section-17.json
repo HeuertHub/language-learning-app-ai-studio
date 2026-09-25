@@ -1,0 +1,2174 @@
+{
+  "sectionId": "sec_b2_01_public_policy_civil_society_media",
+  "sectionNumber": 17,
+  "title": "Public Policy, Civil Society, Governance & Media Discourse",
+  "cyrillicTitle": "Төрийн бодлого, иргэний нийгэм ба хэвлэл мэдээлэл",
+  "cefr": "B2",
+  "theme": "Analyze news editorials, critique government policies, participate in formal structured debates, moderate panel discussions, and draft press releases.",
+  "description": "Advance to the B2 vantage level by analyzing contemporary public issues, municipal governance in Ulaanbaatar, media reporting, civil society debates, and complex discourse syntax.",
+  "unitCount": 11,
+  "lessonCount": 51,
+  "exerciseCount": 15,
+  "units": [
+    {
+      "id": "unit_b2_156_democratic_governance_parliamentary",
+      "unitNumber": 156,
+      "title": "Democratic Governance & Parliamentary Architecture",
+      "cyrillicTitle": "Analyzing the State Great Khural (УИХ) and electoral systems",
+      "description": "Acquire and apply grammatical morphology (gram_b2_information_structure_topic_bol_harin) to fulfill communicative functions in: Democratic Governance & Parliamentary Architecture.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_information_structure_topic_bol_harin",
+      "lessons": [
+        {
+          "id": "les_b2_156_01_parliamentary_interpellation_listening",
+          "title": "Acoustic Dissection: Live Parliamentary Interpellation & Question Time",
+          "cyrillicTitle": "Extract legislative stance, minister accountability, and topic shifts from authentic parliamentary audio delivered at 145-160 wpm.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Perceive and interpret topic-framing morphology (бол vs харин) and legislative questioning cadence in live parliamentary interpellation sessions.",
+          "communicativeOutcome": "Extract legislative stance, minister accountability, and topic shifts from authentic parliamentary audio delivered at 145-160 wpm.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Expose learners to rapid multi-speaker parliamentary interpellation with natural overlapping turns.",
+          "grammarOverview": {
+            "summary": "Perceive and interpret topic-framing morphology (бол vs харин) and legislative questioning cadence in live parliamentary interpellation sessions.",
+            "keyPoints": [
+              "obj_b2_156_01_perceive_parliamentary_topic_framing"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_b2_156_01_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Acoustic Dissection: Identifying Interpellation Thrust",
+              "modality": "LISTENING_COMPREHENSION",
+              "interactionPattern": "AUDIO_COMPREHENSION",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "parliamentary_discourse_analysis",
+                "political_stance_identification"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "УИХ-ын асуулга",
+                "төсвийн зарцуулалт",
+                "хариуцлага тооцох"
+              ],
+              "prompt": "Listen to the Member of Parliament addressing the Minister of Finance during question time:\n\n'Улсын төсвийн тодотголд тусгагдсан нийтийн тээврийн парк шинэчлэлийн хөрөнгө оруулалт бодит байдал дээр ямар үр дүнд хүрсэн бэ? Энэ талаар холбогдох сайд тодорхой тайлбар өгнө үү.'\n\nWhat is the primary thrust of the MP's interpellation?",
+              "stimulusTextCyrillic": "Улсын төсвийн тодотголд тусгагдсан нийтийн тээврийн парк шинэчлэлийн хөрөнгө оруулалт бодит байдал дээр ямар үр дүнд хүрсэн бэ?",
+              "hint": "Focus on 'төсвийн тодотгол' (budget amendment) and 'бодит үр дүн' (actual tangible results).",
+              "options": [
+                {
+                  "id": "thrust_budget",
+                  "text": "Demanding accountability and concrete evidence on how budget funds for public transit fleet modernization were spent.",
+                  "cyrillic": "Нийтийн тээврийн төсвийн бодит үр дүнг шаардах",
+                  "isCorrect": true,
+                  "explanation": "Correct! The MP questions the tangible return on investment from public transit budget allocations."
+                },
+                {
+                  "id": "thrust_praise",
+                  "text": "Formally congratulating the minister on completing the transit modernization ahead of schedule.",
+                  "cyrillic": "Баяр хүргэх",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The tone is interrogative and skeptical."
+                },
+                {
+                  "id": "thrust_delay",
+                  "text": "Proposing that transit funding be canceled altogether.",
+                  "cyrillic": "Цуцлах",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The MP is pressing for implementation results, not cancellation."
+                }
+              ],
+              "correctAnswer": "Demanding accountability and concrete evidence on how budget funds for public transit fleet modernization were spent.",
+              "acceptableAlternatives": [
+                "Demanding accountability on transit budget spending",
+                "төсвийн зарцуулалтын үр дүнг шаардах"
+              ],
+              "explanation": "Parliamentary interpellation (асуулга) uses polite chancellery syntax ('тодорхой тайлбар өгнө үү') to demand rigorous executive accountability regarding public expenditures.",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! Sharp political acoustic decoding.",
+                "onFailure": "The MP is pressing the minister on the real results of the transit budget."
+              },
+              "detailedGrammarNote": "Interpellation syntax in the State Great Khural (УИХ) relies on relative participial heads ('төсвийн тодотголд тусгагдсан хөрөнгө оруулалт') followed by an open interrogative ('ямар үр дүнд хүрсэн бэ').",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Улсын төсвийн тодотголд тусгагдсан нийтийн тээврийн парк шинэчлэлийн хөрөнгө оруулалт бодит байдал дээр ямар үр дүнд хүрсэн бэ? Энэ талаар холбогдох сайд тодорхой тайлбар өгнө үү.",
+                "slowSpeechSynthesisText": "нийтийн тээврийн хөрөнгө оруулалт ямар үр дүнд хүрсэн бэ?",
+                "ipaTranscription": "/ʊɮsiːŋ tʰɵswiːŋ tʰɔtʰɔtʰɢɔɮtʰ tʰʊsɢəɡtsʰəŋ nʲiːtʰiːŋ tʰeːwriːŋ pʰarx ʃinətʃʰɮeɮiːŋ xɵrɵŋɡɵ ɔrʊːɮəɮtʰ pɔtʲitʰ pæːtəɮ tʰeːr jəmər ʊr tʰuntʰ xursəŋ pe/",
+                "speakerRole": "male_native",
+                "speechRate": 0.9,
+                "acousticEnvironment": "parliament_chamber"
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_b2_156_01_parliamentary_interpellation_listening",
+              "unitId": "unit_b2_156_democratic_governance_parliamentary",
+              "cefrLevel": "B2"
+            },
+            {
+              "exerciseId": "ex_b2_156_01_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "Diplomatic Courtesy vs Underlying Acoustic Tension",
+              "modality": "LISTENING_COMPREHENSION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "EVALUATE_PRAGMATICS",
+              "skillTargets": [
+                "diplomatic_irony_detection",
+                "subtext_comprehension"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "эрхэм сайд",
+                "үл ойлгогдох",
+                "эргэлзээ"
+              ],
+              "prompt": "Listen to the committee chair's remark to a testifying official:\n\n'Эрхэм сайдын илтгэлийг сонслоо. Гэвч энэ удаагийн танилцуулсан тоо баримт нь өмнөх сарын Аудитын тайлантай илтэд зөрчилдөж байгааг юу гэж ойлгох вэ?'\n\nBehind the formal honorific 'Эрхэм сайд' (Honorable Minister), what subtext is the speaker conveying?",
+              "stimulusTextCyrillic": "Гэвч энэ удаагийн танилцуулсан тоо баримт нь өмнөх сарын Аудитын тайлантай илтэд зөрчилдөж байгааг юу гэж ойлгох вэ?",
+              "hint": "'Илтэд зөрчилдөх' means 'to blatantly contradict'.",
+              "options": [
+                {
+                  "id": "sub_distrust",
+                  "text": "Direct skepticism: The minister's reported numbers directly contradict the independent Audit Report, implying potential dishonesty or gross mismanagement.",
+                  "cyrillic": "Тоо баримт аудитын тайлантай зөрчилдөж буйг шүүмжлэх",
+                  "isCorrect": true,
+                  "explanation": "Correct! Blatant contradiction ('илтэд зөрчилдөх') between ministry figures and official audit reports signals severe parliamentary distrust."
+                },
+                {
+                  "id": "sub_agreement",
+                  "text": "Unreserved agreement and endorsement of the ministry's financial management.",
+                  "cyrillic": "Дэмжих",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The speaker explicitly flags severe discrepancies."
+                },
+                {
+                  "id": "sub_pardon",
+                  "text": "Granting the minister an exemption from submitting further accounting documentation.",
+                  "cyrillic": "Чөлөөлөх",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The speaker is holding the minister to account."
+                }
+              ],
+              "correctAnswer": "Direct skepticism: The minister's reported numbers directly contradict the independent Audit Report, implying potential dishonesty or gross mismanagement.",
+              "acceptableAlternatives": [
+                "Direct skepticism",
+                "тоо баримт зөрчилдөж буйг илчлэх"
+              ],
+              "explanation": "High-register Mongolian parliamentary discourse wraps sharp evidentiary contradictions in strictly polite chancellery phrasing ('сонслоо... гэвч... юу гэж ойлгох вэ').",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! You detected the underlying legislative confrontation beneath the diplomatic polish.",
+                "onFailure": "Notice the phrase 'илтэд зөрчилдөж байгааг' (blatantly contradicting)."
+              },
+              "detailedGrammarNote": "The rhetorical interrogative 'юу гэж ойлгох вэ?' (how are we to understand this?) serves as a conventionalized vehicle for aggressive institutional challenge in Khural debates.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Эрхэм сайдын илтгэлийг сонслоо. Гэвч энэ удаагийн танилцуулсан тоо баримт нь өмнөх сарын Аудитын тайлантай илтэд зөрчилдөж байгааг юу гэж ойлгох вэ?",
+                "slowSpeechSynthesisText": "тоо баримт Аудитын тайлантай илтэд зөрчилдөж байгааг юу гэж ойлгох вэ?",
+                "ipaTranscription": "/erxəm sæːtʰiːŋ iɮtʰɡəɮiːɡ sɔŋsɮɔː. kewtʃʰ en ʊtʰaːɡiːŋ tʰanʲiɮtsʰʊːɮsəŋ tʰɔː pʰarʲimtʰ nʲ ɵmnɵx sariːŋ aʊtʲitʰiːŋ tʰæːɮəŋtʰæː iɮtʰət tsɵrtʃʰiɮtətʃʰ pæːɢaːɡ jʊː ɡetʃʰ ɔeɮɢɔx we/",
+                "speakerRole": "female_native",
+                "speechRate": 0.85,
+                "acousticEnvironment": "parliament_chamber"
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_b2_156_01_parliamentary_interpellation_listening",
+              "unitId": "unit_b2_156_democratic_governance_parliamentary",
+              "cefrLevel": "B2"
+            },
+            {
+              "exerciseId": "ex_b2_156_01_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "Rhetorical Discourse Markers in High-Speed Legislative Debate",
+              "modality": "LISTENING_COMPREHENSION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "discourse_connectives",
+                "transition_recognition"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "Үүнтэй холбогдуулан",
+                "Бодит байдал дээр",
+                "Нэгдүгээрт"
+              ],
+              "prompt": "Listen to the MP transition between macro-policy and immediate fiscal repercussions:\n\n'Хуулийн үзэл баримтлал нь зөв боловч, бодит байдал дээр иргэдийн амьжиргаанд хүндээр тусаж байна. Үүнтэй холбогдуулан бид гурван асуудлыг нэн даруй шийдвэрлэх шаардлагатай.'\n\nWhat discourse function does the phrase 'Үүнтэй холбогдуулан' perform?",
+              "stimulusTextCyrillic": "Үүнтэй холбогдуулан бид гурван асуудлыг нэн даруй шийдвэрлэх шаардлагатай.",
+              "hint": "'Үүнтэй холбогдуулан' means 'In connection with this / Accordingly'.",
+              "options": [
+                {
+                  "id": "dm_transition",
+                  "text": "Logical transition: Connecting the stated practical problem to immediate concrete policy proposals.",
+                  "cyrillic": "Шалтгаант холбоос",
+                  "isCorrect": true,
+                  "explanation": "Correct! It links the preceding critique to an actionable agenda."
+                },
+                {
+                  "id": "dm_contradiction",
+                  "text": "Rejecting the previous sentence as false and irrelevant.",
+                  "cyrillic": "Үгүйсгэх",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. It builds upon, rather than refutes, the prior clause."
+                },
+                {
+                  "id": "dm_closing",
+                  "text": "Signaling the conclusion of the speech and bidding farewell.",
+                  "cyrillic": "Төгсгөл",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. It introduces three upcoming substantive proposals."
+                }
+              ],
+              "correctAnswer": "Logical transition: Connecting the stated practical problem to immediate concrete policy proposals.",
+              "acceptableAlternatives": [
+                "Logical transition",
+                "холбох шилжилт"
+              ],
+              "explanation": "'Үүнтэй холбогдуулан' (literally: 'having connected with this') is the preeminent formal connective phrase bridging diagnosis to programmatic intervention.",
+              "learnerFeedback": {
+                "onSuccess": "Сайн байна! 'Үүнтэй холбогдуулан' guides parliamentary rhetoric flawlessly.",
+                "onFailure": "'Үүнтэй холбогдуулан' connects the issue to the proposed solution."
+              },
+              "detailedGrammarNote": "Dative-converb construction 'холбогдуулан' (causative of холбогдох) functions as a complex phrasal preposition governing preceding comitative demonstratives ('үүнтэй').",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Үүнтэй холбогдуулан бид гурван асуудлыг нэн даруй шийдвэрлэх шаардлагатай байна.",
+                "slowSpeechSynthesisText": "Үүнтэй холбогдуулан гурван асуудал.",
+                "ipaTranscription": "/uːntʰeː xɔɮpɔɢtʰʊːɮəŋ pʰitʰ ɢʊrwəŋ asʊːtɮiːɡ neŋ tʰarʊːe ʃiːtwərɮəx ʃaːrtɮəɢtʰaː/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_b2_156_01_parliamentary_interpellation_listening",
+              "unitId": "unit_b2_156_democratic_governance_parliamentary",
+              "cefrLevel": "B2"
+            },
+            {
+              "exerciseId": "ex_b2_156_01_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "Token Assembly: Standing Committee Legislative Motion",
+              "modality": "LISTENING_COMPREHENSION",
+              "interactionPattern": "TOKEN_REARRANGEMENT",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "parliamentary_motion_assembly",
+                "institutional_syntax"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "байнгын хороо",
+                "тогтоолын төсөл",
+                "санал хураалт"
+              ],
+              "prompt": "Arrange the tokens into the formal announcement made by the Standing Committee chair: 'The Standing Committee will now conduct a vote on the draft resolution':",
+              "wordTokens": [
+                "санал",
+                "Байнгын",
+                "хураалт",
+                "явуулна",
+                "хороо",
+                "төслөөр",
+                "тогтоолын"
+              ],
+              "correctTokenOrder": [
+                "Байнгын",
+                "хороо",
+                "тогтоолын",
+                "төслөөр",
+                "санал",
+                "хураалт",
+                "явуулна"
+              ],
+              "correctAnswer": "Байнгын хороо тогтоолын төслөөр санал хураалт явуулна",
+              "acceptableAlternatives": [
+                "Байнгын хороо тогтоолын төслөөр санал хураалт явуулна.",
+                "Байнгын хороо тогтоолын төслөөр санал хураалтыг явуулна"
+              ],
+              "hint": "Subject (Байнгын хороо) -> Instrumental bill (тогтоолын төслөөр) -> Object (санал хураалт) -> Verb (явуулна).",
+              "explanation": "Subject: 'Байнгын хороо' (Standing Committee) + Topic instrument: 'тогтоолын төслөөр' (on the draft resolution) + Compound predicate: 'санал хураалт явуулна' (will conduct a vote).",
+              "learnerFeedback": {
+                "onSuccess": "Төгс! Authoritative parliamentary motion phrasing.",
+                "onFailure": "Order: Байнгын -> хороо -> тогтоолын -> төслөөр -> санал -> хураалт -> явуулна."
+              },
+              "detailedGrammarNote": "'Санал хураалт явуулах' (literally 'to conduct collecting of opinions') is the technical legal terminology for casting ballots in parliament.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Байнгын хороо тогтоолын төслөөр санал хураалт явуулна.",
+                "slowSpeechSynthesisText": "Байнгын хороо тогтоолын төслөөр санал хураалт явуулна.",
+                "ipaTranscription": "/pæːŋɡiːŋ xɔrɔː tʰɔxtʰɔːɮiːŋ tʰɵsɮɵːr sanaɮ xʊraːɮtʰ jəwʊːɮnə/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "TOKEN_ORDER"
+              },
+              "lessonId": "les_b2_156_01_parliamentary_interpellation_listening",
+              "unitId": "unit_b2_156_democratic_governance_parliamentary",
+              "cefrLevel": "B2"
+            },
+            {
+              "exerciseId": "ex_b2_156_01_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "Cloze Insertion: Demanding Sanctions and Accountability",
+              "modality": "LISTENING_COMPREHENSION",
+              "interactionPattern": "CLOZE_TEXT",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "parliamentary_legal_idiom",
+                "cloze_accuracy"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "хариуцлага тооцох"
+              ],
+              "prompt": "Complete the MP's demand for executive accountability:\n\n'Хууль зөрчсөн албан тушаалтнуудад хатуу сахилгын _________ шаардаж байна.' (We demand the imposition of strict disciplinary accountability on officials who broke the law.)",
+              "stimulusTextCyrillic": "сахилгын _________ тооцохыг шаардаж байна",
+              "hint": "Recall the abstract noun formed with -лага from the verb for being responsible/bearing duty.",
+              "correctAnswer": "хариуцлага",
+              "acceptableAlternatives": [
+                "хариуцлага",
+                "Хариуцлага"
+              ],
+              "explanation": "'Сахилгын хариуцлага тооцох' (to impose disciplinary accountability / sanctions) is the standard legal collocation.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! 'сахилгын хариуцлага' is the precise civil service disciplinary term.",
+                "onFailure": "Remember that 'сахилгын хариуцлага тооцох' means to hold someone strictly accountable."
+              },
+              "detailedGrammarNote": "'Тооцох' (literally to calculate/reckon) idiomatically combines with 'хариуцлага' to mean holding an actor accountable.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Хууль зөрчсөн албан тушаалтнуудад хатуу сахилгын хариуцлага тооцохыг шаардаж байна.",
+                "slowSpeechSynthesisText": "сахилгын хариуцлага тооцох.",
+                "ipaTranscription": "/xʊːɮʲ tsɵrtʃʰsəŋ aɮpəŋ tʰʊʃaːɮtʰnʊːtət xatʰʊː saxʲiɮɢiːŋ xarʲʊtsʰɮəɢ tʰɔːtsʰɔxiːɡ ʃaːrtətʃʰ pæːn/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "NORMALIZED_TEXT",
+                "caseSensitive": false,
+                "stripPunctuation": true,
+                "normalizeWhitespace": true
+              },
+              "lessonId": "les_b2_156_01_parliamentary_interpellation_listening",
+              "unitId": "unit_b2_156_democratic_governance_parliamentary",
+              "cefrLevel": "B2"
+            }
+          ],
+          "exerciseCount": 5
+        },
+        {
+          "id": "les_b2_156_02_topic_vs_contrastive_topic_syntax",
+          "title": "Information Structure: Topic Marker 'Бол' vs Contrastive Topic 'Харин'",
+          "cyrillicTitle": "Structure complex institutional propositions by separating background themes from foregrounded policy contrasts.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce and systematically differentiate neutral topic demarcation ('бол') from contrastive focus ('харин') in legislative prose.",
+          "communicativeOutcome": "Structure complex institutional propositions by separating background themes from foregrounded policy contrasts.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce and systematically differentiate neutral topic demarcation ('бол') from contrastive focus ('харин') in legislative prose.",
+            "keyPoints": [
+              "obj_b2_156_02_distinguish_topic_from_contrast"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_b2_156_02_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Functional Contrast: Thematic 'Бол' vs Adversative 'Харин'",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "information_structure_analysis",
+                "topic_marker_distinction"
+              ],
+              "grammarTargets": [
+                "gram_b2_topic_bol_vs_contrastive_harin"
+              ],
+              "vocabularyTargets": [
+                "бол",
+                "харин"
+              ],
+              "prompt": "In academic and political Mongolian, what is the precise syntactic and pragmatic difference between the discourse particles 'бол' and 'харин'?",
+              "hint": "'Бол' introduces or grounds the theme; 'харин' pivots to introduce a sharp contrasting argument.",
+              "options": [
+                {
+                  "id": "part_diff_correct",
+                  "text": "'Бол' marks the established topic / baseline theme (As for X...); 'харин' introduces a contrastive topic or adversative shift (Whereas Y / On the other hand, Y...).",
+                  "cyrillic": "бол бол сэдэв заах, харин бол эсрэгцүүлэн тодотгох",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'Бол' establishes the frame of reference; 'харин' introduces the contrasting counterpart."
+                },
+                {
+                  "id": "part_diff_wrong1",
+                  "text": "'Бол' is only used in colloquial slang, while 'харин' is only used in ancient poetry.",
+                  "cyrillic": "Хэрэглээний ялгаа",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Both are vital across all modern registers."
+                },
+                {
+                  "id": "part_diff_wrong2",
+                  "text": "'Бол' is a past tense suffix, while 'харин' is a question particle.",
+                  "cyrillic": "Цагийн нөхцөл",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Neither is a verbal tense suffix."
+                }
+              ],
+              "correctAnswer": "'Бол' marks the established topic / baseline theme (As for X...); 'харин' introduces a contrastive topic or adversative shift (Whereas Y / On the other hand, Y...).",
+              "acceptableAlternatives": [
+                "бол marks topic, харин marks contrastive topic",
+                "сэдэв ба эсрэгцүүлсэн сэдэв"
+              ],
+              "explanation": "'Бол' marks the topical ground of a proposition, while 'харин' serves as a contrastive discourse marker setting up an antithetical balance.",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! Masterful grasp of Mongolian information packaging.",
+                "onFailure": "'Бол' establishes the theme; 'харин' creates the contrast."
+              },
+              "detailedGrammarNote": "Originating from conditional converb 'болбол' (if it becomes), 'бол' grammaticalized into a universal topic marker. 'Харин' functions as a sentential conjunction marking contrastive focus.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Төсвийн орлого бол бүрдсэн, харин зарлага нь хэтэрсэн байна.",
+                "slowSpeechSynthesisText": "бол ба харин.",
+                "ipaTranscription": "/tʰɵswiːŋ ɔrɮɔɡ pɔɮ pʰurtsəŋ, xarʲiŋ tsarɮəɢ nʲ xitərsəŋ pæːn/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_b2_156_02_topic_vs_contrastive_topic_syntax",
+              "unitId": "unit_b2_156_democratic_governance_parliamentary",
+              "cefrLevel": "B2"
+            },
+            {
+              "exerciseId": "ex_b2_156_02_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "Syntax Insertion: Balancing Economic Policy Antithesis",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "antithetical_discourse_construction",
+                "topic_particle_placement"
+              ],
+              "grammarTargets": [
+                "gram_b2_topic_bol_vs_contrastive_harin"
+              ],
+              "vocabularyTargets": [
+                "инфляц",
+                "эдийн засгийн өсөлт"
+              ],
+              "prompt": "Insert 'бол' and 'харин' correctly into the economist's commentary:\n\n'Уул уурхайн салбарын орлого [_____] нэмэгдсэн, [_____] иргэдийн бодит орлого буурсан байна.'",
+              "hint": "First clause establishes the baseline topic with 'бол'; second clause pivots with 'харин'.",
+              "options": [
+                {
+                  "id": "pair_bol_harin",
+                  "text": "бол / харин ('...орлого бол нэмэгдсэн, харин иргэдийн...')",
+                  "cyrillic": "бол / харин",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'Орлого бол' frames the mining revenue; 'харин иргэдийн' pivots to the contrasting decline in household income."
+                },
+                {
+                  "id": "pair_harin_bol",
+                  "text": "харин / бол",
+                  "cyrillic": "харин / бол",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. You cannot introduce a contrast before the baseline topic is framed."
+                },
+                {
+                  "id": "pair_bol_bol",
+                  "text": "бол / бол",
+                  "cyrillic": "бол / бол",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Lacks the necessary adversative connective punch."
+                }
+              ],
+              "correctAnswer": "бол / харин ('...орлого бол нэмэгдсэн, харин иргэдийн...')",
+              "acceptableAlternatives": [
+                "бол / харин",
+                "бол, харин"
+              ],
+              "explanation": "Canonical contrastive structure: Topic Clause (X бол...) followed by Contrast Clause (харин Y...).",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! Seamless economic argumentation balance.",
+                "onFailure": "Use 'бол' in the first clause and 'харин' in the second."
+              },
+              "detailedGrammarNote": "When 'харин' opens the second clause, it immediately shifts the listener's attention to the counter-thematic reality.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Уул уурхайн салбарын орлого бол нэмэгдсэн, харин иргэдийн бодит орлого буурсан байна.",
+                "slowSpeechSynthesisText": "орлого бол нэмэгдсэн, харин бодит орлого буурсан.",
+                "ipaTranscription": "/ʊːɮ ʊːrxæːŋ saɮpriːŋ ɔrɮɔɡ pɔɮ nʲiməɡtsʰəŋ, xarʲiŋ irɡətiːŋ pɔtʲitʰ ɔrɮɔɡ pʊːrsəŋ pæːn/",
+                "speakerRole": "female_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_b2_156_02_topic_vs_contrastive_topic_syntax",
+              "unitId": "unit_b2_156_democratic_governance_parliamentary",
+              "cefrLevel": "B2"
+            },
+            {
+              "exerciseId": "ex_b2_156_02_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "Token Assembly: Restructuring Complex Contrastive Clause",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "TOKEN_REARRANGEMENT",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "multi_clause_syntax",
+                "contrastive_ordering"
+              ],
+              "grammarTargets": [
+                "gram_b2_topic_bol_vs_contrastive_harin"
+              ],
+              "vocabularyTargets": [
+                "хуулийн төсөл",
+                "үзэл баримтлал",
+                "хэрэгжилт"
+              ],
+              "prompt": "Reconstruct this analytical editorial sentence: 'As for the concept of the bill, it is correct, but as for its implementation, problems remain':",
+              "wordTokens": [
+                "зөв",
+                "бол",
+                "асуудал",
+                "төслийн",
+                "Хуулийн",
+                "үзэл",
+                "харин",
+                "хэрэгжилтэд",
+                "байна",
+                "баримтлал"
+              ],
+              "correctTokenOrder": [
+                "Хуулийн",
+                "төслийн",
+                "үзэл",
+                "баримтлал",
+                "бол",
+                "зөв",
+                "харин",
+                "хэрэгжилтэд",
+                "асуудал",
+                "байна"
+              ],
+              "correctAnswer": "Хуулийн төслийн үзэл баримтлал бол зөв, харин хэрэгжилтэд асуудал байна",
+              "acceptableAlternatives": [
+                "Хуулийн төслийн үзэл баримтлал бол зөв, харин хэрэгжилтэд асуудал байна.",
+                "Хуулийн төслийн үзэл баримтлал бол зөв харин хэрэгжилтэд асуудал байна"
+              ],
+              "hint": "Structure the sentence by first topicalizing the bill's conceptual validity with 'бол', then introducing the practical shortcomings with the contrastive conjunction 'харин'.",
+              "explanation": "Topic phrase: 'Хуулийн төслийн үзэл баримтлал бол зөв,' + Contrast phrase: 'харин хэрэгжилтэд асуудал байна'.",
+              "learnerFeedback": {
+                "onSuccess": "Сайн байна! Balanced complex topic sentence assembled.",
+                "onFailure": "Follow the sequence: Хуулийн төслийн үзэл баримтлал бол зөв, харин хэрэгжилтэд асуудал байна."
+              },
+              "detailedGrammarNote": "Notice how 'бол' attaches directly to the nominal head 'баримтлал', while 'харин' leads the entire counter-clause.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Хуулийн төслийн үзэл баримтлал бол зөв, харин хэрэгжилтэд асуудал байна.",
+                "slowSpeechSynthesisText": "үзэл баримтлал бол зөв, харин хэрэгжилтэд асуудал байна.",
+                "ipaTranscription": "/xʊːɮʲiːŋ tʰɵsɮiːŋ utsəɮ pʰarʲimtʰɮəɮ pɔɮ tsɵw, xarʲiŋ xirəkʰtʃʰiɮtʰət asʊːtəɮ pæːn/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "TOKEN_ORDER"
+              },
+              "lessonId": "les_b2_156_02_topic_vs_contrastive_topic_syntax",
+              "unitId": "unit_b2_156_democratic_governance_parliamentary",
+              "cefrLevel": "B2"
+            },
+            {
+              "exerciseId": "ex_b2_156_02_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "Discourse Editing: Correcting Inverted Topic Particles",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "textual_editing",
+                "discourse_coherence"
+              ],
+              "grammarTargets": [
+                "gram_b2_topic_bol_vs_contrastive_harin"
+              ],
+              "vocabularyTargets": [
+                "газар тариалан",
+                "мал аж ахуй"
+              ],
+              "prompt": "An editor found this flawed line in an agrarian policy article:\n\n'*Харин газар тариалангийн салбар гантай байсан, бол мал аж ахуйн салбар өсөлттэй гарлаа.'\n\nWhy is this sentence stylistically inverted, and how should it be corrected?",
+              "hint": "'Харин' cannot precede an un-contrasted initial topic; 'бол' belongs in the first clause.",
+              "options": [
+                {
+                  "id": "edit_inverted",
+                  "text": "'Харин' was erroneously placed at the start of the first clause, and 'бол' was misplaced in the second. It must be: 'Газар тариалангийн салбар бол гантай байсан, харин мал аж ахуйн салбар өсөлттэй гарлаа.'",
+                  "cyrillic": "Байрыг нь солин засах",
+                  "isCorrect": true,
+                  "explanation": "Correct! Swapping them restores logical information hierarchy: Topic first (салбар бол...), Contrast second (харин...)."
+                },
+                {
+                  "id": "edit_delete",
+                  "text": "Both words should be deleted because Mongolian syntax forbids all connectives.",
+                  "cyrillic": "Хасах",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Discourse particles are essential for coherent prose."
+                },
+                {
+                  "id": "edit_tense",
+                  "text": "The error is only in the verb 'байсан', which should be future tense.",
+                  "cyrillic": "Цагийн алдаа",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The primary flaw is information packaging inversion."
+                }
+              ],
+              "correctAnswer": "'Харин' was erroneously placed at the start of the first clause, and 'бол' was misplaced in the second. It must be: 'Газар тариалангийн салбар бол гантай байсан, харин мал аж ахуйн салбар өсөлттэй гарлаа.'",
+              "acceptableAlternatives": [
+                "Газар тариалангийн салбар бол гантай байсан, харин мал аж ахуйн салбар өсөлттэй гарлаа."
+              ],
+              "explanation": "Topic markers must follow thematic order. You establish the first subject with 'бол', then introduce the antithetical subject with 'харин'.",
+              "learnerFeedback": {
+                "onSuccess": "Төгс! Critical syntactic and rhetorical proofreading executed.",
+                "onFailure": "Swap 'харин' and 'бол' to preserve topic -> contrast ordering."
+              },
+              "detailedGrammarNote": "Placing 'харин' at the absolute beginning of an isolated text is only permissible if answering an explicit prior question from an interlocutor.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Газар тариалангийн салбар бол гантай байсан, харин мал аж ахуйн салбар өсөлттэй гарлаа.",
+                "slowSpeechSynthesisText": "салбар бол гантай байсан, харин мал аж ахуй өсөлттэй гарлаа.",
+                "ipaTranscription": "/ɢatsʰər tʰarʲiaɮəŋɡiːŋ saɮpər pɔɮ ɢəŋtʰæː pæːsəŋ, xarʲiŋ maɮ atʃʰ axʊeːŋ saɮpər ɵsɵɮtʰtʰeː ɢarɮaː/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_b2_156_02_topic_vs_contrastive_topic_syntax",
+              "unitId": "unit_b2_156_democratic_governance_parliamentary",
+              "cefrLevel": "B2"
+            },
+            {
+              "exerciseId": "ex_b2_156_02_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "Cloze Nuance: Restricting Conditional vs Topic 'Бол'",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "CLOZE_TEXT",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "functional_ambiguity_resolution",
+                "cloze_insertion"
+              ],
+              "grammarTargets": [
+                "gram_b2_topic_bol_vs_contrastive_harin"
+              ],
+              "vocabularyTargets": [
+                "хэрэв",
+                "бол"
+              ],
+              "prompt": "In conditional clauses introduced by 'хэрэв' (if), 'бол' functions as the conditional apodosis anchor. Complete the sentence:\n\n'Хэрэв хууль батлагдвал бид үүнийг дагаж мөрдөнө. Харин батлагдахгүй ______ бид дахин өргөн барина.' (If the law is passed we will comply. But if it is not passed, we will re-submit.)",
+              "stimulusTextCyrillic": "Харин батлагдахгүй ______ бид дахин өргөн барина.",
+              "hint": "Insert the monosyllabic particle that creates a conditional protasis ('if not...') following a negative future-present participle.",
+              "correctAnswer": "бол",
+              "acceptableAlternatives": [
+                "бол",
+                "Бол"
+              ],
+              "explanation": "After negative verbal adjectives ('батлагдахгүй'), 'бол' functions as the conditional link ('if it is not passed').",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! 'бол' acts as the conditional anchor after the negative participle.",
+                "onFailure": "Remember that 'бол' functions as the conditional anchor after '-хгүй'."
+              },
+              "detailedGrammarNote": "While 'бол' after nouns acts as a topic marker, following negative participles like '-хгүй' it acts as a conditional conjunction meaning 'if'.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Харин батлагдахгүй бол бид дахин өргөн барина.",
+                "slowSpeechSynthesisText": "батлагдахгүй бол бид дахин өргөн барина.",
+                "ipaTranscription": "/xarʲiŋ pʰatʰɮəɢtəxɢuː pɔɮ pʰitʰ tʰaxʲiŋ ɵrɡɵŋ pʰarʲin/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "NORMALIZED_TEXT",
+                "caseSensitive": false,
+                "stripPunctuation": true,
+                "normalizeWhitespace": true
+              },
+              "lessonId": "les_b2_156_02_topic_vs_contrastive_topic_syntax",
+              "unitId": "unit_b2_156_democratic_governance_parliamentary",
+              "cefrLevel": "B2"
+            }
+          ],
+          "exerciseCount": 5
+        },
+        {
+          "id": "les_b2_156_03_electoral_reform_white_paper_reading",
+          "title": "Connected Text Analysis: Parliamentary White Paper on Electoral Reform",
+          "cyrillicTitle": "Extract competing constitutional arguments, statutory timelines, and institutional thresholds from formal legislative prose.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Comprehend a 320-word legislative white paper comparing majoritarian and proportional electoral systems.",
+          "communicativeOutcome": "Extract competing constitutional arguments, statutory timelines, and institutional thresholds from formal legislative prose.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Comprehend a 320-word legislative white paper comparing majoritarian and proportional electoral systems.",
+            "keyPoints": [
+              "obj_b2_156_03_extract_electoral_policy_arguments"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_156_04_parliamentary_interpellation_speech",
+          "title": "Interactive Deliberation: Interpellating Ministers in Standing Committee",
+          "cyrillicTitle": "Formulate precise oral interpellations and diplomatic rebuttals utilizing topic framing and parliamentary honorifics.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Execute formal oral cross-examination of executive officials in a simulated Parliamentary Standing Committee.",
+          "communicativeOutcome": "Formulate precise oral interpellations and diplomatic rebuttals utilizing topic framing and parliamentary honorifics.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio models of parliamentary question time address protocols.",
+          "grammarOverview": {
+            "summary": "Execute formal oral cross-examination of executive officials in a simulated Parliamentary Standing Committee.",
+            "keyPoints": [
+              "obj_b2_156_04_deliver_parliamentary_interpellation"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_156_05_legislative_reform_commentary_writing",
+          "title": "Analytical Writing: Legislative Commentary on Constitutional Oversight",
+          "cyrillicTitle": "Produce an organized analytical article contrasting executive accountability with legislative prerogatives.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Compose a multi-paragraph 280-word legislative commentary evaluating parliamentary oversight mechanisms.",
+          "communicativeOutcome": "Produce an organized analytical article contrasting executive accountability with legislative prerogatives.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Compose a multi-paragraph 280-word legislative commentary evaluating parliamentary oversight mechanisms.",
+            "keyPoints": [
+              "obj_b2_156_05_write_legislative_commentary"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_157_civil_society_advocacy_protests_pub",
+      "unitNumber": 157,
+      "title": "Civil Society Advocacy, Protests & Public Accountability",
+      "cyrillicTitle": "Discussing citizen rights, peaceful demonstrations, and petitions",
+      "description": "Acquire and apply grammatical morphology (gram_b2_information_structure_exclusive_focus_l) to fulfill communicative functions in: Civil Society Advocacy, Protests & Public Accountability.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_information_structure_exclusive_focus_l",
+      "lessons": [
+        {
+          "id": "les_b2_157_01_civil_protest_manifesto_reading",
+          "title": "Connected Text Analysis: Civil Society Manifesto on Freedom of Assembly",
+          "cyrillicTitle": "Extract legal arguments, civic grievance categories, and international convention references from authentic advocacy prose.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Examine a 310-word civic manifesto defending constitutional rights to peaceful assembly and public petition.",
+          "communicativeOutcome": "Extract legal arguments, civic grievance categories, and international convention references from authentic advocacy prose.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Examine a 310-word civic manifesto defending constitutional rights to peaceful assembly and public petition.",
+            "keyPoints": [
+              "obj_b2_157_01_analyze_civic_manifesto"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_157_02_exclusive_focus_particle_syntax",
+          "title": "Syntax & Semantics: Exclusive Focus Particle 'Л' in Public Demands",
+          "cyrillicTitle": "Deploy 'л' to articulate unequivocal civic demands, isolate indispensable conditions, and sharpen argumentative focus.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic distribution and restrictive semantic scope of the exclusive focus particle 'л' across nominal, verbal, and adverbial heads.",
+          "communicativeOutcome": "Deploy 'л' to articulate unequivocal civic demands, isolate indispensable conditions, and sharpen argumentative focus.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic distribution and restrictive semantic scope of the exclusive focus particle 'л' across nominal, verbal, and adverbial heads.",
+            "keyPoints": [
+              "obj_b2_157_02_master_exclusive_focus_l"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_157_03_townhall_testimony_listening",
+          "title": "Acoustic Comprehension: Town Hall Testimony & Citizen Grievances",
+          "cyrillicTitle": "Differentiate emotional appeals from factual allegations and track the deployment of 'л' in spontaneous civic oral grievances.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to unscripted citizen testimonies at a contentious municipal town hall meeting featuring varied speech rates and acoustic overlap.",
+          "communicativeOutcome": "Differentiate emotional appeals from factual allegations and track the deployment of 'л' in spontaneous civic oral grievances.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Expose learners to regional accents, varying speech velocity, and authentic acoustic interruptions in public testimony.",
+          "grammarOverview": {
+            "summary": "Listen to unscripted citizen testimonies at a contentious municipal town hall meeting featuring varied speech rates and acoustic overlap.",
+            "keyPoints": [
+              "obj_b2_157_03_comprehend_townhall_testimony"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_157_04_public_hearing_advocacy_speech",
+          "title": "Interactive Deliberation: Delivering Public Testimony at a Civic Hearing",
+          "cyrillicTitle": "Present evidence-grounded civic arguments utilizing focus particle 'л' and contrastive topic markers under time constraints.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an articulate 3-minute oral testimony advocating for freedom of information and public disclosure.",
+          "communicativeOutcome": "Present evidence-grounded civic arguments utilizing focus particle 'л' and contrastive topic markers under time constraints.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide an exemplar oral advocacy model illustrating persuasive pauses and emphasis.",
+          "grammarOverview": {
+            "summary": "Deliver an articulate 3-minute oral testimony advocating for freedom of information and public disclosure.",
+            "keyPoints": [
+              "obj_b2_157_04_deliver_civic_testimony"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_157_05_civic_petition_drafting_workshop",
+          "title": "Analytical Writing: Drafting a Formal Civic Petition to Parliament",
+          "cyrillicTitle": "Produce an organized, legally referenced civic petition balancing assertive demands with standard administrative decorum.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 290-word formal citizen petition addressed to the Standing Committee on Petitions detailing statutory remedies.",
+          "communicativeOutcome": "Produce an organized, legally referenced civic petition balancing assertive demands with standard administrative decorum.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a 290-word formal citizen petition addressed to the Standing Committee on Petitions detailing statutory remedies.",
+            "keyPoints": [
+              "obj_b2_157_05_draft_civic_petition"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_158_converb_chaining_in_complex_discour",
+      "unitNumber": 158,
+      "title": "Converb Chaining in Complex Discourse Syntax",
+      "cyrillicTitle": "Connecting 3 or more converbial clauses without structural collapse",
+      "description": "Acquire and apply grammatical morphology (gram_b2_converb_chaining_discourse) to fulfill communicative functions in: Converb Chaining in Complex Discourse Syntax.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_converb_chaining_discourse",
+      "lessons": [
+        {
+          "id": "les_b2_158_01_discourse_converb_chaining_analysis",
+          "title": "Syntactic Dissection: Extended Multi-Tier Converb Chaining in Policy Reports",
+          "cyrillicTitle": "Deconstruct and parse dense 340-word administrative policy reports without losing syntactic dependencies or clause scope.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Introduce and analyze the hierarchical structure of multi-tier converb chaining connecting 3 or more subordinate clauses (-ж, -аад, -н, -саар) leading to a final matrix predicate.",
+          "communicativeOutcome": "Deconstruct and parse dense 340-word administrative policy reports without losing syntactic dependencies or clause scope.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce and analyze the hierarchical structure of multi-tier converb chaining connecting 3 or more subordinate clauses (-ж, -аад, -н, -саар) leading to a final matrix predicate.",
+            "keyPoints": [
+              "obj_b2_158_01_parse_complex_converb_chains"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_158_02_investigative_podcast_listening",
+          "title": "Acoustic Tracking: Investigative Journalism Podcast on Procurement Audits",
+          "cyrillicTitle": "Track sequential administrative maneuvers, evidence gathering, and judicial referral across uninterrupted spoken sentences.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Follow spoken multi-clause converb chains in an unscripted investigative podcast delivered at natural speed (150-165 wpm).",
+          "communicativeOutcome": "Track sequential administrative maneuvers, evidence gathering, and judicial referral across uninterrupted spoken sentences.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Present authentic journalistic delivery featuring breath pauses, clause groupings, and sustained narrative chains.",
+          "grammarOverview": {
+            "summary": "Follow spoken multi-clause converb chains in an unscripted investigative podcast delivered at natural speed (150-165 wpm).",
+            "keyPoints": [
+              "obj_b2_158_02_track_spoken_converb_chains"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_158_03_policy_investigation_brief_writing",
+          "title": "Analytical Writing: Investigative Case Brief with Integrated Clause Chaining",
+          "cyrillicTitle": "Produce coherent institutional prose linking evidence examination, stakeholder questioning, and regulatory finding without structural fragmentation.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Compose a 270-word formal investigative case brief detailing the progression of an administrative audit through chained converb syntax.",
+          "communicativeOutcome": "Produce coherent institutional prose linking evidence examination, stakeholder questioning, and regulatory finding without structural fragmentation.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Compose a 270-word formal investigative case brief detailing the progression of an administrative audit through chained converb syntax.",
+            "keyPoints": [
+              "obj_b2_158_03_author_chained_investigative_brief"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_158_04_spontaneous_chaining_oral_briefing",
+          "title": "Spoken Production: Spontaneous Oral Briefing on Administrative Audit Findings",
+          "cyrillicTitle": "Articulate a complex chain of procedural events in real time without sentence breakdown or unintended subject drift.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an oral executive briefing synthesizing multi-stage administrative investigation findings using spontaneous converb chaining.",
+          "communicativeOutcome": "Articulate a complex chain of procedural events in real time without sentence breakdown or unintended subject drift.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide an exemplar executive briefing showing rhythmic cadence and clause chaining.",
+          "grammarOverview": {
+            "summary": "Deliver an oral executive briefing synthesizing multi-stage administrative investigation findings using spontaneous converb chaining.",
+            "keyPoints": [
+              "obj_b2_158_04_deliver_chained_oral_briefing"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_159_switch_reference_constraints_in_dis",
+      "unitNumber": 159,
+      "title": "Switch-Reference Constraints in Discourse Chaining",
+      "cyrillicTitle": "Tracking subject shifts across converbs (-ж, -аад vs -вал, -хад)",
+      "description": "Acquire and apply grammatical morphology (gram_b2_converb_chaining_switch_reference) to fulfill communicative functions in: Switch-Reference Constraints in Discourse Chaining.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_converb_chaining_switch_reference",
+      "lessons": [
+        {
+          "id": "les_b2_159_01_switch_reference_morphosyntax_intro",
+          "title": "Morphosyntax: Switch-Reference Constraints Across Converb Categories",
+          "cyrillicTitle": "Formulate multi-agent institutional sentences where shifting agency between regulatory authorities and public entities is unambiguously marked.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the strict grammatical constraints governing subject continuity (same-subject converbs: -ж, -аад) versus subject shift (different-subject converbs: -хад, -вал, -тал, -саар) and case marking of subordinate subjects.",
+          "communicativeOutcome": "Formulate multi-agent institutional sentences where shifting agency between regulatory authorities and public entities is unambiguously marked.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the strict grammatical constraints governing subject continuity (same-subject converbs: -ж, -аад) versus subject shift (different-subject converbs: -хад, -вал, -тал, -саар) and case marking of subordinate subjects.",
+            "keyPoints": [
+              "obj_b2_159_01_master_switch_reference_syntax"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_159_02_regulatory_dispute_reading",
+          "title": "Connected Text Analysis: Regulatory Decisions & Jurisdictional Conflicts",
+          "cyrillicTitle": "Disentangle competing institutional responsibilities, conditional triggers, and sequential actions executed by distinct legal actors.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Comprehend a 310-word administrative dispute between a municipal transport bureau and private operators featuring frequent agent shifts across converbial clauses.",
+          "communicativeOutcome": "Disentangle competing institutional responsibilities, conditional triggers, and sequential actions executed by distinct legal actors.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Comprehend a 310-word administrative dispute between a municipal transport bureau and private operators featuring frequent agent shifts across converbial clauses.",
+            "keyPoints": [
+              "obj_b2_159_02_disentangle_jurisdictional_disputes"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_159_03_tribunal_testimony_listening",
+          "title": "Acoustic Comprehension: Multi-Agent Administrative Tribunal Hearing",
+          "cyrillicTitle": "Process fast-paced spoken converbial switch-reference shifts and identify conflicting party assertions under procedural cross-examination.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 3-minute simulated administrative tribunal hearing tracking testimony from legal counsel, an administrative inspector, and an enterprise representative.",
+          "communicativeOutcome": "Process fast-paced spoken converbial switch-reference shifts and identify conflicting party assertions under procedural cross-examination.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Present distinct acoustic timbres and procedural cadence of legal testimony with cross-talk.",
+          "grammarOverview": {
+            "summary": "Listen to a 3-minute simulated administrative tribunal hearing tracking testimony from legal counsel, an administrative inspector, and an enterprise representative.",
+            "keyPoints": [
+              "obj_b2_159_03_track_spoken_agent_shifts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_159_04_switch_reference_narrative_speaking",
+          "title": "Interactive Deliberation: Oral Debriefing of Tripartite Labor Negotiations",
+          "cyrillicTitle": "Explain interlocking actions and concessions using flawless switch-reference morphology without ambiguous pronoun or subject reference.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an oral briefing reconstructing a tripartite labor negotiation by precisely contrasting the actions of government mediators, labor unions, and corporate management.",
+          "communicativeOutcome": "Explain interlocking actions and concessions using flawless switch-reference morphology without ambiguous pronoun or subject reference.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Provide benchmark speech samples of tripartite negotiation debriefs.",
+          "grammarOverview": {
+            "summary": "Deliver an oral briefing reconstructing a tripartite labor negotiation by precisely contrasting the actions of government mediators, labor unions, and corporate management.",
+            "keyPoints": [
+              "obj_b2_159_04_narrate_multi_agent_negotiation"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_159_05_comparative_agency_brief_writing",
+          "title": "Analytical Writing: Inter-Agency Legal Memorandum on Regulatory Compliance",
+          "cyrillicTitle": "Produce an authoritative institutional memo setting forth conditional action triggers between ministries using precise switch-reference syntax.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 280-word inter-agency memorandum clarifying overlapping jurisdictional mandates and sequential enforcement powers.",
+          "communicativeOutcome": "Produce an authoritative institutional memo setting forth conditional action triggers between ministries using precise switch-reference syntax.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a 280-word inter-agency memorandum clarifying overlapping jurisdictional mandates and sequential enforcement powers.",
+            "keyPoints": [
+              "obj_b2_159_05_author_inter_agency_memo"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_160_rhetorical_connectors_macro_discour",
+      "unitNumber": 160,
+      "title": "Rhetorical Connectors & Macro-Discourse Framing",
+      "cyrillicTitle": "Employing 'Нэгдүгээрт...', 'Нөгөөтээгүүр...', 'Эцэст нь тэмдэглэхэд...'",
+      "description": "Acquire and apply grammatical morphology (gram_b2_discourse_connectors_rhetorical) to fulfill communicative functions in: Rhetorical Connectors & Macro-Discourse Framing.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_discourse_connectors_rhetorical",
+      "lessons": [
+        {
+          "id": "les_b2_160_01_rhetorical_macro_connectors_intro",
+          "title": "Macro-Discourse Architecture: Formal Rhetorical Connectors & Signposting",
+          "cyrillicTitle": "Structure extended arguments with transparent rhetorical signposting, allowing interlocutors to navigate complex multi-part policy positions.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce high-register macro-discourse connectors ('Нэгдүгээрт...', 'Нөгөөтээгүүр...', 'Түүнчлэн...', 'Эцэст нь тэмдэглэхэд...') that organize extended oral addresses and formal policy treatises.",
+          "communicativeOutcome": "Structure extended arguments with transparent rhetorical signposting, allowing interlocutors to navigate complex multi-part policy positions.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce high-register macro-discourse connectors ('Нэгдүгээрт...', 'Нөгөөтээгүүр...', 'Түүнчлэн...', 'Эцэст нь тэмдэглэхэд...') that organize extended oral addresses and formal policy treatises.",
+            "keyPoints": [
+              "obj_b2_160_01_deploy_rhetorical_macro_connectors"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_160_02_parliamentary_keynote_listening",
+          "title": "Acoustic Dissection: Keynote Address at the National Development Forum",
+          "cyrillicTitle": "Extract the macro-structure, principal policy planks, and conclusive synthesis from an uninterrupted formal address.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 3.5-minute formal keynote address delivered at the National Development Forum, analyzing rhetorical signposting and cadence.",
+          "communicativeOutcome": "Extract the macro-structure, principal policy planks, and conclusive synthesis from an uninterrupted formal address.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Model formal oratorical delivery, controlled tempo, and conclusive pitch deceleration.",
+          "grammarOverview": {
+            "summary": "Listen to a 3.5-minute formal keynote address delivered at the National Development Forum, analyzing rhetorical signposting and cadence.",
+            "keyPoints": [
+              "obj_b2_160_02_track_keynote_rhetorical_structure"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_160_03_structured_position_paper_writing",
+          "title": "Analytical Writing: Multi-Part Policy Position Paper with Macro-Signposts",
+          "cyrillicTitle": "Compose an organized, persuasive policy text employing classical rhetorical sequencing to defend a controversial governance model.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 300-word structured public policy position paper on sovereign wealth fund governance featuring explicit tripartite signposting.",
+          "communicativeOutcome": "Compose an organized, persuasive policy text employing classical rhetorical sequencing to defend a controversial governance model.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a 300-word structured public policy position paper on sovereign wealth fund governance featuring explicit tripartite signposting.",
+            "keyPoints": [
+              "obj_b2_160_03_write_structured_position_paper"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_160_04_keynote_persuasive_presentation",
+          "title": "Interactive Deliberation: Delivering a Structured Public Policy Keynote",
+          "cyrillicTitle": "Present an oral policy manifesto utilizing rhetorical connectors to manage audience attention and highlight core strategic pivots.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver a 4-minute structured keynote presentation to an assembly of civic leaders defending an economic diversification initiative.",
+          "communicativeOutcome": "Present an oral policy manifesto utilizing rhetorical connectors to manage audience attention and highlight core strategic pivots.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Model pacing, pause placement, and vocal modulation in formal public address.",
+          "grammarOverview": {
+            "summary": "Deliver a 4-minute structured keynote presentation to an assembly of civic leaders defending an economic diversification initiative.",
+            "keyPoints": [
+              "obj_b2_160_04_deliver_policy_keynote"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_161_causal_consequence_in_institutional",
+      "unitNumber": 161,
+      "title": "Causal Consequence in Institutional Prose: Үүднээс vs Улмаас",
+      "cyrillicTitle": "Formulating systemic consequences in public policy analysis",
+      "description": "Acquire and apply grammatical morphology (gram_b2_discourse_causal_consequence_uuden_ulmaar) to fulfill communicative functions in: Causal Consequence in Institutional Prose: Үүднээс vs Улмаас.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_discourse_causal_consequence_uuden_ulmaar",
+      "lessons": [
+        {
+          "id": "les_b2_161_01_institutional_causality_uuden_ulmaar_intro",
+          "title": "Morphosyntax: Intentional Motive 'Үүднээс' vs Systemic Consequence 'Улмаас'",
+          "cyrillicTitle": "Distinguish deliberate policy intentions from unintended systemic side-effects in institutional analyses.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce and contrast the grammaticalized causal postpositions үүднээс (agentive deliberate motive / purposive rationale) and улмаас (inadvertent external consequence / systemic causal effect) in administrative and policy prose.",
+          "communicativeOutcome": "Distinguish deliberate policy intentions from unintended systemic side-effects in institutional analyses.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce and contrast the grammaticalized causal postpositions үүднээс (agentive deliberate motive / purposive rationale) and улмаас (inadvertent external consequence / systemic causal effect) in administrative and policy prose.",
+            "keyPoints": [
+              "obj_b2_161_01_contrast_uuden_vs_ulmaar"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_161_02_economic_impact_assessment_reading",
+          "title": "Connected Text Analysis: Central Bank Macroeconomic Impact Assessment",
+          "cyrillicTitle": "Deconstruct complex chains of economic cause and effect, separating policy interventions from macroeconomic fallout.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Comprehend a 330-word central bank report on inflationary pressures and foreign currency liquidity.",
+          "communicativeOutcome": "Deconstruct complex chains of economic cause and effect, separating policy interventions from macroeconomic fallout.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Comprehend a 330-word central bank report on inflationary pressures and foreign currency liquidity.",
+            "keyPoints": [
+              "obj_b2_161_02_analyze_macroeconomic_causality"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_161_03_policy_causality_interview_listening",
+          "title": "Acoustic Dissection: Expert Broadcast Debate on Inflation Causality",
+          "cyrillicTitle": "Distinguish between external supply shock justifications and internal fiscal policy accountability in fast-paced debate.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 3-minute broadcast interview between independent economists and ministry representatives debating the root causes of inflation.",
+          "communicativeOutcome": "Distinguish between external supply shock justifications and internal fiscal policy accountability in fast-paced debate.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Present argumentative spoken Mongolian featuring rapid rebuttal, interruptions, and causal postposition placement.",
+          "grammarOverview": {
+            "summary": "Listen to a 3-minute broadcast interview between independent economists and ministry representatives debating the root causes of inflation.",
+            "keyPoints": [
+              "obj_b2_161_03_discern_broadcast_causal_claims"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_161_04_executive_causal_briefing_speech",
+          "title": "Interactive Deliberation: Executive Risk Briefing on Regulatory Changes",
+          "cyrillicTitle": "Present an oral risk analysis to organizational leadership clearly distinguishing regulatory compliance motives from projected market friction.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver a 3-minute executive oral briefing detailing the direct and indirect consequences of a newly enacted environmental regulation.",
+          "communicativeOutcome": "Present an oral risk analysis to organizational leadership clearly distinguishing regulatory compliance motives from projected market friction.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide an exemplar executive briefing modeling diplomatic risk communication.",
+          "grammarOverview": {
+            "summary": "Deliver a 3-minute executive oral briefing detailing the direct and indirect consequences of a newly enacted environmental regulation.",
+            "keyPoints": [
+              "obj_b2_161_04_deliver_executive_risk_briefing"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_161_05_systemic_cause_effect_report_writing",
+          "title": "Analytical Writing: Institutional Cause-and-Effect Policy Memorandum",
+          "cyrillicTitle": "Author a rigorous administrative assessment separating reform objectives from operational friction points using formal causal morphology.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Compose a 280-word institutional policy memorandum detailing the systemic chain of causes and consequences resulting from public procurement reform.",
+          "communicativeOutcome": "Author a rigorous administrative assessment separating reform objectives from operational friction points using formal causal morphology.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Compose a 280-word institutional policy memorandum detailing the systemic chain of causes and consequences resulting from public procurement reform.",
+            "keyPoints": [
+              "obj_b2_161_05_author_causal_policy_memo"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_162_pragmatic_emphatic_nuance_particles",
+      "unitNumber": 162,
+      "title": "Pragmatic Emphatic Nuance Particles: Даа, Шүү, Ч",
+      "cyrillicTitle": "Expressing subtle conversational urgency, certitude, or warning",
+      "description": "Acquire and apply grammatical morphology (gram_b2_particles_emphatic_nuance) to fulfill communicative functions in: Pragmatic Emphatic Nuance Particles: Даа, Шүү, Ч.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_particles_emphatic_nuance",
+      "lessons": [
+        {
+          "id": "les_b2_162_01_emphatic_particles_audio_noticing",
+          "title": "Acoustic Noticing: Pragmatic Emphatic Particles in Televised Political Debates",
+          "cyrillicTitle": "Recognize when a speaker is expressing certitude, implicit warning, emotional appeal, or strategic concession through particle nuance.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Perceive, identify, and contrast the subtle pragmatic force of enclitic stance particles (даа/дээ, шүү, ч, л) in live televised political debates.",
+          "communicativeOutcome": "Recognize when a speaker is expressing certitude, implicit warning, emotional appeal, or strategic concession through particle nuance.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Highlight intonation contours, pitch accents, and conversational micro-cues accompanying emphatic particles.",
+          "grammarOverview": {
+            "summary": "Perceive, identify, and contrast the subtle pragmatic force of enclitic stance particles (даа/дээ, шүү, ч, л) in live televised political debates.",
+            "keyPoints": [
+              "obj_b2_162_01_perceive_emphatic_particle_nuance"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_162_02_particles_pragmatic_syntax_intro",
+          "title": "Pragmatic Syntax: Distribution, Scope & Nuance of 'Даа⁴', 'Шүү', and 'Ч'",
+          "cyrillicTitle": "Deploy stance particles accurately to calibrate speaker certitude, issue polite warnings, and signal subtle concessions in institutional discourse.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic placement, morphophonological harmony rules, and pragmatic scope of the core stance particles даа/дээ/доо/дөө, шүү, and ч.",
+          "communicativeOutcome": "Deploy stance particles accurately to calibrate speaker certitude, issue polite warnings, and signal subtle concessions in institutional discourse.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic placement, morphophonological harmony rules, and pragmatic scope of the core stance particles даа/дээ/доо/дөө, шүү, and ч.",
+            "keyPoints": [
+              "obj_b2_162_02_master_stance_particles"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_162_03_political_op_ed_discourse_reading",
+          "title": "Connected Text Analysis: Political Opinion Column on Coalition Frictions",
+          "cyrillicTitle": "Decode the writer's implicit ideological stance, skepticism, and veiled criticisms encoded via emphatic and concessive particles.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Comprehend a 300-word analytical opinion column dissecting parliamentary coalition negotiations, tracking authorial irony, certitude, and warnings.",
+          "communicativeOutcome": "Decode the writer's implicit ideological stance, skepticism, and veiled criticisms encoded via emphatic and concessive particles.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Comprehend a 300-word analytical opinion column dissecting parliamentary coalition negotiations, tracking authorial irony, certitude, and warnings.",
+            "keyPoints": [
+              "obj_b2_162_03_decode_implicit_op_ed_stance"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_162_04_nuanced_stance_spoken_interaction",
+          "title": "Interactive Deliberation: Diplomatic Pushback in Policy Negotiations",
+          "cyrillicTitle": "Negotiate contentious policy adjustments while preserving collegial goodwill and signaling firm institutional boundaries.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Engage in an interactive policy simulation, delivering diplomatic pushback, calibrated warnings, and face-saving concessions using emphatic particles.",
+          "communicativeOutcome": "Negotiate contentious policy adjustments while preserving collegial goodwill and signaling firm institutional boundaries.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Provide authentic speech prompts requiring immediate pragmatic adjustment.",
+          "grammarOverview": {
+            "summary": "Engage in an interactive policy simulation, delivering diplomatic pushback, calibrated warnings, and face-saving concessions using emphatic particles.",
+            "keyPoints": [
+              "obj_b2_162_04_execute_diplomatic_pushback"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_162_05_polemical_op_ed_rebuttal_writing",
+          "title": "Analytical Writing: Composing an Op-Ed Rebuttal with Calibrated Certitude",
+          "cyrillicTitle": "Author a balanced, persuasive public rebuttal that refutes inaccuracies while maintaining diplomatic stature using stance particles.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Compose a 270-word political counter-editorial responding to a published criticism of municipal governance reform.",
+          "communicativeOutcome": "Author a balanced, persuasive public rebuttal that refutes inaccuracies while maintaining diplomatic stature using stance particles.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Compose a 270-word political counter-editorial responding to a published criticism of municipal governance reform.",
+            "keyPoints": [
+              "obj_b2_162_05_author_op_ed_rebuttal"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_163_formal_oxford_style_debate_cross_ex",
+      "unitNumber": 163,
+      "title": "Formal Oxford-Style Debate & Cross-Examination",
+      "cyrillicTitle": "Delivering timed debate speeches and structured rebuttals",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Formal Oxford-Style Debate & Cross-Examination.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "Delivering timed debate speeches and structured rebuttals",
+      "lessons": [
+        {
+          "id": "les_b2_163_01_debate_rules_and_flowsheet_analysis",
+          "title": "Discourse Architecture: Parliamentary Debate Protocol & Argument Flowsheets",
+          "cyrillicTitle": "Deconstruct debate motions, map constructive arguments and refutations on a standard debate flowsheet.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Analyze a 320-word parliamentary debate dossier outlining Oxford-style rules, burden of proof standards, and Point of Information (POI) procedures.",
+          "communicativeOutcome": "Deconstruct debate motions, map constructive arguments and refutations on a standard debate flowsheet.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Analyze a 320-word parliamentary debate dossier outlining Oxford-style rules, burden of proof standards, and Point of Information (POI) procedures.",
+            "keyPoints": [
+              "obj_b2_163_01_map_debate_flowsheets"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_163_02_parliamentary_cross_examination_listening",
+          "title": "Acoustic Dissection: Championship Debate Cross-Examination Rounds",
+          "cyrillicTitle": "Process fast-paced interrogations, recognize question traps, and evaluate the effectiveness of speaker rebuttals in real time.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 3.5-minute unscripted collegiate championship debate cross-examination round featuring rapid POI challenges and defensive pivots.",
+          "communicativeOutcome": "Process fast-paced interrogations, recognize question traps, and evaluate the effectiveness of speaker rebuttals in real time.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Present high-speed competitive debate cross-talk, rapid interjections, and strategic voice modulation.",
+          "grammarOverview": {
+            "summary": "Listen to a 3.5-minute unscripted collegiate championship debate cross-examination round featuring rapid POI challenges and defensive pivots.",
+            "keyPoints": [
+              "obj_b2_163_02_track_cross_examination_tactics"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_163_03_point_by_point_rebuttal_writing",
+          "title": "Analytical Writing: Point-by-Point Rebuttal Strategy Brief",
+          "cyrillicTitle": "Construct a systematic rebuttal brief neutralizing opposing premises, evidentiary weaknesses, and policy impacts.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 260-word point-by-point rebuttal strategy document anticipating opponent arguments on carbon taxation.",
+          "communicativeOutcome": "Construct a systematic rebuttal brief neutralizing opposing premises, evidentiary weaknesses, and policy impacts.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a 260-word point-by-point rebuttal strategy document anticipating opponent arguments on carbon taxation.",
+            "keyPoints": [
+              "obj_b2_163_03_draft_debate_rebuttal_brief"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_163_04_timed_oxford_debate_simulation",
+          "title": "Interactive Deliberation: Executing a 4-Minute Constructive Debate Speech",
+          "cyrillicTitle": "Perform high-stakes oral argumentation, respond to unexpected POI interruptions, and maintain argumentative trajectory under pressure.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver a timed 4-minute constructive debate speech supporting or opposing a state subsidy motion and field Points of Information.",
+          "communicativeOutcome": "Perform high-stakes oral argumentation, respond to unexpected POI interruptions, and maintain argumentative trajectory under pressure.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark collegiate debate speeches modeling cadence under timed constraints.",
+          "grammarOverview": {
+            "summary": "Deliver a timed 4-minute constructive debate speech supporting or opposing a state subsidy motion and field Points of Information.",
+            "keyPoints": [
+              "obj_b2_163_04_execute_constructive_debate_speech"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_164_drafting_official_press_releases_ci",
+      "unitNumber": 164,
+      "title": "Drafting Official Press Releases & Civic Statements",
+      "cyrillicTitle": "Composing media releases on civic initiatives adhering to style",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Drafting Official Press Releases & Civic Statements.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "Composing media releases on civic initiatives adhering to style",
+      "lessons": [
+        {
+          "id": "les_b2_164_01_press_release_structure_and_corpus_reading",
+          "title": "Connected Text Analysis: Structure & Corpus of Ministerial Press Releases",
+          "cyrillicTitle": "Understand the stylized syntax, depersonalized passive phrasing, and statutory framing of official government communications.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Analyze a 310-word official ministerial press release on environmental inspection results, dissecting inverted pyramid structure, datelines, official attribution, and boilerplate institutional summaries.",
+          "communicativeOutcome": "Understand the stylized syntax, depersonalized passive phrasing, and statutory framing of official government communications.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Analyze a 310-word official ministerial press release on environmental inspection results, dissecting inverted pyramid structure, datelines, official attribution, and boilerplate institutional summaries.",
+            "keyPoints": [
+              "obj_b2_164_01_analyze_official_press_releases"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_164_02_spokesperson_briefing_listening",
+          "title": "Acoustic Dissection: Live Ministerial Press Briefing & Journalist Q&A",
+          "cyrillicTitle": "Distinguish between pre-scripted official announcements and spontaneous spokesperson answers to adversarial press questions.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 3-minute recording of an official ministerial press conference with unscripted journalist questions and spokesperson clarifications.",
+          "communicativeOutcome": "Distinguish between pre-scripted official announcements and spontaneous spokesperson answers to adversarial press questions.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Expose learners to institutional spokesperson delivery, question handling pauses, and press interjections.",
+          "grammarOverview": {
+            "summary": "Listen to a 3-minute recording of an official ministerial press conference with unscripted journalist questions and spokesperson clarifications.",
+            "keyPoints": [
+              "obj_b2_164_02_follow_press_conference_qa"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_164_03_crisis_press_release_drafting",
+          "title": "Analytical Writing: Drafting an Official Crisis Response Press Release",
+          "cyrillicTitle": "Produce an authoritative public communication balancing immediate transparency, factual reassurance, and ongoing investigative commitments.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 270-word official government press release responding to an urgent public infrastructure malfunction.",
+          "communicativeOutcome": "Produce an authoritative public communication balancing immediate transparency, factual reassurance, and ongoing investigative commitments.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a 270-word official government press release responding to an urgent public infrastructure malfunction.",
+            "keyPoints": [
+              "obj_b2_164_03_draft_crisis_press_release"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_164_04_press_briefing_delivery_spoken",
+          "title": "Interactive Deliberation: Delivering the Official Spokesperson Statement",
+          "cyrillicTitle": "Communicate complex institutional directives with professional authority, evidential caution, and poise under press scrutiny.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver a 3.5-minute opening statement as ministry spokesperson at a live press conference and answer journalist questions.",
+          "communicativeOutcome": "Communicate complex institutional directives with professional authority, evidential caution, and poise under press scrutiny.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide an exemplar spokesperson briefing modeling measured vocal pace and diplomatic intonation.",
+          "grammarOverview": {
+            "summary": "Deliver a 3.5-minute opening statement as ministry spokesperson at a live press conference and answer journalist questions.",
+            "keyPoints": [
+              "obj_b2_164_04_deliver_spokesperson_statement"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_165_moderating_multi_speaker_panel_disc",
+      "unitNumber": 165,
+      "title": "Moderating Multi-Speaker Panel Discussions",
+      "cyrillicTitle": "Guiding panel conversations, summarizing key points, managing Q&A",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Moderating Multi-Speaker Panel Discussions.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "Guiding panel conversations, summarizing key points, managing Q&A",
+      "lessons": [
+        {
+          "id": "les_b2_165_01_moderator_discourse_dossier_reading",
+          "title": "Discourse Architecture: Moderator Run-Sheets & Multi-Speaker Protocol Dossiers",
+          "cyrillicTitle": "Understand the discourse strategies required to manage conversational turn-taking, enforce time limits, and synthesize polarized panelist viewpoints.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Analyze a 330-word moderator briefing dossier for a public policy roundtable on mining royalty distribution, dissecting floor management protocols, speaker intervention scripts, and conflict de-escalation formulas.",
+          "communicativeOutcome": "Understand the discourse strategies required to manage conversational turn-taking, enforce time limits, and synthesize polarized panelist viewpoints.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Analyze a 330-word moderator briefing dossier for a public policy roundtable on mining royalty distribution, dissecting floor management protocols, speaker intervention scripts, and conflict de-escalation formulas.",
+            "keyPoints": [
+              "obj_b2_165_01_analyze_panel_moderation_protocols"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_165_02_unscripted_panel_conflict_listening",
+          "title": "Acoustic Dissection: Heated Roundtable Debate with Multi-Speaker Overlap",
+          "cyrillicTitle": "Process concurrent spoken inputs, track conversational turns across speakers, and evaluate how the moderator intervenes to restore decorum.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 3.5-minute unscripted roundtable discussion among 4 participants featuring overlapping speech, interruptions, and diverging stances on resource nationalism.",
+          "communicativeOutcome": "Process concurrent spoken inputs, track conversational turns across speakers, and evaluate how the moderator intervenes to restore decorum.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Expose learners to authentic multi-party conversational turbulence, cross-talk, and moderator pacing adjustments.",
+          "grammarOverview": {
+            "summary": "Listen to a 3.5-minute unscripted roundtable discussion among 4 participants featuring overlapping speech, interruptions, and diverging stances on resource nationalism.",
+            "keyPoints": [
+              "obj_b2_165_02_track_multi_speaker_overlap"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_165_03_panel_moderation_simulation",
+          "title": "Interactive Deliberation: Moderating a Public Policy Panel Discussion",
+          "cyrillicTitle": "Facilitate balanced group deliberation, handle aggressive interruptions with diplomatic neutrality, and keep participants focused on key agenda items.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Simulate moderating a 4-speaker public discussion, steering dialogue, curbing long-winded remarks, and summarizing emerging consensus.",
+          "communicativeOutcome": "Facilitate balanced group deliberation, handle aggressive interruptions with diplomatic neutrality, and keep participants focused on key agenda items.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Provide interactive audio cues where panelists exceed time or become belligerent.",
+          "grammarOverview": {
+            "summary": "Simulate moderating a 4-speaker public discussion, steering dialogue, curbing long-winded remarks, and summarizing emerging consensus.",
+            "keyPoints": [
+              "obj_b2_165_03_moderate_panel_deliberation"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_165_04_panel_consensus_synthesis_writing",
+          "title": "Analytical Writing: Panel Synthesis Memorandum & Consensus Report",
+          "cyrillicTitle": "Produce an institutional panel debrief providing decision-makers with a balanced record of stakeholder deliberations.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 280-word executive summary report synthesizing panelist arguments, irreconcilable differences, and actionable policy consensus points.",
+          "communicativeOutcome": "Produce an institutional panel debrief providing decision-makers with a balanced record of stakeholder deliberations.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a 280-word executive summary report synthesizing panelist arguments, irreconcilable differences, and actionable policy consensus points.",
+            "keyPoints": [
+              "obj_b2_165_04_author_panel_synthesis_memo"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_166_public_policy_capstone_municipal_ur",
+      "unitNumber": 166,
+      "title": "Public Policy Capstone: Municipal Urban Planning Brief",
+      "cyrillicTitle": "Synthesizing governance, debate, and press release in a policy proposal",
+      "description": "Consolidate, integrate, and demonstrate communicative mastery of Public Policy Capstone: Municipal Urban Planning Brief through simulated holistic tasks.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "Synthesizing governance, debate, and press release in a policy proposal",
+      "lessons": [
+        {
+          "id": "les_b2_166_01_municipal_urban_masterplan_reading",
+          "title": "Capstone Synthesis: Ulaanbaatar Municipal Master Plan & Zoning Dispute",
+          "cyrillicTitle": "Synthesize multiple legal, ecological, and economic statutory provisions governing urban renewal.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Comprehend a 350-word municipal development white paper detailing Ulaanbaatar's 2040 master plan, ger district infrastructure overhaul, and transit-oriented development zoning disputes.",
+          "communicativeOutcome": "Synthesize multiple legal, ecological, and economic statutory provisions governing urban renewal.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Comprehend a 350-word municipal development white paper detailing Ulaanbaatar's 2040 master plan, ger district infrastructure overhaul, and transit-oriented development zoning disputes.",
+            "keyPoints": [
+              "obj_b2_166_01_deconstruct_municipal_master_plan"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_166_02_public_hearing_zoning_dispute_listening",
+          "title": "Capstone Acoustic Dissection: Contentious Municipal Public Hearing",
+          "cyrillicTitle": "Differentiate conflicting stakeholder interests, discern veiled political influence, and evaluate technical engineering feasibility claims amidst emotional public debate.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4-minute unscripted municipal public hearing featuring city planners, ger district resident committee leaders, and private developers debating rezoning compensation.",
+          "communicativeOutcome": "Differentiate conflicting stakeholder interests, discern veiled political influence, and evaluate technical engineering feasibility claims amidst emotional public debate.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Expose learners to high-stakes civic hearing dynamics featuring varied acoustics, rapid rebuttal, and authentic emotional expression.",
+          "grammarOverview": {
+            "summary": "Listen to a 4-minute unscripted municipal public hearing featuring city planners, ger district resident committee leaders, and private developers debating rezoning compensation.",
+            "keyPoints": [
+              "obj_b2_166_02_evaluate_hearing_stakeholder_stances"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_166_03_stakeholder_position_synthesis_writing",
+          "title": "Capstone Analysis: Stakeholder Position Synthesis Matrix & Analytical Brief",
+          "cyrillicTitle": "Evaluate tradeoffs between urban densification and resident property rights, preparing evidence for policy recommendations.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Compose a 260-word analytical synthesis brief reconciling public consultation testimonies with municipal zoning statutes.",
+          "communicativeOutcome": "Evaluate tradeoffs between urban densification and resident property rights, preparing evidence for policy recommendations.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Compose a 260-word analytical synthesis brief reconciling public consultation testimonies with municipal zoning statutes.",
+            "keyPoints": [
+              "obj_b2_166_03_author_stakeholder_synthesis"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_166_04_municipal_policy_brief_drafting",
+          "title": "Capstone Writing Workshop: Comprehensive Municipal Policy Recommendation",
+          "cyrillicTitle": "Author a high-level policy brief integrating converb chains, rhetorical connectors, causal consequence postpositions, and statutory citations.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Draft an authoritative 320-word municipal policy recommendation to the Ulaanbaatar City Council resolving the zoning dispute.",
+          "communicativeOutcome": "Author a high-level policy brief integrating converb chains, rhetorical connectors, causal consequence postpositions, and statutory citations.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Draft an authoritative 320-word municipal policy recommendation to the Ulaanbaatar City Council resolving the zoning dispute.",
+            "keyPoints": [
+              "obj_b2_166_04_draft_authoritative_policy_brief"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_166_05_parliamentary_standing_committee_hearing",
+          "title": "Capstone Oral Defense: Defending Policy Reform in Parliamentary Committee",
+          "cyrillicTitle": "Deliver an articulate 4-minute policy defense and field rigorous, skeptical cross-examination questions from committee members.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Present and defend the municipal urban policy brief before a simulated Parliamentary Standing Committee on State Structure.",
+          "communicativeOutcome": "Deliver an articulate 4-minute policy defense and field rigorous, skeptical cross-examination questions from committee members.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark speech samples of high-stakes committee oral defenses.",
+          "grammarOverview": {
+            "summary": "Present and defend the municipal urban policy brief before a simulated Parliamentary Standing Committee on State Structure.",
+            "keyPoints": [
+              "obj_b2_166_05_defend_policy_before_committee"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_166_06_b2_sec01_culminating_mastery_capstone",
+          "title": "B2 Section 01 Culminating Mastery Checkpoint: Public Policy & Media Discourse",
+          "cyrillicTitle": "Demonstrate comprehensive B2 mastery across reading policy white papers, evaluating oral testimony, drafting press communiqués, and moderating public consensus.",
+          "estimatedMinutes": 15,
+          "lessonType": "synthesis_capstone",
+          "primaryPurpose": "Execute an integrated multi-modal assessment evaluating all linguistic, discourse, and strategic competencies acquired across Section 01. Zero new vocabulary introduced.",
+          "communicativeOutcome": "Demonstrate comprehensive B2 mastery across reading policy white papers, evaluating oral testimony, drafting press communiqués, and moderating public consensus.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Deliver multi-speaker concluding debate audio for the acoustic synthesis portion of the capstone examination.",
+          "grammarOverview": {
+            "summary": "Execute an integrated multi-modal assessment evaluating all linguistic, discourse, and strategic competencies acquired across Section 01. Zero new vocabulary introduced.",
+            "keyPoints": [
+              "Execute an integrated multi-modal assessment evaluating all linguistic, discourse, and strategic competencies acquired across Section 01. Zero new vocabulary introduced."
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_b2_166_06_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Multi-Source Policy Synthesis: Smog Abatement Dossier",
+              "modality": "SYNTHESIS_CAPSTONE",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "EVALUATE_PRAGMATICS",
+              "skillTargets": [
+                "policy_synthesis",
+                "cross_document_evaluation"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "агаарын бохирдол",
+                "гэр хороолол",
+                "дэд бүтэц",
+                "сайжруулсан түлш"
+              ],
+              "prompt": "Synthesize these two divergent policy reports on Ulaanbaatar winter air pollution:\n\n[Эх сурвалж А - Хотын захиргаа]: 'Сайжруулсан түлшний чанар стандартыг чангатгаж, түгээлтийн сүлжээг өргөтгөснөөр утааг богино хугацаанд 30% бууруулах боломжтой.'\n[Эх сурвалж Б - Эдийн засгийн хүрээлэн]: 'Сайжруулсан түлш бол түр зуурын аргацаасан арга хэмжээ мөн. Гэр хорооллыг орон сууцжуулж, дулааны цахилгаан станцын шугамд бүрэн холбохоос нааш утааны асуудал сууриараа шийдэгдэхгүй.'\n\nWhich synthesis statement accurately integrates both perspectives?",
+              "hint": "Distinguish short-term mitigation (fuel standards) from long-term structural overhaul (housing infrastructure).",
+              "options": [
+                {
+                  "id": "synth_balanced",
+                  "text": "While enhanced fuel distribution provides an immediate short-term mitigation measure, permanent eradication of air pollution fundamentally requires capital-intensive infrastructure and comprehensive ger district housing re-development.",
+                  "cyrillic": "Богино болон урт хугацааны цогц бодлого",
+                  "isCorrect": true,
+                  "explanation": "Correct! Reconciles Source A's short-term mitigation with Source B's structural critique."
+                },
+                {
+                  "id": "synth_market_only",
+                  "text": "Source A and Source B both recommend that fuel prices be deregulated immediately and left entirely to private market competition without municipal intervention.",
+                  "cyrillic": "Зах зээлийн зохицуулалтад бүрэн даатгах",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Neither source advocates unregulated market mechanisms; both call for specific public infrastructure or regulatory standards."
+                },
+                {
+                  "id": "synth_relocation_only",
+                  "text": "Both reports conclude that residential fuel improvements are futile and suggest relocating the entire ger district population outside the city basin within two years.",
+                  "cyrillic": "Хүн амыг нийслэлээс нүүлгэн шилжүүлэх",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Neither report advocates forced or mass relocation; they focus on on-site grid connection, housing redevelopment, and cleaner fuels."
+                }
+              ],
+              "correctAnswer": "While enhanced fuel distribution provides an immediate short-term mitigation measure, permanent eradication of air pollution fundamentally requires capital-intensive infrastructure and comprehensive ger district housing re-development.",
+              "acceptableAlternatives": [
+                "While enhanced fuel distribution provides an immediate short-term mitigation measure",
+                "Богино болон урт хугацааны цогц бодлого"
+              ],
+              "explanation": "Mastery synthesis demands extracting temporal and strategic nuances: immediate fuel standards vs long-term urban residential engineering.",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! Sophisticated multi-source policy synthesis.",
+                "onFailure": "Integrate both: short-term fuel controls + long-term infrastructure."
+              },
+              "detailedGrammarNote": "Synthesizing contrasting institutional sources requires concessive framing ('хэдий тийм боловч... суурь шийдэл нь...').",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Сайжруулсан түлш бол түр зуурын арга хэмжээ бөгөөд суурь шийдэл нь гэр хорооллын дэд бүтцийг хөгжүүлэх явдал юм.",
+                "slowSpeechSynthesisText": "суурь шийдэл нь гэр хорооллын дэд бүтэц юм.",
+                "ipaTranscription": "/sæːtʃʰrʊːɮsəŋ tʰuɮʃ pɔɮ tʰur tsʊːriːŋ arɢə xitʃʰeː pɵɡɵːtʰ sʊːrʲ ʃiːtəɮ nʲ ɡer xɔrɔːɮɮiːŋ tʰetʰ pʊtsiːɡ xɵɡtʃuːɮəx jawtəɮ jʊm/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_b2_166_06_b2_sec01_culminating_mastery_capstone",
+              "unitId": "unit_b2_166_public_policy_capstone_municipal_ur",
+              "cefrLevel": "B2"
+            },
+            {
+              "exerciseId": "ex_b2_166_06_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "Argumentative Counter-Framing in Urban Transit Policy",
+              "modality": "SYNTHESIS_CAPSTONE",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
+              "skillTargets": [
+                "counterargument_formulation",
+                "policy_critique"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "түгжрэл",
+                "автомашины дугаарын хязгаарлалт",
+                "нийтийн тээвэр"
+              ],
+              "prompt": "The municipal administration argues: 'Хувийн автомашины тэгш, сондгой дугаарын хязгаарлалтыг ажлын 5 өдөр болгон чангатгавал замын түгжрэл бүрэн шийдэгдэнэ.' (If license plate rationing is expanded to all 5 weekdays, traffic congestion will be completely solved.)\n\nWhich counterargument exposes the underlying systemic weakness using high-register discourse?",
+              "hint": "Highlight that restricting cars without first expanding reliable bus alternatives merely strands citizens and fuels informal unlicensed taxi activity.",
+              "options": [
+                {
+                  "id": "counter_systemic",
+                  "text": "Нийтийн тээврийн хүртээмж, чанарыг дорвитой сайжруулахгүйгээр зөвхөн захиргааны хориг арга хэмжээ авах нь иргэдийн хөдөлгөөнийг боогдуулж, эдийн засгийн идэвхийг сааруулах сөрөг үргавартай. (Imposing administrative restrictions without radically improving the accessibility and quality of public transit will merely restrict citizen mobility and depress economic activity.)",
+                  "cyrillic": "Нийтийн тээврийг сайжруулахгүйгээр захиргааны хориг тавих нь сөрөг үргавартай",
+                  "isCorrect": true,
+                  "explanation": "Correct! Systemic counterargument linking administrative over-regulation to citizen mobility constraints and economic paralysis."
+                },
+                {
+                  "id": "counter_fiscal",
+                  "text": "Замын хураамжийг нэмэгдүүлснээр төсөвт төвлөрөх хөрөнгө өсөж, шинэ зам тавих боломж бүрдэнэ гэж үзэх нь илүү оновчтой. (It is more appropriate to argue that raising road tolls will increase budget revenues and enable building new roadways.)",
+                  "cyrillic": "Замын хураамжийг нэмэгдүүлж шинэ зам барих",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. This addresses supply-side highway financing rather than directly critiquing the systemic mobility impact of weekday plate rationing."
+                },
+                {
+                  "id": "counter_telework",
+                  "text": "Төрийн бүх байгууллагын ажилтнуудыг зөвхөн цахимаар ажиллуулбал замын ачаалал шууд арилна. (If all government personnel transition exclusively to telework, traffic congestion will instantly dissipate.)",
+                  "cyrillic": "Төрийн байгууллагыг бүрэн зайнаас ажиллуулах",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. This proposes a single sector shift that does not address broad public transit infrastructure or commercial freight movements."
+                }
+              ],
+              "correctAnswer": "Нийтийн тээврийн хүртээмж, чанарыг дорвитой сайжруулахгүйгээр зөвхөн захиргааны хориг арга хэмжээ авах нь иргэдийн хөдөлгөөнийг боогдуулж, эдийн засгийн идэвхийг сааруулах сөрөг үргавартай. (Imposing administrative restrictions without radically improving the accessibility and quality of public transit will merely restrict citizen mobility and depress economic activity.)",
+              "acceptableAlternatives": [
+                "Нийтийн тээврийн хүртээмжийг сайжруулахгүйгээр захиргааны хориг тавих нь сөрөг үргавартай"
+              ],
+              "explanation": "High-level counter-framing relies on causal converbs ('сайжруулахгүйгээр' = without improving) and formal terminology ('захиргааны хориг арга хэмжээ', 'сөрөг үр дагавар').",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! Incisive, evidence-based policy counterargument.",
+                "onFailure": "Frame the systemic counterargument around public transit deficits."
+              },
+              "detailedGrammarNote": "Negative converb -хгүйгээр⁴ ('сайжруулахгүйгээр') sets up a conditional prerequisite: doing A without first ensuring B will produce failure.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Нийтийн тээврийн хүртээмжийг сайжруулахгүйгээр захиргааны хориг тавих нь сөрөг үр дагавартай.",
+                "slowSpeechSynthesisText": "захиргааны хориг арга хэмжээ авах нь сөрөг үр дагавартай.",
+                "ipaTranscription": "/nʲiːtʰiːŋ tʰeːwriːŋ xʊrtʰeːmtʃʰiːɡ sæːtʃʰrʊːɮəxɢuːɡeːr tsaxʲirɢaːniː xɔrʲiɡ arɢə xitʃʰeː awəx nʲ sɵrɵɡ ʊr tʰaɢəwərtʰæː/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_b2_166_06_b2_sec01_culminating_mastery_capstone",
+              "unitId": "unit_b2_166_public_policy_capstone_municipal_ur",
+              "cefrLevel": "B2"
+            },
+            {
+              "exerciseId": "ex_b2_166_06_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "Token Assembly: Urban Decentralization Policy Motto",
+              "modality": "SYNTHESIS_CAPSTONE",
+              "interactionPattern": "TOKEN_REARRANGEMENT",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "urban_policy_syntax",
+                "motto_formulation"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "төвлөрлийг сааруулах",
+                "дэд төв",
+                "хөгжил"
+              ],
+              "prompt": "Reconstruct this strategic municipal planning objective: 'Decentralizing the city by establishing sub-centers is the key to sustainable urban development':",
+              "wordTokens": [
+                "дэд",
+                "хотыг",
+                "байгуулан",
+                "төв",
+                "түлхүүр",
+                "төвлөрлийг",
+                "мөн",
+                "тогтвортой",
+                "сааруулах",
+                "нь"
+              ],
+              "correctTokenOrder": [
+                "дэд",
+                "төв",
+                "байгуулан",
+                "хотыг",
+                "төвлөрлийг",
+                "сааруулах",
+                "нь",
+                "тогтвортой",
+                "түлхүүр",
+                "мөн"
+              ],
+              "correctAnswer": "дэд төв байгуулан хотыг төвлөрлийг сааруулах нь тогтвортой түлхүүр мөн",
+              "acceptableAlternatives": [
+                "дэд төв байгуулан хотын төвлөрлийг сааруулах нь тогтвортой хөгжлийн түлхүүр мөн",
+                "Дэд төв байгуулан хотын төвлөрлийг сааруулах нь тогтвортой хөгжлийн түлхүүр мөн."
+              ],
+              "hint": "By building sub-centers (дэд төв байгуулан) -> decentralizing the city (хотын төвлөрлийг сааруулах нь) -> key (түлхүүр мөн).",
+              "explanation": "'Дэд төв байгуулан' (establishing sub-centers) + 'хотын төвлөрлийг сааруулах нь' (decentralizing the city) + 'тогтвортой хөгжлийн түлхүүр мөн' (is the key to sustainable development).",
+              "learnerFeedback": {
+                "onSuccess": "Сайн байна! High-register urban development policy objective assembled.",
+                "onFailure": "Sequence: дэд төв байгуулан -> хотын төвлөрлийг сааруулах нь -> түлхүүр мөн."
+              },
+              "detailedGrammarNote": "'Төвлөрлийг сааруулах' (literally 'to weaken the concentration / decentralize') is the canonical modern municipal planning term for urban decongestion.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Дэд төв байгуулан хотын төвлөрлийг сааруулах нь тогтвортой хөгжлийн түлхүүр мөн.",
+                "slowSpeechSynthesisText": "хотын төвлөрлийг сааруулах нь тогтвортой хөгжлийн түлхүүр.",
+                "ipaTranscription": "/tʰetʰ tʰɵw pæːɢʊːɮəŋ xɔtʰiːŋ tʰɵwɮɵrɮiːɡ saːrʊːɮəx nʲ tʰɔxtʰwɔrtʰɔe xɵɡtʃʰɮiːŋ tʰuɮxuːr mɵŋ/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "TOKEN_ORDER"
+              },
+              "lessonId": "les_b2_166_06_b2_sec01_culminating_mastery_capstone",
+              "unitId": "unit_b2_166_public_policy_capstone_municipal_ur",
+              "cefrLevel": "B2"
+            },
+            {
+              "exerciseId": "ex_b2_166_06_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "Cloze Insertion: Public Green Space Mandate",
+              "modality": "SYNTHESIS_CAPSTONE",
+              "interactionPattern": "CLOZE_TEXT",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "municipal_regulation_lexicon",
+                "cloze_accuracy"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "ногоон байгууламж",
+                "нэмэгдүүлэх"
+              ],
+              "prompt": "Fill in the standard administrative compound meaning 'green areas / landscaping' in this city building code:\n\n'Шинээр баригдах орон сууцны хотхоны 30-аас доошгүй хувьд _______ талбай төлөвлөх үүрэгтэй.' (Required to plan not less than 30% of new residential complexes as green areas.)",
+              "stimulusTextCyrillic": "30-аас доошгүй хувьд _______ талбай төлөвлөх",
+              "hint": "Recall the basic ecological color modifier applied to municipal lawns, parks, and tree plantings.",
+              "correctAnswer": "ногоон",
+              "acceptableAlternatives": [
+                "ногоон",
+                "Ногоон"
+              ],
+              "explanation": "'Ногоон байгууламж / ногоон талбай' (green spaces, urban landscaping) is the statutory term in Mongolian building and planning codes.",
+              "learnerFeedback": {
+                "onSuccess": "Гайхалтай! 'ногоон' талбай correctly inserted.",
+                "onFailure": "Remember that 'ногоон талбай' is the standard legal term for urban green space."
+              },
+              "detailedGrammarNote": "'Ногоон байгууламж' encompasses parks, lawns, urban foliage, and eco-buffer strips under Ulaanbaatar municipal standards.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Орон сууцны хотхоны гучин хувьд ногоон талбай төлөвлөх үүрэгтэй.",
+                "slowSpeechSynthesisText": "ногоон талбай төлөвлөх үүрэгтэй.",
+                "ipaTranscription": "/ɔrɔŋ sʊːtsʰniː xɔtʰxɔniː ɢʊtsʰəŋ xʊwʲtʰ nɔɢɔːŋ tʰaɮpæː tʰɵɮɵwɮɵx ʊːrəkʰtʰeː/",
+                "speakerRole": "female_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "NORMALIZED_TEXT",
+                "caseSensitive": false,
+                "stripPunctuation": true,
+                "normalizeWhitespace": true
+              },
+              "lessonId": "les_b2_166_06_b2_sec01_culminating_mastery_capstone",
+              "unitId": "unit_b2_166_public_policy_capstone_municipal_ur",
+              "cefrLevel": "B2"
+            },
+            {
+              "exerciseId": "ex_b2_166_06_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "Capstone Holistic Policy Briefing Rubric",
+              "modality": "SYNTHESIS_CAPSTONE",
+              "interactionPattern": "OPEN_RESPONSE_RUBRIC",
+              "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
+              "skillTargets": [
+                "capstone_policy_defense",
+                "evidence_qualification"
+              ],
+              "grammarTargets": [
+                "gram_b2_topic_bol_vs_contrastive_harin"
+              ],
+              "vocabularyTargets": [
+                "бодлогын зөвлөмж",
+                "төсөв",
+                "хэрэгжүүлэх механизм"
+              ],
+              "prompt": "Read the learner's submitted policy memorandum on Ulaanbaatar waste management:\n\n'БОДЛОГЫН САНАМЖ БИЧИГ:\n1. Асуудлын тодорхойлолт: Нийслэлийн хэмжээнд жилд үүсэж буй 1.4 сая тонн хог хаягдлын 90 гаруй хувийг ил задгай булж байна. Энэ нь хөрс, гүний усыг ноцтой бохирдуулж байна.\n2. Сөрөг тал ба саад: Хог ангилан ялгах соёл бол төлөвшөөгүй, харин дахин боловсруулах үйлдвэрүүдийн хүчин чадал хангалтгүй байна.\n3. Шийдлийн хувилбар: Төрийн болон хувийн хэвшлийн түншлэлээр хог дахин боловсруулах эко парк байгуулж, ангилан ялгасан иргэдэд урамшуулал олгох механизмыг нэвтрүүлэх нь хамгийн оновчтой шийдэл мөн.'\n\nEvaluate this memorandum against criteria of: 1. Empirical diagnosis, 2. Use of contrastive topic markers (бол vs харин), 3. Feasibility of policy recommendation.",
+              "stimulusTextCyrillic": "БОДЛОГЫН САНАМЖ БИЧИГ ... Хог ангилан ялгах соёл бол төлөвшөөгүй, харин дахин боловсруулах үйлдвэрүүд...",
+              "correctAnswer": "Exemplary policy memorandum featuring quantitative diagnosis (1.4 million tons, 90%), flawless contrastive topic balance (соёл бол... харин хүчин чадал...), and viable public-private partnership recommendation.",
+              "acceptableAlternatives": [
+                "Exemplary policy memorandum",
+                "Шалгуурыг бүрэн хангасан",
+                "Meets all criteria"
+              ],
+              "hint": "Check whether concrete numbers are cited, whether 'бол/харин' are used correctly, and whether actionable solutions are proposed.",
+              "explanation": "The memo meets all B2 capstone criteria: empirical ground (1.4 million tons), syntactic mastery of topic vs contrast ('соёл бол... харин...'), and realistic institutional mechanics (PPP eco-park).",
+              "learnerFeedback": {
+                "onSuccess": "Төгс! Rigorous analytical evaluation of B2 capstone policy dossier.",
+                "onFailure": "Verify empirical evidence, 'бол/харин' contrast, and solution feasibility."
+              },
+              "detailedGrammarNote": "A 'Бодлогын санамж бичиг' (Policy Brief / Memorandum) represents the culmination of B2 civic and professional operational competence.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Энэхүү бодлогын санамж бичиг нь шалгуур үзүүлэлтийг бүрэн хангаж байна.",
+                "slowSpeechSynthesisText": "бодлогын санамж бичгийн үнэлгээ.",
+                "ipaTranscription": "/enəxuː pɔtɮɔɢiːŋ sanəmtʃʰ pʰitʃʰiɡ nʲ ʃaɮɢʊːr uutsʊːɮəɮtʰiːɡ pʰurəŋ xaŋɢətʃʰ pæːn/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "RUBRIC_CRITERIA",
+                "rubricCriteria": [
+                  {
+                    "criterion": "Empirical Problem Diagnosis",
+                    "points": 35,
+                    "description": "Accurately notes quantified data (1.4 million tons, 90% landfill)."
+                  },
+                  {
+                    "criterion": "Contrastive Discourse Control",
+                    "points": 35,
+                    "description": "Verifies correct usage of 'бол' (culture) vs 'харин' (industrial capacity)."
+                  },
+                  {
+                    "criterion": "Actionable Mechanism Feasibility",
+                    "points": 30,
+                    "description": "Confirms realistic PPP mechanism and citizen incentive structures."
+                  }
+                ]
+              },
+              "lessonId": "les_b2_166_06_b2_sec01_culminating_mastery_capstone",
+              "unitId": "unit_b2_166_public_policy_capstone_municipal_ur",
+              "cefrLevel": "B2"
+            }
+          ],
+          "exerciseCount": 5
+        }
+      ]
+    }
+  ]
+}

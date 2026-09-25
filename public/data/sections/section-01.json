@@ -1,0 +1,1754 @@
+{
+  "sectionId": "sec_pre_a1_01_cyrillic_graphemes_vowels",
+  "sectionNumber": 1,
+  "title": "Cyrillic Script Literacy & Primary Vowel Systems",
+  "cyrillicTitle": "Монгол кирилл цагаан толгой ба үндсэн эгшиг",
+  "cefr": "Pre-A1",
+  "theme": "Enable the learner to read isolated Cyrillic characters, identify own name in Cyrillic, sound out simple one-syllable words, and operate a standard Mongolian Cyrillic keyboard.",
+  "description": "Establish foundational grapheme-phoneme correspondences for the 35 Cyrillic letters, mastering standard alphabetical collation, handwritten vs printed recognition, and the core 7 short vowels plus the distinct Mongolian letters Ө and Ү.",
+  "unitCount": 7,
+  "lessonCount": 32,
+  "exerciseCount": 15,
+  "units": [
+    {
+      "id": "unit_pre_a1_01_alphabet_consonants_intro",
+      "unitNumber": 1,
+      "title": "Cyrillic Script Recognition & Shared Consonants",
+      "cyrillicTitle": "Deciphering Cyrillic letters and recognizing global cognates",
+      "description": "Master orthographic recognition, acoustic discrimination, and precise oral articulation for: Cyrillic Script Recognition & Shared Consonants.",
+      "cefrLevel": "Pre-A1",
+      "primaryGrammarTopic": "Deciphering Cyrillic letters and recognizing global cognates",
+      "lessons": [
+        {
+          "id": "les_pre_a1_01_01_shared_consonants_visual",
+          "title": "Recognizing Shared Cyrillic Consonants: М, Т, К, О, А",
+          "cyrillicTitle": "Visually identify and match Cyrillic letters М, Т, К, О, and А against identical Latin and international glyphs.",
+          "estimatedMinutes": 15,
+          "lessonType": "orthography",
+          "primaryPurpose": "Introduce printed capital and lowercase letterforms for shared Cyrillic consonants and cardinal anchor vowels.",
+          "communicativeOutcome": "Visually identify and match Cyrillic letters М, Т, К, О, and А against identical Latin and international glyphs.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic articulation of isolated Cyrillic consonant phonemes without trailing neutral schwa.",
+          "grammarOverview": {
+            "summary": "Introduce printed capital and lowercase letterforms for shared Cyrillic consonants and cardinal anchor vowels.",
+            "keyPoints": [
+              "obj_pre_a1_01_01_identify_shared_glyphs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_pre_a1_01_01_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Recognizing Shared Cyrillic Capital 'М'",
+              "modality": "ORTHOGRAPHY_PHONOLOGY",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "IDENTIFY_RECOGNIZE",
+              "skillTargets": [
+                "visual_grapheme_recognition",
+                "cyrillic_letter_identification"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "М",
+                "м"
+              ],
+              "prompt": "Identify the Cyrillic letter that represents the bilabial nasal consonant /m/ (equivalent in visual shape to Latin 'M').",
+              "stimulusTextCyrillic": "М",
+              "hint": "Look for the letter identical in form to the English uppercase 'M'.",
+              "options": [
+                {
+                  "id": "opt_1",
+                  "text": "М",
+                  "cyrillic": "М",
+                  "isCorrect": true,
+                  "explanation": "Correct! Cyrillic 'М' represents /m/ and shares its glyph form with Latin 'M'."
+                },
+                {
+                  "id": "opt_2",
+                  "text": "И",
+                  "cyrillic": "И",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'И' represents the vowel /i/, which looks like a reversed 'N'."
+                },
+                {
+                  "id": "opt_3",
+                  "text": "П",
+                  "cyrillic": "П",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'П' represents the voiceless stop /p/ (Greek Pi)."
+                },
+                {
+                  "id": "opt_4",
+                  "text": "Л",
+                  "cyrillic": "Л",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'Л' represents the lateral liquid /l/."
+                }
+              ],
+              "correctAnswer": "М",
+              "acceptableAlternatives": [
+                "М",
+                "м"
+              ],
+              "explanation": "Cyrillic uppercase 'М' and lowercase 'м' represent the voiced bilabial nasal consonant /m/. It is visually identical to Latin 'M'.",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! You correctly recognized Cyrillic 'М'.",
+                "onFailure": "Remember, Cyrillic 'М' looks identical to the Latin letter 'M'."
+              },
+              "detailedGrammarNote": "Modern Mongolian Cyrillic shares several glyphs directly with Latin: A, O, M, T, K. Consonant 'М' corresponds to the universal bilabial nasal phoneme [m].",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "М",
+                "slowSpeechSynthesisText": "М",
+                "ipaTranscription": "/m/",
+                "speakerRole": "narrator",
+                "speechRate": 0.8
+              },
+              "evaluation": {
+                "matchType": "EXACT",
+                "caseSensitive": true
+              },
+              "lessonId": "les_pre_a1_01_01_shared_consonants_visual",
+              "unitId": "unit_pre_a1_01_alphabet_consonants_intro",
+              "cefrLevel": "Pre-A1"
+            },
+            {
+              "exerciseId": "ex_pre_a1_01_01_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "Matching Lowercase and Uppercase Shared Consonants",
+              "modality": "ORTHOGRAPHY_PHONOLOGY",
+              "interactionPattern": "PAIR_MATCHING",
+              "cognitiveComplexity": "IDENTIFY_RECOGNIZE",
+              "skillTargets": [
+                "grapheme_case_pairing"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "Т",
+                "т",
+                "К",
+                "к",
+                "О",
+                "о",
+                "А",
+                "а"
+              ],
+              "prompt": "Pair each uppercase Cyrillic letter with its exact lowercase partner for the shared letters Т, К, О, А.",
+              "stimulusTextCyrillic": "Т, К, О, А",
+              "hint": "Cyrillic lowercase letters generally mirror their uppercase shapes in reduced height.",
+              "options": [
+                {
+                  "id": "pair_t",
+                  "text": "Т -> т",
+                  "cyrillic": "Т - т",
+                  "isCorrect": true,
+                  "explanation": "Т matches lowercase т."
+                },
+                {
+                  "id": "pair_k",
+                  "text": "К -> к",
+                  "cyrillic": "К - к",
+                  "isCorrect": true,
+                  "explanation": "К matches lowercase к."
+                },
+                {
+                  "id": "pair_o",
+                  "text": "О -> о",
+                  "cyrillic": "О - о",
+                  "isCorrect": true,
+                  "explanation": "О matches lowercase о."
+                },
+                {
+                  "id": "pair_a",
+                  "text": "А -> а",
+                  "cyrillic": "А - а",
+                  "isCorrect": true,
+                  "explanation": "А matches lowercase а."
+                }
+              ],
+              "correctAnswer": "Т-т, К-к, О-о, А-а",
+              "acceptableAlternatives": [
+                "Т:т, К:к, О:о, А:а",
+                "Т-т К-к О-о А-а"
+              ],
+              "explanation": "In printed Cyrillic, letters like Т, К, О, and А have identical letterforms in uppercase and lowercase, varying only in font size.",
+              "learnerFeedback": {
+                "onSuccess": "Зөв! All case pairings match correctly.",
+                "onFailure": "Check each letter: Т-т, К-к, О-о, А-а."
+              },
+              "detailedGrammarNote": "Unlike Latin handwriting where cursive 't' differs substantially from 'T', Mongolian Cyrillic print preserves the uniform bar top for both uppercase Т and lowercase т.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Т, К, О, А",
+                "slowSpeechSynthesisText": "Т, К, О, А",
+                "ipaTranscription": "/t/, /k/, /ɔ/, /a/",
+                "speakerRole": "narrator",
+                "speechRate": 0.8
+              },
+              "evaluation": {
+                "matchType": "NORMALIZED_TEXT",
+                "caseSensitive": false,
+                "stripPunctuation": true,
+                "normalizeWhitespace": true
+              },
+              "lessonId": "les_pre_a1_01_01_shared_consonants_visual",
+              "unitId": "unit_pre_a1_01_alphabet_consonants_intro",
+              "cefrLevel": "Pre-A1"
+            },
+            {
+              "exerciseId": "ex_pre_a1_01_01_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "Distinguishing True Consonant 'К' in Loanwords",
+              "modality": "ORTHOGRAPHY_PHONOLOGY",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "loanword_phonology_recognition"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "кино",
+                "карт",
+                "кофе"
+              ],
+              "prompt": "Which of the following common Mongolian loanwords begins with the shared Cyrillic consonant 'К'?",
+              "stimulusTextCyrillic": "кино",
+              "hint": "Think of the international word for cinema / movie.",
+              "options": [
+                {
+                  "id": "opt_kino",
+                  "text": "кино (cinema / movie)",
+                  "cyrillic": "кино",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'кино' begins with Cyrillic 'к'."
+                },
+                {
+                  "id": "opt_nom",
+                  "text": "ном (book)",
+                  "cyrillic": "ном",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'ном' begins with 'н'."
+                },
+                {
+                  "id": "opt_ger",
+                  "text": "гэр (home / yurta)",
+                  "cyrillic": "гэр",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'гэр' begins with 'г'."
+                },
+                {
+                  "id": "opt_us",
+                  "text": "ус (water)",
+                  "cyrillic": "ус",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'ус' begins with vowel 'у'."
+                }
+              ],
+              "correctAnswer": "кино",
+              "acceptableAlternatives": [
+                "кино (cinema / movie)"
+              ],
+              "explanation": "Cyrillic 'К' appears predominantly in international loanwords in Mongolian such as 'кино' (movie), 'карт' (card), and 'кофе' (coffee).",
+              "learnerFeedback": {
+                "onSuccess": "Сайн байна! 'кино' is spelled with initial Cyrillic 'к'.",
+                "onFailure": "Remember: 'кино' starts with 'к'."
+              },
+              "detailedGrammarNote": "Native Mongolian vocabulary uses 'г' and 'х' for velar and uvular stops/fricatives. The letter 'к' was introduced into the Cyrillic orthography primarily to accommodate 20th-century Russian and international loan vocabulary.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "кино",
+                "slowSpeechSynthesisText": "кино",
+                "ipaTranscription": "/kʲinɔ/",
+                "speakerRole": "narrator",
+                "speechRate": 0.9
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_pre_a1_01_01_shared_consonants_visual",
+              "unitId": "unit_pre_a1_01_alphabet_consonants_intro",
+              "cefrLevel": "Pre-A1"
+            },
+            {
+              "exerciseId": "ex_pre_a1_01_01_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "Token Identification: Shared Letters in 'ТАМГА'",
+              "modality": "ORTHOGRAPHY_PHONOLOGY",
+              "interactionPattern": "TOKEN_REARRANGEMENT",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "grapheme_assembly",
+                "spelling_decoding"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "тамга"
+              ],
+              "prompt": "Arrange the scrambled letters to spell the classical cultural word 'тамга' (seal/stamp), observing the shared consonants Т, М, and vowel А.",
+              "contextSentence": "Төрийн сүлд тамга (State seal and stamp)",
+              "wordTokens": [
+                "г",
+                "а",
+                "т",
+                "а",
+                "м"
+              ],
+              "correctTokenOrder": [
+                "т",
+                "а",
+                "м",
+                "г",
+                "а"
+              ],
+              "correctAnswer": "тамга",
+              "acceptableAlternatives": [
+                "ТАМГА"
+              ],
+              "hint": "The word starts with 'т', followed by 'а' and 'м'.",
+              "explanation": "Т-а-м-г-а spells 'тамга' (seal, stamp). It contains shared consonants т and м along with back vowel а.",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! 'тамга' assembled perfectly.",
+                "onFailure": "Follow the sequence: т -> а -> м -> г -> а."
+              },
+              "detailedGrammarNote": "'Тамга' is a historical and cultural term designating sovereign stamps, clan seals, and brand marks throughout Central Asia.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "тамга",
+                "slowSpeechSynthesisText": "тамга",
+                "ipaTranscription": "/tʰamɢa/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "TOKEN_ORDER"
+              },
+              "lessonId": "les_pre_a1_01_01_shared_consonants_visual",
+              "unitId": "unit_pre_a1_01_alphabet_consonants_intro",
+              "cefrLevel": "Pre-A1"
+            },
+            {
+              "exerciseId": "ex_pre_a1_01_01_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "Acoustic Consonant Transcription: /t/ and /m/",
+              "modality": "LISTENING_COMPREHENSION",
+              "interactionPattern": "AUDIO_DICTATION",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "phoneme_grapheme_mapping",
+                "dictation_accuracy"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "ном",
+                "том"
+              ],
+              "prompt": "Listen to the spoken audio and type the two-letter word with shared consonant Т: 'то' or 'та'?",
+              "stimulusTextCyrillic": "та",
+              "hint": "Listen for the open low back vowel /a/ after /tʰ/.",
+              "correctAnswer": "та",
+              "acceptableAlternatives": [
+                "Та",
+                "ТА"
+              ],
+              "explanation": "The speaker pronounced 'та' (/tʰa/), which is also the formal second-person pronoun ('you').",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! You transcribed 'та' correctly.",
+                "onFailure": "Listen closely to the audio: 'т' followed by 'а' -> 'та'."
+              },
+              "detailedGrammarNote": "'Та' functions both as an orthographic syllable demonstrating consonants Т and А and as the essential polite pronoun of address in Mongolian.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "та",
+                "slowSpeechSynthesisText": "та",
+                "ipaTranscription": "/tʰa/",
+                "speakerRole": "female_native",
+                "speechRate": 0.8
+              },
+              "evaluation": {
+                "matchType": "NORMALIZED_TEXT",
+                "caseSensitive": false,
+                "stripPunctuation": true,
+                "normalizeWhitespace": true
+              },
+              "lessonId": "les_pre_a1_01_01_shared_consonants_visual",
+              "unitId": "unit_pre_a1_01_alphabet_consonants_intro",
+              "cefrLevel": "Pre-A1"
+            }
+          ],
+          "exerciseCount": 5
+        },
+        {
+          "id": "les_pre_a1_01_02_false_friend_letters",
+          "title": "Navigating Cyrillic False Friends: В, Н, Р, С, Х",
+          "cyrillicTitle": "Distinguish and decode misleading letterforms В (/w/~/v/), Н (/n/), Р (/r/), С (/s/), Х (/x/) without phonetic Latin interference.",
+          "estimatedMinutes": 15,
+          "lessonType": "orthography",
+          "primaryPurpose": "Differentiate letters that look identical to Latin graphemes but represent distinct Slavic/Mongolian phonemes.",
+          "communicativeOutcome": "Distinguish and decode misleading letterforms В (/w/~/v/), Н (/n/), Р (/r/), С (/s/), Х (/x/) without phonetic Latin interference.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Native pronunciation of initial fricatives and rolled alveolar trill Р (/r/).",
+          "grammarOverview": {
+            "summary": "Differentiate letters that look identical to Latin graphemes but represent distinct Slavic/Mongolian phonemes.",
+            "keyPoints": [
+              "obj_pre_a1_01_02_discriminate_false_friends"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_01_03_simple_syllables_reading",
+          "title": "Blending Consonants and Vowels into Simple Syllables (CV and CVC)",
+          "cyrillicTitle": "Pronounce and decode basic monosyllabic and disyllabic letter strings with accurate phonemic boundaries.",
+          "estimatedMinutes": 15,
+          "lessonType": "phonology_introduction",
+          "primaryPurpose": "Train the blending of shared consonants with cardinal vowels А and О into transparent open and closed syllables.",
+          "communicativeOutcome": "Pronounce and decode basic monosyllabic and disyllabic letter strings with accurate phonemic boundaries.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Phonetically pure syllable audio without synthetic formant warping.",
+          "grammarOverview": {
+            "summary": "Train the blending of shared consonants with cardinal vowels А and О into transparent open and closed syllables.",
+            "keyPoints": [
+              "obj_pre_a1_01_03_blend_cv_syllables"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_01_04_cognates_and_signs_decoding",
+          "title": "Decoding Real-World Signs and Global Cognates",
+          "cyrillicTitle": "Read and comprehend high-frequency urban signs (КИНО, ТАКСИ, БАНК, КАССА, АПТЕК) in public environments.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Apply learned consonants and anchor vowels to decipher authentic public signs, logos, and international cognates.",
+          "communicativeOutcome": "Read and comprehend high-frequency urban signs (КИНО, ТАКСИ, БАНК, КАССА, АПТЕК) in public environments.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic urban audio models of store names and public announcements.",
+          "grammarOverview": {
+            "summary": "Apply learned consonants and anchor vowels to decipher authentic public signs, logos, and international cognates.",
+            "keyPoints": [
+              "obj_pre_a1_01_04_read_public_cognate_signs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_pre_a1_02_mongolian_distinct_letters",
+      "unitNumber": 2,
+      "title": "Mongolian-Specific Letters: Ө and Ү",
+      "cyrillicTitle": "Sounding out distinctly Mongolian words and place names",
+      "description": "Master orthographic recognition, acoustic discrimination, and precise oral articulation for: Mongolian-Specific Letters: Ө and Ү.",
+      "cefrLevel": "Pre-A1",
+      "primaryGrammarTopic": "Sounding out distinctly Mongolian words and place names",
+      "lessons": [
+        {
+          "id": "les_pre_a1_02_01_grapheme_recognition_o_u",
+          "title": "Identifying Distinctive Mongolian Letters Ө and Ү",
+          "cyrillicTitle": "Recognize Ө and Ү in isolation and within authentic words without confusing them with standard О or У.",
+          "estimatedMinutes": 15,
+          "lessonType": "orthography",
+          "primaryPurpose": "Introduce the visual letterforms and historical background of the two unique Mongolian Cyrillic characters Ө and Ү.",
+          "communicativeOutcome": "Recognize Ө and Ү in isolation and within authentic words without confusing them with standard О or У.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Phonetic articulation of rounded front vowels [ɵ] and [u].",
+          "grammarOverview": {
+            "summary": "Introduce the visual letterforms and historical background of the two unique Mongolian Cyrillic characters Ө and Ү.",
+            "keyPoints": [
+              "obj_pre_a1_02_01_identify_distinctive_graphemes"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_02_02_auditory_discrimination_minimal_pairs",
+          "title": "Auditory Discrimination: О vs Ө and У vs Ү",
+          "cyrillicTitle": "Accurately discern minimal pairs such as ор (bed/place) vs өр (debt), and ус (water) vs үс (hair).",
+          "estimatedMinutes": 15,
+          "lessonType": "phonology_introduction",
+          "primaryPurpose": "Train the ear to differentiate the open mid-rounded back vowel /ɔ/ from the front-rounded /ɵ/, and /ʊ/ from /u/.",
+          "communicativeOutcome": "Accurately discern minimal pairs such as ор (bed/place) vs өр (debt), and ус (water) vs үс (hair).",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Pristine acoustic contrast between Khalkha phonemes /ɔ/, /ɵ/, /ʊ/, /u/.",
+          "grammarOverview": {
+            "summary": "Train the ear to differentiate the open mid-rounded back vowel /ɔ/ from the front-rounded /ɵ/, and /ʊ/ from /u/.",
+            "keyPoints": [
+              "obj_pre_a1_02_02_discriminate_vowel_pairs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_pre_a1_02_02_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Auditory Minimal Pair Contrast: О vs Ө",
+              "modality": "LISTENING_COMPREHENSION",
+              "interactionPattern": "AUDIO_COMPREHENSION",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "acoustic_phonetic_discrimination",
+                "vowel_backness_auditory"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "мод",
+                "мөр"
+              ],
+              "prompt": "Listen to the audio recording. Did the speaker pronounce back rounded vowel word 'мод' (tree/wood) or front rounded vowel word 'мөр' (shoulder/path)?",
+              "stimulusTextCyrillic": "мөр",
+              "hint": "Notice whether the vowel resonance sounds deep and guttural (О) or mid-front and rounded (Ө).",
+              "options": [
+                {
+                  "id": "opt_mor",
+                  "text": "мөр (shoulder / line / path)",
+                  "cyrillic": "мөр",
+                  "isCorrect": true,
+                  "explanation": "Correct! The speaker pronounced the front rounded vowel /ө/ in 'мөр'."
+                },
+                {
+                  "id": "opt_mod",
+                  "text": "мод (wood / tree)",
+                  "cyrillic": "мод",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'мод' contains the back rounded vowel /ɔ/."
+                }
+              ],
+              "correctAnswer": "мөр",
+              "acceptableAlternatives": [
+                "мөр (shoulder / line / path)"
+              ],
+              "explanation": "Cyrillic 'Ө' represents the front mid-rounded vowel /ө/ [ɵ], contrasting with 'О' which represents the back low-mid rounded vowel [ɔ].",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! You distinguished the front vowel 'ө' in 'мөр'.",
+                "onFailure": "Listen to the tongue position: 'ө' is higher and forward compared to 'о'."
+              },
+              "detailedGrammarNote": "The phonemic contrast between back /ɔ/ and front /ө/ is fundamental to Khalkha phonology and governs root vowel harmony throughout the language.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "мөр",
+                "slowSpeechSynthesisText": "мөр",
+                "ipaTranscription": "/mɵr/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_pre_a1_02_02_auditory_discrimination_minimal_pairs",
+              "unitId": "unit_pre_a1_02_mongolian_distinct_letters",
+              "cefrLevel": "Pre-A1"
+            },
+            {
+              "exerciseId": "ex_pre_a1_02_02_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "Auditory Discrimination: High Back 'У' vs High Front 'Ү'",
+              "modality": "LISTENING_COMPREHENSION",
+              "interactionPattern": "AUDIO_COMPREHENSION",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "high_vowel_discrimination",
+                "minimal_pair_decoding"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "ус",
+                "үс"
+              ],
+              "prompt": "Listen carefully to the audio stimulus. Which word was spoken: 'ус' (water) or 'үс' (hair)?",
+              "stimulusTextCyrillic": "ус",
+              "hint": "The back vowel 'у' has a pharyngeal resonance /ʊ/, while 'ү' is a front close vowel /u/.",
+              "options": [
+                {
+                  "id": "opt_us",
+                  "text": "ус (water) - Back vowel У",
+                  "cyrillic": "ус",
+                  "isCorrect": true,
+                  "explanation": "Correct! The audio features the retracted back vowel /ʊ/ in 'ус'."
+                },
+                {
+                  "id": "opt_ys",
+                  "text": "үс (hair) - Front vowel Ү",
+                  "cyrillic": "үс",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'үс' has a higher, fronted vowel quality /u/."
+                }
+              ],
+              "correctAnswer": "ус",
+              "acceptableAlternatives": [
+                "ус",
+                "ус (water)"
+              ],
+              "explanation": "Mongolian 'ус' (/ʊs/) uses the back rounded vowel У, whereas 'үс' (/us/) uses the front close rounded vowel Ү.",
+              "learnerFeedback": {
+                "onSuccess": "Зөв! That was 'ус' (water) with back vowel У.",
+                "onFailure": "The spoken token has a deeper back tongue position: 'ус'."
+              },
+              "detailedGrammarNote": "In Mongolian linguistic terminology, 'у' belongs to the masculine vowels (эр эгшиг), while 'ү' belongs to the feminine vowels (эм эгшиг). Conflating them changes word meaning completely.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "ус",
+                "slowSpeechSynthesisText": "ус",
+                "ipaTranscription": "/ʊs/",
+                "speakerRole": "female_native",
+                "speechRate": 0.8
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_pre_a1_02_02_auditory_discrimination_minimal_pairs",
+              "unitId": "unit_pre_a1_02_mongolian_distinct_letters",
+              "cefrLevel": "Pre-A1"
+            },
+            {
+              "exerciseId": "ex_pre_a1_02_02_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "Phonetic Categorization: Sorting Spoken Roots by Vowel Backness",
+              "modality": "LISTENING_COMPREHENSION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "vowel_resonance_auditory_classification"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "сүү",
+                "сур"
+              ],
+              "prompt": "Listen to the word: 'сүү' (milk). Does it contain a Front (feminine) vowel or a Back (masculine) vowel?",
+              "stimulusTextCyrillic": "сүү",
+              "hint": "The letter 'ү' is written with a vertical tick through the center and sounds like high front /u/.",
+              "options": [
+                {
+                  "id": "cat_front",
+                  "text": "Front (Эм эгшиг) - vowel Ү",
+                  "cyrillic": "Эм эгшиг",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'сүү' features the long front rounded vowel үү."
+                },
+                {
+                  "id": "cat_back",
+                  "text": "Back (Эр эгшиг) - vowel У",
+                  "cyrillic": "Эр эгшиг",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'сүү' contains front vowel ү, not back vowel у."
+                }
+              ],
+              "correctAnswer": "Front (Эм эгшиг) - vowel Ү",
+              "acceptableAlternatives": [
+                "Front",
+                "Эм эгшиг",
+                "Front (Эм эгшиг)"
+              ],
+              "explanation": "'Сүү' (milk) is formed with the long front vowel 'үү', placing it squarely in the feminine (front) harmonic class.",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! 'Сүү' is an exemplary front-vowel root.",
+                "onFailure": "Remember: 'ү' belongs to the front (эм) vowel class."
+              },
+              "detailedGrammarNote": "Long vowels in Mongolian are orthographically represented by double letters (аа, ээ, оо, өө, уу, үүү). Their harmonic class matches their single counterpart.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "сүү",
+                "slowSpeechSynthesisText": "сүү",
+                "ipaTranscription": "/suː/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_pre_a1_02_02_auditory_discrimination_minimal_pairs",
+              "unitId": "unit_pre_a1_02_mongolian_distinct_letters",
+              "cefrLevel": "Pre-A1"
+            },
+            {
+              "exerciseId": "ex_pre_a1_02_02_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "Minimal Pair Dictation: Өдөр vs Үнэн",
+              "modality": "LISTENING_COMPREHENSION",
+              "interactionPattern": "AUDIO_DICTATION",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "spelling_from_acoustic_stimulus",
+                "front_vowel_transcription"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "өдөр"
+              ],
+              "prompt": "Listen to the word meaning 'day' and type the Cyrillic spelling using the front vowel Ө:",
+              "stimulusTextCyrillic": "өдөр",
+              "hint": "Transcribe the mid-front rounded vowel 'ө' followed by alveolar stop 'д' and coda 'р'.",
+              "correctAnswer": "өдөр",
+              "acceptableAlternatives": [
+                "Өдөр",
+                "ӨДӨР"
+              ],
+              "explanation": "'Өдөр' (/өдөр/ [ɵtər]) means 'day'. It exemplifies harmonic assimilation where both vowels are mid-front 'ө'.",
+              "learnerFeedback": {
+                "onSuccess": "Гайхалтай! You spelled 'өдөр' with exact Cyrillic letters.",
+                "onFailure": "Remember that the word for 'day' has front rounded vowels: 'өдөр'."
+              },
+              "detailedGrammarNote": "Non-initial vowels in Khalkha Mongolian undergo reduction, but orthography preserves the harmonic front vowel symbol 'ө'.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "өдөр",
+                "slowSpeechSynthesisText": "өдөр",
+                "ipaTranscription": "/ɵtər/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "NORMALIZED_TEXT",
+                "caseSensitive": false,
+                "stripPunctuation": true,
+                "normalizeWhitespace": true
+              },
+              "lessonId": "les_pre_a1_02_02_auditory_discrimination_minimal_pairs",
+              "unitId": "unit_pre_a1_02_mongolian_distinct_letters",
+              "cefrLevel": "Pre-A1"
+            },
+            {
+              "exerciseId": "ex_pre_a1_02_02_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "Auditory Identification: Detecting the Odd Vowel Out",
+              "modality": "LISTENING_COMPREHENSION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "auditory_pattern_recognition",
+                "vowel_harmony_perception"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "ус",
+                "сум",
+                "нут",
+                "гэр"
+              ],
+              "prompt": "Three of these words contain back vowels (эр эгшиг). Which word contains a FRONT vowel (эм эгшиг)?",
+              "stimulusTextCyrillic": "ус, сум, нут, гэр",
+              "hint": "Listen for the unrounded front vowel 'э'.",
+              "options": [
+                {
+                  "id": "opt_ger",
+                  "text": "гэр (home) - vowel Э",
+                  "cyrillic": "гэр",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'гэр' contains the front vowel 'э'."
+                },
+                {
+                  "id": "opt_us",
+                  "text": "ус (water) - vowel У",
+                  "cyrillic": "ус",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'ус' contains the back vowel 'у'."
+                },
+                {
+                  "id": "opt_sum",
+                  "text": "сум (arrow/district) - vowel У",
+                  "cyrillic": "сум",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'сум' contains back vowel 'у'."
+                },
+                {
+                  "id": "opt_nut",
+                  "text": "нут (homeland root) - vowel У",
+                  "cyrillic": "нут",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'нут' contains back vowel 'у'."
+                }
+              ],
+              "correctAnswer": "гэр (home) - vowel Э",
+              "acceptableAlternatives": [
+                "гэр",
+                "гэр (home)"
+              ],
+              "explanation": "'Гэр' contains 'э', a front unrounded vowel. The other three words contain 'у', a back rounded vowel.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! 'Гэр' is the front-vowel word.",
+                "onFailure": "'гэр' has 'э' which is front; the others have 'у' which is back."
+              },
+              "detailedGrammarNote": "Front vowels in Mongolian are: э, ө, ү (and front variants of и). Back vowels are: а, о, у.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "ус, сум, нут, гэр",
+                "slowSpeechSynthesisText": "ус, сум, нут, гэр",
+                "ipaTranscription": "/ʊs, sʊm, nʊtʰ, ɡer/",
+                "speakerRole": "narrator",
+                "speechRate": 0.8
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_pre_a1_02_02_auditory_discrimination_minimal_pairs",
+              "unitId": "unit_pre_a1_02_mongolian_distinct_letters",
+              "cefrLevel": "Pre-A1"
+            }
+          ],
+          "exerciseCount": 5
+        },
+        {
+          "id": "les_pre_a1_02_03_high_frequency_core_roots",
+          "title": "Reading High-Frequency Words with Ө and Ү: өдөр, өвөл, үнэн, сүү",
+          "cyrillicTitle": "Read and recognize essential everyday words (өдөр 'day', өвөл 'winter', үнэн 'true', сүү 'milk') in print.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce essential daily vocabulary containing Ө and Ү across common domestic and temporal contexts.",
+          "communicativeOutcome": "Read and recognize essential everyday words (өдөр 'day', өвөл 'winter', үнэн 'true', сүү 'milk') in print.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic lexical pronunciation with natural Khalkha word stress.",
+          "grammarOverview": {
+            "summary": "Introduce essential daily vocabulary containing Ө and Ү across common domestic and temporal contexts.",
+            "keyPoints": [
+              "obj_pre_a1_02_03_read_core_o_u_words"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_02_04_reading_place_names_o_u",
+          "title": "Decoding Mongolian Geographic and Cultural Names: Өвөрхангай, Сүхбаатар",
+          "cyrillicTitle": "Read and pronounce major Mongolian place names, square names, and street signs containing Ө and Ү.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Decode prominent Mongolian administrative regions, provinces (аймаг), and landmarks featuring Ө and Ү.",
+          "communicativeOutcome": "Read and pronounce major Mongolian place names, square names, and street signs containing Ө and Ү.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Native pronunciation of compound place names and province designations.",
+          "grammarOverview": {
+            "summary": "Decode prominent Mongolian administrative regions, provinces (аймаг), and landmarks featuring Ө and Ү.",
+            "keyPoints": [
+              "obj_pre_a1_02_04_read_proper_toponyms"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_pre_a1_03_cardinal_short_vowels",
+      "unitNumber": 3,
+      "title": "The Seven Cardinal Short Vowels",
+      "cyrillicTitle": "Reading simple core roots and recognizing vowel resonance",
+      "description": "Master orthographic recognition, acoustic discrimination, and precise oral articulation for: The Seven Cardinal Short Vowels.",
+      "cefrLevel": "Pre-A1",
+      "primaryGrammarTopic": "Reading simple core roots and recognizing vowel resonance",
+      "lessons": [
+        {
+          "id": "les_pre_a1_03_01_vowel_heptad_system",
+          "title": "The Seven Short Vowels of Mongolian: А, Э, И, О, У, Ө, Ү",
+          "cyrillicTitle": "Recite, write, and visually classify the 7 cardinal short vowels in standard linguistic order.",
+          "estimatedMinutes": 15,
+          "lessonType": "orthography",
+          "primaryPurpose": "Present the complete 7-vowel inventory of Modern Khalkha Cyrillic, establishing their systematic acoustic order.",
+          "communicativeOutcome": "Recite, write, and visually classify the 7 cardinal short vowels in standard linguistic order.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Sequential pure vowel sounds articulated by native speaker.",
+          "grammarOverview": {
+            "summary": "Present the complete 7-vowel inventory of Modern Khalkha Cyrillic, establishing their systematic acoustic order.",
+            "keyPoints": [
+              "obj_pre_a1_03_01_classify_seven_vowels"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_03_02_articulatory_acoustic_matrix",
+          "title": "Vowel Articulation: Tongue Height, Backness, and Lip Rounding",
+          "cyrillicTitle": "Articulate each of the 7 short vowels with accurate tongue position and acoustic clarity.",
+          "estimatedMinutes": 15,
+          "lessonType": "phonology_introduction",
+          "primaryPurpose": "Analyze the articulatory mechanics of open vs mid vs closed and rounded vs unrounded vowels.",
+          "communicativeOutcome": "Articulate each of the 7 short vowels with accurate tongue position and acoustic clarity.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Contrasting acoustic formants of high, mid, and low vowels.",
+          "grammarOverview": {
+            "summary": "Analyze the articulatory mechanics of open vs mid vs closed and rounded vs unrounded vowels.",
+            "keyPoints": [
+              "obj_pre_a1_03_02_articulate_vowel_matrix"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_03_03_vowel_harmony_intro_roots",
+          "title": "Vowel Resonance in Root Words: Back Roots vs Front Roots",
+          "cyrillicTitle": "Identify whether simple disyllabic words have back resonance (а/о/у) or front resonance (э/ө/ү).",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the intuitive concept that words in Mongolian choose either back/masculine or front/feminine vowel sets.",
+          "communicativeOutcome": "Identify whether simple disyllabic words have back resonance (а/о/у) or front resonance (э/ө/ү).",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic resonance contrasts in disyllabic root words.",
+          "grammarOverview": {
+            "summary": "Introduce the intuitive concept that words in Mongolian choose either back/masculine or front/feminine vowel sets.",
+            "keyPoints": [
+              "obj_pre_a1_03_03_identify_vowel_resonance"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_pre_a1_03_03_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Categorizing Core Roots: Masculine vs Feminine",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "vowel_harmony_classification",
+                "root_analysis"
+              ],
+              "grammarTargets": [
+                "gram_pre_a1_vowel_harmony_roots"
+              ],
+              "vocabularyTargets": [
+                "гал",
+                "гэр"
+              ],
+              "prompt": "Select the correct harmonic classification for the root word 'гал' (fire).",
+              "stimulusTextCyrillic": "гал",
+              "hint": "The vowel 'а' is a masculine back vowel.",
+              "options": [
+                {
+                  "id": "opt_masc",
+                  "text": "Masculine / Back (Эр үг) - vowel А",
+                  "cyrillic": "Эр үг",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'гал' contains 'а', making it an 'эр үг' (masculine back-vowel word)."
+                },
+                {
+                  "id": "opt_fem",
+                  "text": "Feminine / Front (Эм үг) - vowel Э",
+                  "cyrillic": "Эм үг",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'гал' does not have front vowels."
+                }
+              ],
+              "correctAnswer": "Masculine / Back (Эр үг) - vowel А",
+              "acceptableAlternatives": [
+                "Эр үг",
+                "Masculine",
+                "Back",
+                "Эр үг (Masculine / Back)"
+              ],
+              "explanation": "Because 'гал' contains the low back vowel 'а', it is classified as a masculine word (эр үг) and will take back-vowel suffixes (e.g. гал-аас, гал-ын).",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! 'Гал' is an эр үг.",
+                "onFailure": "'а' is a back masculine vowel, so 'гал' is an эр үг."
+              },
+              "detailedGrammarNote": "Vowel harmony (эгшиг зохицох ёс) is the golden rule of Mongolian morphology: back-vowel roots only take back-vowel suffixes, and front-vowel roots only take front-vowel suffixes.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "гал",
+                "slowSpeechSynthesisText": "гал",
+                "ipaTranscription": "/ɢaɮ/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_pre_a1_03_03_vowel_harmony_intro_roots",
+              "unitId": "unit_pre_a1_03_cardinal_short_vowels",
+              "cefrLevel": "Pre-A1"
+            },
+            {
+              "exerciseId": "ex_pre_a1_03_03_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "Identifying Feminine (Эм) Root Words",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "MULTI_SELECT",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "harmonic_set_identification"
+              ],
+              "grammarTargets": [
+                "gram_pre_a1_vowel_harmony_roots"
+              ],
+              "vocabularyTargets": [
+                "гэр",
+                "өвөл",
+                "ном",
+                "ус"
+              ],
+              "prompt": "Select ALL words below that belong to the FEMININE / FRONT vowel class (эм үг):",
+              "stimulusTextCyrillic": "гэр, өвөл, ном, ус",
+              "hint": "Look for words containing э, ө, or ү.",
+              "options": [
+                {
+                  "id": "opt_ger",
+                  "text": "гэр (home / yurta)",
+                  "cyrillic": "гэр",
+                  "isCorrect": true,
+                  "explanation": "Correct: 'гэр' contains front vowel 'э'."
+                },
+                {
+                  "id": "opt_ovol",
+                  "text": "өвөл (winter)",
+                  "cyrillic": "өвөл",
+                  "isCorrect": true,
+                  "explanation": "Correct: 'өвөл' contains front vowel 'ө'."
+                },
+                {
+                  "id": "opt_nom",
+                  "text": "ном (book)",
+                  "cyrillic": "ном",
+                  "isCorrect": false,
+                  "explanation": "Incorrect: 'ном' contains back vowel 'о'."
+                },
+                {
+                  "id": "opt_us",
+                  "text": "ус (water)",
+                  "cyrillic": "ус",
+                  "isCorrect": false,
+                  "explanation": "Incorrect: 'ус' contains back vowel 'у'."
+                }
+              ],
+              "correctAnswer": "гэр, өвөл",
+              "acceptableAlternatives": [
+                "өвөл, гэр",
+                "гэр өвөл"
+              ],
+              "explanation": "Both 'гэр' (vowel э) and 'өвөл' (vowel ө) are feminine front-vowel words (эм үг). 'Ном' and 'ус' contain back masculine vowels.",
+              "learnerFeedback": {
+                "onSuccess": "Сайн байна! 'гэр' and 'өвөл' are both feminine words.",
+                "onFailure": "Check the vowels: 'э' and 'ө' are feminine; 'о' and 'у' are masculine."
+              },
+              "detailedGrammarNote": "Feminine words take front harmonic suffix allomorphs such as -ээр/-өөр/-үүр, while masculine words take -аар/-оор/-уур.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "гэр, өвөл",
+                "slowSpeechSynthesisText": "гэр, өвөл",
+                "ipaTranscription": "/ɡer, ɵwɵɮ/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "SET_EQUALITY"
+              },
+              "lessonId": "les_pre_a1_03_03_vowel_harmony_intro_roots",
+              "unitId": "unit_pre_a1_03_cardinal_short_vowels",
+              "cefrLevel": "Pre-A1"
+            },
+            {
+              "exerciseId": "ex_pre_a1_03_03_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "Detecting Harmonic Violations in Nonce Words",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "harmonic_constraint_detection"
+              ],
+              "grammarTargets": [
+                "gram_pre_a1_vowel_harmony_roots"
+              ],
+              "vocabularyTargets": [
+                "а",
+                "э",
+                "о",
+                "ө"
+              ],
+              "prompt": "Which of the following hypothetical word roots VIOLATES Mongolian vowel harmony rules by mixing masculine and feminine vowels?",
+              "stimulusTextCyrillic": "*мадэ, малгай, нөхөр, охин",
+              "hint": "A single native root cannot contain both 'а' (masculine) and 'э' (feminine).",
+              "options": [
+                {
+                  "id": "opt_made",
+                  "text": "*мадэ (contains masculine 'а' and feminine 'э')",
+                  "cyrillic": "*мадэ",
+                  "isCorrect": true,
+                  "explanation": "Correct! Mixing back 'а' with front 'э' in a single stem is strictly prohibited by vowel harmony."
+                },
+                {
+                  "id": "opt_malgai",
+                  "text": "малгай (all back vowels: а, а, ай)",
+                  "cyrillic": "малгай",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'малгай' is fully harmonic (masculine)."
+                },
+                {
+                  "id": "opt_nohor",
+                  "text": "нөхөр (all front rounded vowels: ө)",
+                  "cyrillic": "нөхөр",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'нөхөр' is fully harmonic (feminine)."
+                },
+                {
+                  "id": "opt_ohin",
+                  "text": "охин (neutral 'и' with back 'о')",
+                  "cyrillic": "охин",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The neutral vowel 'и' can freely occur with back vowels."
+                }
+              ],
+              "correctAnswer": "*мадэ (contains masculine 'а' and feminine 'э')",
+              "acceptableAlternatives": [
+                "*мадэ",
+                "мадэ"
+              ],
+              "explanation": "Native Mongolian roots maintain strict vowel harmony: back vowels (а, о, у) never co-occur with front vowels (э, ө, ү). Therefore, '*мадэ' is impossible.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! '*мадэ' illegally mixes back 'а' and front 'э'.",
+                "onFailure": "Remember: Masculine and feminine vowels can never mix in a native root."
+              },
+              "detailedGrammarNote": "The only exception to pure harmonic separation is the neutral vowel 'и', which may appear in both masculine and feminine words without changing the dominant gender of the root.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "малгай, нөхөр, охин",
+                "slowSpeechSynthesisText": "малгай, нөхөр, охин",
+                "ipaTranscription": "/maɮɢæ, nɵxɵr, ɔxʲiŋ/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_pre_a1_03_03_vowel_harmony_intro_roots",
+              "unitId": "unit_pre_a1_03_cardinal_short_vowels",
+              "cefrLevel": "Pre-A1"
+            },
+            {
+              "exerciseId": "ex_pre_a1_03_03_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "Sorting Monosyllables by Gender Resonance",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "TOKEN_REARRANGEMENT",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "vowel_sorting",
+                "lexical_phonology"
+              ],
+              "grammarTargets": [
+                "gram_pre_a1_vowel_harmony_roots"
+              ],
+              "vocabularyTargets": [
+                "нар",
+                "сар",
+                "гэр",
+                "сүү"
+              ],
+              "prompt": "Arrange the tokens so that the two MASCULINE roots appear first, followed by the two FEMININE roots.",
+              "wordTokens": [
+                "гэр",
+                "сар",
+                "сүү",
+                "нар"
+              ],
+              "correctTokenOrder": [
+                "нар",
+                "сар",
+                "гэр",
+                "сүү"
+              ],
+              "correctAnswer": "нар, сар, гэр, сүү",
+              "acceptableAlternatives": [
+                "сар, нар, гэр, сүү",
+                "сар нар сүү гэр",
+                "нар сар сүү гэр"
+              ],
+              "hint": "'нар' (sun) and 'сар' (moon) have vowel 'а' (masculine). 'гэр' and 'сүү' have front vowels (feminine).",
+              "explanation": "'Нар' and 'сар' contain 'а' (masculine/back). 'Гэр' and 'сүү' contain 'э' and 'ү' (feminine/front).",
+              "learnerFeedback": {
+                "onSuccess": "Төгс! Masculine (нар, сар) then feminine (гэр, сүү).",
+                "onFailure": "Group by vowel: нар & сар are masculine; гэр & сүү are feminine."
+              },
+              "detailedGrammarNote": "In Mongolian poetry and cosmology, 'нар сар' (sun and moon) are paired masculine celestial symbols, while 'гэр орон' anchors domestic life.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "нар, сар, гэр, сүү",
+                "slowSpeechSynthesisText": "нар, сар, гэр, сүү",
+                "ipaTranscription": "/nar, sar, ɡer, suː/",
+                "speakerRole": "narrator",
+                "speechRate": 0.8
+              },
+              "evaluation": {
+                "matchType": "TOKEN_ORDER"
+              },
+              "lessonId": "les_pre_a1_03_03_vowel_harmony_intro_roots",
+              "unitId": "unit_pre_a1_03_cardinal_short_vowels",
+              "cefrLevel": "Pre-A1"
+            },
+            {
+              "exerciseId": "ex_pre_a1_03_03_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "Auditory Identification of Root Gender Harmony",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "AUDIO_COMPREHENSION",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "auditory_harmony_classification"
+              ],
+              "grammarTargets": [
+                "gram_pre_a1_vowel_harmony_roots"
+              ],
+              "vocabularyTargets": [
+                "морь"
+              ],
+              "prompt": "Listen to the word 'морь' (horse). Because it contains vowel 'о' with palatalized 'рь', what suffix set will it take?",
+              "stimulusTextCyrillic": "морь",
+              "hint": "'О' is a back masculine vowel with labial rounding.",
+              "options": [
+                {
+                  "id": "opt_masc_o",
+                  "text": "Masculine suffixes with back harmony (e.g. -оор/-ын: мориор)",
+                  "cyrillic": "Эр үг",
+                  "isCorrect": true,
+                  "explanation": "Correct! The root vowel 'о' dictates masculine rounded suffix harmony."
+                },
+                {
+                  "id": "opt_fem_e",
+                  "text": "Feminine suffixes with front harmony (e.g. -ээр)",
+                  "cyrillic": "Эм үг",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'О' is never feminine."
+                }
+              ],
+              "correctAnswer": "Masculine suffixes with back harmony (e.g. -оор/-ын: мориор)",
+              "acceptableAlternatives": [
+                "Эр үг",
+                "Masculine",
+                "мориор"
+              ],
+              "explanation": "'Морь' (/mɔrʲ/) has root vowel 'о'. The soft sign indicates palatalization of 'р', but the dominant vowel is 'о', demanding back masculine suffixes.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! 'Морь' takes masculine suffixes such as 'мориор'.",
+                "onFailure": "The primary vowel is 'о', which is masculine."
+              },
+              "detailedGrammarNote": "Palatalization (зөөлний тэмдэг ь) affects consonant articulation but does not alter the fundamental back/front harmonic classification of the root vowel.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "морь",
+                "slowSpeechSynthesisText": "морь",
+                "ipaTranscription": "/mɔrʲ/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_pre_a1_03_03_vowel_harmony_intro_roots",
+              "unitId": "unit_pre_a1_03_cardinal_short_vowels",
+              "cefrLevel": "Pre-A1"
+            }
+          ],
+          "exerciseCount": 5
+        },
+        {
+          "id": "les_pre_a1_03_04_reading_monosyllables_disyllables",
+          "title": "Decoding Short Vowel Roots: гал, гэр, ус, өвс, нар",
+          "cyrillicTitle": "Read and comprehend foundational monosyllabic words (гал 'fire', гэр 'ger/house', нар 'sun', ус 'water').",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Build rapid sight-word recognition of elemental natural and domestic monosyllabic nouns.",
+          "communicativeOutcome": "Read and comprehend foundational monosyllabic words (гал 'fire', гэр 'ger/house', нар 'sun', ус 'water').",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Clear lexical pronunciation of basic nominal stems.",
+          "grammarOverview": {
+            "summary": "Build rapid sight-word recognition of elemental natural and domestic monosyllabic nouns.",
+            "keyPoints": [
+              "obj_pre_a1_03_04_read_short_vowel_nouns"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_03_05_acoustic_dictation_assessment",
+          "title": "Vowel Discrimination & Acoustic Ear Training: The 7 Vowels",
+          "cyrillicTitle": "Transcribe any spoken short vowel accurately within monosyllabic and disyllabic words.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Develop acute auditory discrimination of the seven cardinal short vowels across minimal pairs in connected monosyllables and disyllables.",
+          "communicativeOutcome": "Transcribe any spoken short vowel accurately within monosyllabic and disyllabic words.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Standardized diagnostic audio dictation items.",
+          "grammarOverview": {
+            "summary": "Develop acute auditory discrimination of the seven cardinal short vowels across minimal pairs in connected monosyllables and disyllables.",
+            "keyPoints": [
+              "Develop acute auditory discrimination of the seven cardinal short vowels across minimal pairs in connected monosyllables and disyllables."
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_pre_a1_04_consonants_inventory_stops",
+      "unitNumber": 4,
+      "title": "Consonant Inventory: Obstruents & Sonorants",
+      "cyrillicTitle": "Sounding out basic nominal stems and public street signs",
+      "description": "Master orthographic recognition, acoustic discrimination, and precise oral articulation for: Consonant Inventory: Obstruents & Sonorants.",
+      "cefrLevel": "Pre-A1",
+      "primaryGrammarTopic": "Sounding out basic nominal stems and public street signs",
+      "lessons": [
+        {
+          "id": "les_pre_a1_04_01_plosives_affricates_inventory",
+          "title": "Obstruents of Mongolian: Б, П, Д, Т, Г, Ц, Ч, З, Ж",
+          "cyrillicTitle": "Recognize, name, and transcribe the 9 obstruent consonant characters in printed and written forms.",
+          "estimatedMinutes": 15,
+          "lessonType": "orthography",
+          "primaryPurpose": "Introduce the full inventory of Mongolian plosives, affricates, and their written Cyrillic letterforms.",
+          "communicativeOutcome": "Recognize, name, and transcribe the 9 obstruent consonant characters in printed and written forms.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Clear phonetic demonstration of non-aspirated vs aspirated stops.",
+          "grammarOverview": {
+            "summary": "Introduce the full inventory of Mongolian plosives, affricates, and their written Cyrillic letterforms.",
+            "keyPoints": [
+              "obj_pre_a1_04_01_identify_obstruent_glyphs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_04_02_aspiration_contrast_stops",
+          "title": "Aspiration Contrast: Fortis (п, т, к, ц, ч) vs Lenis (б, д, г, з, ж)",
+          "cyrillicTitle": "Pronounce and differentiate aspirated voiceless stops from unaspirated lax stops without voicing confusion.",
+          "estimatedMinutes": 15,
+          "lessonType": "phonology_introduction",
+          "primaryPurpose": "Train auditory discrimination and articulatory production of the aspiration contrast characterizing Mongolian obstruents.",
+          "communicativeOutcome": "Pronounce and differentiate aspirated voiceless stops from unaspirated lax stops without voicing confusion.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Precise recording of aspiration burst dynamics in initial stops.",
+          "grammarOverview": {
+            "summary": "Train auditory discrimination and articulatory production of the aspiration contrast characterizing Mongolian obstruents.",
+            "keyPoints": [
+              "obj_pre_a1_04_02_discriminate_aspiration_pairs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_04_03_nasals_liquids_sonorants",
+          "title": "Sonorant Consonants: М, Н, Л, Р, В, Й",
+          "cyrillicTitle": "Read and pronounce sonorant consonants in initial, medial, and coda positions with natural resonance.",
+          "estimatedMinutes": 15,
+          "lessonType": "orthography",
+          "primaryPurpose": "Introduce the sonorant series (nasals, lateral, trill, and approximants) and their positional phonotactics.",
+          "communicativeOutcome": "Read and pronounce sonorant consonants in initial, medial, and coda positions with natural resonance.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic Khalkha lateral and velar nasal articulation.",
+          "grammarOverview": {
+            "summary": "Introduce the sonorant series (nasals, lateral, trill, and approximants) and their positional phonotactics.",
+            "keyPoints": [
+              "obj_pre_a1_04_03_read_sonorants_in_context"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_04_04_decoding_street_signs_stems",
+          "title": "Decoding Street Signs & Basic Nominal Stems: гудамж, зам, буудал",
+          "cyrillicTitle": "Read and understand street signs (гудамж 'street', зам 'road', буудал 'station/stop', цагдаа 'police').",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Decode authentic public transit and municipal signs combining newly learned obstruents and sonorants.",
+          "communicativeOutcome": "Read and understand street signs (гудамж 'street', зам 'road', буудал 'station/stop', цагдаа 'police').",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic urban transit voice announcements.",
+          "grammarOverview": {
+            "summary": "Decode authentic public transit and municipal signs combining newly learned obstruents and sonorants.",
+            "keyPoints": [
+              "obj_pre_a1_04_04_read_street_signs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_04_05_consonant_inventory_dictation",
+          "title": "Consonant Inventory Synthesis & Dictation Checkpoint",
+          "cyrillicTitle": "Spell, read, and discriminate any standard Mongolian consonant sound in root-initial and root-final positions.",
+          "estimatedMinutes": 15,
+          "lessonType": "checkpoint",
+          "primaryPurpose": "Consolidate consonant grapheme-phoneme correspondences through systematic auditory dictation and spelling evaluation.",
+          "communicativeOutcome": "Spell, read, and discriminate any standard Mongolian consonant sound in root-initial and root-final positions.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Standardized phonetic assessment recording of consonant stems.",
+          "grammarOverview": {
+            "summary": "Consolidate consonant grapheme-phoneme correspondences through systematic auditory dictation and spelling evaluation.",
+            "keyPoints": [
+              "Consolidate consonant grapheme-phoneme correspondences through systematic auditory dictation and spelling evaluation."
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_pre_a1_05_cyrillic_keyboard_mastery",
+      "unitNumber": 5,
+      "title": "Cyrillic Keyboard Mastery & Digital Input",
+      "cyrillicTitle": "Typing Mongolian words, searching terms, and inputting numbers",
+      "description": "Master orthographic recognition, acoustic discrimination, and precise oral articulation for: Cyrillic Keyboard Mastery & Digital Input.",
+      "cefrLevel": "Pre-A1",
+      "primaryGrammarTopic": "Typing Mongolian words, searching terms, and inputting numbers",
+      "lessons": [
+        {
+          "id": "les_pre_a1_05_01_keyboard_layout_home_row",
+          "title": "Mongolian Cyrillic Keyboard Layout & The Home Row",
+          "cyrillicTitle": "Locate and type home-row characters (ф, ц, у, в, а, п, р, о, л, д, ж, э) on a standard keyboard without visual hunting.",
+          "estimatedMinutes": 15,
+          "lessonType": "orthography",
+          "primaryPurpose": "Introduce the standard Mongolian Cyrillic keyboard layout (MN QWERTY) and key positions on the home row.",
+          "communicativeOutcome": "Locate and type home-row characters (ф, ц, у, в, а, п, р, о, л, д, ж, э) on a standard keyboard without visual hunting.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pacing audio prompts dictating letters for rhythmic typing drills.",
+          "grammarOverview": {
+            "summary": "Introduce the standard Mongolian Cyrillic keyboard layout (MN QWERTY) and key positions on the home row.",
+            "keyPoints": [
+              "obj_pre_a1_05_01_locate_home_row_keys"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_05_02_typing_special_keys_o_u",
+          "title": "Locating Mongolian Specific Keys: Ө and Ү",
+          "cyrillicTitle": "Quickly and accurately input Ө and Ү in digital text fields without key-mapping delays.",
+          "estimatedMinutes": 15,
+          "lessonType": "orthography",
+          "primaryPurpose": "Train muscle memory for typing the Mongolian-specific keys Ө and Ү, typically mapped to =/+ and -/_ or bracket keys.",
+          "communicativeOutcome": "Quickly and accurately input Ө and Ү in digital text fields without key-mapping delays.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pacing dictation prompts for typing exercises.",
+          "grammarOverview": {
+            "summary": "Train muscle memory for typing the Mongolian-specific keys Ө and Ү, typically mapped to =/+ and -/_ or bracket keys.",
+            "keyPoints": [
+              "obj_pre_a1_05_02_type_special_vowels"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_05_03_digital_search_input",
+          "title": "Typing Search Queries, Names, and Map Destinations",
+          "cyrillicTitle": "Type accurate search terms into web search bars, navigation apps, and contacts lists in Mongolian.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Apply digital typing skills to real-world search box queries: searching for hotels, map points, and city facilities.",
+          "communicativeOutcome": "Type accurate search terms into web search bars, navigation apps, and contacts lists in Mongolian.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Dictation of search queries for audio-to-text typing practice.",
+          "grammarOverview": {
+            "summary": "Apply digital typing skills to real-world search box queries: searching for hotels, map points, and city facilities.",
+            "keyPoints": [
+              "obj_pre_a1_05_03_type_digital_queries"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_05_04_keyboard_speed_accuracy_evaluation",
+          "title": "Digital Composition Workshop: Typing Personal Names & Search Queries",
+          "cyrillicTitle": "Type search queries, names, and numbers into digital interfaces smoothly without keyboard-hunting.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Apply keyboard touch-typing skills to practical digital tasks: composing short name searches, contact notes, and digital messaging.",
+          "communicativeOutcome": "Type search queries, names, and numbers into digital interfaces smoothly without keyboard-hunting.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Audio dictation for blind typing assessment.",
+          "grammarOverview": {
+            "summary": "Apply keyboard touch-typing skills to practical digital tasks: composing short name searches, contact notes, and digital messaging.",
+            "keyPoints": [
+              "Apply keyboard touch-typing skills to practical digital tasks: composing short name searches, contact notes, and digital messaging."
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_pre_a1_06_digits_and_classroom_prompts",
+      "unitNumber": 6,
+      "title": "Digits 0–10 & Basic Classroom Commands",
+      "cyrillicTitle": "Following teacher instructions, counting, and reading numbers",
+      "description": "Master orthographic recognition, acoustic discrimination, and precise oral articulation for: Digits 0–10 & Basic Classroom Commands.",
+      "cefrLevel": "Pre-A1",
+      "primaryGrammarTopic": "Following teacher instructions, counting, and reading numbers",
+      "lessons": [
+        {
+          "id": "les_pre_a1_06_01_counting_zero_to_five",
+          "title": "Counting from Zero to Five: тэг, нэг, хоёр, гурав, дөрөв, таван",
+          "cyrillicTitle": "Count items, state small quantities, and read digits 0–5 in everyday survival contexts.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce the spoken pronunciation and written Cyrillic orthography for digits 0 through 5.",
+          "communicativeOutcome": "Count items, state small quantities, and read digits 0–5 in everyday survival contexts.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear counting audio models with steady tempo.",
+          "grammarOverview": {
+            "summary": "Introduce the spoken pronunciation and written Cyrillic orthography for digits 0 through 5.",
+            "keyPoints": [
+              "obj_pre_a1_06_01_count_zero_to_five"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_06_02_counting_six_to_ten",
+          "title": "Counting from Six to Ten: зургаа, долоо, найм, ес, арав",
+          "cyrillicTitle": "Count from 1 to 10, quote phone numbers, and express single-digit prices.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce the pronunciation and spelling of digits 6 through 10, completing the base ten set.",
+          "communicativeOutcome": "Count from 1 to 10, quote phone numbers, and express single-digit prices.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Authentic recitation of mobile phone number patterns.",
+          "grammarOverview": {
+            "summary": "Introduce the pronunciation and spelling of digits 6 through 10, completing the base ten set.",
+            "keyPoints": [
+              "obj_pre_a1_06_02_count_six_to_ten"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_06_03_classroom_instructions_listen",
+          "title": "Understanding Classroom Prompts: Сонсоорой, Хараарай, Уншаарай",
+          "cyrillicTitle": "Respond physically and behaviorally to teacher commands (Сонсоорой 'Listen', Хараарай 'Look', Уншаарай 'Read').",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Introduce high-frequency polite imperative classroom and instructional prompts ending in -аарай/-ээрэй.",
+          "communicativeOutcome": "Respond physically and behaviorally to teacher commands (Сонсоорой 'Listen', Хараарай 'Look', Уншаарай 'Read').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Teacher classroom directives with clear polite imperative intonation.",
+          "grammarOverview": {
+            "summary": "Introduce high-frequency polite imperative classroom and instructional prompts ending in -аарай/-ээрэй.",
+            "keyPoints": [
+              "obj_pre_a1_06_03_follow_classroom_prompts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_06_04_classroom_interaction_say_again",
+          "title": "Essential Classroom Clarification: Дахиад хэлээрэй, Ойлголоо",
+          "cyrillicTitle": "Ask a teacher or interlocutor to repeat ('Дахиад хэлээрэй') and confirm understanding ('Ойлголоо' / 'Ойлгосонгүй').",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Provide the learner with vital survival phrases to request repetition or signal comprehension in class.",
+          "communicativeOutcome": "Ask a teacher or interlocutor to repeat ('Дахиад хэлээрэй') and confirm understanding ('Ойлголоо' / 'Ойлгосонгүй').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Authentic two-way student-teacher clarification exchanges.",
+          "grammarOverview": {
+            "summary": "Provide the learner with vital survival phrases to request repetition or signal comprehension in class.",
+            "keyPoints": [
+              "obj_pre_a1_06_04_request_clarification_in_class"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_06_05_digits_and_prompts_synthesis",
+          "title": "Classroom Immersion Simulation: Following Teacher Directives & Counting",
+          "cyrillicTitle": "Follow multi-step classroom numbered instructions and write down numerical values accurately.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Engage in an interactive classroom simulation following teacher instructions, exchanging numbers, and requesting clarification in Mongolian.",
+          "communicativeOutcome": "Follow multi-step classroom numbered instructions and write down numerical values accurately.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Classroom simulation audio with numbered instructions.",
+          "grammarOverview": {
+            "summary": "Engage in an interactive classroom simulation following teacher instructions, exchanging numbers, and requesting clarification in Mongolian.",
+            "keyPoints": [
+              "Engage in an interactive classroom simulation following teacher instructions, exchanging numbers, and requesting clarification in Mongolian."
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_pre_a1_07_personal_names_and_identification",
+      "unitNumber": 7,
+      "title": "Spelling Personal Names & ID Cards",
+      "cyrillicTitle": "Introducing one's name and reading Mongolian names",
+      "description": "Master orthographic recognition, acoustic discrimination, and precise oral articulation for: Spelling Personal Names & ID Cards.",
+      "cefrLevel": "Pre-A1",
+      "primaryGrammarTopic": "Introducing one's name and reading Mongolian names",
+      "lessons": [
+        {
+          "id": "les_pre_a1_07_01_spelling_common_mongolian_names",
+          "title": "Reading & Spelling Mongolian Given Names: Болд, Бат, Сараа, Энхээ",
+          "cyrillicTitle": "Read, pronounce, and accurately spell common Mongolian personal names in Cyrillic.",
+          "estimatedMinutes": 15,
+          "lessonType": "orthography",
+          "primaryPurpose": "Analyze the orthographic structure of ubiquitous Mongolian personal names and their traditional cultural meanings.",
+          "communicativeOutcome": "Read, pronounce, and accurately spell common Mongolian personal names in Cyrillic.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Authentic pronunciation of common Mongolian given names.",
+          "grammarOverview": {
+            "summary": "Analyze the orthographic structure of ubiquitous Mongolian personal names and their traditional cultural meanings.",
+            "keyPoints": [
+              "obj_pre_a1_07_01_spell_mongolian_names"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_07_02_transliterating_foreign_names",
+          "title": "Transliterating Your Own Name into Mongolian Cyrillic",
+          "cyrillicTitle": "Write one's own full name, nationality, and home city in accurate Mongolian Cyrillic characters.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Teach the systematic conventions for transliterating international non-Mongolian personal names into Cyrillic script.",
+          "communicativeOutcome": "Write one's own full name, nationality, and home city in accurate Mongolian Cyrillic characters.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Phonetic demonstration of Cyrillic letter names during oral spelling.",
+          "grammarOverview": {
+            "summary": "Teach the systematic conventions for transliterating international non-Mongolian personal names into Cyrillic script.",
+            "keyPoints": [
+              "obj_pre_a1_07_02_transliterate_foreign_name"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_07_03_reading_id_cards_registration",
+          "title": "Decoding Mongolian National ID Cards (Иргэний үнэмлэх) & Badges",
+          "cyrillicTitle": "Read and extract surname, given name, birth date, and registration number from a sample identity document.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Decode layout, standard field headers, and abbreviations found on Mongolian ID cards and conference name badges.",
+          "communicativeOutcome": "Read and extract surname, given name, birth date, and registration number from a sample identity document.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Recitation of official identity verification dialogs.",
+          "grammarOverview": {
+            "summary": "Decode layout, standard field headers, and abbreviations found on Mongolian ID cards and conference name badges.",
+            "keyPoints": [
+              "obj_pre_a1_07_03_decode_id_card_fields"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_07_04_filling_hotel_registration_form",
+          "title": "Filling Out a Simple Hotel Registration Card",
+          "cyrillicTitle": "Complete a paper or digital hotel registration card with name, nationality, phone number, and passport data.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Guide the learner in filling out essential personal information fields on a hotel guest registration form.",
+          "communicativeOutcome": "Complete a paper or digital hotel registration card with name, nationality, phone number, and passport data.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Desk clerk instructions during registration check-in.",
+          "grammarOverview": {
+            "summary": "Guide the learner in filling out essential personal information fields on a hotel guest registration form.",
+            "keyPoints": [
+              "obj_pre_a1_07_04_fill_hotel_form"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_pre_a1_07_05_personal_identification_synthesis",
+          "title": "Form-Filling Workshop: Official Registration & Border ID Cards",
+          "cyrillicTitle": "Orally state and spell one's name, read another's business card, and verify personal registration data.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Guide learners through authentic administrative registration, filling out guest registry and conference badge cards accurately in Cyrillic.",
+          "communicativeOutcome": "Orally state and spell one's name, read another's business card, and verify personal registration data.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Authentic receptionist-client name verification dialogue.",
+          "grammarOverview": {
+            "summary": "Guide learners through authentic administrative registration, filling out guest registry and conference badge cards accurately in Cyrillic.",
+            "keyPoints": [
+              "Guide learners through authentic administrative registration, filling out guest registry and conference badge cards accurately in Cyrillic."
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    }
+  ]
+}

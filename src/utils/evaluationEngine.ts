@@ -1,23 +1,41 @@
 /**
- * Phase 3B.2 Hardened Evaluation Engine
- * Provides normalization safeguards, punctuation-independent token comparison,
- * UI punctuation separation, and inflected variant handling.
+ * Phase 3B.3 Hardened Evaluation Engine
+ * Authoritative evaluation runtime for all 9 interaction patterns:
+ * MULTIPLE_CHOICE, MULTI_SELECT, PAIR_MATCHING, TOKEN_REARRANGEMENT,
+ * CLOZE_TEXT, SUFFIX_ATTACHMENT, AUDIO_COMPREHENSION, AUDIO_DICTATION,
+ * OPEN_RESPONSE_RUBRIC / FREE_RESPONSE_RUBRIC.
+ *
+ * Implements:
+ * - Normalization safeguards (Unicode NFC, whitespace collapsing, punctuation stripping)
+ * - Punctuation-independent token order comparison
+ * - Strict schema flag support (caseSensitive, stripPunctuation, normalizeWhitespace, allowInflectedVariants)
+ * - Acceptable alternatives validation
+ * - Dual-layer Rubric Evaluation (separates submission completion from qualitative assessment)
+ * - Zero duplicate evaluation engines
  */
 
 import type { ExerciseDefinition, MatchType } from '../types/exerciseEngine';
+
+export interface EvaluationTextOptions {
+  stripPunctuation?: boolean;
+  caseSensitive?: boolean;
+  normalizeWhitespace?: boolean;
+}
 
 /**
  * Strips punctuation and normalizes unicode / whitespace for reliable linguistic comparison.
  */
 export function normalizeEvaluationText(
   text: string,
-  options: { stripPunctuation?: boolean; caseSensitive?: boolean } = {}
+  options: EvaluationTextOptions = {}
 ): string {
   if (!text) return '';
   let normalized = text.normalize('NFC').trim();
 
   // Normalize all types of whitespace (non-breaking spaces, multiple spaces, tabs)
-  normalized = normalized.replace(/\s+/g, ' ');
+  if (options.normalizeWhitespace !== false) {
+    normalized = normalized.replace(/\s+/g, ' ');
+  }
 
   if (!options.caseSensitive) {
     normalized = normalized.toLowerCase();
@@ -36,7 +54,7 @@ export function normalizeEvaluationText(
 
 /**
  * Separates UI punctuation (commas, periods, quotation marks) from core linguistic tokens.
- * This guarantees learners interact with grammatical tokens rather than punctuation-polluted items.
+ * Guarantees learners manipulate grammatical tokens rather than punctuation-polluted items.
  */
 export function separateUiPunctuation(token: string): {
   cleanToken: string;
@@ -90,10 +108,12 @@ export function evaluateTokenOrder(
     normalizeEvaluationText(t, { stripPunctuation: true, caseSensitive: false })
   );
 
-  // Check main order
   const checkOrder = (expected: string[]): { isCorrect: boolean; mismatched: number[] } => {
     if (normUser.length !== expected.length) {
-      return { isCorrect: false, mismatched: Array.from({ length: Math.max(normUser.length, expected.length) }, (_, i) => i) };
+      return {
+        isCorrect: false,
+        mismatched: Array.from({ length: Math.max(normUser.length, expected.length) }, (_, i) => i),
+      };
     }
     const mismatched: number[] = [];
     for (let i = 0; i < expected.length; i++) {
@@ -146,126 +166,218 @@ export function evaluateTokenOrder(
   };
 }
 
+export interface RubricCriterionItem {
+  criterionId?: string;
+  criterion?: string;
+  description: string;
+  points: number;
+}
+
 export interface EvaluationOutcome {
   isCorrect: boolean;
   score: number; // 0 to 1
   feedbackMessage: string;
+  isCompleted?: boolean;
+  isRubricQualitative?: boolean;
+  rubricCriteria?: RubricCriterionItem[];
   details?: Record<string, any>;
 }
 
+export interface SubmissionPayload {
+  selectedOptionId?: string;
+  selectedOptionIds?: string[];
+  textInput?: string;
+  arrangedTokens?: string[];
+  selectedSuffix?: string;
+  matchedPairs?: Record<string, string>;
+}
+
 /**
- * Evaluates learner submission against an ExerciseDefinition with full safeguards.
+ * Evaluates learner submission against an ExerciseDefinition with full safeguards and contract adherence.
  */
 export function evaluateExerciseSubmission(
   exercise: ExerciseDefinition,
-  submission: {
-    selectedOptionId?: string;
-    selectedOptionIds?: string[];
-    textInput?: string;
-    arrangedTokens?: string[];
-  }
+  submission: SubmissionPayload
 ): EvaluationOutcome {
-  const matchType: MatchType = exercise.evaluation?.matchType || 'EXACT';
+  const matchType: MatchType | string = exercise.evaluation?.matchType || 'EXACT';
+  const pattern = exercise.interactionPattern;
 
-  switch (matchType) {
-    case 'TOKEN_ORDER': {
-      const userTokens = submission.arrangedTokens || [];
-      const expected = exercise.correctTokenOrder || [];
-      const res = evaluateTokenOrder(userTokens, expected);
+  // 1. Token Rearrangement Pattern & Token Order Match
+  if (pattern === 'TOKEN_REARRANGEMENT' || matchType === 'TOKEN_ORDER') {
+    const userTokens = submission.arrangedTokens || [];
+    const expected = exercise.correctTokenOrder || [];
+    const res = evaluateTokenOrder(userTokens, expected);
 
-      return {
-        isCorrect: res.isCorrect,
-        score: res.matchScore,
-        feedbackMessage: res.isCorrect
-          ? exercise.learnerFeedback.onSuccess
-          : exercise.learnerFeedback.onFailure,
-        details: {
-          mismatchedIndices: res.mismatchedIndices,
-          userTokens: res.normalizedUserTokens,
-          expectedTokens: res.normalizedExpectedTokens,
-        },
-      };
-    }
-
-    case 'EXACT':
-    case 'NORMALIZED_TEXT': {
-      const userClean = normalizeEvaluationText(submission.textInput || '', {
-        stripPunctuation: exercise.evaluation?.stripPunctuation !== false,
-        caseSensitive: exercise.evaluation?.caseSensitive || false,
-      });
-
-      const correctClean = normalizeEvaluationText(exercise.correctAnswer, {
-        stripPunctuation: exercise.evaluation?.stripPunctuation !== false,
-        caseSensitive: exercise.evaluation?.caseSensitive || false,
-      });
-
-      let matched = userClean === correctClean;
-
-      // Check acceptable alternatives
-      if (!matched && exercise.acceptableAlternatives && exercise.acceptableAlternatives.length > 0) {
-        matched = exercise.acceptableAlternatives.some((alt) => {
-          const altClean = normalizeEvaluationText(alt, {
-            stripPunctuation: exercise.evaluation?.stripPunctuation !== false,
-            caseSensitive: exercise.evaluation?.caseSensitive || false,
-          });
-          return userClean === altClean;
-        });
-      }
-
-      return {
-        isCorrect: matched,
-        score: matched ? 1.0 : 0.0,
-        feedbackMessage: matched
-          ? exercise.learnerFeedback.onSuccess
-          : exercise.learnerFeedback.onFailure,
-        details: { userClean, correctClean },
-      };
-    }
-
-    case 'SET_EQUALITY': {
-      const userOptions = new Set(submission.selectedOptionIds || []);
-      const correctOptions = new Set(
-        (exercise.options || []).filter((o) => o.isCorrect).map((o) => o.id)
-      );
-
-      const isSame =
-        userOptions.size === correctOptions.size &&
-        Array.from(userOptions).every((id) => correctOptions.has(id));
-
-      return {
-        isCorrect: isSame,
-        score: isSame ? 1.0 : 0.0,
-        feedbackMessage: isSame
-          ? exercise.learnerFeedback.onSuccess
-          : exercise.learnerFeedback.onFailure,
-      };
-    }
-
-    case 'RUBRIC_CRITERIA': {
-      // Rubric criteria evaluation (for subjective writing / advanced commentary)
-      const userText = submission.textInput || '';
-      const hasLength = userText.trim().length >= 40;
-      return {
-        isCorrect: hasLength,
-        score: hasLength ? 1.0 : 0.5,
-        feedbackMessage: hasLength
-          ? exercise.learnerFeedback.onSuccess
-          : exercise.learnerFeedback.onFailure,
-        details: { criteriaCount: exercise.evaluation?.rubricCriteria?.length || 0 },
-      };
-    }
-
-    default: {
-      // Multiple choice fallback
-      const chosen = exercise.options?.find((o) => o.id === submission.selectedOptionId);
-      const isCorrect = !!chosen?.isCorrect;
-      return {
-        isCorrect,
-        score: isCorrect ? 1.0 : 0.0,
-        feedbackMessage: isCorrect
-          ? exercise.learnerFeedback.onSuccess
-          : exercise.learnerFeedback.onFailure,
-      };
-    }
+    return {
+      isCorrect: res.isCorrect,
+      score: res.matchScore,
+      feedbackMessage: res.isCorrect
+        ? exercise.learnerFeedback.onSuccess
+        : exercise.learnerFeedback.onFailure,
+      details: {
+        mismatchedIndices: res.mismatchedIndices,
+        userTokens: res.normalizedUserTokens,
+        expectedTokens: res.normalizedExpectedTokens,
+      },
+    };
   }
+
+  // 2. Suffix Attachment Pattern
+  if (pattern === 'SUFFIX_ATTACHMENT') {
+    let isCorrect = false;
+    if (submission.selectedSuffix && exercise.correctSuffix) {
+      isCorrect =
+        normalizeEvaluationText(submission.selectedSuffix, { stripPunctuation: true }) ===
+        normalizeEvaluationText(exercise.correctSuffix, { stripPunctuation: true });
+    } else if (submission.textInput) {
+      const userClean = normalizeEvaluationText(submission.textInput, {
+        stripPunctuation: true,
+        caseSensitive: false,
+      });
+      const targetClean = normalizeEvaluationText(exercise.correctAnswer, {
+        stripPunctuation: true,
+        caseSensitive: false,
+      });
+      const combinedClean = normalizeEvaluationText(
+        (exercise.baseWord || '') + (exercise.correctSuffix || ''),
+        { stripPunctuation: true, caseSensitive: false }
+      );
+      isCorrect = userClean === targetClean || userClean === combinedClean;
+    }
+
+    return {
+      isCorrect,
+      score: isCorrect ? 1.0 : 0.0,
+      feedbackMessage: isCorrect
+        ? exercise.learnerFeedback.onSuccess
+        : exercise.learnerFeedback.onFailure,
+      details: {
+        selectedSuffix: submission.selectedSuffix,
+        expectedSuffix: exercise.correctSuffix,
+        baseWord: exercise.baseWord,
+      },
+    };
+  }
+
+  // 3. Multi-Select / Set Equality Match
+  if (pattern === 'MULTI_SELECT' || matchType === 'SET_EQUALITY') {
+    const userOptions = new Set(submission.selectedOptionIds || []);
+    const correctOptions = new Set(
+      (exercise.options || []).filter((o) => o.isCorrect).map((o) => o.id)
+    );
+
+    const isSame =
+      userOptions.size === correctOptions.size &&
+      Array.from(userOptions).every((id) => correctOptions.has(id));
+
+    return {
+      isCorrect: isSame,
+      score: isSame ? 1.0 : 0.0,
+      feedbackMessage: isSame
+        ? exercise.learnerFeedback.onSuccess
+        : exercise.learnerFeedback.onFailure,
+      details: {
+        selectedCount: userOptions.size,
+        requiredCount: correctOptions.size,
+      },
+    };
+  }
+
+  // 4. Qualitative Rubric Evaluation (Separates submission completion from qualitative linguistic scoring)
+  if (pattern === 'OPEN_RESPONSE_RUBRIC' || pattern === 'FREE_RESPONSE_RUBRIC' || matchType === 'RUBRIC_CRITERIA') {
+    const userText = submission.textInput || '';
+    const trimmed = userText.trim();
+    // Substantive completion requires minimal response content (e.g. 15 chars)
+    const isCompleted = trimmed.length >= 15;
+    const criteria = exercise.evaluation?.rubricCriteria || [];
+
+    return {
+      isCorrect: isCompleted,
+      isCompleted,
+      score: isCompleted ? 1.0 : 0.0,
+      isRubricQualitative: true,
+      rubricCriteria: criteria,
+      feedbackMessage: isCompleted
+        ? exercise.learnerFeedback.onSuccess
+        : 'Please enter a substantive analytical response before submitting for rubric evaluation.',
+      details: {
+        characterCount: trimmed.length,
+        criteriaCount: criteria.length,
+        completionStatus: isCompleted ? 'SUBMITTED' : 'INCOMPLETE',
+      },
+    };
+  }
+
+  // 5. Text Entry / Normalized / Case-Insensitive / Exact Match
+  if (
+    matchType === 'NORMALIZED_TEXT' ||
+    matchType === 'CASE_INSENSITIVE' ||
+    matchType === 'EXACT' ||
+    pattern === 'CLOZE_TEXT' ||
+    pattern === 'AUDIO_DICTATION'
+  ) {
+    const evalRule = exercise.evaluation || { matchType: 'NORMALIZED_TEXT' };
+    const caseSensitive = evalRule.caseSensitive === true;
+    const stripPunctuation = evalRule.stripPunctuation !== false;
+    const normalizeWhitespace = evalRule.normalizeWhitespace !== false;
+
+    const userClean = normalizeEvaluationText(submission.textInput || '', {
+      stripPunctuation,
+      caseSensitive,
+      normalizeWhitespace,
+    });
+
+    const correctClean = normalizeEvaluationText(exercise.correctAnswer, {
+      stripPunctuation,
+      caseSensitive,
+      normalizeWhitespace,
+    });
+
+    let matched = userClean === correctClean && userClean.length > 0;
+
+    // Check acceptable alternatives
+    if (!matched && exercise.acceptableAlternatives && exercise.acceptableAlternatives.length > 0) {
+      matched = exercise.acceptableAlternatives.some((alt) => {
+        const altClean = normalizeEvaluationText(alt, {
+          stripPunctuation,
+          caseSensitive,
+          normalizeWhitespace,
+        });
+        return userClean === altClean;
+      });
+    }
+
+    // Check inflected variants if enabled in schema
+    if (!matched && evalRule.allowInflectedVariants && exercise.baseWord) {
+      const baseClean = normalizeEvaluationText(exercise.baseWord, {
+        stripPunctuation: true,
+        caseSensitive: false,
+      });
+      if (userClean.startsWith(baseClean)) {
+        matched = true;
+      }
+    }
+
+    return {
+      isCorrect: matched,
+      score: matched ? 1.0 : 0.0,
+      feedbackMessage: matched
+        ? exercise.learnerFeedback.onSuccess
+        : exercise.learnerFeedback.onFailure,
+      details: { userClean, correctClean },
+    };
+  }
+
+  // 6. Default Option Selection (Multiple Choice, Pair Matching, Audio Comprehension)
+  const chosen = exercise.options?.find((o) => o.id === submission.selectedOptionId);
+  const isCorrect = !!chosen?.isCorrect;
+
+  return {
+    isCorrect,
+    score: isCorrect ? 1.0 : 0.0,
+    feedbackMessage: isCorrect
+      ? exercise.learnerFeedback.onSuccess
+      : exercise.learnerFeedback.onFailure,
+    details: { selectedOptionId: submission.selectedOptionId },
+  };
 }

@@ -1,0 +1,2096 @@
+{
+  "sectionId": "sec_a1_01_identity_courtesy_nominal_clauses",
+  "sectionNumber": 3,
+  "title": "Identity, Courtesy & Nominal Equational Clauses",
+  "cyrillicTitle": "Танилцах, мэндлэх ба нэрийн өгүүлбэр",
+  "cefr": "A1",
+  "theme": "Introduce oneself and others, state nationality, profession, exchange elder salutations, apologize, and ask basic yes/no identity questions.",
+  "description": "Systematize basic personal identification, nationalities, occupations, and zero-copula equational clauses, polar questions, and negative nominal predication.",
+  "unitCount": 8,
+  "lessonCount": 47,
+  "exerciseCount": 15,
+  "units": [
+    {
+      "id": "unit_a1_16_standard_salutations_time_of_day_gr",
+      "unitNumber": 16,
+      "title": "Standard Salutations & Time-of-Day Greetings",
+      "cyrillicTitle": "Exchanging morning, afternoon, and evening greetings politely",
+      "description": "Acquire and apply grammatical morphology (gram_a1_sov_word_order) to fulfill communicative functions in: Standard Salutations & Time-of-Day Greetings.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_sov_word_order",
+      "lessons": [
+        {
+          "id": "les_a1_16_01_canonical_sov_architecture",
+          "title": "The Architecture of Mongolian Sentences: Head-Final SOV Word Order",
+          "cyrillicTitle": "Recognize that modifiers precede heads and the finite predicate anchors the absolute end of the clause.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the canonical Subject-Object-Verb (SOV) sentence topology of Modern Mongolian.",
+          "communicativeOutcome": "Recognize that modifiers precede heads and the finite predicate anchors the absolute end of the clause.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Clear terminal falling intonation contours marking the end of SOV clauses.",
+          "grammarOverview": {
+            "summary": "Introduce the canonical Subject-Object-Verb (SOV) sentence topology of Modern Mongolian.",
+            "keyPoints": [
+              "obj_a1_16_01_parse_canonical_sov"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_a1_16_01_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Assembling Canonical SOV Word Order",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "TOKEN_REARRANGEMENT",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "sov_sentence_construction",
+                "predicate_clause_final_placement"
+              ],
+              "grammarTargets": [
+                "gram_a1_sov_word_order"
+              ],
+              "vocabularyTargets": [
+                "би",
+                "ном",
+                "уншина"
+              ],
+              "prompt": "Arrange the scrambled word tokens into a grammatically correct Mongolian declarative sentence: 'I will read a book'.",
+              "contextSentence": "Subject -> Object -> Finite Verb",
+              "wordTokens": [
+                "уншина",
+                "би",
+                "ном"
+              ],
+              "correctTokenOrder": [
+                "би",
+                "ном",
+                "уншина"
+              ],
+              "correctAnswer": "би ном уншина",
+              "acceptableAlternatives": [
+                "Би ном уншина.",
+                "Би ном уншина"
+              ],
+              "hint": "In Mongolian, the subject comes first, the direct object comes second, and the verb always stands at the end.",
+              "explanation": "Mongolian is strictly head-final with canonical Subject-Object-Verb (SOV) order. 'Би' (Subject) precedes 'ном' (Object), and 'уншина' (Verb) must terminate the clause.",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! You placed the verb at the clause-final anchor.",
+                "onFailure": "Remember: Subject (Би) + Object (ном) + Verb (уншина)."
+              },
+              "detailedGrammarNote": "Modern Mongolian strictly prohibits English-style SVO ordering (*Би уншина ном). The finite predicate holds the absolute right edge of the sentence.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Би ном уншина.",
+                "slowSpeechSynthesisText": "Би ном уншина.",
+                "ipaTranscription": "/pʰi nɔm ʊŋʃən/",
+                "speakerRole": "narrator",
+                "speechRate": 0.9
+              },
+              "evaluation": {
+                "matchType": "TOKEN_ORDER"
+              },
+              "lessonId": "les_a1_16_01_canonical_sov_architecture",
+              "unitId": "unit_a1_16_standard_salutations_time_of_day_gr",
+              "cefrLevel": "A1"
+            },
+            {
+              "exerciseId": "ex_a1_16_01_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "Locating the Finite Predicate Slot",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "predicate_identification",
+                "clause_architecture"
+              ],
+              "grammarTargets": [
+                "gram_a1_sov_word_order"
+              ],
+              "vocabularyTargets": [
+                "багш",
+                "сургууль",
+                "ирнэ"
+              ],
+              "prompt": "In the sentence 'Багш маргааш сургууль дээр ирнэ' (The teacher will come to school tomorrow), which word occupies the finite predicate slot?",
+              "stimulusTextCyrillic": "Багш маргааш сургууль дээр ирнэ.",
+              "hint": "Look at the final word of the sentence that conveys the action/tense.",
+              "options": [
+                {
+                  "id": "opt_irne",
+                  "text": "ирнэ (will come) - Clause-final verb",
+                  "cyrillic": "ирнэ",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'Ирнэ' is the finite verb in clause-final position."
+                },
+                {
+                  "id": "opt_bagsh",
+                  "text": "багш (teacher) - Subject",
+                  "cyrillic": "багш",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'Багш' is the subject in initial position."
+                },
+                {
+                  "id": "opt_margaash",
+                  "text": "маргааш (tomorrow) - Temporal adverbial",
+                  "cyrillic": "маргааш",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'Маргааш' is a temporal modifier."
+                },
+                {
+                  "id": "opt_surguuli",
+                  "text": "сургууль дээр (at school) - Locative adverbial",
+                  "cyrillic": "сургууль дээр",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. This is a postpositional locative phrase."
+                }
+              ],
+              "correctAnswer": "ирнэ (will come) - Clause-final verb",
+              "acceptableAlternatives": [
+                "ирнэ",
+                "ирнэ."
+              ],
+              "explanation": "The finite verb 'ирнэ' (comes/will come) concludes the clause, serving as the syntactic head to which all preceding arguments link.",
+              "learnerFeedback": {
+                "onSuccess": "Зөв! 'Ирнэ' is the predicate.",
+                "onFailure": "The predicate in Mongolian is the verb at the very end: 'ирнэ'."
+              },
+              "detailedGrammarNote": "Because Mongolian is head-final, modifiers (temporal, locative, direct objects) always precede the verb head, and attributive adjectives precede the noun head.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Багш маргааш сургууль дээр ирнэ.",
+                "slowSpeechSynthesisText": "Багш маргааш сургууль дээр ирнэ.",
+                "ipaTranscription": "/paɢʃ marɢaːʃ sʊrɢʊːɮ ter irən/",
+                "speakerRole": "female_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a1_16_01_canonical_sov_architecture",
+              "unitId": "unit_a1_16_standard_salutations_time_of_day_gr",
+              "cefrLevel": "A1"
+            },
+            {
+              "exerciseId": "ex_a1_16_01_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "Head-Final Modifier Placement (Adjective + Noun)",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "modifier_head_alignment",
+                "nominal_phrase_syntax"
+              ],
+              "grammarTargets": [
+                "gram_a1_sov_word_order"
+              ],
+              "vocabularyTargets": [
+                "том",
+                "гэр",
+                "энэ"
+              ],
+              "prompt": "Which phrase correctly demonstrates the rule that demonstratives and descriptive adjectives must precede the head noun?",
+              "stimulusTextCyrillic": "Энэ том гэр",
+              "hint": "Demonstrative ('this') + Adjective ('big') + Noun ('ger').",
+              "options": [
+                {
+                  "id": "opt_correct",
+                  "text": "Энэ том гэр (This big ger)",
+                  "cyrillic": "Энэ том гэр",
+                  "isCorrect": true,
+                  "explanation": "Correct! Demonstrative 'Энэ' + Adjective 'том' + Head noun 'гэр'."
+                },
+                {
+                  "id": "opt_wrong1",
+                  "text": "*Гэр том энэ",
+                  "cyrillic": "*Гэр том энэ",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Placing the noun before its modifiers violates head-final structure."
+                },
+                {
+                  "id": "opt_wrong2",
+                  "text": "*Том гэр энэ",
+                  "cyrillic": "*Том гэр энэ",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The demonstrative 'энэ' must precede the adjective."
+                },
+                {
+                  "id": "opt_wrong3",
+                  "text": "*Гэр энэ том",
+                  "cyrillic": "*Гэр энэ том",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Unnatural word order."
+                }
+              ],
+              "correctAnswer": "Энэ том гэр (This big ger)",
+              "acceptableAlternatives": [
+                "Энэ том гэр"
+              ],
+              "explanation": "In Mongolian noun phrases, the hierarchy is strictly Demonstrative -> Adjective -> Head Noun ('Энэ том гэр').",
+              "learnerFeedback": {
+                "onSuccess": "Сайн байна! Modifiers always precede the noun in Mongolian.",
+                "onFailure": "Remember: Demonstrative first, adjective second, noun last (Энэ том гэр)."
+              },
+              "detailedGrammarNote": "Unlike Romance languages where adjectives often follow the noun, Mongolic syntax requires all attributes to branch to the left of their head noun.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Энэ том гэр",
+                "slowSpeechSynthesisText": "Энэ том гэр",
+                "ipaTranscription": "/en tʰɔm ɡer/",
+                "speakerRole": "narrator",
+                "speechRate": 0.9
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a1_16_01_canonical_sov_architecture",
+              "unitId": "unit_a1_16_standard_salutations_time_of_day_gr",
+              "cefrLevel": "A1"
+            },
+            {
+              "exerciseId": "ex_a1_16_01_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "Assembling Complex Clause with Temporal & Locative Arguments",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "TOKEN_REARRANGEMENT",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "complex_clause_sequencing",
+                "argument_ordering"
+              ],
+              "grammarTargets": [
+                "gram_a1_sov_word_order"
+              ],
+              "vocabularyTargets": [
+                "Дорж",
+                "өнөөдөр",
+                "хотод",
+                "ирнэ"
+              ],
+              "prompt": "Reconstruct the scrambled words into a standard sentence: 'Dorj will arrive in the city today'.",
+              "wordTokens": [
+                "ирнэ",
+                "хотод",
+                "Дорж",
+                "өнөөдөр"
+              ],
+              "correctTokenOrder": [
+                "Дорж",
+                "өнөөдөр",
+                "хотод",
+                "ирнэ"
+              ],
+              "correctAnswer": "Дорж өнөөдөр хотод ирнэ",
+              "acceptableAlternatives": [
+                "Өнөөдөр Дорж хотод ирнэ",
+                "Дорж өнөөдөр хотод ирнэ."
+              ],
+              "hint": "Subject (Дорж) -> Time (өнөөдөр) -> Location (хотод) -> Verb (ирнэ).",
+              "explanation": "Standard neutral Mongolian order is Subject + Temporal Adverbial + Locative Adverbial + Verb: 'Дорж өнөөдөр хотод ирнэ'.",
+              "learnerFeedback": {
+                "onSuccess": "Төгс! Perfect clause architecture.",
+                "onFailure": "Follow the sequence: Дорж -> өнөөдөр -> хотод -> ирнэ."
+              },
+              "detailedGrammarNote": "Time expressions may optionally topicalize to the very front ('Өнөөдөр Дорж хотод ирнэ'), but the verb 'ирнэ' must unconditionally remain at the end.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Дорж өнөөдөр хотод ирнэ.",
+                "slowSpeechSynthesisText": "Дорж өнөөдөр хотод ирнэ.",
+                "ipaTranscription": "/tɔrtʃ ɵnɵːtər xɔtʰət irən/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "TOKEN_ORDER"
+              },
+              "lessonId": "les_a1_16_01_canonical_sov_architecture",
+              "unitId": "unit_a1_16_standard_salutations_time_of_day_gr",
+              "cefrLevel": "A1"
+            },
+            {
+              "exerciseId": "ex_a1_16_01_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "Syntax Error Spotting: SVO Transfer Interference",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "syntax_error_detection",
+                "language_transfer_prevention"
+              ],
+              "grammarTargets": [
+                "gram_a1_sov_word_order"
+              ],
+              "vocabularyTargets": [
+                "цай",
+                "ууна",
+                "би"
+              ],
+              "prompt": "A foreign learner wrote: '*Би ууна цай' (attempting to say 'I drink tea'). What is the error and how should it be corrected?",
+              "stimulusTextCyrillic": "*Би ууна цай -> Би цай ууна",
+              "hint": "The direct object 'цай' must come before the verb 'ууна'.",
+              "options": [
+                {
+                  "id": "err_1",
+                  "text": "The verb 'ууна' was placed before the object; it should be 'Би цай ууна'.",
+                  "cyrillic": "Би цай ууна",
+                  "isCorrect": true,
+                  "explanation": "Correct! English SVO was incorrectly transferred. Mongolian requires SOV: Би цай ууна."
+                },
+                {
+                  "id": "err_2",
+                  "text": "The pronoun 'Би' is missing an accusative suffix.",
+                  "cyrillic": "Намайг",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'Би' is the subject, correctly in the nominative."
+                },
+                {
+                  "id": "err_3",
+                  "text": "'Цай' is a loanword and cannot take an object position.",
+                  "cyrillic": "Цай",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'Цай' is perfectly normal native vocabulary."
+                }
+              ],
+              "correctAnswer": "The verb 'ууна' was placed before the object; it should be 'Би цай ууна'.",
+              "acceptableAlternatives": [
+                "Би цай ууна",
+                "The verb 'ууна' was placed before the object"
+              ],
+              "explanation": "In English, verbs precede their objects (I drink tea), but in Mongolian, the object must precede the verb: 'Би цай ууна'.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! SVO must be converted to SOV: 'Би цай ууна'.",
+                "onFailure": "Mongolian always puts the object before the verb: Би цай ууна."
+              },
+              "detailedGrammarNote": "SVO transfer error is the single most common grammatical slip for beginning Mongolian learners from Indo-European language backgrounds.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Би цай ууна.",
+                "slowSpeechSynthesisText": "Би цай ууна.",
+                "ipaTranscription": "/pʰi tsʰæː ʊːn/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a1_16_01_canonical_sov_architecture",
+              "unitId": "unit_a1_16_standard_salutations_time_of_day_gr",
+              "cefrLevel": "A1"
+            }
+          ],
+          "exerciseCount": 5
+        },
+        {
+          "id": "les_a1_16_02_formal_time_greetings_mori",
+          "title": "Formal Salutations by Time of Day: Өглөөний, Өдрийн, Оройн мэнд хүргэе",
+          "cyrillicTitle": "Formally convey time-based greetings ('Өглөөний мэнд хүргэе', 'Танд өдрийн мэнд хүргэе') in professional and polite contexts.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Expand time greetings into full formal performative sentences using 'хүргэе' (I convey).",
+          "communicativeOutcome": "Formally convey time-based greetings ('Өглөөний мэнд хүргэе', 'Танд өдрийн мэнд хүргэе') in professional and polite contexts.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Professional radio announcer voice greetings recorded at natural tempo.",
+          "grammarOverview": {
+            "summary": "Expand time greetings into full formal performative sentences using 'хүргэе' (I convey).",
+            "keyPoints": [
+              "obj_a1_16_02_deliver_formal_time_greetings"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_a1_16_02_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Diurnal Greeting Matching: Time of Day to Salutation",
+              "modality": "DIALOGUE_INTERACTION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "IDENTIFY_RECOGNIZE",
+              "skillTargets": [
+                "temporal_greeting_selection",
+                "social_etiquette"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "Өглөөний мэнд",
+                "Өдрийн мэнд",
+                "Оройн мэнд"
+              ],
+              "prompt": "It is 09:00 AM and you arrive at a Mongolian corporate office. What is the appropriate formal greeting?",
+              "stimulusTextCyrillic": "09:00 AM",
+              "hint": "'Өглөө' means morning.",
+              "options": [
+                {
+                  "id": "opt_ogloo",
+                  "text": "Өглөөний мэнд хүргэе! (Good morning!)",
+                  "cyrillic": "Өглөөний мэнд хүргэе!",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'Өглөөний мэнд' is the polite greeting for the morning hours."
+                },
+                {
+                  "id": "opt_odor",
+                  "text": "Өдрийн мэнд хүргэе! (Good afternoon!)",
+                  "cyrillic": "Өдрийн мэнд хүргэе!",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'Өдрийн мэнд' is used around midday and afternoon (12:00-17:00)."
+                },
+                {
+                  "id": "opt_oroi",
+                  "text": "Оройн мэнд хүргэе! (Good evening!)",
+                  "cyrillic": "Оройн мэнд хүргэе!",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'Оройн мэнд' is used in the evening (after 18:00)."
+                },
+                {
+                  "id": "opt_amraarai",
+                  "text": "Сайхан амраарай! (Have a good rest / Good night!)",
+                  "cyrillic": "Сайхан амраарай!",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. This is a parting wish before sleeping."
+                }
+              ],
+              "correctAnswer": "Өглөөний мэнд хүргэе! (Good morning!)",
+              "acceptableAlternatives": [
+                "Өглөөний мэнд хүргэе!",
+                "Өглөөний мэнд"
+              ],
+              "explanation": "'Өглөөний мэнд хүргэе' (literally: 'I deliver the peace/wellbeing of the morning') is the standard formal greeting before noon.",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! 'Өглөөний мэнд хүргэе' is used in the morning.",
+                "onFailure": "At 09:00 AM use 'Өглөөний мэнд хүргэе'."
+              },
+              "detailedGrammarNote": "The greeting uses the genitive form of the time noun (өглөө -> өглөөний, өдөр -> өдрийн, орой -> оройн) modifying 'мэнд' (wellbeing), followed optionally by the performative verb 'хүргэе' (let me convey).",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Өглөөний мэнд хүргэе!",
+                "slowSpeechSynthesisText": "Өглөөний мэнд хүргэе!",
+                "ipaTranscription": "/ɵɡɮɵːniː mentʰ xʊrɡiː/",
+                "speakerRole": "female_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a1_16_02_formal_time_greetings_mori",
+              "unitId": "unit_a1_16_standard_salutations_time_of_day_gr",
+              "cefrLevel": "A1"
+            },
+            {
+              "exerciseId": "ex_a1_16_02_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "Formal Reciprocal Greeting Response",
+              "modality": "DIALOGUE_INTERACTION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "reciprocal_greeting_response",
+                "polite_register_control"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "Өдрийн мэнд",
+                "Та сайн байна уу"
+              ],
+              "prompt": "A senior colleague greets you at 14:00 with: 'Өдрийн мэнд хүргэе!'. How should you respectfully reply?",
+              "stimulusTextCyrillic": "Ажилтан: Өдрийн мэнд хүргэе!",
+              "hint": "Echo the diurnal greeting and add a respectful inquiry about their wellbeing using 'Та'.",
+              "options": [
+                {
+                  "id": "opt_resp_polite",
+                  "text": "Өдрийн мэнд хүргэе, та сайн байна уу? (Good afternoon, are you well?)",
+                  "cyrillic": "Өдрийн мэнд хүргэе, та сайн байна уу?",
+                  "isCorrect": true,
+                  "explanation": "Correct! Echoing the time-specific greeting with the formal honorific inquiry 'та сайн байна уу?' is the polite gold standard."
+                },
+                {
+                  "id": "opt_resp_casual",
+                  "text": "За, юу байна? (Yeah, what's up?)",
+                  "cyrillic": "За, юу байна?",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'Юу байна' is informal slang inappropriate with senior colleagues."
+                },
+                {
+                  "id": "opt_resp_parting",
+                  "text": "Баяртай, маргааш уулзъя. (Goodbye, see you tomorrow.)",
+                  "cyrillic": "Баяртай, маргааш уулзъя.",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. This is a departure farewell, not an arrival greeting."
+                }
+              ],
+              "correctAnswer": "Өдрийн мэнд хүргэе, та сайн байна уу? (Good afternoon, are you well?)",
+              "acceptableAlternatives": [
+                "Өдрийн мэнд хүргэе, та сайн байна уу?",
+                "Өдрийн мэнд, та сайн байна уу?"
+              ],
+              "explanation": "Mongolian communicative etiquette requires matching or elevating the politeness register of a diurnal greeting with 'Та сайн байна уу?'.",
+              "learnerFeedback": {
+                "onSuccess": "Төгс! Respectful and culturally authentic response.",
+                "onFailure": "Reply politely with: 'Өдрийн мэнд хүргэе, та сайн байна уу?'."
+              },
+              "detailedGrammarNote": "Addressing an equal or senior requires the polite 2nd-person pronoun 'Та' (never informal 'чи') in business and administrative settings.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Өдрийн мэнд хүргэе, та сайн байна уу?",
+                "slowSpeechSynthesisText": "Өдрийн мэнд хүргэе, та сайн байна уу?",
+                "ipaTranscription": "/ɵtʰriːn mentʰ xʊrɡiː, tʰa sæːŋ pæːn ʊː/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a1_16_02_formal_time_greetings_mori",
+              "unitId": "unit_a1_16_standard_salutations_time_of_day_gr",
+              "cefrLevel": "A1"
+            },
+            {
+              "exerciseId": "ex_a1_16_02_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "Cloze Insertion: Evening Salutation",
+              "modality": "DIALOGUE_INTERACTION",
+              "interactionPattern": "CLOZE_TEXT",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "cloze_accuracy",
+                "genitive_time_derivation"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "Оройн мэнд"
+              ],
+              "prompt": "Fill in the blank with the correct genitive time word to complete the 19:00 PM greeting: '______ мэнд хүргэе!'.",
+              "contextSentence": "Цаг 19:00 болж байна. (The time is 19:00.)",
+              "stimulusTextCyrillic": "_______ мэнд хүргэе!",
+              "hint": "Recall how time-of-day nouns take the genitive attribute ending -н to modify 'мэнд' (wellbeing) for dusk hours.",
+              "correctAnswer": "Оройн",
+              "acceptableAlternatives": [
+                "оройн",
+                "ОРОЙН"
+              ],
+              "explanation": "'Оройн мэнд хүргэе!' means 'Good evening!'. The noun 'орой' adds -н to form the genitive attribute 'оройн'.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! 'Оройн мэнд хүргэе!' is complete.",
+                "onFailure": "Use the genitive form of 'орой' (evening) ending in -н: 'Оройн'."
+              },
+              "detailedGrammarNote": "Nouns ending in short diphthongs or vowels like 'орой' add '-н' to form the unstable genitive attribute ('оройн мэнд').",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Оройн мэнд хүргэе!",
+                "slowSpeechSynthesisText": "Оройн мэнд хүргэе!",
+                "ipaTranscription": "/ɔrɔiŋ mentʰ xʊrɡiː/",
+                "speakerRole": "female_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "NORMALIZED_TEXT",
+                "caseSensitive": false,
+                "stripPunctuation": true,
+                "normalizeWhitespace": true
+              },
+              "lessonId": "les_a1_16_02_formal_time_greetings_mori",
+              "unitId": "unit_a1_16_standard_salutations_time_of_day_gr",
+              "cefrLevel": "A1"
+            },
+            {
+              "exerciseId": "ex_a1_16_02_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "Acoustic Salutation Decoding in Public Broadcast",
+              "modality": "DIALOGUE_INTERACTION",
+              "interactionPattern": "AUDIO_COMPREHENSION",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "broadcast_greeting_comprehension",
+                "time_inference"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "үзэгчид",
+                "мэндчилгээ"
+              ],
+              "prompt": "Listen to the television news anchor opening the broadcast. At what time of day is this news program airing?",
+              "stimulusTextCyrillic": "Эрхэм хүндэт үзэгчид ээ, энэ өдрийн амар амгаланг айлтган мэндчилье.",
+              "hint": "Listen for 'энэ өдрийн' (of this day / afternoon).",
+              "options": [
+                {
+                  "id": "opt_afternoon",
+                  "text": "Midday / Afternoon (Өдрийн цаг)",
+                  "cyrillic": "Өдрийн цаг",
+                  "isCorrect": true,
+                  "explanation": "Correct! The anchor said 'энэ өдрийн амар амгалан' (peace of this day/afternoon)."
+                },
+                {
+                  "id": "opt_morning",
+                  "text": "Early Morning (Өглөөний цаг)",
+                  "cyrillic": "Өглөөний цаг",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The anchor did not say өглөөний."
+                },
+                {
+                  "id": "opt_night",
+                  "text": "Late Night (Шөнийн цаг)",
+                  "cyrillic": "Шөнийн цаг",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. This is daytime broadcast greeting."
+                }
+              ],
+              "correctAnswer": "Midday / Afternoon (Өдрийн цаг)",
+              "acceptableAlternatives": [
+                "Өдрийн цаг",
+                "Afternoon",
+                "Midday"
+              ],
+              "explanation": "Anchors frequently use high-register ceremonial phrases like 'энэ өдрийн амар амгаланг айлтгая' for midday/afternoon transmissions.",
+              "learnerFeedback": {
+                "onSuccess": "Сайн байна! You caught 'энэ өдрийн' in formal broadcast speech.",
+                "onFailure": "The anchor said 'энэ өдрийн' which refers to the day/afternoon."
+              },
+              "detailedGrammarNote": "'Амар амгаланг айлтгая' is a classical ceremonial formula deriving from traditional epistolary conventions.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Эрхэм хүндэт үзэгчид ээ, энэ өдрийн амар амгаланг айлтган мэндчилье.",
+                "slowSpeechSynthesisText": "Эрхэм хүндэт үзэгчид ээ, энэ өдрийн амар амгаланг айлтган мэндчилье.",
+                "ipaTranscription": "/erxəm xʊntət utsəktsʰət eː, en ɵtriːn amər amɢaɮəŋ aæɮtʰɢən mentʰtʃiɮjiː/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a1_16_02_formal_time_greetings_mori",
+              "unitId": "unit_a1_16_standard_salutations_time_of_day_gr",
+              "cefrLevel": "A1"
+            },
+            {
+              "exerciseId": "ex_a1_16_02_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "Register Appropriateness: Casual vs Formal Greetings",
+              "modality": "DIALOGUE_INTERACTION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "sociolinguistic_register_selection"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "Сайн уу",
+                "Өглөөний мэнд хүргэе"
+              ],
+              "prompt": "You meet your company CEO in the elevator. Which greeting demonstrates proper professional respect?",
+              "hint": "Avoid one-word peer greetings like 'Сайн уу'. Use full polite time-of-day phrases.",
+              "options": [
+                {
+                  "id": "reg_formal",
+                  "text": "Өглөөний мэнд хүргэе, захирал аа. (Good morning, Director.)",
+                  "cyrillic": "Өглөөний мэнд хүргэе, захирал аа.",
+                  "isCorrect": true,
+                  "explanation": "Correct! Formal diurnal greeting paired with respectful professional title + vocative particle."
+                },
+                {
+                  "id": "reg_casual",
+                  "text": "Сайн уу, Батаа! (Hey, Bat!)",
+                  "cyrillic": "Сайн уу, Батаа!",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. This is overly familiar peer slang inappropriate for executive staff."
+                },
+                {
+                  "id": "reg_slang",
+                  "text": "Юу байна даа? (What's cookin'?)",
+                  "cyrillic": "Юу байна даа?",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Highly colloquial phrasing."
+                }
+              ],
+              "correctAnswer": "Өглөөний мэнд хүргэе, захирал аа. (Good morning, Director.)",
+              "acceptableAlternatives": [
+                "Өглөөний мэнд хүргэе, захирал аа."
+              ],
+              "explanation": "Addressing company leadership requires formal time salutations ('Өглөөний мэнд хүргэе') and title honorifics ('захирал аа').",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! Dignified and respectful executive communication.",
+                "onFailure": "Use 'Өглөөний мэнд хүргэе, захирал аа.' for formal leadership."
+              },
+              "detailedGrammarNote": "The vocative enclitic 'аа/ээ/оо/өө' attached to titles ('захирал аа', 'багш аа') signals respectful direct address in administrative communication.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Өглөөний мэнд хүргэе, захирал аа.",
+                "slowSpeechSynthesisText": "Өглөөний мэнд хүргэе, захирал аа.",
+                "ipaTranscription": "/ɵɡɮɵːniː mentʰ xʊrɡiː, tsaxʲirəɮ aː/",
+                "speakerRole": "female_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a1_16_02_formal_time_greetings_mori",
+              "unitId": "unit_a1_16_standard_salutations_time_of_day_gr",
+              "cefrLevel": "A1"
+            }
+          ],
+          "exerciseCount": 5
+        },
+        {
+          "id": "les_a1_16_03_inquiry_after_peace_amar_mend",
+          "title": "Inquiring After Peace and Wellbeing: Амар байна уу? & Мэнд ээ",
+          "cyrillicTitle": "Greet elders and respected hosts using 'Та амар байна уу?' and respond 'Амар мөнд ээ, та амархан сайн байна уу?'.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Introduce traditional and formal inquiries after peace ('Амар байна уу?') and their customary ceremonial responses.",
+          "communicativeOutcome": "Greet elders and respected hosts using 'Та амар байна уу?' and respond 'Амар мөнд ээ, та амархан сайн байна уу?'.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic rural elder dialogues with respectful conversational cadence.",
+          "grammarOverview": {
+            "summary": "Introduce traditional and formal inquiries after peace ('Амар байна уу?') and their customary ceremonial responses.",
+            "keyPoints": [
+              "obj_a1_16_03_exchange_traditional_greetings"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_16_04_reading_daily_greeting_schedules",
+          "title": "Reading Situational Greeting Scripts & Daily Schedules",
+          "cyrillicTitle": "Scan texts for morning, afternoon, and evening markers and extract key scheduled greeting rituals.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Decode authentic daily schedules, morning routine agendas, and office reception logs.",
+          "communicativeOutcome": "Scan texts for morning, afternoon, and evening markers and extract key scheduled greeting rituals.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear office schedule announcements with timestamps.",
+          "grammarOverview": {
+            "summary": "Decode authentic daily schedules, morning routine agendas, and office reception logs.",
+            "keyPoints": [
+              "obj_a1_16_04_read_situational_scripts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_16_05_reception_desk_simulation",
+          "title": "Interactive Reception Desk & Visitor Welcome Dialogue",
+          "cyrillicTitle": "Approach a reception desk, deliver time-appropriate formal salutations, and acknowledge the receptionist's reply.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate arriving at a business office or academic department and executing appropriate greeting rituals.",
+          "communicativeOutcome": "Approach a reception desk, deliver time-appropriate formal salutations, and acknowledge the receptionist's reply.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic multi-speaker reception desk dialogue.",
+          "grammarOverview": {
+            "summary": "Simulate arriving at a business office or academic department and executing appropriate greeting rituals.",
+            "keyPoints": [
+              "obj_a1_16_05_execute_reception_greeting"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_a1_16_05_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Reception Roleplay: Turn 1 Welcoming Inquiry",
+              "modality": "DIALOGUE_INTERACTION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "reception_interaction",
+                "polite_inquiry"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "хүлээн авагч",
+                "хэнтэй",
+                "уулзах"
+              ],
+              "prompt": "You step up to the reception desk. The receptionist smiles and says: 'Сайн байна уу? Танд юугаар туслах вэ?'. What should you say if you have an appointment with Mr. Bold?",
+              "stimulusTextCyrillic": "Хүлээн авагч: Сайн байна уу? Танд юугаар туслах вэ?",
+              "hint": "Use the comitative case '-тай' (with) when expressing meeting someone: Болдтой уулзах.",
+              "options": [
+                {
+                  "id": "turn_1",
+                  "text": "Сайн байна уу. Би Болд захиралтай уулзахаар ирсэн юм. (Hello. I have come to meet Director Bold.)",
+                  "cyrillic": "Сайн байна уу. Би Болд захиралтай уулзахаар ирсэн юм.",
+                  "isCorrect": true,
+                  "explanation": "Correct! Natural and polite phrasing using intentional supine -хаар/хээр with comitative -тай."
+                },
+                {
+                  "id": "turn_2",
+                  "text": "Болд хаана байна? Би шууд орлоо. (Where is Bold? I'm going in directly.)",
+                  "cyrillic": "Болд хаана байна? Би шууд орлоо.",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Impolite and violates visitor protocol."
+                },
+                {
+                  "id": "turn_3",
+                  "text": "Би захирал биш. (I am not a director.)",
+                  "cyrillic": "Би захирал биш.",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Irrelevant response."
+                }
+              ],
+              "correctAnswer": "Сайн байна уу. Би Болд захиралтай уулзахаар ирсэн юм. (Hello. I have come to meet Director Bold.)",
+              "acceptableAlternatives": [
+                "Сайн байна уу. Би Болд захиралтай уулзахаар ирсэн юм.",
+                "Би Болд захиралтай уулзахаар ирсэн."
+              ],
+              "explanation": "'[Name]-тай уулзахаар ирсэн' (I have come in order to meet [Name]) is the standard polite formula at Mongolian office receptions.",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! Polite and accurate visitor phrasing.",
+                "onFailure": "Say: 'Сайн байна уу. Би Болд захиралтай уулзахаар ирсэн юм.'."
+              },
+              "detailedGrammarNote": "The supine verbal noun in -хаар⁴ ('уулзахаар') denotes the deliberate purpose of arriving ('ирсэн').",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Сайн байна уу. Би Болд захиралтай уулзахаар ирсэн юм.",
+                "slowSpeechSynthesisText": "Сайн байна уу. Би Болд захиралтай уулзахаар ирсэн юм.",
+                "ipaTranscription": "/sæːŋ pæːn ʊː. pʰi pɔɮtʰ tsaxʲirəɮtʰæː ʊːɮtsəxaːr irsəŋ jʊm/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a1_16_05_reception_desk_simulation",
+              "unitId": "unit_a1_16_standard_salutations_time_of_day_gr",
+              "cefrLevel": "A1"
+            },
+            {
+              "exerciseId": "ex_a1_16_05_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "Interpreting Polite Directives: 'Түр хүлээнэ үү'",
+              "modality": "DIALOGUE_INTERACTION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "polite_imperative_comprehension",
+                "reception_instructions"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "түр",
+                "хүлээнэ үү",
+                "сууна уу"
+              ],
+              "prompt": "The receptionist checks the register and says: 'За, та энд түр хүлээнэ үү. Би одоо мэдэгдье.' What did the receptionist ask you to do?",
+              "stimulusTextCyrillic": "Хүлээн авагч: За, та энд түр хүлээнэ үү. Би одоо мэдэгдье.",
+              "hint": "'Түр' means 'temporarily/for a moment', and 'хүлээнэ үү' means 'please wait'.",
+              "options": [
+                {
+                  "id": "dir_wait",
+                  "text": "Please wait here a moment while she notifies him.",
+                  "cyrillic": "Энд түр хүлээнэ үү",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'Түр хүлээнэ үү' means 'please wait a moment'."
+                },
+                {
+                  "id": "dir_leave",
+                  "text": "Please leave and come back next week.",
+                  "cyrillic": "Дараа ирнэ үү",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. She asked you to wait briefly."
+                },
+                {
+                  "id": "dir_call",
+                  "text": "Please call Director Bold on your phone right now.",
+                  "cyrillic": "Утсаар ярина уу",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. She is notifying him herself."
+                }
+              ],
+              "correctAnswer": "Please wait here a moment while she notifies him.",
+              "acceptableAlternatives": [
+                "Please wait here a moment",
+                "энд түр хүлээнэ үү"
+              ],
+              "explanation": "'Түр хүлээнэ үү' is a polite request utilizing the volitional directive ending -нэ үү/нө үү ('will you please wait a moment').",
+              "learnerFeedback": {
+                "onSuccess": "Зөв! The receptionist asked you to wait briefly.",
+                "onFailure": "'Түр хүлээнэ үү' = Please wait a moment."
+              },
+              "detailedGrammarNote": "The polite request marker '-нэ үү/-нэ үү' attaches to verb stems to form soft directives appropriate in service interactions.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "За, та энд түр хүлээнэ үү. Би одоо мэдэгдье.",
+                "slowSpeechSynthesisText": "За, та энд түр хүлээнэ үү. Би одоо мэдэгдье.",
+                "ipaTranscription": "/tsa, tʰa entʰ tʰur xʊɮiːnə ʊː. pʰi ɔtɔː metəkjiː/",
+                "speakerRole": "female_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a1_16_05_reception_desk_simulation",
+              "unitId": "unit_a1_16_standard_salutations_time_of_day_gr",
+              "cefrLevel": "A1"
+            },
+            {
+              "exerciseId": "ex_a1_16_05_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "Stating Identity and Company Affiliation",
+              "modality": "DIALOGUE_INTERACTION",
+              "interactionPattern": "TOKEN_REARRANGEMENT",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "self_introduction_syntax",
+                "affiliation_statement"
+              ],
+              "grammarTargets": [
+                "gram_a1_sov_word_order"
+              ],
+              "vocabularyTargets": [
+                "компани",
+                "төлөөлөгч",
+                "би"
+              ],
+              "prompt": "When the receptionist asks 'Та нэр, байгууллагаа хэлнэ үү?' (Could you please state your name and organization?), assemble your reply: 'I am a representative from ABC company'.",
+              "wordTokens": [
+                "ABC",
+                "би",
+                "төлөөлөгч",
+                "компанийн"
+              ],
+              "correctTokenOrder": [
+                "би",
+                "ABC",
+                "компанийн",
+                "төлөөлөгч"
+              ],
+              "correctAnswer": "би ABC компанийн төлөөлөгч",
+              "acceptableAlternatives": [
+                "Би ABC компанийн төлөөлөгч.",
+                "Би ABC компанийн төлөөлөгч байна"
+              ],
+              "hint": "Subject (Би) + Genitive company (ABC компанийн) + Predicate noun (төлөөлөгч).",
+              "explanation": "Genitive modifiers precede the noun head: 'ABC компанийн төлөөлөгч' (ABC company's representative).",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! Accurate company affiliation phrasing.",
+                "onFailure": "Sequence: Би -> ABC -> компанийн -> төлөөлөгч."
+              },
+              "detailedGrammarNote": "Foreign corporate acronyms appear before the generic word 'компани', which carries the case suffix ('компанийн').",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Би Эй-Би-Си компанийн төлөөлөгч.",
+                "slowSpeechSynthesisText": "Би Эй-Би-Си компанийн төлөөлөгч.",
+                "ipaTranscription": "/pʰi eː-piː-siː xʰɔmpʰaniːŋ tʰɵɮɵːɮɵɡtʃʰ/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "TOKEN_ORDER"
+              },
+              "lessonId": "les_a1_16_05_reception_desk_simulation",
+              "unitId": "unit_a1_16_standard_salutations_time_of_day_gr",
+              "cefrLevel": "A1"
+            },
+            {
+              "exerciseId": "ex_a1_16_05_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "Acoustic Dialogue Extraction: Visitor Log Data",
+              "modality": "DIALOGUE_INTERACTION",
+              "interactionPattern": "AUDIO_COMPREHENSION",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "listening_detail_extraction",
+                "reception_log_comprehension"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "өрөө",
+                "давхар"
+              ],
+              "prompt": "Listen to the receptionist give directions to the visitor: 'Болд захирлын өрөө 3-р давхарт, 305 тоот.' On which floor and in which room number is the meeting?",
+              "stimulusTextCyrillic": "Болд захирлын өрөө 3-р давхарт, 305 тоот.",
+              "hint": "3-р давхар = 3rd floor; 305 тоот = room 305.",
+              "options": [
+                {
+                  "id": "loc_3_305",
+                  "text": "3rd floor, Room 305 (3-р давхарт, 305 тоот)",
+                  "cyrillic": "3-р давхарт, 305 тоот",
+                  "isCorrect": true,
+                  "explanation": "Correct! '3-р давхар' is 3rd floor and '305 тоот' is room 305."
+                },
+                {
+                  "id": "loc_2_205",
+                  "text": "2nd floor, Room 205 (2-р давхарт, 205 тоот)",
+                  "cyrillic": "2-р давхарт, 205 тоот",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The audio stated 3-р давхар."
+                },
+                {
+                  "id": "loc_5_300",
+                  "text": "5th floor, Room 300 (5-р давхарт, 300 тоот)",
+                  "cyrillic": "5-р давхарт, 300 тоот",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The numbers do not match."
+                }
+              ],
+              "correctAnswer": "3rd floor, Room 305 (3-р давхарт, 305 тоот)",
+              "acceptableAlternatives": [
+                "3rd floor, Room 305",
+                "3-р давхарт, 305 тоот"
+              ],
+              "explanation": "Mongolian uses '-р/-дугаар' for ordinal numbers (3-р = гуравдугаар) and 'тоот' (numbered unit) for office and apartment rooms.",
+              "learnerFeedback": {
+                "onSuccess": "Сайн байна! Floor and room number parsed accurately.",
+                "onFailure": "Listen for '3-р давхарт' (3rd floor) and '305 тоот' (room 305)."
+              },
+              "detailedGrammarNote": "Ordinal numeral abbreviation in Cyrillic uses a hyphen followed by 'р' (1-р, 2-р, 3-р) or 'дугаар/дүгээр'.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Болд захирлын өрөө гуравдугаар давхарт, гурван зуун таван тоот.",
+                "slowSpeechSynthesisText": "Болд захирлын өрөө 3-р давхарт, 305 тоот.",
+                "ipaTranscription": "/pɔɮtʰ tsaxʲirɮiːŋ ɵrɵː ɢʊrəwtʊɢaːr tʰawxərtʰ, ɢʊrwəŋ tsʊːŋ tʰawəŋ tʰɔːtʰ/",
+                "speakerRole": "female_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a1_16_05_reception_desk_simulation",
+              "unitId": "unit_a1_16_standard_salutations_time_of_day_gr",
+              "cefrLevel": "A1"
+            },
+            {
+              "exerciseId": "ex_a1_16_05_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "Visitor Badge & Access Protocol Response",
+              "modality": "DIALOGUE_INTERACTION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "civic_transaction_protocol",
+                "polite_acknowledgment"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "үнэмлэх",
+                "карт",
+                "баярлалаа"
+              ],
+              "prompt": "The receptionist hands you a guest badge and says: 'Энэ зочны үнэмлэхийг зүүгээрэй' (Please wear this guest ID). What is the appropriate acknowledgment?",
+              "stimulusTextCyrillic": "Хүлээн авагч: Энэ зочны үнэмлэхийг зүүгээрэй.",
+              "hint": "Express gratitude and indicate you understand.",
+              "options": [
+                {
+                  "id": "ack_polite",
+                  "text": "Маш их баярлалаа, ойлголоо. (Thank you very much, understood.)",
+                  "cyrillic": "Маш их баярлалаа, ойлголоо.",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'Баярлалаа, ойлголоо' is the courteous and expected acknowledgment."
+                },
+                {
+                  "id": "ack_refusal",
+                  "text": "Үгүй, би зүүхгүй. (No, I won't wear it.)",
+                  "cyrillic": "Үгүй, би зүүхгүй.",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Uncooperative and socially unacceptable."
+                },
+                {
+                  "id": "ack_confused",
+                  "text": "Энэ юу вэ? Би явж байна. (What is this? I am leaving.)",
+                  "cyrillic": "Энэ юу вэ? Би явж байна.",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Confused and inappropriate."
+                }
+              ],
+              "correctAnswer": "Маш их баярлалаа, ойлголоо. (Thank you very much, understood.)",
+              "acceptableAlternatives": [
+                "Маш их баярлалаа, ойлголоо.",
+                "Баярлалаа"
+              ],
+              "explanation": "'Маш их баярлалаа' followed by 'ойлголоо' (understood) completes the security check-in exchange smoothly.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! Seamless professional visitor etiquette.",
+                "onFailure": "Respond with gratitude: 'Маш их баярлалаа, ойлголоо.'."
+              },
+              "detailedGrammarNote": "The verb ending '-аарай⁴' ('зүүгээрэй') is the prescriptive imperative expressing polite instructions or invitations from an authority/host.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Маш их баярлалаа, ойлголоо.",
+                "slowSpeechSynthesisText": "Маш их баярлалаа, ойлголоо.",
+                "ipaTranscription": "/maʃ ix pajərɮəɮaː, ɔeɮɢɔɮɔː/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_a1_16_05_reception_desk_simulation",
+              "unitId": "unit_a1_16_standard_salutations_time_of_day_gr",
+              "cefrLevel": "A1"
+            }
+          ],
+          "exerciseCount": 5
+        },
+        {
+          "id": "les_a1_16_06_salutations_and_sov_synthesis",
+          "title": "Connected Speech Lab: Tracking Daily Salutations & SOV Word Order",
+          "cyrillicTitle": "Extract speaker identities, time-of-day greetings, and conversational intentions from multi-speaker dialogue tracks.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Develop connected-discourse listening comprehension by tracking multi-turn greetings and parsing canonical SOV structure in native recorded audio.",
+          "communicativeOutcome": "Extract speaker identities, time-of-day greetings, and conversational intentions from multi-speaker dialogue tracks.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Diagnostic oral testing audio items.",
+          "grammarOverview": {
+            "summary": "Develop connected-discourse listening comprehension by tracking multi-turn greetings and parsing canonical SOV structure in native recorded audio.",
+            "keyPoints": [
+              "Develop connected-discourse listening comprehension by tracking multi-turn greetings and parsing canonical SOV structure in native recorded audio."
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_17_personal_pronouns_direct_address_pr",
+      "unitNumber": 17,
+      "title": "Personal Pronouns & Direct Address Protocols",
+      "cyrillicTitle": "Addressing peers vs elders using Би, Чи, Та",
+      "description": "Acquire and apply grammatical morphology (gram_a1_pronouns_personal_nominative) to fulfill communicative functions in: Personal Pronouns & Direct Address Protocols.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_pronouns_personal_nominative",
+      "lessons": [
+        {
+          "id": "les_a1_17_01_nominative_personal_pronouns_system",
+          "title": "The Nominative Personal Pronoun Paradigm: Би, Чи, Та, Тэр, Бид, Та нар, Тэд",
+          "cyrillicTitle": "Identify and use personal pronouns to refer to self, interlocutor, and third parties in basic clauses.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the complete paradigm of nominative personal pronouns across singular and plural persons.",
+          "communicativeOutcome": "Identify and use personal pronouns to refer to self, interlocutor, and third parties in basic clauses.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Clear pronoun paradigm recitation by male and female native speakers.",
+          "grammarOverview": {
+            "summary": "Introduce the complete paradigm of nominative personal pronouns across singular and plural persons.",
+            "keyPoints": [
+              "obj_a1_17_01_master_pronoun_paradigm"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_17_02_politeness_protocols_chi_vs_ta",
+          "title": "Direct Address Protocols: The Crucial Contrast Between Чи (Informal) and Та (Polite)",
+          "cyrillicTitle": "Avoid social offense by strictly addressing elders, teachers, strangers, and officials with 'Та'.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Analyze the social and ethical rules governing the choice between intimate 'Чи' and deferential 'Та'.",
+          "communicativeOutcome": "Avoid social offense by strictly addressing elders, teachers, strangers, and officials with 'Та'.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Contrasting conversational audio vignettes highlighting social status.",
+          "grammarOverview": {
+            "summary": "Analyze the social and ethical rules governing the choice between intimate 'Чи' and deferential 'Та'.",
+            "keyPoints": [
+              "obj_a1_17_02_navigate_chi_ta_protocols"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_17_03_plural_address_protocols",
+          "title": "Plural Pronouns and Collective Address: Та нар, Бид нар, Тэд нар",
+          "cyrillicTitle": "Address groups of people politely ('Та нар сайн байна уу?') and refer to collective bodies ('Бид нар оюутнууд').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Introduce the collective plural marker 'нар' used with human personal pronouns.",
+          "communicativeOutcome": "Address groups of people politely ('Та нар сайн байна уу?') and refer to collective bodies ('Бид нар оюутнууд').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Teacher addressing a classroom of students.",
+          "grammarOverview": {
+            "summary": "Introduce the collective plural marker 'нар' used with human personal pronouns.",
+            "keyPoints": [
+              "obj_a1_17_03_use_plural_pronouns"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_17_04_reading_personal_introductions",
+          "title": "Reading Personal Introductions & Bio Profiles",
+          "cyrillicTitle": "Read and extract name, status, and role from 40-word autobiographical bio cards.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Decode short introductory biography cards featuring personal pronouns and name statements.",
+          "communicativeOutcome": "Read and extract name, status, and role from 40-word autobiographical bio cards.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic student introductory monologues.",
+          "grammarOverview": {
+            "summary": "Decode short introductory biography cards featuring personal pronouns and name statements.",
+            "keyPoints": [
+              "obj_a1_17_04_read_personal_bios"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_17_05_interviewing_classmates_protocols",
+          "title": "Classroom Interview: Exchanging Names and Addressing Partners",
+          "cyrillicTitle": "Ask 'Таны нэр хэн бэ?' (polite) or 'Чиний нэр хэн бэ?' (peer) and respond 'Миний нэр ...' or 'Намайг ... гэдэг'.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Engage in pair-work interviews asking partners for their names using correct direct address protocols.",
+          "communicativeOutcome": "Ask 'Таны нэр хэн бэ?' (polite) or 'Чиний нэр хэн бэ?' (peer) and respond 'Миний нэр ...' or 'Намайг ... гэдэг'.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic two-person introduction dialogue with varied social registers.",
+          "grammarOverview": {
+            "summary": "Engage in pair-work interviews asking partners for their names using correct direct address protocols.",
+            "keyPoints": [
+              "obj_a1_17_05_interview_partners_for_names"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_17_06_pronouns_and_address_checkpoint",
+          "title": "Social Address Workshop: Roleplaying Register Shifts (Чи vs Та)",
+          "cyrillicTitle": "Deploy the full set of personal pronouns and honorific address forms with 100% pragmatic precision.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Navigate dynamic conversational encounters requiring swift social register shifts between peers (чи), elders/officials (та), and group audiences (та нар).",
+          "communicativeOutcome": "Deploy the full set of personal pronouns and honorific address forms with 100% pragmatic precision.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Diagnostic audio evaluation items for pronoun recognition.",
+          "grammarOverview": {
+            "summary": "Navigate dynamic conversational encounters requiring swift social register shifts between peers (чи), elders/officials (та), and group audiences (та нар).",
+            "keyPoints": [
+              "Navigate dynamic conversational encounters requiring swift social register shifts between peers (чи), elders/officials (та), and group audiences (та нар)."
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_18_zero_copula_identity_origin_predica",
+      "unitNumber": 18,
+      "title": "Zero-Copula Identity & Origin Predication",
+      "cyrillicTitle": "Stating nationality and hometown using nominal predicates",
+      "description": "Acquire and apply grammatical morphology (gram_a1_nominal_predicate_zero_copula, gram_a1_case_nominative_unmarked) to fulfill communicative functions in: Zero-Copula Identity & Origin Predication.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_nominal_predicate_zero_copula, gram_a1_case_nominative_unmarked",
+      "lessons": [
+        {
+          "id": "les_a1_18_01_zero_copula_structure_intro",
+          "title": "Unmarked Nominative Arguments & The Zero-Copula Predication Principle",
+          "cyrillicTitle": "Form basic identity sentences directly juxtaposing Subject and Predicate Noun (Би багш 'I am a teacher', Тэр оюутан 'He is a student').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Establish the core principle of nominal equative clauses: in present tense, unmarked nominative subjects link directly to predicate nouns with zero auxiliary or copula verb.",
+          "communicativeOutcome": "Form basic identity sentences directly juxtaposing Subject and Predicate Noun (Би багш 'I am a teacher', Тэр оюутан 'He is a student').",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic zero-copula statement recordings with pitch drop on final noun.",
+          "grammarOverview": {
+            "summary": "Establish the core principle of nominal equative clauses: in present tense, unmarked nominative subjects link directly to predicate nouns with zero auxiliary or copula verb.",
+            "keyPoints": [
+              "obj_a1_18_01_form_zero_copula_clauses"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_18_02_nationality_and_origin_predication",
+          "title": "Stating Nationality & Geographic Origin: Монгол, Америк, Солонгос, Япон",
+          "cyrillicTitle": "State nationality and origin using zero-copula clauses ('Би монгол', 'Тэр америк хүн', 'Бид солонгос').",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce major country and nationality nouns and combine them with zero-copula predication.",
+          "communicativeOutcome": "State nationality and origin using zero-copula clauses ('Би монгол', 'Тэр америк хүн', 'Бид солонгос').",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic nationality statements from native and international speakers.",
+          "grammarOverview": {
+            "summary": "Introduce major country and nationality nouns and combine them with zero-copula predication.",
+            "keyPoints": [
+              "obj_a1_18_02_state_nationality_origin"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_18_03_origin_with_ablative_suffix_aas",
+          "title": "Expressing Geographic Origin with the Ablative Suffix (-аас, -ээс, -оос, -өөс)",
+          "cyrillicTitle": "State where one comes from geographically ('Би Америкаас ирсэн' / 'Би хөдөөнөөс').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Introduce the ablative case suffix to express origin from a city, province, or country ('Би Дарханаас ирсэн / Би Улаанбаатарынх').",
+          "communicativeOutcome": "State where one comes from geographically ('Би Америкаас ирсэн' / 'Би хөдөөнөөс').",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic regional origin expressions with varied fourfold vowel harmony.",
+          "grammarOverview": {
+            "summary": "Introduce the ablative case suffix to express origin from a city, province, or country ('Би Дарханаас ирсэн / Би Улаанбаатарынх').",
+            "keyPoints": [
+              "obj_a1_18_03_express_provenance_ablative"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_18_04_reading_international_participant_roster",
+          "title": "Decoding Conference Participant Rosters & Badges",
+          "cyrillicTitle": "Scan a 50-word multilingual conference roster and extract participant names, nationalities, and job titles.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Decode authentic conference rosters, participant tables, and nametags containing name, role, and country of origin.",
+          "communicativeOutcome": "Scan a 50-word multilingual conference roster and extract participant names, nationalities, and job titles.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Conference master of ceremonies introducing keynote speakers.",
+          "grammarOverview": {
+            "summary": "Decode authentic conference rosters, participant tables, and nametags containing name, role, and country of origin.",
+            "keyPoints": [
+              "obj_a1_18_04_read_participant_rosters"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_18_05_introducing_oneself_and_others_origin",
+          "title": "Speaking Workshop: Introducing Yourself and a Colleague",
+          "cyrillicTitle": "Introduce oneself and introduce a colleague to a host ('Энэ бол миний найз Жон. Тэр канад. Тэр эмч.').",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Combine personal pronouns, zero-copula predication, and origin vocabulary into a multi-turn social introduction.",
+          "communicativeOutcome": "Introduce oneself and introduce a colleague to a host ('Энэ бол миний найз Жон. Тэр канад. Тэр эмч.').",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic dinner reception introductions among peers and colleagues.",
+          "grammarOverview": {
+            "summary": "Combine personal pronouns, zero-copula predication, and origin vocabulary into a multi-turn social introduction.",
+            "keyPoints": [
+              "obj_a1_18_05_introduce_self_and_colleague"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_18_06_identity_predication_checkpoint",
+          "title": "Participant Networking Simulation: Self-Introductions & Origin Exchange",
+          "cyrillicTitle": "Formulate accurate affirmative identity statements for self and others with zero syntactic interference.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Engage in an international networking simulation, introducing oneself, asking peers about their hometowns, and verifying participant rosters.",
+          "communicativeOutcome": "Formulate accurate affirmative identity statements for self and others with zero syntactic interference.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Diagnostic audio evaluation items for identity predication.",
+          "grammarOverview": {
+            "summary": "Engage in an international networking simulation, introducing oneself, asking peers about their hometowns, and verifying participant rosters.",
+            "keyPoints": [
+              "Engage in an international networking simulation, introducing oneself, asking peers about their hometowns, and verifying participant rosters."
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_19_polar_inquiries_polar_question_part",
+      "unitNumber": 19,
+      "title": "Polar Inquiries: Polar Question Particles уу/үү/юу/юү",
+      "cyrillicTitle": "Asking yes/no questions about identity and origin",
+      "description": "Acquire and apply grammatical morphology (gram_a1_polar_questions_uu_uu) to fulfill communicative functions in: Polar Inquiries: Polar Question Particles уу/үү/юу/юү.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_polar_questions_uu_uu",
+      "lessons": [
+        {
+          "id": "les_a1_19_01_polar_particles_uu_uu_distribution",
+          "title": "Polar Question Particles: Harmonizing уу / үү After Consonants",
+          "cyrillicTitle": "Convert any affirmative nominal statement ending in a consonant into a yes/no question (Та багш уу? / Та эмч үү?).",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the polar question particles уу (masculine) and үү (feminine) attaching after consonant-final words.",
+          "communicativeOutcome": "Convert any affirmative nominal statement ending in a consonant into a yes/no question (Та багш уу? / Та эмч үү?).",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic polar question pitch contours showing sentence-final prominence.",
+          "grammarOverview": {
+            "summary": "Introduce the polar question particles уу (masculine) and үү (feminine) attaching after consonant-final words.",
+            "keyPoints": [
+              "obj_a1_19_01_form_polar_questions_uu_uu"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_19_02_polar_particles_yuu_yuu_after_vowels",
+          "title": "Post-Vocalic Polar Question Particles: юу / юү After Vowels & Diphthongs",
+          "cyrillicTitle": "Form correct polar questions following vowels and diphthongs (Энэ цай юу? 'Is this tea?' / Энэ сүү юү? 'Is this milk?').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Explain the phonotactic selection of юу (masculine) and юү (feminine) when the preceding word ends in a long vowel or diphthong.",
+          "communicativeOutcome": "Form correct polar questions following vowels and diphthongs (Энэ цай юу? 'Is this tea?' / Энэ сүү юү? 'Is this milk?').",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Clear phonetic glide contrast in post-vocalic interrogative particles.",
+          "grammarOverview": {
+            "summary": "Explain the phonotactic selection of юу (masculine) and юү (feminine) when the preceding word ends in a long vowel or diphthong.",
+            "keyPoints": [
+              "obj_a1_19_02_form_post_vocalic_polar_questions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_19_03_answering_polar_questions_affirmative",
+          "title": "Affirmative Responses: Тийм, [Subject] [Predicate Noun]",
+          "cyrillicTitle": "Answer yes/no inquiries affirmatively ('Тийм, би оюутан' / 'Тийм ээ, тэр монгол').",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Teach learners how to answer polar inquiries affirmatively using 'Тийм' followed by complete or elliptical sentences.",
+          "communicativeOutcome": "Answer yes/no inquiries affirmatively ('Тийм, би оюутан' / 'Тийм ээ, тэр монгол').",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic affirmative confirmation dialogues.",
+          "grammarOverview": {
+            "summary": "Teach learners how to answer polar inquiries affirmatively using 'Тийм' followed by complete or elliptical sentences.",
+            "keyPoints": [
+              "obj_a1_19_03_answer_polar_questions_affirmatively"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_19_04_reading_identity_confirmation_dialogues",
+          "title": "Reading Identity Confirmation Dialogues in Official Settings",
+          "cyrillicTitle": "Read and understand short 4-turn verification exchanges confirming names, passports, and room numbers.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Decode multi-turn identity verification scripts at security checkpoints, bank counters, and reception desks.",
+          "communicativeOutcome": "Read and understand short 4-turn verification exchanges confirming names, passports, and room numbers.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic border checkpoint identity verification audio.",
+          "grammarOverview": {
+            "summary": "Decode multi-turn identity verification scripts at security checkpoints, bank counters, and reception desks.",
+            "keyPoints": [
+              "obj_a1_19_04_read_verification_dialogues"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_19_05_guessing_game_twenty_questions_identities",
+          "title": "Classroom Deduction Game: Guessing Secret Identities",
+          "cyrillicTitle": "Formulate spontaneous polar questions to deduce identity ('Та эмч үү?', 'Тэр монгол уу?', 'Тэр багш уу?').",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Play a structured deduction game asking yes/no questions to discover a secret classmate or famous figure.",
+          "communicativeOutcome": "Formulate spontaneous polar questions to deduce identity ('Та эмч үү?', 'Тэр монгол уу?', 'Тэр багш уу?').",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic multi-participant classroom guessing game audio.",
+          "grammarOverview": {
+            "summary": "Play a structured deduction game asking yes/no questions to discover a secret classmate or famous figure.",
+            "keyPoints": [
+              "obj_a1_19_05_execute_deduction_inquiries"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_19_06_polar_inquiries_synthesis_checkpoint",
+          "title": "Polar Inquiries & Question Particles Synthesis",
+          "cyrillicTitle": "Accurately question and verify identity, role, and origin across all harmonic and phonotactic contexts.",
+          "estimatedMinutes": 15,
+          "lessonType": "checkpoint",
+          "primaryPurpose": "Assess integrated competence in forming and answering polar questions using the full particle set (уу, үү, юу, юү).",
+          "communicativeOutcome": "Accurately question and verify identity, role, and origin across all harmonic and phonotactic contexts.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Diagnostic audio evaluation items for polar questions.",
+          "grammarOverview": {
+            "summary": "Assess integrated competence in forming and answering polar questions using the full particle set (уу, үү, юу, юү).",
+            "keyPoints": [
+              "Assess integrated competence in forming and answering polar questions using the full particle set (уу, үү, юу, юү)."
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_20_demonstrative_deixis_",
+      "unitNumber": 20,
+      "title": "Demonstrative Deixis: Энэ, Тэр, Эдгээр, Тэдгээр",
+      "cyrillicTitle": "Pointing to people, objects, and documents in immediate space",
+      "description": "Acquire and apply grammatical morphology (gram_a1_pronouns_demonstrative_ene_ter) to fulfill communicative functions in: Demonstrative Deixis: Энэ, Тэр, Эдгээр, Тэдгээр.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_pronouns_demonstrative_ene_ter",
+      "lessons": [
+        {
+          "id": "les_a1_20_01_proximal_distal_deixis_ene_ter",
+          "title": "Spatial Deixis: Contrasting Proximal Энэ (This) and Distal Тэр (That)",
+          "cyrillicTitle": "Point to objects, people, and documents in space using 'энэ' and 'тэр' (Энэ ном 'this book', Тэр багш 'that teacher').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce demonstrative pronouns 'энэ' (proximal, near speaker) and 'тэр' (distal, away from speaker) functioning as determiners and pronouns.",
+          "communicativeOutcome": "Point to objects, people, and documents in space using 'энэ' and 'тэр' (Энэ ном 'this book', Тэр багш 'that teacher').",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic deictic utterances with clear pitch peak on the demonstrative.",
+          "grammarOverview": {
+            "summary": "Introduce demonstrative pronouns 'энэ' (proximal, near speaker) and 'тэр' (distal, away from speaker) functioning as determiners and pronouns.",
+            "keyPoints": [
+              "obj_a1_20_01_use_ene_ter_demonstratives"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_20_02_plural_demonstratives_edgeer_tedgeer",
+          "title": "Plural Deixis: Эдгээр (These) and Тэдгээр (Those)",
+          "cyrillicTitle": "Refer to collections of items or groups of individuals ('эдгээр номууд' 'these books', 'тэдгээр хүмүүс' 'those people').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Introduce the plural demonstrative forms 'эдгээр' (these) and 'тэдгээр' (those) for multiple referents.",
+          "communicativeOutcome": "Refer to collections of items or groups of individuals ('эдгээр номууд' 'these books', 'тэдгээр хүмүүс' 'those people').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear distinction between long vowel /e:/ in 'эдгээр' vs short vowel.",
+          "grammarOverview": {
+            "summary": "Introduce the plural demonstrative forms 'эдгээр' (these) and 'тэдгээр' (those) for multiple referents.",
+            "keyPoints": [
+              "obj_a1_20_02_use_edgeer_tedgeer_plural"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_20_03_inquiry_with_demonstratives_ene_yuu_ve",
+          "title": "Asking What Things Are: Энэ юу вэ? & Тэр хэн бэ?",
+          "cyrillicTitle": "Ask 'Энэ юу вэ?' (What is this?) and 'Тэр хэн бэ?' (Who is that?) and provide complete nominal answers.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Combine demonstratives with interrogative pronouns 'юу' (what) and 'хэн' (who) using content question particle вэ/бэ.",
+          "communicativeOutcome": "Ask 'Энэ юу вэ?' (What is this?) and 'Тэр хэн бэ?' (Who is that?) and provide complete nominal answers.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic inquiring intonation on 'Энэ юу вэ?' with terminal rise-fall.",
+          "grammarOverview": {
+            "summary": "Combine demonstratives with interrogative pronouns 'юу' (what) and 'хэн' (who) using content question particle вэ/бэ.",
+            "keyPoints": [
+              "obj_a1_20_03_ask_what_and_who_with_deictics"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_20_04_reading_office_equipment_inventories",
+          "title": "Reading Workplace Equipment Inventories & Supply Lists",
+          "cyrillicTitle": "Scan an office inventory list and verify which items are located on specific desks or shelves.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Decode office equipment catalogues, supply manifests, and room inventories using demonstrative labels.",
+          "communicativeOutcome": "Scan an office inventory list and verify which items are located on specific desks or shelves.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear office equipment inventory audio dictation.",
+          "grammarOverview": {
+            "summary": "Decode office equipment catalogues, supply manifests, and room inventories using demonstrative labels.",
+            "keyPoints": [
+              "obj_a1_20_04_read_office_inventories"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_20_05_introducing_colleagues_by_deixis",
+          "title": "Speaking Workshop: Introducing Team Members Using Deictic Reference",
+          "cyrillicTitle": "Formally introduce team members to clients ('Энэ бол манай менежер Болд. Тэр бол манай нягтлан бодогч.').",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Introduce team members, coworkers, and visiting guests using 'Энэ бол...' and 'Тэр бол...'.",
+          "communicativeOutcome": "Formally introduce team members to clients ('Энэ бол манай менежер Болд. Тэр бол манай нягтлан бодогч.').",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic corporate team introduction dialogue.",
+          "grammarOverview": {
+            "summary": "Introduce team members, coworkers, and visiting guests using 'Энэ бол...' and 'Тэр бол...'.",
+            "keyPoints": [
+              "obj_a1_20_05_introduce_team_members"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_20_06_demonstrative_deixis_checkpoint",
+          "title": "Interactive Workplace Tour: Deictic Identification & Object Inquiries",
+          "cyrillicTitle": "Accurately identify, introduce, and question objects and people across spatial fields.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Lead and participate in an office tour, pointing to equipment, furniture, and rooms using proximal and distal demonstratives.",
+          "communicativeOutcome": "Accurately identify, introduce, and question objects and people across spatial fields.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Diagnostic audio evaluation items for demonstrative deixis.",
+          "grammarOverview": {
+            "summary": "Lead and participate in an office tour, pointing to equipment, furniture, and rooms using proximal and distal demonstratives.",
+            "keyPoints": [
+              "Lead and participate in an office tour, pointing to equipment, furniture, and rooms using proximal and distal demonstratives."
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_21_negative_nominal_assertion_the_copu",
+      "unitNumber": 21,
+      "title": "Negative Nominal Assertion: The Copular Particle Биш",
+      "cyrillicTitle": "Correcting false assumptions and clarifying identity",
+      "description": "Acquire and apply grammatical morphology (gram_a1_nominal_negation_bish) to fulfill communicative functions in: Negative Nominal Assertion: The Copular Particle Биш.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_nominal_negation_bish",
+      "lessons": [
+        {
+          "id": "les_a1_21_01_nominal_negation_particle_bish",
+          "title": "Nominal Negation: Negating Identity and Class with Биш (Not)",
+          "cyrillicTitle": "Negate nominal identity statements (Би багш биш 'I am not a teacher', Энэ ном биш 'This is not a book').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the postposed negative copular particle 'биш' used to negate nominal predicates.",
+          "communicativeOutcome": "Negate nominal identity statements (Би багш биш 'I am not a teacher', Энэ ном биш 'This is not a book').",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic negative assertions with emphatic falling intonation on 'биш'.",
+          "grammarOverview": {
+            "summary": "Introduce the postposed negative copular particle 'биш' used to negate nominal predicates.",
+            "keyPoints": [
+              "obj_a1_21_01_negate_nominal_predicates_bish"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_21_02_correcting_false_assumptions_clarification",
+          "title": "Correcting Misconceptions: Үгүй, [Noun] биш, харин [Noun]",
+          "cyrillicTitle": "Politely correct mistaken assumptions about identity, nationality, or objects ('Үгүй ээ, би япон биш, би монгол').",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Teach the clarification formula: 'Үгүй, [A] биш, харин [B]' (No, not A, but rather B).",
+          "communicativeOutcome": "Politely correct mistaken assumptions about identity, nationality, or objects ('Үгүй ээ, би япон биш, би монгол').",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic polite clarification dialogues with softening particle 'ээ'.",
+          "grammarOverview": {
+            "summary": "Teach the clarification formula: 'Үгүй, [A] биш, харин [B]' (No, not A, but rather B).",
+            "keyPoints": [
+              "obj_a1_21_02_correct_assumptions_harin"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_21_03_negative_polar_questions_bish_uu",
+          "title": "Negative Polar Inquiries: Combining Биш + уу / үү (Биш үү?)",
+          "cyrillicTitle": "Seek confirmation of expected truths using '... биш үү?' (Та багш биш үү? 'Aren't you a teacher? / You are a teacher, right?').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Introduce negative polar confirmation questions combining 'биш' with question particle 'үү' (Биш үү? 'Isn't it?').",
+          "communicativeOutcome": "Seek confirmation of expected truths using '... биш үү?' (Та багш биш үү? 'Aren't you a teacher? / You are a teacher, right?').",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic confirmation-seeking speech with rising-falling intonation.",
+          "grammarOverview": {
+            "summary": "Introduce negative polar confirmation questions combining 'биш' with question particle 'үү' (Биш үү? 'Isn't it?').",
+            "keyPoints": [
+              "obj_a1_21_03_form_negative_polar_inquiries"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_21_04_reading_lost_and_found_notices",
+          "title": "Reading Lost & Found Notices: Clarifying Ownership",
+          "cyrillicTitle": "Scan 45-word notices and determine which items belong to whom and which claims are denied.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Decode notices at university lost-and-found desks and office noticeboards clarifying item ownership using 'биш'.",
+          "communicativeOutcome": "Scan 45-word notices and determine which items belong to whom and which claims are denied.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear service counter clerk dialogue inquiring about items.",
+          "grammarOverview": {
+            "summary": "Decode notices at university lost-and-found desks and office noticeboards clarifying item ownership using 'биш'.",
+            "keyPoints": [
+              "obj_a1_21_04_read_lost_and_found_notices"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_21_05_apology_and_correction_scenarios",
+          "title": "Speaking Workshop: Social Apologies and Identity Clarification",
+          "cyrillicTitle": "Politely excuse oneself when mistaken and accept apologies gracefully ('Уучлаарай, би андуурчээ' - 'Зүгээр ээ, асуудалгүй').",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Synthesize apologies ('Уучлаарай', 'Зүгээр ээ') with nominal corrections in realistic social mishaps.",
+          "communicativeOutcome": "Politely excuse oneself when mistaken and accept apologies gracefully ('Уучлаарай, би андуурчээ' - 'Зүгээр ээ, асуудалгүй').",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic apologetic vocal tone and reassuring replies.",
+          "grammarOverview": {
+            "summary": "Synthesize apologies ('Уучлаарай', 'Зүгээр ээ') with nominal corrections in realistic social mishaps.",
+            "keyPoints": [
+              "obj_a1_21_05_execute_apology_and_clarification"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_21_06_nominal_negation_checkpoint",
+          "title": "Communicative Negation Workshop: Clarifying Misconceptions & Polite Corrections",
+          "cyrillicTitle": "Politely correct misunderstandings in real time using 'биш' and 'харин' without conversational friction.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Engage in realistic conversational scenarios requiring active, polite correction of false assumptions regarding identity, nationality, and items.",
+          "communicativeOutcome": "Politely correct misunderstandings in real time using 'биш' and 'харин' without conversational friction.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Diagnostic audio evaluation items for negative nominal predication.",
+          "grammarOverview": {
+            "summary": "Engage in realistic conversational scenarios requiring active, polite correction of false assumptions regarding identity, nationality, and items.",
+            "keyPoints": [
+              "Engage in realistic conversational scenarios requiring active, polite correction of false assumptions regarding identity, nationality, and items."
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_22_formal_departure_social_gratitude_f",
+      "unitNumber": 22,
+      "title": "Formal Departure & Social Gratitude Formulas",
+      "cyrillicTitle": "Closing interactions politely in office and elder settings",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Formal Departure & Social Gratitude Formulas.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "Closing interactions politely in office and elder settings",
+      "lessons": [
+        {
+          "id": "les_a1_22_01_formal_departure_formulas_bayartai",
+          "title": "Formal Departures: Баяртай, Дараа уулзъя & Сайхан амраарай",
+          "cyrillicTitle": "Close encounters politely using 'Баяртай' (Goodbye), 'Дараа уулзъя' (See you later), and 'Сайхан амраарай' (Have a good rest).",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce standard and formal departure formulas across evening, weekend, and future encounter contexts.",
+          "communicativeOutcome": "Close encounters politely using 'Баяртай' (Goodbye), 'Дараа уулзъя' (See you later), and 'Сайхан амраарай' (Have a good rest).",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Warm, polite departure audio with terminal gentle pitch slope.",
+          "grammarOverview": {
+            "summary": "Introduce standard and formal departure formulas across evening, weekend, and future encounter contexts.",
+            "keyPoints": [
+              "obj_a1_22_01_deploy_departure_formulas"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_22_02_gratitude_formulas_ih_bayarlalaa",
+          "title": "Expressing Deep Gratitude: Танд маш их баярлалаа & Зүгээр ээ",
+          "cyrillicTitle": "Express profound thanks to hosts, teachers, and service staff with appropriate honorific pronouns ('Танд').",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce intensive and formal gratitude expressions ('Танд маш их баярлалаа', 'Гялайлаа') and polite receptions.",
+          "communicativeOutcome": "Express profound thanks to hosts, teachers, and service staff with appropriate honorific pronouns ('Танд').",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic hospitality gratitude exchanges.",
+          "grammarOverview": {
+            "summary": "Introduce intensive and formal gratitude expressions ('Танд маш их баярлалаа', 'Гялайлаа') and polite receptions.",
+            "keyPoints": [
+              "obj_a1_22_02_express_formal_gratitude"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_22_03_reading_farewell_cards_email_signoffs",
+          "title": "Reading Farewell Cards, Postcards & Email Sign-Offs",
+          "cyrillicTitle": "Extract sender, recipient, well-wishes, and closing formulas from 50-word written notes.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Decode authentic handwritten postcards, greeting cards, and professional email sign-offs.",
+          "communicativeOutcome": "Extract sender, recipient, well-wishes, and closing formulas from 50-word written notes.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear reading of heartfelt personal notes and postcards.",
+          "grammarOverview": {
+            "summary": "Decode authentic handwritten postcards, greeting cards, and professional email sign-offs.",
+            "keyPoints": [
+              "obj_a1_22_03_read_farewell_cards"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_22_04_hotel_checkout_office_departure_roleplay",
+          "title": "Speaking Workshop: Hotel Checkout & End-of-Day Office Departures",
+          "cyrillicTitle": "Execute a multi-turn departure exchange: hand over keys, settle account, express thanks, and say goodbye.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate departing from an office at the end of the workday or checking out of a hotel reception.",
+          "communicativeOutcome": "Execute a multi-turn departure exchange: hand over keys, settle account, express thanks, and say goodbye.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic hotel checkout dialogue with cash register and lobby ambiance.",
+          "grammarOverview": {
+            "summary": "Simulate departing from an office at the end of the workday or checking out of a hotel reception.",
+            "keyPoints": [
+              "obj_a1_22_04_execute_checkout_departure"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_22_05_departures_and_gratitude_checkpoint",
+          "title": "Social Departure & Host Gratitude Simulation",
+          "cyrillicTitle": "Gracefully conclude interactions across diverse social, professional, and domestic scenarios.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Enact full farewell sequences when departing dinner parties, hotel reception desks, and offices with appropriate gratitude formulas.",
+          "communicativeOutcome": "Gracefully conclude interactions across diverse social, professional, and domestic scenarios.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Diagnostic audio evaluation items for departures and gratitude.",
+          "grammarOverview": {
+            "summary": "Enact full farewell sequences when departing dinner parties, hotel reception desks, and offices with appropriate gratitude formulas.",
+            "keyPoints": [
+              "Enact full farewell sequences when departing dinner parties, hotel reception desks, and offices with appropriate gratitude formulas."
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_23_section_synthesis_social_reception_",
+      "unitNumber": 23,
+      "title": "Section Synthesis: Social Reception & Guest Welcome",
+      "cyrillicTitle": "Integrating zero-copula predication, deixis, and courtesy",
+      "description": "Consolidate, integrate, and demonstrate communicative mastery of Section Synthesis: Social Reception & Guest Welcome through simulated holistic tasks.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "Integrating zero-copula predication, deixis, and courtesy",
+      "lessons": [
+        {
+          "id": "les_a1_23_01_social_reception_greeting_and_entry",
+          "title": "Guest Reception Stage 1: Welcoming Guests at the Threshold (Тавтай морилно уу)",
+          "cyrillicTitle": "Welcome guests warmly ('Тавтай морилно уу! Ороорой, дээшээ сууцгаа') and accept invitations to enter.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Synthesize formal salutations, honorific address, and guest welcoming formulas at the door of a home or office.",
+          "communicativeOutcome": "Welcome guests warmly ('Тавтай морилно уу! Ороорой, дээшээ сууцгаа') and accept invitations to enter.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Warm domestic threshold welcome with tea preparation sounds.",
+          "grammarOverview": {
+            "summary": "Synthesize formal salutations, honorific address, and guest welcoming formulas at the door of a home or office.",
+            "keyPoints": [
+              "obj_a1_23_01_welcome_guests_at_threshold"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_23_02_social_reception_introductions_and_origin",
+          "title": "Guest Reception Stage 2: Mutual Introductions, Identity, and Provenance",
+          "cyrillicTitle": "Introduce all present parties, state their professions, nationalities, and regional origins smoothly.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Synthesize personal pronouns, zero-copula predication, origin expressions, and deixis around the reception table.",
+          "communicativeOutcome": "Introduce all present parties, state their professions, nationalities, and regional origins smoothly.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic multi-party table introductions with background tea pouring.",
+          "grammarOverview": {
+            "summary": "Synthesize personal pronouns, zero-copula predication, origin expressions, and deixis around the reception table.",
+            "keyPoints": [
+              "obj_a1_23_02_execute_table_introductions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_23_03_social_reception_clarification_and_inquiry",
+          "title": "Guest Reception Stage 3: Inquiring, Clarifying, and Negating Misconceptions",
+          "cyrillicTitle": "Clarify misunderstandings, answer inquiries about backgrounds, and confirm details gracefully ('Та англи хүн үү?' - 'Үгүй ээ, би америк.').",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Synthesize polar questions (уу/үү) and nominal negation with 'биш' during polite reception conversation.",
+          "communicativeOutcome": "Clarify misunderstandings, answer inquiries about backgrounds, and confirm details gracefully ('Та англи хүн үү?' - 'Үгүй ээ, би америк.').",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic social inquiry and clarification dialogue.",
+          "grammarOverview": {
+            "summary": "Synthesize polar questions (уу/үү) and nominal negation with 'биш' during polite reception conversation.",
+            "keyPoints": [
+              "obj_a1_23_03_clarify_reception_inquiries"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_23_04_reading_complete_social_vignette",
+          "title": "Reading Synthesis: A Full Social Reception & Diplomatic Visit Narrative",
+          "cyrillicTitle": "Read and comprehend a cohesive story incorporating all Section 1 grammatical and communicative targets.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Decode a comprehensive 55-word illustrated narrative describing a complete social reception from arrival to farewell.",
+          "communicativeOutcome": "Read and comprehend a cohesive story incorporating all Section 1 grammatical and communicative targets.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Narrative storytelling voice with natural phrasing and pauses.",
+          "grammarOverview": {
+            "summary": "Decode a comprehensive 55-word illustrated narrative describing a complete social reception from arrival to farewell.",
+            "keyPoints": [
+              "obj_a1_23_04_read_comprehensive_vignette"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_23_05_interactive_social_reception_simulation",
+          "title": "Speaking Workshop: End-to-End Social Reception Simulation",
+          "cyrillicTitle": "Demonstrate fluid, unscripted conversational competence across the complete lifecycle of a social visit.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Execute a continuous, multi-turn role-play simulation spanning arrival greetings, introductions, inquiries, tea drinking, and farewells.",
+          "communicativeOutcome": "Demonstrate fluid, unscripted conversational competence across the complete lifecycle of a social visit.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic dynamic role-play interaction with varied native voices.",
+          "grammarOverview": {
+            "summary": "Execute a continuous, multi-turn role-play simulation spanning arrival greetings, introductions, inquiries, tea drinking, and farewells.",
+            "keyPoints": [
+              "obj_a1_23_05_execute_full_reception_simulation"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_23_06_a1_section_1_capstone_exam",
+          "title": "A1 Section 1 Comprehensive Benchmark Examination",
+          "cyrillicTitle": "Formally certify readiness to advance to Section 2 (Locative, Existential & Possessive Constructions).",
+          "estimatedMinutes": 15,
+          "lessonType": "checkpoint",
+          "primaryPurpose": "Administer the formal, comprehensive benchmark examination for CEFR A1 Section 1 (Identity, Courtesy & Nominal Clauses).",
+          "communicativeOutcome": "Formally certify readiness to advance to Section 2 (Locative, Existential & Possessive Constructions).",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Standardized diagnostic oral examination prompts and test items.",
+          "grammarOverview": {
+            "summary": "Administer the formal, comprehensive benchmark examination for CEFR A1 Section 1 (Identity, Courtesy & Nominal Clauses).",
+            "keyPoints": [
+              "Administer the formal, comprehensive benchmark examination for CEFR A1 Section 1 (Identity, Courtesy & Nominal Clauses)."
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1195 @@
+{
+  "sectionId": "sec_c2_03_gnomic_wisdom_epics_ceremonial_tengrism",
+  "sectionNumber": 26,
+  "title": "Gnomic Wisdom, Folk Epics, Ceremonial Blessings & Cosmology",
+  "cyrillicTitle": "Зүйр цэцэн үг, тууль, ерөөл магтаал ба гүн ухаан",
+  "cefr": "C2",
+  "theme": "Deploy proverbs with native precision, perform ceremonial blessings for milestones, appreciate epic heroic recitation, debate traditional cosmology, and achieve supreme authorial voice.",
+  "description": "Culminate the curriculum with mastery of oral epic literature (Jangar, Geser), ceremonial blessings (ерөөл, магтаал), gnomic proverbs (зүйр цэцэн үг), Tengrist and Buddhist philosophical concepts, and supreme authorial eloquence.",
+  "unitCount": 10,
+  "lessonCount": 51,
+  "exerciseCount": 0,
+  "units": [
+    {
+      "id": "unit_c2_247_gnomic_wisdom_traditional_proverbs_",
+      "unitNumber": 247,
+      "title": "Gnomic Wisdom: Traditional Proverbs (Зүйр Цэцэн Үг)",
+      "cyrillicTitle": "Deploying allegorical pastoral proverbs to clinch rhetorical arguments",
+      "description": "Acquire and apply grammatical morphology (gram_c2_proverbial_syntactic_compression) to fulfill communicative functions in: Gnomic Wisdom: Traditional Proverbs (Зүйр Цэцэн Үг).",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "gram_c2_proverbial_syntactic_compression",
+      "lessons": [
+        {
+          "id": "les_c2_247_01_gnomic_wisdom_proverbial_compression_intro",
+          "title": "Gnomic Linguistics: Traditional Proverbs (Зүйр Цэцэн Үг) & Syntactic Compression in Steppe Rhetoric",
+          "cyrillicTitle": "Master the art of gnomic compression in Mongolian, deploying allegorical pastoral proverbs to decisively settle debates and summarize complex moral dilemmas.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic compression, metrical symmetry, and pragmatic deployment of traditional Mongolian proverbs (*зүйр цэцэн үг*) in elite discourse: elliptical zero-copulas, paired antithetical clauses, and rhetorical clinching mechanisms.",
+          "communicativeOutcome": "Master the art of gnomic compression in Mongolian, deploying allegorical pastoral proverbs to decisively settle debates and summarize complex moral dilemmas.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic compression, metrical symmetry, and pragmatic deployment of traditional Mongolian proverbs (*зүйр цэцэн үг*) in elite discourse: elliptical zero-copulas, paired antithetical clauses, and rhetorical clinching mechanisms.",
+            "keyPoints": [
+              "obj_c2_247_01_master_gnomic_proverbial_compression"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_247_02_gnomic_corpus_oyun_tulkhiur_reading",
+          "title": "Textual Reading: The Key of Mind (Оюун Түлхүүр) & Chinggis Khaan's Bilig (Maxims)",
+          "cyrillicTitle": "Deconstruct classical Mongolian gnomic literature, evaluating moral philosophy, state leadership ethics, and nomadic pedagogy.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 880-word critical edition text of *Оюун түлхүүр* (The Key of Mind) and recorded imperial *билиг* (maxims) of Chinggis Khaan, analyzing the strict four-line poetic balance, ethical counsel, and statecraft aphorisms.",
+          "communicativeOutcome": "Deconstruct classical Mongolian gnomic literature, evaluating moral philosophy, state leadership ethics, and nomadic pedagogy.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 880-word critical edition text of *Оюун түлхүүр* (The Key of Mind) and recorded imperial *билиг* (maxims) of Chinggis Khaan, analyzing the strict four-line poetic balance, ethical counsel, and statecraft aphorisms.",
+            "keyPoints": [
+              "obj_c2_247_02_parse_oyun_tulkhiur_and_bilig"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_247_03_village_elders_dispute_arbitration_listening",
+          "title": "Acoustic Dissection: Authentic Pasture Dispute Mediation Among Countryside Elders Using Proverb Duels",
+          "cyrillicTitle": "Process spontaneous authentic rural mediation, decoding complex interpersonal negotiation conducted entirely through allegorical proverbs and customary references.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute field recording of two elder herders and a local bagh governor mediating an intense winter pasture boundary conflict in Zavkhan (165 wpm), analyzing how both sides deploy rapid-fire proverbs to parry claims, save face, and establish consensus.",
+          "communicativeOutcome": "Process spontaneous authentic rural mediation, decoding complex interpersonal negotiation conducted entirely through allegorical proverbs and customary references.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic field recording of elder herders resolving pasture dispute through proverbial sparring.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute field recording of two elder herders and a local bagh governor mediating an intense winter pasture boundary conflict in Zavkhan (165 wpm), analyzing how both sides deploy rapid-fire proverbs to parry claims, save face, and establish consensus.",
+            "keyPoints": [
+              "obj_c2_247_03_comprehend_rural_proverb_duels"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_247_04_gnomic_philosophical_treatise_writing",
+          "title": "Philosophical Writing: Authoring a Modern Wisdom Treatise (Орчин Үеийн Сургаал) in Gnomic Verse",
+          "cyrillicTitle": "Produce profound contemporary moral philosophy in Mongolian, revitalizing the classical *сургаал* genre to illuminate urgent modern civilizational dilemmas.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 850-word philosophical wisdom treatise (*орчин үеийн сургаал*) addressing ethical crises of the digital age (alienation, algorithmic manipulation, ecological breakdown) composed in classical gnomic couplets and alliterative aphorisms.",
+          "communicativeOutcome": "Produce profound contemporary moral philosophy in Mongolian, revitalizing the classical *сургаал* genre to illuminate urgent modern civilizational dilemmas.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 850-word philosophical wisdom treatise (*орчин үеийн сургаал*) addressing ethical crises of the digital age (alienation, algorithmic manipulation, ecological breakdown) composed in classical gnomic couplets and alliterative aphorisms.",
+            "keyPoints": [
+              "obj_c2_247_04_author_modern_gnomic_treatises"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_247_05_parliamentary_proverbial_clinching_spoken",
+          "title": "Oratorical Speaking: Clinching a High-Stakes Parliamentary Budget Deadlock with Gnomic Wit",
+          "cyrillicTitle": "Demonstrate the supreme rhetorical impact of gnomic wisdom in modern governance, commanding the parliamentary chamber through traditional wit and moral authority.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 5.0-minute parliamentary floor speech during a deadlocked midnight national budget session, utilizing three devastatingly apt traditional pastoral proverbs to dismantle populist extravagance and broker immediate bipartisan passage.",
+          "communicativeOutcome": "Demonstrate the supreme rhetorical impact of gnomic wisdom in modern governance, commanding the parliamentary chamber through traditional wit and moral authority.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of senior statesman resolving parliamentary crisis with devastating proverbial wit.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 5.0-minute parliamentary floor speech during a deadlocked midnight national budget session, utilizing three devastatingly apt traditional pastoral proverbs to dismantle populist extravagance and broker immediate bipartisan passage.",
+            "keyPoints": [
+              "obj_c2_247_05_clinch_parliamentary_debates_gnomically"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_248_poetic_parallelism_head_alliteratio",
+      "unitNumber": 248,
+      "title": "Poetic Parallelism & Head Alliteration (Толгой Холбох Ёс)",
+      "cyrillicTitle": "Mastering the four-line initial alliterative meter of Mongolian verse",
+      "description": "Acquire and apply grammatical morphology (gram_c2_rhetorical_parallelism_alliteration) to fulfill communicative functions in: Poetic Parallelism & Head Alliteration (Толгой Холбох Ёс).",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "gram_c2_rhetorical_parallelism_alliteration",
+      "lessons": [
+        {
+          "id": "les_c2_248_01_poetic_parallelism_head_alliteration_intro",
+          "title": "Versification: Poetic Parallelism, Metric Feet & The Law of Head Alliteration (Толгой Холбох Ёс)",
+          "cyrillicTitle": "Master the metric and alliterative principles of Mongolian poetry, composing and analyzing traditional four-line strophes with total acoustic and syntactic precision.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the formal rules of Mongolian classical versification: four-line strophic architecture, strict initial head alliteration (*толгой холбох ёс*), internal vowel harmony echoes, syllabic metric symmetry (7-8 or 10-11 syllables), and caesura placement.",
+          "communicativeOutcome": "Master the metric and alliterative principles of Mongolian poetry, composing and analyzing traditional four-line strophes with total acoustic and syntactic precision.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the formal rules of Mongolian classical versification: four-line strophic architecture, strict initial head alliteration (*толгой холбох ёс*), internal vowel harmony echoes, syllabic metric symmetry (7-8 or 10-11 syllables), and caesura placement.",
+            "keyPoints": [
+              "obj_c2_248_01_master_head_alliteration_versification"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_248_02_natsagdorj_my_native_land_reading",
+          "title": "Textual Reading: D. Natsagdorj's 'My Native Land' (Миний Нутаг, 1933) — The Apex of Steppe Parallelism",
+          "cyrillicTitle": "Deconstruct the foundational masterpiece of modern Mongolian poetry, evaluating its seamless marriage of 13th-century alliterative tradition with 20th-century national consciousness.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 870-word critical edition text of Dashdorjiin Natsagdorj's monumental poem *Миний нутаг* (My Native Land, 1933), analyzing its panoramic geographic progression, strict four-line head alliteration across all 32 stanzas, and rhythmic strophic momentum.",
+          "communicativeOutcome": "Deconstruct the foundational masterpiece of modern Mongolian poetry, evaluating its seamless marriage of 13th-century alliterative tradition with 20th-century national consciousness.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 870-word critical edition text of Dashdorjiin Natsagdorj's monumental poem *Миний нутаг* (My Native Land, 1933), analyzing its panoramic geographic progression, strict four-line head alliteration across all 32 stanzas, and rhythmic strophic momentum.",
+            "keyPoints": [
+              "obj_c2_248_02_parse_natsagdorj_mini_nutag"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_248_03_masters_of_recitation_choinom_listening",
+          "title": "Acoustic Dissection: Archival Audio of R. Choinom Reciting Underground Dissident Verse in Solitude",
+          "cyrillicTitle": "Process raw, unedited historical literary audio in Mongolian, analyzing how metric poetry conveyed political resistance, tragic isolation, and transcendent poetic power.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute clandestine archival audio recording of celebrated dissident poet Renchinii Choinom reciting his unreleased poems in an underground yurt (160 wpm), analyzing his rhythmic breath pauses, biting irony, and metrical head alliteration.",
+          "communicativeOutcome": "Process raw, unedited historical literary audio in Mongolian, analyzing how metric poetry conveyed political resistance, tragic isolation, and transcendent poetic power.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic underground audio recording of poet R. Choinom reciting his banned poems.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute clandestine archival audio recording of celebrated dissident poet Renchinii Choinom reciting his unreleased poems in an underground yurt (160 wpm), analyzing his rhythmic breath pauses, biting irony, and metrical head alliteration.",
+            "keyPoints": [
+              "obj_c2_248_03_comprehend_choinom_dissident_audio"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_248_04_original_alliterative_cycle_composition_writing",
+          "title": "Creative Poetic Writing: Composing an Original Alliterative Cycle of 10 Stanzas on Steppe Twilight",
+          "cyrillicTitle": "Demonstrate authentic master-level poetic authorship in Mongolian, creating a lyric work evaluated as worthy of publication in *Uran Zokhiol Biyelech*.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an original poetic cycle of 10 four-line stanzas (850 words) depicting dusk descending over the steppe, strictly adhering to initial head alliteration, consistent 8-syllable meter, rich somatic metaphors, and poignant evocative imagery.",
+          "communicativeOutcome": "Demonstrate authentic master-level poetic authorship in Mongolian, creating a lyric work evaluated as worthy of publication in *Uran Zokhiol Biyelech*.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an original poetic cycle of 10 four-line stanzas (850 words) depicting dusk descending over the steppe, strictly adhering to initial head alliteration, consistent 8-syllable meter, rich somatic metaphors, and poignant evocative imagery.",
+            "keyPoints": [
+              "obj_c2_248_04_compose_original_alliterative_cycle"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_248_05_bolor_tsom_poetry_festival_performance_spoken",
+          "title": "Mastery Speaking: Performing at the Bolor Tsom (Crystal Cup) National Poetry Festival",
+          "cyrillicTitle": "Command the grand stage of Mongolian public poetry performance, captivating the national audience with acoustic eloquence, metric cadence, and magnetic stage presence.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Perform an unscripted 5.0-minute recitation of original alliterative verse before an audience of 3,000 poetry lovers and television cameras at the *Болор цом* (Crystal Cup) National Poetry Festival, executing dramatic pauses, melodic pitch inflections, and electric emotional connection.",
+          "communicativeOutcome": "Command the grand stage of Mongolian public poetry performance, captivating the national audience with acoustic eloquence, metric cadence, and magnetic stage presence.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of Crystal Cup winning poet reciting final round masterpiece.",
+          "grammarOverview": {
+            "summary": "Perform an unscripted 5.0-minute recitation of original alliterative verse before an audience of 3,000 poetry lovers and television cameras at the *Болор цом* (Crystal Cup) National Poetry Festival, executing dramatic pauses, melodic pitch inflections, and electric emotional connection.",
+            "keyPoints": [
+              "obj_c2_248_05_perform_bolor_tsom_poetry"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_249_syntactic_parallelism_in_epic_strop",
+      "unitNumber": 249,
+      "title": "Syntactic Parallelism in Epic Strophic Verse",
+      "cyrillicTitle": "Crafting symmetrical strophes with balanced morphological rhymes",
+      "description": "Acquire and apply grammatical morphology (gram_c2_syntactic_parallelism_in_verse) to fulfill communicative functions in: Syntactic Parallelism in Epic Strophic Verse.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "gram_c2_syntactic_parallelism_in_verse",
+      "lessons": [
+        {
+          "id": "les_c2_249_01_syntactic_parallelism_strophic_syntax_intro",
+          "title": "Morphosyntax: Deep Syntactic Parallelism, Morphological Rhymes & Strophic Symmetry in Epic Verse",
+          "cyrillicTitle": "Parse and compose multi-tiered symmetrical strophic verse in Mongolian, harmonizing head alliteration with end-of-line morphological rhyming and balanced clause structures.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce deep structural parallelism in Mongolian epic poetry: morphological grammatical rhyming (matching verbal aspectual suffixes *-на/-нэ*, *-в/-б*, converbs *-ж/-ч* across strophic lines), symmetrical noun phrase balancing, and syntactic mirror structures.",
+          "communicativeOutcome": "Parse and compose multi-tiered symmetrical strophic verse in Mongolian, harmonizing head alliteration with end-of-line morphological rhyming and balanced clause structures.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce deep structural parallelism in Mongolian epic poetry: morphological grammatical rhyming (matching verbal aspectual suffixes *-на/-нэ*, *-в/-б*, converbs *-ж/-ч* across strophic lines), symmetrical noun phrase balancing, and syntactic mirror structures.",
+            "keyPoints": [
+              "obj_c2_249_01_master_epic_syntactic_parallelism"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_249_02_steppe_ballad_khukh_toli_reading",
+          "title": "Textual Reading: Injannashi's 'The Blue Chronicle' (Хөх Судар, 1871) — High Classical Verse Chapters",
+          "cyrillicTitle": "Deconstruct the pinnacle of 19th-century aristocratic Mongolian historical fiction, analyzing its refined poetic interludes and philosophical dualism.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 870-word critical text of the poetic prefaces and strophic verse interludes in Injannashi's masterpiece *Хөх судар* (The Blue Chronicle, 1871), analyzing how 19th-century classical verse integrated Chinese metric parallelism with indigenous Mongolian alliterative traditions.",
+          "communicativeOutcome": "Deconstruct the pinnacle of 19th-century aristocratic Mongolian historical fiction, analyzing its refined poetic interludes and philosophical dualism.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 870-word critical text of the poetic prefaces and strophic verse interludes in Injannashi's masterpiece *Хөх судар* (The Blue Chronicle, 1871), analyzing how 19th-century classical verse integrated Chinese metric parallelism with indigenous Mongolian alliterative traditions.",
+            "keyPoints": [
+              "obj_c2_249_02_parse_injannashi_khokh_sudar"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_249_03_morin_khuur_and_urtiin_duu_interplay_listening",
+          "title": "Acoustic Dissection: The Metric Synergy Between Morin Khuur Rubato & Long Song (Уртын Дуу) Melisma",
+          "cyrillicTitle": "Process the highest traditional vocal and instrumental art form of Mongolia, understanding how musical cadence and poetic syntax interpenetrate in authentic performance.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute master recording of a State Honored Long Song Singer and horsehead fiddle (*морин хуур*) virtuoso performing 'Ertnii Saikhan' (Ancient Splendor, 155 wpm), analyzing how elongated vowel melismas (*шуранхай*, *нугалаа*) map onto syntactic poetic parallelisms.",
+          "communicativeOutcome": "Process the highest traditional vocal and instrumental art form of Mongolia, understanding how musical cadence and poetic syntax interpenetrate in authentic performance.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic recording of People's Artist performing 'Ertnii Saikhan' with Morin Khuur.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute master recording of a State Honored Long Song Singer and horsehead fiddle (*морин хуур*) virtuoso performing 'Ertnii Saikhan' (Ancient Splendor, 155 wpm), analyzing how elongated vowel melismas (*шуранхай*, *нугалаа*) map onto syntactic poetic parallelisms.",
+            "keyPoints": [
+              "obj_c2_249_03_comprehend_long_song_poetic_synergy"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_249_04_epic_parallel_ballad_authoring_writing",
+          "title": "Creative Poetic Writing: Composing an Epic Ballad on the Flight of the Wild Argali",
+          "cyrillicTitle": "Produce master-tier narrative epic poetry in Mongolian, demonstrating effortless command of multi-tiered syntactic symmetry and kinetic steppe imagery.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 850-word epic narrative ballad depicting a herd of wild argali sheep outrunning wolves through the Altai peaks, utilizing strict four-line syntactic parallelism, dual head and tail rhymes, and vivid dynamic pastoral verbs.",
+          "communicativeOutcome": "Produce master-tier narrative epic poetry in Mongolian, demonstrating effortless command of multi-tiered syntactic symmetry and kinetic steppe imagery.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 850-word epic narrative ballad depicting a herd of wild argali sheep outrunning wolves through the Altai peaks, utilizing strict four-line syntactic parallelism, dual head and tail rhymes, and vivid dynamic pastoral verbs.",
+            "keyPoints": [
+              "obj_c2_249_04_compose_epic_parallel_ballads"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_249_05_rhapsodic_ballad_bardic_recitation_spoken",
+          "title": "Mastery Speaking: Performing a Bardic Rhapsody with Traditional Throat-Singing Accompaniment",
+          "cyrillicTitle": "Command the ancient oral bardic tradition of Mongolian epic storytelling, fusing verbal metric precision with acoustic steppe harmonics to mesmerize an audience.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 5.0-minute bardic oral recitation of the composed argali epic ballad accompanied by traditional overtone throat-singing (*хөөмий*) drones, synchronizing poetic meter with throat harmonics before an assembly of master folklorists.",
+          "communicativeOutcome": "Command the ancient oral bardic tradition of Mongolian epic storytelling, fusing verbal metric precision with acoustic steppe harmonics to mesmerize an audience.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of traditional epic bard (*туульч*) reciting ballad with throat drone.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 5.0-minute bardic oral recitation of the composed argali epic ballad accompanied by traditional overtone throat-singing (*хөөмий*) drones, synchronizing poetic meter with throat harmonics before an assembly of master folklorists.",
+            "keyPoints": [
+              "obj_c2_249_05_perform_bardic_rhapsodies"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_250_heroic_epics_the_epic_of_jangar_",
+      "unitNumber": 250,
+      "title": "Heroic Epics: The Epic of Jangar (Жангар Тууль)",
+      "cyrillicTitle": "Analyzing the heroic catalogue, hyperbolic descriptions, and chanting",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Heroic Epics: The Epic of Jangar (Жангар Тууль).",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "Analyzing the heroic catalogue, hyperbolic descriptions, and chanting",
+      "lessons": [
+        {
+          "id": "les_c2_250_01_epic_of_jangar_philological_intro",
+          "title": "Philological Foundations: The Epic of Jangar (Жангар Тууль) & Steppe Utopian Monumentalism",
+          "cyrillicTitle": "Deconstruct the monument of Oirat-Mongolian heroic oral literature, parsing formulaic epithets, cosmic hyperbole, and monumental narrative pacing.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the linguistic, mythological, and formulaic architecture of the *Jangar* epic cycle: the mythic land of Bumba (where winter never comes, where men remain thirty-three years of age forever), the hero catalogue of the twelve mighty paladins (*арван хоёр арслан шинжит баатар*), and hyperbolic description syntax.",
+          "communicativeOutcome": "Deconstruct the monument of Oirat-Mongolian heroic oral literature, parsing formulaic epithets, cosmic hyperbole, and monumental narrative pacing.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the linguistic, mythological, and formulaic architecture of the *Jangar* epic cycle: the mythic land of Bumba (where winter never comes, where men remain thirty-three years of age forever), the hero catalogue of the twelve mighty paladins (*арван хоёр арслан шинжит баатар*), and hyperbolic description syntax.",
+            "keyPoints": [
+              "obj_c2_250_01_master_epic_of_jangar"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_250_02_jangar_paladins_battle_reading",
+          "title": "Textual Reading: The Catalog of the 6,012 Paladins & Hongor's Duel Against Mangus Armies",
+          "cyrillicTitle": "Interpret high-tier heroic epic texts with complete philological ease, appreciating the rhythmic acceleration of combat formulas and cosmological stakes.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 870-word critical text of the Hongor chapter in *Jangar*, analyzing the epic catalogue of warrior armaments, the hyperbolic descriptions of warhorses (*Аранзал зээрд*), and the colossal clashing of bronze-breasted stallions across cosmic battlefields.",
+          "communicativeOutcome": "Interpret high-tier heroic epic texts with complete philological ease, appreciating the rhythmic acceleration of combat formulas and cosmological stakes.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 870-word critical text of the Hongor chapter in *Jangar*, analyzing the epic catalogue of warrior armaments, the hyperbolic descriptions of warhorses (*Аранзал зээрд*), and the colossal clashing of bronze-breasted stallions across cosmic battlefields.",
+            "keyPoints": [
+              "obj_c2_250_02_parse_hongor_epic_duel"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_250_03_kalmyk_jangarchi_archival_listening",
+          "title": "Acoustic Dissection: Authentic 1930s Archival Recording of Kalmyk Master Jangarchi Eelian Ovla",
+          "cyrillicTitle": "Process the most legendary historic sound document of Mongolic oral epic literature, deciphering archaic Oirat phonological features and trance-like chanting rhythm.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute restored wax cylinder audio recording of legendary Kalmyk bard Eelian Ovla (1857-1920, recorded 1908/1930s) chanting the *Jangar* in traditional guttural rhapsodic style (160 wpm), analyzing Oirat dialectal phonetics and metric pacing.",
+          "communicativeOutcome": "Process the most legendary historic sound document of Mongolic oral epic literature, deciphering archaic Oirat phonological features and trance-like chanting rhythm.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide restored historic audio recording of legendary Kalmyk master Eelian Ovla reciting Jangar.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute restored wax cylinder audio recording of legendary Kalmyk bard Eelian Ovla (1857-1920, recorded 1908/1930s) chanting the *Jangar* in traditional guttural rhapsodic style (160 wpm), analyzing Oirat dialectal phonetics and metric pacing.",
+            "keyPoints": [
+              "obj_c2_250_03_comprehend_eelian_ovla_jangar"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_250_04_epic_chapter_recreation_writing",
+          "title": "Creative Epic Writing: Authoring an Original Lost Chapter of the Realm of Bumba",
+          "cyrillicTitle": "Demonstrate sovereign creative authorship within the classical Mongolic heroic epic canon, producing a new chapter indistinguishable in tone and syntax from traditional Oirat bardic cycles.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 850-word original chapter in the authentic epic idiom of *Jangar*, recounting how Jangar and his twelve paladins defended the golden palace of Bumba against a frost giant army from the northern frozen sea, utilizing formulaic epithets and hyperbolic parallel verse.",
+          "communicativeOutcome": "Demonstrate sovereign creative authorship within the classical Mongolic heroic epic canon, producing a new chapter indistinguishable in tone and syntax from traditional Oirat bardic cycles.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 850-word original chapter in the authentic epic idiom of *Jangar*, recounting how Jangar and his twelve paladins defended the golden palace of Bumba against a frost giant army from the northern frozen sea, utilizing formulaic epithets and hyperbolic parallel verse.",
+            "keyPoints": [
+              "obj_c2_250_04_author_lost_jangar_chapters"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_250_05_jangar_epic_chanting_performance_spoken",
+          "title": "Mastery Speaking: Performing the Opening of the Jangar Epic Before the National Folkloric Assembly",
+          "cyrillicTitle": "Demonstrate the absolute pinnacle of traditional epic chanting in Mongolian, commanding the ancient oral formulaic performance register with hypnotic mastery.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 5.0-minute ceremonial performance of the opening of the *Jangar* epic before the National Assembly of Folklorists and Intangible Cultural Heritage Guardians, chanting with traditional guttural resonance, rhythmic table clapping (*дэвсэх ёс*), and monumental oral delivery.",
+          "communicativeOutcome": "Demonstrate the absolute pinnacle of traditional epic chanting in Mongolian, commanding the ancient oral formulaic performance register with hypnotic mastery.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of certified Heritage Bearer chanting Jangar prologue.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 5.0-minute ceremonial performance of the opening of the *Jangar* epic before the National Assembly of Folklorists and Intangible Cultural Heritage Guardians, chanting with traditional guttural resonance, rhythmic table clapping (*дэвсэх ёс*), and monumental oral delivery.",
+            "keyPoints": [
+              "obj_c2_250_05_perform_jangar_epic_chanting"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_251_the_epic_of_geser_steppe_chivalry_c",
+      "unitNumber": 251,
+      "title": "The Epic of Geser: Steppe Chivalry & Cosmological Battles",
+      "cyrillicTitle": "Interpreting mythological motifs, sacred mountains, and divine mandates",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: The Epic of Geser: Steppe Chivalry & Cosmological Battles.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "Interpreting mythological motifs, sacred mountains, and divine mandates",
+      "lessons": [
+        {
+          "id": "les_c2_251_01_epic_of_geser_mythological_intro",
+          "title": "Philological Foundations: The Epic of Geser (Гэсэр Тууль) & Steppe Cosmological Chivalry",
+          "cyrillicTitle": "Deconstruct the foundational monument of Mongolian heroic romance and spiritual warfare, analyzing the interpenetration of Buddhist cosmology and indigenous Tengrist mythology.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the textual history (1716 Beijing xylograph woodblock print), mythic structure, and chivalric ethos of the Mongolian *Geser Khan* epic: divine descent from the 33 heavens (*гучин гурван тэнгэр*), vanquishing of cosmic monsters (*мангас*), and moral order restoration.",
+          "communicativeOutcome": "Deconstruct the foundational monument of Mongolian heroic romance and spiritual warfare, analyzing the interpenetration of Buddhist cosmology and indigenous Tengrist mythology.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the textual history (1716 Beijing xylograph woodblock print), mythic structure, and chivalric ethos of the Mongolian *Geser Khan* epic: divine descent from the 33 heavens (*гучин гурван тэнгэр*), vanquishing of cosmic monsters (*мангас*), and moral order restoration.",
+            "keyPoints": [
+              "obj_c2_251_01_master_epic_of_geser"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_251_02_geser_slaying_of_the_twelve_headed_mangus_reading",
+          "title": "Textual Reading: Geser's Vanquishing of the Twelve-Headed Mangus (Арван Хоёр Толгойтой Мангас)",
+          "cyrillicTitle": "Deconstruct classical Mongolian mythological adventure prose, interpreting magical metamorphosis formulas, tactical deception, and spiritual allegories.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 870-word critical text of the fifth chapter of *Geser*, analyzing the shapeshifting duel (*хувилгаан урлаг*), the psychological tricks of Rogmo Goa, and the cosmological archery duel atop the iron mountain.",
+          "communicativeOutcome": "Deconstruct classical Mongolian mythological adventure prose, interpreting magical metamorphosis formulas, tactical deception, and spiritual allegories.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 870-word critical text of the fifth chapter of *Geser*, analyzing the shapeshifting duel (*хувилгаан урлаг*), the psychological tricks of Rogmo Goa, and the cosmological archery duel atop the iron mountain.",
+            "keyPoints": [
+              "obj_c2_251_02_parse_geser_mangus_slaying"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_251_03_geser_temple_liturgy_listening",
+          "title": "Acoustic Dissection: Liturgical Chanting at the Geser Temple in Ulaanbaatar by Buddhist Lamas",
+          "cyrillicTitle": "Process sacred religious Buddhist-Mongolian liturgical audio, tracking high-register ritual invocations dedicated to Geser as the protector of the state and dharma.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute authentic ritual recording of the Geser propitiation ceremony (*Гэсэрийн сан тахилга*) at the historic Geser Sum in Ulaanbaatar (160 wpm), analyzing the fusion of Classical Mongolian liturgical recitation, Tibetan mantric phrasing, and traditional cymbals/horns.",
+          "communicativeOutcome": "Process sacred religious Buddhist-Mongolian liturgical audio, tracking high-register ritual invocations dedicated to Geser as the protector of the state and dharma.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic recording of lamas performing Geser incense offering ritual at Geser Sum.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute authentic ritual recording of the Geser propitiation ceremony (*Гэсэрийн сан тахилга*) at the historic Geser Sum in Ulaanbaatar (160 wpm), analyzing the fusion of Classical Mongolian liturgical recitation, Tibetan mantric phrasing, and traditional cymbals/horns.",
+            "keyPoints": [
+              "obj_c2_251_03_comprehend_geser_liturgy"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_251_04_comparative_epic_mythology_treatise_writing",
+          "title": "Scholarly Writing: Authoring a Comparative Treatise on the Eurasian Epic Triad (Secret History, Jangar, Geser)",
+          "cyrillicTitle": "Produce doctoral-grade comparative literary scholarship in Mongolian, establishing profound typological and ideological distinctions across the Eurasian epic heritage.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 850-word master comparative treatise in academic Mongolian analyzing the philosophical and linguistic differences between Mongolia's three epic summits: The Secret History (historical chronicle realism), Jangar (nomadic utopian communalism), and Geser (cosmic spiritual chivalry).",
+          "communicativeOutcome": "Produce doctoral-grade comparative literary scholarship in Mongolian, establishing profound typological and ideological distinctions across the Eurasian epic heritage.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 850-word master comparative treatise in academic Mongolian analyzing the philosophical and linguistic differences between Mongolia's three epic summits: The Secret History (historical chronicle realism), Jangar (nomadic utopian communalism), and Geser (cosmic spiritual chivalry).",
+            "keyPoints": [
+              "obj_c2_251_04_author_comparative_epic_treatise"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_251_05_epic_symposium_keynote_defense_spoken",
+          "title": "Academic Speaking: Delivering the Plenary Address at the World Epic Symposium in Ulaanbaatar",
+          "cyrillicTitle": "Demonstrate the absolute pinnacle of cultural and academic keynote speaking in Mongolian, inspiring an international audience with eloquence, intellectual vision, and patriotic grace.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 5.0-minute plenary address at the World Epic Symposium (Дэлхийн Туульчдын Их Чуулган) at the State Philharmonic Hall, presenting a synthesis on the resilience of nomadic oral literature and answering questions from international folklorists.",
+          "communicativeOutcome": "Demonstrate the absolute pinnacle of cultural and academic keynote speaking in Mongolian, inspiring an international audience with eloquence, intellectual vision, and patriotic grace.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of keynote address opening the World Epic Symposium.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 5.0-minute plenary address at the World Epic Symposium (Дэлхийн Туульчдын Их Чуулган) at the State Philharmonic Hall, presenting a synthesis on the resilience of nomadic oral literature and answering questions from international folklorists.",
+            "keyPoints": [
+              "obj_c2_251_05_deliver_world_epic_keynote"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_252_ceremonial_blessings_suffixes_in_we",
+      "unitNumber": 252,
+      "title": "Ceremonial Blessings: Suffixes -болтугай in Wedding Rituals",
+      "cyrillicTitle": "Performing authentic oral blessings (ерөөл) for ger and nuptials",
+      "description": "Acquire and apply grammatical morphology (gram_c2_ceremonial_blessing_formulaic_syntax) to fulfill communicative functions in: Ceremonial Blessings: Suffixes -болтугай in Wedding Rituals.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "gram_c2_ceremonial_blessing_formulaic_syntax",
+      "lessons": [
+        {
+          "id": "les_c2_252_01_ceremonial_blessings_formulaic_syntax_intro",
+          "title": "Ceremonial Linguistics: Formulaic Benediction Syntax & Archaic Optatives (-болтугай/-бэтүгэй) in Steppe Rituals",
+          "cyrillicTitle": "Master the syntax and performance rules of traditional Mongolian blessings (*ерөөл*), deploying formulaic benediction structures with ritual dignity and oral eloquence.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the formulaic syntax, archaic optative morphology (*-болтугай/-бэтүгэй*, *-сугай/-сүгэй*, *-х болгор*), and ritual pragmatics of Mongolian ceremonial benedictions (*ерөөл*): new yurt consecration (*гэрийн ерөөл*), wedding nuptials (*хуримын ерөөл*), and infant hair-cutting rites (*даахь үргээх ерөөл*).",
+          "communicativeOutcome": "Master the syntax and performance rules of traditional Mongolian blessings (*ерөөл*), deploying formulaic benediction structures with ritual dignity and oral eloquence.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the formulaic syntax, archaic optative morphology (*-болтугай/-бэтүгэй*, *-сугай/-сүгэй*, *-х болгор*), and ritual pragmatics of Mongolian ceremonial benedictions (*ерөөл*): new yurt consecration (*гэрийн ерөөл*), wedding nuptials (*хуримын ерөөл*), and infant hair-cutting rites (*даахь үргээх ерөөл*).",
+            "keyPoints": [
+              "obj_c2_252_01_master_ceremonial_blessings_syntax"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_252_02_traditional_wedding_benediction_reading",
+          "title": "Textual Reading: The Master Wedding Benediction (Хуримын Түрлэгтэй Их Ерөөл) Corpus",
+          "cyrillicTitle": "Deconstruct authentic traditional Mongolian nuptial literature, interpreting intricate ethnographic customs, archaic kinship formulas, and alliterative benediction poetry.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 870-word critical text of an authentic 19th-century Khalkha wedding benediction (*Хуримын их ерөөл*), analyzing formulaic praise of the groom's ancestry, bride's virtues, the setting up of the bridal hearth, and anointing of the felt with mare's milk.",
+          "communicativeOutcome": "Deconstruct authentic traditional Mongolian nuptial literature, interpreting intricate ethnographic customs, archaic kinship formulas, and alliterative benediction poetry.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 870-word critical text of an authentic 19th-century Khalkha wedding benediction (*Хуримын их ерөөл*), analyzing formulaic praise of the groom's ancestry, bride's virtues, the setting up of the bridal hearth, and anointing of the felt with mare's milk.",
+            "keyPoints": [
+              "obj_c2_252_02_parse_wedding_benediction_corpus"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_252_03_master_yuroolchi_field_audio_listening",
+          "title": "Acoustic Dissection: Authentic Live Audio of Master Yuroolchi Consecrating a New Ger in Khentii",
+          "cyrillicTitle": "Process authentic high-velocity live ritual speech in Mongolian, navigating spontaneous poetic improvisation, background celebratory noise, and solemn communal responsive chanting.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute unscripted live field recording of an 80-year-old hereditary blessing master (*ерөөлч*) consecrating a newly erected yurt in Khentii Province (165 wpm), analyzing the rapid, rhythmic, semi-chanted delivery, cup tossing cues, and collective choral refrains (*Тийм болтугай!*).",
+          "communicativeOutcome": "Process authentic high-velocity live ritual speech in Mongolian, navigating spontaneous poetic improvisation, background celebratory noise, and solemn communal responsive chanting.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic field recording of elder master Yuroolchi consecrating newlywed ger with dairy libation.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute unscripted live field recording of an 80-year-old hereditary blessing master (*ерөөлч*) consecrating a newly erected yurt in Khentii Province (165 wpm), analyzing the rapid, rhythmic, semi-chanted delivery, cup tossing cues, and collective choral refrains (*Тийм болтугай!*).",
+            "keyPoints": [
+              "obj_c2_252_03_comprehend_live_ger_consecration_audio"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_252_04_original_nuptial_benediction_composition_writing",
+          "title": "Creative Ceremonial Writing: Composing an Original 800-Word Master Wedding Benediction (Хуримын Ерөөл)",
+          "cyrillicTitle": "Demonstrate authentic master-level authorship in the ceremonial blessing genre, creating a poetic masterpiece ready for performance at a high-level state or traditional wedding.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an original 850-word master wedding benediction (*Хуримын их ерөөл*) composed in pristine four-line alliterative strophes with authentic optative verb endings (*-болтугай*), celebrating the fusion of two nomadic clans, the kindling of the new hearth fire, and perpetual harmony.",
+          "communicativeOutcome": "Demonstrate authentic master-level authorship in the ceremonial blessing genre, creating a poetic masterpiece ready for performance at a high-level state or traditional wedding.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an original 850-word master wedding benediction (*Хуримын их ерөөл*) composed in pristine four-line alliterative strophes with authentic optative verb endings (*-болтугай*), celebrating the fusion of two nomadic clans, the kindling of the new hearth fire, and perpetual harmony.",
+            "keyPoints": [
+              "obj_c2_252_04_author_master_wedding_benediction"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_252_05_wedding_ceremonial_performance_spoken",
+          "title": "Mastery Speaking: Performing as Master of Ceremonies (Ерөөлч) at a Grand Steppe Wedding",
+          "cyrillicTitle": "Command the highest traditional oral ritual performance role in Mongolian society, inspiring communal reverence, celebration, and auspicious happiness through vocal mastery.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 5.0-minute live performance as the supreme Master of Ceremonies (*Ерөөлч*) at a 500-guest traditional wedding in the countryside, holding the silver cup of mare's milk (*айргийн мөнгөн аяга*), leading responsive chanting, and moving the assembly to joyous tears.",
+          "communicativeOutcome": "Command the highest traditional oral ritual performance role in Mongolian society, inspiring communal reverence, celebration, and auspicious happiness through vocal mastery.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of celebrated national blessing master officiating grand wedding.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 5.0-minute live performance as the supreme Master of Ceremonies (*Ерөөлч*) at a 500-guest traditional wedding in the countryside, holding the silver cup of mare's milk (*айргийн мөнгөн аяга*), leading responsive chanting, and moving the assembly to joyous tears.",
+            "keyPoints": [
+              "obj_c2_252_05_perform_master_wedding_benediction"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_253_praise_poetry_steppe_steeds_sacred_",
+      "unitNumber": 253,
+      "title": "Praise Poetry (Магтаал): Steppe Steeds & Sacred Peaks",
+      "cyrillicTitle": "Chanting praise poems honoring celebrated racehorses and Burkhan Khaldun",
+      "description": "Acquire and apply grammatical morphology (gram_c2_praise_poetry_cataloguing_syntax) to fulfill communicative functions in: Praise Poetry (Магтаал): Steppe Steeds & Sacred Peaks.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "gram_c2_praise_poetry_cataloguing_syntax",
+      "lessons": [
+        {
+          "id": "les_c2_253_01_praise_poetry_cataloguing_syntax_intro",
+          "title": "Poetic Syntax: Praise Poetry (Магтаал), Formulaic Catalogues & Sacral Mountain Toponymy",
+          "cyrillicTitle": "Master the linguistic architecture of praise poetry, deploying cumulative descriptive epithets, horse conformation nomenclatures, and mountain eulogy formulas with rhythmic fluency.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic structures, cumulative formulaic catalogues, and mythological toponymy of Mongolian praise poetry (*магтаал*): praising champion racehorses (*түрүү магнай хурдан азарганы магтаал*), master wrestlers (*аварга бөхийн цол гуншин*), and sacred peaks (*Бурхан Халдун, Алтай Хан*).",
+          "communicativeOutcome": "Master the linguistic architecture of praise poetry, deploying cumulative descriptive epithets, horse conformation nomenclatures, and mountain eulogy formulas with rhythmic fluency.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic structures, cumulative formulaic catalogues, and mythological toponymy of Mongolian praise poetry (*магтаал*): praising champion racehorses (*түрүү магнай хурдан азарганы магтаал*), master wrestlers (*аварга бөхийн цол гуншин*), and sacred peaks (*Бурхан Халдун, Алтай Хан*).",
+            "keyPoints": [
+              "obj_c2_253_01_master_praise_poetry_cataloguing"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_253_02_burkhan_khaldun_sacred_eulogy_reading",
+          "title": "Textual Reading: The Master Eulogy to Mount Burkhan Khaldun & Sacred Tengrist Geography",
+          "cyrillicTitle": "Deconstruct sacred geographic praise poetry in Mongolian, appreciating the spiritual bond between nomadic sovereignty and mountain ecology.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 870-word critical text of the ancient liturgical eulogy to Mount Burkhan Khaldun (as preserved in historical manuscripts and modern state veneration decrees), analyzing formulaic praise of sacred taiga trees, crystal springs, and divine imperial sanctuary.",
+          "communicativeOutcome": "Deconstruct sacred geographic praise poetry in Mongolian, appreciating the spiritual bond between nomadic sovereignty and mountain ecology.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 870-word critical text of the ancient liturgical eulogy to Mount Burkhan Khaldun (as preserved in historical manuscripts and modern state veneration decrees), analyzing formulaic praise of sacred taiga trees, crystal springs, and divine imperial sanctuary.",
+            "keyPoints": [
+              "obj_c2_253_02_parse_burkhan_khaldun_eulogy"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_253_03_naadam_horse_title_herald_listening",
+          "title": "Acoustic Dissection: Live Heraldic Chanting of the Winning Stallion's Title at National Naadam Festival",
+          "cyrillicTitle": "Process the most electrifying traditional heraldic athletic chanting in Mongolian culture, deciphering dense horse racing terminology delivered at rapid ceremonial cadence.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute live broadcast recording of the national Naadam herald chanting the title and praise poem of the winning fast stallion (*Түрүү магнай хурдан азарганы цол дуудах*) at Hui Doloon Khudag before 50,000 spectators (170 wpm), analyzing acoustic falsetto breaks (*цангинах*), breath control, and roaring crowd ovations.",
+          "communicativeOutcome": "Process the most electrifying traditional heraldic athletic chanting in Mongolian culture, deciphering dense horse racing terminology delivered at rapid ceremonial cadence.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic live recording of celebrated Naadam herald chanting champion horse title at finish line.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute live broadcast recording of the national Naadam herald chanting the title and praise poem of the winning fast stallion (*Түрүү магнай хурдан азарганы цол дуудах*) at Hui Doloon Khudag before 50,000 spectators (170 wpm), analyzing acoustic falsetto breaks (*цангинах*), breath control, and roaring crowd ovations.",
+            "keyPoints": [
+              "obj_c2_253_03_comprehend_naadam_horse_heraldry"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_253_04_original_steed_praise_poem_composition_writing",
+          "title": "Creative Heraldic Writing: Composing an Original 800-Word Praise Poem for a Mythic Steppe Courser",
+          "cyrillicTitle": "Demonstrate supreme poetic mastery in the equestrian praise genre, producing a work rich in traditional hippological vocabulary, metric momentum, and emotional resonance.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an original 850-word praise poem (*Хүлэг морины магтаал*) in classical four-line alliterative strophes celebrating a legendary chestnut stallion, describing its mythic pedigree, aerodynamic anatomy, tempestuous gallop across the salt flats, and triumphant Naadam victory.",
+          "communicativeOutcome": "Demonstrate supreme poetic mastery in the equestrian praise genre, producing a work rich in traditional hippological vocabulary, metric momentum, and emotional resonance.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an original 850-word praise poem (*Хүлэг морины магтаал*) in classical four-line alliterative strophes celebrating a legendary chestnut stallion, describing its mythic pedigree, aerodynamic anatomy, tempestuous gallop across the salt flats, and triumphant Naadam victory.",
+            "keyPoints": [
+              "obj_c2_253_04_author_steed_praise_poem"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_253_05_stadium_horse_title_chanting_spoken",
+          "title": "Mastery Speaking: Performing as State Herald Chanting the Champion Horse's Praise at Naadam",
+          "cyrillicTitle": "Demonstrate the absolute pinnacle of athletic and public heraldic chanting in Mongolia, capturing the spirit of the nation with acoustic thunder and poetic brilliance.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 5.0-minute heraldic chant of the composed praise poem before an audience of 10,000 spectators and television cameras at the Central Stadium Naadam ceremony, executing booming projection, melodic falsetto breaks, and electrifying rhythmic pacing.",
+          "communicativeOutcome": "Demonstrate the absolute pinnacle of athletic and public heraldic chanting in Mongolia, capturing the spirit of the nation with acoustic thunder and poetic brilliance.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of Chief State Herald performing champion horse praise at Central Stadium.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 5.0-minute heraldic chant of the composed praise poem before an audience of 10,000 spectators and television cameras at the Central Stadium Naadam ceremony, executing booming projection, melodic falsetto breaks, and electrifying rhythmic pacing.",
+            "keyPoints": [
+              "obj_c2_253_05_chant_state_naadam_horse_titles"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_254_tengrist_cosmology_munkh_tenger_et_",
+      "unitNumber": 254,
+      "title": "Tengrist Cosmology: Munkh Tenger & Etügen Mother Earth",
+      "cyrillicTitle": "Philosophical exploration of the eternal blue sky and ecological ethics",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Tengrist Cosmology: Munkh Tenger & Etügen Mother Earth.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "gram_c2_supreme_stylistic_authorship",
+      "lessons": [
+        {
+          "id": "les_c2_254_01_tengrist_cosmology_theology_intro",
+          "title": "Cosmological Linguistics: Eternal Blue Sky (Мөнх Тэнгэр) & Earth Mother (Этүгэн Эх) Metaphysics",
+          "cyrillicTitle": "Master high-level cosmological and theological discourse in Mongolian, formulating profound metaphysical explanations of nomadic existential ontology and ecological ethics.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the philosophical lexicon, dualistic metaphysics, and ecological ethics of Tengrism (*Тэнгэр шүтлэг*): the transcendent masculine Eternal Blue Sky (*Мөнх Тэнгэр*), the immanent feminine Earth Mother (*Этүгэн Эх*), atmospheric deities (*тэнгэрүүд*), and nomadic ecological ethics (*байгальтай зохицох ёс*).",
+          "communicativeOutcome": "Master high-level cosmological and theological discourse in Mongolian, formulating profound metaphysical explanations of nomadic existential ontology and ecological ethics.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the philosophical lexicon, dualistic metaphysics, and ecological ethics of Tengrism (*Тэнгэр шүтлэг*): the transcendent masculine Eternal Blue Sky (*Мөнх Тэнгэр*), the immanent feminine Earth Mother (*Этүгэн Эх*), atmospheric deities (*тэнгэрүүд*), and nomadic ecological ethics (*байгальтай зохицох ёс*).",
+            "keyPoints": [
+              "obj_c2_254_01_master_tengrist_cosmological_discourse"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_254_02_historical_tengrist_invocations_reading",
+          "title": "Textual Reading: Imperial Invocations to Eternal Tengri in 13th-14th Century Diplomatic Letters",
+          "cyrillicTitle": "Deconstruct authentic medieval diplomatic epistolography in Mongolian, interpreting cosmic religious authority as the foundation of universal diplomatic relations.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 870-word critical corpus of Middle Mongolian diplomatic letters to the Popes and European monarchs (Güyüg Khan to Pope Innocent IV, 1246; Arghun Khan to Philip the Fair, 1289), analyzing formulaic imperial invocations of Eternal Tengri and cosmic world-order legitimacy.",
+          "communicativeOutcome": "Deconstruct authentic medieval diplomatic epistolography in Mongolian, interpreting cosmic religious authority as the foundation of universal diplomatic relations.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 870-word critical corpus of Middle Mongolian diplomatic letters to the Popes and European monarchs (Güyüg Khan to Pope Innocent IV, 1246; Arghun Khan to Philip the Fair, 1289), analyzing formulaic imperial invocations of Eternal Tengri and cosmic world-order legitimacy.",
+            "keyPoints": [
+              "obj_c2_254_02_parse_imperial_tengrist_letters"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_254_03_shamanic_trance_invocation_listening",
+          "title": "Acoustic Dissection: Authentic Field Recording of a Darkhad Shaman's Midnight Trance Invocation (Дуудлага)",
+          "cyrillicTitle": "Process the most extreme sacred acoustic document of living nomadic religion, deciphering archaic shamanic incantations amidst rapid drum rhythms and altered vocal timbres.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute authentic field recording of a senior Darkhad red-tasselled shaman (*улаан залаат бөө*) conducting a midnight spirit summoning ritual (*онгод дуудах*) in the taiga of Khövsgöl (160 wpm), analyzing hypnotic drum acceleration (*хэц нүдэх*), whispered spirit tongues, and archaic poetic incantations.",
+          "communicativeOutcome": "Process the most extreme sacred acoustic document of living nomadic religion, deciphering archaic shamanic incantations amidst rapid drum rhythms and altered vocal timbres.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic field recording of Darkhad shaman conducting spirit invocation with horse-drum in Khövsgöl.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute authentic field recording of a senior Darkhad red-tasselled shaman (*улаан залаат бөө*) conducting a midnight spirit summoning ritual (*онгод дуудах*) in the taiga of Khövsgöl (160 wpm), analyzing hypnotic drum acceleration (*хэц нүдэх*), whispered spirit tongues, and archaic poetic incantations.",
+            "keyPoints": [
+              "obj_c2_254_03_comprehend_darkhad_shamanic_invocation"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_254_04_ecological_manifesto_tengrism_writing",
+          "title": "Philosophical Writing: Authoring an Ecological Manifesto Grounded in Tengrist Nomadic Ethics",
+          "cyrillicTitle": "Produce world-class philosophical and environmental prose in Mongolian, synthesizing ancient indigenous cosmology with urgent global ecological philosophy.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 850-word philosophical manifesto (*Экологийн тунхаг*) in high literary Mongolian, arguing that Tengrist cosmological dualism (reverence for Mother Earth and avoidance of desecrating nature) offers a vital philosophical remedy for 21st-century global climate catastrophe.",
+          "communicativeOutcome": "Produce world-class philosophical and environmental prose in Mongolian, synthesizing ancient indigenous cosmology with urgent global ecological philosophy.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 850-word philosophical manifesto (*Экологийн тунхаг*) in high literary Mongolian, arguing that Tengrist cosmological dualism (reverence for Mother Earth and avoidance of desecrating nature) offers a vital philosophical remedy for 21st-century global climate catastrophe.",
+            "keyPoints": [
+              "obj_c2_254_04_author_tengrist_ecological_manifestos"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_254_05_un_climate_summit_keynote_spoken",
+          "title": "Diplomatic Speaking: Delivering the UN Global Climate Keynote on Nomadic Planetary Stewardship",
+          "cyrillicTitle": "Command the supreme stage of world diplomacy in Mongolian, delivering an address that moves world leaders through visionary ecological philosophy and oratorical magnificence.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 5.0-minute keynote address at the United Nations General Assembly Climate Summit (in elevated diplomatic Mongolian with simultaneous interpretation), challenging world leaders to adopt nomadic Tengrist ecological wisdom as the ethical foundation for planetary survival.",
+          "communicativeOutcome": "Command the supreme stage of world diplomacy in Mongolian, delivering an address that moves world leaders through visionary ecological philosophy and oratorical magnificence.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of President of Mongolia delivering keynote address at UN Climate Summit.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 5.0-minute keynote address at the United Nations General Assembly Climate Summit (in elevated diplomatic Mongolian with simultaneous interpretation), challenging world leaders to adopt nomadic Tengrist ecological wisdom as the ethical foundation for planetary survival.",
+            "keyPoints": [
+              "obj_c2_254_05_deliver_un_climate_keynote"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_255_nomadic_buddhism_the_heritage_of_za",
+      "unitNumber": 255,
+      "title": "Nomadic Buddhism: The Heritage of Zanabazar & Bogd Gegeen",
+      "cyrillicTitle": "Analyzing high Buddhist philosophy, emptiness (хоосон чанар), and art",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Nomadic Buddhism: The Heritage of Zanabazar & Bogd Gegeen.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "Analyzing high Buddhist philosophy, emptiness (хоосон чанар), and art",
+      "lessons": [
+        {
+          "id": "les_c2_255_01_nomadic_buddhism_zanabazar_intro",
+          "title": "Buddhist Philosophy: The Renaissance Heritage of Undur Gegeen Zanabazar & Nomadic Enlightenment",
+          "cyrillicTitle": "Master elite Buddhist philosophical and art-historical discourse in Mongolian, analyzing sacred metaphysics, aesthetic proportion theory (*зохирол зүй*), and Enlightenment philosophy.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the intellectual, philosophical, and artistic vocabulary of Mongolian Buddhism (*Монголын бурханы шашин*): First Bogd Undur Gegeen Zanabazar (1635-1723), the invention of the Soyombo script (1686), high Buddhist metaphysics of Emptiness (*хоосон чанар / sunyata*), and nomadic monastic culture.",
+          "communicativeOutcome": "Master elite Buddhist philosophical and art-historical discourse in Mongolian, analyzing sacred metaphysics, aesthetic proportion theory (*зохирол зүй*), and Enlightenment philosophy.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the intellectual, philosophical, and artistic vocabulary of Mongolian Buddhism (*Монголын бурханы шашин*): First Bogd Undur Gegeen Zanabazar (1635-1723), the invention of the Soyombo script (1686), high Buddhist metaphysics of Emptiness (*хоосон чанар / sunyata*), and nomadic monastic culture.",
+            "keyPoints": [
+              "obj_c2_255_01_master_zanabazar_buddhist_philosophy"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_255_02_twenty_one_taras_aesthetic_reading",
+          "title": "Textual Reading: Aesthetic Hermeneutics of Zanabazar's Twenty-One Taras (Хорин Нэгэн Дарь Эх)",
+          "cyrillicTitle": "Deconstruct master-level aesthetic and art-critical texts in Mongolian, articulating profound interpretations of form, spiritual grace, and metallurgical mastery.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 870-word critical art-historical treatise evaluating Zanabazar's cast bronze sculptures of the Twenty-One Taras (*Хорин нэгэн Дарь эх*), analyzing the fusion of Greco-Buddhist anatomical proportions, nomadic feminine beauty ideals, and compassionate Buddhist iconography.",
+          "communicativeOutcome": "Deconstruct master-level aesthetic and art-critical texts in Mongolian, articulating profound interpretations of form, spiritual grace, and metallurgical mastery.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 870-word critical art-historical treatise evaluating Zanabazar's cast bronze sculptures of the Twenty-One Taras (*Хорин нэгэн Дарь эх*), analyzing the fusion of Greco-Buddhist anatomical proportions, nomadic feminine beauty ideals, and compassionate Buddhist iconography.",
+            "keyPoints": [
+              "obj_c2_255_02_parse_twenty_one_taras_treatise"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_255_03_gandan_monastery_high_debate_listening",
+          "title": "Acoustic Dissection: Traditional Philosophical Monastic Debate (Ном Хаялцах) at Gandantegchinlen Monastery",
+          "cyrillicTitle": "Process the fastest, most intellectually demanding scholastic dialectic in the Buddhist world, tracking intense logical deductions, instant refutations, and acoustic ritual cues.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute authentic live recording of a high Buddhist dialectical debate (*ном хаялцах*) between senior Geshe lamas at Gandantegchinlen Monastery (170 wpm), analyzing the thunderous ritual hand claps (*алга нижигнүүлэх*), razor-sharp syllogisms, and rapid Sanskrit/Tibetan/Mongolian philosophical exchanges on the nature of consciousness.",
+          "communicativeOutcome": "Process the fastest, most intellectually demanding scholastic dialectic in the Buddhist world, tracking intense logical deductions, instant refutations, and acoustic ritual cues.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic recording of senior Geshes engaged in philosophical disputation at Gandan.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute authentic live recording of a high Buddhist dialectical debate (*ном хаялцах*) between senior Geshe lamas at Gandantegchinlen Monastery (170 wpm), analyzing the thunderous ritual hand claps (*алга нижигнүүлэх*), razor-sharp syllogisms, and rapid Sanskrit/Tibetan/Mongolian philosophical exchanges on the nature of consciousness.",
+            "keyPoints": [
+              "obj_c2_255_03_comprehend_monastic_philosophical_debates"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_255_04_comparative_buddhist_tengrist_monograph_writing",
+          "title": "Scholarly Writing: Authoring a Treatise on the Syncretic Coexistence of Buddhism & Tengrism in Steppe Culture",
+          "cyrillicTitle": "Produce high-level religious studies and intellectual history scholarship in academic Mongolian, synthesizing complex historical syncretism with theoretical sophistication.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 850-word master scholarly treatise analyzing the historical syncretism between Tibetan Vajrayana Buddhism and indigenous Tengrism in Mongolia (how ovoo cairns were incorporated into Buddhist rituals, how mountain spirits became Dharmapalas, and the resulting philosophical worldview).",
+          "communicativeOutcome": "Produce high-level religious studies and intellectual history scholarship in academic Mongolian, synthesizing complex historical syncretism with theoretical sophistication.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 850-word master scholarly treatise analyzing the historical syncretism between Tibetan Vajrayana Buddhism and indigenous Tengrism in Mongolia (how ovoo cairns were incorporated into Buddhist rituals, how mountain spirits became Dharmapalas, and the resulting philosophical worldview).",
+            "keyPoints": [
+              "obj_c2_255_04_author_buddhist_tengrist_syncretism_treatise"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_255_05_buddhist_interfaith_dialogue_spoken",
+          "title": "Diplomatic Speaking: Representing Nomadic Buddhism at the World Parliament of Religions",
+          "cyrillicTitle": "Command international interfaith and philosophical diplomacy in Mongolian, articulating the profound humanism and spiritual depth of the nomadic Buddhist tradition.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 5.0-minute keynote address representing Mongolian Buddhism at the World Parliament of Religions in Chicago (delivered in elevated Mongolian with simultaneous interpretation), explaining how nomadic compassion, emptiness philosophy, and ecological harmony guide global human ethics.",
+          "communicativeOutcome": "Command international interfaith and philosophical diplomacy in Mongolian, articulating the profound humanism and spiritual depth of the nomadic Buddhist tradition.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of Khambo Lama addressing World Parliament of Religions plenary session.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 5.0-minute keynote address representing Mongolian Buddhism at the World Parliament of Religions in Chicago (delivered in elevated Mongolian with simultaneous interpretation), explaining how nomadic compassion, emptiness philosophy, and ecological harmony guide global human ethics.",
+            "keyPoints": [
+              "obj_c2_255_05_represent_nomadic_buddhism_globally"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_256_supreme_stylistic_virtuosity_capsto",
+      "unitNumber": 256,
+      "title": "Supreme Stylistic Virtuosity Capstone: Master Authorial Voice",
+      "cyrillicTitle": "Composing an original epic praise poem and philosophical manifesto",
+      "description": "Consolidate, integrate, and demonstrate communicative mastery of Supreme Stylistic Virtuosity Capstone: Master Authorial Voice through simulated holistic tasks.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "Composing an original epic praise poem and philosophical manifesto",
+      "lessons": [
+        {
+          "id": "les_c2_256_01_c2_culminating_capstone_master_authorial_voice_intro",
+          "title": "Supreme Capstone Introduction: Synthesizing the Complete CEFR C2 Mastery Architecture",
+          "cyrillicTitle": "Establish the ultimate integrative operational framework for native-like communicative supremacy in the Mongolian language.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Synthesize the entire communicative, stylistic, philological, and cosmological architecture of CEFR C2 across all 28 units: Rapid Khalkha Spoken Phonotactics, Pragmatic Irony & Sarcasm, Somatic Metaphors, Satirical Cultural Critique, Polyphony & Free Indirect Discourse, Dialectal Awareness, The Secret History Philology, Classical Epic Syntax, Archaic Case Morphology, The Alan Qo'a Covenant, The Oath of Anda, The Great Yasa & Nomadic Jurisprudence, Omni-Register Agility, Epigraphic Stelae, Gnomic Wisdom, Metric Head-Alliteration, Strophic Parallelism, The Epics of Jangar & Geser, Ceremonial Blessings, Praise Poetry, Tengrism, and Nomadic Buddhism.",
+          "communicativeOutcome": "Establish the ultimate integrative operational framework for native-like communicative supremacy in the Mongolian language.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Synthesize the entire communicative, stylistic, philological, and cosmological architecture of CEFR C2 across all 28 units: Rapid Khalkha Spoken Phonotactics, Pragmatic Irony & Sarcasm, Somatic Metaphors, Satirical Cultural Critique, Polyphony & Free Indirect Discourse, Dialectal Awareness, The Secret History Philology, Classical Epic Syntax, Archaic Case Morphology, The Alan Qo'a Covenant, The Oath of Anda, The Great Yasa & Nomadic Jurisprudence, Omni-Register Agility, Epigraphic Stelae, Gnomic Wisdom, Metric Head-Alliteration, Strophic Parallelism, The Epics of Jangar & Geser, Ceremonial Blessings, Praise Poetry, Tengrism, and Nomadic Buddhism.",
+            "keyPoints": [
+              "obj_c2_256_01_synthesize_complete_c2_mastery"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_256_02_c2_culminating_monumental_literary_text_reading",
+          "title": "Supreme Reading: Deconstructing an Unedited 1,000-Word Literary Masterpiece by B. Rinchen",
+          "cyrillicTitle": "Demonstrate the absolute zenith of reading comprehension in the Mongolian language, deciphering the most challenging, erudite literary prose in Mongolian history with total hermeneutic autonomy.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an unedited 1,050-word master literary excerpt from Academician Byambyn Rinchen's historical novel *Үүрийн туяа* (Dawn's Ray) or *Заан залуудай* (Zaan Zaluudai), featuring dense archaic vocabulary, intricate dialectal idioms, polyphonic narrative voices, and majestic epic cadences.",
+          "communicativeOutcome": "Demonstrate the absolute zenith of reading comprehension in the Mongolian language, deciphering the most challenging, erudite literary prose in Mongolian history with total hermeneutic autonomy.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an unedited 1,050-word master literary excerpt from Academician Byambyn Rinchen's historical novel *Үүрийн туяа* (Dawn's Ray) or *Заан залуудай* (Zaan Zaluudai), featuring dense archaic vocabulary, intricate dialectal idioms, polyphonic narrative voices, and majestic epic cadences.",
+            "keyPoints": [
+              "obj_c2_256_02_parse_rinchen_monumental_prose"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_256_03_c2_culminating_unscripted_polyphonic_debate_listening",
+          "title": "Supreme Listening: The 180 wpm Quadruple Panel on the Future of Mongolian Civilization",
+          "cyrillicTitle": "Demonstrate the absolute summit of listening comprehension in the Mongolian language, deciphering dense, chaotic, rapid-fire native debates with 100% lexical and pragmatic accuracy.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute unscripted live multi-party debate broadcast nationwide (180+ wpm) featuring 4 luminaries interrupting each other simultaneously: a senior academician, an investigative journalist, a Buddhist Khambo Lama, and an international mining CEO, analyzing severe vowel elisions, sarcastic parries, philosophical maxims, and abrupt register shifts.",
+          "communicativeOutcome": "Demonstrate the absolute summit of listening comprehension in the Mongolian language, deciphering dense, chaotic, rapid-fire native debates with 100% lexical and pragmatic accuracy.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic broadcast recording of heated 4-speaker television debate on Mongolia's future.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute unscripted live multi-party debate broadcast nationwide (180+ wpm) featuring 4 luminaries interrupting each other simultaneously: a senior academician, an investigative journalist, a Buddhist Khambo Lama, and an international mining CEO, analyzing severe vowel elisions, sarcastic parries, philosophical maxims, and abrupt register shifts.",
+            "keyPoints": [
+              "obj_c2_256_03_comprehend_quadruple_polyphonic_debate"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_256_04_c2_culminating_masterpiece_manifesto_writing",
+          "title": "Supreme Writing: Authoring a 1,000-Word Monumental Philosophical & Literary Manifesto of the Steppe",
+          "cyrillicTitle": "Demonstrate the ultimate summit of written expression in the Mongolian language, producing a literary monument evaluated as equivalent to the work of the greatest historical authors.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an original 1,000-word monumental philosophical and literary manifesto (*Нүүдэлчдийн оюун санааны тунхаглал*), seamlessly integrating classical metric alliterative verse, Middle Mongolian epigraphic references, razor-sharp modern sociopolitical critique, and transcendent Tengrist-Buddhist cosmology into a singular, breathtaking authorial voice.",
+          "communicativeOutcome": "Demonstrate the ultimate summit of written expression in the Mongolian language, producing a literary monument evaluated as equivalent to the work of the greatest historical authors.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an original 1,000-word monumental philosophical and literary manifesto (*Нүүдэлчдийн оюун санааны тунхаглал*), seamlessly integrating classical metric alliterative verse, Middle Mongolian epigraphic references, razor-sharp modern sociopolitical critique, and transcendent Tengrist-Buddhist cosmology into a singular, breathtaking authorial voice.",
+            "keyPoints": [
+              "obj_c2_256_04_author_culminating_masterpiece_manifesto"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_256_05_c2_culminating_grand_national_oration_spoken",
+          "title": "Supreme Speaking: The Grand National Oration at the State Ceremonial Hall Before the Nation",
+          "cyrillicTitle": "Demonstrate the absolute pinnacle of spoken Mongolian eloquence, commanding the national consciousness through oratorical brilliance, emotional majesty, and peerless linguistic mastery.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 6.0-minute monumental Grand National Oration (*Төрийн их ёслолын их илтгэл*) broadcast live to the entire nation from the State Palace Ceremonial Hall on National Pride Day (*Монгол бахархлын өдөр*), weaving epic verse declamation, statecraft philosophy, biting cultural wit, and sublime blessings before the President, Parliament, foreign ambassadors, and citizens.",
+          "communicativeOutcome": "Demonstrate the absolute pinnacle of spoken Mongolian eloquence, commanding the national consciousness through oratorical brilliance, emotional majesty, and peerless linguistic mastery.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of monumental National Pride Day address broadcast from State Palace.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 6.0-minute monumental Grand National Oration (*Төрийн их ёслолын их илтгэл*) broadcast live to the entire nation from the State Palace Ceremonial Hall on National Pride Day (*Монгол бахархлын өдөр*), weaving epic verse declamation, statecraft philosophy, biting cultural wit, and sublime blessings before the President, Parliament, foreign ambassadors, and citizens.",
+            "keyPoints": [
+              "obj_c2_256_05_deliver_grand_national_oration"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_256_06_cefr_c2_absolute_culmination_and_mastery_freeze",
+          "title": "CEFR C2 Absolute Culmination: Permanent Operational Mastery Verification & Curriculum Seal",
+          "cyrillicTitle": "Attain absolute, permanent operational mastery of the Mongolian language at CEFR C2 Mastery tier, confirming readiness for formal curriculum freezing.",
+          "estimatedMinutes": 15,
+          "lessonType": "review",
+          "primaryPurpose": "Execute the final, absolute operational review of CEFR C2 (Mastery tier), verifying permanent native-like fluency across all 28 units (Units 229-256) and certifying complete mastery of the Mongolian language from Pre-A1 through C2.",
+          "communicativeOutcome": "Attain absolute, permanent operational mastery of the Mongolian language at CEFR C2 Mastery tier, confirming readiness for formal curriculum freezing.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Execute the final, absolute operational review of CEFR C2 (Mastery tier), verifying permanent native-like fluency across all 28 units (Units 229-256) and certifying complete mastery of the Mongolian language from Pre-A1 through C2.",
+            "keyPoints": [
+              "Execute the final, absolute operational review of CEFR C2 (Mastery tier), verifying permanent native-like fluency across all 28 units (Units 229-256) and certifying complete mastery of the Mongolian language from Pre-A1 through C2."
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    }
+  ]
+}

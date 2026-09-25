@@ -11,9 +11,9 @@
 The entire curriculum architecture across all levels (**Pre-A1, A1, A2, B1, B2, C1, C2**) is strictly frozen. The following elements must **NEVER** be modified, deleted, shifted, renumbered, or recalculated:
 
 1. **Units**:
-   - Total Unit Count (256 units + Pre-A1 phonology sequence).
-   - Unit identifiers (`unit_a1_001_...` through `unit_c2_256_...`), CEFR classifications, and sequence within sections.
-   - Section bounds and titles.
+   - Total Unit Count: 256 Units (comprising 15 Pre-A1 phonology & script units plus 241 CEFR A1–C2 units).
+   - Unit identifiers (`unit_pre_a1_01_...` through `unit_c2_256_...`), CEFR classifications, and sequence within sections.
+   - Section bounds and titles (26 Sections total: 2 Pre-A1, 5 A1, 5 A2, 4 B1, 4 B2, 3 C1, 3 C2).
 
 2. **Lessons**:
    - Total Authoritative Lessons: **1,257 lessons** (Pre-A1 through C2).
@@ -47,14 +47,14 @@ All files in `curriculum/blueprint/` and `curriculum/lesson_blueprints/` are cry
 
 | CEFR Level | Units | Complete Blueprint File | Total Lessons | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **Pre-A1** | Phonology & Cyrillic Script | `curriculum/lesson_blueprints/preA1.json` | 65 | **FROZEN** |
-| **A1** | Units 001–050 (5 sections) | `curriculum/lesson_blueprints/a1_complete.json` | 250 | **FROZEN** |
-| **A2** | Units 051–105 (5 sections) | `curriculum/lesson_blueprints/a2_complete.json` | 230 | **FROZEN** |
-| **B1** | Units 106–155 (4 sections) | `curriculum/lesson_blueprints/b1_complete.json` | 210 | **FROZEN** |
-| **B2** | Units 156–200 (4 sections) | `curriculum/lesson_blueprints/b2_complete.json` | 200 | **FROZEN** |
-| **C1** | Units 201–228 (3 sections) | `curriculum/lesson_blueprints/c1_complete.json` | 159 | **FROZEN** |
+| **Pre-A1** | Units 001–015 (2 sections) | `curriculum/lesson_blueprints/preA1.json` | 73 | **FROZEN** |
+| **A1** | Units 016–063 (5 sections) | `curriculum/lesson_blueprints/a1_complete.json` | 278 | **FROZEN** |
+| **A2** | Units 064–111 (5 sections) | `curriculum/lesson_blueprints/a2_complete.json` | 233 | **FROZEN** |
+| **B1** | Units 112–155 (4 sections) | `curriculum/lesson_blueprints/b1_complete.json` | 194 | **FROZEN** |
+| **B2** | Units 156–197 (4 sections) | `curriculum/lesson_blueprints/b2_complete.json` | 188 | **FROZEN** |
+| **C1** | Units 198–228 (3 sections) | `curriculum/lesson_blueprints/c1_complete.json` | 148 | **FROZEN** |
 | **C2** | Units 229–256 (3 sections) | `curriculum/lesson_blueprints/c2_complete.json` | 143 | **FROZEN** |
-| **Total** | **256 Units + Pre-A1** | — | **1,257 Lessons** | **FROZEN** |
+| **Total** | **256 Units (Includes 15 Pre-A1 Units)** | — | **1,257 Lessons** | **FROZEN** |
 
 ---
 

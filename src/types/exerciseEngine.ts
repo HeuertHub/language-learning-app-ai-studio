@@ -28,8 +28,10 @@ export type InteractionPattern =
   | 'PAIR_MATCHING'
   | 'TOKEN_REARRANGEMENT'
   | 'CLOZE_TEXT'
+  | 'SUFFIX_ATTACHMENT'
   | 'AUDIO_COMPREHENSION'
   | 'AUDIO_DICTATION'
+  | 'OPEN_RESPONSE_RUBRIC'
   | 'FREE_RESPONSE_RUBRIC';
 
 export type CognitiveComplexity =
@@ -56,7 +58,8 @@ export interface EvaluationRule {
   normalizeWhitespace?: boolean;
   allowInflectedVariants?: boolean;
   rubricCriteria?: {
-    criterionId: string;
+    criterionId?: string;
+    criterion?: string;
     description: string;
     points: number;
   }[];
@@ -65,9 +68,11 @@ export interface EvaluationRule {
 export interface ExerciseOption {
   id: string;
   text: string;
+  cyrillic?: string;
   translation?: string;
   distractorRationale?: string;
   isCorrect: boolean;
+  explanation?: string;
 }
 
 export interface AudioExerciseConfig {
@@ -97,9 +102,13 @@ export interface ExerciseDefinition {
   prompt: string;
   stimulusTextCyrillic?: string;
   stimulusTranslation?: string;
+  contextSentence?: string;
   options?: ExerciseOption[];
   wordTokens?: string[];
   correctTokenOrder?: string[];
+  baseWord?: string;
+  suffixOptions?: string[];
+  correctSuffix?: string;
   correctAnswer: string;
   acceptableAlternatives?: string[];
   hint: string;

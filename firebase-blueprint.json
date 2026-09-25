@@ -130,6 +130,98 @@
         }
       },
       "required": ["id", "userId", "title", "content", "createdAt"]
+    },
+    "CourseDefinition": {
+      "title": "CourseDefinition",
+      "description": "Authoritative immutable course curriculum structure",
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique course identifier"
+        },
+        "name": {
+          "type": "string",
+          "description": "Course name"
+        },
+        "totalUnits": {
+          "type": "number",
+          "description": "Total unit count"
+        },
+        "totalLessons": {
+          "type": "number",
+          "description": "Total lesson count"
+        }
+      },
+      "required": ["id", "name"]
+    },
+    "LexiconItem": {
+      "title": "LexiconItem",
+      "description": "Shared linguistic lexicon entry",
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique lemma identifier"
+        },
+        "cyrillic": {
+          "type": "string",
+          "description": "Cyrillic headword"
+        },
+        "english": {
+          "type": "string",
+          "description": "English gloss"
+        }
+      },
+      "required": ["id", "cyrillic", "english"]
+    },
+    "ExerciseBankItem": {
+      "title": "ExerciseBankItem",
+      "description": "Centralized read-only pedagogical exercise record",
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique exercise identifier"
+        },
+        "lessonId": {
+          "type": "string",
+          "description": "Associated lesson blueprint ID"
+        },
+        "prompt": {
+          "type": "string",
+          "description": "Pedagogical prompt"
+        },
+        "interactionPattern": {
+          "type": "string",
+          "description": "Interaction pattern classification"
+        }
+      },
+      "required": ["id", "lessonId", "prompt"]
+    },
+    "AudioRegistryItem": {
+      "title": "AudioRegistryItem",
+      "description": "Audio recording metadata for native-speaker pronunciation",
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Audio asset identifier"
+        },
+        "text": {
+          "type": "string",
+          "description": "Cyrillic transcription"
+        },
+        "audioUrl": {
+          "type": "string",
+          "description": "URL to audio recording"
+        },
+        "speakerType": {
+          "type": "string",
+          "description": "native_speaker or acoustic_formant"
+        }
+      },
+      "required": ["id", "text"]
     }
   },
   "firestore": {
@@ -144,6 +236,22 @@
     "/users/{userId}/notes/{noteId}": {
       "schema": "StudyNote",
       "description": "Learner personal grammar study notes and annotations"
+    },
+    "/courses/{courseId}": {
+      "schema": "CourseDefinition",
+      "description": "Shared authoritative course structure"
+    },
+    "/lexicon/{lexiconId}": {
+      "schema": "LexiconItem",
+      "description": "Shared lexical repository"
+    },
+    "/exercise_banks/{exerciseId}": {
+      "schema": "ExerciseBankItem",
+      "description": "Shared pedagogical exercise bank items"
+    },
+    "/audio_registry/{audioId}": {
+      "schema": "AudioRegistryItem",
+      "description": "Shared native audio registry metadata"
     }
   }
 }

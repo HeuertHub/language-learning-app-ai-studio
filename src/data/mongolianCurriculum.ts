@@ -189,7 +189,9 @@ export const MASTER_GRAMMAR_RULES: GrammarRule[] = [
   },
 ];
 
-export const MONGOLIAN_COURSE: LanguageCourse = {
+// Explicitly designated development/sample fixture ONLY.
+// Not for use in production application runtime.
+export const DEV_SAMPLE_FIXTURE_COURSE: LanguageCourse = {
   id: 'mongolian-cyrillic',
   name: 'Mongolian (Cyrillic)',
   cyrillicName: 'Монгол хэл (Кирилл)',

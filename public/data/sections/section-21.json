@@ -1,0 +1,2076 @@
+{
+  "sectionId": "sec_c1_01_constitutional_law_governance_statutory",
+  "sectionNumber": 21,
+  "title": "Constitutional Law, Statutory Interpretation & Legal Discourse",
+  "cyrillicTitle": "Үндсэн хуулийн эрх зүй, хууль тогтоомж ба төрийн захиргаа",
+  "cefr": "C1",
+  "theme": "Parse statutory legal texts, draft administrative decrees, argue legal cases before formal panels, and evaluate statutory compliance.",
+  "description": "Inaugurate C1 operational proficiency through statutory analysis, constitutional interpretation, administrative chancellery syntax, and the rigorous register of statutory drafting and high court argumentation.",
+  "unitCount": 10,
+  "lessonCount": 47,
+  "exerciseCount": 15,
+  "units": [
+    {
+      "id": "unit_c1_198_the_1992_democratic_constitution_of",
+      "unitNumber": 198,
+      "title": "The 1992 Democratic Constitution of Mongolia",
+      "cyrillicTitle": "Parsing sovereign rights, state structure, and constitutional review",
+      "description": "Acquire and apply grammatical morphology (gram_c1_administrative_chancellery_syntax) to fulfill communicative functions in: The 1992 Democratic Constitution of Mongolia.",
+      "cefrLevel": "C1",
+      "primaryGrammarTopic": "gram_c1_administrative_chancellery_syntax",
+      "lessons": [
+        {
+          "id": "les_c1_198_01_administrative_chancellery_syntax_intro",
+          "title": "Morphosyntax: Administrative Chancellery Architecture & Complex Nominal Embeddings",
+          "cyrillicTitle": "Deconstruct and parse high-register legal sentences exceeding 40 words, isolating the main statutory predicate from nested institutional subordinate clauses without ambiguity.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic architecture of formal state chancellery Mongolian, characterized by multi-tiered participial nominalizations, genitive agent embeddings, and preposed non-finite clausal modifiers preceding statutory head nouns.",
+          "communicativeOutcome": "Deconstruct and parse high-register legal sentences exceeding 40 words, isolating the main statutory predicate from nested institutional subordinate clauses without ambiguity.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic architecture of formal state chancellery Mongolian, characterized by multi-tiered participial nominalizations, genitive agent embeddings, and preposed non-finite clausal modifiers preceding statutory head nouns.",
+            "keyPoints": [
+              "obj_c1_198_01_parse_chancellery_nominalizations"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_c1_198_01_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Deconstructing Multi-Tiered Chancellery Participial Embedding",
+              "modality": "CONSTITUTIONAL_STATUTORY_READING",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "chancellery_parsing",
+                "complex_nominal_embedding"
+              ],
+              "grammarTargets": [
+                "gram_c1_administrative_chancellery_syntax"
+              ],
+              "vocabularyTargets": [
+                "үндэслэн",
+                "тогтоосугай",
+                "заасныг"
+              ],
+              "prompt": "Analyze the opening statutory clause of a Government Resolution (Засгийн газрын тогтоол):\n\n'Монгол Улсын Засгийн газрын тухай хуулийн 30 дугаар зүйлийн 1 дэх хэсэгт заасныг үндэслэн, Төрийн албаны тухай хуулийн хэрэгжилтийг хангах зорилгоор Монгол Улсын Засгийн газраас ТОГТООХ нь:'\n\nWhat is the syntactic function of the participial chain 'заасныг үндэслэн'?",
+              "stimulusTextCyrillic": "хуулийн ... заасныг үндэслэн",
+              "hint": "'Заасныг' is an accusative past participial nominal head ('that which was stipulated'), and 'үндэслэн' is a modal converb meaning 'basing upon'.",
+              "options": [
+                {
+                  "id": "parse_legal_basis",
+                  "text": "It establishes the statutory legal basis and enabling authority upon which the executive branch derives its decree power.",
+                  "cyrillic": "Хууль зүйн үндэслэлийг заах бүтээц",
+                  "isCorrect": true,
+                  "explanation": "Correct! '[Statute]-д заасныг үндэслэн' is the mandatory constitutional chancellery formula anchoring executive legality."
+                },
+                {
+                  "id": "parse_historical",
+                  "text": "It serves as an informal historical anecdote with no binding legal effect.",
+                  "cyrillic": "Түүхэн жишээ",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. It is the operative jurisdictional authority."
+                },
+                {
+                  "id": "parse_interrogative",
+                  "text": "It expresses a question asking parliament for clarification.",
+                  "cyrillic": "Асуулт",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. It is a formal decree enactment."
+                }
+              ],
+              "correctAnswer": "It establishes the statutory legal basis and enabling authority upon which the executive branch derives its decree power.",
+              "acceptableAlternatives": [
+                "It establishes statutory legal basis",
+                "Хууль зүйн үндэслэлийг заах"
+              ],
+              "explanation": "Chancellery syntax embeds statutory authority using: [Statute]-д 'заасныг' (accusative nominalized participle) + 'үндэслэн' (modal converb = based upon).",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! Accurate deconstruction of formal chancellery enabling clauses.",
+                "onFailure": "'заасныг үндэслэн' establishes the statutory legal authority of the decree."
+              },
+              "detailedGrammarNote": "Modern Mongolian administrative drafting strictly adheres to the 'Preamble -> Legal Basis -> Enactment Formula (ТОГТООХ нь:)' tri-partite statutory structure.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Монгол Улсын Засгийн газрын тухай хуулийн гучдугаар зүйлийн нэг дэх хэсэгт заасныг үндэслэн, тогтоох нь.",
+                "slowSpeechSynthesisText": "заасныг үндэслэн, тогтоох нь.",
+                "ipaTranscription": "/mɔŋɢəɮ ʊɮsiːŋ tsasɡiːŋ ɢatsriːŋ tʰʊxæː xʊːɮʲiːŋ ɢʊtsʰtʊɢaːr tsʊiɮiːŋ nʲeɡ tʰex xisəɡtʰ tsaːsniːɡ untəsɮəŋ, tʰɔxtʰɔːx nʲ/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_c1_198_01_administrative_chancellery_syntax_intro",
+              "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+              "cefrLevel": "C1"
+            },
+            {
+              "exerciseId": "ex_c1_198_01_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "Interpreting Archaic Precative Enactment: 'ТОГТООСУГАЙ'",
+              "modality": "CONSTITUTIONAL_STATUTORY_READING",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "archaic_chancellery_morphology",
+                "legal_performatives"
+              ],
+              "grammarTargets": [
+                "gram_c1_administrative_chancellery_syntax"
+              ],
+              "vocabularyTargets": [
+                "тогтоосугай",
+                "батламжилсугай"
+              ],
+              "prompt": "In traditional chancellery and formal governmental decrees, operational paragraphs conclude with archaic verb endings like 'тогтоосугай' or 'батламжилсугай'. What is the grammatical and pragmatic function of the suffix '-сугай/-сүгэй'?",
+              "stimulusTextCyrillic": "Батлан хамгаалах бодлогыг шинэчлэн БАТАЛСУГАЙ.",
+              "hint": "'-сугай' is the historical classical precative/imperative suffix expressing sovereign enactment ('Be it resolved / It is hereby decreed').",
+              "options": [
+                {
+                  "id": "arch_performative",
+                  "text": "Classical 1st/3rd-person solemn precative suffix expressing binding sovereign fiat ('Be it enacted / Let it be resolved').",
+                  "cyrillic": "Төрийн зарлиг, тогтоолын заах төлөвийн эртний нөхцөл",
+                  "isCorrect": true,
+                  "explanation": "Correct! '-сугай/-сүгэй' is the solemn chancellery performative establishing binding legal decree."
+                },
+                {
+                  "id": "arch_past",
+                  "text": "Ordinary conversational past tense indicating an action that happened yesterday.",
+                  "cyrillic": "Өнгөрсөн цаг",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. It is not past tense; it enacts present legal authority."
+                },
+                {
+                  "id": "arch_doubt",
+                  "text": "Subjunctive mood expressing deep doubt and uncertainty.",
+                  "cyrillic": "Эргэлзэх төлөв",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Decrees are definitive commands, not doubts."
+                }
+              ],
+              "correctAnswer": "Classical 1st/3rd-person solemn precative suffix expressing binding sovereign fiat ('Be it enacted / Let it be resolved').",
+              "acceptableAlternatives": [
+                "Classical precative suffix",
+                "Төрийн зарлиг тогтоолын эртний нөхцөл"
+              ],
+              "explanation": "'-сугай/-сүгэй' is inherited from Middle Mongolian and Classical Mongolian chancellery tradition, reserved exclusively for the President, Government, and Supreme Court enactments.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! Profound philological and legal comprehension of '-сугай'.",
+                "onFailure": "'-сугай' expresses binding sovereign enactment: 'Let it be enacted'."
+              },
+              "detailedGrammarNote": "Although obsolete in colloquial speech, -сугай⁴ remains actively productive in sovereign jurisprudence, distinguishing constitutional decrees from regular administrative memos.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Төрийн албаны шинэчлэлийн хөтөлбөрийг үүгээр баталсугай.",
+                "slowSpeechSynthesisText": "үүгээр баталсугай.",
+                "ipaTranscription": "/tʰɵriːŋ aɮpəniː ʃinətʃʰɮeɮiːŋ xɵtʰɵɮpɵriːɡ uːɡeːr pʰatʰəɮsʊɢæː/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_c1_198_01_administrative_chancellery_syntax_intro",
+              "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+              "cefrLevel": "C1"
+            },
+            {
+              "exerciseId": "ex_c1_198_01_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "Token Assembly: Canonical Decree Article Architecture",
+              "modality": "CONSTITUTIONAL_STATUTORY_READING",
+              "interactionPattern": "TOKEN_REARRANGEMENT",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "decree_clause_ordering",
+                "chancellery_hierarchy"
+              ],
+              "grammarTargets": [
+                "gram_c1_administrative_chancellery_syntax"
+              ],
+              "vocabularyTargets": [
+                "хяналт тавьж",
+                "үүрэг болгосугай"
+              ],
+              "prompt": "Reconstruct the mandatory concluding accountability clause of a Cabinet decree: 'Charge the Minister of Justice with supervising the implementation of this resolution':",
+              "wordTokens": [
+                "үүрэг",
+                "Энэхүү",
+                "сайдад",
+                "хяналт",
+                "тогтоолын",
+                "Хууль",
+                "хэрэгжилтэд",
+                "тавьж",
+                "болгосугай",
+                "ажиллахыг",
+                "зүйн"
+              ],
+              "correctTokenOrder": [
+                "Энэхүү",
+                "тогтоолын",
+                "хэрэгжилтэд",
+                "хяналт",
+                "тавьж",
+                "ажиллахыг",
+                "Хууль",
+                "зүйн",
+                "сайдад",
+                "үүрэг",
+                "болгосугай"
+              ],
+              "correctAnswer": "Энэхүү тогтоолын хэрэгжилтэд хяналт тавьж ажиллахыг Хууль зүйн сайдад үүрэг болгосугай",
+              "acceptableAlternatives": [
+                "Энэхүү тогтоолын хэрэгжилтэд хяналт тавьж ажиллахыг Хууль зүйн сайдад үүрэг болгосугай."
+              ],
+              "hint": "Scope (Энэхүү тогтоолын хэрэгжилтэд) -> Action nominal (хяналт тавьж ажиллахыг) -> Target official (Хууль зүйн сайдад) -> Decree verb (үүрэг болгосугай).",
+              "explanation": "Standard administrative closing: 'Энэхүү тогтоолын хэрэгжилтэд хяналт тавьж ажиллахыг [Title]-д үүрэг болгосугай' (Charge [Title] with exercising oversight over the implementation of this resolution).",
+              "learnerFeedback": {
+                "onSuccess": "Төгс! Impeccable mastery of Mongolian chancellery article syntax.",
+                "onFailure": "Follow the sequence: Энэхүү тогтоолын хэрэгжилтэд -> хяналт тавьж ажиллахыг -> Хууль зүйн сайдад -> үүрэг болгосугай."
+              },
+              "detailedGrammarNote": "The assigned obligation appears as an accusative verbal noun ('ажиллахыг'), the designated official takes the dative ('сайдад'), and the sovereign verb 'үүрэг болгосугай' anchors the decree.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Энэхүү тогтоолын хэрэгжилтэд хяналт тавьж ажиллахыг Хууль зүйн сайдад үүрэг болгосугай.",
+                "slowSpeechSynthesisText": "хяналт тавьж ажиллахыг сайдад үүрэг болгосугай.",
+                "ipaTranscription": "/enəxuː tʰɔxtʰɔːɮiːŋ xirəkʰtʃʰiɮtʰət xʲanaɮtʰ tʰæwʲtʃʰ atʃʰiɮɮəxiːɡ xʊːɮʲ tsʊiŋ sæːtʰət ʊːrəkʰ pɔɮɢɔsʊɢæː/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "TOKEN_ORDER"
+              },
+              "lessonId": "les_c1_198_01_administrative_chancellery_syntax_intro",
+              "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+              "cefrLevel": "C1"
+            },
+            {
+              "exerciseId": "ex_c1_198_01_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "Cloze Insertion: Chancellery Impersonal Agency Particle",
+              "modality": "CONSTITUTIONAL_STATUTORY_READING",
+              "interactionPattern": "CLOZE_TEXT",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "chancellery_enactment_formula",
+                "cloze_accuracy"
+              ],
+              "grammarTargets": [
+                "gram_c1_administrative_chancellery_syntax"
+              ],
+              "vocabularyTargets": [
+                "нь",
+                "тогтоох нь"
+              ],
+              "prompt": "Fill in the standard administrative topicalizing particle in the enactment heading:\n\n'Монгол Улсын Засгийн газраас ТОГТООХ ______:'",
+              "contextSentence": "Засгийн газраас ТОГТООХ нь: (The Government hereby resolves:)",
+              "stimulusTextCyrillic": "ТОГТООХ ______:",
+              "hint": "Recall the ubiquitous third-person nominalizing/topicalizing enclitic that turns the future verbal noun into a formal chancellery colon introducer.",
+              "correctAnswer": "нь",
+              "acceptableAlternatives": [
+                "нь",
+                "НЬ"
+              ],
+              "explanation": "'ТОГТООХ нь:' (The resolving of the Government is as follows:) is the universal statutory heading separating the preamble from the numbered articles.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! 'ТОГТООХ нь:' correctly formed.",
+                "onFailure": "Remember that 'ТОГТООХ нь:' is the canonical administrative enactment heading."
+              },
+              "detailedGrammarNote": "Verbal noun in -х + 'нь' functions as a formal performative colon-introducer in Mongolian administrative legislation ('ТОГТООХ нь:', 'ЗАХИРАМЖЛАХ нь:').",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Монгол Улсын Засгийн газраас тогтоох нь.",
+                "slowSpeechSynthesisText": "тогтоох нь.",
+                "ipaTranscription": "/mɔŋɢəɮ ʊɮsiːŋ tsasɡiːŋ ɢatsraːs tʰɔxtʰɔːx nʲ/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "NORMALIZED_TEXT",
+                "caseSensitive": false,
+                "stripPunctuation": true,
+                "normalizeWhitespace": true
+              },
+              "lessonId": "les_c1_198_01_administrative_chancellery_syntax_intro",
+              "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+              "cefrLevel": "C1"
+            },
+            {
+              "exerciseId": "ex_c1_198_01_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "Ambiguity Resolution in Administrative Compound Modifiers",
+              "modality": "CONSTITUTIONAL_STATUTORY_READING",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "EVALUATE_PRAGMATICS",
+              "skillTargets": [
+                "statutory_ambiguity_resolution",
+                "legal_interpretation"
+              ],
+              "grammarTargets": [
+                "gram_c1_administrative_chancellery_syntax"
+              ],
+              "vocabularyTargets": [
+                "хуульд өөрөөр заагаагүй бол",
+                "эрх бүхий байгууллага"
+              ],
+              "prompt": "Interpret the statutory proviso: 'Хуульд өөрөөр заагаагүй бол, тусгай зөвшөөрлийг эрх бүхий төрийн захиргааны төв байгууллага олгоно.' (Unless otherwise provided by law, the competent central state administrative body shall issue special licenses.)\n\nWhat happens if another specific statute explicitly designates a different agency to issue a license?",
+              "stimulusTextCyrillic": "Хуульд өөрөөр заагаагүй бол...",
+              "hint": "'Хуульд өөрөөр заагаагүй бол' is a default fallback clause that yields to lex specialis (specific statutes).",
+              "options": [
+                {
+                  "id": "amb_yield",
+                  "text": "The specific statute takes precedence (lex specialis derogat legi generali); this general clause only applies when no specific statutory provision exists.",
+                  "cyrillic": "Тусгайлан заасан хуулийн заалт давамгайлна",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'Хуульд өөрөөр заагаагүй бол' is the universal Mongolian chancellery phrase establishing a default rule subject to specific statutory overrides."
+                },
+                {
+                  "id": "amb_ignore",
+                  "text": "The specific statute is invalidated and this general clause always overrules everything.",
+                  "cyrillic": "Бусад хуулийг хүчингүй болгоно",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'Өөрөөр заагаагүй бол' explicitly defers to specific legislation."
+                },
+                {
+                  "id": "amb_void",
+                  "text": "No entity is allowed to issue licenses at all.",
+                  "cyrillic": "Олгохгүй",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The clause provides a clear regulatory path."
+                }
+              ],
+              "correctAnswer": "The specific statute takes precedence (lex specialis derogat legi generali); this general clause only applies when no specific statutory provision exists.",
+              "acceptableAlternatives": [
+                "The specific statute takes precedence",
+                "Тусгайлан заасан хуулийн заалт давамгайлна"
+              ],
+              "explanation": "'Хуульд өөрөөр заагаагүй бол' (Unless otherwise stipulated in law) establishes default administrative jurisdiction while preserving higher statutory specificity.",
+              "learnerFeedback": {
+                "onSuccess": "Сайн байна! Rigorous jurisprudential understanding of chancellery provisos.",
+                "onFailure": "'Хуульд өөрөөр заагаагүй бол' yields whenever a specific law provides otherwise."
+              },
+              "detailedGrammarNote": "Dative 'хуульд' + manner adverb 'өөрөөр' + negative past participle 'заагаагүй' + conditional 'бол' constitutes the most ubiquitous jurisdictional qualifier in statutory Mongolian.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Хуульд өөрөөр заагаагүй бол тусгай зөвшөөрлийг эрх бүхий байгууллага олгоно.",
+                "slowSpeechSynthesisText": "Хуульд өөрөөр заагаагүй бол.",
+                "ipaTranscription": "/xʊːɮʲtʰ ɵːrɵːr tsaːɢaːɢuː pɔɮ tʰʊst͡sæː tsɵwʃɵːrɮiːɡ erx puxiː pæːɢʊːɮɮəɢ ɔɮɢɔn/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_c1_198_01_administrative_chancellery_syntax_intro",
+              "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+              "cefrLevel": "C1"
+            }
+          ],
+          "exerciseCount": 5
+        },
+        {
+          "id": "les_c1_198_02_constitutional_articles_parsing_reading",
+          "title": "Statutory Reading: Sovereign Rights & Constitutional Separation of Powers",
+          "cyrillicTitle": "Extract precise institutional boundaries, statutory caveats, and legislative checks from authoritative constitutional articles.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an unabridged 520-word excerpt from Chapter 1 and Chapter 3 of the 1992 Democratic Constitution of Mongolia, examining sovereign rights declarations, parliamentary prerogatives, and executive checks.",
+          "communicativeOutcome": "Extract precise institutional boundaries, statutory caveats, and legislative checks from authoritative constitutional articles.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an unabridged 520-word excerpt from Chapter 1 and Chapter 3 of the 1992 Democratic Constitution of Mongolia, examining sovereign rights declarations, parliamentary prerogatives, and executive checks.",
+            "keyPoints": [
+              "obj_c1_198_02_interpret_constitutional_declarations"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_c1_198_02_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Constitutional Statutory Parsing: Article 16 Fundamental Rights",
+              "modality": "CONSTITUTIONAL_STATUTORY_READING",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "constitutional_interpretation",
+                "statutory_parsing"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "амьд явах эрх",
+                "халдашгүй чөлөөтэй байх эрх",
+                "үндсэн эрх"
+              ],
+              "prompt": "Read the authentic excerpt from Article 16, Clause 1 of the 1992 Democratic Constitution of Mongolia:\n\n'Монгол Улсын иргэн дараах үндсэн эрх, эрх чөлөөг баталгаатай эдэлнэ:\n1/ Амьд явах эрхтэй. Монгол Улсын Эрүүгийн хуульд заасан онц хүнд гэмт хэрэг үйлдсэний учир шүүхийн хүчин төгөлдөр тогтоолоор ялын дээд хэмжээ оногдуулснаас бусад тохиолдолд хүний амь нас бусниулахыг хатуу хориглоно.'\n\nWhat is the strict constitutional threshold established for limiting the fundamental right to life?",
+              "stimulusTextCyrillic": "шүүхийн хүчин төгөлдөр тогтоолоор ... бусад тохиолдолд хүний амь нас бусниулахыг хатуу хориглоно",
+              "hint": "Note the strict procedural requirement: only upon a valid court judgment for extraordinarily grave crimes defined specifically in the Criminal Code.",
+              "options": [
+                {
+                  "id": "thresh_court",
+                  "text": "It can strictly only occur upon a legally in-force final court judgment for exceptionally grave crimes explicitly prescribed in the Criminal Code; in all other instances, deprivation of life is strictly prohibited.",
+                  "cyrillic": "Шүүхийн хүчин төгөлдөр тогтоолоос бусад тохиолдолд хатуу хориглох",
+                  "isCorrect": true,
+                  "explanation": "Correct! The constitutional text permits limitation only under in-force judicial sentence for statutorily defined grave crimes."
+                },
+                {
+                  "id": "thresh_executive",
+                  "text": "The Prime Minister or police can suspend the right to life during economic downturns.",
+                  "cyrillic": "Захиргааны шийдвэрээр",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The executive branch has zero power to alter this right."
+                },
+                {
+                  "id": "thresh_absolute_no_court",
+                  "text": "The text states the right to life cannot be regulated by any court under any circumstance.",
+                  "cyrillic": "Шүүх хамаарахгүй",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The text contains the historical proviso regarding judicial sentencing."
+                }
+              ],
+              "correctAnswer": "It can strictly only occur upon a legally in-force final court judgment for exceptionally grave crimes explicitly prescribed in the Criminal Code; in all other instances, deprivation of life is strictly prohibited.",
+              "acceptableAlternatives": [
+                "Only upon an in-force court judgment",
+                "Шүүхийн хүчин төгөлдөр тогтоолоор"
+              ],
+              "explanation": "Article 16.1 enshrines the right to life ('Амьд явах эрхтэй') with absolute procedural safeguards ('хүчин төгөлдөр тогтоолоор... бусад тохиолдолд хатуу хориглоно').",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! Precise statutory deconstruction of constitutional protections.",
+                "onFailure": "The text requires a final in-force court verdict: 'шүүхийн хүчин төгөлдөр тогтоол'."
+              },
+              "detailedGrammarNote": "'Хүчин төгөлдөр' (legally valid / in-force) + 'тогтоол' (judicial decision) is the cornerstone phrase of procedural due process in Mongolian jurisprudence.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Шүүхийн хүчин төгөлдөр тогтоолоор ялын дээд хэмжээ оногдуулснаас бусад тохиолдолд хүний амь нас бусниулахыг хатуу хориглоно.",
+                "slowSpeechSynthesisText": "хүний амь нас бусниулахыг хатуу хориглоно.",
+                "ipaTranscription": "/ʃuːxiːŋ xutʃʰiŋ tʰɵɡɵɮtɵr tʰɔxtʰɔːɮɔːr jaɮiːŋ tʰeːtʰ ximtʃʰeː ɔnɔɡtʰʊːɮsnaːs pʊsətʰ tʰɔxʲɔɮtʰɔɮtʰ xuniː amʲ nas pʊsʲnʲʊːɮəxiːɡ xatʰʊː xɔrʲiɡɮɔn/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_c1_198_02_constitutional_articles_parsing_reading",
+              "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+              "cefrLevel": "C1"
+            },
+            {
+              "exerciseId": "ex_c1_198_02_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "Distinguishing Legal Terms of Art: Due Process & Inviolability",
+              "modality": "CONSTITUTIONAL_STATUTORY_READING",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "jurisprudential_lexicon",
+                "term_differentiation"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "халдашгүй чөлөөтэй байх эрх",
+                "тэгш эрх"
+              ],
+              "prompt": "Article 16, Clause 13 guarantees: 'Халдашгүй, чөлөөтэй байх эрхтэй. Хуульд заасан үндэслэл, журмаас гадуур хэнийг ч нэгжих, баривчлах, хорих, мөрдөн мөшгих, эрх чөлөөг нь хязгаарлахыг хориглоно.'\n\nWhat legal concept corresponds to 'Хуульд заасан үндэслэл, журмаас гадуур хэнийг ч баривчлахыг хориглоно'?",
+              "stimulusTextCyrillic": "Хуульд заасан үндэслэл, журмаас гадуур хэнийг ч баривчлахыг хориглоно",
+              "hint": "Think of the constitutional principle ensuring protection against arbitrary arrest: Due Process / Habeas Corpus.",
+              "options": [
+                {
+                  "id": "term_habeas",
+                  "text": "Procedural Due Process and Freedom from Arbitrary Detention (Habeas Corpus principle).",
+                  "cyrillic": "Хууль ёсны дагуу баривчлах, дур мэдэн хорихыг хориглох зарчим",
+                  "isCorrect": true,
+                  "explanation": "Correct! Forbidding arrest 'outside grounds and procedures established by law' embodies procedural due process."
+                },
+                {
+                  "id": "term_property",
+                  "text": "Eminent domain compensation for real estate seizure.",
+                  "cyrillic": "Өмчлөх эрх",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. This clause protects personal bodily liberty, not property."
+                },
+                {
+                  "id": "term_speech",
+                  "text": "Freedom of the press and publication.",
+                  "cyrillic": "Хэвлэн нийтлэх эрх",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Clause 13 protects bodily security and liberty."
+                }
+              ],
+              "correctAnswer": "Procedural Due Process and Freedom from Arbitrary Detention (Habeas Corpus principle).",
+              "acceptableAlternatives": [
+                "Procedural Due Process",
+                "Хууль ёсны дагуу баривчлах зарчим"
+              ],
+              "explanation": "'Халдашгүй, чөлөөтэй байх эрх' guarantees personal inviolability; prohibiting arrest outside statutory procedure ('үндэслэл, журмаас гадуур') enshrines due process.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! Accurate constitutional jurisprudence recognition.",
+                "onFailure": "This guarantees due process and protection against arbitrary detention."
+              },
+              "detailedGrammarNote": "'Халдашгүй' derives from verb 'халдах' (to violate/trespass) with the passive potential modal suffix -шгүй ('that which cannot be violated / inviolable').",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Хуульд заасан үндэслэл, журмаас гадуур хэнийг ч баривчлах, хорихыг хориглоно.",
+                "slowSpeechSynthesisText": "үндэслэл, журмаас гадуур баривчлахыг хориглоно.",
+                "ipaTranscription": "/xʊːɮʲtʰ tsaːsəŋ untəsɮəɮ, tʃʰʊrmraːs ɢatʊːr xiniːɡ tʃʰ pʰarʲiwtʃʰɮəx, xɔrʲixiːɡ xɔrʲiɡɮɔn/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_c1_198_02_constitutional_articles_parsing_reading",
+              "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+              "cefrLevel": "C1"
+            },
+            {
+              "exerciseId": "ex_c1_198_02_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "Token Assembly: Judicial Torture Prohibition Mandate",
+              "modality": "CONSTITUTIONAL_STATUTORY_READING",
+              "interactionPattern": "TOKEN_REARRANGEMENT",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "statutory_syntax",
+                "prohibition_formulation"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "эрүү шүүлт",
+                "хүнлэг бус",
+                "хориглоно"
+              ],
+              "prompt": "Reconstruct this non-derogable constitutional mandate from Article 16.13: 'No one shall be subjected to torture, or to cruel, inhuman or degrading treatment':",
+              "wordTokens": [
+                "хэнийг",
+                "харьцахад",
+                "ч",
+                "бус",
+                "шүүлт",
+                "хориглоно",
+                "хүнлэг",
+                "эрүү",
+                "тулгах"
+              ],
+              "correctTokenOrder": [
+                "хэнийг",
+                "ч",
+                "эрүү",
+                "шүүлт",
+                "тулгах",
+                "хүнлэг",
+                "бус",
+                "харьцахад",
+                "хориглоно"
+              ],
+              "correctAnswer": "хэнийг ч эрүү шүүлт тулгах, хүнлэг бус харьцахад хориглоно",
+              "acceptableAlternatives": [
+                "хэнийг ч эрүү шүүлт тулгах хүнлэг бус харьцахад хориглоно",
+                "Хэнийг ч эрүү шүүлт тулгах, хүнлэг бус харьцахад хориглоно.",
+                "Хэнийг ч эрүү шүүлт тулгахыг хориглоно",
+                "хэнийг ч эрүү шүүлт тулгахыг хүнлэг бус харьцахад хориглоно"
+              ],
+              "hint": "Structure the negative polarity pronoun and particle first ('хэнийг ч'), followed by the compound crime ('эрүү шүүлт') and its verbal modifier, before concluding with the prohibition.",
+              "explanation": "Constitutional formulation: 'Хэнийг ч эрүү шүүлт тулгах... хатуу хориглоно'. 'Эрүү шүүлт' is the statutory term for torture.",
+              "learnerFeedback": {
+                "onSuccess": "Сайн байна! Exact constitutional syntax reassembled.",
+                "onFailure": "Sequence: хэнийг -> ч -> эрүү -> шүүлт -> тулгах -> хүнлэг -> бус -> харьцахад -> хориглоно."
+              },
+              "detailedGrammarNote": "'Эрүү шүүлт' (torture) is a compound noun originating in classical legal terminology, codified in contemporary Mongolian criminal jurisprudence.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Хэнийг ч эрүү шүүлт тулгах, хүнлэг бус харьцахад хориглоно.",
+                "slowSpeechSynthesisText": "хэнийг ч эрүү шүүлт тулгахыг хориглоно.",
+                "ipaTranscription": "/xiniːɡ tʃʰ eruː ʃuːɮtʰ tʰʊɮɢəx, xunɮəɡ pʊs xarʲtsʰəxət xɔrʲiɡɮɔn/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "TOKEN_ORDER"
+              },
+              "lessonId": "les_c1_198_02_constitutional_articles_parsing_reading",
+              "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+              "cefrLevel": "C1"
+            },
+            {
+              "exerciseId": "ex_c1_198_02_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "Cloze Insertion: Judicial Inviolability and Independence",
+              "modality": "CONSTITUTIONAL_STATUTORY_READING",
+              "interactionPattern": "CLOZE_TEXT",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "constitutional_doctrine_cloze",
+                "judicial_independence"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "хараат бус",
+                "шүүгч"
+              ],
+              "prompt": "Complete the bedrock constitutional doctrine on the separation of judicial powers from Article 49:\n\n'Шүүгч хараат бус байж, гагцхүү _______ захирагдана.' (Judges shall be independent and subject only to the law.)",
+              "stimulusTextCyrillic": "гагцхүү _______ захирагдана",
+              "hint": "Inflect the nominal root for 'law' into the dative-locative case (-д/-т) following a soft sign (ь).",
+              "correctAnswer": "хуульд",
+              "acceptableAlternatives": [
+                "хуульд",
+                "Хуульд"
+              ],
+              "explanation": "'Гагцхүү хуульд захирагдана' (shall be subject only to the law) is the fundamental constitutional formula establishing the independence of the judiciary.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! 'гагцхүү хуульд захирагдана' is the classic constitutional declaration.",
+                "onFailure": "Remember that 'хууль' takes the dative suffix -д to denote legal subordination ('хуульд захирагдана')."
+              },
+              "detailedGrammarNote": "'Гагцхүү' (only, solely) is an elevated restrictive particle governing the dative passive verb 'захирагдана' (is subjugated to / bound by).",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Шүүгч хараат бус байж, гагцхүү хуульд захирагдана.",
+                "slowSpeechSynthesisText": "гагцхүү хуульд захирагдана.",
+                "ipaTranscription": "/ʃuːɡtʃʰ xaraːtʰ pʊs pæːtʃʰ, ɢaɢtsʰxuː xʊːɮʲtʰ tsaxʲirəɢtən/",
+                "speakerRole": "female_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "NORMALIZED_TEXT",
+                "caseSensitive": false,
+                "stripPunctuation": true,
+                "normalizeWhitespace": true
+              },
+              "lessonId": "les_c1_198_02_constitutional_articles_parsing_reading",
+              "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+              "cefrLevel": "C1"
+            },
+            {
+              "exerciseId": "ex_c1_198_02_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "Constitutional Court (Цэц) Petition Interpretation",
+              "modality": "CONSTITUTIONAL_STATUTORY_READING",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "EVALUATE_PRAGMATICS",
+              "skillTargets": [
+                "constitutional_court_discourse",
+                "jurisprudential_conflict"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "Үндсэн хуулийн цэц",
+                "зөрчсөн тухай",
+                "дүгнэлт"
+              ],
+              "prompt": "Read the summary of a petition submitted to the Constitutional Court of Mongolia (Үндсэн хуулийн цэц):\n\n'Иргэн Д-гээс гаргасан мэдээлэлд: \"Эрүүгийн хэрэг хянан шийдвэрлэх тухай хуулийн холбогдох заалт нь хүний халдашгүй чөлөөтэй байх эрхийг шүүхийн зөвшөөрөлгүйгээр 48 цагаас илүү хугацаагаар хязгаарлах боломж олгож байгаа нь Монгол Улсын Үндсэн хуулийн 16 дугаар зүйлийн 13 дахь заалтыг зөрчсөн\" гэжээ.'\n\nWhat is the substantive constitutional dispute raised by the petitioner?",
+              "stimulusTextCyrillic": "шүүхийн зөвшөөрөлгүйгээр 48 цагаас илүү хугацаагаар хязгаарлах нь Үндсэн хууль зөрчсөн",
+              "hint": "The petitioner claims allowing detention beyond 48 hours without judicial warrant directly breaches the constitutional guarantee of personal inviolability.",
+              "options": [
+                {
+                  "id": "tsets_detention",
+                  "text": "Statutory detention of a citizen beyond 48 hours without judicial warrant infringes the constitutional protection of personal liberty and inviolability.",
+                  "cyrillic": "Шүүхийн шийдвэргүйгээр 48 цагаас илүү хорих нь Үндсэн хууль зөрчинө",
+                  "isCorrect": true,
+                  "explanation": "Correct! The petition challenges the procedural duration of warrantless detention under the Criminal Procedure Code."
+                },
+                {
+                  "id": "tsets_fee",
+                  "text": "The citizen is protesting against paying court filing administrative fees.",
+                  "cyrillic": "Төлбөр",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. No fee dispute is present."
+                },
+                {
+                  "id": "tsets_electoral",
+                  "text": "The petition challenges the election results of parliamentary representatives.",
+                  "cyrillic": "Сонгуулийн маргаан",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. This is a fundamental human rights petition regarding liberty."
+                }
+              ],
+              "correctAnswer": "Statutory detention of a citizen beyond 48 hours without judicial warrant infringes the constitutional protection of personal liberty and inviolability.",
+              "acceptableAlternatives": [
+                "Statutory detention beyond 48 hours without judicial warrant infringes the Constitution",
+                "48 цагаас илүү баривчлах нь Үндсэн хууль зөрчинө"
+              ],
+              "explanation": "Constitutional jurisprudence in Mongolia strictly limits warrantless detention to 48 hours; any statutory expansion triggers immediate Constitutional Court challenge.",
+              "learnerFeedback": {
+                "onSuccess": "Төгс! Advanced legal reasoning and constitutional petition analysis.",
+                "onFailure": "The challenge focuses on warrantless detention exceeding 48 hours."
+              },
+              "detailedGrammarNote": "'Үндсэн хуулийн цэц' (Constitutional Court) exercises exclusive judicial review over statutory compliance with the 1992 Constitution.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Шүүхийн зөвшөөрөлгүйгээр хүнийг баривчлах хугацааг хуулиар хязгаарласан байдаг.",
+                "slowSpeechSynthesisText": "шүүхийн зөвшөөрөлгүйгээр баривчлах хугацаа.",
+                "ipaTranscription": "/ʃuːxiːŋ tsɵwʃɵːrɵɮɡuːɡeːr xuniːɡ pʰarʲiwtʃʰɮəx xʊɢatsʰaːɡ xʊːɮʲaːr xʲatsɢaːrɮəsəŋ pæːtəɡ/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_c1_198_02_constitutional_articles_parsing_reading",
+              "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+              "cefrLevel": "C1"
+            }
+          ],
+          "exerciseCount": 5
+        },
+        {
+          "id": "les_c1_198_03_sovereign_rights_commentary_writing",
+          "title": "Legal Commentary Writing: Jurisprudential Analysis of Article 16 Fundamental Rights",
+          "cyrillicTitle": "Produce rigorous juristic prose evaluating how constitutional rights are balanced against public security and statutory limitations.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 420-word scholarly legal commentary analyzing the scope and limitations of citizen fundamental rights under Article 16 of the Constitution, deploying state chancellery syntax.",
+          "communicativeOutcome": "Produce rigorous juristic prose evaluating how constitutional rights are balanced against public security and statutory limitations.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a 420-word scholarly legal commentary analyzing the scope and limitations of citizen fundamental rights under Article 16 of the Constitution, deploying state chancellery syntax.",
+            "keyPoints": [
+              "obj_c1_198_03_author_juristic_commentary"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_c1_198_03_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Structuring a Jurisprudential Commentary (Эрх зүйн нийтлэл)",
+              "modality": "JURISPRUDENTIAL_LEGAL_COMMENTARY",
+              "interactionPattern": "TOKEN_REARRANGEMENT",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "legal_commentary_structure",
+                "macro_argumentation"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "хууль зүйн үндэслэл",
+                "дүгнэлт",
+                "маргаантай асуудал"
+              ],
+              "prompt": "Arrange the core sections of a formal jurisprudential commentary into canonical scholarly legal sequence:",
+              "wordTokens": [
+                "Дүгнэлт ба зөвлөмж",
+                "Хууль зүйн үндэслэл ба нотолгоо",
+                "Асуудлын тодорхойлолт",
+                "Хууль тогтоомжийн харьцуулсан шинжилгээ"
+              ],
+              "correctTokenOrder": [
+                "Асуудлын тодорхойлолт",
+                "Хууль тогтоомжийн харьцуулсан шинжилгээ",
+                "Хууль зүйн үндэслэл ба нотолгоо",
+                "Дүгнэлт ба зөвлөмж"
+              ],
+              "correctAnswer": "Асуудлын тодорхойлолт, Хууль тогтоомжийн харьцуулсан шинжилгээ, Хууль зүйн үндэслэл ба нотолгоо, Дүгнэлт ба зөвлөмж",
+              "acceptableAlternatives": [
+                "Асуудлын тодорхойлолт Хууль тогтоомжийн харьцуулсан шинжилгээ Хууль зүйн үндэслэл ба нотолгоо Дүгнэлт ба зөвлөмж"
+              ],
+              "hint": "1. Issue Definition -> 2. Statutory Analysis -> 3. Evidentiary Justification -> 4. Conclusion & Recommendations.",
+              "explanation": "Scholarly Mongolian legal writing follows strict progression: 1. Асуудлын тодорхойлолт (Statement of Issue) -> 2. Хууль тогтоомжийн харьцуулсан шинжилгээ (Comparative Statutory Analysis) -> 3. Хууль зүйн үндэслэл (Jurisprudential Arguments) -> 4. Дүгнэлт ба зөвлөмж (Conclusion & Recommendations).",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! Authoritative structural sequencing of legal analysis.",
+                "onFailure": "Sequence: Асуудлын тодорхойлолт -> Харьцуулсан шинжилгээ -> Үндэслэл -> Дүгнэлт."
+              },
+              "detailedGrammarNote": "Legal commentaries ('Эрх зүйн нийтлэл / Эрдэм шинжилгээний өгүүлэл') require rigorous formal architecture to establish academic and judicial credibility.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Эрх зүйн нийтлэл нь асуудлын тодорхойлолт, хууль зүйн дүн шинжилгээ, дүгнэлтээс бүрдэнэ.",
+                "slowSpeechSynthesisText": "асуудлын тодорхойлолт, хууль зүйн үндэслэл, дүгнэлт.",
+                "ipaTranscription": "/erx tsʊiŋ nʲiːtʰɮəɮ nʲ asʊːtɮiːŋ tʰɔtʰɔrxɔeɮɔɮtʰ, xʊːɮʲ tsʊiŋ tʰuŋ ʃintʃʰiɮɡeː, tʰuɡnəɮtʰeːs pʊrtən/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "TOKEN_ORDER"
+              },
+              "lessonId": "les_c1_198_03_sovereign_rights_commentary_writing",
+              "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+              "cefrLevel": "C1"
+            },
+            {
+              "exerciseId": "ex_c1_198_03_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "High-Register Concessive and Conditional Legal Qualifications",
+              "modality": "JURISPRUDENTIAL_LEGAL_COMMENTARY",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
+              "skillTargets": [
+                "legal_qualification",
+                "concessive_syntax"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "үл харгалзан",
+                "хэдий тийм боловч",
+                "хязгаарласнаас бусад тохиолдолд"
+              ],
+              "prompt": "Which sentence demonstrates the appropriate high-register concessive legal qualification for reconciling public health emergencies with constitutional civil liberties?",
+              "hint": "Combine the modal converb for 'notwithstanding' with the statutory limitation proviso ('except where specifically restricted by statute').",
+              "options": [
+                {
+                  "id": "qual_scholarly",
+                  "text": "Онцгой дэглэм тогтоосон нөхцөл байдлыг үл харгалзан, Үндсэн хуульд тусгайлан заасан язгуур эрхийг хуулиар хязгаарласнаас бусад тохиолдолд дур мэдэн хязгаарлах нь эрх зүйт төрийн зарчимд үл нийцнэ. (Notwithstanding the circumstances of an emergency regime, arbitrarily curtailing fundamental rights explicitly guaranteed by the Constitution—except where specifically restricted by statute—contravenes the principle of the rule of law.)",
+                  "cyrillic": "Нөхцөл байдлыг үл харгалзан ... дур мэдэн хязгаарлах нь үл нийцнэ",
+                  "isCorrect": true,
+                  "explanation": "Correct! High-register chancellery phrasing incorporating modal converb 'үл харгалзан' and formal negation 'үл нийцнэ'."
+                },
+                {
+                  "id": "qual_weak",
+                  "text": "Өвчин гарсан ч гэсэн хүмүүсийг хорьж болохгүй гэж бодож байна. (Even if sickness came, I think we shouldn't lock folks up.)",
+                  "cyrillic": "болохгүй гэж бодож байна",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Conversational, colloquial, and devoid of legal authority."
+                },
+                {
+                  "id": "qual_unilateral",
+                  "text": "Гүйцэтгэх засаглалын тэргүүн онцгой дэглэмийн үед хүний эрхийг дур мэдэн хязгаарлах бүрэн эрхтэй гэж үзэх нь зүйтэй. (It is appropriate to deem that the head of the executive branch holds full authority to arbitrarily restrict human rights during an emergency regime.)",
+                  "cyrillic": "дур мэдэн хязгаарлах бүрэн эрхтэй",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Contravenes the constitutional supremacy and non-derogable rights doctrine."
+                }
+              ],
+              "correctAnswer": "Онцгой дэглэм тогтоосон нөхцөл байдлыг үл харгалзан, Үндсэн хуульд тусгайлан заасан язгуур эрхийг хуулиар хязгаарласнаас бусад тохиолдолд дур мэдэн хязгаарлах нь эрх зүйт төрийн зарчимд үл нийцнэ. (Notwithstanding the circumstances of an emergency regime, arbitrarily curtailing fundamental rights explicitly guaranteed by the Constitution—except where specifically restricted by statute—contravenes the principle of the rule of law.)",
+              "acceptableAlternatives": [
+                "Онцгой дэглэм тогтоосон нөхцөл байдлыг үл харгалзан"
+              ],
+              "explanation": "Advanced legal commentary employs compound concessives ('үл харгалзан' = notwithstanding) and absolute negative verb prefixes ('үл нийцнэ' = does not conform to).",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! Flawless jurisprudential balance and scholarly qualification.",
+                "onFailure": "Use 'үл харгалзан' and formal chancellery syntax."
+              },
+              "detailedGrammarNote": "The negative particle 'үл' prefixed directly to present-future finite verbs ('үл нийцнэ', 'үл болно') is a hallmark of formal Mongolian juridical style.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Язгуур эрхийг хууль бусаар хязгаарлах нь эрх зүйт төрийн зарчимд үл нийцнэ.",
+                "slowSpeechSynthesisText": "эрх зүйт төрийн зарчимд үл нийцнэ.",
+                "ipaTranscription": "/jazɢʊːr erxiːɡ xʊːɮʲ pʊsaːr xʲatsɢaːrɮəx nʲ erx tsʊitʰ tʰɵriːŋ tsartʃʰimtʰ uɮ nʲiːtsʰnə/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_c1_198_03_sovereign_rights_commentary_writing",
+              "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+              "cefrLevel": "C1"
+            },
+            {
+              "exerciseId": "ex_c1_198_03_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "Drafting an Amicus Curiae Legal Argument on Proportionality",
+              "modality": "JURISPRUDENTIAL_LEGAL_COMMENTARY",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
+              "skillTargets": [
+                "proportionality_principle_writing",
+                "legal_argumentation"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "зохистой харьцааны зарчим",
+                "үндэслэлтэй байх"
+              ],
+              "prompt": "How is the international legal doctrine of 'proportionality' (the measure must be suitable, necessary, and proportionate to the legitimate aim) formulated in authoritative Mongolian legal jurisprudence?",
+              "hint": "Recall the bedrock administrative and constitutional law test requiring that state interventions be suitable, strictly necessary, and inflict the least possible intrusion on rights.",
+              "options": [
+                {
+                  "id": "prop_formal",
+                  "text": "Зохистой харьцааны зарчим: Төрийн байгууллагаас иргэний эрхийг хязгаарлахдаа тавьсан зорилгодоо нийцсэн, хамгийн бага хохирол учруулах хувилбарыг сонгосон байх шаардлага. (The principle of proportionality: The requirement that when limiting citizen rights, state organs must choose the measure that is suited to the stated objective and inflicts the least harm.)",
+                  "cyrillic": "Зохистой харьцааны зарчим",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'Зохистой харьцааны зарчим' is the authoritative Mongolian legal term for proportionality in constitutional and administrative law."
+                },
+                {
+                  "id": "prop_legitimacy",
+                  "text": "Хууль ёсны итгэлийг хамгаалах зарчим: Төрийн байгууллагын хууль ёсны шийдвэрт итгэсэн иргэний эрх ашгийг хамгаалах шаардлага. (Principle of legitimate expectations: The requirement to protect the rights of citizens who relied on official state decisions.)",
+                  "cyrillic": "Хууль ёсны итгэлийг хамгаалах зарчим",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. This defines legitimate expectation (Vertrauensschutz), not proportionality."
+                },
+                {
+                  "id": "prop_equity",
+                  "text": "Шударга ёсыг тэгш хангах зарчим: Бүх оролцогчдод процессын хувьд адил тэгш боломж олгох шаардлага. (Principle of procedural equity: The requirement to grant identical procedural opportunities to all participants.)",
+                  "cyrillic": "Шударга ёсыг тэгш хангах зарчим",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. This refers to procedural due process and equality before the law."
+                }
+              ],
+              "correctAnswer": "Зохистой харьцааны зарчим: Төрийн байгууллагаас иргэний эрхийг хязгаарлахдаа тавьсан зорилгодоо нийцсэн, хамгийн бага хохирол учруулах хувилбарыг сонгосон байх шаардлага. (The principle of proportionality: The requirement that when limiting citizen rights, state organs must choose the measure that is suited to the stated objective and inflicts the least harm.)",
+              "acceptableAlternatives": [
+                "Зохистой харьцааны зарчим",
+                "Principle of proportionality"
+              ],
+              "explanation": "'Зохистой харьцааны зарчим' governs all legitimate state limitations on constitutional rights in Modern Mongolian jurisprudence.",
+              "learnerFeedback": {
+                "onSuccess": "Сайн байна! 'Зохистой харьцааны зарчим' is the exact legal doctrine.",
+                "onFailure": "Proportionality in Mongolian jurisprudence is 'Зохистой харьцааны зарчим'."
+              },
+              "detailedGrammarNote": "Adopted into the General Administrative Law of Mongolia (Захиргааны ерөнхий хууль), this doctrine binds administrative agencies under Article 4.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Төрийн үйл ажиллагаанд зохистой харьцааны зарчмыг чанд баримтлах үүрэгтэй.",
+                "slowSpeechSynthesisText": "зохистой харьцааны зарчим.",
+                "ipaTranscription": "/tʰɵriːŋ uæɮ atʃʰiɮɮaɢaːntʰ tsɔxʲistʰɔe xartʃʰaːniː tsartʃʰmiːɡ tʃʰaŋtʰ pʰarʲimtʰɮəx ʊːrəkʰtʰeː/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_c1_198_03_sovereign_rights_commentary_writing",
+              "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+              "cefrLevel": "C1"
+            },
+            {
+              "exerciseId": "ex_c1_198_03_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "Cloze Insertion: Judicial Precedent and Case Grounding",
+              "modality": "JURISPRUDENTIAL_LEGAL_COMMENTARY",
+              "interactionPattern": "CLOZE_TEXT",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "case_citation_cloze",
+                "legal_commentary"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "Улсын Дээд шүүх",
+                "тайлбар"
+              ],
+              "prompt": "Fill in the blank with the legal term for official judicial interpretation issued by the Supreme Court of Mongolia:\n\n'Энэхүү маргааныг шийдвэрлэхдээ Улсын Дээд шүүхийн албан ёсны _________ иш татах шаардлагатай.' (In resolving this dispute, it is necessary to cite the official interpretation of the Supreme Court.)",
+              "contextSentence": "Дээд шүүхийн албан ёсны тайлбар. (Supreme Court official interpretation.)",
+              "stimulusTextCyrillic": "албан ёсны _________ иш татах",
+              "hint": "Recall the legal term denoting an authoritative judicial interpretation or doctrinal commentary, declined here into the accusative case (-ыг) as the direct object of 'иш татах'.",
+              "correctAnswer": "тайлбарыг",
+              "acceptableAlternatives": [
+                "тайлбар",
+                "тайлбарыг",
+                "Тайлбарыг"
+              ],
+              "explanation": "'Улсын Дээд шүүхийн албан ёсны тайлбар' (Official Interpretation of the Supreme Court) provides authoritative guidance on statutory application.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! 'тайлбар' (in accusative: 'тайлбарыг') correctly cited.",
+                "onFailure": "Remember that 'тайлбарыг иш татах' denotes citing an official Supreme Court judicial interpretation."
+              },
+              "detailedGrammarNote": "Under Article 50 of the Constitution, the Supreme Court issues binding interpretations ('албан ёсны тайлбар') to ensure uniform national law enforcement.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Улсын Дээд шүүхийн албан ёсны тайлбарыг иш татах шаардлагатай.",
+                "slowSpeechSynthesisText": "албан ёсны тайлбарыг иш татах.",
+                "ipaTranscription": "/ʊɮsiːŋ tʰeːtʰ ʃuːxiːŋ aɮpəŋ jɵsniː tʰæːɮpriːɡ iʃ tʰatʰəx ʃaːrtɮəɢtʰaː/",
+                "speakerRole": "female_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "NORMALIZED_TEXT",
+                "caseSensitive": false,
+                "stripPunctuation": true,
+                "normalizeWhitespace": true
+              },
+              "lessonId": "les_c1_198_03_sovereign_rights_commentary_writing",
+              "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+              "cefrLevel": "C1"
+            },
+            {
+              "exerciseId": "ex_c1_198_03_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "C1 Holistic Legal Commentary Rubric Evaluation",
+              "modality": "JURISPRUDENTIAL_LEGAL_COMMENTARY",
+              "interactionPattern": "OPEN_RESPONSE_RUBRIC",
+              "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
+              "skillTargets": [
+                "legal_argument_evaluation",
+                "rubric_assessment"
+              ],
+              "grammarTargets": [
+                "gram_c1_administrative_chancellery_syntax"
+              ],
+              "vocabularyTargets": [
+                "хуулийн хэрэгжилт",
+                "эрх зүйн шинжилгээ",
+                "үндсэн хуулийн хяналт"
+              ],
+              "prompt": "Evaluate this submitted legal commentary paragraph written by an advanced scholar:\n\n'Төрийн нууцын тухай хуулиар мэдээлэл хайх, хүлээн авах иргэний үндсэн эрхийг хязгаарлах нь зөвхөн үндэсний аюулгүй байдлыг хамгаалах зайлшгүй шаардлагад үндэслэсэн байх ёстой. Хэдийгээр төр өөрийн бүрэн эрхийн хүрээнд нууцын зэрэглэл тогтоох эрхтэй боловч, уг хязгаарлалт нь зохистой харьцааны зарчмыг хангаагүй тохиолдолд Үндсэн хуулийн 16 дугаар зүйлийн 17 дахь хэсгийг зөрчсөн гэж үзэх хууль зүйн бүрэн үндэслэлтэй юм.'\n\nEvaluate the paragraph against: 1. Constitutional statutory citation precision, 2. Concessive and balance syntax (хэдийгээр... боловч), 3. Application of the proportionality doctrine.",
+              "stimulusTextCyrillic": "Төрийн нууцын тухай хуулиар ... зохистой харьцааны зарчмыг хангаагүй тохиолдолд Үндсэн хуулийн ... зөрчсөн гэж үзэх бүрэн үндэслэлтэй.",
+              "correctAnswer": "Exemplary C1 jurisprudential commentary exhibiting precise constitutional grounding (Art 16.17), sophisticated concessive syntax (хэдийгээр... боловч), and rigorous operationalization of the proportionality doctrine (зохистой харьцааны зарчим).",
+              "acceptableAlternatives": [
+                "Exemplary C1 jurisprudential commentary",
+                "Шалгуурыг бүрэн хангасан",
+                "Meets all criteria"
+              ],
+              "hint": "Analyze whether the paragraph reconciles state secrets with citizen information rights using the proportionality principle and balanced complex conjunctions.",
+              "explanation": "This text exemplifies authentic C1 legal scholarship: accurate citation (Art. 16.17 - right to seek and receive information), sophisticated antithetical conjunctions ('хэдийгээр... боловч'), and sound doctrine ('зохистой харьцааны зарчим').",
+              "learnerFeedback": {
+                "onSuccess": "Төгс! High-level jurisprudential critical evaluation executed flawlessly.",
+                "onFailure": "Check statutory citations, concessive conjunctions, and proportionality doctrine."
+              },
+              "detailedGrammarNote": "Pairing 'хэдийгээр... боловч' (although... nevertheless) with conditional 'тохиолдолд' (in the event that) is standard rhetorical architecture in Mongolian Supreme Court briefs.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Энэхүү эрх зүйн тайлбар нь дүн шинжилгээний өндөр түвшинд боловсруулагдсан байна.",
+                "slowSpeechSynthesisText": "эрх зүйн дүн шинжилгээний үнэлгээ.",
+                "ipaTranscription": "/enəxuː erx tsʊiŋ tʰæːɮpər nʲ tʰuŋ ʃintʃʰiɮɡeːniː ɵntɵr tʰuwʃintʰ pɔɮɔwsrʊːɮəɢtsʰəŋ pæːn/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "RUBRIC_CRITERIA",
+                "rubricCriteria": [
+                  {
+                    "criterion": "Statutory Grounding & Citation",
+                    "points": 35,
+                    "description": "Accurately references constitutional rights (Art. 16.17) and State Secrets Act."
+                  },
+                  {
+                    "criterion": "Syntactic Complexity & Concessive Balance",
+                    "points": 35,
+                    "description": "Deploys 'хэдийгээр... боловч' and conditional participial chaining seamlessly."
+                  },
+                  {
+                    "criterion": "Doctrinal Application (Proportionality)",
+                    "points": 30,
+                    "description": "Integrates 'зохистой харьцааны зарчим' as the test of constitutionality."
+                  }
+                ]
+              },
+              "lessonId": "les_c1_198_03_sovereign_rights_commentary_writing",
+              "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
+              "cefrLevel": "C1"
+            }
+          ],
+          "exerciseCount": 5
+        },
+        {
+          "id": "les_c1_198_04_constitutional_order_deliberation_spoken",
+          "title": "Deliberative Speaking: Defending Constitutional Balances in Judicial Reform",
+          "cyrillicTitle": "Articulate nuanced constitutional principles orally, refuting unconstitutional executive encroachment with measured diplomatic authority.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Engage in an advanced 4-minute spoken juristic defense of constitutional checks and balances during proposed amendments to the Law on Courts.",
+          "communicativeOutcome": "Articulate nuanced constitutional principles orally, refuting unconstitutional executive encroachment with measured diplomatic authority.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide high-register courtroom oral argumentation model demonstrating judicial pacing and controlled oratorical pauses.",
+          "grammarOverview": {
+            "summary": "Engage in an advanced 4-minute spoken juristic defense of constitutional checks and balances during proposed amendments to the Law on Courts.",
+            "keyPoints": [
+              "obj_c1_198_04_defend_constitutional_integrity_orally"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_198_05_parliamentary_debates_on_basic_law_listening",
+          "title": "Acoustic Dissection: Authentic 1991–1992 Constitutional Drafting Debates",
+          "cyrillicTitle": "Comprehend elevated historical political oratory delivered at natural speed (155-175 wpm), tracking diverging philosophies on state sovereignty.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4-minute historical audio recording of the People's Great Khural (Ардын Их Хурал) plenary session debating the balance between state symbols, human rights, and the presidency.",
+          "communicativeOutcome": "Comprehend elevated historical political oratory delivered at natural speed (155-175 wpm), tracking diverging philosophies on state sovereignty.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic uncleaned historical plenary recording with acoustic background resonance of the Government House chamber.",
+          "grammarOverview": {
+            "summary": "Listen to a 4-minute historical audio recording of the People's Great Khural (Ардын Их Хурал) plenary session debating the balance between state symbols, human rights, and the presidency.",
+            "keyPoints": [
+              "obj_c1_198_05_comprehend_historical_parliamentary_debates"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c1_199_archaic_classical_jussives_suffixes",
+      "unitNumber": 199,
+      "title": "Archaic & Classical Jussives: Suffixes -сугай/-түгэй",
+      "cyrillicTitle": "Parsing solemn legislative decrees ('Хуульчилсугай, Мөрдсүгэй')",
+      "description": "Acquire and apply grammatical morphology (gram_c1_archaic_jussive_sugai_tugai) to fulfill communicative functions in: Archaic & Classical Jussives: Suffixes -сугай/-түгэй.",
+      "cefrLevel": "C1",
+      "primaryGrammarTopic": "gram_c1_archaic_jussive_sugai_tugai",
+      "lessons": [
+        {
+          "id": "les_c1_199_01_archaic_jussive_syntax_intro",
+          "title": "Morphosyntax: Archaic & Classical Jussive Suffixes -сугай/-сүгэй & -тугай/-түгэй",
+          "cyrillicTitle": "Deploy formulaic classical jussive suffixes correctly in formal legislative enactments, decree promulgations, and state ceremonial resolutions.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic formation, archaic morphological conditioning, and sovereign performative force of 1st person (-сугай/-сүгэй 'I/we shall hereby') and 3rd person (-тугай/-түгэй 'let it be / may it be enacted') classical jussive suffixes.",
+          "communicativeOutcome": "Deploy formulaic classical jussive suffixes correctly in formal legislative enactments, decree promulgations, and state ceremonial resolutions.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic formation, archaic morphological conditioning, and sovereign performative force of 1st person (-сугай/-сүгэй 'I/we shall hereby') and 3rd person (-тугай/-түгэй 'let it be / may it be enacted') classical jussive suffixes.",
+            "keyPoints": [
+              "obj_c1_199_01_master_classical_jussives"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_199_02_presidential_decree_preambles_reading",
+          "title": "Chancellery Reading: Presidential Decrees & Classical Promulgation Preambles",
+          "cyrillicTitle": "Comprehend state ceremonial decrees, analyzing how constitutional justification preambles transition into binding jussive operative clauses.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an authentic 480-word Presidential Decree (Монгол Улсын Ерөнхийлөгчийн Зарлиг) conferring state honors and enacting national directives using classical jussives.",
+          "communicativeOutcome": "Comprehend state ceremonial decrees, analyzing how constitutional justification preambles transition into binding jussive operative clauses.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an authentic 480-word Presidential Decree (Монгол Улсын Ерөнхийлөгчийн Зарлиг) conferring state honors and enacting national directives using classical jussives.",
+            "keyPoints": [
+              "obj_c1_199_02_parse_presidential_decrees"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_199_03_drafting_statutory_enactments_writing",
+          "title": "Legislative Drafting: Operative Clauses & Formal Enactment Decrees",
+          "cyrillicTitle": "Produce legally binding chancellery text matching official Mongolian Government gazette publishing standards.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 400-word formal Government Resolution (Засгийн газрын тогтоол) or statutory enactment deploying classical jussives ('тушаасугай', 'даалгасугай', 'мөрдсүгэй').",
+          "communicativeOutcome": "Produce legally binding chancellery text matching official Mongolian Government gazette publishing standards.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a 400-word formal Government Resolution (Засгийн газрын тогтоол) or statutory enactment deploying classical jussives ('тушаасугай', 'даалгасугай', 'мөрдсүгэй').",
+            "keyPoints": [
+              "obj_c1_199_03_draft_binding_enactments"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_199_04_state_ceremonial_proclamations_spoken",
+          "title": "Ceremonial Oratory: Delivering State Proclamations & Investiture Decrees",
+          "cyrillicTitle": "Execute solemn, measured ceremonial oratory adhering to state protocol cadence (120-140 wpm) with impeccable phonological phrasing.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver a 3.5-minute formal oral proclamation of a state decree conferring national honors or promulgating a solemn public statute.",
+          "communicativeOutcome": "Execute solemn, measured ceremonial oratory adhering to state protocol cadence (120-140 wpm) with impeccable phonological phrasing.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide benchmark recording of Chief of Staff of the President reading state awards decree at the State Ceremonial Hall.",
+          "grammarOverview": {
+            "summary": "Deliver a 3.5-minute formal oral proclamation of a state decree conferring national honors or promulgating a solemn public statute.",
+            "keyPoints": [
+              "obj_c1_199_04_recite_state_proclamations"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_199_05_oath_taking_and_promulgation_listening",
+          "title": "Acoustic Dissection: Presidential Inauguration Oath & Promulgation Ceremonies",
+          "cyrillicTitle": "Process highly stylized archaic and formal juristic vows delivered in ceremonial acoustics with 100% conceptual precision.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4-minute unedited broadcast of the Presidential Inauguration Ceremony in the State Great Khural, analyzing the solemn oath of office and decree promulgations.",
+          "communicativeOutcome": "Process highly stylized archaic and formal juristic vows delivered in ceremonial acoustics with 100% conceptual precision.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide live broadcast recording of the oath-taking ceremony in the Great Hall of the State Great Khural.",
+          "grammarOverview": {
+            "summary": "Listen to a 4-minute unedited broadcast of the Presidential Inauguration Ceremony in the State Great Khural, analyzing the solemn oath of office and decree promulgations.",
+            "keyPoints": [
+              "obj_c1_199_05_comprehend_state_oaths"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c1_200_statutory_drafting_legal_framing_fo",
+      "unitNumber": 200,
+      "title": "Statutory Drafting & Legal Framing Formulations",
+      "cyrillicTitle": "Formulating statutory prohibitions, authorizations, and penalties",
+      "description": "Acquire and apply grammatical morphology (gram_c1_legal_statutory_framing) to fulfill communicative functions in: Statutory Drafting & Legal Framing Formulations.",
+      "cefrLevel": "C1",
+      "primaryGrammarTopic": "gram_c1_legal_statutory_framing",
+      "lessons": [
+        {
+          "id": "les_c1_200_01_legal_statutory_framing_syntax_intro",
+          "title": "Morphosyntax: Statutory Framing Formulations & Deontic Legislative Modifiers",
+          "cyrillicTitle": "Distinguish and deploy rigorous deontic legislative formulas that establish enforceable legal rights and duties without semantic ambiguity.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the specialized morphosyntactic framing conventions of Mongolian statutory drafting: obligation predicates ('үүрэг хүлээнэ', 'үүрэгтэй'), entitlement formulas ('эрх эдэлнэ', 'эрхтэй'), prohibitive prohibitions ('хориглоно', 'үл зөвшөөрнө'), and conditional scope boundaries.",
+          "communicativeOutcome": "Distinguish and deploy rigorous deontic legislative formulas that establish enforceable legal rights and duties without semantic ambiguity.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the specialized morphosyntactic framing conventions of Mongolian statutory drafting: obligation predicates ('үүрэг хүлээнэ', 'үүрэгтэй'), entitlement formulas ('эрх эдэлнэ', 'эрхтэй'), prohibitive prohibitions ('хориглоно', 'үл зөвшөөрнө'), and conditional scope boundaries.",
+            "keyPoints": [
+              "obj_c1_200_01_master_statutory_framing"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_200_02_statutory_articles_subclauses_reading",
+          "title": "Statutory Reading: Legislative Code Architecture & Penalty Clauses",
+          "cyrillicTitle": "Trace cross-references, exclusionary clauses, and administrative sanction mechanisms across interwoven statutory articles.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 500-word extract from the Mongolian Civil Code and Law on Administrative Infractions, scrutinizing definitions, general provisions, exceptions, and sanctions.",
+          "communicativeOutcome": "Trace cross-references, exclusionary clauses, and administrative sanction mechanisms across interwoven statutory articles.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 500-word extract from the Mongolian Civil Code and Law on Administrative Infractions, scrutinizing definitions, general provisions, exceptions, and sanctions.",
+            "keyPoints": [
+              "obj_c1_200_02_parse_statutory_codes"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_200_03_statutory_amendment_provisions_writing",
+          "title": "Legislative Drafting: Statutory Amendment Bill & Transitional Provisions",
+          "cyrillicTitle": "Author legislative text adhering strictly to the Law on Legislation of Mongolia (Хууль тогтоомжийн тухай хууль).",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Draft a 420-word formal legislative amendment bill ('Хуульд нэмэлт, өөрчлөлт оруулах тухай хуулийн төсөл') complete with enacting formulas, amended clauses, and transitional enforcement timelines.",
+          "communicativeOutcome": "Author legislative text adhering strictly to the Law on Legislation of Mongolia (Хууль тогтоомжийн тухай хууль).",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Draft a 420-word formal legislative amendment bill ('Хуульд нэмэлт, өөрчлөлт оруулах тухай хуулийн төсөл') complete with enacting formulas, amended clauses, and transitional enforcement timelines.",
+            "keyPoints": [
+              "obj_c1_200_03_author_statutory_bills"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_200_04_legislative_drafting_defense_spoken",
+          "title": "Legislative Advocacy: Defending Bill Provisions in Standing Committee Hearings",
+          "cyrillicTitle": "Present and defend legislative definitions and legal remedies against skepticism from committee MPs with precision and composure.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver a 4-minute spoken defense of a draft statutory amendment before the Parliamentary Standing Committee on Legal Affairs, justifying legal necessity and regulatory coherence.",
+          "communicativeOutcome": "Present and defend legislative definitions and legal remedies against skepticism from committee MPs with precision and composure.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide parliamentary standing committee testimony model featuring structured clause defense and MP questioning.",
+          "grammarOverview": {
+            "summary": "Deliver a 4-minute spoken defense of a draft statutory amendment before the Parliamentary Standing Committee on Legal Affairs, justifying legal necessity and regulatory coherence.",
+            "keyPoints": [
+              "obj_c1_200_04_defend_bill_provisions_orally"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_200_05_standing_committee_statutory_debate_listening",
+          "title": "Acoustic Dissection: Parliamentary Committee Clause-by-Clause Review Session",
+          "cyrillicTitle": "Comprehend technical legislative amendments proposed on the fly by lawmakers speaking rapidly (150-170 wpm) amidst parliamentary cross-talk.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4-minute authentic audio recording of a parliamentary standing committee conducting a clause-by-clause reading of a commercial statute.",
+          "communicativeOutcome": "Comprehend technical legislative amendments proposed on the fly by lawmakers speaking rapidly (150-170 wpm) amidst parliamentary cross-talk.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide live committee room recording containing rapid procedural exchanges, microphone rustle, and technical amendments.",
+          "grammarOverview": {
+            "summary": "Listen to a 4-minute authentic audio recording of a parliamentary standing committee conducting a clause-by-clause reading of a commercial statute.",
+            "keyPoints": [
+              "obj_c1_200_05_comprehend_clause_review_debates"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c1_201_appositive_titles_epithets_chancell",
+      "unitNumber": 201,
+      "title": "Appositive Titles, Epithets & Chancellery Protocols",
+      "cyrillicTitle": "Deploying official bureaucratic hierarchies and titular styles",
+      "description": "Acquire and apply grammatical morphology (gram_c1_complex_appositive_titles_and_epithets) to fulfill communicative functions in: Appositive Titles, Epithets & Chancellery Protocols.",
+      "cefrLevel": "C1",
+      "primaryGrammarTopic": "gram_c1_complex_appositive_titles_and_epithets",
+      "lessons": [
+        {
+          "id": "les_c1_201_01_complex_appositive_titles_syntax_intro",
+          "title": "Morphosyntax: Elaborate Appositive Titles, Diplomatic Epithets & Chancellery Preambles",
+          "cyrillicTitle": "Construct and parse elaborate chancellery titles, ensuring grammatical agreement and protocol precedence across multi-nominal apposition chains.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic mechanics of multi-word appositive titles, state honorific epithets ('Онц бөгөөд Бүрэн эрхт', 'Эрхэмсэг ноён/хатагтай'), and chancellery preambular framing preceding diplomatic and state correspondence.",
+          "communicativeOutcome": "Construct and parse elaborate chancellery titles, ensuring grammatical agreement and protocol precedence across multi-nominal apposition chains.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic mechanics of multi-word appositive titles, state honorific epithets ('Онц бөгөөд Бүрэн эрхт', 'Эрхэмсэг ноён/хатагтай'), and chancellery preambular framing preceding diplomatic and state correspondence.",
+            "keyPoints": [
+              "obj_c1_201_01_master_appositive_titles"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_201_02_historical_diplomatic_and_state_treaties_reading",
+          "title": "Historical & Diplomatic Reading: State Treaties & Diplomatic Credential Preambles",
+          "cyrillicTitle": "Deconstruct high-level protocol texts, analyzing how sovereign titles establish diplomatic reciprocity and legal validity between states.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an authentic 480-word diplomatic instrument: a Letter of Credence (Итгэмжлэх жуух бичиг) and bilateral treaty preamble incorporating elaborate state titles and archaic honorific epithets.",
+          "communicativeOutcome": "Deconstruct high-level protocol texts, analyzing how sovereign titles establish diplomatic reciprocity and legal validity between states.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an authentic 480-word diplomatic instrument: a Letter of Credence (Итгэмжлэх жуух бичиг) and bilateral treaty preamble incorporating elaborate state titles and archaic honorific epithets.",
+            "keyPoints": [
+              "obj_c1_201_02_parse_diplomatic_instruments"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_201_03_formal_chancellery_dispatch_writing",
+          "title": "Chancellery Writing: Diplomatic Note Verbale & Official State Dispatches",
+          "cyrillicTitle": "Produce impeccable diplomatic correspondence conforming to Vienna Convention norms and Mongolian state chancellery style.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 400-word formal Diplomatic Note (Ноот бичиг) from the Ministry of Foreign Affairs to a foreign embassy, deploying complex appositive titles and ceremonial formulas.",
+          "communicativeOutcome": "Produce impeccable diplomatic correspondence conforming to Vienna Convention norms and Mongolian state chancellery style.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a 400-word formal Diplomatic Note (Ноот бичиг) from the Ministry of Foreign Affairs to a foreign embassy, deploying complex appositive titles and ceremonial formulas.",
+            "keyPoints": [
+              "obj_c1_201_03_author_diplomatic_notes"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_201_04_protocolary_state_introductions_spoken",
+          "title": "Protocolary Speaking: Introducing Dignitaries at State Banquets & Bilateral Summits",
+          "cyrillicTitle": "Announce foreign and domestic dignitaries orally with dignified presence, correct epithet stacking, and flawless prosodic timing.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver formal spoken introductions and protocol toasts (3.5 minutes) introducing visiting heads of state and ambassadorial delegations at an official state reception.",
+          "communicativeOutcome": "Announce foreign and domestic dignitaries orally with dignified presence, correct epithet stacking, and flawless prosodic timing.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide model recording of Chief of Protocol introducing visiting delegations at the State Ceremonial Complex.",
+          "grammarOverview": {
+            "summary": "Deliver formal spoken introductions and protocol toasts (3.5 minutes) introducing visiting heads of state and ambassadorial delegations at an official state reception.",
+            "keyPoints": [
+              "obj_c1_201_04_deliver_protocolary_introductions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_201_05_state_chancellery_protocol_briefing_listening",
+          "title": "Acoustic Dissection: State Protocol Briefing on Diplomatic Precedence & Credentials",
+          "cyrillicTitle": "Comprehend complex protocol instructions, detecting subtle distinctions between order of arrival, ambassadorial seniority, and ceremonial exemptions.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4-minute operational briefing by the Director of State Protocol detailing diplomatic precedence, seating orders, and credential presentation etiquette.",
+          "communicativeOutcome": "Comprehend complex protocol instructions, detecting subtle distinctions between order of arrival, ambassadorial seniority, and ceremonial exemptions.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic administrative audio of a protocol briefing covering seating hierarchies and title conventions.",
+          "grammarOverview": {
+            "summary": "Listen to a 4-minute operational briefing by the Director of State Protocol detailing diplomatic precedence, seating orders, and credential presentation etiquette.",
+            "keyPoints": [
+              "obj_c1_201_05_comprehend_protocol_briefings"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c1_202_causative_nominalizations_in_instit",
+      "unitNumber": 202,
+      "title": "Causative Nominalizations in Institutional Governance",
+      "cyrillicTitle": "Analyzing administrative agency actions ('хэрэгжүүлэлт, зохицуулалт')",
+      "description": "Acquire and apply grammatical morphology (gram_c1_causative_nominalizations_in_governance) to fulfill communicative functions in: Causative Nominalizations in Institutional Governance.",
+      "cefrLevel": "C1",
+      "primaryGrammarTopic": "gram_c1_causative_nominalizations_in_governance",
+      "lessons": [
+        {
+          "id": "les_c1_202_01_causative_nominalization_syntax_intro",
+          "title": "Morphosyntax: Causative Nominalizations (-уулалт/-үүлэлт) in State Governance",
+          "cyrillicTitle": "Formulate and parse abstract governance processes (e.g. 'хэрэгжүүлэлт' implementation, 'сайжруулалт' upgrading, 'батлуулалт' securing ratification) expressing institutional delegation.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the morphosyntactic formation, agentive demotion, and institutional semantic force of causative nominalization suffixes (-уулалт/-үүлэлт, -лгалт/-лгэлт) derived from double causatives in governance discourse.",
+          "communicativeOutcome": "Formulate and parse abstract governance processes (e.g. 'хэрэгжүүлэлт' implementation, 'сайжруулалт' upgrading, 'батлуулалт' securing ratification) expressing institutional delegation.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the morphosyntactic formation, agentive demotion, and institutional semantic force of causative nominalization suffixes (-уулалт/-үүлэлт, -лгалт/-лгэлт) derived from double causatives in governance discourse.",
+            "keyPoints": [
+              "obj_c1_202_01_master_causative_nominalizations"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_202_02_ministerial_mandates_and_orders_reading",
+          "title": "Administrative Reading: Ministerial Accountability Audits & Implementation Mandates",
+          "cyrillicTitle": "Analyze bureaucratic audit metrics, identifying where causative nominalizations shift responsibility between policy initiators, executive agencies, and contractors.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 510-word ministerial performance audit report assessing agency implementation ('хэрэгжүүлэлтийн шат дараах тайлан') of national development targets.",
+          "communicativeOutcome": "Analyze bureaucratic audit metrics, identifying where causative nominalizations shift responsibility between policy initiators, executive agencies, and contractors.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 510-word ministerial performance audit report assessing agency implementation ('хэрэгжүүлэлтийн шат дараах тайлан') of national development targets.",
+            "keyPoints": [
+              "obj_c1_202_02_parse_accountability_audits"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_202_03_administrative_directive_drafting_writing",
+          "title": "Executive Writing: Inter-Agency Action Plan Directives & Governance Memos",
+          "cyrillicTitle": "Produce high-level executive directives coordinating cross-sectoral actions with institutional clarity.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 430-word inter-agency operational directive ('Хэрэгжүүлэх арга хэмжээний төлөвлөгөөний удирдамж') assigning delegated tasks across four ministries using causative nominalizations.",
+          "communicativeOutcome": "Produce high-level executive directives coordinating cross-sectoral actions with institutional clarity.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a 430-word inter-agency operational directive ('Хэрэгжүүлэх арга хэмжээний төлөвлөгөөний удирдамж') assigning delegated tasks across four ministries using causative nominalizations.",
+            "keyPoints": [
+              "obj_c1_202_03_author_executive_directives"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_202_04_inter_ministerial_coordination_briefing_spoken",
+          "title": "Executive Briefing: Inter-Agency Task Force Operational Deliberation",
+          "cyrillicTitle": "Negotiate jurisdictional boundaries, demand accountability, and issue delegated orders using authoritative institutional spoken discourse.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 4-minute executive verbal briefing coordinating multiple ministerial state secretaries during a national infrastructure crisis.",
+          "communicativeOutcome": "Negotiate jurisdictional boundaries, demand accountability, and issue delegated orders using authoritative institutional spoken discourse.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide model audio of Cabinet Secretariat State Secretary chairing an emergency inter-agency coordination meeting.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 4-minute executive verbal briefing coordinating multiple ministerial state secretaries during a national infrastructure crisis.",
+            "keyPoints": [
+              "obj_c1_202_04_lead_executive_briefings"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_202_05_administrative_enforcement_hearing_listening",
+          "title": "Acoustic Dissection: State Inspection Agency Enforcement & Sanction Hearing",
+          "cyrillicTitle": "Comprehend adversarial administrative hearings, dissecting defense appeals, technical inspector citations, and binding closure orders.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute unscripted audio recording of a State Specialized Inspection Agency (МХЕГ) formal enforcement hearing addressing severe environmental compliance breaches.",
+          "communicativeOutcome": "Comprehend adversarial administrative hearings, dissecting defense appeals, technical inspector citations, and binding closure orders.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide live hearing recording featuring overlapping legal objections, document citations, and formal inspector verdicts.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute unscripted audio recording of a State Specialized Inspection Agency (МХЕГ) formal enforcement hearing addressing severe environmental compliance breaches.",
+            "keyPoints": [
+              "obj_c1_202_05_comprehend_enforcement_hearings"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c1_203_courtroom_argumentation_prosecutor_",
+      "unitNumber": 203,
+      "title": "Courtroom Argumentation: Prosecutor & Defense Briefs",
+      "cyrillicTitle": "Delivering evidentiary briefs in formal civil and criminal trials",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Courtroom Argumentation: Prosecutor & Defense Briefs.",
+      "cefrLevel": "C1",
+      "primaryGrammarTopic": "Delivering evidentiary briefs in formal civil and criminal trials",
+      "lessons": [
+        {
+          "id": "les_c1_203_01_appellate_court_briefs_reading",
+          "title": "Judicial Reading: Appellate Court Briefs & Evidentiary Rebuttals",
+          "cyrillicTitle": "Extract contested legal doctrines, procedural violation claims, and evidentiary exclusions from sophisticated juristic court pleadings.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 520-word appellate court defense memorial challenging prosecutorial indictments under the Criminal Procedure Code of Mongolia, identifying evidentiary admissibility arguments.",
+          "communicativeOutcome": "Extract contested legal doctrines, procedural violation claims, and evidentiary exclusions from sophisticated juristic court pleadings.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 520-word appellate court defense memorial challenging prosecutorial indictments under the Criminal Procedure Code of Mongolia, identifying evidentiary admissibility arguments.",
+            "keyPoints": [
+              "obj_c1_203_01_parse_appellate_briefs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_203_02_judicial_hearing_prosecutorial_summation_listening",
+          "title": "Acoustic Dissection: Live Courtroom Trial — State Prosecutor Closing Summation",
+          "cyrillicTitle": "Process rapid (155-175 wpm) oratorical courtroom argumentation, tracking statutory charge stacking and evidentiary burden formulas.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute unedited audio recording of a state prosecutor delivering closing summations in a high-profile corruption trial before the Capital City Court of Appeals.",
+          "communicativeOutcome": "Process rapid (155-175 wpm) oratorical courtroom argumentation, tracking statutory charge stacking and evidentiary burden formulas.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic courtroom acoustics featuring judge interjections, prosecutor pacing, and formal legal cadences.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute unedited audio recording of a state prosecutor delivering closing summations in a high-profile corruption trial before the Capital City Court of Appeals.",
+            "keyPoints": [
+              "obj_c1_203_02_comprehend_courtroom_summations"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_203_03_appellate_oral_pleading_defense_spoken",
+          "title": "Adversarial Advocacy: Defense Counsel Oral Pleading & Motion Practice",
+          "cyrillicTitle": "Present persuasive courtroom arguments with judicial gravitas, handling judicial bench interruptions with rapid legal agility.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 4-minute defense oral pleading before a 3-judge appellate panel, rebutting prosecutorial charges and motioning for complete dismissal.",
+          "communicativeOutcome": "Present persuasive courtroom arguments with judicial gravitas, handling judicial bench interruptions with rapid legal agility.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of senior advocate delivering oral defense pleading before the Court of Appeals.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 4-minute defense oral pleading before a 3-judge appellate panel, rebutting prosecutorial charges and motioning for complete dismissal.",
+            "keyPoints": [
+              "obj_c1_203_03_deliver_courtroom_oral_pleadings"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_203_04_drafting_grounds_for_appeal_writing",
+          "title": "Juristic Writing: Formal Notice of Appeal & Assignment of Errors",
+          "cyrillicTitle": "Produce legally binding appellate petitions satisfying all procedural requirements of the Civil or Criminal Procedure Code.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Draft a 420-word formal Notice of Appeal ('Давж заалдах гомдол') for submission to the High Court, articulating specific errors in statutory interpretation committed by the trial court.",
+          "communicativeOutcome": "Produce legally binding appellate petitions satisfying all procedural requirements of the Civil or Criminal Procedure Code.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Draft a 420-word formal Notice of Appeal ('Давж заалдах гомдол') for submission to the High Court, articulating specific errors in statutory interpretation committed by the trial court.",
+            "keyPoints": [
+              "obj_c1_203_04_draft_appellate_petitions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c1_204_constitutional_court_jurisprudence_",
+      "unitNumber": 204,
+      "title": "Constitutional Court (Цэц) Jurisprudence Parsing",
+      "cyrillicTitle": "Analyzing judicial reviews on constitutionality and state power",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Constitutional Court (Цэц) Jurisprudence Parsing.",
+      "cefrLevel": "C1",
+      "primaryGrammarTopic": "Analyzing judicial reviews on constitutionality and state power",
+      "lessons": [
+        {
+          "id": "les_c1_204_01_tsets_verdicts_and_conclusions_reading",
+          "title": "Constitutional Reading: Tsets Conclusions (Дүгнэлт) & Plenary Resolutions (Тогтоол)",
+          "cyrillicTitle": "Analyze constitutional jurisprudence reasoning, parsing constitutional balancing tests, supra-statutory norms, and judicial review doctrines.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 520-word formal Conclusion of the Constitutional Court of Mongolia (Үндсэн хуулийн цэцийн дүгнэлт) striking down an unconstitutional parliamentary statute.",
+          "communicativeOutcome": "Analyze constitutional jurisprudence reasoning, parsing constitutional balancing tests, supra-statutory norms, and judicial review doctrines.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 520-word formal Conclusion of the Constitutional Court of Mongolia (Үндсэн хуулийн цэцийн дүгнэлт) striking down an unconstitutional parliamentary statute.",
+            "keyPoints": [
+              "obj_c1_204_01_parse_tsets_jurisprudence"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_204_02_tsets_plenary_session_deliberation_listening",
+          "title": "Acoustic Dissection: Constitutional Court Open Hearing Oral Arguments",
+          "cyrillicTitle": "Process highly abstract, dense constitutional debate delivered under formal court protocol at native oratorical tempo (150-170 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute authentic recording of a Constitutional Court open session where petitioner citizen representatives and parliamentary authorized representatives clash.",
+          "communicativeOutcome": "Process highly abstract, dense constitutional debate delivered under formal court protocol at native oratorical tempo (150-170 wpm).",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide live hearing audio featuring formal judicial protocol, solemn judge questions, and impassioned legal defense.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute authentic recording of a Constitutional Court open session where petitioner citizen representatives and parliamentary authorized representatives clash.",
+            "keyPoints": [
+              "obj_c1_204_02_comprehend_tsets_hearings"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_204_03_constitutional_dispute_argumentation_spoken",
+          "title": "Constitutional Advocacy: Arguing Before the Bench of the Constitutional Court",
+          "cyrillicTitle": "Present rigorous constitutional jurisprudence orally, weaving constitutional text, precedent conclusions, and human rights principles into a compelling plea.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 4-minute constitutional oral argument representing an aggrieved citizen group before the Constitutional Court, demonstrating that a government decree violates fundamental rights.",
+          "communicativeOutcome": "Present rigorous constitutional jurisprudence orally, weaving constitutional text, precedent conclusions, and human rights principles into a compelling plea.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of constitutional scholar presenting amicus curiae oral argument before the Tsets.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 4-minute constitutional oral argument representing an aggrieved citizen group before the Constitutional Court, demonstrating that a government decree violates fundamental rights.",
+            "keyPoints": [
+              "obj_c1_204_03_argue_constitutional_cases_orally"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_204_04_petition_to_constitutional_court_writing",
+          "title": "Juristic Writing: Drafting a Formal Petition (Өргөдөл, Мэдээлэл) to the Constitutional Court",
+          "cyrillicTitle": "Produce high-level constitutional litigation briefs adhering strictly to the Law on Constitutional Court Procedure.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 450-word formal citizen petition ('Үндсэн хуулийн цэцэд гаргах мэдээлэл') requesting judicial review of a parliamentary tax statute alleged to violate property rights.",
+          "communicativeOutcome": "Produce high-level constitutional litigation briefs adhering strictly to the Law on Constitutional Court Procedure.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a 450-word formal citizen petition ('Үндсэн хуулийн цэцэд гаргах мэдээлэл') requesting judicial review of a parliamentary tax statute alleged to violate property rights.",
+            "keyPoints": [
+              "obj_c1_204_04_author_constitutional_petitions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c1_205_bilateral_concession_contracts_inve",
+      "unitNumber": 205,
+      "title": "Bilateral Concession Contracts & Investment Treaties",
+      "cyrillicTitle": "Interpreting international treaties, arbitration, and sovereign immunity",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Bilateral Concession Contracts & Investment Treaties.",
+      "cefrLevel": "C1",
+      "primaryGrammarTopic": "Interpreting international treaties, arbitration, and sovereign immunity",
+      "lessons": [
+        {
+          "id": "les_c1_205_01_concession_agreements_arbitration_clauses_reading",
+          "title": "Commercial Reading: Mineral Concession Contracts & International Arbitration Clauses",
+          "cyrillicTitle": "Deconstruct complex international commercial contracts in Mongolian, identifying risks, dispute escalation tiers, and choice-of-law provisions.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an authentic 510-word excerpt from a public-private partnership concession agreement (Концессын гэрээ), examining stabilization clauses, sovereign immunity waivers, and arbitration clauses.",
+          "communicativeOutcome": "Deconstruct complex international commercial contracts in Mongolian, identifying risks, dispute escalation tiers, and choice-of-law provisions.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an authentic 510-word excerpt from a public-private partnership concession agreement (Концессын гэрээ), examining stabilization clauses, sovereign immunity waivers, and arbitration clauses.",
+            "keyPoints": [
+              "obj_c1_205_01_parse_concession_contracts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_205_02_commercial_arbitration_tribunal_listening",
+          "title": "Acoustic Dissection: International Commercial Arbitration Tribunal Hearing",
+          "cyrillicTitle": "Comprehend technical commercial dispute testimonies, cross-examinations of valuation experts, and tribunal president rulings.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute audio simulation of an international commercial arbitration hearing at the Mongolian International Arbitration Center (МҮХАҮТ-ын дэргэдэх Монголын Олон Улсын Арбитр) concerning breach of a mining concession.",
+          "communicativeOutcome": "Comprehend technical commercial dispute testimonies, cross-examinations of valuation experts, and tribunal president rulings.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic arbitral chamber audio featuring multi-party cross-examination and legal evidentiary objections.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute audio simulation of an international commercial arbitration hearing at the Mongolian International Arbitration Center (МҮХАҮТ-ын дэргэдэх Монголын Олон Улсын Арбитр) concerning breach of a mining concession.",
+            "keyPoints": [
+              "obj_c1_205_02_comprehend_arbitration_hearings"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_205_03_arbitration_memorial_claim_drafting_writing",
+          "title": "Commercial Writing: Statement of Claim (Нэхэмжлэлийн шаардлага) in Arbitration",
+          "cyrillicTitle": "Produce high-stakes commercial arbitration pleadings with precise contractual citations and liquidated damages claims.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 440-word formal Statement of Claim for submission to an international arbitration tribunal, pleading expropriation and breach of a bilateral investment treaty (Хоёр талын хөрөнгө оруулалтын гэрээ).",
+          "communicativeOutcome": "Produce high-stakes commercial arbitration pleadings with precise contractual citations and liquidated damages claims.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a 440-word formal Statement of Claim for submission to an international arbitration tribunal, pleading expropriation and breach of a bilateral investment treaty (Хоёр талын хөрөнгө оруулалтын гэрээ).",
+            "keyPoints": [
+              "obj_c1_205_03_author_arbitration_claims"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_205_04_settlement_negotiation_dispute_advocacy_spoken",
+          "title": "Commercial Advocacy: High-Stakes Investor-State Dispute Settlement Negotiation",
+          "cyrillicTitle": "Negotiate multi-million dollar contractual concessions orally, balancing sovereign interests against international treaty liabilities.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Conduct an unscripted 4-minute bilateral negotiation representing the Ministry of Justice opposite foreign investor counsel, seeking an amicable settlement before arbitration awards are formalized.",
+          "communicativeOutcome": "Negotiate multi-million dollar contractual concessions orally, balancing sovereign interests against international treaty liabilities.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide model dialogue of senior legal counsel negotiating a settlement in a concession dispute.",
+          "grammarOverview": {
+            "summary": "Conduct an unscripted 4-minute bilateral negotiation representing the Ministry of Justice opposite foreign investor counsel, seeking an amicable settlement before arbitration awards are formalized.",
+            "keyPoints": [
+              "obj_c1_205_04_negotiate_investment_settlements"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c1_206_drafting_executive_ministerial_decr",
+      "unitNumber": 206,
+      "title": "Drafting Executive Ministerial Decrees & Directives",
+      "cyrillicTitle": "Composing binding executive orders adhering strictly to chancellery law",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Drafting Executive Ministerial Decrees & Directives.",
+      "cefrLevel": "C1",
+      "primaryGrammarTopic": "Composing binding executive orders adhering strictly to chancellery law",
+      "lessons": [
+        {
+          "id": "les_c1_206_01_cabinet_resolution_structures_reading",
+          "title": "Administrative Reading: Cabinet Resolutions & Subordinate Regulatory Decrees",
+          "cyrillicTitle": "Deconstruct administrative regulatory instruments, analyzing enabling statute citations, operative mandates, appendices, and oversight mechanisms.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 500-word comprehensive Cabinet Resolution (Засгийн газрын тогтоол) approving national public procurement regulations and delegation matrices.",
+          "communicativeOutcome": "Deconstruct administrative regulatory instruments, analyzing enabling statute citations, operative mandates, appendices, and oversight mechanisms.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 500-word comprehensive Cabinet Resolution (Засгийн газрын тогтоол) approving national public procurement regulations and delegation matrices.",
+            "keyPoints": [
+              "obj_c1_206_01_parse_cabinet_resolutions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_206_02_drafting_ministerial_decree_statutory_rationale_writing",
+          "title": "Chancellery Writing: Drafting Ministerial Orders (Сайдын тушаал) & Regulatory Procedures",
+          "cyrillicTitle": "Produce legally airtight ministerial orders and administrative regulations adhering strictly to the General Administrative Law of Mongolia.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 430-word Ministerial Order with accompanying procedural regulation ('Журам батлах тухай сайдын тушаал') implementing national digital data security standards.",
+          "communicativeOutcome": "Produce legally airtight ministerial orders and administrative regulations adhering strictly to the General Administrative Law of Mongolia.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a 430-word Ministerial Order with accompanying procedural regulation ('Журам батлах тухай сайдын тушаал') implementing national digital data security standards.",
+            "keyPoints": [
+              "obj_c1_206_02_draft_ministerial_orders"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_206_03_cabinet_press_secretary_decree_announcement_listening",
+          "title": "Acoustic Dissection: Government Press Briefing on Major Executive Resolutions",
+          "cyrillicTitle": "Process fast-paced institutional press announcements (155-180 wpm), separating official policy rationale from journalist inquiries.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4-minute live press briefing by the Cabinet Press Secretary and Minister of Justice explaining newly adopted government decrees regarding emergency economic measures.",
+          "communicativeOutcome": "Process fast-paced institutional press announcements (155-180 wpm), separating official policy rationale from journalist inquiries.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic press conference recording with rapid journalistic questions and official spokesperson cadences.",
+          "grammarOverview": {
+            "summary": "Listen to a 4-minute live press briefing by the Cabinet Press Secretary and Minister of Justice explaining newly adopted government decrees regarding emergency economic measures.",
+            "keyPoints": [
+              "obj_c1_206_03_comprehend_cabinet_briefings"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_206_04_executive_order_regulatory_defense_spoken",
+          "title": "Executive Advocacy: Defending Ministerial Regulations Against Administrative Challenge",
+          "cyrillicTitle": "Articulate executive legal authority, administrative necessity, and procedural proportionality with consummate professional composure.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 4-minute defense of a controversial ministerial order before the Administrative Court or Public Scrutiny Council, proving compliance with the General Administrative Law.",
+          "communicativeOutcome": "Articulate executive legal authority, administrative necessity, and procedural proportionality with consummate professional composure.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of ministry legal department director defending regulatory procedures before administrative hearing.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 4-minute defense of a controversial ministerial order before the Administrative Court or Public Scrutiny Council, proving compliance with the General Administrative Law.",
+            "keyPoints": [
+              "obj_c1_206_04_defend_regulations_orally"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c1_207_constitutional_jurisprudence_capsto",
+      "unitNumber": 207,
+      "title": "Constitutional Jurisprudence Capstone: Bill Analysis",
+      "cyrillicTitle": "Conducting complete legislative redrafting of a statutory bill",
+      "description": "Consolidate, integrate, and demonstrate communicative mastery of Constitutional Jurisprudence Capstone: Bill Analysis through simulated holistic tasks.",
+      "cefrLevel": "C1",
+      "primaryGrammarTopic": "Conducting complete legislative redrafting of a statutory bill",
+      "lessons": [
+        {
+          "id": "les_c1_207_01_supreme_court_dossier_analysis_reading",
+          "title": "Capstone Jurisprudential Reading: Supreme Court En Banc Landmark Case Dossier",
+          "cyrillicTitle": "Dissect the ultimate appellate judicial reasoning in Mongolia, tracing statutory construction canons, constitutional harmonization, and binding judicial precedent formulations.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a comprehensive 560-word case file and judicial opinion from the Supreme Court of Mongolia (Улсын Дээд Шүүхийн Хяналтын Шатны Тогтоол) resolving conflicting lower court interpretations of constitutional property guarantees.",
+          "communicativeOutcome": "Dissect the ultimate appellate judicial reasoning in Mongolia, tracing statutory construction canons, constitutional harmonization, and binding judicial precedent formulations.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a comprehensive 560-word case file and judicial opinion from the Supreme Court of Mongolia (Улсын Дээд Шүүхийн Хяналтын Шатны Тогтоол) resolving conflicting lower court interpretations of constitutional property guarantees.",
+            "keyPoints": [
+              "obj_c1_207_01_master_supreme_court_dossiers"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_207_02_full_bench_judicial_interrogation_listening",
+          "title": "Acoustic Dissection: Supreme Court Full Chamber (Хяналтын шат) Oral Interrogation",
+          "cyrillicTitle": "Comprehend the pinnacle of Mongolian judicial speech, processing rapid multi-judge questioning (160-185 wpm) delivered in reverberant court acoustics.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 5-minute unedited recording of a Supreme Court cassation hearing where five Supreme Court justices rigorously interrogate appellate counsel regarding statutory conflicts.",
+          "communicativeOutcome": "Comprehend the pinnacle of Mongolian judicial speech, processing rapid multi-judge questioning (160-185 wpm) delivered in reverberant court acoustics.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide live courtroom audio of Supreme Court Chamber proceedings with multi-speaker judicial questioning and counsel responses.",
+          "grammarOverview": {
+            "summary": "Listen to a 5-minute unedited recording of a Supreme Court cassation hearing where five Supreme Court justices rigorously interrogate appellate counsel regarding statutory conflicts.",
+            "keyPoints": [
+              "obj_c1_207_02_comprehend_supreme_court_interrogation"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_207_03_appellate_memorandum_of_law_writing",
+          "title": "Capstone Writing: Comprehensive Cassation Petition (Хяналтын журмаар гаргах гомдол)",
+          "cyrillicTitle": "Produce an exemplary appellate legal brief satisfying all formal requirements for Supreme Court review under the Civil or Administrative Procedure Code.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 460-word authoritative Cassation Petition to the Supreme Court of Mongolia, synthesizing chancellery syntax, statutory framing, and constitutional doctrines.",
+          "communicativeOutcome": "Produce an exemplary appellate legal brief satisfying all formal requirements for Supreme Court review under the Civil or Administrative Procedure Code.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a 460-word authoritative Cassation Petition to the Supreme Court of Mongolia, synthesizing chancellery syntax, statutory framing, and constitutional doctrines.",
+            "keyPoints": [
+              "obj_c1_207_03_author_cassation_petitions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_207_04_constitutional_remedies_amicus_brief_writing",
+          "title": "Capstone Writing: Amicus Curiae Jurisprudential Advisory Opinion",
+          "cyrillicTitle": "Produce high-register impartial juristic counsel evaluating broad public policy implications and international treaty compliance.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 450-word Amicus Curiae brief submitted by the National Human Rights Commission or Bar Association to the Supreme Court En Banc regarding statutory harmony and civil liberties.",
+          "communicativeOutcome": "Produce high-register impartial juristic counsel evaluating broad public policy implications and international treaty compliance.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a 450-word Amicus Curiae brief submitted by the National Human Rights Commission or Bar Association to the Supreme Court En Banc regarding statutory harmony and civil liberties.",
+            "keyPoints": [
+              "obj_c1_207_04_author_amicus_opinions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_207_05_supreme_court_en_banc_oral_argument_spoken",
+          "title": "Capstone Advocacy: Supreme Court En Banc Oral Pleading & Judicial Defense",
+          "cyrillicTitle": "Demonstrate pinnacle C1 spoken courtroom mastery, responding spontaneously to theoretical legal inquiries with effortless linguistic precision.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 4.5-minute oral pleading before the Full Bench of the Supreme Court of Mongolia, defending a cassation petition and fielding demanding judicial scrutiny.",
+          "communicativeOutcome": "Demonstrate pinnacle C1 spoken courtroom mastery, responding spontaneously to theoretical legal inquiries with effortless linguistic precision.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of distinguished appellate advocate presenting oral arguments to the Supreme Court En Banc.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 4.5-minute oral pleading before the Full Bench of the Supreme Court of Mongolia, defending a cassation petition and fielding demanding judicial scrutiny.",
+            "keyPoints": [
+              "obj_c1_207_05_deliver_supreme_court_oral_pleadings"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c1_207_06_c1_sec01_culminating_constitutional_capstone",
+          "title": "Culminating Synthesis Capstone: Section 01 Mastery Defense & Constitutional Dossier",
+          "cyrillicTitle": "Demonstrate complete operational proficiency in Mongolian constitutional, statutory, and judicial discourse across all four communicative modalities.",
+          "estimatedMinutes": 15,
+          "lessonType": "synthesis_capstone",
+          "primaryPurpose": "Execute a comprehensive multi-stage Section 01 capstone synthesis integrating chancellery syntax, classical jussives, statutory framing, appositive titles, causative nominalizations, and judicial argumentation across a simulated national constitutional dispute.",
+          "communicativeOutcome": "Demonstrate complete operational proficiency in Mongolian constitutional, statutory, and judicial discourse across all four communicative modalities.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide multi-speaker judicial deliberation recording representing the apex of formal Mongolian oratorical argumentation.",
+          "grammarOverview": {
+            "summary": "Execute a comprehensive multi-stage Section 01 capstone synthesis integrating chancellery syntax, classical jussives, statutory framing, appositive titles, causative nominalizations, and judicial argumentation across a simulated national constitutional dispute.",
+            "keyPoints": [
+              "obj_c1_207_06_master_sec01_culminating_synthesis"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    }
+  ]
+}

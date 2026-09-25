@@ -1,0 +1,2254 @@
+{
+  "sectionId": "sec_b1_01_workplace_careers_institutional_communication",
+  "sectionNumber": 13,
+  "title": "Workplace Communication, Employment & Professional Processes",
+  "cyrillicTitle": "Ажлын байр, мэргэжлийн харилцаа ба албан хэрэгцээ",
+  "cefr": "B1",
+  "theme": "Present professional qualifications, participate in workplace meetings, write business correspondence, delegate tasks, report unexpected occurrences, and handle customer service issues.",
+  "description": "Launch the B1 threshold by developing professional communication skills, participating in job interviews, drafting formal emails, managing office workflows, and mastering causative and passive voices.",
+  "unitCount": 12,
+  "lessonCount": 55,
+  "exerciseCount": 15,
+  "units": [
+    {
+      "id": "unit_b1_112_job_searching_cv_preparation_qualif",
+      "unitNumber": 112,
+      "title": "Job Searching, CV Preparation & Qualifications",
+      "cyrillicTitle": "Formulating educational history and professional competencies",
+      "description": "Acquire and apply grammatical morphology (gram_b1_noun_derivation_abstract_dal_laga) to fulfill communicative functions in: Job Searching, CV Preparation & Qualifications.",
+      "cefrLevel": "B1",
+      "primaryGrammarTopic": "gram_b1_noun_derivation_abstract_dal_laga",
+      "lessons": [
+        {
+          "id": "les_b1_112_01_abstract_noun_derivation_intro",
+          "title": "Abstract Nouns in the Workplace: Nominalizers -дал/-дэл and -лга/-лгэ",
+          "cyrillicTitle": "Formulate and understand abstract professional nouns such as хариуцлага (responsibility), амжилт, ажиллах нөхцөл, and боломж.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Master the morphological derivation of abstract corporate concepts and institutional nouns from verb roots using -дал⁴ and -лга⁴.",
+          "communicativeOutcome": "Formulate and understand abstract professional nouns such as хариуцлага (responsibility), амжилт, ажиллах нөхцөл, and боломж.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Model vowel harmony allomorphs for -дал/-дэл/-дол/-дөл and -лга/-лгэ/-лго/-лгө.",
+          "grammarOverview": {
+            "summary": "Master the morphological derivation of abstract corporate concepts and institutional nouns from verb roots using -дал⁴ and -лга⁴.",
+            "keyPoints": [
+              "obj_b1_112_01_derive_abstract_nouns_workplace"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_b1_112_01_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Deriving Abstract Noun from Verb Stem: -лга⁴",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "SUFFIX_ATTACHMENT",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "abstract_nominalization",
+                "morphological_derivation"
+              ],
+              "grammarTargets": [
+                "gram_b1_noun_derivation_abstract_dal_laga"
+              ],
+              "vocabularyTargets": [
+                "хариуцах",
+                "хариуцлага"
+              ],
+              "prompt": "Derive the corporate abstract noun meaning 'responsibility / accountability' from the verb stem 'хариуц-' (to be in charge of / answer for) using the nominalizer suffix -лга⁴:",
+              "baseWord": "хариуц-",
+              "suffixOptions": [
+                "-лага",
+                "-лэг",
+                "-лого",
+                "-лөгө"
+              ],
+              "correctSuffix": "-лага",
+              "correctAnswer": "хариуцлага",
+              "acceptableAlternatives": [
+                "хариуцлага",
+                "-лага"
+              ],
+              "hint": "The stem 'хариуц-' has back vowel 'у' in the root, so it attaches the back unrounded nominalizer suffix '-лага'.",
+              "explanation": "Verb stem 'хариуц-' + nominalizer '-лага' yields the standard professional noun 'хариуцлага' (responsibility, accountability).",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! 'хариуцлага' is the fundamental corporate concept of responsibility.",
+                "onFailure": "'хариуц-' + '-лага' = 'хариуцлага'."
+              },
+              "detailedGrammarNote": "The productive deverbal nominalizer suffix -лга⁴ (-лага, -лэг, -лого, -лөгөө) transforms action verbs into institutional abstract concepts, processes, and corporate obligations.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Ажлын хариуцлага өндөр байх ёстой.",
+                "slowSpeechSynthesisText": "хариуцлага",
+                "ipaTranscription": "/xarʲʊtsʰɮəɢ/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "NORMALIZED_TEXT",
+                "caseSensitive": false,
+                "stripPunctuation": true,
+                "normalizeWhitespace": true
+              },
+              "lessonId": "les_b1_112_01_abstract_noun_derivation_intro",
+              "unitId": "unit_b1_112_job_searching_cv_preparation_qualif",
+              "cefrLevel": "B1"
+            },
+            {
+              "exerciseId": "ex_b1_112_01_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "Nominalizer -дал⁴ Application to Intransitive Stems",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "allomorph_selection",
+                "stative_nominalization"
+              ],
+              "grammarTargets": [
+                "gram_b1_noun_derivation_abstract_dal_laga"
+              ],
+              "vocabularyTargets": [
+                "байдал",
+                "нөхцөл байдал"
+              ],
+              "prompt": "Which abstract noun is formed by attaching -дал⁴ to the copular verb stem 'бай-' (to be/exist)?",
+              "stimulusTextCyrillic": "бай- + -дал⁴",
+              "hint": "Think of the common word for 'situation / state / condition'.",
+              "options": [
+                {
+                  "id": "nom_baidal",
+                  "text": "байдал (situation / state / condition)",
+                  "cyrillic": "байдал",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'бай-' + '-дал' -> 'байдал'."
+                },
+                {
+                  "id": "nom_bailga",
+                  "text": "байлга (act of maintaining / causing to be)",
+                  "cyrillic": "байлга",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. '-лга' yields action/causative noun, not stative condition."
+                },
+                {
+                  "id": "nom_baishil",
+                  "text": "байшил",
+                  "cyrillic": "байшил",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Non-existent derivation."
+                }
+              ],
+              "correctAnswer": "байдал (situation / state / condition)",
+              "acceptableAlternatives": [
+                "байдал"
+              ],
+              "explanation": "'Бай-' (to be) combines with nominalizer '-дал' to form 'байдал' (situation, condition, state of affairs).",
+              "learnerFeedback": {
+                "onSuccess": "Зөв! 'байдал' describes conditions and states.",
+                "onFailure": "бай- + -дал = байдал."
+              },
+              "detailedGrammarNote": "Suffix -дал⁴ often attaches to stative and intransitive verbs to denote states of being or phenomena ('байдал' = condition, 'явдал' = conduct/affair, 'суудал' = seat/settlement).",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Эдийн засгийн байдал тогтвортой байна.",
+                "slowSpeechSynthesisText": "байдал",
+                "ipaTranscription": "/pæːtəɮ/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_b1_112_01_abstract_noun_derivation_intro",
+              "unitId": "unit_b1_112_job_searching_cv_preparation_qualif",
+              "cefrLevel": "B1"
+            },
+            {
+              "exerciseId": "ex_b1_112_01_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "Syntactic Substitution: Converting Verb Clauses to Nominal Heads",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "syntactic_nominalization",
+                "register_elevation"
+              ],
+              "grammarTargets": [
+                "gram_b1_noun_derivation_abstract_dal_laga"
+              ],
+              "vocabularyTargets": [
+                "төлөвлөх",
+                "төлөвлөгөө"
+              ],
+              "prompt": "Convert the verbal sentence 'Бид ирэх жил шинэ салбар нээхээр төлөвлөж байна' (We are planning to open a new branch next year) into a formal administrative noun phrase using 'төлөвлөгөө' (plan):",
+              "hint": "'Бидний төлөвлөгөө' (Our plan) replaces the verb.",
+              "options": [
+                {
+                  "id": "sub_correct",
+                  "text": "Ирэх жил шинэ салбар нээх нь бидний төлөвлөгөөнд тусгагдсан. (Opening a new branch next year is reflected in our plan.)",
+                  "cyrillic": "бидний төлөвлөгөөнд тусгагдсан",
+                  "isCorrect": true,
+                  "explanation": "Correct! Elegant conversion from verbal clause to formal institutional nominal structure."
+                },
+                {
+                  "id": "sub_wrong1",
+                  "text": "*Бид нар төлөвлөдөг юм уу.",
+                  "cyrillic": "*Бид нар төлөвлөдөг юм уу.",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Casual colloquial question."
+                },
+                {
+                  "id": "sub_wrong2",
+                  "text": "*Төлөвлөж байгаа бид.",
+                  "cyrillic": "*Төлөвлөж байгаа бид.",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Ungrammatical word order."
+                }
+              ],
+              "correctAnswer": "Ирэх жил шинэ салбар нээх нь бидний төлөвлөгөөнд тусгагдсан. (Opening a new branch next year is reflected in our plan.)",
+              "acceptableAlternatives": [
+                "бидний төлөвлөгөөнд тусгагдсан",
+                "Ирэх жил шинэ салбар нээх нь бидний төлөвлөгөөнд тусгагдсан."
+              ],
+              "explanation": "Professional Mongolian chancellery style elevates clauses by replacing verbs with derived nominals ('төлөвлөх' -> 'төлөвлөгөөнд тусгагдах').",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! Masterful transformation into formal institutional register.",
+                "onFailure": "Nominalize 'төлөвлөх' to 'төлөвлөгөө'."
+              },
+              "detailedGrammarNote": "Deverbal abstract nouns readily take possessive and locative markers ('төлөвлөгөө-нд') to anchor passive and impersonal predicates in organizational reporting.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Ирэх жил шинэ салбар нээх нь бидний төлөвлөгөөнд тусгагдсан.",
+                "slowSpeechSynthesisText": "бидний төлөвлөгөөнд тусгагдсан.",
+                "ipaTranscription": "/irəx tʃʰiɮ ʃinə saɮpər neːx nʲ pitniː tʰɵɮɵwɮɵɡɵːntʰ tʰʊsɢəɡtsʰəŋ/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_b1_112_01_abstract_noun_derivation_intro",
+              "unitId": "unit_b1_112_job_searching_cv_preparation_qualif",
+              "cefrLevel": "B1"
+            },
+            {
+              "exerciseId": "ex_b1_112_01_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "Semantic Discrimination: Action Verb vs Abstract Derivative",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "verb_noun_semantic_contrast",
+                "contextual_insertion"
+              ],
+              "grammarTargets": [
+                "gram_b1_noun_derivation_abstract_dal_laga"
+              ],
+              "vocabularyTargets": [
+                "ажиллах",
+                "ажиллагаа"
+              ],
+              "prompt": "Choose the correct word to complete: 'Энэ төхөөрөмжийн хэвийн _________ хангаж ажиллах хэрэгтэй' (We must ensure the normal operation/functioning of this equipment):",
+              "stimulusTextCyrillic": "хэвийн _________ хангаж ажиллах",
+              "hint": "The adjective 'хэвийн' (normal) requires a nominal head meaning 'operation / functioning'.",
+              "options": [
+                {
+                  "id": "sem_ajillagaa",
+                  "text": "ажиллагааг (operation / functioning - accusative noun)",
+                  "cyrillic": "ажиллагааг",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'Хэвийн ажиллагааг хангах' is the standard technical collocation for ensuring normal operation."
+                },
+                {
+                  "id": "sem_ajillah",
+                  "text": "ажиллахыг (infinitive action)",
+                  "cyrillic": "ажиллахыг",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Unnatural technical phrasing."
+                },
+                {
+                  "id": "sem_ajilchin",
+                  "text": "ажилчныг (worker)",
+                  "cyrillic": "ажилчныг",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'Worker' does not fit with 'хэвийн'."
+                }
+              ],
+              "correctAnswer": "ажиллагааг (operation / functioning - accusative noun)",
+              "acceptableAlternatives": [
+                "ажиллагааг",
+                "ажиллагаа"
+              ],
+              "explanation": "'Ажиллах' (to work) derives 'ажиллагаа' (operation, process, action). In the accusative case with 'хангах' (to ensure/provide), it forms the idiomatic compound 'хэвийн ажиллагааг хангах'.",
+              "learnerFeedback": {
+                "onSuccess": "Сайн байна! 'хэвийн ажиллагаа' is the standard operational term.",
+                "onFailure": "Use derived noun: 'ажиллагааг'."
+              },
+              "detailedGrammarNote": "Compound deverbal nouns in -лгаа⁴ ('үйл ажиллагаа' = operations, 'ажиллагаа' = function/operation) dominate workplace technical instructions.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Энэ төхөөрөмжийн хэвийн ажиллагааг хангаж ажиллах хэрэгтэй.",
+                "slowSpeechSynthesisText": "хэвийн ажиллагааг хангах.",
+                "ipaTranscription": "/en tʰɵxɵːrɵmtʃʰiːŋ xewiːŋ atʃʰiɮɮaɢaːɡ xaŋɢətʃʰ atʃʰiɮɮəx xirəkʰtʰeː/",
+                "speakerRole": "female_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_b1_112_01_abstract_noun_derivation_intro",
+              "unitId": "unit_b1_112_job_searching_cv_preparation_qualif",
+              "cefrLevel": "B1"
+            },
+            {
+              "exerciseId": "ex_b1_112_01_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "Token Assembly: Workplace Policy Statement with Multiple Derived Nominals",
+              "modality": "GRAMMAR_PRACTICE",
+              "interactionPattern": "TOKEN_REARRANGEMENT",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "multi_nominal_clause_assembly",
+                "institutional_syntax"
+              ],
+              "grammarTargets": [
+                "gram_b1_noun_derivation_abstract_dal_laga"
+              ],
+              "vocabularyTargets": [
+                "хамтын",
+                "ажиллагаа",
+                "амжилт",
+                "үндэс"
+              ],
+              "prompt": "Reconstruct this organizational motto: 'Cooperation is the foundation of success':",
+              "wordTokens": [
+                "үндэс",
+                "хамтын",
+                "ажиллагаа",
+                "амжилтын",
+                "мөн"
+              ],
+              "correctTokenOrder": [
+                "хамтын",
+                "ажиллагаа",
+                "амжилтын",
+                "үндэс",
+                "мөн"
+              ],
+              "correctAnswer": "хамтын ажиллагаа амжилтын үндэс мөн",
+              "acceptableAlternatives": [
+                "Хамтын ажиллагаа амжилтын үндэс мөн.",
+                "хамтын ажиллагаа амжилтын үндэс"
+              ],
+              "hint": "Cooperation (хамтын ажиллагаа) -> of success (амжилтын) -> foundation (үндэс) -> is (мөн).",
+              "explanation": "'Хамтын ажиллагаа' (cooperation) + 'амжилтын үндэс мөн' (is indeed the foundation of success). Both 'ажиллагаа' and 'амжилт' are derived abstract nouns.",
+              "learnerFeedback": {
+                "onSuccess": "Төгс! Exemplary professional motto assembled.",
+                "onFailure": "Order: хамтын -> ажиллагаа -> амжилтын -> үндэс -> мөн."
+              },
+              "detailedGrammarNote": "'Мөн' at the end of nominal equative clauses acts as an emphatic copula in formal administrative and philosophical statements.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Хамтын ажиллагаа амжилтын үндэс мөн.",
+                "slowSpeechSynthesisText": "Хамтын ажиллагаа амжилтын үндэс мөн.",
+                "ipaTranscription": "/xamtʰiːŋ atʃʰiɮɮaɢaː amtʃʰiɮtʰiːŋ untəs mɵŋ/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "TOKEN_ORDER"
+              },
+              "lessonId": "les_b1_112_01_abstract_noun_derivation_intro",
+              "unitId": "unit_b1_112_job_searching_cv_preparation_qualif",
+              "cefrLevel": "B1"
+            }
+          ],
+          "exerciseCount": 5
+        },
+        {
+          "id": "les_b1_112_02_mongolian_cv_decoding_reading",
+          "title": "Deciphering Mongolian CVs & Professional Job Postings",
+          "cyrillicTitle": "Extract key job requirements, required competencies, degree qualifications, and experience prerequisites from recruitment notices.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Analyze the structural organization, standard headings, and qualification requirements of authentic Mongolian curriculum vitae and vacancy announcements.",
+          "communicativeOutcome": "Extract key job requirements, required competencies, degree qualifications, and experience prerequisites from recruitment notices.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Provide audio pronunciation of specialized occupational titles and professional jargon.",
+          "grammarOverview": {
+            "summary": "Analyze the structural organization, standard headings, and qualification requirements of authentic Mongolian curriculum vitae and vacancy announcements.",
+            "keyPoints": [
+              "obj_b1_112_02_read_mongolian_cv_postings"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_112_03_competency_lexicon_qualifications",
+          "title": "Professional Competency Lexicon: Skills, Credentials & Attributes",
+          "cyrillicTitle": "Formulate a personalized profile of professional skills, certifications, and workplace competencies in Mongolian.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Acquire core professional vocabulary to articulate educational credentials, technical capabilities, leadership skills, and career achievements.",
+          "communicativeOutcome": "Formulate a personalized profile of professional skills, certifications, and workplace competencies in Mongolian.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce professional compound terms and modern workplace loanwords.",
+          "grammarOverview": {
+            "summary": "Acquire core professional vocabulary to articulate educational credentials, technical capabilities, leadership skills, and career achievements.",
+            "keyPoints": [
+              "obj_b1_112_03_express_workplace_competencies"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_b1_112_03_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Distinguishing 'Мэргэжил' (Profession) vs 'Мэргэшил' (Specialization)",
+              "modality": "VOCABULARY_ACQUISITION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "lexical_precision",
+                "hr_terminology_differentiation"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "мэргэжил",
+                "мэргэшил"
+              ],
+              "prompt": "In formal Mongolian human resources terminology, what is the crucial distinction between 'мэргэжил' and 'мэргэшил'?",
+              "hint": "'Мэргэжил' is your broad baseline profession; 'мэргэшил' is specialized postgraduate or practical qualification.",
+              "options": [
+                {
+                  "id": "diff_correct",
+                  "text": "'Мэргэжил' denotes basic occupation/profession (e.g. эмч - physician); 'мэргэшил' denotes sub-specialization or advanced credential (e.g. зүрхний эмч - cardiologist).",
+                  "cyrillic": "мэргэжил бол мэргэжлийн үндэс, мэргэшил бол нарийн мэргэшлийн зэрэг",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'Мэргэжил' is occupation/trade, while 'мэргэшил' is professional specialization/qualification."
+                },
+                {
+                  "id": "diff_wrong1",
+                  "text": "They are completely interchangeable synonyms with no legal or HR difference.",
+                  "cyrillic": "Ижил утгатай",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Mongolian Civil Service and labor codes strictly differentiate them."
+                },
+                {
+                  "id": "diff_wrong2",
+                  "text": "'Мэргэшил' means hobby or extracurricular interest.",
+                  "cyrillic": "Сонирхол",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'Мэргэшил' is an official credential."
+                }
+              ],
+              "correctAnswer": "'Мэргэжил' denotes basic occupation/profession (e.g. эмч - physician); 'мэргэшил' denotes sub-specialization or advanced credential (e.g. зүрхний эмч - cardiologist).",
+              "acceptableAlternatives": [
+                "мэргэжил - profession, мэргэшил - specialization"
+              ],
+              "explanation": "'Мэргэжил' = profession/occupation obtained via initial diploma. 'Мэргэшил' = specialization, continuous professional advancement, or specific qualification accreditation.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! Essential distinction for HR and CV writing.",
+                "onFailure": "Мэргэжил = profession; Мэргэшил = specialization/qualification."
+              },
+              "detailedGrammarNote": "Deverbal noun 'мэргэшил' derives from the verb 'мэргэших' (to become specialized/expert in a field).",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Миний үндсэн мэргэжил инженер, нарийн мэргэшил нь мэдээллийн аюулгүй байдал.",
+                "slowSpeechSynthesisText": "мэргэжил ба мэргэшил.",
+                "ipaTranscription": "/mʲinʲiː untsəŋ merɡətʃʰiɮ intʃʰineːr, nareːŋ merɡətʃʰiɮ nʲ metiːɮɮiːŋ ajʊːɮɡuː pæːtəɮ/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_b1_112_03_competency_lexicon_qualifications",
+              "unitId": "unit_b1_112_job_searching_cv_preparation_qualif",
+              "cefrLevel": "B1"
+            },
+            {
+              "exerciseId": "ex_b1_112_03_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "HR Collocation Pairing: Verbs to Competency Nouns",
+              "modality": "VOCABULARY_ACQUISITION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "collocational_competence",
+                "workplace_phrasing"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "туршлага хуримтлуулах",
+                "ур чадвар эзэмших"
+              ],
+              "prompt": "Which verb naturally pairs with 'туршлага' (experience) to mean 'to accumulate / gain professional experience'?",
+              "stimulusTextCyrillic": "ажлын туршлага _________",
+              "hint": "Look for the verb derived from 'хуримтлал' (accumulation).",
+              "options": [
+                {
+                  "id": "col_hurimtlulax",
+                  "text": "хуримтлуулах (to accumulate / build up)",
+                  "cyrillic": "хуримтлуулах",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'Туршлага хуримтлуулах' is the standard, elegant corporate collocation."
+                },
+                {
+                  "id": "col_hudaldan",
+                  "text": "худалдан авах (to purchase)",
+                  "cyrillic": "худалдан авах",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Experience cannot be bought with 'худалдан авах'."
+                },
+                {
+                  "id": "col_гээх",
+                  "text": "гээх (to lose/drop)",
+                  "cyrillic": "гээх",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Means to lose."
+                }
+              ],
+              "correctAnswer": "хуримтлуулах (to accumulate / build up)",
+              "acceptableAlternatives": [
+                "хуримтлуулах",
+                "туршлага хуримтлуулах"
+              ],
+              "explanation": "'Ажлын туршлага хуримтлуулах' (to accumulate work experience) is the authoritative collocation across resume descriptions.",
+              "learnerFeedback": {
+                "onSuccess": "Сайн байна! 'туршлага хуримтлуулах' is the authentic professional collocation.",
+                "onFailure": "Pair 'туршлага' with 'хуримтлуулах'."
+              },
+              "detailedGrammarNote": "'Хуримтлуулах' is a causative verb from 'хуримтлах' (to accumulate, amass), widely used in educational and corporate discourse.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Тэрээр санхүүгийн салбарт арван жилийн туршлага хуримтлуулсан.",
+                "slowSpeechSynthesisText": "туршлага хуримтлуулах.",
+                "ipaTranscription": "/tʰereːr saŋxuːɡiːŋ saɮpərtʰ arwəŋ tʃʰiɮiːŋ tʰʊrʃɮəɢ xʊrʲimtʰɮʊːɮsəŋ/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_b1_112_03_competency_lexicon_qualifications",
+              "unitId": "unit_b1_112_job_searching_cv_preparation_qualif",
+              "cefrLevel": "B1"
+            },
+            {
+              "exerciseId": "ex_b1_112_03_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "Deciphering Job Vacancy Minimum Criteria",
+              "modality": "VOCABULARY_ACQUISITION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "job_posting_analysis",
+                "qualification_audit"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "тавигдах шаардлага",
+                "бакалавр",
+                "дээш"
+              ],
+              "prompt": "Read the following extract from an Ulaanbaatar corporate job posting:\n\n'ТАВИГДАХ ШААРДЛАГА:\n- Бизнесийн удирдлага, эдийн засгийн чиглэлээр бакалавр болон түүнээс дээш зэрэгтэй байх\n- Мэргэжлээрээ 3-аас доошгүй жил ажилласан туршлагатай байх\n- Англи хэлний ахисан түвшний мэдлэгтэй байх'\n\nWhat is the minimum work experience required in the candidate's field?",
+              "stimulusTextCyrillic": "Мэргэжлээрээ 3-аас доошгүй жил ажилласан туршлагатай байх",
+              "hint": "'3-аас доошгүй' means 'not less than 3 / at least 3'.",
+              "options": [
+                {
+                  "id": "req_3years",
+                  "text": "At least 3 years of work experience in the profession (3-аас доошгүй жил)",
+                  "cyrillic": "3-аас доошгүй жил",
+                  "isCorrect": true,
+                  "explanation": "Correct! '3-аас доошгүй' = minimum of 3 years."
+                },
+                {
+                  "id": "req_max3",
+                  "text": "Maximum 3 years of experience",
+                  "cyrillic": "3-аас ихгүй",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'Доошгүй' means not less than."
+                },
+                {
+                  "id": "req_none",
+                  "text": "No previous experience required",
+                  "cyrillic": "Туршлага шаардахгүй",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Experience is mandatory."
+                }
+              ],
+              "correctAnswer": "At least 3 years of work experience in the profession (3-аас доошгүй жил)",
+              "acceptableAlternatives": [
+                "At least 3 years",
+                "3-аас доошгүй жил",
+                "3 years minimum"
+              ],
+              "explanation": "'3-аас доошгүй' combines ablative case '-аас' with postposition 'доош' and negative caritive '-гүй' to denote 'not lower than 3 / minimum 3'.",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! Accurate decoding of legal HR criteria.",
+                "onFailure": "'3-аас доошгүй' = at least 3 years."
+              },
+              "detailedGrammarNote": "Standard administrative threshold criteria utilize the formula '[Num]-аас доошгүй' (minimum) and '[Num]-аас дээшгүй' (maximum).",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Мэргэжлээрээ гурваас доошгүй жил ажилласан туршлагатай байх шаардлагатай.",
+                "slowSpeechSynthesisText": "гурваас доошгүй жил ажилласан туршлага.",
+                "ipaTranscription": "/merɡətʃʰɮeːreː ɢʊrwaːs tʰɔːʃɢuː tʃʰiɮ atʃʰiɮɮəsəŋ tʰʊrʃɮəɢtʰæː pæːx ʃaːrtɮəɢtʰaː/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_b1_112_03_competency_lexicon_qualifications",
+              "unitId": "unit_b1_112_job_searching_cv_preparation_qualif",
+              "cefrLevel": "B1"
+            },
+            {
+              "exerciseId": "ex_b1_112_03_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "High-Register Teamwork Descriptor Selection",
+              "modality": "VOCABULARY_ACQUISITION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "register_elevation",
+                "soft_skills_lexicon"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "багаар ажиллах",
+                "харилцааны ур чадвар"
+              ],
+              "prompt": "Which phrase is the standard, elevated professional expression for 'demonstrates strong teamwork and interpersonal communication skills'?",
+              "hint": "'Багаар ажиллах' (working in a team) + 'харилцааны ур чадвар сайтай' (having good communication skills).",
+              "options": [
+                {
+                  "id": "sk_formal",
+                  "text": "Багаар ажиллах болон харилцааны өндөр ур чадвартай (Possessing high teamwork and communication competencies)",
+                  "cyrillic": "Багаар ажиллах болон харилцааны өндөр ур чадвартай",
+                  "isCorrect": true,
+                  "explanation": "Correct! Elegant, standard resume wording."
+                },
+                {
+                  "id": "sk_colloquial",
+                  "text": "Хүмүүстэй сайн ярьж, найзалдаг (Talks well and makes friends with folks)",
+                  "cyrillic": "Хүмүүстэй сайн ярьдаг",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Overly colloquial and unsuited for a professional profile."
+                },
+                {
+                  "id": "sk_passive",
+                  "text": "Хүн дуудахаар очдог (Goes when someone calls)",
+                  "cyrillic": "Хүн дуудахаар очдог",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Not a professional competency."
+                }
+              ],
+              "correctAnswer": "Багаар ажиллах болон харилцааны өндөр ур чадвартай (Possessing high teamwork and communication competencies)",
+              "acceptableAlternatives": [
+                "Багаар ажиллах болон харилцааны өндөр ур чадвартай"
+              ],
+              "explanation": "Professional CVs utilize compound nominals with comitative/possessive adjectival suffixes: 'багаар ажиллах болон харилцааны өндөр ур чадвартай'.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! High-register professional soft skill description.",
+                "onFailure": "Use: 'Багаар ажиллах болон харилцааны өндөр ур чадвартай'."
+              },
+              "detailedGrammarNote": "The adjectival suffix '-тай/-тэй⁴' acts productively to create predicate descriptors ('ур чадвартай' = competent, skilled).",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Тэрээр багаар ажиллах болон харилцааны өндөр ур чадвартай мэргэжилтэн юм.",
+                "slowSpeechSynthesisText": "багаар ажиллах болон харилцааны өндөр ур чадвар.",
+                "ipaTranscription": "/tʰereːr pʰaɢaːr atʃʰiɮɮəx pɔɮəŋ xarʲiɮtsʰaːniː ɵntɵr ʊr tʃʰatwərtʰæː merɡətʃʰiɮtʰəŋ jʊm/",
+                "speakerRole": "female_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_b1_112_03_competency_lexicon_qualifications",
+              "unitId": "unit_b1_112_job_searching_cv_preparation_qualif",
+              "cefrLevel": "B1"
+            },
+            {
+              "exerciseId": "ex_b1_112_03_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "Cloze Insertion: Professional Analytical Capability",
+              "modality": "VOCABULARY_ACQUISITION",
+              "interactionPattern": "CLOZE_TEXT",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "cloze_precision",
+                "analytical_competency_lexicon"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "дүн шинжилгээ хийх"
+              ],
+              "prompt": "Fill in the blank with the institutional term meaning 'analysis / evaluation' in the phrase 'асуудалд ______ хийх чадвартай' (capable of conducting analysis on issues):",
+              "contextSentence": "Асуудалд дүн шинжилгээ хийх чадвартай. (Capable of conducting analysis on issues.)",
+              "stimulusTextCyrillic": "асуудалд ______ хийх чадвартай",
+              "hint": "Recall the standard professional compound noun combining the word for evaluation/result with the word for research/analysis.",
+              "correctAnswer": "дүн шинжилгээ",
+              "acceptableAlternatives": [
+                "дүн шинжилгээ",
+                "Дүн шинжилгээ"
+              ],
+              "explanation": "'Дүн шинжилгээ хийх' (to perform analytical assessment / data analysis) is the formal phrase for analytical competence.",
+              "learnerFeedback": {
+                "onSuccess": "Гайхалтай! 'дүн шинжилгээ' is the authoritative term for analysis.",
+                "onFailure": "Remember that 'дүн шинжилгээ хийх' expresses professional analytical capability."
+              },
+              "detailedGrammarNote": "'Дүн шинжилгээ' combines 'дүн' (summary, result, grade) with deverbal noun 'шинжилгээ' (investigation, research, analysis from 'шинжлэх').",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Асуудалд бодит дүн шинжилгээ хийх чадвартай.",
+                "slowSpeechSynthesisText": "дүн шинжилгээ хийх чадвар.",
+                "ipaTranscription": "/asʊːtəɮtʰ pɔtʲitʰ tʰuŋ ʃintʃʰiɮɡeː xiːx tʃʰatwər/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "NORMALIZED_TEXT",
+                "caseSensitive": false,
+                "stripPunctuation": true,
+                "normalizeWhitespace": true
+              },
+              "lessonId": "les_b1_112_03_competency_lexicon_qualifications",
+              "unitId": "unit_b1_112_job_searching_cv_preparation_qualif",
+              "cefrLevel": "B1"
+            }
+          ],
+          "exerciseCount": 5
+        },
+        {
+          "id": "les_b1_112_04_authoring_professional_cv_writing",
+          "title": "Writing Workshop: Authoring a Professional Mongolian Resume",
+          "cyrillicTitle": "Produce a well-formatted, culturally standard Mongolian resume suitable for submission to local and international employers.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Compose a structured 1-page Mongolian CV comprising personal info, education chronology, career experience, and core competencies.",
+          "communicativeOutcome": "Produce a well-formatted, culturally standard Mongolian resume suitable for submission to local and international employers.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Provide auditory reinforcement of written cv section titles and key descriptors.",
+          "grammarOverview": {
+            "summary": "Compose a structured 1-page Mongolian CV comprising personal info, education chronology, career experience, and core competencies.",
+            "keyPoints": [
+              "obj_b1_112_04_write_structured_cv"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_b1_112_04_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Sequencing Standard Mongolian CV Sections",
+              "modality": "WRITING_PRODUCTION",
+              "interactionPattern": "TOKEN_REARRANGEMENT",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "resume_macrostructure",
+                "document_formatting"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "Хувийн мэдээлэл",
+                "Боловсрол",
+                "Ажлын туршлага",
+                "Ур чадвар"
+              ],
+              "prompt": "Arrange the standard Mongolian resume sections into canonical order from top to bottom:",
+              "wordTokens": [
+                "Ур чадвар",
+                "Хувийн мэдээлэл",
+                "Ажлын туршлага",
+                "Боловсрол"
+              ],
+              "correctTokenOrder": [
+                "Хувийн мэдээлэл",
+                "Боловсрол",
+                "Ажлын туршлага",
+                "Ур чадвар"
+              ],
+              "correctAnswer": "Хувийн мэдээлэл, Боловсрол, Ажлын туршлага, Ур чадвар",
+              "acceptableAlternatives": [
+                "Хувийн мэдээлэл Боловсрол Ажлын туршлага Ур чадвар"
+              ],
+              "hint": "Personal info comes first, followed by education, work history, and competencies.",
+              "explanation": "Standard Mongolian professional resume (товч намтар) architecture progresses logically: 1. Хувийн мэдээлэл (Personal Info) -> 2. Боловсрол (Education) -> 3. Ажлын туршлага (Experience) -> 4. Ур чадвар (Skills).",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! Standard Mongolian CV layout mastered.",
+                "onFailure": "Order: Хувийн мэдээлэл -> Боловсрол -> Ажлын туршлага -> Ур чадвар."
+              },
+              "detailedGrammarNote": "The traditional term 'намтар' (biography) has evolved in modern corporate practice into 'Анкет' or 'Товч намтар / CV'.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Товч намтар нь хувийн мэдээлэл, боловсрол, ажлын туршлага болон ур чадвараас бүрдэнэ.",
+                "slowSpeechSynthesisText": "Хувийн мэдээлэл, боловсрол, ажлын туршлага, ур чадвар.",
+                "ipaTranscription": "/tʰɔwtʃʰ namtʰər nʲ xʊwiːŋ metiːɮəɮ, pɔɮɔwsrɔɮ, atʃʰiɮiːŋ tʰʊrʃɮəɢ pɔɮɔŋ ʊr tʃʰatwəraːs pʊrtən/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "TOKEN_ORDER"
+              },
+              "lessonId": "les_b1_112_04_authoring_professional_cv_writing",
+              "unitId": "unit_b1_112_job_searching_cv_preparation_qualif",
+              "cefrLevel": "B1"
+            },
+            {
+              "exerciseId": "ex_b1_112_04_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "Register Elevation in Action Bullet Points",
+              "modality": "WRITING_PRODUCTION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "resume_bullet_crafting",
+                "register_transformation"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "удирдан зохион байгуулах",
+                "төсөл хэрэгжүүлэх"
+              ],
+              "prompt": "A candidate drafted this conversational draft for their resume: 'Би 5 хүнийг хариуцаж ажилласан' (I worked taking care of 5 people). Which option elevates this into a formal, high-impact bullet point?",
+              "hint": "Use formal participial phrasing: 'удирдан зохион байгуулсан' (managed and organized).",
+              "options": [
+                {
+                  "id": "elev_correct",
+                  "text": "5 хүний бүрэлдэхүүнтэй төслийн багийг удирдан зохион байгуулж, төлөвлөгөөт ажлыг амжилттай хэрэгжүүлсэн. (Organized and led a 5-person project team, successfully implementing planned targets.)",
+                  "cyrillic": "багийг удирдан зохион байгуулсан",
+                  "isCorrect": true,
+                  "explanation": "Correct! Replaces conversational 'хариуцаж ажилласан' with professional compound verbs 'удирдан зохион байгуулж... хэрэгжүүлсэн'."
+                },
+                {
+                  "id": "elev_weak",
+                  "text": "Би дарга байсан, 5 хүн миний дор ажилласан. (I was boss, 5 people worked under me.)",
+                  "cyrillic": "Би дарга байсан",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Egocentric and colloquial."
+                },
+                {
+                  "id": "elev_passive",
+                  "text": "5 хүн ажиллаж байхыг харсан. (Watched 5 people working.)",
+                  "cyrillic": "харсан",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Passive observation, not achievement."
+                }
+              ],
+              "correctAnswer": "5 хүний бүрэлдэхүүнтэй төслийн багийг удирдан зохион байгуулж, төлөвлөгөөт ажлыг амжилттай хэрэгжүүлсэн. (Organized and led a 5-person project team, successfully implementing planned targets.)",
+              "acceptableAlternatives": [
+                "5 хүний бүрэлдэхүүнтэй төслийн багийг удирдан зохион байгуулсан"
+              ],
+              "explanation": "Professional Mongolian CV bullet points utilize compound modal converbs with perfective past participles: 'удирдан зохион байгуулж... амжилттай хэрэгжүүлсэн'.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! High-impact corporate leadership articulation.",
+                "onFailure": "Elevate with: '5 хүний бүрэлдэхүүнтэй төслийн багийг удирдан зохион байгуулж... хэрэгжүүлсэн.'."
+              },
+              "detailedGrammarNote": "The modal converb in -н ('удирдан') joins seamlessly with secondary transitive verbs ('зохион байгуулах') to form elegant elevated verb chains.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Таван хүний бүрэлдэхүүнтэй төслийн багийг удирдан зохион байгуулж, амжилттай хэрэгжүүлсэн.",
+                "slowSpeechSynthesisText": "төслийн багийг удирдан зохион байгуулсан.",
+                "ipaTranscription": "/tʰawəŋ xuniː pʊreɮtəxuːntʰeː tʰɵsɮiːŋ pʰaɡiːɡ ʊtirtəŋ tsɔxʲɔŋ pæːɢʊːɮtʃʰ, amtʃʰiɮtʰtʰæː xirəkʰtʃuːɮsəŋ/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_b1_112_04_authoring_professional_cv_writing",
+              "unitId": "unit_b1_112_job_searching_cv_preparation_qualif",
+              "cefrLevel": "B1"
+            },
+            {
+              "exerciseId": "ex_b1_112_04_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "Composing Career Objective Statement (Зорилго)",
+              "modality": "WRITING_PRODUCTION",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
+              "skillTargets": [
+                "career_objective_composition",
+                "rhetorical_framing"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "хувь нэмэр оруулах",
+                "мэргэжлийн өсөлт"
+              ],
+              "prompt": "Which career objective statement (Зорилго) best demonstrates mutual value creation for an applicant seeking a financial analyst position?",
+              "hint": "Balance personal growth with institutional contribution ('байгууллагын хөгжилд хувь нэмэр оруулах').",
+              "options": [
+                {
+                  "id": "obj_mutual",
+                  "text": "Өөрийн мэдлэг, ур чадвараа дайчлан санхүүгийн шинжилгээний чиглэлээр тасралтгүй хөгжиж, байгууллагын үйл ажиллагаанд бодитой хувь нэмэр оруулах. (To deploy my knowledge and competencies to continuously develop in financial analysis, making a tangible contribution to organizational operations.)",
+                  "cyrillic": "байгууллагын үйл ажиллагаанд бодитой хувь нэмэр оруулах",
+                  "isCorrect": true,
+                  "explanation": "Correct! Exemplary career objective balancing dedication ('дайчлан'), growth ('хөгжиж'), and institutional impact ('хувь нэмэр оруулах')."
+                },
+                {
+                  "id": "obj_selfish",
+                  "text": "Өндөр цалинтай ажилд орж, туршлага олж авах. (To get a high-paying job and get experience.)",
+                  "cyrillic": "Өндөр цалин авах",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Blunt, mercenary, and unacceptable in formal profiles."
+                },
+                {
+                  "id": "obj_vague",
+                  "text": "Ямар нэгэн ажил олж хийхийг хүсэж байна. (Wanting to find some work to do.)",
+                  "cyrillic": "Ямар нэг ажил хийх",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Vague and passive."
+                }
+              ],
+              "correctAnswer": "Өөрийн мэдлэг, ур чадвараа дайчлан санхүүгийн шинжилгээний чиглэлээр тасралтгүй хөгжиж, байгууллагын үйл ажиллагаанд бодитой хувь нэмэр оруулах. (To deploy my knowledge and competencies to continuously develop in financial analysis, making a tangible contribution to organizational operations.)",
+              "acceptableAlternatives": [
+                "байгууллагын үйл ажиллагаанд бодитой хувь нэмэр оруулах"
+              ],
+              "explanation": "A professional Mongolian career summary highlights: 1. Deploying capability ('дайчлан') + 2. Organizational contribution ('байгууллагын хөгжилд хувь нэмэр оруулах').",
+              "learnerFeedback": {
+                "onSuccess": "Сайн байна! Balanced and persuasive career objective.",
+                "onFailure": "Focus on institutional contribution: 'хувь нэмэр оруулах'."
+              },
+              "detailedGrammarNote": "'Хувь нэмэр оруулах' (literally 'to introduce a share and addition') is the universal idiomatic expression for 'to contribute to a collective goal'.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Өөрийн ур чадвараа дайчлан, байгууллагын хөгжилд бодитой хувь нэмэр оруулах.",
+                "slowSpeechSynthesisText": "байгууллагын хөгжилд хувь нэмэр оруулах.",
+                "ipaTranscription": "/ɵːriːŋ ʊr tʃʰatwəraː tæːtʃʰɮəŋ, pæːɢʊːɮɮəɢiːŋ xɵɡtʃʰiɮtʰ pɔtʲitʰeː xʊwʲ nʲimər ɔrʊːɮəx/",
+                "speakerRole": "female_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_b1_112_04_authoring_professional_cv_writing",
+              "unitId": "unit_b1_112_job_searching_cv_preparation_qualif",
+              "cefrLevel": "B1"
+            },
+            {
+              "exerciseId": "ex_b1_112_04_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "Cloze Completion: Educational Degree Qualification Phrase",
+              "modality": "WRITING_PRODUCTION",
+              "interactionPattern": "CLOZE_TEXT",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "diploma_entry_precision",
+                "academic_credential_cloze"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "төгссөн",
+                "мэргэжлээр",
+                "диплом"
+              ],
+              "prompt": "Fill in the blank with the appropriate past participle of 'төгсөх' (to graduate) in your education entry:\n\n'2020 онд Монгол Улсын Их Сургуулийг программ хангамжийн инженер мэргэжлээр _______.'",
+              "contextSentence": "2020 онд МУИС-ийг төгссөн. (Graduated NUM in 2020.)",
+              "stimulusTextCyrillic": "инженер мэргэжлээр _______.",
+              "hint": "Apply the rounded front-vowel past participle suffix (-сөн) to the verbal stem for completing/graduating.",
+              "correctAnswer": "төгссөн",
+              "acceptableAlternatives": [
+                "төгссөн",
+                "Төгссөн"
+              ],
+              "explanation": "'Төгссөн' (graduated) is the standard terminal participle for educational history entries in Mongolian CVs.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! 'төгссөн' is the exact credential verb.",
+                "onFailure": "Use the past participle form of 'төгсөх' (-сөн) to mark educational completion."
+              },
+              "detailedGrammarNote": "In Mongolian CV syntax, the university name takes the accusative case ('Их Сургуулийг'), the major takes the instrumental ('мэргэжлээр'), and the entry concludes with past participle 'төгссөн'.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Хоёр мянга хорин онд Монгол Улсын Их Сургуулийг программ хангамжийн инженер мэргэжлээр төгссөн.",
+                "slowSpeechSynthesisText": "инженер мэргэжлээр төгссөн.",
+                "ipaTranscription": "/xɔjər mʲaŋɢə xɔrʲəŋ ɔŋtʰ mɔŋɢəɮ ʊɮsiːŋ ix sʊrɢʊːɮiːɡ pʰrɔɡram xaŋɢəmtʃʰiːŋ intʃʰineːr merɡətʃʰɮeːr tʰɵɡssɵŋ/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "NORMALIZED_TEXT",
+                "caseSensitive": false,
+                "stripPunctuation": true,
+                "normalizeWhitespace": true
+              },
+              "lessonId": "les_b1_112_04_authoring_professional_cv_writing",
+              "unitId": "unit_b1_112_job_searching_cv_preparation_qualif",
+              "cefrLevel": "B1"
+            },
+            {
+              "exerciseId": "ex_b1_112_04_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "CV Section Rubric Evaluation",
+              "modality": "WRITING_PRODUCTION",
+              "interactionPattern": "OPEN_RESPONSE_RUBRIC",
+              "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
+              "skillTargets": [
+                "cv_self_evaluation",
+                "holistic_rubric_grading"
+              ],
+              "grammarTargets": [
+                "gram_b1_noun_derivation_abstract_dal_laga"
+              ],
+              "vocabularyTargets": [
+                "ажлын туршлага",
+                "гүйцэтгэсэн үүрэг",
+                "үр дүн"
+              ],
+              "prompt": "Evaluate this draft CV work experience excerpt against institutional standards:\n\n'2021-2023 он: \"Номин Холдинг\" ХХК-д Маркетингийн менежер.\n- Компанийн шинэ бүтээгдэхүүний зах зээлийн судалгааг удирдан хийсэн.\n- Борлуулалтын хэмжээг 15 хувиар өсгөсөн.\n- Багийн 4 гишүүнийг өдөр тутмын үйл ажиллагаагаар чиглүүлсэн.'\n\nExplain whether this excerpt meets professional standards for: 1. Action verbs, 2. Quantified results, 3. Grammatical accuracy.",
+              "stimulusTextCyrillic": "2021-2023 он: Маркетингийн менежер ... Борлуулалтын хэмжээг 15 хувиар өсгөсөн.",
+              "correctAnswer": "Meets professional standards with clear elevated action verbs (удирдан хийсэн, өсгөсөн, чиглүүлсэн), measurable outcome (15 хувиар өсгөсөн), and correct casing.",
+              "acceptableAlternatives": [
+                "Meets professional standards",
+                "Зөв боловсруулсан",
+                "Standard compliant"
+              ],
+              "hint": "Notice whether verbs are elevated and whether measurable outcomes (15%) are included.",
+              "explanation": "The excerpt successfully satisfies professional CV criteria: elevated deverbal participles, quantified commercial achievement (15% growth), and accurate casing (ХХК-д, судалгааг).",
+              "learnerFeedback": {
+                "onSuccess": "Төгс! You evaluated the CV entry with critical professional acuity.",
+                "onFailure": "Check if the entry contains elevated action verbs and quantified impact."
+              },
+              "detailedGrammarNote": "Modern Mongolian business CVs emphasize concrete results ('үр дүн') expressed via quantified instrumental percentages ('15 хувиар').",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Энэхүү товч намтрын хэсэг нь мэргэжлийн шаардлагад бүрэн нийцсэн байна.",
+                "slowSpeechSynthesisText": "мэргэжлийн шаардлагад бүрэн нийцсэн.",
+                "ipaTranscription": "/enəxuː tʰɔwtʃʰ namtʰriːŋ xisəɡ nʲ merɡətʃʰɮiːŋ ʃaːrtɮəɢtʰ pʰurəŋ nʲiːtsʰsəŋ pæːn/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "RUBRIC_CRITERIA",
+                "rubricCriteria": [
+                  {
+                    "criterion": "Identifies elevated action verbs",
+                    "points": 40,
+                    "description": "Notes 'удирдан хийсэн', 'өсгөсөн', 'чиглүүлсэн'."
+                  },
+                  {
+                    "criterion": "Recognizes quantified metrics",
+                    "points": 30,
+                    "description": "Points out '15 хувиар өсгөсөн'."
+                  },
+                  {
+                    "criterion": "Verifies grammatical suffix accuracy",
+                    "points": 30,
+                    "description": "Confirms correct case usage like accusative 'судалгааг'."
+                  }
+                ]
+              },
+              "lessonId": "les_b1_112_04_authoring_professional_cv_writing",
+              "unitId": "unit_b1_112_job_searching_cv_preparation_qualif",
+              "cefrLevel": "B1"
+            }
+          ],
+          "exerciseCount": 5
+        },
+        {
+          "id": "les_b1_112_05_career_trajectory_pitch_spoken",
+          "title": "Spoken Production: Pitching Your Career Trajectory & Ambitions",
+          "cyrillicTitle": "Present yourself professionally to a recruitment panel or networking contact with fluent delivery and structured discourse.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver a coherent, sustained 2-minute oral monologue presenting educational background, key achievements, and future career direction.",
+          "communicativeOutcome": "Present yourself professionally to a recruitment panel or networking contact with fluent delivery and structured discourse.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Provide natural native speaker model of a professional career pitch.",
+          "grammarOverview": {
+            "summary": "Deliver a coherent, sustained 2-minute oral monologue presenting educational background, key achievements, and future career direction.",
+            "keyPoints": [
+              "obj_b1_112_05_deliver_career_pitch"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b1_113_job_interview_strategies_answering_",
+      "unitNumber": 113,
+      "title": "Job Interview Strategies & Answering Tough Questions",
+      "cyrillicTitle": "Presenting professional strengths and answering behavioral questions",
+      "description": "Acquire and apply grammatical morphology (gram_b1_verb_derivation_denominal_lakh) to fulfill communicative functions in: Job Interview Strategies & Answering Tough Questions.",
+      "cefrLevel": "B1",
+      "primaryGrammarTopic": "gram_b1_verb_derivation_denominal_lakh",
+      "lessons": [
+        {
+          "id": "les_b1_113_01_interview_action_verbs_lexicon",
+          "title": "Interview Action Lexicon: Operational Verbs & Behavioral Descriptors",
+          "cyrillicTitle": "Describe specific past job actions and achievements using precise professional action verbs.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Acquire dynamic operational verbs and behavioral terminology required to explain workplace challenges, problem resolution, and leadership initiatives.",
+          "communicativeOutcome": "Describe specific past job actions and achievements using precise professional action verbs.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Model proper verb stress and pronunciation of multi-syllable operational terms.",
+          "grammarOverview": {
+            "summary": "Acquire dynamic operational verbs and behavioral terminology required to explain workplace challenges, problem resolution, and leadership initiatives.",
+            "keyPoints": [
+              "obj_b1_113_01_interview_action_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_113_02_denominal_verb_derivation_intro",
+          "title": "Verbalizing Nouns: Denominal Derivation Suffix -лах/-лэх/-лох/-лөх",
+          "cyrillicTitle": "Form and apply denominal verbs such as ажиллах, төлөвлөх, баталгаажуулах, and удирдах in interview responses.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the productive denominal verbalizer suffix -лах⁴ to convert nouns into operational workplace action verbs.",
+          "communicativeOutcome": "Form and apply denominal verbs such as ажиллах, төлөвлөх, баталгаажуулах, and удирдах in interview responses.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Illustrate vowel harmony changes across masculine and feminine noun roots.",
+          "grammarOverview": {
+            "summary": "Introduce the productive denominal verbalizer suffix -лах⁴ to convert nouns into operational workplace action verbs.",
+            "keyPoints": [
+              "obj_b1_113_02_derive_denominal_verbs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_113_03_panel_interview_questions_listening",
+          "title": "Acoustic Decoding: Multi-Part Behavioral Interview Questions",
+          "cyrillicTitle": "Understand the core premise, implicit expectations, and specific examples requested in rapid interview questions.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Develop auditory listening comprehension for multi-part, complex behavioral questions posed by Mongolian interview panels.",
+          "communicativeOutcome": "Understand the core premise, implicit expectations, and specific examples requested in rapid interview questions.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic HR panel dialogue with varied adult speakers and realistic corporate acoustic ambiance.",
+          "grammarOverview": {
+            "summary": "Develop auditory listening comprehension for multi-part, complex behavioral questions posed by Mongolian interview panels.",
+            "keyPoints": [
+              "obj_b1_113_03_comprehend_interview_questions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_113_04_simulated_high_stakes_interview",
+          "title": "Interactive Simulation: The Formal Job Interview",
+          "cyrillicTitle": "Respond fluently and diplomatically to tough interviewer prompts, structuring responses using the STAR method.",
+          "estimatedMinutes": 15,
+          "lessonType": "interview_simulation",
+          "primaryPurpose": "Engage in a full multi-turn simulated job interview handling challenging behavioral, technical, and salary expectations questions.",
+          "communicativeOutcome": "Respond fluently and diplomatically to tough interviewer prompts, structuring responses using the STAR method.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Prompt learner turns with native interviewer voices asking follow-up challenges.",
+          "grammarOverview": {
+            "summary": "Engage in a full multi-turn simulated job interview handling challenging behavioral, technical, and salary expectations questions.",
+            "keyPoints": [
+              "obj_b1_113_04_conduct_job_interview"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_113_05_interview_performance_debrief_discussion",
+          "title": "Discussion & Strategy: Evaluating Interview Performance & Negotiating Terms",
+          "cyrillicTitle": "Critique sample candidate answers, articulate strengths and weaknesses, and formulate strategic follow-up inquiries.",
+          "estimatedMinutes": 15,
+          "lessonType": "discussion",
+          "primaryPurpose": "Debrief interview outcomes, evaluate candidate responses, and discuss strategic nuances of job offer negotiations in Mongolian culture.",
+          "communicativeOutcome": "Critique sample candidate answers, articulate strengths and weaknesses, and formulate strategic follow-up inquiries.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Provide discussion prompts and sample feedback comments.",
+          "grammarOverview": {
+            "summary": "Debrief interview outcomes, evaluate candidate responses, and discuss strategic nuances of job offer negotiations in Mongolian culture.",
+            "keyPoints": [
+              "obj_b1_113_05_evaluate_interview_tactics"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b1_114_formal_workplace_email_business_cor",
+      "unitNumber": 114,
+      "title": "Formal Workplace Email & Business Correspondence",
+      "cyrillicTitle": "Writing formal memos, requesting meetings, and attaching reports",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Formal Workplace Email & Business Correspondence.",
+      "cefrLevel": "B1",
+      "primaryGrammarTopic": "Writing formal memos, requesting meetings, and attaching reports",
+      "lessons": [
+        {
+          "id": "les_b1_114_01_business_email_genre_reading",
+          "title": "Deciphering Corporate Correspondence: Salutations, Structure & Attachments",
+          "cyrillicTitle": "Understand formal business requests, agendas, attachments, and urgent scheduling directives in corporate communication.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Deconstruct authentic Mongolian corporate email threads, institutional memoranda, and circular announcements.",
+          "communicativeOutcome": "Understand formal business requests, agendas, attachments, and urgent scheduling directives in corporate communication.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Provide audio pronunciation of formal opening and closing salutations.",
+          "grammarOverview": {
+            "summary": "Deconstruct authentic Mongolian corporate email threads, institutional memoranda, and circular announcements.",
+            "keyPoints": [
+              "obj_b1_114_01_read_business_correspondence"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_114_02_corporate_correspondence_lexicon",
+          "title": "Corporate Formulas: Requesting Meetings, Confirming Agreements & Inquiries",
+          "cyrillicTitle": "Use formal epistolary collocations to compose clear, structured requests in institutional settings.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Acquire formulaic phrases and specialized terminology for requesting executive appointments, clarifying project deliverables, and submitting official memos.",
+          "communicativeOutcome": "Use formal epistolary collocations to compose clear, structured requests in institutional settings.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Model formal spoken intonation of polite written expressions.",
+          "grammarOverview": {
+            "summary": "Acquire formulaic phrases and specialized terminology for requesting executive appointments, clarifying project deliverables, and submitting official memos.",
+            "keyPoints": [
+              "obj_b1_114_02_corporate_email_formulas"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_114_03_formal_business_email_composition",
+          "title": "Writing Workshop: Authoring Multi-Paragraph Business Correspondence",
+          "cyrillicTitle": "Produce fully formed, professional business emails that adhere to standard Mongolian corporate protocol.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 150-word formal business email requesting cross-departmental cooperation, attaching a status document, and proposing concrete next steps.",
+          "communicativeOutcome": "Produce fully formed, professional business emails that adhere to standard Mongolian corporate protocol.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Provide auditory feedback for written composition rhythm and sentence bounds.",
+          "grammarOverview": {
+            "summary": "Author a 150-word formal business email requesting cross-departmental cooperation, attaching a status document, and proposing concrete next steps.",
+            "keyPoints": [
+              "obj_b1_114_03_author_business_email"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_114_04_collaborative_agenda_planning",
+          "title": "Collaborative Planning: Negotiating Meeting Agendas via Correspondence",
+          "cyrillicTitle": "Negotiate meeting particulars, confirm availability, and resolve scheduling conflicts in writing.",
+          "estimatedMinutes": 15,
+          "lessonType": "collaborative_planning",
+          "primaryPurpose": "Simulate back-and-forth written email exchanges between departments to coordinate meeting agendas, adjust timelines, and confirm participant lists.",
+          "communicativeOutcome": "Negotiate meeting particulars, confirm availability, and resolve scheduling conflicts in writing.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Auditory playback of incoming email messages in simulated communication environment.",
+          "grammarOverview": {
+            "summary": "Simulate back-and-forth written email exchanges between departments to coordinate meeting agendas, adjust timelines, and confirm participant lists.",
+            "keyPoints": [
+              "obj_b1_114_04_negotiate_meeting_details"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b1_115_causative_voice_base_suffixes_and_",
+      "unitNumber": 115,
+      "title": "Causative Voice Base: Suffixes -уул/-үүл and -лга/-лгэ",
+      "cyrillicTitle": "Delegating tasks and directing colleagues ('хийлгэх, засуулах')",
+      "description": "Acquire and apply grammatical morphology (gram_b1_voice_causative_uul_lga) to fulfill communicative functions in: Causative Voice Base: Suffixes -уул/-үүл and -лга/-лгэ.",
+      "cefrLevel": "B1",
+      "primaryGrammarTopic": "gram_b1_voice_causative_uul_lga",
+      "lessons": [
+        {
+          "id": "les_b1_115_01_causative_morphology_intro",
+          "title": "Morphology of Delegation: The Causative Suffixes -уул/-үүл and -лга/-лгэ",
+          "cyrillicTitle": "Formulate causative verbs (хийлгэх, бичүүлэх, засуулах, уншуулах) to express having tasks completed by others.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the morphological formation of causative verbs using -уул⁴ (after consonants) and -лга⁴ (after vowels/long vowels) to express initiating or commissioning actions.",
+          "communicativeOutcome": "Formulate causative verbs (хийлгэх, бичүүлэх, засуулах, уншуулах) to express having tasks completed by others.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Model phonological stem adjustments when attaching causative suffixes to consonant and vowel stems.",
+          "grammarOverview": {
+            "summary": "Introduce the morphological formation of causative verbs using -уул⁴ (after consonants) and -лга⁴ (after vowels/long vowels) to express initiating or commissioning actions.",
+            "keyPoints": [
+              "obj_b1_115_01_form_causative_verbs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_115_02_causative_valency_guided_practice",
+          "title": "Guided Practice: Transitivity Shifts & Valency Expansion in Causatives",
+          "cyrillicTitle": "Construct grammatically sound multi-argument clauses indicating who caused whom to perform an action.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Differentiate between intransitive bases (явах -> явуулах) becoming transitive and transitive bases (хийх -> хийлгэх) gaining a secondary agent.",
+          "communicativeOutcome": "Construct grammatically sound multi-argument clauses indicating who caused whom to perform an action.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Synthesize full causative clauses contrasting base vs causative stress contours.",
+          "grammarOverview": {
+            "summary": "Differentiate between intransitive bases (явах -> явуулах) becoming transitive and transitive bases (хийх -> хийлгэх) gaining a secondary agent.",
+            "keyPoints": [
+              "obj_b1_115_02_master_causative_valency"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_115_03_workplace_delegation_lexicon",
+          "title": "Delegation Lexicon: Directives, Work Orders & Oversight",
+          "cyrillicTitle": "Discuss supervisory oversight and project assignments using accurate corporate terminology.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Acquire administrative vocabulary for issuing instructions, assigning project milestones, requesting approvals, and commissioning revisions.",
+          "communicativeOutcome": "Discuss supervisory oversight and project assignments using accurate corporate terminology.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Provide audio pronunciation of formal corporate task assignment expressions.",
+          "grammarOverview": {
+            "summary": "Acquire administrative vocabulary for issuing instructions, assigning project milestones, requesting approvals, and commissioning revisions.",
+            "keyPoints": [
+              "obj_b1_115_03_delegation_vocabulary"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_115_04_supervisor_workflow_directives_listening",
+          "title": "Acoustic Comprehension: Following Rapid Supervisor Directives",
+          "cyrillicTitle": "Accurately decipher assigned responsibilities, deadlines, and secondary delegations from spoken team briefings.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Develop listening comprehension for rapid, multi-clause supervisory directives delivered during morning office standup meetings.",
+          "communicativeOutcome": "Accurately decipher assigned responsibilities, deadlines, and secondary delegations from spoken team briefings.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic office background soundscape with fast-paced managerial instructions.",
+          "grammarOverview": {
+            "summary": "Develop listening comprehension for rapid, multi-clause supervisory directives delivered during morning office standup meetings.",
+            "keyPoints": [
+              "obj_b1_115_04_comprehend_supervisor_directives"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_115_05_delegating_milestones_spoken",
+          "title": "Spoken Production: Assigning Project Responsibilities & Deadlines",
+          "cyrillicTitle": "Lead an oral task-allocation session fluently using polite causative constructions and clear timeline boundaries.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an oral team briefing assigning specific project roles, delegating investigative tasks, and setting milestone review dates.",
+          "communicativeOutcome": "Lead an oral task-allocation session fluently using polite causative constructions and clear timeline boundaries.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Provide native benchmark model of a supportive yet authoritative team lead briefing.",
+          "grammarOverview": {
+            "summary": "Deliver an oral team briefing assigning specific project roles, delegating investigative tasks, and setting milestone review dates.",
+            "keyPoints": [
+              "obj_b1_115_05_deliver_delegation_briefing"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b1_116_causative_argument_structure_dative",
+      "unitNumber": 116,
+      "title": "Causative Argument Structure: Dative Agent Marking",
+      "cyrillicTitle": "Marking the intermediate causee agent with the Dative case",
+      "description": "Acquire and apply grammatical morphology (gram_b1_voice_causative_argument_structure) to fulfill communicative functions in: Causative Argument Structure: Dative Agent Marking.",
+      "cefrLevel": "B1",
+      "primaryGrammarTopic": "gram_b1_voice_causative_argument_structure",
+      "lessons": [
+        {
+          "id": "les_b1_116_01_dative_causee_argument_structure_intro",
+          "title": "Causative Syntax: The Dative Causee Agent (-д/-т / -аар/-ээр)",
+          "cyrillicTitle": "Distinguish between asking someone politely to do something (dative) versus employing someone as an instrument/agent to execute a procedure (instrumental).",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the formal argument structure of Mongolian causative clauses, contrasting the Dative causee (-д/-т) for indirect/requested agency with the Instrumental causee (-аар⁴) for intermediate agency.",
+          "communicativeOutcome": "Distinguish between asking someone politely to do something (dative) versus employing someone as an instrument/agent to execute a procedure (instrumental).",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Demonstrate the acoustic contrast between -д/-т and -аар/-ээр in causative argument positions.",
+          "grammarOverview": {
+            "summary": "Introduce the formal argument structure of Mongolian causative clauses, contrasting the Dative causee (-д/-т) for indirect/requested agency with the Instrumental causee (-аар⁴) for intermediate agency.",
+            "keyPoints": [
+              "obj_b1_116_01_mark_dative_causee"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_116_02_multi_argument_causative_guided_practice",
+          "title": "Guided Practice: Constructing Complex 3-Argument Causative Clauses",
+          "cyrillicTitle": "Assemble lengthy, grammatically pristine causative sentences without scrambling argument cases.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Provide systematic drilling on ordering Subject (Causer), Dative/Instrumental Adjunct (Causee), Accusative Object (Patient), and Causative Predicate in complex SOV syntax.",
+          "communicativeOutcome": "Assemble lengthy, grammatically pristine causative sentences without scrambling argument cases.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Provide sentence rhythm cadence for long multi-argument Mongolian utterances.",
+          "grammarOverview": {
+            "summary": "Provide systematic drilling on ordering Subject (Causer), Dative/Instrumental Adjunct (Causee), Accusative Object (Patient), and Causative Predicate in complex SOV syntax.",
+            "keyPoints": [
+              "obj_b1_116_02_order_causative_arguments"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_116_03_corporate_delegation_protocols_reading",
+          "title": "Reading Analysis: Corporate Delegation Protocols & Job Descriptions",
+          "cyrillicTitle": "Comprehend organizational charts, signatory authorities, and delegation matrices in Mongolian companies.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Analyze corporate bylaws, standard operating procedures, and job descriptions outlining official delegation pathways and authority thresholds.",
+          "communicativeOutcome": "Comprehend organizational charts, signatory authorities, and delegation matrices in Mongolian companies.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Audio narration of formal policy clauses for reading alignment.",
+          "grammarOverview": {
+            "summary": "Analyze corporate bylaws, standard operating procedures, and job descriptions outlining official delegation pathways and authority thresholds.",
+            "keyPoints": [
+              "obj_b1_116_03_read_delegation_protocols"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_116_04_workplace_negotiation_dialogue",
+          "title": "Interactive Dialogue: Managing Project Delegation & Deadlines",
+          "cyrillicTitle": "Negotiate who will execute specific work packages, establishing agreeable deadlines while preserving team harmony.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Conduct an interactive workplace conversation between a project manager and a senior engineer negotiating task delegation, workload rebalancing, and timeline adjustments.",
+          "communicativeOutcome": "Negotiate who will execute specific work packages, establishing agreeable deadlines while preserving team harmony.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Model natural collegial negotiation between senior and mid-level colleagues.",
+          "grammarOverview": {
+            "summary": "Conduct an interactive workplace conversation between a project manager and a senior engineer negotiating task delegation, workload rebalancing, and timeline adjustments.",
+            "keyPoints": [
+              "obj_b1_116_04_negotiate_task_delegation"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_116_05_executive_delegation_memo_writing",
+          "title": "Writing Workshop: Drafting Executive Delegation Memoranda",
+          "cyrillicTitle": "Produce an authoritative executive memorandum in proper Mongolian administrative format.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an official 150-word internal directive (Албан тоот / Даалгавар) formally delegating operational responsibilities to departmental units with explicit milestones.",
+          "communicativeOutcome": "Produce an authoritative executive memorandum in proper Mongolian administrative format.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Provide auditory playback of executive memorandum phrasing.",
+          "grammarOverview": {
+            "summary": "Author an official 150-word internal directive (Албан тоот / Даалгавар) formally delegating operational responsibilities to departmental units with explicit milestones.",
+            "keyPoints": [
+              "obj_b1_116_05_write_delegation_memo"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b1_117_passive_voice_morphosyntax_suffixes",
+      "unitNumber": 117,
+      "title": "Passive Voice Morphosyntax: Suffixes -гд/-гдэ",
+      "cyrillicTitle": "Describing institutional decisions and external actions",
+      "description": "Acquire and apply grammatical morphology (gram_b1_voice_passive_gd) to fulfill communicative functions in: Passive Voice Morphosyntax: Suffixes -гд/-гдэ.",
+      "cefrLevel": "B1",
+      "primaryGrammarTopic": "gram_b1_voice_passive_gd",
+      "lessons": [
+        {
+          "id": "les_b1_117_01_passive_voice_morphology_intro",
+          "title": "Morphology of the Passive Voice: Suffixes -гд/-гдэ and Agent Marking",
+          "cyrillicTitle": "Formulate passive sentences (батлагдах, цуцлагдах, шийдэгдэх, зохион байгуулагдах) to report institutional decisions and external developments.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the passive voice morpheme -гд⁴ and the syntax of passive constructions where the direct object is promoted to grammatical subject and the agent is optionally marked with the Dative-Locative (-д/-т).",
+          "communicativeOutcome": "Formulate passive sentences (батлагдах, цуцлагдах, шийдэгдэх, зохион байгуулагдах) to report institutional decisions and external developments.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Model phonological reduction and consonant clusters when adding -гд to verbal stems.",
+          "grammarOverview": {
+            "summary": "Introduce the passive voice morpheme -гд⁴ and the syntax of passive constructions where the direct object is promoted to grammatical subject and the agent is optionally marked with the Dative-Locative (-д/-т).",
+            "keyPoints": [
+              "obj_b1_117_01_form_passive_verbs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_117_02_active_passive_transformation_practice",
+          "title": "Guided Practice: Active-to-Passive Transformations in Institutional Discourse",
+          "cyrillicTitle": "Skillfully alternate between active and passive constructions to manipulate focus and topicality in workplace reports.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Provide structured syntactic drills converting active corporate statements into agentless or dative-agent passive statements suitable for official communiques.",
+          "communicativeOutcome": "Skillfully alternate between active and passive constructions to manipulate focus and topicality in workplace reports.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Synthesize active vs passive sentence pairs highlighting shifted sentence stress.",
+          "grammarOverview": {
+            "summary": "Provide structured syntactic drills converting active corporate statements into agentless or dative-agent passive statements suitable for official communiques.",
+            "keyPoints": [
+              "obj_b1_117_02_transform_active_passive"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_117_03_corporate_announcements_reading",
+          "title": "Reading Analysis: Public Notices, Board Resolutions & Institutional Decrees",
+          "cyrillicTitle": "Extract factual outcomes, implementation dates, and affected parties from formal public announcements.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read and deconstruct authentic corporate press releases, ministry communiques, and board resolutions laden with passive structures.",
+          "communicativeOutcome": "Extract factual outcomes, implementation dates, and affected parties from formal public announcements.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Provide audio narration of authentic public notices.",
+          "grammarOverview": {
+            "summary": "Read and deconstruct authentic corporate press releases, ministry communiques, and board resolutions laden with passive structures.",
+            "keyPoints": [
+              "obj_b1_117_03_read_institutional_notices"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_117_04_broadcast_news_reforms_listening",
+          "title": "Acoustic Comprehension: Radio News Bulletins on Economic Reforms",
+          "cyrillicTitle": "Understand the main points, numerical statistics, and institutional outcomes in rapid radio news broadcasts.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Develop listening comprehension for formal broadcast news items reporting corporate mergers, legislative amendments, and municipal decisions.",
+          "communicativeOutcome": "Understand the main points, numerical statistics, and institutional outcomes in rapid radio news broadcasts.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic professional radio news broadcaster voice with rapid newsroom cadence.",
+          "grammarOverview": {
+            "summary": "Develop listening comprehension for formal broadcast news items reporting corporate mergers, legislative amendments, and municipal decisions.",
+            "keyPoints": [
+              "obj_b1_117_04_comprehend_broadcast_news"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_117_05_reorganization_briefing_presentation",
+          "title": "Spoken Presentation: Briefing Colleagues on Institutional Reorganization",
+          "cyrillicTitle": "Present complex institutional changes clearly, objectively, and authoritatively to an audience of peers.",
+          "estimatedMinutes": 15,
+          "lessonType": "presentation",
+          "primaryPurpose": "Deliver a structured 3-minute oral presentation briefing colleagues on new corporate policies, structural realignments, and modified workflows.",
+          "communicativeOutcome": "Present complex institutional changes clearly, objectively, and authoritatively to an audience of peers.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Provide benchmark model of an executive briefing presentation.",
+          "grammarOverview": {
+            "summary": "Deliver a structured 3-minute oral presentation briefing colleagues on new corporate policies, structural realignments, and modified workflows.",
+            "keyPoints": [
+              "obj_b1_117_05_deliver_reorganization_briefing"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b1_118_reciprocal_collaborative_voice_suff",
+      "unitNumber": 118,
+      "title": "Reciprocal & Collaborative Voice: Suffixes -лц",
+      "cyrillicTitle": "Expressing joint cooperative work and team initiatives",
+      "description": "Acquire and apply grammatical morphology (gram_b1_voice_reciprocal_collective) to fulfill communicative functions in: Reciprocal & Collaborative Voice: Suffixes -лц.",
+      "cefrLevel": "B1",
+      "primaryGrammarTopic": "gram_b1_voice_reciprocal_collective",
+      "lessons": [
+        {
+          "id": "les_b1_118_01_reciprocal_voice_morphology_intro",
+          "title": "Collaborative Action: The Reciprocal & Cooperative Voice Suffix -лц/-лцэ",
+          "cyrillicTitle": "Formulate reciprocal verbs (хамтран ажиллах, ярилцах, хэлэлцэх, туслалцах, хуваалцах) to discuss team ventures and mutual responsibilities.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the cooperative verbal voice suffix -лц⁴ to denote mutual interaction, joint teamwork, and assisting in shared efforts.",
+          "communicativeOutcome": "Formulate reciprocal verbs (хамтран ажиллах, ярилцах, хэлэлцэх, туслалцах, хуваалцах) to discuss team ventures and mutual responsibilities.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Demonstrate the pronunciation of -лц/-лцэ/-лцо/-лцө across varied verb roots.",
+          "grammarOverview": {
+            "summary": "Introduce the cooperative verbal voice suffix -лц⁴ to denote mutual interaction, joint teamwork, and assisting in shared efforts.",
+            "keyPoints": [
+              "obj_b1_118_01_form_reciprocal_verbs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_118_02_joint_enterprise_partnership_lexicon",
+          "title": "Joint Enterprise Lexicon: Partnerships, Consensus & Negotiations",
+          "cyrillicTitle": "Discuss bilateral negotiations, partner relations, and collaborative contracts with precision.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Acquire specialized vocabulary for multi-party agreements, joint ventures, negotiations, compromise, and memorandum of understanding terms.",
+          "communicativeOutcome": "Discuss bilateral negotiations, partner relations, and collaborative contracts with precision.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Provide audio pronunciation of formal diplomatic and corporate negotiation terms.",
+          "grammarOverview": {
+            "summary": "Acquire specialized vocabulary for multi-party agreements, joint ventures, negotiations, compromise, and memorandum of understanding terms.",
+            "keyPoints": [
+              "obj_b1_118_02_joint_venture_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_118_03_bilateral_negotiation_dialogue",
+          "title": "Interactive Dialogue: Bilateral Business Negotiations & Compromise",
+          "cyrillicTitle": "Negotiate contract terms, propose reciprocal compromises, and finalize mutual understandings.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Conduct an interactive bilateral negotiation between partner organizations resolving contract scope, profit sharing, and delivery timelines.",
+          "communicativeOutcome": "Negotiate contract terms, propose reciprocal compromises, and finalize mutual understandings.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic business negotiation audio capturing polite hesitation and tactical hedging.",
+          "grammarOverview": {
+            "summary": "Conduct an interactive bilateral negotiation between partner organizations resolving contract scope, profit sharing, and delivery timelines.",
+            "keyPoints": [
+              "obj_b1_118_03_conduct_bilateral_negotiations"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_118_04_cross_functional_synergy_discussion",
+          "title": "Discussion & Problem Solving: Resolving Cross-Functional Bottlenecks",
+          "cyrillicTitle": "Articulate cross-departmental dependencies, brainstorm collaborative interventions, and establish mutual accountability.",
+          "estimatedMinutes": 15,
+          "lessonType": "discussion",
+          "primaryPurpose": "Participate in a cross-functional team brainstorming meeting resolving logistical bottlenecks between manufacturing, sales, and supply chain.",
+          "communicativeOutcome": "Articulate cross-departmental dependencies, brainstorm collaborative interventions, and establish mutual accountability.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Provide discussion prompts and debate challenges.",
+          "grammarOverview": {
+            "summary": "Participate in a cross-functional team brainstorming meeting resolving logistical bottlenecks between manufacturing, sales, and supply chain.",
+            "keyPoints": [
+              "obj_b1_118_04_resolve_team_bottlenecks"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b1_119_intensive_completive_aspect_suffix_",
+      "unitNumber": 119,
+      "title": "Intensive & Completive Aspect: Suffix -чих",
+      "cyrillicTitle": "Reporting completed tasks or unintended sudden mistakes",
+      "description": "Acquire and apply grammatical morphology (gram_b1_aspect_intensive_chih_complete) to fulfill communicative functions in: Intensive & Completive Aspect: Suffix -чих.",
+      "cefrLevel": "B1",
+      "primaryGrammarTopic": "gram_b1_aspect_intensive_chih_complete",
+      "lessons": [
+        {
+          "id": "les_b1_119_01_intensive_aspect_chikh_intro",
+          "title": "Completive & Intensive Action: The Verbal Suffix -чих (Achievement & Finality)",
+          "cyrillicTitle": "Express fully executed tasks (хийчихлээ, дуусчихлаа) vs sudden unintended occurrences (мартчихлаа, алдчихлаа).",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the verbal aspect suffix -чих⁴ expressing: 1) thorough completion of an action, 2) suddenness/unexpectedness, and 3) speaker regret or finality.",
+          "communicativeOutcome": "Express fully executed tasks (хийчихлээ, дуусчихлаа) vs sudden unintended occurrences (мартчихлаа, алдчихлаа).",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Model rapid colloquial reductions: -чихов -> -чхов, -чихлээ -> -члээ.",
+          "grammarOverview": {
+            "summary": "Introduce the verbal aspect suffix -чих⁴ expressing: 1) thorough completion of an action, 2) suddenness/unexpectedness, and 3) speaker regret or finality.",
+            "keyPoints": [
+              "obj_b1_119_01_form_intensive_aspect"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_119_02_contrastive_aspect_guided_practice",
+          "title": "Guided Practice: Contrasting Neutral vs Intensive Aspect in Discourse",
+          "cyrillicTitle": "Accurately select when to add -чих to convey total finality, prompt execution, or unintended consequence.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Contrast neutral past witness forms (-лаа⁴) with intensive aspect (-чихлаа⁴) to understand pragmatic emphasis, thoroughness, and emotional coloration.",
+          "communicativeOutcome": "Accurately select when to add -чих to convey total finality, prompt execution, or unintended consequence.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Synthesize contrastive minimal pairs: хийсэн vs хийчихсэн, ирсэн vs ирчихсэн.",
+          "grammarOverview": {
+            "summary": "Contrast neutral past witness forms (-лаа⁴) with intensive aspect (-чихлаа⁴) to understand pragmatic emphasis, thoroughness, and emotional coloration.",
+            "keyPoints": [
+              "obj_b1_119_02_contrast_aspect_markers"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_119_03_workplace_incident_accident_lexicon",
+          "title": "Mishaps & Malfunctions Lexicon: Accidents, Technical Glitches & Errors",
+          "cyrillicTitle": "Explain technical failures and unexpected operational hiccups with clarity and precision.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Acquire vocabulary to describe hardware breakdowns, data loss, scheduling blunders, accidental deletions, and unintended mistakes.",
+          "communicativeOutcome": "Explain technical failures and unexpected operational hiccups with clarity and precision.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Provide audio pronunciation of technical IT and operational error terminology.",
+          "grammarOverview": {
+            "summary": "Acquire vocabulary to describe hardware breakdowns, data loss, scheduling blunders, accidental deletions, and unintended mistakes.",
+            "keyPoints": [
+              "obj_b1_119_03_incident_accident_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_119_04_incident_reports_tracking_listening",
+          "title": "Acoustic Comprehension: Tracking Chronological Sequences of Operational Mishaps",
+          "cyrillicTitle": "Identify what went wrong, when the breakdown occurred, who discovered it, and what immediate containment was enacted.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Develop listening comprehension for frantic, rapid spoken accounts of workplace emergencies, network outages, and accidental supply chain errors.",
+          "communicativeOutcome": "Identify what went wrong, when the breakdown occurred, who discovered it, and what immediate containment was enacted.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic urgent telephone dialogue with background factory/warehouse acoustic effects.",
+          "grammarOverview": {
+            "summary": "Develop listening comprehension for frantic, rapid spoken accounts of workplace emergencies, network outages, and accidental supply chain errors.",
+            "keyPoints": [
+              "obj_b1_119_04_comprehend_incident_audio"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_119_05_reporting_operational_accidents_spoken",
+          "title": "Spoken Production: Reporting an Operational Mishap & Proposing Containment",
+          "cyrillicTitle": "Explain an unintended mishap professionally without evading responsibility, proposing concrete remediation.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an oral briefing to executive leadership explaining an unforeseen operational accident, detailing causes, and outlining remedial steps.",
+          "communicativeOutcome": "Explain an unintended mishap professionally without evading responsibility, proposing concrete remediation.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Provide benchmark audio of a composed professional delivering an incident report.",
+          "grammarOverview": {
+            "summary": "Deliver an oral briefing to executive leadership explaining an unforeseen operational accident, detailing causes, and outlining remedial steps.",
+            "keyPoints": [
+              "obj_b1_119_05_report_mishap_spoken"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b1_120_workplace_conflict_resolution_clari",
+      "unitNumber": 120,
+      "title": "Workplace Conflict Resolution & Clarifications",
+      "cyrillicTitle": "Resolving misunderstandings with colleagues politely",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Workplace Conflict Resolution & Clarifications.",
+      "cefrLevel": "B1",
+      "primaryGrammarTopic": "Resolving misunderstandings with colleagues politely",
+      "lessons": [
+        {
+          "id": "les_b1_120_01_conflict_case_studies_reading",
+          "title": "Reading Analysis: Case Studies in Workplace Misunderstandings",
+          "cyrillicTitle": "Diagnose the linguistic and cultural roots of workplace friction and analyze how skilled managers mediate disputes.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read and analyze case studies illustrating communication breakdowns, misaligned expectations, and cross-departmental tension in contemporary Mongolian companies.",
+          "communicativeOutcome": "Diagnose the linguistic and cultural roots of workplace friction and analyze how skilled managers mediate disputes.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Narrate organizational case study vignettes.",
+          "grammarOverview": {
+            "summary": "Read and analyze case studies illustrating communication breakdowns, misaligned expectations, and cross-departmental tension in contemporary Mongolian companies.",
+            "keyPoints": [
+              "obj_b1_120_01_analyze_workplace_conflicts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_120_02_diplomatic_clarification_hedging_lexicon",
+          "title": "Diplomatic Clarifications: Hedging, De-escalation & Restatement Formulas",
+          "cyrillicTitle": "Clarify misinterpreted intentions using phrases like 'Би тэгэх гэж бодоогүй', 'Өөрөөр хэлбэл...', and 'Миний хэлэх гэсэн гол санаа бол...'.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Acquire diplomatic lexical toolkits and linguistic hedges for clarifying misunderstandings, restating intentions politely, and defusing heated office disagreements.",
+          "communicativeOutcome": "Clarify misinterpreted intentions using phrases like 'Би тэгэх гэж бодоогүй', 'Өөрөөр хэлбэл...', and 'Миний хэлэх гэсэн гол санаа бол...'.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Model soothing, moderate-pitch intonation curves appropriate for conflict mediation.",
+          "grammarOverview": {
+            "summary": "Acquire diplomatic lexical toolkits and linguistic hedges for clarifying misunderstandings, restating intentions politely, and defusing heated office disagreements.",
+            "keyPoints": [
+              "obj_b1_120_02_diplomatic_hedging_formulas"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_120_03_mediating_stakeholder_disputes_discussion",
+          "title": "Discussion & Mediation: Reconciling Conflicting Stakeholder Priorities",
+          "cyrillicTitle": "Facilitate a mediated discussion, acknowledge both sides' grievances, and steer parties toward a binding compromise.",
+          "estimatedMinutes": 15,
+          "lessonType": "discussion",
+          "primaryPurpose": "Simulate a mediation meeting between competing department heads disputing budget allocations, leading the discussion toward an equitable compromise.",
+          "communicativeOutcome": "Facilitate a mediated discussion, acknowledge both sides' grievances, and steer parties toward a binding compromise.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Provide audio excerpts of a skillful mediator intervening in tense discussion.",
+          "grammarOverview": {
+            "summary": "Simulate a mediation meeting between competing department heads disputing budget allocations, leading the discussion toward an equitable compromise.",
+            "keyPoints": [
+              "obj_b1_120_03_mediate_stakeholder_dispute"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_120_04_reconciliation_memo_composition_writing",
+          "title": "Writing Workshop: Drafting a Diplomatic Conflict Resolution Memo",
+          "cyrillicTitle": "Produce a balanced, professional written resolution document that establishes clarity and restores collaborative goodwill.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Compose an official 150-word reconciliation memorandum documenting the resolution of a cross-departmental dispute, clarifying agreed roles and preventing recurrence.",
+          "communicativeOutcome": "Produce a balanced, professional written resolution document that establishes clarity and restores collaborative goodwill.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Provide auditory playback of the written reconciliation memo text.",
+          "grammarOverview": {
+            "summary": "Compose an official 150-word reconciliation memorandum documenting the resolution of a cross-departmental dispute, clarifying agreed roles and preventing recurrence.",
+            "keyPoints": [
+              "obj_b1_120_04_write_reconciliation_memo"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b1_121_hotel_bookings_service_inquiries_lo",
+      "unitNumber": 121,
+      "title": "Hotel Bookings, Service Inquiries & Lodging Complaints",
+      "cyrillicTitle": "Handling booking errors and demanding room service corrections",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Hotel Bookings, Service Inquiries & Lodging Complaints.",
+      "cefrLevel": "B1",
+      "primaryGrammarTopic": "Handling booking errors and demanding room service corrections",
+      "lessons": [
+        {
+          "id": "les_b1_121_01_hospitality_booking_amenities_lexicon",
+          "title": "Hospitality Lexicon: Room Categories, Amenities & Special Requests",
+          "cyrillicTitle": "Make complex hotel inquiries specifying bed configuration, breakfast inclusions, high-floor preferences, and conference room equipment.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Acquire specialized vocabulary for hotel accommodations, room amenities, dietary options, conference facilities, and reservation conditions.",
+          "communicativeOutcome": "Make complex hotel inquiries specifying bed configuration, breakfast inclusions, high-floor preferences, and conference room equipment.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronunciation of international hospitality terms and loanwords in modern Mongolian.",
+          "grammarOverview": {
+            "summary": "Acquire specialized vocabulary for hotel accommodations, room amenities, dietary options, conference facilities, and reservation conditions.",
+            "keyPoints": [
+              "obj_b1_121_01_hotel_amenities_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_121_02_hotel_policies_reading",
+          "title": "Reading Analysis: Hotel Reservation Agreements & Cancellation Policies",
+          "cyrillicTitle": "Understand contract terms, deadlines for penalty-free cancellation, and deposit refund stipulations.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Deconstruct authentic Mongolian hotel terms and conditions, late checkout fees, cancellation penalty tiers, and damage liability clauses.",
+          "communicativeOutcome": "Understand contract terms, deadlines for penalty-free cancellation, and deposit refund stipulations.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Audio narration of fine print terms and condition provisions.",
+          "grammarOverview": {
+            "summary": "Deconstruct authentic Mongolian hotel terms and conditions, late checkout fees, cancellation penalty tiers, and damage liability clauses.",
+            "keyPoints": [
+              "obj_b1_121_02_read_hotel_policies"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_121_03_hotel_service_disputes_listening",
+          "title": "Acoustic Comprehension: Resolving Front Desk Service Disputes & Noise Complaints",
+          "cyrillicTitle": "Understand specific guest grievances, concierge responses, and offered compensatory remedies from authentic spoken dialogues.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Develop auditory listening comprehension for multi-turn front desk disputes involving malfunctioning air conditioning, double bookings, and billing discrepancies.",
+          "communicativeOutcome": "Understand specific guest grievances, concierge responses, and offered compensatory remedies from authentic spoken dialogues.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic front desk audio with hotel lobby acoustic atmosphere and varied speaker accents.",
+          "grammarOverview": {
+            "summary": "Develop auditory listening comprehension for multi-turn front desk disputes involving malfunctioning air conditioning, double bookings, and billing discrepancies.",
+            "keyPoints": [
+              "obj_b1_121_03_comprehend_lodging_complaints"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_121_04_lodging_dispute_resolution_roleplay",
+          "title": "Interactive Roleplay: Escalating & Resolving Serious Lodging Grievances",
+          "cyrillicTitle": "Present a compelling consumer complaint diplomatically, counter unhelpful excuses, and obtain satisfactory compensation.",
+          "estimatedMinutes": 15,
+          "lessonType": "roleplay",
+          "primaryPurpose": "Simulate an interactive negotiation with a hotel duty manager to resolve a major booking error, negotiate room upgrades, and secure compensation.",
+          "communicativeOutcome": "Present a compelling consumer complaint diplomatically, counter unhelpful excuses, and obtain satisfactory compensation.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Interactive conversational partner playing the hotel duty manager.",
+          "grammarOverview": {
+            "summary": "Simulate an interactive negotiation with a hotel duty manager to resolve a major booking error, negotiate room upgrades, and secure compensation.",
+            "keyPoints": [
+              "obj_b1_121_04_resolve_hotel_dispute"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b1_122_vehicle_breakdowns_roadside_repair_",
+      "unitNumber": 122,
+      "title": "Vehicle Breakdowns & Roadside Repair Negotiations",
+      "cyrillicTitle": "Describing mechanical trouble, engine issues, and garage repairs",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Vehicle Breakdowns & Roadside Repair Negotiations.",
+      "cefrLevel": "B1",
+      "primaryGrammarTopic": "Describing mechanical trouble, engine issues, and garage repairs",
+      "lessons": [
+        {
+          "id": "les_b1_122_01_automotive_breakdown_lexicon",
+          "title": "Automotive Lexicon: Engine Parts, Fluid Leaks, Electrical & Mechanical Failures",
+          "cyrillicTitle": "Explain vehicle mechanical breakdowns clearly when stranded on remote countryside roads or city thoroughfares.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Acquire technical automotive vocabulary for vehicle components, mechanical failures, flat tires, battery drainage, transmission faults, and tow truck requests.",
+          "communicativeOutcome": "Explain vehicle mechanical breakdowns clearly when stranded on remote countryside roads or city thoroughfares.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce Mongolian mechanical terms and Russian/international automotive loanwords.",
+          "grammarOverview": {
+            "summary": "Acquire technical automotive vocabulary for vehicle components, mechanical failures, flat tires, battery drainage, transmission faults, and tow truck requests.",
+            "keyPoints": [
+              "obj_b1_122_01_automotive_breakdown_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_122_02_roadside_mechanic_repair_dialogue",
+          "title": "Interactive Dialogue: Roadside Assistance Negotiations & Repair Estimates",
+          "cyrillicTitle": "Negotiate towing logistics and repair estimates stranded in rural or suburban Mongolia.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Engage in an interactive negotiation with a roadside mechanic or towing dispatcher negotiating arrival times, parts procurement, labor fees, and emergency repairs.",
+          "communicativeOutcome": "Negotiate towing logistics and repair estimates stranded in rural or suburban Mongolia.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic countryside roadside mechanic dialogue with ambient outdoor wind and engine noise.",
+          "grammarOverview": {
+            "summary": "Engage in an interactive negotiation with a roadside mechanic or towing dispatcher negotiating arrival times, parts procurement, labor fees, and emergency repairs.",
+            "keyPoints": [
+              "obj_b1_122_02_negotiate_roadside_repair"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_122_03_remote_travel_emergency_debrief_discussion",
+          "title": "Discussion & Problem Solving: Countryside Travel Emergencies & Preparedness",
+          "cyrillicTitle": "Debate essential emergency gear, preventative maintenance protocols, and survival strategies for extreme rural breakdowns.",
+          "estimatedMinutes": 15,
+          "lessonType": "discussion",
+          "primaryPurpose": "Participate in a practical group planning session evaluating vehicle preparedness for long overland expeditions across the Gobi and Altai mountains.",
+          "communicativeOutcome": "Debate essential emergency gear, preventative maintenance protocols, and survival strategies for extreme rural breakdowns.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Provide discussion questions and travel scenario challenges.",
+          "grammarOverview": {
+            "summary": "Participate in a practical group planning session evaluating vehicle preparedness for long overland expeditions across the Gobi and Altai mountains.",
+            "keyPoints": [
+              "obj_b1_122_03_plan_rural_vehicle_safety"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b1_123_complex_banking_electronic_funds_tr",
+      "unitNumber": 123,
+      "title": "Complex Banking & Electronic Funds Transfers",
+      "cyrillicTitle": "Managing corporate bank accounts, contracts, and transfer confirmations",
+      "description": "Acquire and apply grammatical morphology (gram_b1_reported_speech_indirect_tense_shift) to fulfill communicative functions in: Complex Banking & Electronic Funds Transfers.",
+      "cefrLevel": "B1",
+      "primaryGrammarTopic": "gram_b1_reported_speech_indirect_tense_shift",
+      "lessons": [
+        {
+          "id": "les_b1_123_01_reported_speech_tense_shift_intro",
+          "title": "Reported Speech Mechanics: Indirect Tense Shifts with гэж and Participial Complements",
+          "cyrillicTitle": "Accurately report what bank tellers, loan officers, and official notices stated regarding accounts, fees, and transfers.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce formal reported speech and indirect citation syntax, focusing on how direct assertions shift into participial clauses (-сан/-даг/-х) followed by гэж хэлэх / гэж мэдэгдэх in institutional banking transactions.",
+          "communicativeOutcome": "Accurately report what bank tellers, loan officers, and official notices stated regarding accounts, fees, and transfers.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Model subtle intonational clause boundaries marking the transition from frame verb to reported content.",
+          "grammarOverview": {
+            "summary": "Introduce formal reported speech and indirect citation syntax, focusing on how direct assertions shift into participial clauses (-сан/-даг/-х) followed by гэж хэлэх / гэж мэдэгдэх in institutional banking transactions.",
+            "keyPoints": [
+              "obj_b1_123_01_indirect_reported_speech"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_123_02_electronic_banking_transfers_lexicon",
+          "title": "Electronic Banking Lexicon: SWIFT Transfers, Exchange Rates & Limits",
+          "cyrillicTitle": "Discuss electronic funds transfers, exchange commissions, and wire requirements in fluent Mongolian.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Acquire advanced financial vocabulary for international wire transfers (SWIFT, IBAN), foreign currency conversion spreads, daily transaction ceilings, and security OTP authentication.",
+          "communicativeOutcome": "Discuss electronic funds transfers, exchange commissions, and wire requirements in fluent Mongolian.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Pronounce financial abbreviations and modern fintech banking terminology.",
+          "grammarOverview": {
+            "summary": "Acquire advanced financial vocabulary for international wire transfers (SWIFT, IBAN), foreign currency conversion spreads, daily transaction ceilings, and security OTP authentication.",
+            "keyPoints": [
+              "obj_b1_123_02_electronic_banking_lexicon"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_123_03_banking_terms_conditions_reading",
+          "title": "Reading Analysis: Terms of Service, Loan Contracts & Wire Disclaimers",
+          "cyrillicTitle": "Extract interest rates, late penalty formulas, transaction fees, and cooling-off cancellation rights from complex financial texts.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Deconstruct authentic Mongolian banking contracts, mortgage terms, annual percentage yield disclaimers, and wire transfer hold agreements.",
+          "communicativeOutcome": "Extract interest rates, late penalty formulas, transaction fees, and cooling-off cancellation rights from complex financial texts.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Narration of formal financial clauses and legal stipulations.",
+          "grammarOverview": {
+            "summary": "Deconstruct authentic Mongolian banking contracts, mortgage terms, annual percentage yield disclaimers, and wire transfer hold agreements.",
+            "keyPoints": [
+              "obj_b1_123_03_read_banking_contracts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_123_04_wire_transfer_teller_dialogue",
+          "title": "Interactive Dialogue: Executing a High-Value Cross-Border Wire at the Branch",
+          "cyrillicTitle": "Provide proof of funds, specify routing intermediaries, clarify tax compliance declarations, and authorize the wire.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate an interactive branch counter transaction with a teller and compliance officer initiating an international commercial remittance.",
+          "communicativeOutcome": "Provide proof of funds, specify routing intermediaries, clarify tax compliance declarations, and authorize the wire.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic bank branch teller dialogue with paper shuffling and counter acoustic environment.",
+          "grammarOverview": {
+            "summary": "Simulate an interactive branch counter transaction with a teller and compliance officer initiating an international commercial remittance.",
+            "keyPoints": [
+              "obj_b1_123_04_execute_international_wire"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_123_05_investing_microfinance_discussion",
+          "title": "Discussion & Analysis: Microfinance, SME Loans & Investment Opportunities",
+          "cyrillicTitle": "Debate financial risks, collateral requirements, interest rate differentials, and investment viability.",
+          "estimatedMinutes": 15,
+          "lessonType": "discussion",
+          "primaryPurpose": "Participate in a business roundtable comparing commercial bank loans, non-bank financial institutions (ББСБ), and equity funding for small businesses.",
+          "communicativeOutcome": "Debate financial risks, collateral requirements, interest rate differentials, and investment viability.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Provide discussion questions and financial case prompts.",
+          "grammarOverview": {
+            "summary": "Participate in a business roundtable comparing commercial bank loans, non-bank financial institutions (ББСБ), and equity funding for small businesses.",
+            "keyPoints": [
+              "obj_b1_123_05_debate_financial_options"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b1_123_06_section_01_milestone_synthesis_checkpoint",
+          "title": "Section Milestone Checkpoint: Workplace, Systems & Financial Fluency",
+          "cyrillicTitle": "Demonstrate integrated threshold B1 professional proficiency through a multi-skill simulated corporate workflow challenge.",
+          "estimatedMinutes": 15,
+          "lessonType": "milestone_checkpoint",
+          "primaryPurpose": "Comprehensive synthesis and formal benchmark assessment across all Section 01 skills: CVs, interviews, emails, causatives, passives, reciprocal voice, intensive aspect, dispute mediation, and financial operations.",
+          "communicativeOutcome": "Demonstrate integrated threshold B1 professional proficiency through a multi-skill simulated corporate workflow challenge.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Multi-speaker executive committee audio challenge test.",
+          "grammarOverview": {
+            "summary": "Comprehensive synthesis and formal benchmark assessment across all Section 01 skills: CVs, interviews, emails, causatives, passives, reciprocal voice, intensive aspect, dispute mediation, and financial operations.",
+            "keyPoints": [
+              "obj_b1_123_06_section_01_synthesis_milestone"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    }
+  ]
+}

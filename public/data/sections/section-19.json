@@ -1,0 +1,1027 @@
+{
+  "sectionId": "sec_b2_03_material_culture_music_performing_arts",
+  "sectionNumber": 19,
+  "title": "Material Culture, Horsemanship, Morin Khuur & Performing Arts",
+  "cyrillicTitle": "Соёлын өв, морин хуур, уртын дуу ба уламжлалт урлаг",
+  "cefr": "B2",
+  "theme": "Critique artistic performances, analyze literary and musical aesthetics, discuss historical craftsmanship, and conduct cross-cultural comparative analyses of intangible heritage.",
+  "description": "Explore the aesthetic, musical, and artisanal dimensions of Mongolian heritage, focusing on the Morin Khuur (horse-head fiddle), Urtyn Duu (long song), throat singing (хөөмий), and horsemanship arts.",
+  "unitCount": 10,
+  "lessonCount": 43,
+  "exerciseCount": 0,
+  "units": [
+    {
+      "id": "unit_b2_177_the_morin_khuur_acoustic_engineerin",
+      "unitNumber": 177,
+      "title": "The Morin Khuur: Acoustic Engineering & Spiritual Lore",
+      "cyrillicTitle": "Analyzing the craftsmanship, tuning, and folklore of the horse-head fiddle",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: The Morin Khuur: Acoustic Engineering & Spiritual Lore.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "Analyzing the craftsmanship, tuning, and folklore of the horse-head fiddle",
+      "lessons": [
+        {
+          "id": "les_b2_177_01_morin_khuur_acoustic_engineering_reading",
+          "title": "Acoustic Engineering: Soundbox Mechanics & Horsehair Resonance of the Morin Khuur",
+          "cyrillicTitle": "Extract acoustic parameters, frequency resonance dynamics, and artisanal timber curing methods from a technical monograph.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Analyze a specialized organological study detailing the physics of trapezoidal birch resonators, soundposts, and twin horsehair string bundles.",
+          "communicativeOutcome": "Extract acoustic parameters, frequency resonance dynamics, and artisanal timber curing methods from a technical monograph.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Analyze a specialized organological study detailing the physics of trapezoidal birch resonators, soundposts, and twin horsehair string bundles.",
+            "keyPoints": [
+              "obj_b2_177_01_read_organology_monographs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_177_02_master_luthier_workshop_interview_listening",
+          "title": "Acoustic Dissection: Master Luthier Interview on Soundpost Tension & Timber Selection",
+          "cyrillicTitle": "Comprehend rapid workshop descriptions of artisanal woodworking nuances, wood grain orientation, and resin lacquering (145 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a master instrument maker explaining subtle adjustments to the internal soundpost ('зүрх') and pine soundboard flexibility.",
+          "communicativeOutcome": "Comprehend rapid workshop descriptions of artisanal woodworking nuances, wood grain orientation, and resin lacquering (145 wpm).",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic workshop interview with master craftsman featuring tactile descriptive terms and background carving sounds.",
+          "grammarOverview": {
+            "summary": "Listen to a master instrument maker explaining subtle adjustments to the internal soundpost ('зүрх') and pine soundboard flexibility.",
+            "keyPoints": [
+              "obj_b2_177_02_comprehend_luthier_interviews"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_177_03_jonon_khar_legend_acoustic_mythology_spoken",
+          "title": "Spoken Oratory: The Legend of Jonon Khar & Spiritual Foundations of Horsehead Fiddles",
+          "cyrillicTitle": "Deliver a 3-minute formal cultural address linking pastoral myth, grief catharsis, and musical timbre for an international cultural delegation.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an evocative cultural interpretation uniting the tragic myth of Jonon Khar's winged steed with the physical soundbox morphology.",
+          "communicativeOutcome": "Deliver a 3-minute formal cultural address linking pastoral myth, grief catharsis, and musical timbre for an international cultural delegation.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide model cultural presentation illustrating reverent cadence and traditional narrative evidential markers.",
+          "grammarOverview": {
+            "summary": "Deliver an evocative cultural interpretation uniting the tragic myth of Jonon Khar's winged steed with the physical soundbox morphology.",
+            "keyPoints": [
+              "obj_b2_177_03_deliver_mythological_interpretation"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_177_04_traditional_vs_synthetic_strings_critique_writing",
+          "title": "Written Critique: Traditional Horsehair Bundles vs Synthetic Nylon Orchestral Strings",
+          "cyrillicTitle": "Author a 260-word musicological critique evaluating orchestral modernization against authentic nomadic acoustic aesthetics.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an analytical musicological critique debating the tonal warmth of natural horsehair versus the pitch stability of synthetic nylon strings.",
+          "communicativeOutcome": "Author a 260-word musicological critique evaluating orchestral modernization against authentic nomadic acoustic aesthetics.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an analytical musicological critique debating the tonal warmth of natural horsehair versus the pitch stability of synthetic nylon strings.",
+            "keyPoints": [
+              "obj_b2_177_04_write_musicological_critique"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_178_urtyn_duu_long_song_vocal_melisma_g",
+      "unitNumber": 178,
+      "title": "Urtyn Duu (Long Song): Vocal Melisma & Glottal Tremolo",
+      "cyrillicTitle": "Analyzing the vocal techniques and aesthetic philosophy of Urtyn Duu",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Urtyn Duu (Long Song): Vocal Melisma & Glottal Tremolo.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "Analyzing the vocal techniques and aesthetic philosophy of Urtyn Duu",
+      "lessons": [
+        {
+          "id": "les_b2_178_01_urtyn_duu_vocal_ornamentation_reading",
+          "title": "Ethnomusicology: Vocal Melisma, Shurankhai & Glottal Tremolo in Urtyn Duu",
+          "cyrillicTitle": "Comprehend technical anatomical descriptions of breath control and melismatic phrasing in a 360-word ethnomusicology monograph.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Analyze a scholarly musicological breakdown of the microtonal ornamentation, falsetto leaps (шуранхай), and larynx vibration techniques in traditional long songs.",
+          "communicativeOutcome": "Comprehend technical anatomical descriptions of breath control and melismatic phrasing in a 360-word ethnomusicology monograph.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Analyze a scholarly musicological breakdown of the microtonal ornamentation, falsetto leaps (шуранхай), and larynx vibration techniques in traditional long songs.",
+            "keyPoints": [
+              "obj_b2_178_01_read_vocal_ornamentation_studies"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_178_02_master_singer_archival_acoustic_listening",
+          "title": "Acoustic Dissection: Archival Master Performance & Melisma Transcription",
+          "cyrillicTitle": "Distinguish subtle vocal inflections, glottal breaks, and microtonal inflections in authentic non-synthetic performance audio.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to an authentic archival recording of a master singer performing 'Ulemjiin Chanar' accompanied by morin khuur, with spoken musicological commentary.",
+          "communicativeOutcome": "Distinguish subtle vocal inflections, glottal breaks, and microtonal inflections in authentic non-synthetic performance audio.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic field recording of master urtyn duuch to capture genuine microtonal melisma without synthetic distortion.",
+          "grammarOverview": {
+            "summary": "Listen to an authentic archival recording of a master singer performing 'Ulemjiin Chanar' accompanied by morin khuur, with spoken musicological commentary.",
+            "keyPoints": [
+              "obj_b2_178_02_discern_vocal_melisma"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_178_03_steppe_ecology_philosophical_vocal_speech",
+          "title": "Spoken Oratory: The Steppe Landscape as Acoustic Generator of the Long Song",
+          "cyrillicTitle": "Deliver a 3-minute philosophical discourse articulating the ecological cosmology embedded in Mongolian long song traditions.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an intellectual oral presentation exploring the philosophical correlation between the boundless steppe horizon and the unmetered, sustained breath of Urtyn Duu.",
+          "communicativeOutcome": "Deliver a 3-minute philosophical discourse articulating the ecological cosmology embedded in Mongolian long song traditions.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark speech illustrating evocative oratorical tempo and rich philosophical vocabulary.",
+          "grammarOverview": {
+            "summary": "Deliver an intellectual oral presentation exploring the philosophical correlation between the boundless steppe horizon and the unmetered, sustained breath of Urtyn Duu.",
+            "keyPoints": [
+              "obj_b2_178_03_deliver_ecological_musicology_speech"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_178_04_philharmonic_recital_musicological_critique_writing",
+          "title": "Critical Review: National Philharmonic Urtyn Duu & Symphony Convergence",
+          "cyrillicTitle": "Author a 260-word critical review evaluating pitch temperaments, acoustic clashes, and expressive authenticity in orchestral fusion.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a critical musicological review of a concert hall performance fusing traditional long song singing with Western symphonic orchestration.",
+          "communicativeOutcome": "Author a 260-word critical review evaluating pitch temperaments, acoustic clashes, and expressive authenticity in orchestral fusion.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a critical musicological review of a concert hall performance fusing traditional long song singing with Western symphonic orchestration.",
+            "keyPoints": [
+              "obj_b2_178_04_write_concert_review"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_179_kh_mii_throat_singing_overtone_phys",
+      "unitNumber": 179,
+      "title": "Khöömii Throat Singing: Overtone Physics & Styles",
+      "cyrillicTitle": "Distinguishing sygyt (исгэрээ), kharkhiraa (хархираа), and ezengileer",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Khöömii Throat Singing: Overtone Physics & Styles.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "Distinguishing sygyt (исгэрээ), kharkhiraa (хархираа), and ezengileer",
+      "lessons": [
+        {
+          "id": "les_b2_179_01_throat_singing_overtone_physics_reading",
+          "title": "Acoustic Physics: Biphonic Phonation & Lingual Cavity Resonances in Khöömii",
+          "cyrillicTitle": "Interpret spectrogram charts, formant filter formulas, and vocal tract anatomy in a 360-word scientific study of throat singing.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an acoustic phonetics monograph analyzing how ventricular fold engagement creates a deep fundamental drone while tongue position isolates the 6th through 12th harmonics.",
+          "communicativeOutcome": "Interpret spectrogram charts, formant filter formulas, and vocal tract anatomy in a 360-word scientific study of throat singing.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an acoustic phonetics monograph analyzing how ventricular fold engagement creates a deep fundamental drone while tongue position isolates the 6th through 12th harmonics.",
+            "keyPoints": [
+              "obj_b2_179_01_read_overtone_physics"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_179_02_master_khoomiich_live_demonstration_listening",
+          "title": "Acoustic Dissection: Live Master Khöömiich Masterclass & Harmonic Isolation",
+          "cyrillicTitle": "Comprehend rapid spoken instructional feedback and distinguish live overtone shifts in authentic non-synthetic performance audio.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to an authentic live workshop where an Altai master throat singer demonstrates tongue positioning, breath pressure control, and harmonic whistle separation.",
+          "communicativeOutcome": "Comprehend rapid spoken instructional feedback and distinguish live overtone shifts in authentic non-synthetic performance audio.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic live masterclass recording capturing simultaneous low drone and high whistle overtones without artificial processing.",
+          "grammarOverview": {
+            "summary": "Listen to an authentic live workshop where an Altai master throat singer demonstrates tongue positioning, breath pressure control, and harmonic whistle separation.",
+            "keyPoints": [
+              "obj_b2_179_02_comprehend_overtone_masterclasses"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_179_03_throat_singing_symposium_presentation_speech",
+          "title": "Spoken Oratory: Presenting Altai Khöömii Traditions at International Ethnomusicology Forum",
+          "cyrillicTitle": "Deliver a 3-minute authoritative musicological conference presentation integrating acoustic physics with nomadic animist soundscapes.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an oral conference presentation explaining the origins of Khöömii in Chandmani Soum and its acoustic relationship to wind and cascading water sounds.",
+          "communicativeOutcome": "Deliver a 3-minute authoritative musicological conference presentation integrating acoustic physics with nomadic animist soundscapes.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark recording of ethnomusicologist presenting acoustic research slides at international forum.",
+          "grammarOverview": {
+            "summary": "Deliver an oral conference presentation explaining the origins of Khöömii in Chandmani Soum and its acoustic relationship to wind and cascading water sounds.",
+            "keyPoints": [
+              "obj_b2_179_03_deliver_musicology_symposium_speech"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_179_04_comparative_acoustic_styles_critique_writing",
+          "title": "Written Critique: Traditional Pastoral Animism vs Modern Commercial Stage Khöömii",
+          "cyrillicTitle": "Author a 260-word critical evaluation analyzing the acoustic and cultural transformations of throat singing in global entertainment venues.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an academic essay examining the stylistic divergence between intimate pastoral throat singing and amplified commercial folk-rock stage adaptations.",
+          "communicativeOutcome": "Author a 260-word critical evaluation analyzing the acoustic and cultural transformations of throat singing in global entertainment venues.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an academic essay examining the stylistic divergence between intimate pastoral throat singing and amplified commercial folk-rock stage adaptations.",
+            "keyPoints": [
+              "obj_b2_179_04_write_overtone_critique"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_180_concessive_contrast_discourse_conju",
+      "unitNumber": 180,
+      "title": "Concessive Contrast Discourse: Conjunctions Боловч & Хэдий ч",
+      "cyrillicTitle": "Balancing high artistic critique with nuanced reservations",
+      "description": "Acquire and apply grammatical morphology (gram_b2_concessive_contrast_vch_gesen) to fulfill communicative functions in: Concessive Contrast Discourse: Conjunctions Боловч & Хэдий ч.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_concessive_contrast_vch_gesen",
+      "lessons": [
+        {
+          "id": "les_b2_180_01_concessive_contrast_syntax_intro",
+          "title": "Morphosyntax: Concessive Contrast Conjunctions 'Боловч' & 'Хэдий... боловч / ч гэсэн'",
+          "cyrillicTitle": "Construct balanced complex sentences acknowledging an established counter-fact while asserting an overriding cultural thesis.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic scope, clausal coordination, and pragmatic function of concessive conjunctions (боловч, хэдий... боловч, ч гэсэн) expressing non-preventive contrast in formal discourse ('although / even though').",
+          "communicativeOutcome": "Construct balanced complex sentences acknowledging an established counter-fact while asserting an overriding cultural thesis.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic scope, clausal coordination, and pragmatic function of concessive conjunctions (боловч, хэдий... боловч, ч гэсэн) expressing non-preventive contrast in formal discourse ('although / even though').",
+            "keyPoints": [
+              "obj_b2_180_01_master_concessive_contrast"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_180_02_folklore_modernization_scholarly_reading",
+          "title": "Academic Reading: Folkloric Modernization & Heritage Authenticity Debates",
+          "cyrillicTitle": "Extract nuanced dialectical positions and concessive pivots in a complex cultural studies text.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 370-word scholarly essay debating whether electronic arrangement of pastoral ballads diminishes their spiritual essence.",
+          "communicativeOutcome": "Extract nuanced dialectical positions and concessive pivots in a complex cultural studies text.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 370-word scholarly essay debating whether electronic arrangement of pastoral ballads diminishes their spiritual essence.",
+            "keyPoints": [
+              "obj_b2_180_02_read_cultural_debates"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_180_03_cultural_heritage_preservation_panel_listening",
+          "title": "Acoustic Dissection: Round-Table Debate on Intangible Cultural Heritage Commercialization",
+          "cyrillicTitle": "Identify speaker alliances, diplomatic concessions, and irreconcilable ideological divides in spoken debate (145 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a round-table debate featuring folklore professors, tourism executives, and traditional artists debating state festival sponsorship.",
+          "communicativeOutcome": "Identify speaker alliances, diplomatic concessions, and irreconcilable ideological divides in spoken debate (145 wpm).",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide multi-speaker academic debate audio illustrating vocal pitch reset following concessive introductory phrases.",
+          "grammarOverview": {
+            "summary": "Listen to a round-table debate featuring folklore professors, tourism executives, and traditional artists debating state festival sponsorship.",
+            "keyPoints": [
+              "obj_b2_180_03_track_cultural_debate_alliances"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_180_04_debating_cultural_commercialization_spoken",
+          "title": "Spoken Oratory: Parliamentary Debate on Regulating Commercial Folk Festivals",
+          "cyrillicTitle": "Deliver a 3-minute persuasive speech utilizing structured concessive pivots to neutralize opposing fiscal arguments.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an oral debate speech arguing for state subsidies of authentic nomadic music while acknowledging the financial benefits of commercialized tourism.",
+          "communicativeOutcome": "Deliver a 3-minute persuasive speech utilizing structured concessive pivots to neutralize opposing fiscal arguments.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark speech of cultural advocate delivering structured parliamentary address with concessive modulation.",
+          "grammarOverview": {
+            "summary": "Deliver an oral debate speech arguing for state subsidies of authentic nomadic music while acknowledging the financial benefits of commercialized tourism.",
+            "keyPoints": [
+              "obj_b2_180_04_deliver_concessive_debate_speech"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_180_05_academic_essay_section_heritage_writing",
+          "title": "Academic Writing: Concessive Argumentation Section in Cultural Policy Monograph",
+          "cyrillicTitle": "Author a 270-word scholarly essay section demonstrating dialectical balance on intangible heritage preservation.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an academic essay section examining the paradox of heritage commodification using multi-tiered concessive clauses.",
+          "communicativeOutcome": "Author a 270-word scholarly essay section demonstrating dialectical balance on intangible heritage preservation.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an academic essay section examining the paradox of heritage commodification using multi-tiered concessive clauses.",
+            "keyPoints": [
+              "obj_b2_180_05_write_concessive_essay"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_181_epistemic_stance_presumption_the_ma",
+      "unitNumber": 181,
+      "title": "Epistemic Stance & Presumption: The Marker Биз / Байх",
+      "cyrillicTitle": "Framing delicate hypotheses and presumptions in cultural analysis",
+      "description": "Acquire and apply grammatical morphology (gram_b2_epistemic_stance_biz_baih) to fulfill communicative functions in: Epistemic Stance & Presumption: The Marker Биз / Байх.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_epistemic_stance_biz_baih",
+      "lessons": [
+        {
+          "id": "les_b2_181_01_epistemic_stance_biz_baih_syntax_intro",
+          "title": "Morphosyntax: Epistemic Presumption Particles 'Биз' & Inferential 'Байх'",
+          "cyrillicTitle": "Formulate nuanced epistemic statements expressing well-founded hypotheses regarding historical cultural origins without absolute evidential certainty.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic placement, pragmatic nuances, and modal commitment levels of epistemic particles (биз, байлгүй, биз ээ, -х байх) expressing calibrated presumption and high-probability inference.",
+          "communicativeOutcome": "Formulate nuanced epistemic statements expressing well-founded hypotheses regarding historical cultural origins without absolute evidential certainty.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic placement, pragmatic nuances, and modal commitment levels of epistemic particles (биз, байлгүй, биз ээ, -х байх) expressing calibrated presumption and high-probability inference.",
+            "keyPoints": [
+              "obj_b2_181_01_master_epistemic_stance_biz"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_181_02_oral_epic_dating_hypotheses_reading",
+          "title": "Philological Reading: Hypotheses on the Chronological Stratification of Jangar & Geser",
+          "cyrillicTitle": "Extract authorial degree of certainty, evidential qualifications, and historical inferences in a philological study.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a dense 360-word philological paper evaluating linguistic strata and archaic lexical forms in heroic epics.",
+          "communicativeOutcome": "Extract authorial degree of certainty, evidential qualifications, and historical inferences in a philological study.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a dense 360-word philological paper evaluating linguistic strata and archaic lexical forms in heroic epics.",
+            "keyPoints": [
+              "obj_b2_181_02_read_philological_hypotheses"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_181_03_ancient_court_musicology_interview_listening",
+          "title": "Acoustic Dissection: Musicologist Discussion on Great Khan Court Instrumental Ensembles",
+          "cyrillicTitle": "Comprehend rapid spoken inferences, speculative modal particles, and historical citations in a radio interview (145 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to an interview with an ethnomusicologist reconstructing 13th-century Yuan dynasty Mongolian palace orchestras from Persian and Chinese historical chronicles.",
+          "communicativeOutcome": "Comprehend rapid spoken inferences, speculative modal particles, and historical citations in a radio interview (145 wpm).",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic broadcast interview featuring academic conversational tempo and subtle pitch variations on epistemic particles.",
+          "grammarOverview": {
+            "summary": "Listen to an interview with an ethnomusicologist reconstructing 13th-century Yuan dynasty Mongolian palace orchestras from Persian and Chinese historical chronicles.",
+            "keyPoints": [
+              "obj_b2_181_03_comprehend_historical_inferences"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_181_04_defending_historical_performance_speech",
+          "title": "Spoken Oratory: Defending Historical Reconstruction Hypotheses Before Peer Review",
+          "cyrillicTitle": "Deliver a 3-minute persuasive academic defense articulating presumptive hypotheses using 'биз' and 'байх' with calibrated intellectual poise.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an oral defense of a proposed reconstruction of ancient nomadic harp ('ятга') tuning systems at a scholarly colloquium.",
+          "communicativeOutcome": "Deliver a 3-minute persuasive academic defense articulating presumptive hypotheses using 'биз' and 'байх' with calibrated intellectual poise.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark speech of researcher presenting historical musicology paper with calibrated scholarly stance.",
+          "grammarOverview": {
+            "summary": "Deliver an oral defense of a proposed reconstruction of ancient nomadic harp ('ятга') tuning systems at a scholarly colloquium.",
+            "keyPoints": [
+              "obj_b2_181_04_defend_historical_hypotheses"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_182_sensory_appearance_modals_suffixes_",
+      "unitNumber": 182,
+      "title": "Sensory Appearance Modals: Suffixes -х шинжтэй / -х шиг байна",
+      "cyrillicTitle": "Describing aesthetic impressions and performance atmosphere",
+      "description": "Acquire and apply grammatical morphology (gram_b2_epistemic_appearance_shig_baiana_yanzytai) to fulfill communicative functions in: Sensory Appearance Modals: Suffixes -х шинжтэй / -х шиг байна.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_epistemic_appearance_shig_baiana_yanzytai",
+      "lessons": [
+        {
+          "id": "les_b2_182_01_sensory_appearance_modals_syntax_intro",
+          "title": "Morphosyntax: Sensory Appearance Modals '-х шинжтэй', '-х янзтай' & '-х шиг байна'",
+          "cyrillicTitle": "Formulate precise perceptual assessments of musical instrument condition and performance timbre based on immediate acoustic and visual evidence.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic formation, evidential semantics, and perceptual criteria of sensory appearance modals (-х шинжтэй, -х янзтай, -х шиг байна) expressing direct auditory or visual perceptual inference ('it appears to... / sounds as if...').",
+          "communicativeOutcome": "Formulate precise perceptual assessments of musical instrument condition and performance timbre based on immediate acoustic and visual evidence.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic formation, evidential semantics, and perceptual criteria of sensory appearance modals (-х шинжтэй, -х янзтай, -х шиг байна) expressing direct auditory or visual perceptual inference ('it appears to... / sounds as if...').",
+            "keyPoints": [
+              "obj_b2_182_01_master_sensory_appearance_modals"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_182_02_museum_conservator_instrument_inspection_reading",
+          "title": "Conservation Reading: Material Decay & Tonal Deterioration in Antique Morin Khuurs",
+          "cyrillicTitle": "Extract conservation diagnoses, structural risk indices, and restoration recommendations from a 360-word technical report.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an expert museum conservation report evaluating wood desiccation, animal glue degradation, and soundpost shifting in 19th-century instruments.",
+          "communicativeOutcome": "Extract conservation diagnoses, structural risk indices, and restoration recommendations from a 360-word technical report.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an expert museum conservation report evaluating wood desiccation, animal glue degradation, and soundpost shifting in 19th-century instruments.",
+            "keyPoints": [
+              "obj_b2_182_02_read_conservation_reports"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_182_03_evaluating_tonal_authenticity_spoken",
+          "title": "Spoken Critique: Evaluating Tonal Authenticity & Resonant Decay in Historic Fiddles",
+          "cyrillicTitle": "Deliver a 3-minute professional acoustic appraisal utilizing sensory appearance modals to express nuanced aesthetic impressions.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an oral appraisal of an antique instrument's acoustic response, critiquing overtone richness, string buzz, and soundbox damping for museum acquisitions.",
+          "communicativeOutcome": "Deliver a 3-minute professional acoustic appraisal utilizing sensory appearance modals to express nuanced aesthetic impressions.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide model audio of master appraiser delivering expert acoustic evaluation of bowed instrument.",
+          "grammarOverview": {
+            "summary": "Deliver an oral appraisal of an antique instrument's acoustic response, critiquing overtone richness, string buzz, and soundbox damping for museum acquisitions.",
+            "keyPoints": [
+              "obj_b2_182_03_deliver_acoustic_appraisal"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_182_04_artifact_condition_report_writing",
+          "title": "Technical Writing: Formal Museum Artifact Condition & Acoustic Integrity Report",
+          "cyrillicTitle": "Author an authoritative museum condition report combining physical conservation data with acoustic integrity evaluations.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a formal 260-word condition report assessing an archival musical instrument, detailing sensory indications of deterioration and intervention urgency.",
+          "communicativeOutcome": "Author an authoritative museum condition report combining physical conservation data with acoustic integrity evaluations.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a formal 260-word condition report assessing an archival musical instrument, detailing sensory indications of deterioration and intervention urgency.",
+            "keyPoints": [
+              "obj_b2_182_04_write_condition_report"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_183_indirect_discourse_framing_verbs_",
+      "unitNumber": 183,
+      "title": "Indirect Discourse Framing Verbs: Өгүүлэх, Дурдах, Сануулах",
+      "cyrillicTitle": "Citing cultural critics and musicologists with varied reporting verbs",
+      "description": "Acquire and apply grammatical morphology (gram_b2_indirect_discourse_framing_verbs) to fulfill communicative functions in: Indirect Discourse Framing Verbs: Өгүүлэх, Дурдах, Сануулах.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_indirect_discourse_framing_verbs",
+      "lessons": [
+        {
+          "id": "les_b2_183_01_indirect_framing_verbs_syntax_intro",
+          "title": "Morphosyntax: Academic Citational Framing Verbs 'Өгүүлэх', 'Дурдах' & 'Сануулах'",
+          "cyrillicTitle": "Construct complex academic attribution sentences citing previous musicological research with precise stances of endorsement, distance, or reminder.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic complementation, evidential positioning, and register elevation of formal reporting verbs (өгүүлэх, дурдах, сануулах, онцлох, нотлох) in scholarly literature citations.",
+          "communicativeOutcome": "Construct complex academic attribution sentences citing previous musicological research with precise stances of endorsement, distance, or reminder.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic complementation, evidential positioning, and register elevation of formal reporting verbs (өгүүлэх, дурдах, сануулах, онцлох, нотлох) in scholarly literature citations.",
+            "keyPoints": [
+              "obj_b2_183_01_master_indirect_framing_verbs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_183_02_secret_history_oral_performance_reading",
+          "title": "Philological Reading: Secret History Citations & Oral Epic Recitation Traditions",
+          "cyrillicTitle": "Trace citational lineages, scholarly disagreements, and evidential attribution in a complex philological paper.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 370-word philological critique reviewing scholarly citations regarding how the 'Secret History of the Mongols' was originally performed in rhythmic prosimetrum.",
+          "communicativeOutcome": "Trace citational lineages, scholarly disagreements, and evidential attribution in a complex philological paper.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 370-word philological critique reviewing scholarly citations regarding how the 'Secret History of the Mongols' was originally performed in rhythmic prosimetrum.",
+            "keyPoints": [
+              "obj_b2_183_02_read_citational_historiography"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_183_03_musicological_literature_review_writing",
+          "title": "Academic Writing: Musicological Literature Review Section with Multi-Source Citations",
+          "cyrillicTitle": "Author an academic literature review section integrating multiple scholarly voices through varied indirect discourse framing verbs.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 260-word literature review section synthesizing competing theories on the origin of pentatonic scale systems across Inner Asia.",
+          "communicativeOutcome": "Author an academic literature review section integrating multiple scholarly voices through varied indirect discourse framing verbs.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a 260-word literature review section synthesizing competing theories on the origin of pentatonic scale systems across Inner Asia.",
+            "keyPoints": [
+              "obj_b2_183_03_write_literature_review"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_183_04_scholarly_attribution_conference_speech",
+          "title": "Spoken Oratory: Literature Review Presentation at Ethnomusicology Congress",
+          "cyrillicTitle": "Deliver a 3-minute academic conference address synthesizing previous literature with polished citational phrasing and collegial respect.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an oral literature synthesis at an academic congress, acknowledging previous research breakthroughs while introducing the speaker's innovative methodology.",
+          "communicativeOutcome": "Deliver a 3-minute academic conference address synthesizing previous literature with polished citational phrasing and collegial respect.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark speech of senior scholar introducing literature review at international academic symposium.",
+          "grammarOverview": {
+            "summary": "Deliver an oral literature synthesis at an academic congress, acknowledging previous research breakthroughs while introducing the speaker's innovative methodology.",
+            "keyPoints": [
+              "obj_b2_183_04_deliver_literature_synthesis_speech"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_184_limiting_scalar_particles_the_phras",
+      "unitNumber": 184,
+      "title": "Limiting Scalar Particles: The Phrasing Бүү Хэл",
+      "cyrillicTitle": "Expressing emphatic scalar extremes ('Морин хуур бүү хэл...')",
+      "description": "Acquire and apply grammatical morphology (gram_b2_limiting_scalar_particles_buu_khel) to fulfill communicative functions in: Limiting Scalar Particles: The Phrasing Бүү Хэл.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "gram_b2_limiting_scalar_particles_buu_khel",
+      "lessons": [
+        {
+          "id": "les_b2_184_01_limiting_scalar_particles_syntax_intro",
+          "title": "Morphosyntax: Limiting Scalar Particles 'Бүү Хэл', 'Байтугай' & 'Гэлтгүй'",
+          "cyrillicTitle": "Formulate scalar emphatic sentences highlighting endangered cultural traditions that risk total extinction before basic preservation begins.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic distribution and pragmatic intensification of limiting scalar particles (бүү хэл, байтугай, гэлтгүй) expressing extreme focal contrast ('let alone... / not to speak of...').",
+          "communicativeOutcome": "Formulate scalar emphatic sentences highlighting endangered cultural traditions that risk total extinction before basic preservation begins.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic distribution and pragmatic intensification of limiting scalar particles (бүү хэл, байтугай, гэлтгүй) expressing extreme focal contrast ('let alone... / not to speak of...').",
+            "keyPoints": [
+              "obj_b2_184_01_master_limiting_scalar_particles"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_184_02_endangered_epic_traditions_editorial_reading",
+          "title": "Critical Reading: Cultural Alarm on the Extinction of Uriankhai Epic Chanting",
+          "cyrillicTitle": "Extract scalar arguments, societal warnings, and preservation imperatives from an authoritative cultural editorial.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an impassioned 360-word cultural editorial warning that modern youths cannot comprehend archaic epic vocabulary, let alone recite multi-day heroic verses.",
+          "communicativeOutcome": "Extract scalar arguments, societal warnings, and preservation imperatives from an authoritative cultural editorial.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an impassioned 360-word cultural editorial warning that modern youths cannot comprehend archaic epic vocabulary, let alone recite multi-day heroic verses.",
+            "keyPoints": [
+              "obj_b2_184_02_read_cultural_alarm_editorials"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_184_03_impassioned_heritage_appeal_speech",
+          "title": "Spoken Oratory: Keynote Address at National Assembly on Endangered Intangible Heritage",
+          "cyrillicTitle": "Deliver a 3-minute stirring oratorical appeal using scalar particles ('бүү хэл') to galvanize legislative funding for master-apprentice programs.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an impassioned keynote address to cultural legislators emphasizing that even basic folklore transmission is collapsing in rural soums.",
+          "communicativeOutcome": "Deliver a 3-minute stirring oratorical appeal using scalar particles ('бүү хэл') to galvanize legislative funding for master-apprentice programs.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark speech of prominent writer delivering passionate cultural keynote address.",
+          "grammarOverview": {
+            "summary": "Deliver an impassioned keynote address to cultural legislators emphasizing that even basic folklore transmission is collapsing in rural soums.",
+            "keyPoints": [
+              "obj_b2_184_03_deliver_scalar_advocacy_speech"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_184_04_unesco_urgent_safeguarding_appeal_writing",
+          "title": "Advisory Composition: Urgent Safeguarding Justification for Endangered Folk Genres",
+          "cyrillicTitle": "Author a 260-word formal preservation justification integrating scalar particles to substantiate critical risk criteria.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Draft a formal justification section for a UNESCO Urgent Safeguarding List application, articulating that the surviving elder performers cannot find disciples in rural areas.",
+          "communicativeOutcome": "Author a 260-word formal preservation justification integrating scalar particles to substantiate critical risk criteria.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Draft a formal justification section for a UNESCO Urgent Safeguarding List application, articulating that the surviving elder performers cannot find disciples in rural areas.",
+            "keyPoints": [
+              "obj_b2_184_04_write_urgent_safeguarding_appeal"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_185_cross_cultural_comparative_heritage",
+      "unitNumber": 185,
+      "title": "Cross-Cultural Comparative Heritage Analysis",
+      "cyrillicTitle": "Contrasting Mongolian pastoral heritage with sedentary traditions",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Cross-Cultural Comparative Heritage Analysis.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "Contrasting Mongolian pastoral heritage with sedentary traditions",
+      "lessons": [
+        {
+          "id": "les_b2_185_01_central_asian_comparative_organology_reading",
+          "title": "Comparative Reading: Inner Asian Bowed Lutes (Morin Khuur, Kobyz & Kyl Kyiak)",
+          "cyrillicTitle": "Extract cross-cultural morphological parallels, nomadic cosmological divergences, and shared steppe organological roots.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 380-word comparative organological monograph comparing horsehair friction acoustics across Mongolian, Kazakh, and Kyrgyz pastoral cultures.",
+          "communicativeOutcome": "Extract cross-cultural morphological parallels, nomadic cosmological divergences, and shared steppe organological roots.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 380-word comparative organological monograph comparing horsehair friction acoustics across Mongolian, Kazakh, and Kyrgyz pastoral cultures.",
+            "keyPoints": [
+              "obj_b2_185_01_read_comparative_organology"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_185_02_silk_road_epic_poetry_roundtable_listening",
+          "title": "Acoustic Dissection: International Roundtable on Silk Road Nomadic Epic Recitation",
+          "cyrillicTitle": "Comprehend complex spoken comparative analyses delivered with regional accents and international academic terminology (145 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to an international cultural symposium where scholars from Ulaanbaatar, Almaty, and Bishkek compare metrics, alliteration, and musical accompaniment in heroic epics.",
+          "communicativeOutcome": "Comprehend complex spoken comparative analyses delivered with regional accents and international academic terminology (145 wpm).",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic multilateral academic recording with diverse native and near-native Mongolian accents.",
+          "grammarOverview": {
+            "summary": "Listen to an international cultural symposium where scholars from Ulaanbaatar, Almaty, and Bishkek compare metrics, alliteration, and musical accompaniment in heroic epics.",
+            "keyPoints": [
+              "obj_b2_185_02_comprehend_comparative_symposia"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_185_03_comparative_pastoral_song_oral_presentation_speech",
+          "title": "Spoken Oratory: Comparative Lecture on Pastoral Vocal Traditions Across Inner Asia",
+          "cyrillicTitle": "Deliver a 3-minute structured comparative lecture highlighting shared pastoral roots and distinct ornamentational trajectories.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an oral comparative lecture contrasting Mongolian Urtyn Duu with Tuvan and Buryat pastoral song aesthetics for visiting international scholars.",
+          "communicativeOutcome": "Deliver a 3-minute structured comparative lecture highlighting shared pastoral roots and distinct ornamentational trajectories.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark speech of ethnomusicologist delivering comparative cultural lecture to international audience.",
+          "grammarOverview": {
+            "summary": "Deliver an oral comparative lecture contrasting Mongolian Urtyn Duu with Tuvan and Buryat pastoral song aesthetics for visiting international scholars.",
+            "keyPoints": [
+              "obj_b2_185_03_deliver_comparative_lecture"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_185_04_unesco_comparative_nomination_paper_writing",
+          "title": "Academic Writing: Multinational UNESCO Inscription Comparative Assessment Paper",
+          "cyrillicTitle": "Author an authoritative comparative assessment demonstrating unique national expressions within a shared multinational cultural phenomenon.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a formal 260-word comparative assessment section for a joint multinational intangible cultural heritage nomination dossier.",
+          "communicativeOutcome": "Author an authoritative comparative assessment demonstrating unique national expressions within a shared multinational cultural phenomenon.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a formal 260-word comparative assessment section for a joint multinational intangible cultural heritage nomination dossier.",
+            "keyPoints": [
+              "obj_b2_185_04_write_comparative_assessment"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_b2_186_performing_arts_capstone_musicologi",
+      "unitNumber": 186,
+      "title": "Performing Arts Capstone: Musicological Exhibition Critique",
+      "cyrillicTitle": "Publishing a comprehensive critical review of a national concert",
+      "description": "Consolidate, integrate, and demonstrate communicative mastery of Performing Arts Capstone: Musicological Exhibition Critique through simulated holistic tasks.",
+      "cefrLevel": "B2",
+      "primaryGrammarTopic": "Publishing a comprehensive critical review of a national concert",
+      "lessons": [
+        {
+          "id": "les_b2_186_01_comprehensive_exhibition_catalogue_reading",
+          "title": "Capstone Reading: Comprehensive National Performing Arts Heritage Exhibition Catalogue",
+          "cyrillicTitle": "Synthesize multi-domain musicological analyses, curatorial theses, and archival provenance records across 420 words of high-register prose.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse a 420-word comprehensive exhibition catalogue monograph integrating organological engineering, vocal acoustics, philological epic lineages, and conservation.",
+          "communicativeOutcome": "Synthesize multi-domain musicological analyses, curatorial theses, and archival provenance records across 420 words of high-register prose.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse a 420-word comprehensive exhibition catalogue monograph integrating organological engineering, vocal acoustics, philological epic lineages, and conservation.",
+            "keyPoints": [
+              "obj_b2_186_01_parse_exhibition_catalogue"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_186_02_curator_performer_walkthrough_listening",
+          "title": "Capstone Listening: Chief Curator & Master Performer Exhibition Gallery Walk-Through",
+          "cyrillicTitle": "Comprehend rapid spoken curatorial discourse, acoustic demonstrations, and aesthetic critiques delivered in a live gallery setting (150 wpm).",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to an in-depth audio walk-through where the chief museum curator and a celebrated epic singer discuss rare 18th-century instruments, tuning changes, and vocal preservation.",
+          "communicativeOutcome": "Comprehend rapid spoken curatorial discourse, acoustic demonstrations, and aesthetic critiques delivered in a live gallery setting (150 wpm).",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic museum gallery audio with acoustic spatial reverberation and multi-speaker expert dialogue.",
+          "grammarOverview": {
+            "summary": "Listen to an in-depth audio walk-through where the chief museum curator and a celebrated epic singer discuss rare 18th-century instruments, tuning changes, and vocal preservation.",
+            "keyPoints": [
+              "obj_b2_186_02_comprehend_curatorial_dialogue"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_186_03_critical_exhibition_review_writing",
+          "title": "Advisory Composition: Critical Musicological Review of National Heritage Exhibition",
+          "cyrillicTitle": "Author a high-level musicological critique combining architectural display analysis, acoustic fidelity assessments, and cultural preservation policy.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Draft a rigorous 280-word critical exhibition review evaluating whether the museum successfully conveys the living acoustic spirit of nomadic performance arts.",
+          "communicativeOutcome": "Author a high-level musicological critique combining architectural display analysis, acoustic fidelity assessments, and cultural preservation policy.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Draft a rigorous 280-word critical exhibition review evaluating whether the museum successfully conveys the living acoustic spirit of nomadic performance arts.",
+            "keyPoints": [
+              "obj_b2_186_03_author_exhibition_critique"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_186_04_unesco_safeguarding_strategy_dossier_writing",
+          "title": "Policy Drafting: Strategic Action Plan for Urgent Safeguarding of Performing Arts",
+          "cyrillicTitle": "Author a 260-word legally structured national action plan establishing concrete cultural preservation mechanisms.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Draft the operational action plan section of a national policy dossier detailing institutional apprenticeship grants, digital acoustic archiving, and community workshops.",
+          "communicativeOutcome": "Author a 260-word legally structured national action plan establishing concrete cultural preservation mechanisms.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Draft the operational action plan section of a national policy dossier detailing institutional apprenticeship grants, digital acoustic archiving, and community workshops.",
+            "keyPoints": [
+              "obj_b2_186_04_draft_safeguarding_strategy"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_186_05_symposium_keynote_oration_speech",
+          "title": "Spoken Oratory: Keynote Gala Address Opening the International Musicology Congress",
+          "cyrillicTitle": "Deliver a 4-minute commanding oratorical keynote address uniting acoustic science, pastoral heritage, and global humanistic value.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver the inaugural keynote address at an international performing arts symposium celebrating the vitality and resilience of nomadic acoustic culture.",
+          "communicativeOutcome": "Deliver a 4-minute commanding oratorical keynote address uniting acoustic science, pastoral heritage, and global humanistic value.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark recording of leading cultural statesman delivering opening keynote at international congress.",
+          "grammarOverview": {
+            "summary": "Deliver the inaugural keynote address at an international performing arts symposium celebrating the vitality and resilience of nomadic acoustic culture.",
+            "keyPoints": [
+              "obj_b2_186_05_deliver_gala_keynote"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_b2_186_06_b2_sec03_culminating_musicological_capstone",
+          "title": "Culminating Capstone: Comprehensive Performing Arts & Material Culture Synthesis",
+          "cyrillicTitle": "Demonstrate comprehensive B2 Vantage mastery across performing arts analysis, critical curatorial writing, and formal conference oratory.",
+          "estimatedMinutes": 15,
+          "lessonType": "synthesis_capstone",
+          "primaryPurpose": "Synthesize all Section 03 material culture, acoustic organology, ethnomusicology, and advanced grammatical competencies into a multi-phase exhibition critique and safeguarding simulation without introducing new vocabulary.",
+          "communicativeOutcome": "Demonstrate comprehensive B2 Vantage mastery across performing arts analysis, critical curatorial writing, and formal conference oratory.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide multi-voice capstone recording featuring live exhibition gallery acoustics and symposium addresses.",
+          "grammarOverview": {
+            "summary": "Synthesize all Section 03 material culture, acoustic organology, ethnomusicology, and advanced grammatical competencies into a multi-phase exhibition critique and safeguarding simulation without introducing new vocabulary.",
+            "keyPoints": [
+              "obj_b2_186_06_master_performing_arts_capstone"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,10 @@
 /**
  * Robust Mongolian Cyrillic Audio System
- * Uses Web Speech Synthesis with targeted Cyrillic pitch/rate controls,
- * coupled with an Acoustic Phonetic Web Audio formant synthesis fallback.
+ * Uses Web Speech Synthesis with targeted Cyrillic pitch/rate controls.
+ * Strictly adheres to Audio Safety Guidelines:
+ * - NEVER falls back to Russian, Ukrainian, Bulgarian or other non-Mongolian voices.
+ * - If no Mongolian voice is available, uses Web Audio acoustic formant synthesis for phonemes,
+ *   or reports native-audio-required status.
  */
 
 let audioCtx: AudioContext | null = null;
@@ -9,7 +12,9 @@ let audioCtx: AudioContext | null = null;
 function getAudioContext(): AudioContext | null {
   if (typeof window === 'undefined') return null;
   if (!audioCtx) {
-    const AudioContextClass = window.AudioContext || (window as unknown as { webkitAudioContext: typeof AudioContext }).webkitAudioContext;
+    const AudioContextClass =
+      window.AudioContext ||
+      (window as unknown as { webkitAudioContext: typeof AudioContext }).webkitAudioContext;
     if (AudioContextClass) {
       audioCtx = new AudioContextClass();
     }
@@ -20,7 +25,7 @@ function getAudioContext(): AudioContext | null {
   return audioCtx;
 }
 
-// Phonetic formant lookup for distinctive Mongolian vowels (F1, F2)
+// Phonetic formant lookup for distinctive Mongolian vowels (F1, F2) in Khalkha phonology
 const VOWEL_FORMANTS: Record<string, [number, number]> = {
   'а': [750, 1150],
   'э': [520, 1850],
@@ -37,16 +42,16 @@ const VOWEL_FORMANTS: Record<string, [number, number]> = {
 };
 
 /**
- * Synthesizes acoustic phonetic formant tones for letters when speech synthesis voice isn't present
+ * Synthesizes acoustic phonetic formant tones for letters using pure Web Audio oscillators
  */
-function playAcousticFallback(text: string, rate: number = 1.0) {
+export function playAcousticFallback(text: string, rate: number = 1.0) {
   const ctx = getAudioContext();
   if (!ctx) return;
 
   const clean = text.toLowerCase().trim();
   const char = clean.charAt(0);
   const formants = VOWEL_FORMANTS[char] || [450, 1400];
-  const duration = (0.45 / rate);
+  const duration = 0.45 / rate;
 
   const now = ctx.currentTime;
   const masterGain = ctx.createGain();
@@ -75,9 +80,39 @@ function playAcousticFallback(text: string, rate: number = 1.0) {
   osc2.stop(now + duration);
 }
 
+export interface AudioSystemStatus {
+  hasMongolianVoice: boolean;
+  voiceName: string | null;
+  acousticSynthesisAvailable: boolean;
+}
+
+export function getAudioSystemStatus(): AudioSystemStatus {
+  if (typeof window === 'undefined' || !('speechSynthesis' in window)) {
+    return {
+      hasMongolianVoice: false,
+      voiceName: null,
+      acousticSynthesisAvailable: typeof window !== 'undefined' && ('AudioContext' in window || 'webkitAudioContext' in window),
+    };
+  }
+
+  const voices = window.speechSynthesis.getVoices();
+  const mnVoice = voices.find(
+    (v) => v.lang.startsWith('mn') || v.lang.toLowerCase().includes('mongol')
+  );
+
+  return {
+    hasMongolianVoice: !!mnVoice,
+    voiceName: mnVoice ? mnVoice.name : null,
+    acousticSynthesisAvailable: true,
+  };
+}
+
 /**
  * Speaks a Mongolian phrase or word using Web Speech Synthesis.
- * Falls back to acoustic formant synthesis if speech synthesis is unavailable.
+ * Enforces Audio Safety:
+ * - Strictly searches only for authentic Mongolian voices ('mn-*' or 'Mongolian').
+ * - Under NO circumstances will it use Russian, Ukrainian, Bulgarian, or other foreign voices.
+ * - When no Mongolian voice is present, safely delegates to Web Audio acoustic formant synthesis.
  */
 export function playMongolianAudio(
   text: string,
@@ -90,52 +125,43 @@ export function playMongolianAudio(
   if ('speechSynthesis' in window) {
     window.speechSynthesis.cancel(); // cancel any active speech
 
-    const utterance = new SpeechSynthesisUtterance(text);
-    utterance.rate = rate; // 1.0 or 0.75
-    utterance.pitch = 1.0;
-
-    // Detect best voice: look for Mongolian 'mn', or Cyrillic-capable voice
     const voices = window.speechSynthesis.getVoices();
-    const mnVoice = voices.find((v) => v.lang.startsWith('mn') || v.lang.includes('Mongol'));
-    const ruVoice = voices.find((v) => v.lang.startsWith('ru'));
-    const fallbackCyrillic = voices.find((v) => v.lang.includes('RU') || v.lang.includes('BG') || v.lang.includes('UK'));
+    // Strictly Mongolian-capable voices only
+    const mnVoice = voices.find(
+      (v) => v.lang.startsWith('mn') || v.lang.toLowerCase().includes('mongol')
+    );
 
     if (mnVoice) {
+      const utterance = new SpeechSynthesisUtterance(text);
       utterance.voice = mnVoice;
       utterance.lang = mnVoice.lang;
-    } else if (ruVoice) {
-      utterance.voice = ruVoice;
-      utterance.lang = 'ru-RU';
-    } else if (fallbackCyrillic) {
-      utterance.voice = fallbackCyrillic;
-      utterance.lang = fallbackCyrillic.lang;
-    } else {
-      utterance.lang = 'mn-MN';
+      utterance.rate = rate;
+      utterance.pitch = 1.0;
+
+      if (onStart) utterance.onstart = onStart;
+      utterance.onend = () => {
+        if (onEnd) onEnd();
+      };
+      utterance.onerror = () => {
+        playAcousticFallback(text, rate);
+        if (onEnd) onEnd();
+      };
+
+      window.speechSynthesis.speak(utterance);
+
+      if (onStart) onStart();
+      const estTimeMs = Math.max(800, (text.length * 90) / rate);
+      setTimeout(() => {
+        if (onEnd) onEnd();
+      }, estTimeMs);
+      return;
     }
-
-    if (onStart) utterance.onstart = onStart;
-    utterance.onend = () => {
-      if (onEnd) onEnd();
-    };
-    utterance.onerror = () => {
-      // Fallback to acoustic synthesis
-      playAcousticFallback(text, rate);
-      if (onEnd) onEnd();
-    };
-
-    window.speechSynthesis.speak(utterance);
-
-    // Some browsers have bug where onstart doesn't fire promptly
-    if (onStart) onStart();
-    const estTimeMs = Math.max(800, (text.length * 90) / rate);
-    setTimeout(() => {
-      if (onEnd) onEnd();
-    }, estTimeMs);
-  } else {
-    playAcousticFallback(text, rate);
-    if (onStart) onStart();
-    setTimeout(() => {
-      if (onEnd) onEnd();
-    }, 600);
   }
+
+  // Safe Fallback: Acoustic formant synthesis (Zero foreign language voice intrusion)
+  playAcousticFallback(text, rate);
+  if (onStart) onStart();
+  setTimeout(() => {
+    if (onEnd) onEnd();
+  }, 600);
 }

@@ -1,0 +1,2050 @@
+{
+  "sectionId": "sec_c2_01_contemporary_literature_satire_stylistics",
+  "sectionNumber": 24,
+  "title": "Contemporary Modernist Literature, Satire & Stylistic Nuance",
+  "cyrillicTitle": "Орчин үеийн уран зохиол, егөөдөл ба найруулгын торгон мэдрэмж",
+  "cefr": "C2",
+  "theme": "Comprehend and produce nuanced literary texts, appreciate rapid native banter and humor, dissect subtle political satire, and shift effortlessly across all registers.",
+  "description": "Achieve native-level mastery across contemporary literature, sophisticated irony, political satire, rapid spoken Khalkha phonotactics, colloquial conversational repair, and somatic idioms.",
+  "unitCount": 9,
+  "lessonCount": 46,
+  "exerciseCount": 15,
+  "units": [
+    {
+      "id": "unit_c2_229_rapid_khalkha_spoken_phonotactics_r",
+      "unitNumber": 229,
+      "title": "Rapid Khalkha Spoken Phonotactics & Reductions",
+      "cyrillicTitle": "Decoding rapid native Khalkha conversational elisions at 160+ wpm",
+      "description": "Acquire and apply grammatical morphology (gram_c2_rapid_khalkha_spoken_phonotactics) to fulfill communicative functions in: Rapid Khalkha Spoken Phonotactics & Reductions.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "gram_c2_rapid_khalkha_spoken_phonotactics",
+      "lessons": [
+        {
+          "id": "les_c2_229_01_khalkha_phonotactics_syntax_intro",
+          "title": "Morphophonology: Rapid Khalkha Spoken Phonotactics, Vowel Syncope & Sandhi Reductions",
+          "cyrillicTitle": "Decode and execute natural Khalkha phonetic reductions systematically without sounding stilted or foreign.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the phonotactic reduction algorithms, non-initial short vowel deletions, liquid consonant assimilations (l/r coalescence), and clitic contractions occurring in natural educated and street Khalkha speech above 160 wpm.",
+          "communicativeOutcome": "Decode and execute natural Khalkha phonetic reductions systematically without sounding stilted or foreign.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the phonotactic reduction algorithms, non-initial short vowel deletions, liquid consonant assimilations (l/r coalescence), and clitic contractions occurring in natural educated and street Khalkha speech above 160 wpm.",
+            "keyPoints": [
+              "obj_c2_229_01_master_khalkha_phonotactics"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_c2_229_01_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Khalkha Spoken Vowel Syncope & Sandhi Reduction",
+              "modality": "KHALKHA_PHONOTACTICS_DECODING",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "spoken_khalkha_syncope",
+                "phonotactic_sandhi_analysis"
+              ],
+              "grammarTargets": [
+                "gram_c2_khalkha_rapid_phonotactics_sandhi"
+              ],
+              "vocabularyTargets": [
+                "эгшиг гээгдэх",
+                "хэлэх",
+                "ажиллах"
+              ],
+              "prompt": "In fast, unscripted Khalkha conversational speech (170-190 wpm), non-initial short vowels in open syllables regularly undergo complete phonetic syncope (deletion). When a native speaker says the phrase written in Cyrillic as:\n\n'Та юу хийж байгаа юм бэ?' (What are you doing?)\n\nWhat is the authentic rapid spoken colloquial acoustic realization?",
+              "stimulusTextCyrillic": "Та юу хийж байгаа юм бэ? -> [юужийн / юу хийж бгаам бэ]",
+              "hint": "'Байгаа юм бэ' undergoes dramatic clitic coalescence and vowel reduction.",
+              "options": [
+                {
+                  "id": "real_fast",
+                  "text": "[Та юу хийж бгаам бэ?] or contracted [Та юужийн бэ?], where the auxiliary verb and copula coalesce into a monosyllabic nasalized diphthong [bgaːm / dʒiːŋ].",
+                  "cyrillic": "[юу хийж бгаам бэ] / [юужийн]",
+                  "isCorrect": true,
+                  "explanation": "Correct! Native Khalkha colloquial economy contracts 'байгаа юм' to [бгаам / жгаам] and combines 'хийж байна' to [хийжийн / хийж бна]."
+                },
+                {
+                  "id": "real_epenthesis",
+                  "text": "[Та юу хийжэ байгаа вэ?], where an epenthetic vowel is inserted between the converb and the auxiliary without any elision or coalescence.",
+                  "cyrillic": "Жийрэг эгшигтэй задгай дуудах",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Khalkha does not insert epenthetic vowels between converb -ж and auxiliary 'байх'; it triggers elision instead."
+                },
+                {
+                  "id": "real_archaic",
+                  "text": "[Та юуг хиймүй?], preserving classical written Mongolian synthetic verbal morphology in informal register.",
+                  "cyrillic": "Хуучин бичгийн хэлбэрээр",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Classical synthetic forms are not used in contemporary spoken Khalkha vernacular."
+                }
+              ],
+              "correctAnswer": "[Та юу хийж бгаам бэ?] or contracted [Та юужийн бэ?], where the auxiliary verb and copula coalesce into a monosyllabic nasalized diphthong [bgaːm / dʒiːŋ].",
+              "acceptableAlternatives": [
+                "[Та юу хийж бгаам бэ?]",
+                "юу хийж бгаам бэ",
+                "юужийн"
+              ],
+              "explanation": "At C2, mastery requires comprehending rapid acoustic reductions: 'байгаа юм бэ' -> [бгаам бэ], 'хийж байгаа' -> [хийж бга / хийжийн].",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! Master-level insight into spoken Khalkha phonotactics.",
+                "onFailure": "Spoken Khalkha contracts 'байгаа юм бэ' to [бгаам бэ]."
+              },
+              "detailedGrammarNote": "Vowel syncope (богино эгшиг гээгдэх хууль) in spoken Khalkha deletes unstressed short vowels in open medial syllables, triggering consonant cluster assimilations.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Та одоо юу хийж байгаа юм бэ?",
+                "slowSpeechSynthesisText": "юу хийж бгаам бэ?",
+                "ipaTranscription": "/tʰa ɔtɔː jʊː xʲiːtʃʰ pɢaːm pe/",
+                "speakerRole": "male_native",
+                "speechRate": 1.2,
+                "acousticEnvironment": "fast_conversational"
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_c2_229_01_khalkha_phonotactics_syntax_intro",
+              "unitId": "unit_c2_229_rapid_khalkha_spoken_phonotactics_r",
+              "cefrLevel": "C2"
+            },
+            {
+              "exerciseId": "ex_c2_229_01_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "Inter-Word Nasal Assimilation and Velar Sandhi",
+              "modality": "KHALKHA_PHONOTACTICS_DECODING",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "nasal_assimilation_sandhi",
+                "articulatory_phonology"
+              ],
+              "grammarTargets": [
+                "gram_c2_khalkha_rapid_phonotactics_sandhi"
+              ],
+              "vocabularyTargets": [
+                "өнөөдрийн сонин",
+                "санхүү"
+              ],
+              "prompt": "When the genitive phrase 'өнөөдрийн сонин' (today's newspaper) is spoken at natural native tempo, what sandhi assimilation happens to the final coronal nasal /n/ before the following bilabial or alveolar onset?",
+              "stimulusTextCyrillic": "өнөөдрийн сонин -> [өнөөдрийн соним / сонин]",
+              "hint": "In fast Mongolian, final /n/ before labials assimilates to [m], and before velars assimilates to [ŋ].",
+              "options": [
+                {
+                  "id": "sandhi_nasal",
+                  "text": "Regressive place assimilation: Word-final coronal /n/ assimilates to the place of articulation of the adjacent consonant (e.g. becoming bilabial [m] before /b, p, m/, and velar [ŋ] in pause or before velars).",
+                  "cyrillic": "Залгах гийгүүлэгчийн байранд зохицох",
+                  "isCorrect": true,
+                  "explanation": "Correct! Khalkha final nasals undergo active place assimilation in fluent connected speech."
+                },
+                {
+                  "id": "sandhi_devoicing",
+                  "text": "Progressive devoicing: The following initial voiced plosive (/b/ or /g/) is completely devoiced and aspirated by the preceding coronal nasal.",
+                  "cyrillic": "Дараах гийгүүлэгчийг дүлийрүүлэх",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Mongolian nasals are voiced sonorants and trigger regressive place assimilation, not progressive devoicing."
+                },
+                {
+                  "id": "sandhi_total_elision",
+                  "text": "Complete nasal deletion without compensatory vowel nasalization, leaving an open syllable.",
+                  "cyrillic": "Бүрэн гээгдэх",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The coronal nasal does not delete across boundaries; it assimilates to the place of the succeeding consonant."
+                }
+              ],
+              "correctAnswer": "Regressive place assimilation: Word-final coronal /n/ assimilates to the place of articulation of the adjacent consonant (e.g. becoming bilabial [m] before /b, p, m/, and velar [ŋ] in pause or before velars).",
+              "acceptableAlternatives": [
+                "Regressive place assimilation",
+                "Залгах гийгүүлэгчийн байранд зохицох"
+              ],
+              "explanation": "Coronal /n/ assimilates to bilabial [m] before labials (e.g. 'арван бууз' -> [арвам бууз]) and velar [ŋ] before velars ('арван гэр' -> [арваҥ гэр]).",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! Profound articulatory phonetic analysis.",
+                "onFailure": "Final /n/ assimilates to the place of the following consonant."
+              },
+              "detailedGrammarNote": "This sandhi rule is so natural that native speakers execute it without conscious awareness, while non-natives who fail to assimilate sound conspicuously foreign.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Өнөөдрийн сонин дээр гарсан мэдээ.",
+                "slowSpeechSynthesisText": "өнөөдрийн сонин.",
+                "ipaTranscription": "/ɵnɵːtriːŋ sɔnʲiŋ tʰeːr ɢarsəŋ metiː/",
+                "speakerRole": "narrator",
+                "speechRate": 1.1
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_c2_229_01_khalkha_phonotactics_syntax_intro",
+              "unitId": "unit_c2_229_rapid_khalkha_spoken_phonotactics_r",
+              "cefrLevel": "C2"
+            },
+            {
+              "exerciseId": "ex_c2_229_01_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "Deciphering Colloquial Particle Contractions in Fast Dialogue",
+              "modality": "KHALKHA_PHONOTACTICS_DECODING",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "clitic_coalescence",
+                "colloquial_particle_decoding"
+              ],
+              "grammarTargets": [
+                "gram_c2_khalkha_rapid_phonotactics_sandhi"
+              ],
+              "vocabularyTargets": [
+                "гээд",
+                "гээч",
+                "байна"
+              ],
+              "prompt": "Listen to this rapid conversational retort:\n\n'Тэр чинь тийм биш гээ биз дээ?'\n\nWhat are the underlying formal grammatical components of 'гээ биз дээ'?",
+              "stimulusTextCyrillic": "гээ биз дээ",
+              "hint": "'Гээ' is contracted from 'гэж байна / гэсэн', and 'биз дээ' is the epistemic tag question marker.",
+              "options": [
+                {
+                  "id": "part_underlying",
+                  "text": "Quotative verb 'гэж байна / гэсэн' contracted into long vowel 'гээ' + epistemic confirmation tag 'биз дээ' (didn't they say / isn't that so?).",
+                  "cyrillic": "гэж байна / гэсэн + биз дээ",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'Гээ' represents the spoken reduction of quotative 'гэж байна / гэсэн'."
+                },
+                {
+                  "id": "part_durative",
+                  "text": "Imperfective durative aspectual suffix '-аа/-ээ' attached to the verb 'гэх' + imperative particle 'биз'.",
+                  "cyrillic": "Үйл үгийн үргэлжлэх хэлбэр",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'Гээ' in this discourse position functions as a contracted quotative reportative clitic, not a durative aspect marker."
+                },
+                {
+                  "id": "part_adverbial",
+                  "text": "Modal adverb 'гээд' acting as a causal conjunction + optative mood suffix '-сугай'.",
+                  "cyrillic": "Шалтгааны холбоос",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The construction is a conversational quotative contraction fused with the epistemic tag 'биз дээ'."
+                }
+              ],
+              "correctAnswer": "Quotative verb 'гэж байна / гэсэн' contracted into long vowel 'гээ' + epistemic confirmation tag 'биз дээ' (didn't they say / isn't that so?).",
+              "acceptableAlternatives": [
+                "гэж байна / гэсэн + биз дээ",
+                "Quotative contraction + tag"
+              ],
+              "explanation": "In spoken Khalkha, quotative chains ('гэж хэлсэн / гэж байна') collapse into 'гээ', which pairs with particles like 'биз дээ', 'гээч', or 'дээ'.",
+              "learnerFeedback": {
+                "onSuccess": "Сайн байна! Deep syntactic awareness of vernacular spoken reduction.",
+                "onFailure": "'гээ' is the colloquial contraction of quotative 'гэж байна / гэсэн'."
+              },
+              "detailedGrammarNote": "Quotative grammaticalization in Mongolic is extensive: 'гэж' (converb) -> 'гээд' -> 'гээ' (contracted clitic introducing indirect discourse or pragmatic stance).",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Тэр чинь тийм биш гээ биз дээ?",
+                "slowSpeechSynthesisText": "тийм биш гээ биз дээ?",
+                "ipaTranscription": "/tʰer tʃʰiŋ tʰiːm pʰiʃ ɡeː pʲits tʰeː/",
+                "speakerRole": "female_native",
+                "speechRate": 1.15
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_c2_229_01_khalkha_phonotactics_syntax_intro",
+              "unitId": "unit_c2_229_rapid_khalkha_spoken_phonotactics_r",
+              "cefrLevel": "C2"
+            },
+            {
+              "exerciseId": "ex_c2_229_01_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "Token Assembly: Rapid Spoken Retort with Emphatic Clitics",
+              "modality": "KHALKHA_PHONOTACTICS_DECODING",
+              "interactionPattern": "TOKEN_REARRANGEMENT",
+              "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
+              "skillTargets": [
+                "spoken_pragmatics",
+                "vernacular_word_order"
+              ],
+              "grammarTargets": [
+                "gram_c2_khalkha_rapid_phonotactics_sandhi"
+              ],
+              "vocabularyTargets": [
+                "юу гэсэн үг юм",
+                "дээ"
+              ],
+              "prompt": "Reconstruct this natural, rapid idiomatic challenge: 'What on earth is that supposed to mean?!':",
+              "wordTokens": [
+                "гэсэн",
+                "юм",
+                "Энэ",
+                "үг",
+                "чинь",
+                "юу",
+                "бэ"
+              ],
+              "correctTokenOrder": [
+                "Энэ",
+                "чинь",
+                "юу",
+                "гэсэн",
+                "үг",
+                "юм",
+                "бэ"
+              ],
+              "correctAnswer": "Энэ чинь юу гэсэн үг юм бэ",
+              "acceptableAlternatives": [
+                "Энэ чинь юу гэсэн үг юм бэ?",
+                "Энэ чинь юу гэсэн үг вэ"
+              ],
+              "hint": "Demonstrative (Энэ) -> Discourse topic clitic (чинь) -> Interrogative (юу) -> Participle (гэсэн) -> Head noun (үг) -> Modal copula (юм) -> Interrogative particle (бэ).",
+              "explanation": "'Энэ чинь юу гэсэн үг юм бэ' is the quintessential idiomatic reaction challenging an unexpected, illogical, or offensive statement.",
+              "learnerFeedback": {
+                "onSuccess": "Төгс! Native-like pragmatic exclamation assembled.",
+                "onFailure": "Order: Энэ -> чинь -> юу -> гэсэн -> үг -> юм -> бэ."
+              },
+              "detailedGrammarNote": "Second-person clitic 'чинь' acts here not as a literal pronoun but as an emotive discourse particle signaling astonishment or subjective involvement.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Энэ чинь одоо юу гэсэн үг юм бэ?!",
+                "slowSpeechSynthesisText": "юу гэсэн үг юм бэ?",
+                "ipaTranscription": "/en tʃʰiŋ ɔtɔː jʊː ɡissəŋ ʊɡ jʊm pe/",
+                "speakerRole": "male_native",
+                "speechRate": 1.2,
+                "acousticEnvironment": "agitated_conversation"
+              },
+              "evaluation": {
+                "matchType": "TOKEN_ORDER"
+              },
+              "lessonId": "les_c2_229_01_khalkha_phonotactics_syntax_intro",
+              "unitId": "unit_c2_229_rapid_khalkha_spoken_phonotactics_r",
+              "cefrLevel": "C2"
+            },
+            {
+              "exerciseId": "ex_c2_229_01_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "Cloze Insertion: Rapid Conversational Emphatic 'Л Дээ'",
+              "modality": "KHALKHA_PHONOTACTICS_DECODING",
+              "interactionPattern": "CLOZE_TEXT",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "pragmatic_particle_mastery",
+                "conversational_nuance"
+              ],
+              "grammarTargets": [
+                "gram_c2_khalkha_rapid_phonotactics_sandhi"
+              ],
+              "vocabularyTargets": [
+                "л дээ"
+              ],
+              "prompt": "In fast colloquial debate, a speaker uses the restrictive restrictive particle 'л' fused with persuasive 'дээ' to concede a point while maintaining their ground: 'Тийм _______, гэхдээ үүнийг бас бодох хэрэгтэй.' Fill in the paired particle:",
+              "stimulusTextCyrillic": "Тийм _______, гэхдээ бас бодох хэрэгтэй.",
+              "hint": "Combine the monosyllabic restrictive focus clitic with the colloquial conversational agreement particle.",
+              "correctAnswer": "л дээ",
+              "acceptableAlternatives": [
+                "л дээ",
+                "Л дээ"
+              ],
+              "explanation": "'Тийм л дээ' (Well yes, sure / that's true of course) softens agreement before immediately pivoting with 'гэхдээ' (however).",
+              "learnerFeedback": {
+                "onSuccess": "Гайхалтай! 'л дээ' conveys the exact conversational concession.",
+                "onFailure": "Remember that 'л дээ' conveys nuanced conversational concession."
+              },
+              "detailedGrammarNote": "The particle cluster 'л дээ' combines restrictive focus 'л' with persuasive modal particle 'дээ' to establish nuanced pragmatic alignment.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Тийм л дээ, гэхдээ бид бодит байдлаа харах ёстой.",
+                "slowSpeechSynthesisText": "тийм л дээ.",
+                "ipaTranscription": "/tʰiːm ɮ tʰeː, kewxtʰeː pʰitʰ pɔtʲitʰ pæːtɮaː xərəx jɵstʰɔe/",
+                "speakerRole": "female_native",
+                "speechRate": 1.15
+              },
+              "evaluation": {
+                "matchType": "NORMALIZED_TEXT",
+                "caseSensitive": false,
+                "stripPunctuation": true,
+                "normalizeWhitespace": true
+              },
+              "lessonId": "les_c2_229_01_khalkha_phonotactics_syntax_intro",
+              "unitId": "unit_c2_229_rapid_khalkha_spoken_phonotactics_r",
+              "cefrLevel": "C2"
+            }
+          ],
+          "exerciseCount": 5
+        },
+        {
+          "id": "les_c2_229_02_unedited_street_dialogue_transcripts_reading",
+          "title": "Sociolinguistic Reading: Verbatim Transcripts of Ulaanbaatar Youth Vernacular & Slang",
+          "cyrillicTitle": "Deconstruct authentic, non-standardized Mongolian orthographic transcripts representing raw conversational Khalkha without literary smoothing.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 840-word unedited ethnographic transcript of multi-party banter among university students and market traders in Ulaanbaatar, decoding heavy phonetic contractions, coded in-group youth slang, and elliptical clauses.",
+          "communicativeOutcome": "Deconstruct authentic, non-standardized Mongolian orthographic transcripts representing raw conversational Khalkha without literary smoothing.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 840-word unedited ethnographic transcript of multi-party banter among university students and market traders in Ulaanbaatar, decoding heavy phonetic contractions, coded in-group youth slang, and elliptical clauses.",
+            "keyPoints": [
+              "obj_c2_229_02_parse_verbatim_slang_transcripts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_229_03_rush_hour_traffic_quarrel_listening",
+          "title": "Acoustic Dissection: Multi-Party Dispute at Ulaanbaatar Intersection at 180 wpm",
+          "cyrillicTitle": "Process native Khalkha speech under acoustic stress and emotional agitation, tracking rapid claims, defensive retorts, and informal bargaining.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute unedited recording of a spontaneous verbal confrontation between drivers and a traffic police officer during peak Ulaanbaatar gridlock, spoken at 170-195 wpm with ambient traffic noise, severe vowel truncations, and heated emotional inflections.",
+          "communicativeOutcome": "Process native Khalkha speech under acoustic stress and emotional agitation, tracking rapid claims, defensive retorts, and informal bargaining.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic field audio of rapid heated urban exchange with real background honking and native acoustic elisions.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute unedited recording of a spontaneous verbal confrontation between drivers and a traffic police officer during peak Ulaanbaatar gridlock, spoken at 170-195 wpm with ambient traffic noise, severe vowel truncations, and heated emotional inflections.",
+            "keyPoints": [
+              "obj_c2_229_03_comprehend_fast_spontaneous_quarrels"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_c2_229_03_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Acoustic Dissection: 180 wpm Traffic Altercation Claims",
+              "modality": "AUTHENTIC_QUARREL_ACOUSTIC_ANALYSIS",
+              "interactionPattern": "AUDIO_COMPREHENSION",
+              "cognitiveComplexity": "ANALYZE_SYNTAX",
+              "skillTargets": [
+                "high_speed_acoustic_comprehension",
+                "argument_tracking_under_noise"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "эгнээ байр эзлэх",
+                "гэрлэн дохио",
+                "торгууль"
+              ],
+              "prompt": "Listen to an authentic 180 wpm recording of a heated altercation between a driver and a traffic police officer at the West Central Intersection (Баруун 4 зам) during evening gridlock:\n\nDriver: 'Хөөе цагдаа аа! Би ногоон гэрлээр орчихсон байсан байхгүй юу! Урд талын автобус гацаад таг зогсчихсон болохоос би яах юм бэ? Замын голоос ухралтай нь биш!'\nOfficer: 'Жолооч оо, уулзвар дээр түгжрэл үүссэн үед уулзвар луу нэвтрэхийг хориглосон дүрэм байгаа биз дээ? Бичиг баримтаа гаргаад ир!'\n\nWhat is the driver's core defensive legal justification for being stranded in the middle of the intersection?",
+              "stimulusTextCyrillic": "Би ногоон гэрлээр орчихсон ... урд талын автобус гацаад таг зогсчихсон болохоос би яах юм бэ?",
+              "hint": "The driver entered on green, but was blocked by a bus ahead that came to a dead halt ('таг зогссон').",
+              "options": [
+                {
+                  "id": "claim_bus_block",
+                  "text": "He lawfully entered on green, but was trapped when the bus in front came to an unexpected dead stop, making it physically impossible to proceed or reverse.",
+                  "cyrillic": "Ногоон гэрлээр орсон боловч урд талын автобус гацсан",
+                  "isCorrect": true,
+                  "explanation": "Correct! The driver claims lawful entry on green, blaming the entrapment entirely on the stalled bus ahead."
+                },
+                {
+                  "id": "claim_signal_defect",
+                  "text": "He claims the traffic signal system was defective and switched instantaneously from green to red without any yellow warning phase.",
+                  "cyrillic": "Гэрлэн дохио алдаатай ажилласан гэх",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The driver specifically acknowledges entering on green, blaming the immobilized bus in front, not signal failure."
+                },
+                {
+                  "id": "claim_emergency",
+                  "text": "He claims he was authorized to enter the gridlock because he was following an emergency escort vehicle.",
+                  "cyrillic": "Цуваа дагаж явсан гэх",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. Fabricated excuse not in the audio dialogue."
+                }
+              ],
+              "correctAnswer": "He lawfully entered on green, but was trapped when the bus in front came to an unexpected dead stop, making it physically impossible to proceed or reverse.",
+              "acceptableAlternatives": [
+                "Lawfully entered on green but blocked by a bus",
+                "ногоон гэрлээр орсон боловч урд талын автобус гацсан"
+              ],
+              "explanation": "The driver deploys the emphatic past perfect ('орчихсон байсан байхгүй юу') and impossibility modal ('ухралтай нь биш') to argue that traffic entrapment negated his volition.",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! Flawless extraction of high-speed colloquial claims under noise.",
+                "onFailure": "The driver argues he entered on green and was trapped by the bus ahead."
+              },
+              "detailedGrammarNote": "Impossibility idiom '-лтай нь биш⁴' ('ухралтай нь биш' = it's not as if I can reverse!) forcefully rejects unreasonable behavioral alternatives in heated verbal confrontations.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Би ногоон гэрлээр орчихсон байсан байхгүй юу! Урд талын автобус гацаад таг зогсчихсон болохоос би яах юм бэ?",
+                "slowSpeechSynthesisText": "ногоон гэрлээр орчихсон байсан байхгүй юу.",
+                "ipaTranscription": "/pʰi nɔɢɔːŋ ɡerɮeːr ɔrtʃʰixsəŋ pæːsəŋ pæːxɢuː jʊː! ʊrtʰ tʰaɮiːŋ awtʰɔpʊs ɢatsʰaːtʰ tʰaɡ tsɔɡstʃʰixsəŋ pɔɮɔxɔːs pʰi jaːx jʊm pe/",
+                "speakerRole": "male_native",
+                "speechRate": 1.25,
+                "acousticEnvironment": "traffic_quarrel_horn_noise"
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_c2_229_03_rush_hour_traffic_quarrel_listening",
+              "unitId": "unit_c2_229_rapid_khalkha_spoken_phonotactics_r",
+              "cefrLevel": "C2"
+            },
+            {
+              "exerciseId": "ex_c2_229_03_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "Decoding Epistemic Particle 'Байхгүй Юу' in Spontaneous Grievance",
+              "modality": "AUTHENTIC_QUARREL_ACOUSTIC_ANALYSIS",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "pragmatic_particle_nuance",
+                "conversational_epistemics"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "байхгүй юу",
+                "болохоос"
+              ],
+              "prompt": "In the driver's agitated utterance: 'Би ногоон гэрлээр орчихсон байсан байхгүй юу!', what exact pragmatic force does the final clitic cluster 'байхгүй юу' convey?",
+              "stimulusTextCyrillic": "орчихсон байсан байхгүй юу!",
+              "hint": "'Байхгүй юу' asserts shared obviousness / 'Can't you see?! / You know damn well that...'.",
+              "options": [
+                {
+                  "id": "part_obviousness",
+                  "text": "Aggressive epistemic insistence on obvious shared reality: 'You know full well / As is completely obvious, I entered on green!'.",
+                  "cyrillic": "Мэдээжийн баримтыг эрс шаардан сануулах",
+                  "isCorrect": true,
+                  "explanation": "Correct! 'Байхгүй юу' asserts that the fact is glaringly self-evident to both speaker and listener."
+                },
+                {
+                  "id": "part_absence",
+                  "text": "Literal negation indicating that the traffic light was physically missing from the pole.",
+                  "cyrillic": "Байхгүй гэсэн үгүйсгэл",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. 'Байхгүй юу' is grammaticalized as an epistemic particle, not literal absence."
+                },
+                {
+                  "id": "part_polite",
+                  "text": "Humble deference asking the officer for forgiveness.",
+                  "cyrillic": "Гуйлт",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The tone is defiant and self-justifying."
+                }
+              ],
+              "correctAnswer": "Aggressive epistemic insistence on obvious shared reality: 'You know full well / As is completely obvious, I entered on green!'.",
+              "acceptableAlternatives": [
+                "Aggressive epistemic insistence",
+                "Мэдээжийн баримтыг сануулах"
+              ],
+              "explanation": "'Байхгүй юу' is an emphatic communicative clitic in spoken Khalkha demanding interlocutor acknowledgment of undeniable facts.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! Masterful pragmatic analysis of 'байхгүй юу'.",
+                "onFailure": "'байхгүй юу' insists on an undeniable, obvious reality."
+              },
+              "detailedGrammarNote": "Despite having the surface form of negative caritive 'байхгүй' + interrogative 'юу', this construction functions purely as an assertive pragmatic stance marker.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Би ногоон гэрлээр орчихсон байсан байхгүй юу!",
+                "slowSpeechSynthesisText": "орчихсон байсан байхгүй юу.",
+                "ipaTranscription": "/pʰi nɔɢɔːŋ ɡerɮeːr ɔrtʃʰixsəŋ pæːsəŋ pæːxɢuː jʊː/",
+                "speakerRole": "male_native",
+                "speechRate": 1.2
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_c2_229_03_rush_hour_traffic_quarrel_listening",
+              "unitId": "unit_c2_229_rapid_khalkha_spoken_phonotactics_r",
+              "cefrLevel": "C2"
+            },
+            {
+              "exerciseId": "ex_c2_229_03_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "Pinpointing Rhetorical De-escalation & Compliance Turning Point",
+              "modality": "AUTHENTIC_QUARREL_ACOUSTIC_ANALYSIS",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "EVALUATE_PRAGMATICS",
+              "skillTargets": [
+                "conflict_resolution_tracking",
+                "conversational_turn_taking"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "за яахав",
+                "бичиг баримт",
+                "торгууль бичих"
+              ],
+              "prompt": "Listen to the continuation of the altercation:\n\nOfficer: 'Замын хөдөлгөөний дүрмийн 12.4-т түгжрэлтэй уулзвар луу орохыг хориглоно гэж заасан. Та журам зөрчсөн нь бичлэг дээр тодорхой харагдаж байна. Торгууль бичнэ.'\nDriver: 'За за, ах нь ойлголоо. Өнөөдөр яарч яваад л ийм юм болчихлоо. Торгуулиа бичүүлчихье. Харин оноо битгий хасаарай, гуйж байна шүү.'\n\nAt what exact point does the driver's stance switch from aggressive confrontation to pragmatic compliance and plea bargaining?",
+              "stimulusTextCyrillic": "За за, ах нь ойлголоо ... Торгуулиа бичүүлчихье. Харин оноо битгий хасаарай",
+              "hint": "Listen for 'За за, ах нь ойлголоо' where the driver adopts kinship self-address 'ах нь' and offers to accept the fine.",
+              "options": [
+                {
+                  "id": "turn_akhiin",
+                  "text": "When the driver says 'За за, ах нь ойлголоо'—shifting from shouting to adopting the familial persona 'ах нь' (older brother), conceding the ticket in exchange for begging the officer not to deduct demerit points.",
+                  "cyrillic": "За за ах нь ойлголоо гэхэд",
+                  "isCorrect": true,
+                  "explanation": "Correct! Adopting kinship address 'ах нь' instantly humanizes the interaction and opens pragmatic bargaining."
+                },
+                {
+                  "id": "turn_code",
+                  "text": "When the officer cites Traffic Rule 12.4 and immediately writes a citation without allowing the driver to speak.",
+                  "cyrillic": "Цагдаа шууд торгууль бичихэд",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. This is the officer's assertion of authority, not the driver's rhetorical turning point."
+                },
+                {
+                  "id": "turn_denial",
+                  "text": "When the driver demands to see the officer's dashcam recording and threatens to appeal to the district police chief.",
+                  "cyrillic": "Даргын нэр барьж сүрдүүлэхэд",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The driver abandons threats and adopts an accommodating kinship persona ('ах нь')."
+                }
+              ],
+              "correctAnswer": "When the driver says 'За за, ах нь ойлголоо'—shifting from shouting to adopting the familial persona 'ах нь' (older brother), conceding the ticket in exchange for begging the officer not to deduct demerit points.",
+              "acceptableAlternatives": [
+                "At 'За за, ах нь ойлголоо'",
+                "За за ах нь ойлголоо"
+              ],
+              "explanation": "In authentic Mongolian public confrontations, shifting to pseudo-kinship pronouns ('ах нь' / 'дүү нь') is the decisive sociolinguistic turning point for diffusing state confrontation and negotiating mitigation.",
+              "learnerFeedback": {
+                "onSuccess": "Төгс! Extraordinary sociolinguistic perception of authentic Mongolian conflict de-escalation.",
+                "onFailure": "The turning point is 'За за, ах нь ойлголоо' (adoption of 'ах нь')."
+              },
+              "detailedGrammarNote": "Using self-reference 'ах нь' (literally 'his/her older brother') leverages cultural norms of filial seniority to appeal to the younger officer's compassion.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "За за, ах нь ойлголоо. Өнөөдөр яарч яваад л ийм юм болчихлоо. Торгуулиа бичүүлчихье.",
+                "slowSpeechSynthesisText": "За за, ах нь ойлголоо. Торгуулиа бичүүлчихье.",
+                "ipaTranscription": "/tsa tsa, ax nʲ ɔeɮɢɔɮɔː. ɵnɵːtər jaːrtʃʰ jəwaːtʰ ɮ iːm jʊm pɔɮtʃʰixɮɔː. tʰɔrɢʊːɮʲaː pʰitʃʰuːɮtʃʰixiː/",
+                "speakerRole": "male_native",
+                "speechRate": 1.1,
+                "acousticEnvironment": "traffic_deescalation"
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_c2_229_03_rush_hour_traffic_quarrel_listening",
+              "unitId": "unit_c2_229_rapid_khalkha_spoken_phonotactics_r",
+              "cefrLevel": "C2"
+            },
+            {
+              "exerciseId": "ex_c2_229_03_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "Token Assembly: Mock Deference and Sarcastic Retort",
+              "modality": "AUTHENTIC_QUARREL_ACOUSTIC_ANALYSIS",
+              "interactionPattern": "TOKEN_REARRANGEMENT",
+              "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
+              "skillTargets": [
+                "sarcasm_detection",
+                "ironic_deference"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "ухаантай хүн",
+                "байх нь ээ"
+              ],
+              "prompt": "Reconstruct this biting, sarcastic retort uttered earlier by the driver: 'Oh, so you think you're the smartest person in the world, do you?!':",
+              "wordTokens": [
+                "Та",
+                "их",
+                "хүн",
+                "тийм",
+                "байх",
+                "ухаантай",
+                "ээ",
+                "нь"
+              ],
+              "correctTokenOrder": [
+                "Та",
+                "тийм",
+                "их",
+                "ухаантай",
+                "хүн",
+                "байх",
+                "нь",
+                "ээ"
+              ],
+              "correctAnswer": "Та тийм их ухаантай хүн байх нь ээ",
+              "acceptableAlternatives": [
+                "Та тийм их ухаантай хүн байх нь ээ?",
+                "Та тийм их ухаантай хүн байх нь ээ!"
+              ],
+              "hint": "Polite pronoun 'Та' -> degree modifier 'тийм их' -> 'ухаантай хүн' -> evidential copula 'байх нь ээ'.",
+              "explanation": "'Та тийм их ухаантай хүн байх нь ээ' uses mock evidential discovery ('байх нь ээ' = it turns out you are...) to drip with sarcastic contempt.",
+              "learnerFeedback": {
+                "onSuccess": "Сайн байна! Bitter native sarcasm and evidential irony reconstructed.",
+                "onFailure": "Order: Та -> тийм -> их -> ухаантай -> хүн -> байх -> нь -> ээ."
+              },
+              "detailedGrammarNote": "The evidential combination of verbal noun in -х + possessive 'нь' + exclamatory vocative 'ээ' ('байх нь ээ') marks ironic realization of another's supposed superiority.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Та тийм их ухаантай хүн байх нь ээ?!",
+                "slowSpeechSynthesisText": "тийм их ухаантай хүн байх нь ээ.",
+                "ipaTranscription": "/tʰa tʰiːm ix ʊxaːŋtʰæː xun pæːx nʲ eː/",
+                "speakerRole": "male_native",
+                "speechRate": 1.15
+              },
+              "evaluation": {
+                "matchType": "TOKEN_ORDER"
+              },
+              "lessonId": "les_c2_229_03_rush_hour_traffic_quarrel_listening",
+              "unitId": "unit_c2_229_rapid_khalkha_spoken_phonotactics_r",
+              "cefrLevel": "C2"
+            },
+            {
+              "exerciseId": "ex_c2_229_03_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "Cloze Insertion: Persuasive Plea Clitic 'Гуйж Байна Шүү'",
+              "modality": "AUTHENTIC_QUARREL_ACOUSTIC_ANALYSIS",
+              "interactionPattern": "CLOZE_TEXT",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "plea_clitic_insertion",
+                "emotive_particulate"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "гуйж байна шүү"
+              ],
+              "prompt": "Complete the driver's final pleading sentence to the police officer:\n\n'Энэ удаад сануулчих, дахиж алдаа гаргахгүй, ах нь хичээнгүйлэн ______ байна шүү.' (Let me off with a warning this once, I won't make a mistake again, your brother is earnestly begging you!)",
+              "stimulusTextCyrillic": "ах нь хичээнгүйлэн ______ байна шүү",
+              "hint": "Attach the imperfective converb suffix (-ж/-ч) to the verbal stem for entreating or asking earnestly.",
+              "correctAnswer": "гуйж",
+              "acceptableAlternatives": [
+                "гуйж",
+                "Гуйж"
+              ],
+              "explanation": "'Гуйж байна шүү' (I am begging you!) with modal converb 'гуйж' delivers the emotional plea.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! 'гуйж байна шүү' correctly inserted.",
+                "onFailure": "Remember that 'гуйж байна шүү' is the standard conversational plea formula."
+              },
+              "detailedGrammarNote": "The imperfective converb in -ж/-ч ('гуйж') coordinates with the auxiliary 'байна' and assertive particle 'шүү' in emotional appeals.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Энэ удаад сануулчих, ах нь хичээнгүйлэн гуйж байна шүү.",
+                "slowSpeechSynthesisText": "хичээнгүйлэн гуйж байна шүү.",
+                "ipaTranscription": "/en ʊtʰaːtʰ sanʊːɮtʃʰix, ax nʲ xitʃʰeːŋɡuːɮəŋ ɢʊetʃʰ pæːŋ ʃuː/",
+                "speakerRole": "male_native",
+                "speechRate": 1.1
+              },
+              "evaluation": {
+                "matchType": "NORMALIZED_TEXT",
+                "caseSensitive": false,
+                "stripPunctuation": true,
+                "normalizeWhitespace": true
+              },
+              "lessonId": "les_c2_229_03_rush_hour_traffic_quarrel_listening",
+              "unitId": "unit_c2_229_rapid_khalkha_spoken_phonotactics_r",
+              "cefrLevel": "C2"
+            }
+          ],
+          "exerciseCount": 5
+        },
+        {
+          "id": "les_c2_229_04_dialogue_adaptation_screenplay_writing",
+          "title": "Creative Writing: Authoring Realistic Contemporary Cinematic Screenplay Dialogue",
+          "cyrillicTitle": "Produce hyper-realistic dramatic dialogue in Mongolian that sounds organic and rhythmically authentic when read aloud by native actors.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 750-word cinematic screenplay scene featuring natural Khalkha dialogue between contrasting social archetypes (a cynical tech entrepreneur, an elderly traditionalist, and a savvy taxi driver), capturing genuine spoken cadence, incomplete thoughts, and natural contractions.",
+          "communicativeOutcome": "Produce hyper-realistic dramatic dialogue in Mongolian that sounds organic and rhythmically authentic when read aloud by native actors.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 750-word cinematic screenplay scene featuring natural Khalkha dialogue between contrasting social archetypes (a cynical tech entrepreneur, an elderly traditionalist, and a savvy taxi driver), capturing genuine spoken cadence, incomplete thoughts, and natural contractions.",
+            "keyPoints": [
+              "obj_c2_229_04_author_authentic_dramatic_dialogue"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_229_05_spontaneous_rapid_podcast_banter_spoken",
+          "title": "Colloquial Speaking: Spontaneous Rapid Banter on an Unscripted Cultural Podcast",
+          "cyrillicTitle": "Demonstrate effortless, native-like conversational velocity (160+ wpm), deploying reductions, laughter tokens, and witty quips in real time.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Participate in an unscripted 4.5-minute fast-paced simulated podcast dialogue with two native co-hosts, reacting spontaneously to sudden topic pivots, bantering with native phonotactics, and interrupting naturally without awkward pauses.",
+          "communicativeOutcome": "Demonstrate effortless, native-like conversational velocity (160+ wpm), deploying reductions, laughter tokens, and witty quips in real time.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of two urban professionals conducting rapid, humorous cultural podcast banter.",
+          "grammarOverview": {
+            "summary": "Participate in an unscripted 4.5-minute fast-paced simulated podcast dialogue with two native co-hosts, reacting spontaneously to sudden topic pivots, bantering with native phonotactics, and interrupting naturally without awkward pauses.",
+            "keyPoints": [
+              "obj_c2_229_05_perform_rapid_podcast_banter"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_230_conversational_repair_turn_taking_p",
+      "unitNumber": 230,
+      "title": "Conversational Repair & Turn-Taking Particles",
+      "cyrillicTitle": "Deploying subtle repair markers: нөгөө юу билээ, яалаа, ер нь бол",
+      "description": "Acquire and apply grammatical morphology (gram_c2_conversational_repair_and_discourse_particles) to fulfill communicative functions in: Conversational Repair & Turn-Taking Particles.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "gram_c2_conversational_repair_and_discourse_particles",
+      "lessons": [
+        {
+          "id": "les_c2_230_01_conversational_repair_syntax_intro",
+          "title": "Morphosyntax: Conversational Repair, Hesitation Particles & Pragmatic Turn-Holding Devices",
+          "cyrillicTitle": "Manage floor control, repair speech errors instantaneously, and hold conversational turns naturally without creating awkward communicative silences.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic structures and pragmatic mechanics of conversational self-repair (юу билээ, аль вэ, үгүй ээ тэр чинь), turn-holding filler particles (нөгөө юу л даа, ер нь болбол), and subtle concession tokens in natural Khalkha interactions.",
+          "communicativeOutcome": "Manage floor control, repair speech errors instantaneously, and hold conversational turns naturally without creating awkward communicative silences.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic structures and pragmatic mechanics of conversational self-repair (юу билээ, аль вэ, үгүй ээ тэр чинь), turn-holding filler particles (нөгөө юу л даа, ер нь болбол), and subtle concession tokens in natural Khalkha interactions.",
+            "keyPoints": [
+              "obj_c2_230_01_master_conversational_repair"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_230_02_conversational_analysis_transcripts_reading",
+          "title": "Discourse Reading: Conversation Analysis of Disagreement in Live Radio Call-In Shows",
+          "cyrillicTitle": "Deconstruct micro-level interactional architecture in spoken Mongolian, recognizing how power, entitlement, and deference are negotiated turn-by-turn.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 830-word annotated Conversation Analysis (CA) transcript of a contentious live radio phone-in show, analyzing micro-pauses (0.2s–0.8s), latching, overlap management, and polite pre-disagreement tokens ('Тийм л дээ, гэхдээ...').",
+          "communicativeOutcome": "Deconstruct micro-level interactional architecture in spoken Mongolian, recognizing how power, entitlement, and deference are negotiated turn-by-turn.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 830-word annotated Conversation Analysis (CA) transcript of a contentious live radio phone-in show, analyzing micro-pauses (0.2s–0.8s), latching, overlap management, and polite pre-disagreement tokens ('Тийм л дээ, гэхдээ...').",
+            "keyPoints": [
+              "obj_c2_230_02_parse_ca_transcripts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_230_03_talk_show_cross_talk_listening",
+          "title": "Acoustic Dissection: Television Talk Show Panel Cross-Talk & Interruption Duels",
+          "cyrillicTitle": "Process overlapping acoustic streams simultaneously, identifying who yields the floor, who dominates, and how conversational face is preserved.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute unedited excerpt of a high-energy television talk show panel where three guests talk over each other at 170 wpm, deploying competitive overlaps, volume elevation, and pragmatic repair formulas to win the floor.",
+          "communicativeOutcome": "Process overlapping acoustic streams simultaneously, identifying who yields the floor, who dominates, and how conversational face is preserved.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic broadcast recording with simultaneous multi-speaker overlaps and complex turn-taking dynamics.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute unedited excerpt of a high-energy television talk show panel where three guests talk over each other at 170 wpm, deploying competitive overlaps, volume elevation, and pragmatic repair formulas to win the floor.",
+            "keyPoints": [
+              "obj_c2_230_03_comprehend_overlapping_cross_talk"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_230_04_moderators_crisis_script_writing",
+          "title": "Discourse Writing: Designing a Moderator's Intervention Protocol for Hostile Panels",
+          "cyrillicTitle": "Produce sophisticated meta-pragmatic intervention frameworks in Mongolian, setting authoritative standards for live broadcast media moderation.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 780-word Master Moderator's Live Intervention Guide codifying linguistic scripts for defusing vitriolic interruptions, managing aggressive filibustering, and redirecting dialogue using polished Mongolian discourse particles.",
+          "communicativeOutcome": "Produce sophisticated meta-pragmatic intervention frameworks in Mongolian, setting authoritative standards for live broadcast media moderation.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 780-word Master Moderator's Live Intervention Guide codifying linguistic scripts for defusing vitriolic interruptions, managing aggressive filibustering, and redirecting dialogue using polished Mongolian discourse particles.",
+            "keyPoints": [
+              "obj_c2_230_04_author_moderation_protocols"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_230_05_live_panel_moderation_simulation_spoken",
+          "title": "Interactive Speaking: Live Moderation of a Volatile Political & Cultural Panel",
+          "cyrillicTitle": "Demonstrate supreme conversational agility as an authoritative moderator, exercising effortless floor control and conversational repair under intense live pressure.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Moderate an unscripted 4.5-minute heated panel discussion between two feuding guests, managing turn allocations, interrupting politely yet firmly, repairing overlapping chaos, and summarizing consensus in real time.",
+          "communicativeOutcome": "Demonstrate supreme conversational agility as an authoritative moderator, exercising effortless floor control and conversational repair under intense live pressure.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of expert moderator orchestrating heated broadcast panel.",
+          "grammarOverview": {
+            "summary": "Moderate an unscripted 4.5-minute heated panel discussion between two feuding guests, managing turn allocations, interrupting politely yet firmly, repairing overlapping chaos, and summarizing consensus in real time.",
+            "keyPoints": [
+              "obj_c2_230_05_moderate_volatile_panels_orally"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_231_tag_consensus_markers_",
+      "unitNumber": 231,
+      "title": "Tag Consensus Markers: Тэ, Тийм ээ, За юу, Мөн үү",
+      "cyrillicTitle": "Managing interpersonal alignment and checking consensus subtly",
+      "description": "Acquire and apply grammatical morphology (gram_c2_conversational_tag_consensus_markers) to fulfill communicative functions in: Tag Consensus Markers: Тэ, Тийм ээ, За юу, Мөн үү.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "gram_c2_conversational_tag_consensus_markers",
+      "lessons": [
+        {
+          "id": "les_c2_231_01_tag_consensus_markers_syntax_intro",
+          "title": "Morphosyntax: Conversational Tag Consensus Markers (Тэ, Тийм ээ, Биз дээ, Тэгэлгүй яахав)",
+          "cyrillicTitle": "Deploy varied tag consensus particles to seek confirmation, reinforce shared social common ground, and subtly steer interlocutor agreement without overt coercion.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic placement, intonational pitch contours, and epistemic calibration of conversational consensus tags and confirmation markers in spontaneous Khalkha Mongolian.",
+          "communicativeOutcome": "Deploy varied tag consensus particles to seek confirmation, reinforce shared social common ground, and subtly steer interlocutor agreement without overt coercion.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic placement, intonational pitch contours, and epistemic calibration of conversational consensus tags and confirmation markers in spontaneous Khalkha Mongolian.",
+            "keyPoints": [
+              "obj_c2_231_01_master_tag_consensus_markers"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_231_02_consensus_building_negotiations_reading",
+          "title": "Sociolinguistic Reading: Informal Consensus-Building in Steppe Community Assemblies",
+          "cyrillicTitle": "Deconstruct authentic traditional Mongolian decision-making discourse, identifying how linguistic alignment tokens avoid divisive winner-take-all confrontation.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 850-word verbatim transcript of a rural Bag assembly (Багийн хурал) where nomadic herders debate seasonal pasture rotation, analyzing how elders use tag consensus markers to forge communal consensus without formal voting.",
+          "communicativeOutcome": "Deconstruct authentic traditional Mongolian decision-making discourse, identifying how linguistic alignment tokens avoid divisive winner-take-all confrontation.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 850-word verbatim transcript of a rural Bag assembly (Багийн хурал) where nomadic herders debate seasonal pasture rotation, analyzing how elders use tag consensus markers to forge communal consensus without formal voting.",
+            "keyPoints": [
+              "obj_c2_231_02_parse_communal_consensus_texts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_231_03_informal_bargaining_naran_tuul_listening",
+          "title": "Acoustic Dissection: High-Velocity Commercial Bargaining at Naran Tuul Market",
+          "cyrillicTitle": "Process high-speed commercial bargaining dialect, tracking how merchants oscillate between feigned indignation and warm consensus solicitation.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute authentic field recording of intense price negotiations between wholesale cashmere traders and seasoned merchants at Ulaanbaatar's Naran Tuul market (175 wpm), analyzing the deployment of tag consensus tokens to establish rapport and close deals.",
+          "communicativeOutcome": "Process high-speed commercial bargaining dialect, tracking how merchants oscillate between feigned indignation and warm consensus solicitation.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic field audio of bustling bazaar market negotiation with background crowd acoustics.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute authentic field recording of intense price negotiations between wholesale cashmere traders and seasoned merchants at Ulaanbaatar's Naran Tuul market (175 wpm), analyzing the deployment of tag consensus tokens to establish rapport and close deals.",
+            "keyPoints": [
+              "obj_c2_231_03_comprehend_commercial_bargaining_tags"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_231_04_coalition_bargaining_memo_writing",
+          "title": "Diplomatic Writing: Drafting a Backchannel Coalition Alignment Memorandum",
+          "cyrillicTitle": "Produce high-level political alignment documents in Mongolian, calibrating the exact degree of informal political consensus achieved between rival parliamentary factions.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 780-word confidential political party backchannel memorandum summarizing fragile coalition alignment discussions, employing subtle consensus-signaling syntax to record mutual commitments without legally binding guarantees.",
+          "communicativeOutcome": "Produce high-level political alignment documents in Mongolian, calibrating the exact degree of informal political consensus achieved between rival parliamentary factions.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 780-word confidential political party backchannel memorandum summarizing fragile coalition alignment discussions, employing subtle consensus-signaling syntax to record mutual commitments without legally binding guarantees.",
+            "keyPoints": [
+              "obj_c2_231_04_author_coalition_alignment_memos"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_231_05_informal_consensus_steering_spoken",
+          "title": "Interactive Speaking: Steering an Unofficial High-Level Corporate Dinner Consensus",
+          "cyrillicTitle": "Achieve complex business consensus through informal conversational finesse, establishing genuine rapport and voluntary alignment without formal pressure.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Execute an unscripted 4.5-minute spoken simulation at a formal corporate banquet, steering three skeptical international joint-venture partners toward an informal consensus agreement using nuanced Mongolian tag markers, warm humor, and collaborative framing.",
+          "communicativeOutcome": "Achieve complex business consensus through informal conversational finesse, establishing genuine rapport and voluntary alignment without formal pressure.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of bilingual corporate leader guiding dinner dialogue to unanimous agreement.",
+          "grammarOverview": {
+            "summary": "Execute an unscripted 4.5-minute spoken simulation at a formal corporate banquet, steering three skeptical international joint-venture partners toward an informal consensus agreement using nuanced Mongolian tag markers, warm humor, and collaborative framing.",
+            "keyPoints": [
+              "obj_c2_231_05_steer_informal_business_consensus"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_232_pragmatic_irony_sarcasm_understatem",
+      "unitNumber": 232,
+      "title": "Pragmatic Irony, Sarcasm & Understatement",
+      "cyrillicTitle": "Conveying layered irony, witty teasing, and deadpan cultural humor",
+      "description": "Acquire and apply grammatical morphology (gram_c2_pragmatic_irony_and_understatement) to fulfill communicative functions in: Pragmatic Irony, Sarcasm & Understatement.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "gram_c2_pragmatic_irony_and_understatement",
+      "lessons": [
+        {
+          "id": "les_c2_232_01_pragmatic_irony_syntax_intro",
+          "title": "Morphosyntax: Pragmatic Irony, Deadpan Sarcasm & Steppe Understatement Formulae",
+          "cyrillicTitle": "Identify, deconstruct, and produce subtle pragmatic irony and culturally resonant sarcasm in Mongolian without sounding overtly crude or aggressive.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic configurations, rhetorical inversion particles (ч дээ, гэнэ ээ, нээрээ юу), and deadpan prosodic markers utilized in sophisticated Khalkha irony, indirect criticism, and nomadic self-deprecating understatement.",
+          "communicativeOutcome": "Identify, deconstruct, and produce subtle pragmatic irony and culturally resonant sarcasm in Mongolian without sounding overtly crude or aggressive.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic configurations, rhetorical inversion particles (ч дээ, гэнэ ээ, нээрээ юу), and deadpan prosodic markers utilized in sophisticated Khalkha irony, indirect criticism, and nomadic self-deprecating understatement.",
+            "keyPoints": [
+              "obj_c2_232_01_master_pragmatic_irony"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_232_02_satirical_feuilletons_reading",
+          "title": "Literary Reading: Modern Satirical Feuilletons & Political Allegories (Хошин өгүүллэг)",
+          "cyrillicTitle": "Interpret high-tier satirical literature in Mongolian, extracting implied social critiques that bypass explicit censorship or libel.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 860-word celebrated modern satirical feuilleton satirizing bureaucratic absurdity in Ulaanbaatar municipal administration, analyzing how the author employs double-voiced discourse, mock-heroic praise, and veiled institutional ridicule.",
+          "communicativeOutcome": "Interpret high-tier satirical literature in Mongolian, extracting implied social critiques that bypass explicit censorship or libel.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 860-word celebrated modern satirical feuilleton satirizing bureaucratic absurdity in Ulaanbaatar municipal administration, analyzing how the author employs double-voiced discourse, mock-heroic praise, and veiled institutional ridicule.",
+            "keyPoints": [
+              "obj_c2_232_02_parse_satirical_feuilletons"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_232_03_stand_up_comedy_steppe_satire_listening",
+          "title": "Acoustic Dissection: Contemporary Mongolian Stand-Up Comedy & Deadpan Steppe Satire",
+          "cyrillicTitle": "Process contemporary native comedic timing and cultural humor in real time, laughing at culturally specific punchlines without needing external explanation.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute live stand-up comedy set performed at an Ulaanbaatar comedy club (170 wpm), deconstructing timing beats, punchline inversions, audience laugh triggers, and deadpan observations on modern Mongolian dating and housing struggles.",
+          "communicativeOutcome": "Process contemporary native comedic timing and cultural humor in real time, laughing at culturally specific punchlines without needing external explanation.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic live comedy club recording with live audience laughter, stage acoustics, and deadpan timing.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute live stand-up comedy set performed at an Ulaanbaatar comedy club (170 wpm), deconstructing timing beats, punchline inversions, audience laugh triggers, and deadpan observations on modern Mongolian dating and housing struggles.",
+            "keyPoints": [
+              "obj_c2_232_03_comprehend_standup_comedy_irony"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_232_04_satirical_op_ed_column_writing",
+          "title": "Journalistic Writing: Authoring a Biting Satirical Opinion Column (Ёгт нийтлэл)",
+          "cyrillicTitle": "Produce high-literary satirical journalism in Mongolian that balances devastating irony, linguistic sophistication, and intellectual entertainment.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 800-word satirical opinion column for a prominent Mongolian daily newspaper critique, employing Swiftian modest-proposal irony to critique extravagant political campaign promises and public gullibility.",
+          "communicativeOutcome": "Produce high-literary satirical journalism in Mongolian that balances devastating irony, linguistic sophistication, and intellectual entertainment.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 800-word satirical opinion column for a prominent Mongolian daily newspaper critique, employing Swiftian modest-proposal irony to critique extravagant political campaign promises and public gullibility.",
+            "keyPoints": [
+              "obj_c2_232_04_author_satirical_op_eds"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_232_05_witty_repartee_social_roast_spoken",
+          "title": "Humorous Speaking: Witty Repartee & Playful Social Teasing Among Cultured Peers",
+          "cyrillicTitle": "Demonstrate the pinnacle of informal social charm, wit, and linguistic playfulness in spoken Mongolian, participating as an effortless equal in elite native bantering circles.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Engage in an unscripted 4.5-minute verbal sparring colloquy with cultured native Mongolian intellectuals, exchanging lightning-fast witty retorts, affectionate social teasing (явуулах), and deadpan steppe ironies without crossing into malice.",
+          "communicativeOutcome": "Demonstrate the pinnacle of informal social charm, wit, and linguistic playfulness in spoken Mongolian, participating as an effortless equal in elite native bantering circles.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of educated Mongolian peers engaging in lightning-fast, affectionate humorous sparring.",
+          "grammarOverview": {
+            "summary": "Engage in an unscripted 4.5-minute verbal sparring colloquy with cultured native Mongolian intellectuals, exchanging lightning-fast witty retorts, affectionate social teasing (явуулах), and deadpan steppe ironies without crossing into malice.",
+            "keyPoints": [
+              "obj_c2_232_05_execute_witty_repartee"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_233_somatic_steppe_metaphors_liver_gall",
+      "unitNumber": 233,
+      "title": "Somatic Steppe Metaphors: Liver, Gall, Heart Idioms",
+      "cyrillicTitle": "Deploying physiological steppe idioms (элэг хөших, цөс ихтэй, дотор онгойх)",
+      "description": "Acquire and apply grammatical morphology (gram_c2_somatic_idiomatic_metaphors) to fulfill communicative functions in: Somatic Steppe Metaphors: Liver, Gall, Heart Idioms.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "gram_c2_somatic_idiomatic_metaphors",
+      "lessons": [
+        {
+          "id": "les_c2_233_01_somatic_steppe_metaphors_syntax_intro",
+          "title": "Morphosemantics: Traditional Somatic Metaphors of the Nomadic Mind (Элэг, Цөс, Зүрх, Уушги)",
+          "cyrillicTitle": "Deconstruct and deploy deep somatic steppe metaphors naturally, thinking and expressing profound emotional states through traditional Mongolian embodied cognition.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the cognitive semantics, syntactic lexicalization patterns, and visceral metaphorical conceptualization of human emotion and character in nomadic Mongolian grounded in internal organs (элэг нэгтэн, элэг өвдөх, цөс хөөрөх, хар элэгтэй, уушги сагсайх).",
+          "communicativeOutcome": "Deconstruct and deploy deep somatic steppe metaphors naturally, thinking and expressing profound emotional states through traditional Mongolian embodied cognition.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the cognitive semantics, syntactic lexicalization patterns, and visceral metaphorical conceptualization of human emotion and character in nomadic Mongolian grounded in internal organs (элэг нэгтэн, элэг өвдөх, цөс хөөрөх, хар элэгтэй, уушги сагсайх).",
+            "keyPoints": [
+              "obj_c2_233_01_master_somatic_steppe_metaphors"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_233_02_steppe_tragedy_literature_reading",
+          "title": "Literary Reading: Nomadic Kinship, Betrayal & Grief in Classic 20th Century Steppe Novellas",
+          "cyrillicTitle": "Read and emotionally resonate with the highest register of Mongolian literary tragic prose, interpreting somatic expressions without foreign cultural interference.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 880-word excerpt from a masterpiece Mongolian novella (e.g., S. Erdene or B. Rinchen) depicting wartime separation and ancestral tragedy, analyzing the dense integration of liver-centric kinship metaphors and sorrowful somatic expressions.",
+          "communicativeOutcome": "Read and emotionally resonate with the highest register of Mongolian literary tragic prose, interpreting somatic expressions without foreign cultural interference.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 880-word excerpt from a masterpiece Mongolian novella (e.g., S. Erdene or B. Rinchen) depicting wartime separation and ancestral tragedy, analyzing the dense integration of liver-centric kinship metaphors and sorrowful somatic expressions.",
+            "keyPoints": [
+              "obj_c2_233_02_parse_somatic_literary_novellas"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_233_03_traditional_epic_rhapsodist_listening",
+          "title": "Acoustic Dissection: Traditional Epic Bard (Tuulch) Chanting Visceral Battle Passages",
+          "cyrillicTitle": "Process oral epic Mongolian poetry delivered with traditional bardic prosody, tracking mythic combat descriptions and somatic martial bravery.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute authentic archival recording of a master western Mongolian epic bard (*туулч*) performing a heroic clash accompanied by the morin khuur, chanting at 165 wpm with guttural vocalizations and visceral somatic combat metaphors (цөс нь буцлах, элэг бөөрийг нь таслах).",
+          "communicativeOutcome": "Process oral epic Mongolian poetry delivered with traditional bardic prosody, tracking mythic combat descriptions and somatic martial bravery.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic field recording of master bard performing live heroic epic with morin khuur accompaniment.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute authentic archival recording of a master western Mongolian epic bard (*туулч*) performing a heroic clash accompanied by the morin khuur, chanting at 165 wpm with guttural vocalizations and visceral somatic combat metaphors (цөс нь буцлах, элэг бөөрийг нь таслах).",
+            "keyPoints": [
+              "obj_c2_233_03_comprehend_bardic_somatic_chants"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_233_04_literary_memoir_steppe_solitude_writing",
+          "title": "Literary Writing: Authoring an Evocative Steppe Memoir on Kinship & Ancestral Longing",
+          "cyrillicTitle": "Produce deeply evocative, emotionally resonant literary prose in Mongolian that embodies authentic pastoral sensibilities and somatic metaphors.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 820-word literary memoir chapter reflecting on returning to ancestral nomadic pasturelands, weaving rich somatic metaphors of kinship (*элэг зүрхний уяа*), ancestral landscape connection, and philosophical contemplation.",
+          "communicativeOutcome": "Produce deeply evocative, emotionally resonant literary prose in Mongolian that embodies authentic pastoral sensibilities and somatic metaphors.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 820-word literary memoir chapter reflecting on returning to ancestral nomadic pasturelands, weaving rich somatic metaphors of kinship (*элэг зүрхний уяа*), ancestral landscape connection, and philosophical contemplation.",
+            "keyPoints": [
+              "obj_c2_233_04_author_somatic_steppe_memoirs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_233_05_ancestral_eulogy_elegy_spoken",
+          "title": "Solemn Speaking: Delivering a Profound Ancestral Memorial Eulogy (Эмгэнэлийн үг)",
+          "cyrillicTitle": "Command the solemn ceremonial register of Mongolian mourning and ancestral tribute, moving an assembly of grieving elders with deeply dignified, culturally pitch-perfect eloquence.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 4.5-minute formal memorial eulogy honoring a revered community elder and master herder, weaving somatic expressions of profound communal sorrow (*элэг өвдөн гашуудах*), stoic pastoral fortitude, and eternal memory.",
+          "communicativeOutcome": "Command the solemn ceremonial register of Mongolian mourning and ancestral tribute, moving an assembly of grieving elders with deeply dignified, culturally pitch-perfect eloquence.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of distinguished Mongolian orator delivering deeply moving memorial address.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 4.5-minute formal memorial eulogy honoring a revered community elder and master herder, weaving somatic expressions of profound communal sorrow (*элэг өвдөн гашуудах*), stoic pastoral fortitude, and eternal memory.",
+            "keyPoints": [
+              "obj_c2_233_05_deliver_solemn_ancestral_eulogies"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_234_satirical_cultural_critique_polemic",
+      "unitNumber": 234,
+      "title": "Satirical Cultural Critique & Polemical Writing",
+      "cyrillicTitle": "Writing sophisticated social satires lampooning modern consumerism",
+      "description": "Acquire and apply grammatical morphology (gram_c2_satirical_polemical_framing) to fulfill communicative functions in: Satirical Cultural Critique & Polemical Writing.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "gram_c2_satirical_polemical_framing",
+      "lessons": [
+        {
+          "id": "les_c2_234_01_satirical_polemical_syntax_intro",
+          "title": "Morphosyntax: Satirical Polemical Framing, Mock-Encomiums & Rhetorical Invective",
+          "cyrillicTitle": "Formulate sharp polemical arguments and devastating satirical framing devices that deconstruct cultural pretension and societal malaise.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic structures, adversative climax cascades, mock-honorific exaggerations, and polemical contrastive devices utilized in high-tier Mongolian cultural critique and intellectual polemics.",
+          "communicativeOutcome": "Formulate sharp polemical arguments and devastating satirical framing devices that deconstruct cultural pretension and societal malaise.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic structures, adversative climax cascades, mock-honorific exaggerations, and polemical contrastive devices utilized in high-tier Mongolian cultural critique and intellectual polemics.",
+            "keyPoints": [
+              "obj_c2_234_01_master_polemical_framing"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_234_02_baabar_polemical_essay_reading",
+          "title": "Essayistic Reading: Baabar-Style Historical-Cultural Polemics & Iconoclastic Essays",
+          "cyrillicTitle": "Deconstruct high-impact modern Mongolian essayistic prose, discerning rhetorical hyperbole from underlying historical critique.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 870-word classic iconoclastic essay by a renowned public intellectual (e.g. Baabar or G. Galbadrakh) challenging received national historical myths, analyzing sharp rhetorical questions, biting comparisons, and fearless intellectual argumentation.",
+          "communicativeOutcome": "Deconstruct high-impact modern Mongolian essayistic prose, discerning rhetorical hyperbole from underlying historical critique.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 870-word classic iconoclastic essay by a renowned public intellectual (e.g. Baabar or G. Galbadrakh) challenging received national historical myths, analyzing sharp rhetorical questions, biting comparisons, and fearless intellectual argumentation.",
+            "keyPoints": [
+              "obj_c2_234_02_parse_iconoclastic_polemical_essays"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_234_03_philosophical_duel_radio_listening",
+          "title": "Acoustic Dissection: Live Radio Debate Duel Between Rival Public Intellectuals",
+          "cyrillicTitle": "Process sophisticated academic and cultural polemical duels in spoken Mongolian, tracking complex arguments and satirical ripostes delivered under intense intellectual rivalry.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute unedited excerpt of a live broadcast philosophical confrontation between a prominent traditionalist philosopher and an iconoclastic liberal historian (170 wpm), analyzing lightning-fast polemical parries, biting intellectual irony, and erudite rhetorical thrusts.",
+          "communicativeOutcome": "Process sophisticated academic and cultural polemical duels in spoken Mongolian, tracking complex arguments and satirical ripostes delivered under intense intellectual rivalry.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic broadcast recording of intense live verbal duel between two of Mongolia's sharpest public thinkers.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute unedited excerpt of a live broadcast philosophical confrontation between a prominent traditionalist philosopher and an iconoclastic liberal historian (170 wpm), analyzing lightning-fast polemical parries, biting intellectual irony, and erudite rhetorical thrusts.",
+            "keyPoints": [
+              "obj_c2_234_03_comprehend_intellectual_radio_duels"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_234_04_polemical_cultural_manifesto_writing",
+          "title": "Polemical Writing: Authoring a Provocative Cultural Manifesto on Modern Steppe Identity",
+          "cyrillicTitle": "Produce an electrifying, widely discussable cultural manifesto in Mongolian that provokes debate and challenges societal complacency.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 850-word cultural manifesto confronting the contradictions between 21st-century globalization and authentic nomadic heritage in Mongolia, utilizing fearless polemical framing, razor-sharp antitheses, and impassioned intellectual persuasion.",
+          "communicativeOutcome": "Produce an electrifying, widely discussable cultural manifesto in Mongolian that provokes debate and challenges societal complacency.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 850-word cultural manifesto confronting the contradictions between 21st-century globalization and authentic nomadic heritage in Mongolia, utilizing fearless polemical framing, razor-sharp antitheses, and impassioned intellectual persuasion.",
+            "keyPoints": [
+              "obj_c2_234_04_author_cultural_manifestos"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_234_05_public_symposium_polemical_oration_spoken",
+          "title": "Oratorical Speaking: Delivering a Polemical Keynote at a National Humanities Congress",
+          "cyrillicTitle": "Hold a large, discerning intellectual audience spellbound through masterful delivery, combining devastating wit, moral gravitas, and exquisite Mongolian rhetoric.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 5.0-minute electrifying polemical keynote address before 500 scholars and public intellectuals at the National Cultural Forum, challenging prevailing cultural dogmas and defending intellectual courage with impassioned oratory.",
+          "communicativeOutcome": "Hold a large, discerning intellectual audience spellbound through masterful delivery, combining devastating wit, moral gravitas, and exquisite Mongolian rhetoric.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of distinguished public intellectual delivering keynote oration to auditorium applause.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 5.0-minute electrifying polemical keynote address before 500 scholars and public intellectuals at the National Cultural Forum, challenging prevailing cultural dogmas and defending intellectual courage with impassioned oratory.",
+            "keyPoints": [
+              "obj_c2_234_05_deliver_polemical_keynotes"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_235_literary_polyphony_interior_monolog",
+      "unitNumber": 235,
+      "title": "Literary Polyphony & Interior Monologue Prose",
+      "cyrillicTitle": "Crafting multi-voiced literary fiction with free indirect discourse",
+      "description": "Acquire and apply grammatical morphology (gram_c2_literary_polyphony_and_indirect_interior_monologue) to fulfill communicative functions in: Literary Polyphony & Interior Monologue Prose.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "gram_c2_literary_polyphony_and_indirect_interior_monologue",
+      "lessons": [
+        {
+          "id": "les_c2_235_01_literary_polyphony_syntax_intro",
+          "title": "Morphosyntax: Free Indirect Discourse, Interior Monologue & Polyphonic Framing in Fiction",
+          "cyrillicTitle": "Weave seamless transitions between authorial narration and characters' inner psychological streams without explicit speech attribution tags.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the syntactic mechanics of free indirect discourse (чөлөөт шууд бус өгүүлэмж), stream-of-consciousness markers, and shifted deictic perspectives in modern Mongolian psychological and modernist fiction.",
+          "communicativeOutcome": "Weave seamless transitions between authorial narration and characters' inner psychological streams without explicit speech attribution tags.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the syntactic mechanics of free indirect discourse (чөлөөт шууд бус өгүүлэмж), stream-of-consciousness markers, and shifted deictic perspectives in modern Mongolian psychological and modernist fiction.",
+            "keyPoints": [
+              "obj_c2_235_01_master_literary_polyphony"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_235_02_modernist_mongolian_novels_reading",
+          "title": "Literary Reading: Modernist Masterpieces — Stream of Consciousness in Contemporary Novels",
+          "cyrillicTitle": "Analyze avant-garde and postmodern Mongolian literature, interpreting intricate temporal disruptions and elusive metaphoric layers with profound critical sensitivity.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 890-word excerpt from a groundbreaking contemporary Mongolian novel (e.g., G. Ayurzana or L. Ulziitugs), deconstructing non-linear narrative time, surreal interior impressions, and psychological fragmentation.",
+          "communicativeOutcome": "Analyze avant-garde and postmodern Mongolian literature, interpreting intricate temporal disruptions and elusive metaphoric layers with profound critical sensitivity.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 890-word excerpt from a groundbreaking contemporary Mongolian novel (e.g., G. Ayurzana or L. Ulziitugs), deconstructing non-linear narrative time, surreal interior impressions, and psychological fragmentation.",
+            "keyPoints": [
+              "obj_c2_235_02_parse_modernist_novels"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_235_03_theatrical_soliloquy_performance_listening",
+          "title": "Acoustic Dissection: Dramatic Soliloquy & Tormented Interior Monologue in State Theater",
+          "cyrillicTitle": "Process the most demanding acoustic tier of dramatic spoken Mongolian, tracking complex psychological shifts expressed through intimate vocal dynamics.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute live theatrical audio performance of an agonizing dramatic soliloquy by a leading actor at the National Academic Drama Theatre (160 wpm), deconstructing breath cadence, whispered anguish, psychological fracture, and tragic emotional depth.",
+          "communicativeOutcome": "Process the most demanding acoustic tier of dramatic spoken Mongolian, tracking complex psychological shifts expressed through intimate vocal dynamics.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic archival theater performance of celebrated Mongolian Shakespearean/national tragedy actor.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute live theatrical audio performance of an agonizing dramatic soliloquy by a leading actor at the National Academic Drama Theatre (160 wpm), deconstructing breath cadence, whispered anguish, psychological fracture, and tragic emotional depth.",
+            "keyPoints": [
+              "obj_c2_235_03_comprehend_theatrical_soliloquies"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_235_04_stream_of_consciousness_fiction_writing",
+          "title": "Creative Writing: Authoring a Psychological Short Story in Free Indirect Style",
+          "cyrillicTitle": "Produce high-caliber literary prose in Mongolian characterized by psychological depth, poetic density, and masterful narrative control.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 850-word literary short story exploring the memories and fractured sensations of an elderly steppe hunter stranded during a sudden mountain blizzard, utilizing fluid free indirect style and sensory interior monologue.",
+          "communicativeOutcome": "Produce high-caliber literary prose in Mongolian characterized by psychological depth, poetic density, and masterful narrative control.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 850-word literary short story exploring the memories and fractured sensations of an elderly steppe hunter stranded during a sudden mountain blizzard, utilizing fluid free indirect style and sensory interior monologue.",
+            "keyPoints": [
+              "obj_c2_235_04_author_psychological_fiction"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_235_05_literary_salons_aesthetic_critique_spoken",
+          "title": "Critical Speaking: Defending Modernist Aesthetic Choices in an Elite Literary Salon",
+          "cyrillicTitle": "Demonstrate consummate literary critical eloquence in spoken Mongolian, analyzing form, syntax, and narrative theory with effortless intellectual poise.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Engage in an unscripted 4.5-minute sophisticated aesthetic defense of avant-garde narrative technique before a circle of skeptical traditionalist literary critics, articulating how polyphony revitalizes ancient Mongolian oral storytelling.",
+          "communicativeOutcome": "Demonstrate consummate literary critical eloquence in spoken Mongolian, analyzing form, syntax, and narrative theory with effortless intellectual poise.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of distinguished literary theorist defending experimental fiction in salon setting.",
+          "grammarOverview": {
+            "summary": "Engage in an unscripted 4.5-minute sophisticated aesthetic defense of avant-garde narrative technique before a circle of skeptical traditionalist literary critics, articulating how polyphony revitalizes ancient Mongolian oral storytelling.",
+            "keyPoints": [
+              "obj_c2_235_05_defend_literary_aesthetics_orally"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_236_pan_mongolian_dialectal_morphosynta",
+      "unitNumber": 236,
+      "title": "Pan-Mongolian Dialectal Morphosyntax & Phonetics",
+      "cyrillicTitle": "Comprehending Buriat, Kalmyk, Oirat, and Chahar varieties",
+      "description": "Acquire and apply grammatical morphology (gram_c2_dialectal_morphosyntax_awareness) to fulfill communicative functions in: Pan-Mongolian Dialectal Morphosyntax & Phonetics.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "gram_c2_dialectal_morphosyntax_awareness",
+      "lessons": [
+        {
+          "id": "les_c2_236_01_pan_mongolian_morphosyntax_syntax_intro",
+          "title": "Comparative Linguistics: Pan-Mongolian Dialectal Morphosyntax (Buryat, Oirat, Inner Mongolian)",
+          "cyrillicTitle": "Recognize, interpret, and adapt to pan-Mongolian dialectal variants across the Mongolic language family with native-tier linguistic elasticity.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the comparative morphosyntactic divergences, verbal participle variations, archaic case relics, and phonetic sound shifts distinguishing Buryat, Oirat/Kalmyk, and Inner Mongolian dialects from standard Khalkha.",
+          "communicativeOutcome": "Recognize, interpret, and adapt to pan-Mongolian dialectal variants across the Mongolic language family with native-tier linguistic elasticity.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the comparative morphosyntactic divergences, verbal participle variations, archaic case relics, and phonetic sound shifts distinguishing Buryat, Oirat/Kalmyk, and Inner Mongolian dialects from standard Khalkha.",
+            "keyPoints": [
+              "obj_c2_236_01_master_dialectal_morphosyntax"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_236_02_buryat_oirat_oral_literature_reading",
+          "title": "Philological Reading: Buryat & Oirat Folk Legends and Archival Dialectal Texts",
+          "cyrillicTitle": "Read and comprehend regional Mongolian folk literatures in their authentic dialectal forms without relying on normalized translations.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 870-word annotated dialectal corpus containing parallel folklore recordings from Lake Baikal Buryats and Altai Oirat herders, analyzing preserved archaic Mongolic vocabulary and distinctive regional syntax.",
+          "communicativeOutcome": "Read and comprehend regional Mongolian folk literatures in their authentic dialectal forms without relying on normalized translations.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 870-word annotated dialectal corpus containing parallel folklore recordings from Lake Baikal Buryats and Altai Oirat herders, analyzing preserved archaic Mongolic vocabulary and distinctive regional syntax.",
+            "keyPoints": [
+              "obj_c2_236_02_parse_buryat_oirat_texts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_236_03_inner_mongolian_pastoral_interview_listening",
+          "title": "Acoustic Dissection: Authentic Field Interviews with Inner Mongolian & Kalmyk Elders",
+          "cyrillicTitle": "Process diverse pan-Mongolian accents and dialects effortlessly in real time, decoding regional expressions without communicative disorientation.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute unedited field interview recorded in the Ordos region and Kalmykia (165 wpm), analyzing divergent intonation cadences, Chahar-Ordos phonetic traits, and unique pastoral terminologies.",
+          "communicativeOutcome": "Process diverse pan-Mongolian accents and dialects effortlessly in real time, decoding regional expressions without communicative disorientation.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic field audio of native Ordos and Kalmyk speakers recounting local steppe histories.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute unedited field interview recorded in the Ordos region and Kalmykia (165 wpm), analyzing divergent intonation cadences, Chahar-Ordos phonetic traits, and unique pastoral terminologies.",
+            "keyPoints": [
+              "obj_c2_236_03_comprehend_pan_mongolian_accents"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_236_04_pan_mongolian_cultural_encyclopedia_writing",
+          "title": "Comparative Writing: Drafting an Authoritative Pan-Mongolian Dialectal & Cultural Lexicon",
+          "cyrillicTitle": "Produce high-level comparative linguistic and anthropological reference scholarship in Mongolian, demonstrating peerless pan-Mongolian philological authority.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 850-word scholarly reference entry for a Pan-Mongolian Linguistic Encyclopedia documenting lexical and syntactic variation across 4 major dialects, analyzing shared etymological roots and cultural divergence.",
+          "communicativeOutcome": "Produce high-level comparative linguistic and anthropological reference scholarship in Mongolian, demonstrating peerless pan-Mongolian philological authority.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 850-word scholarly reference entry for a Pan-Mongolian Linguistic Encyclopedia documenting lexical and syntactic variation across 4 major dialects, analyzing shared etymological roots and cultural divergence.",
+            "keyPoints": [
+              "obj_c2_236_04_author_dialect_encyclopedia_entries"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_236_05_pan_mongolian_cultural_colloquy_spoken",
+          "title": "Interactive Speaking: Harmonizing Pan-Mongolian Dialogue at an All-Mongol Cultural Congress",
+          "cyrillicTitle": "Demonstrate supreme pan-Mongolian sociolinguistic adaptability, communicating fluidly and respectfully across diverse Mongolic dialectal backgrounds.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Participate in an unscripted 4.5-minute multi-dialectal panel dialogue with delegates from Buryatia, Kalmykia, and Inner Mongolia, adjusting lexical choices, recognizing regional idioms, and celebrating shared cultural roots with effortless warmth.",
+          "communicativeOutcome": "Demonstrate supreme pan-Mongolian sociolinguistic adaptability, communicating fluidly and respectfully across diverse Mongolic dialectal backgrounds.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of pan-Mongolian forum dialogue featuring harmonious cross-dialectal communication.",
+          "grammarOverview": {
+            "summary": "Participate in an unscripted 4.5-minute multi-dialectal panel dialogue with delegates from Buryatia, Kalmykia, and Inner Mongolia, adjusting lexical choices, recognizing regional idioms, and celebrating shared cultural roots with effortless warmth.",
+            "keyPoints": [
+              "obj_c2_236_05_conduct_pan_mongolian_dialogues"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_237_contemporary_literature_capstone_sa",
+      "unitNumber": 237,
+      "title": "Contemporary Literature Capstone: Satirical Essay",
+      "cyrillicTitle": "Publishing an authorial satirical essay on urban Mongolian identity",
+      "description": "Consolidate, integrate, and demonstrate communicative mastery of Contemporary Literature Capstone: Satirical Essay through simulated holistic tasks.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "Publishing an authorial satirical essay on urban Mongolian identity",
+      "lessons": [
+        {
+          "id": "les_c2_237_01_c2_sec01_capstone_stylistics_synthesis",
+          "title": "Stylistic Synthesis: Master Integration of Modernist Polyphony, Satire & Colloquial Cadence",
+          "cyrillicTitle": "Demonstrate effortless, omni-stylistic control across modern Mongolian literary, satirical, and colloquial registers.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Synthesize the full stylistic continuum of Section 01: integrating rapid Khalkha phonotactics, conversational repair, tag consensus mechanisms, pragmatic irony, somatic metaphors, polemical framing, free indirect discourse, and pan-Mongolian dialectal awareness into a unified supreme authorial voice.",
+          "communicativeOutcome": "Demonstrate effortless, omni-stylistic control across modern Mongolian literary, satirical, and colloquial registers.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Synthesize the full stylistic continuum of Section 01: integrating rapid Khalkha phonotactics, conversational repair, tag consensus mechanisms, pragmatic irony, somatic metaphors, polemical framing, free indirect discourse, and pan-Mongolian dialectal awareness into a unified supreme authorial voice.",
+            "keyPoints": [
+              "obj_c2_237_01_synthesize_c2_sec01_stylistics"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_237_02_c2_sec01_capstone_literary_monument_reading",
+          "title": "Capstone Reading: Magnum Opus Contemporary Mongolian Satirical & Philosophical Fiction",
+          "cyrillicTitle": "Deconstruct a crowning work of contemporary Mongolian literature with the critical sophistication of a seasoned literary scholar and native critic.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an extensive 950-word excerpt from a celebrated modern Mongolian magnum opus combining razor-sharp political satire, tragic nomadic memory, somatic metaphors, and surreal psychological stream-of-consciousness.",
+          "communicativeOutcome": "Deconstruct a crowning work of contemporary Mongolian literature with the critical sophistication of a seasoned literary scholar and native critic.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an extensive 950-word excerpt from a celebrated modern Mongolian magnum opus combining razor-sharp political satire, tragic nomadic memory, somatic metaphors, and surreal psychological stream-of-consciousness.",
+            "keyPoints": [
+              "obj_c2_237_02_parse_contemporary_magnum_opus"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_237_03_c2_sec01_capstone_rapid_cultural_debate_listening",
+          "title": "Capstone Listening: Unedited High-Stakes Television Forum on National Identity at 190 wpm",
+          "cyrillicTitle": "Process the highest velocity of unscripted native multi-speaker Mongolian cultural and intellectual discourse without cognitive fatigue or comprehension loss.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 5.0-minute unedited broadcast recording of a passionate nationwide debate featuring five leading cultural figures, satirists, and historians (180-195 wpm), analyzing competing overlaps, fast colloquial reductions, biting humor, and rapid intellectual maneuvers.",
+          "communicativeOutcome": "Process the highest velocity of unscripted native multi-speaker Mongolian cultural and intellectual discourse without cognitive fatigue or comprehension loss.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic unedited broadcast audio of high-stakes cultural debate at native speed.",
+          "grammarOverview": {
+            "summary": "Listen to a 5.0-minute unedited broadcast recording of a passionate nationwide debate featuring five leading cultural figures, satirists, and historians (180-195 wpm), analyzing competing overlaps, fast colloquial reductions, biting humor, and rapid intellectual maneuvers.",
+            "keyPoints": [
+              "obj_c2_237_03_comprehend_fast_cultural_debates"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_237_04_c2_sec01_capstone_satirical_novella_writing",
+          "title": "Capstone Writing: Authoring a Crown Literary Novella Combining Satire & Steppe Tragedy",
+          "cyrillicTitle": "Produce an exceptional work of creative fiction in Mongolian demonstrating the full expressive power, nuance, and artistic maturity of an accomplished native writer.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an ambitious 900-word literary novella chapter set in contemporary Mongolia, seamlessly interweaving biting satire of urban bureaucratic vanity, visceral somatic kinship metaphors, free indirect interior monologue, and authentic dialogue.",
+          "communicativeOutcome": "Produce an exceptional work of creative fiction in Mongolian demonstrating the full expressive power, nuance, and artistic maturity of an accomplished native writer.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an ambitious 900-word literary novella chapter set in contemporary Mongolia, seamlessly interweaving biting satire of urban bureaucratic vanity, visceral somatic kinship metaphors, free indirect interior monologue, and authentic dialogue.",
+            "keyPoints": [
+              "obj_c2_237_04_author_crown_satirical_novellas"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_237_05_c2_sec01_capstone_literary_critics_defense_spoken",
+          "title": "Capstone Speaking: Grand Defense of Authorial Work Before the Mongolian Writers' Union",
+          "cyrillicTitle": "Demonstrate the absolute pinnacle of spoken literary discourse in Mongolian, commanding respect among the nation's foremost poets and novelists.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Present an unscripted 5.0-minute passionate defense and reading of one's literary creation before the plenum of the Mongolian Writers' Union (Монголын Зохиолчдын Эвлэл), answering rigorous critical challenges with intellectual brilliance, wit, and linguistic virtuosity.",
+          "communicativeOutcome": "Demonstrate the absolute pinnacle of spoken literary discourse in Mongolian, commanding respect among the nation's foremost poets and novelists.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of acclaimed author defending groundbreaking novel before literary jury.",
+          "grammarOverview": {
+            "summary": "Present an unscripted 5.0-minute passionate defense and reading of one's literary creation before the plenum of the Mongolian Writers' Union (Монголын Зохиолчдын Эвлэл), answering rigorous critical challenges with intellectual brilliance, wit, and linguistic virtuosity.",
+            "keyPoints": [
+              "obj_c2_237_05_defend_literary_magnum_opus_orally"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_237_06_c2_sec01_culminating_operational_synthesis",
+          "title": "Section 01 Grand Capstone: The Contemporary Modernist Literature & Satire Operational Defense",
+          "cyrillicTitle": "Demonstrate complete operational mastery of Section 01, exhibiting authentic native-level ease across modern Mongolian literary, satirical, and spontaneous conversational registers.",
+          "estimatedMinutes": 15,
+          "lessonType": "synthesis_capstone",
+          "primaryPurpose": "Execute the comprehensive Section 01 operational mastery examination: reading an unedited avant-garde text, processing high-speed broadcast debate, and delivering an integrated written and oral satirical/philosophical critique.",
+          "communicativeOutcome": "Demonstrate complete operational mastery of Section 01, exhibiting authentic native-level ease across modern Mongolian literary, satirical, and spontaneous conversational registers.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Execute the comprehensive Section 01 operational mastery examination: reading an unedited avant-garde text, processing high-speed broadcast debate, and delivering an integrated written and oral satirical/philosophical critique.",
+            "keyPoints": [
+              "obj_c2_237_06_master_c2_sec01_grand_capstone"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [
+            {
+              "exerciseId": "ex_c2_237_06_01",
+              "sequenceInLesson": 1,
+              "exerciseTitle": "Modernist Satire Dissection: Allegory and Subtext Extraction",
+              "modality": "MODERNIST_SATIRE_SYNTHESIS",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "EVALUATE_PRAGMATICS",
+              "skillTargets": [
+                "literary_subtext_extraction",
+                "allegorical_satire_analysis"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "ёгтлол",
+                "далд утга",
+                "нийгмийн шүүмжлэл"
+              ],
+              "prompt": "Read this excerpt from a contemporary Mongolian satirical short story regarding urban bureaucratic inertia:\n\n'Дарга ширээнийхээ араас өндийн, цонхоор цанталттай хотын саарал утааг харан санаа алдав. \"Манай хэлтэс энэ жил 400 хуудас тайлан үдэж, 80 удаагийн зөвлөгөөн зохион байгууллаа. Цаасан дээр бид аль хэдийн утаагаа ялж, ногоон төгөлд амьдарч байна. Харин энэ амьсгал боогдуулаад байгаа зүйл бол зүгээр л ард иргэдийн сэтгэл зүйн хий үзэгдэл төдий юм даа\" хэмээн тэмдэглэлийн дэвтэртээ алтан үзэгнийхээ хошууг нямбайлан арчив.'\n\nWhat is the biting core satirical irony deployed by the author?",
+              "stimulusTextCyrillic": "Цаасан дээр бид аль хэдийн утаагаа ялж ... ард иргэдийн сэтгэл зүйн хий үзэгдэл төдий юм даа",
+              "hint": "Analyze the grotesque chasm between fictitious paper success (400 pages of reports) and deadly physical reality (choking smog written off as citizen delusion).",
+              "options": [
+                {
+                  "id": "sat_chasm",
+                  "text": "Grotesque bureaucratic escapism: The official equates administrative paperwork with real-world problem-solving, absurdly dismissing lethal physical smog as a mere 'psychological hallucination' of the public while meticulously polishing his luxury golden pen.",
+                  "cyrillic": "Цаасан дээрх амжилтыг бодит амьдралтай хутгаж, асуудлыг үгүйсгэсэн ёгтлол",
+                  "isCorrect": true,
+                  "explanation": "Correct! The satire exposes how bureaucratic self-delusion and elite detachment reduce existential public crises to paper fictions."
+                },
+                {
+                  "id": "sat_praise",
+                  "text": "Genuine praise of the department's energetic work in writing 400 pages of reports.",
+                  "cyrillic": "Ажлыг магтах",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The text is mordantly satirical, not laudatory."
+                },
+                {
+                  "id": "sat_calligraphy",
+                  "text": "A nostalgic lament regarding the tragic decline of classical brush calligraphy and handwritten records in modern offices.",
+                  "cyrillic": "Бичгийн соёлыг дурсах",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The golden pen functions as an ironic symbol of bureaucratic detachment, not calligraphic nostalgia."
+                }
+              ],
+              "correctAnswer": "Grotesque bureaucratic escapism: The official equates administrative paperwork with real-world problem-solving, absurdly dismissing lethal physical smog as a mere 'psychological hallucination' of the public while meticulously polishing his luxury golden pen.",
+              "acceptableAlternatives": [
+                "Grotesque bureaucratic escapism",
+                "Цаасан дээрх тайлангаар бодит байдлыг орлуулсан ёгтлол"
+              ],
+              "explanation": "Mastery in C2 requires perceiving how literary Khalkha wields understatement, institutional vocabulary ('зөвлөгөөн зохион байгуулах'), and symbolic imagery ('алтан үзэгний хошуу') for devastating social critique.",
+              "learnerFeedback": {
+                "onSuccess": "Маш сайн! Profound aesthetic and satirical decoding.",
+                "onFailure": "The satire skewers bureaucratic paper triumphs contrasted with suffocating reality."
+              },
+              "detailedGrammarNote": "Quotative 'хэмээн' followed by meticulous physical action ('нямбайлан арчив') underscores moral dissonance in classical Mongolian narrative prose.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Цаасан дээр бид аль хэдийн утаагаа ялж, ногоон төгөлд амьдарч байна.",
+                "slowSpeechSynthesisText": "цаасан дээр бид утаагаа ялжээ.",
+                "ipaTranscription": "/tsʰaːsəŋ tʰeːr pʰitʰ aɮ xitʃʰiːŋ ʊtʰaːɢaː jaɮtʃʰ, nɔɢɔːŋ tʰɵɡɵɮtʰ amʲtərtʃʰ pæːn/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_c2_237_06_c2_sec01_culminating_operational_synthesis",
+              "unitId": "unit_c2_237_contemporary_literature_capstone_sa",
+              "cefrLevel": "C2"
+            },
+            {
+              "exerciseId": "ex_c2_237_06_02",
+              "sequenceInLesson": 2,
+              "exerciseTitle": "Interpreting Subverted Pastoral Metaphors in Urban Modernism",
+              "modality": "MODERNIST_SATIRE_SYNTHESIS",
+              "interactionPattern": "MULTIPLE_CHOICE",
+              "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
+              "skillTargets": [
+                "metaphorical_subversion",
+                "cultural_inference"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "бэлчээр",
+                "малын мөр",
+                "түгжрэл"
+              ],
+              "prompt": "In modern Mongolian literary fiction, authors frequently invert traditional nomadic pastoral tropes to describe urban dystopia. When a poet describes Ulaanbaatar morning traffic as:\n\n'Хүлэг морьдын давхиа бус, төмөр сүргийн гацсан бэлчээр' (Not the galloping of steed-horses, but the stalled pasture of an iron herd)\n\nWhat cultural and existential tension is encapsulated by 'төмөр сүргийн гацсан бэлчээр'?",
+              "stimulusTextCyrillic": "төмөр сүргийн гацсан бэлчээр",
+              "hint": "'Төмөр сүрэг' (iron herd = cars) trapped in a 'гацсан бэлчээр' (gridlocked pasture = traffic-choked streets).",
+              "options": [
+                {
+                  "id": "meta_irony",
+                  "text": "Nomadic spatial alienation: Inverting the sacred steppe symbol of boundless freedom ('бэлчээр' - open pasture) and organic wealth ('сүрэг' - herd) into suffocating, immobile metal machinery gridlocked in urban concrete.",
+                  "cyrillic": "Нүүдэлчин ахуйн эрх чөлөөг суурин хотын түгжрэлтэй харшуулах",
+                  "isCorrect": true,
+                  "explanation": "Correct! Metaphorical clash between infinite steppe mobility and suffocating urban immobility."
+                },
+                {
+                  "id": "meta_industrial",
+                  "text": "A technical description of agricultural tractor mechanization across rural pasturelands.",
+                  "cyrillic": "Хөдөө аж ахуйн техникийн шинэчлэл",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. This is a poetic metaphor exploring urban gridlock, not agrarian machinery."
+                },
+                {
+                  "id": "meta_meteorology",
+                  "text": "A meteorological warning predicting severe winter weather (зуд) threatening livestock across northern valleys.",
+                  "cyrillic": "Цаг агаарын зудын аюул",
+                  "isCorrect": false,
+                  "explanation": "Incorrect. The image subverts pastoral tropes for modern urban existential commentary."
+                }
+              ],
+              "correctAnswer": "Nomadic spatial alienation: Inverting the sacred steppe symbol of boundless freedom ('бэлчээр' - open pasture) and organic wealth ('сүрэг' - herd) into suffocating, immobile metal machinery gridlocked in urban concrete.",
+              "acceptableAlternatives": [
+                "Nomadic spatial alienation",
+                "Нүүдэлчин ахуйг суурин түгжрэлтэй харшуулах"
+              ],
+              "explanation": "Contemporary Mongolian literature gains poignant rhetorical power by subverting nomad heritage concepts to articulate modern capitalist and urban dislocation.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! Breathtaking cultural and metaphorical literary insight.",
+                "onFailure": "The poet contrasts infinite nomadic pasture with gridlocked urban traffic."
+              },
+              "detailedGrammarNote": "Nominal compound metaphors ('төмөр сүрэг') fuse ancient lexical roots with modern industrial realities without using explicit similes ('мэт/шиг').",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Хүлэг морьдын давхиа бус, төмөр сүргийн гацсан бэлчээр.",
+                "slowSpeechSynthesisText": "төмөр сүргийн гацсан бэлчээр.",
+                "ipaTranscription": "/xuɮəkʰ mɔrʲtʰiːŋ tʰawxʲaː pʊs, tʰɵmɵr surɡiːŋ ɢatsʰsəŋ pʰeɮtʃʰeːr/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "EXACT"
+              },
+              "lessonId": "les_c2_237_06_c2_sec01_culminating_operational_synthesis",
+              "unitId": "unit_c2_237_contemporary_literature_capstone_sa",
+              "cefrLevel": "C2"
+            },
+            {
+              "exerciseId": "ex_c2_237_06_03",
+              "sequenceInLesson": 3,
+              "exerciseTitle": "Token Assembly: Classical Aphoristic Synthesis on Truth & Power",
+              "modality": "MODERNIST_SATIRE_SYNTHESIS",
+              "interactionPattern": "TOKEN_REARRANGEMENT",
+              "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
+              "skillTargets": [
+                "gnomic_wisdom_synthesis",
+                "parallel_clause_crafting"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "үнэн",
+                "эрх мэдэл",
+                "мөнх"
+              ],
+              "prompt": "Reconstruct this gnomic, parallel poetic aphorism on truth and temporal power:\n\n'Эрх мэдэл цагийн урсгалд хуучравч, эгэл үнэн мөнхийн наранд гэрэлтэнэ' (Though power withers in the flow of time, humble truth shines in the eternal sun):",
+              "wordTokens": [
+                "урсгалд",
+                "хуучравч",
+                "үнэн",
+                "мөнхийн",
+                "Эрх",
+                "гэрэлтэнэ",
+                "цагийн",
+                "наранд",
+                "мэдэл",
+                "эгэл"
+              ],
+              "correctTokenOrder": [
+                "Эрх",
+                "мэдэл",
+                "цагийн",
+                "урсгалд",
+                "хуучравч",
+                "эгэл",
+                "үнэн",
+                "мөнхийн",
+                "наранд",
+                "гэрэлтэнэ"
+              ],
+              "correctAnswer": "Эрх мэдэл цагийн урсгалд хуучравч, эгэл үнэн мөнхийн наранд гэрэлтэнэ",
+              "acceptableAlternatives": [
+                "Эрх мэдэл цагийн урсгалд хуучравч, эгэл үнэн мөнхийн наранд гэрэлтэнэ.",
+                "Эрх мэдэл цагийн урсгалд хуучравч эгэл үнэн мөнхийн наранд гэрэлтэнэ"
+              ],
+              "hint": "Reconstruct the parallel aphorism by placing the temporal power concessive hemistich first ('power withered in time'), followed by the enduring solar hemistich ('humble truth shining in the eternal sun').",
+              "explanation": "Alliterative and thematic balance: Clause 1 with concessive converb -вч ('хуучравч' = though it ages) + Clause 2 with finite predicate ('гэрэлтэнэ' = shines).",
+              "learnerFeedback": {
+                "onSuccess": "Төгс! Sublime parallel alliterative Mongolian poetic syntax.",
+                "onFailure": "Follow the sequence: Эрх мэдэл цагийн урсгалд хуучравч, эгэл үнэн мөнхийн наранд гэрэлтэнэ."
+              },
+              "detailedGrammarNote": "Mongolian high-level literary rhetoric relies heavily on initial head-alliteration ('Эрх... эгэл...') and concessive converb symmetry (-вч).",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Эрх мэдэл цагийн урсгалд хуучравч, эгэл үнэн мөнхийн наранд гэрэлтэнэ.",
+                "slowSpeechSynthesisText": "эгэл үнэн мөнхийн наранд гэрэлтэнэ.",
+                "ipaTranscription": "/erx metəɮ tsʰaɡiːŋ ʊrsɢəɮtʰ xʊːtʃʰrəwtʃʰ, eɡəɮ unəŋ mɵŋxiːŋ narəŋtʰ ɡerəɮtʰən/",
+                "speakerRole": "male_native",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "TOKEN_ORDER"
+              },
+              "lessonId": "les_c2_237_06_c2_sec01_culminating_operational_synthesis",
+              "unitId": "unit_c2_237_contemporary_literature_capstone_sa",
+              "cefrLevel": "C2"
+            },
+            {
+              "exerciseId": "ex_c2_237_06_04",
+              "sequenceInLesson": 4,
+              "exerciseTitle": "Cloze Insertion: High-Register Literary Concessive Converb -вч",
+              "modality": "MODERNIST_SATIRE_SYNTHESIS",
+              "interactionPattern": "CLOZE_TEXT",
+              "cognitiveComplexity": "APPLY_MORPHOLOGY",
+              "skillTargets": [
+                "literary_converb_mastery",
+                "cloze_accuracy"
+              ],
+              "grammarTargets": [],
+              "vocabularyTargets": [
+                "боловч",
+                "гэлээч"
+              ],
+              "prompt": "Complete the literary sentence using the single-word concessive converb of 'байх' (to be) formed with -вч:\n\n'Цаг агаар тэсгэм хүйтэн _______, хүмүүсийн сэтгэлийн илч дулаан хэвээр байв.' (Though the weather was bitterly cold, the warmth in people's hearts remained.)",
+              "stimulusTextCyrillic": "тэсгэм хүйтэн _______, сэтгэлийн илч дулаан хэвээр байв",
+              "hint": "Apply the literary synthetic concessive converb suffix (-вч) directly to the existential verbal stem 'бай-'.",
+              "correctAnswer": "байвч",
+              "acceptableAlternatives": [
+                "байвч",
+                "боловч"
+              ],
+              "explanation": "'Байвч' (although it was / albeit) is the classic high-register literary concessive converb.",
+              "learnerFeedback": {
+                "onSuccess": "Яг зөв! 'байвч' provides the exact literary concessive tone.",
+                "onFailure": "Remember that 'байвч' is the elevated literary concessive converb of 'байх'."
+              },
+              "detailedGrammarNote": "While spoken Mongolian uses 'хэдий ч' or 'боловч', elevated literary prose favors synthetic converbs in -вч directly attached to verbal roots ('байвч', 'ирэвч', 'өгүүлрүүн').",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Цаг агаар тэсгэм хүйтэн байвч, хүмүүсийн сэтгэлийн илч дулаан байлаа.",
+                "slowSpeechSynthesisText": "хүйтэн байвч, сэтгэлийн илч дулаан.",
+                "ipaTranscription": "/tsʰaɡ aɢaːr tʰeskəm xuitʰəŋ pæːwtʃʰ, xumusʰiːŋ sitɡiɮiːŋ iɮtʃʰ tʰʊɮaːŋ pæːɮaː/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "NORMALIZED_TEXT",
+                "caseSensitive": false,
+                "stripPunctuation": true,
+                "normalizeWhitespace": true
+              },
+              "lessonId": "les_c2_237_06_c2_sec01_culminating_operational_synthesis",
+              "unitId": "unit_c2_237_contemporary_literature_capstone_sa",
+              "cefrLevel": "C2"
+            },
+            {
+              "exerciseId": "ex_c2_237_06_05",
+              "sequenceInLesson": 5,
+              "exerciseTitle": "C2 Culminating Literary Critique Defense Rubric",
+              "modality": "MODERNIST_SATIRE_SYNTHESIS",
+              "interactionPattern": "OPEN_RESPONSE_RUBRIC",
+              "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
+              "skillTargets": [
+                "c2_literary_defense",
+                "holistic_stylistic_evaluation"
+              ],
+              "grammarTargets": [
+                "gram_c2_khalkha_rapid_phonotactics_sandhi"
+              ],
+              "vocabularyTargets": [
+                "уран зохиолын шинжилгээ",
+                "хэл найруулга",
+                "утга соёл"
+              ],
+              "prompt": "Evaluate the learner's spoken defense excerpt analyzing the role of existential absurdity in modern Mongolian theater:\n\n'СҮҮЛИЙН ҮГ БА ШҮҮМЖЛЭЛТ ДҮГНЭЛТ:\nОрчин үеийн монгол жүжгийн зохиолд нүүдэлчдийн уламжлалт хөх тэнгэрийн үзэл ба орчин цагийн даяаршлын завсрын орон зайд хаягдсан хүний ганцаардал тод тусгалаа олжээ. Зохиолч Д.Батбаярын туурвилуудад баатрууд нь уламжлалт ёс заншлаа ч бүрэн тээж чаддаггүй, өрнийн суурин соёлд ч бүрэн уусаж чадалгүй хоёр ертөнцийн зааг дээр \"сүнсээ гээсэн мэт\" амьдардаг. Энэ бол зүгээр нэг хувь хүний эмгэнэл бус, бүхэл бүтэн үндэстний оюун санааны шилжилтийн үеийн гүн хямрал бөгөөд зохиолчийн шог хошин, ёгт хэл найруулга нь энэхүү шархыг улам бүр товойлгон илчилж байна.'\n\nEvaluate against C2 operational criteria: 1. Native-like stylistic fluency and rhetorical architecture, 2. Deep cultural and philosophical synthesis (nomadic vs westernized alienation), 3. Critical integration of literary aesthetics (dramaturgy, irony, tragicomedy).",
+              "stimulusTextCyrillic": "Орчин үеийн монгол жүжгийн зохиолд нүүдэлчдийн уламжлалт хөх тэнгэрийн үзэл ба даяаршлын завсар дахь хүний ганцаардал...",
+              "correctAnswer": "Master-level C2 capstone defense exhibiting native-like rhetorical majesty, deep philosophical articulation of the nomadic-global transition, and penetrating dramaturgical aesthetic critique.",
+              "acceptableAlternatives": [
+                "Master-level C2 capstone defense",
+                "Шалгуурыг бүрэн хангасан",
+                "C2 Operational Mastery Verified"
+              ],
+              "hint": "Analyze whether the defense synthesizes philosophical cosmology with literary dramaturgical mechanics in pristine, native-level Mongolian prose.",
+              "explanation": "This response represents the apex of CEFR C2 operational proficiency: synthesizing philosophical depth ('хөх тэнгэрийн үзэл', 'оюун санааны шилжилт'), flawless high-register prose ('хоёр ертөнцийн зааг дээр'), and aesthetic literary dissection.",
+              "learnerFeedback": {
+                "onSuccess": "Төгс! Extraordinary C2 operational synthesis and literary hermeneutics.",
+                "onFailure": "Verify cultural depth, philosophical synthesis, and rhetorical precision."
+              },
+              "detailedGrammarNote": "Compound philosophical nouns ('завсрын орон зай', 'оюун санааны шилжилт') matched with elevated converb constructions exemplify educated native discourse.",
+              "audio": {
+                "requiresAudio": true,
+                "speechSynthesisText": "Энэхүү шүүмжлэлт дүгнэлт нь С2 түвшний уран зохиолын шинжилгээний шалгуурыг бүрэн хангаж байна.",
+                "slowSpeechSynthesisText": "уран зохиолын шинжилгээний шалгуурыг бүрэн хангасан.",
+                "ipaTranscription": "/enəxuː ʃuːmtʃʰɮəɮtʰ tʰuɡnəɮtʰ nʲ seː xɔjər tʰuwʃintʰiːŋ ʊrəŋ tsɔxʲɔːɮiːŋ ʃintʃʰiɮɡeːniː ʃaɮɢʊːriːɡ pʰurəŋ xaŋɢətʃʰ pæːn/",
+                "speakerRole": "narrator",
+                "speechRate": 0.85
+              },
+              "evaluation": {
+                "matchType": "RUBRIC_CRITERIA",
+                "rubricCriteria": [
+                  {
+                    "criterion": "Native-Like Rhetorical Majesty & Stylistic Control",
+                    "points": 35,
+                    "description": "Deploys pristine educated Mongolian without foreign syntactic calques."
+                  },
+                  {
+                    "criterion": "Philosophical & Cultural Synthesis",
+                    "points": 35,
+                    "description": "Penetrates the historical tension between nomadic heritage and modern urban alienation."
+                  },
+                  {
+                    "criterion": "Dramaturgical & Aesthetic Depth",
+                    "points": 30,
+                    "description": "Dissects the tragicomic and satirical mechanisms of the theatrical text."
+                  }
+                ]
+              },
+              "lessonId": "les_c2_237_06_c2_sec01_culminating_operational_synthesis",
+              "unitId": "unit_c2_237_contemporary_literature_capstone_sa",
+              "cefrLevel": "C2"
+            }
+          ],
+          "exerciseCount": 5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1079 @@
+{
+  "sectionId": "sec_c2_02_secret_history_classical_mongolian_philology",
+  "sectionNumber": 25,
+  "title": "The Secret History of the Mongols & Classical Philology",
+  "cyrillicTitle": "Монголын нууц товчоо ба сонгодог бичгийн хэлний өв",
+  "cefr": "C2",
+  "theme": "Read and analyze passages from The Secret History, trace the grammatical evolution from Middle Mongolian to Modern Khalkha, understand Pan-Mongolian dialects, and interpret historical monuments.",
+  "description": "Explore the linguistic, historical, and philological monument of The Secret History of the Mongols (1240 CE), Classical Mongolian grammar, archaic case morphology, and Pan-Mongolian dialectal variation.",
+  "unitCount": 9,
+  "lessonCount": 46,
+  "exerciseCount": 0,
+  "units": [
+    {
+      "id": "unit_c2_238_the_secret_history_of_the_mongols_p",
+      "unitNumber": 238,
+      "title": "The Secret History of the Mongols: Philological Introduction",
+      "cyrillicTitle": "Examining the 1240 monument, Ming Chinese transcription, and rediscovery",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: The Secret History of the Mongols: Philological Introduction.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "Examining the 1240 monument, Ming Chinese transcription, and rediscovery",
+      "lessons": [
+        {
+          "id": "les_c2_238_01_secret_history_philological_foundations_intro",
+          "title": "Philological Foundations: The Secret History of the Mongols (1240), Ming Transcriptions & Sinitic Glosses",
+          "cyrillicTitle": "Comprehend the historical-philological architecture of the Secret History, parsing Middle Mongolian linguistic reconstructions alongside modern Khalkha renditions.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the textual genealogy, Ming Dynasty phonetic transcription system (Chinese characters with diacritics for Middle Mongolian sounds), interlinear glossing, and 20th-century Mongolian decipherment (Ts. Damdinsuren, Shiratori, Pelliot, Haenisch).",
+          "communicativeOutcome": "Comprehend the historical-philological architecture of the Secret History, parsing Middle Mongolian linguistic reconstructions alongside modern Khalkha renditions.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the textual genealogy, Ming Dynasty phonetic transcription system (Chinese characters with diacritics for Middle Mongolian sounds), interlinear glossing, and 20th-century Mongolian decipherment (Ts. Damdinsuren, Shiratori, Pelliot, Haenisch).",
+            "keyPoints": [
+              "obj_c2_238_01_master_secret_history_philology"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_238_02_secret_history_prologue_bodonchar_reading",
+          "title": "Textual Reading: The Mythic Genealogy & Bodonchar Munkhag (§1-§44)",
+          "cyrillicTitle": "Deconstruct foundational 13th-century Mongolian epic prose, analyzing the intertwining of totemic mythology and historical clan formation.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 880-word critical edition excerpt of the opening chapters of the Secret History (§1 Börte Chino and Qo'ai Maral, to §44 Bodonchar capture of the pregnant woman), analyzing medieval narrative pacing, mythic geography, and ancestral lineage formulas.",
+          "communicativeOutcome": "Deconstruct foundational 13th-century Mongolian epic prose, analyzing the intertwining of totemic mythology and historical clan formation.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 880-word critical edition excerpt of the opening chapters of the Secret History (§1 Börte Chino and Qo'ai Maral, to §44 Bodonchar capture of the pregnant woman), analyzing medieval narrative pacing, mythic geography, and ancestral lineage formulas.",
+            "keyPoints": [
+              "obj_c2_238_02_parse_bodonchar_mythic_genealogy"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_238_03_damdinsuren_scholarly_lecture_listening",
+          "title": "Acoustic Dissection: Academician Ts. Damdinsuren's Master Lectures on Deciphering the Monument",
+          "cyrillicTitle": "Process high-level historical philological lectures by Mongolia's greatest 20th-century philologist, tracking linguistic methodology and textual reconstructions.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute archival recording of Academician Ts. Damdinsuren lecturing at the Mongolian Academy of Sciences (160 wpm), deconstructing his philological principles when translating 13th-century Middle Mongolian verse into modern literary Cyrillic.",
+          "communicativeOutcome": "Process high-level historical philological lectures by Mongolia's greatest 20th-century philologist, tracking linguistic methodology and textual reconstructions.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic historical audio recording of Academician Damdinsuren discussing Secret History translation problems.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute archival recording of Academician Ts. Damdinsuren lecturing at the Mongolian Academy of Sciences (160 wpm), deconstructing his philological principles when translating 13th-century Middle Mongolian verse into modern literary Cyrillic.",
+            "keyPoints": [
+              "obj_c2_238_03_comprehend_damdinsuren_lectures"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_238_04_critical_apparatus_edition_writing",
+          "title": "Philological Writing: Authoring a Critical Textual Apparatus & Paleographic Note",
+          "cyrillicTitle": "Produce rigorous philological scholarship in Mongolian, demonstrating the highest standards of textual criticism and historical linguistics.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 800-word critical textual apparatus note for an academic edition of the Secret History (§21-§22), comparing variant readings between the Ye Dehui print, the Lu Xun manuscript, and modern reconstructions, defending a proposed emendation.",
+          "communicativeOutcome": "Produce rigorous philological scholarship in Mongolian, demonstrating the highest standards of textual criticism and historical linguistics.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 800-word critical textual apparatus note for an academic edition of the Secret History (§21-§22), comparing variant readings between the Ye Dehui print, the Lu Xun manuscript, and modern reconstructions, defending a proposed emendation.",
+            "keyPoints": [
+              "obj_c2_238_04_author_philological_critical_apparatus"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_238_05_orientalists_congress_philological_paper_spoken",
+          "title": "Academic Speaking: Presenting a Philological Treatise at the International Congress of Mongolists",
+          "cyrillicTitle": "Demonstrate effortless academic mastery among global experts, presenting dense historical linguistic data with impeccable poise, eloquence, and scholarly clarity.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 5.0-minute academic paper at the International Congress of Mongolists (Олон Улсын Монголч Эрдэмтдийн Их Хурал), presenting an original thesis on Middle Mongolian syntactic structures in the Secret History.",
+          "communicativeOutcome": "Demonstrate effortless academic mastery among global experts, presenting dense historical linguistic data with impeccable poise, eloquence, and scholarly clarity.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of distinguished Mongolist presenting keynote address at State Palace congress.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 5.0-minute academic paper at the International Congress of Mongolists (Олон Улсын Монголч Эрдэмтдийн Их Хурал), presenting an original thesis on Middle Mongolian syntactic structures in the Secret History.",
+            "keyPoints": [
+              "obj_c2_238_05_deliver_mongolist_congress_papers"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_239_classical_epic_syntax_in_the_secret",
+      "unitNumber": 239,
+      "title": "Classical Epic Syntax in The Secret History",
+      "cyrillicTitle": "Analyzing medieval word order, verb serializations, and formulaic epithets",
+      "description": "Acquire and apply grammatical morphology (gram_c2_classical_epic_syntax_secret_history) to fulfill communicative functions in: Classical Epic Syntax in The Secret History.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "gram_c2_classical_epic_syntax_secret_history",
+      "lessons": [
+        {
+          "id": "les_c2_239_01_classical_epic_syntax_intro",
+          "title": "Morphosyntax: Classical Epic Syntax, Medieval Word Order & Verb Serializations in 1240 Prose",
+          "cyrillicTitle": "Parse and replicate medieval epic syntactic structures, analyzing how rhythmic cadences and verb stacking drive epic narrative tempo.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the epic syntactic architectures of 13th-century Mongolian: SOV inversions in poetic stanzas, archaic serial converb chains (-n, -ju/-chu, -ad), formulaic fronted epithets, and medieval quotative frame inversions.",
+          "communicativeOutcome": "Parse and replicate medieval epic syntactic structures, analyzing how rhythmic cadences and verb stacking drive epic narrative tempo.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the epic syntactic architectures of 13th-century Mongolian: SOV inversions in poetic stanzas, archaic serial converb chains (-n, -ju/-chu, -ad), formulaic fronted epithets, and medieval quotative frame inversions.",
+            "keyPoints": [
+              "obj_c2_239_01_master_classical_epic_syntax"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_239_02_battle_of_the_thirteen_wings_reading",
+          "title": "Epic Reading: The Clash of Temüjin & Jamukha at the Battle of the Thirteen Wings (§129)",
+          "cyrillicTitle": "Deconstruct authentic medieval nomadic martial literature, reading battlefield descriptions with total linguistic and tactical comprehension.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 880-word critical text of the iconic Battle of Dalan Balzhut (§129), analyzing the deployment of alliterative warrior catalogs, horse color nomenclatures, and relentless serial converbs describing tactical cavalry maneuvers.",
+          "communicativeOutcome": "Deconstruct authentic medieval nomadic martial literature, reading battlefield descriptions with total linguistic and tactical comprehension.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 880-word critical text of the iconic Battle of Dalan Balzhut (§129), analyzing the deployment of alliterative warrior catalogs, horse color nomenclatures, and relentless serial converbs describing tactical cavalry maneuvers.",
+            "keyPoints": [
+              "obj_c2_239_02_parse_thirteen_wings_battle"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_239_03_secret_history_epic_recitation_listening",
+          "title": "Acoustic Dissection: Authentic Traditional Recitation of Secret History Poetic Stanzas",
+          "cyrillicTitle": "Process the traditional acoustic cadence of Middle Mongolian poetic verse, internalizing the intrinsic rhythm of ancient steppe oral composition.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute master recording of a national artist reciting poetic stanzas from the Secret History in traditional liturgical declamatory style (165 wpm), analyzing head-alliteration (*толгой холбох ёс*), metric feet, and solemn pause distribution.",
+          "communicativeOutcome": "Process the traditional acoustic cadence of Middle Mongolian poetic verse, internalizing the intrinsic rhythm of ancient steppe oral composition.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic recording of People's Artist reciting Secret History battle and prophecy stanzas.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute master recording of a national artist reciting poetic stanzas from the Secret History in traditional liturgical declamatory style (165 wpm), analyzing head-alliteration (*толгой холбох ёс*), metric feet, and solemn pause distribution.",
+            "keyPoints": [
+              "obj_c2_239_03_comprehend_epic_strophic_recitations"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_239_04_epic_praise_strophic_reconstruction_writing",
+          "title": "Creative Philological Writing: Composing an Epic Praise Strophe in Middle Mongolian Syntax",
+          "cyrillicTitle": "Demonstrate supreme creative and philological authorship, producing authentic-sounding 13th-century epic poetry that adheres strictly to Middle Mongolian syntactic and alliterative rules.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 800-word epic poetic passage in the authentic style and syntax of the Secret History, commemorating a legendary steppe steed or fallen warrior using medieval serial converbs, head-alliteration, and archaic formulaic epithets.",
+          "communicativeOutcome": "Demonstrate supreme creative and philological authorship, producing authentic-sounding 13th-century epic poetry that adheres strictly to Middle Mongolian syntactic and alliterative rules.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 800-word epic poetic passage in the authentic style and syntax of the Secret History, commemorating a legendary steppe steed or fallen warrior using medieval serial converbs, head-alliteration, and archaic formulaic epithets.",
+            "keyPoints": [
+              "obj_c2_239_04_compose_middle_mongolian_epic_verse"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_239_05_secret_history_dramatic_declamation_spoken",
+          "title": "Mastery Speaking: Dramatic Oral Declamation of an Epic Stanza Before State Cultural Elders",
+          "cyrillicTitle": "Command the ancient oral performance tradition of Mongolian epic declamation, captivating an audience with resonant vocal authority and deep literary erudition.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Perform an unscripted 5.0-minute dramatic oral declamation and contextual exegesis of a Secret History battlefield passage before an assembly of national cultural luminaries, delivering verse with authentic epic cadence and delivering spontaneous philological commentary.",
+          "communicativeOutcome": "Command the ancient oral performance tradition of Mongolian epic declamation, captivating an audience with resonant vocal authority and deep literary erudition.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of dramatic oral performance of Secret History stanzas at national cultural festival.",
+          "grammarOverview": {
+            "summary": "Perform an unscripted 5.0-minute dramatic oral declamation and contextual exegesis of a Secret History battlefield passage before an assembly of national cultural luminaries, delivering verse with authentic epic cadence and delivering spontaneous philological commentary.",
+            "keyPoints": [
+              "obj_c2_239_05_perform_epic_strophic_declamations"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_240_archaic_case_morphology_suffixes_",
+      "unitNumber": 240,
+      "title": "Archaic Case Morphology: Suffixes -аачаан & -дур/-дүр",
+      "cyrillicTitle": "Decoding 13th-century case inflections and postpositions",
+      "description": "Acquire and apply grammatical morphology (gram_c2_archaic_case_morphology_secret_history) to fulfill communicative functions in: Archaic Case Morphology: Suffixes -аачаан & -дур/-дүр.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "gram_c2_archaic_case_morphology_secret_history",
+      "lessons": [
+        {
+          "id": "les_c2_240_01_archaic_case_morphology_syntax_intro",
+          "title": "Morphology: Middle Mongolian Archaic Case Suffixes (-аачаан/-ээчээн, -дур/-дүр, -и) & Syntactic Relics",
+          "cyrillicTitle": "Decode and accurately interpret archaic Middle Mongolian case markers in monumental manuscripts and classical texts without confusion with modern suffixes.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the historical morphology and functions of 13th-century case markers: the instrumental-sociative/prosecutive *-аачаан*, the archaic locative-dative *-дур/-дүр*, and the unpalatalized accusative *-и*, examining their syntactic environments in the Secret History.",
+          "communicativeOutcome": "Decode and accurately interpret archaic Middle Mongolian case markers in monumental manuscripts and classical texts without confusion with modern suffixes.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the historical morphology and functions of 13th-century case markers: the instrumental-sociative/prosecutive *-аачаан*, the archaic locative-dative *-дур/-дүр*, and the unpalatalized accusative *-и*, examining their syntactic environments in the Secret History.",
+            "keyPoints": [
+              "obj_c2_240_01_master_archaic_case_morphology"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_240_02_kho_elun_wrath_strophic_reading",
+          "title": "Textual Reading: Mother Hö'elün's Epic Wrath & the Defense of Belgütei (§244)",
+          "cyrillicTitle": "Interpret one of the highest dramatic summits of the Secret History, analyzing Mother Hö'elün's legendary speech with linguistic and cultural mastery.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 870-word critical text of §244 where Mother Hö'elün confronts Chinggis Khaan for suspecting Belgütei, analyzing her blistering alliterative rebuke packed with archaic locative and instrumental suffixes and maternal somatic metaphors.",
+          "communicativeOutcome": "Interpret one of the highest dramatic summits of the Secret History, analyzing Mother Hö'elün's legendary speech with linguistic and cultural mastery.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 870-word critical text of §244 where Mother Hö'elün confronts Chinggis Khaan for suspecting Belgütei, analyzing her blistering alliterative rebuke packed with archaic locative and instrumental suffixes and maternal somatic metaphors.",
+            "keyPoints": [
+              "obj_c2_240_02_parse_hoelun_wrath_passage"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_240_03_archaic_phonology_reconstruction_listening",
+          "title": "Acoustic Dissection: Reconstructed Middle Mongolian Phonetics by Comparative Linguists",
+          "cyrillicTitle": "Process reconstructed 13th-century spoken Mongolic phonology, discerning how ancient sounds evolved into modern Khalkha vowel syncope and vowel harmony.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute comparative audio study by historical phonologists reconstructing the exact phonetic realization of Middle Mongolian case suffixes, consonant clusters (*-gda-*, *-btar-*), and vowel qualities (160 wpm).",
+          "communicativeOutcome": "Process reconstructed 13th-century spoken Mongolic phonology, discerning how ancient sounds evolved into modern Khalkha vowel syncope and vowel harmony.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide studio recording of historical linguists demonstrating reconstructed Middle Mongolian pronunciation.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute comparative audio study by historical phonologists reconstructing the exact phonetic realization of Middle Mongolian case suffixes, consonant clusters (*-gda-*, *-btar-*), and vowel qualities (160 wpm).",
+            "keyPoints": [
+              "obj_c2_240_03_comprehend_middle_mongolian_phonetics"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_240_04_comparative_grammar_treatise_writing",
+          "title": "Philological Writing: Authoring a Comparative Treatise on Nomadic Declension Evolution",
+          "cyrillicTitle": "Produce advanced comparative linguistic scholarship in Mongolian, documenting historical grammatical shifts with authoritative mastery.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 850-word historical linguistic treatise tracing the evolution of nominal case inflections from 13th-century Middle Mongolian through 17th-century Classical Mongolian to contemporary Khalkha.",
+          "communicativeOutcome": "Produce advanced comparative linguistic scholarship in Mongolian, documenting historical grammatical shifts with authoritative mastery.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 850-word historical linguistic treatise tracing the evolution of nominal case inflections from 13th-century Middle Mongolian through 17th-century Classical Mongolian to contemporary Khalkha.",
+            "keyPoints": [
+              "obj_c2_240_04_author_historical_declension_treatises"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_240_05_paleographic_seminar_debate_spoken",
+          "title": "Scholarly Speaking: Leading a Graduate Seminar on Deciphering Epigraphic Inscriptions",
+          "cyrillicTitle": "Demonstrate supreme academic pedagogical authority, guiding senior scholars through the rigorous decipherment of fragmented medieval Mongolic texts.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Lead an unscripted 4.5-minute advanced doctoral seminar at the National University of Mongolia, guiding graduate researchers through the syntactic and morphological decipherment of newly discovered 13th-century birch bark manuscripts (Цахирын хадны бичиг).",
+          "communicativeOutcome": "Demonstrate supreme academic pedagogical authority, guiding senior scholars through the rigorous decipherment of fragmented medieval Mongolic texts.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of senior professor leading doctoral seminar on 13th-century epigraphic manuscripts.",
+          "grammarOverview": {
+            "summary": "Lead an unscripted 4.5-minute advanced doctoral seminar at the National University of Mongolia, guiding graduate researchers through the syntactic and morphological decipherment of newly discovered 13th-century birch bark manuscripts (Цахирын хадны бичиг).",
+            "keyPoints": [
+              "obj_c2_240_05_lead_paleographic_doctoral_seminars"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_241_the_alan_qo_a_parable_of_the_five_a",
+      "unitNumber": 241,
+      "title": "The Alan Qo'a Parable of the Five Arrows",
+      "cyrillicTitle": "Reading and analyzing the foundational unity myth of the Mongolic clans",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: The Alan Qo'a Parable of the Five Arrows.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "Reading and analyzing the foundational unity myth of the Mongolic clans",
+      "lessons": [
+        {
+          "id": "les_c2_241_01_alan_qoa_parable_philological_intro",
+          "title": "Philological Foundations: The Alan Qo'a Parable of the Five Arrows (§18-§22) in Middle Mongolian",
+          "cyrillicTitle": "Deconstruct the foundational unity myth of the Mongol nation, analyzing its linguistic formulation in 13th-century Middle Mongolian and its cultural resonance across 800 years.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the textual, syntactic, and cultural foundations of Alan Qo'a's iconic lesson of the five arrow shafts, analyzing the medieval philosophical concepts of clan unity (*эв эе*), supernatural lineage, and gnomic dialogue.",
+          "communicativeOutcome": "Deconstruct the foundational unity myth of the Mongol nation, analyzing its linguistic formulation in 13th-century Middle Mongolian and its cultural resonance across 800 years.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the textual, syntactic, and cultural foundations of Alan Qo'a's iconic lesson of the five arrow shafts, analyzing the medieval philosophical concepts of clan unity (*эв эе*), supernatural lineage, and gnomic dialogue.",
+            "keyPoints": [
+              "obj_c2_241_01_master_alan_qoa_parable"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_241_02_alan_qoa_parable_interlinear_reading",
+          "title": "Textual Reading: Interlinear Decipherment of the Five Sons' Dialogue & Alan Qo'a's Oath",
+          "cyrillicTitle": "Read the Alan Qo'a narrative with complete philological autonomy, navigating between original Middle Mongolian and modern scholarly translations without reliance on secondary summaries.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 860-word critical edition text featuring parallel columns: Middle Mongolian reconstructed text, Ming Chinese interlinear glosses, and modern scholarly Khalkha commentary, examining the subtle moral accusations and philosophical refutation.",
+          "communicativeOutcome": "Read the Alan Qo'a narrative with complete philological autonomy, navigating between original Middle Mongolian and modern scholarly translations without reliance on secondary summaries.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 860-word critical edition text featuring parallel columns: Middle Mongolian reconstructed text, Ming Chinese interlinear glosses, and modern scholarly Khalkha commentary, examining the subtle moral accusations and philosophical refutation.",
+            "keyPoints": [
+              "obj_c2_241_02_parse_alan_qoa_interlinear"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_241_03_shamanic_and_ancestral_mythology_listening",
+          "title": "Acoustic Dissection: Ethnographic Audio on Steppe Shamanic Cosmogony & Tengrism in the Secret History",
+          "cyrillicTitle": "Process deep ethnographic oral explanations of ancient Mongolian cosmological beliefs, linking linguistic metaphors directly to living shamanic traditions.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute field recording of a senior ethnographer and hereditary Darkhad shaman explaining the cosmological symbolism of the radiant yellow man (*шар хүн*) and heavenly conception in Tengrist metaphysics (165 wpm).",
+          "communicativeOutcome": "Process deep ethnographic oral explanations of ancient Mongolian cosmological beliefs, linking linguistic metaphors directly to living shamanic traditions.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic field audio of Darkhad cultural elder discussing heavenly light conception in steppe traditions.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute field recording of a senior ethnographer and hereditary Darkhad shaman explaining the cosmological symbolism of the radiant yellow man (*шар хүн*) and heavenly conception in Tengrist metaphysics (165 wpm).",
+            "keyPoints": [
+              "obj_c2_241_03_comprehend_shamanic_cosmology_audio"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_241_04_philosophical_essay_on_steppe_solidarity_writing",
+          "title": "Philosophical Writing: Authoring an Essay on Nomadic Social Cohesion & the Alan Qo'a Covenant",
+          "cyrillicTitle": "Produce high-level philosophical and historical prose in Mongolian, connecting medieval mythic narratives to modern political philosophy and statecraft.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 850-word philosophical essay examining how the Alan Qo'a five-arrow parable provided the ethical and constitutional bedrock for Chinggis Khaan's unification of the warring steppe confederations.",
+          "communicativeOutcome": "Produce high-level philosophical and historical prose in Mongolian, connecting medieval mythic narratives to modern political philosophy and statecraft.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 850-word philosophical essay examining how the Alan Qo'a five-arrow parable provided the ethical and constitutional bedrock for Chinggis Khaan's unification of the warring steppe confederations.",
+            "keyPoints": [
+              "obj_c2_241_04_author_steppe_solidarity_essays"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_241_05_national_unity_presidential_oration_spoken",
+          "title": "Oratorical Speaking: Delivering a State of the Nation Address Grounded in Alan Qo'a's Covenant",
+          "cyrillicTitle": "Command the supreme presidential oratorical register of Mongolia, uniting ancient ancestral authority with modern constitutional statesmanship to move a divided parliament.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 5.0-minute monumental State of the Nation address as the President of Mongolia to the State Great Khural, invoking the five-arrow covenant of Alan Qo'a to heal deep political factionalism and inspire national unity.",
+          "communicativeOutcome": "Command the supreme presidential oratorical register of Mongolia, uniting ancient ancestral authority with modern constitutional statesmanship to move a divided parliament.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of President of Mongolia delivering formal address to parliament on Constitution Day.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 5.0-minute monumental State of the Nation address as the President of Mongolia to the State Great Khural, invoking the five-arrow covenant of Alan Qo'a to heal deep political factionalism and inspire national unity.",
+            "keyPoints": [
+              "obj_c2_241_05_deliver_presidential_unity_addresses"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_242_chinggis_khaan_jamukha_the_oath_of_",
+      "unitNumber": 242,
+      "title": "Chinggis Khaan & Jamukha: The Oath of Anda (Brothers)",
+      "cyrillicTitle": "Textual parsing of dialogue on steppe brotherhood, betrayal, and honor",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Chinggis Khaan & Jamukha: The Oath of Anda (Brothers).",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "Textual parsing of dialogue on steppe brotherhood, betrayal, and honor",
+      "lessons": [
+        {
+          "id": "les_c2_242_01_oath_of_anda_philological_intro",
+          "title": "Philological Foundations: The Nomadic Institution of Anda (Sworn Brotherhood) in Medieval Law",
+          "cyrillicTitle": "Deconstruct the sacred institution of sworn brotherhood in steppe culture, analyzing its legal obligations, ritual terminology, and tragic vulnerabilities.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the sociopolitical institution, ceremonial vows, and gift exchanges of *анда бололцох* (sworn brotherhood) in 12th-13th century Mongolia, examining the linguistic formulas exchanged between Temüjin and Jamukha across their three oaths (§116, §117).",
+          "communicativeOutcome": "Deconstruct the sacred institution of sworn brotherhood in steppe culture, analyzing its legal obligations, ritual terminology, and tragic vulnerabilities.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the sociopolitical institution, ceremonial vows, and gift exchanges of *анда бололцох* (sworn brotherhood) in 12th-13th century Mongolia, examining the linguistic formulas exchanged between Temüjin and Jamukha across their three oaths (§116, §117).",
+            "keyPoints": [
+              "obj_c2_242_01_master_anda_sworn_brotherhood"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_242_02_jamukha_final_dialogue_reading",
+          "title": "Textual Reading: The Final Dialogue of Chinggis Khaan & Jamukha Before Execution (§200-§201)",
+          "cyrillicTitle": "Interpret the most psychologically profound and tragic dialogue in Mongolian literature, analyzing the clash between personal brotherhood and sovereign imperial destiny.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 890-word critical edition text of the final philosophical dialogue between Chinggis Khaan and the captured Jamukha (§200-§201), analyzing Jamukha's poetic self-condemnation, his refusal of pardon ('Хоёр нар нэг тэнгэрт үл багтах'), and his request for death without shedding blood.",
+          "communicativeOutcome": "Interpret the most psychologically profound and tragic dialogue in Mongolian literature, analyzing the clash between personal brotherhood and sovereign imperial destiny.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 890-word critical edition text of the final philosophical dialogue between Chinggis Khaan and the captured Jamukha (§200-§201), analyzing Jamukha's poetic self-condemnation, his refusal of pardon ('Хоёр нар нэг тэнгэрт үл багтах'), and his request for death without shedding blood.",
+            "keyPoints": [
+              "obj_c2_242_02_parse_jamukha_final_dialogue"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_242_03_theatrical_jamukha_duel_listening",
+          "title": "Acoustic Dissection: Dramatic Theatrical Staging of Jamukha's Death Speech at State Academic Theater",
+          "cyrillicTitle": "Process theatrical Middle Mongolian dramatic delivery at the highest artistic tier, discerning subtle psychological undertones between sworn brothers.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute acclaimed stage recording of Mongolia's foremost actors performing Jamukha's final dialogue at the State Academic Drama Theatre (165 wpm), analyzing voice modulation between imperial sorrow and tragic defiance.",
+          "communicativeOutcome": "Process theatrical Middle Mongolian dramatic delivery at the highest artistic tier, discerning subtle psychological undertones between sworn brothers.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic theater archival recording of celebrated actors playing Chinggis Khaan and Jamukha.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute acclaimed stage recording of Mongolia's foremost actors performing Jamukha's final dialogue at the State Academic Drama Theatre (165 wpm), analyzing voice modulation between imperial sorrow and tragic defiance.",
+            "keyPoints": [
+              "obj_c2_242_03_comprehend_jamukha_theatrical_staging"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_242_04_tragic_drama_script_authoring_writing",
+          "title": "Dramatic Writing: Authoring a Modern Verse Play Scene on Steppe Betrayal & Brotherhood",
+          "cyrillicTitle": "Produce high-literary theatrical drama in Mongolian that honors the historical authenticity of the Secret History while generating electrifying contemporary stage tension.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 850-word verse drama scene depicting the tragic rupture between Chinggis Khaan and Jamukha on the mountain ridge, utilizing alliterative Middle Mongolian syntax, visceral somatic metaphors, and deep existential dialogue.",
+          "communicativeOutcome": "Produce high-literary theatrical drama in Mongolian that honors the historical authenticity of the Secret History while generating electrifying contemporary stage tension.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 850-word verse drama scene depicting the tragic rupture between Chinggis Khaan and Jamukha on the mountain ridge, utilizing alliterative Middle Mongolian syntax, visceral somatic metaphors, and deep existential dialogue.",
+            "keyPoints": [
+              "obj_c2_242_04_author_verse_drama_scenes"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_242_05_jamukha_monologue_dramatic_performance_spoken",
+          "title": "Mastery Speaking: Performing Jamukha's Farewell Soliloquy Before a Master Acting Jury",
+          "cyrillicTitle": "Demonstrate the absolute pinnacle of dramatic spoken Mongolian, commanding tragic emotional depth, impeccable phonetics, and magnetic stage presence.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 5.0-minute dramatic performance of Jamukha's farewell monologue before an expert jury of national theatrical directors and Shakespearean actors, embodying tragic pride, aristocratic defiance, and eternal love for his Anda.",
+          "communicativeOutcome": "Demonstrate the absolute pinnacle of dramatic spoken Mongolian, commanding tragic emotional depth, impeccable phonetics, and magnetic stage presence.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of dramatic acting audition delivering Jamukha's farewell monologue.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 5.0-minute dramatic performance of Jamukha's farewell monologue before an expert jury of national theatrical directors and Shakespearean actors, embodying tragic pride, aristocratic defiance, and eternal love for his Anda.",
+            "keyPoints": [
+              "obj_c2_242_05_perform_jamukha_farewell_monologue"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_243_the_great_yasa_nomadic_jurisprudenc",
+      "unitNumber": 243,
+      "title": "The Great Yasa (Их Засаг) & Nomadic Jurisprudence",
+      "cyrillicTitle": "Analyzing medieval legal injunctions and steppe constitutional principles",
+      "description": "Acquire and apply grammatical morphology (gram_c2_legal_constitutional_clause_architecture) to fulfill communicative functions in: The Great Yasa (Их Засаг) & Nomadic Jurisprudence.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "gram_c2_legal_constitutional_clause_architecture",
+      "lessons": [
+        {
+          "id": "les_c2_243_01_great_yasa_jurisprudence_syntax_intro",
+          "title": "Nomadic Law: Syntactic Architectures of Medieval Steppe Jurisprudence & The Great Yasa (Их Засаг)",
+          "cyrillicTitle": "Parse and formulate authentic 13th-century imperial legal statutes and judicial verdicts, decoding medieval Mongol constitutional law.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the legal-syntactic structures of medieval steppe statutes: unconditional imperative injunctions (*-тугай/-түгэй*, *-сугай/-сүгэй*), strict conditional consequence structures (*-ваас... үхэх ял өгсүгэй*), and Shigi Qutuqu's Blue Book (*Хөх дэвтэр*) archival jurisprudence formulas.",
+          "communicativeOutcome": "Parse and formulate authentic 13th-century imperial legal statutes and judicial verdicts, decoding medieval Mongol constitutional law.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the legal-syntactic structures of medieval steppe statutes: unconditional imperative injunctions (*-тугай/-түгэй*, *-сугай/-сүгэй*), strict conditional consequence structures (*-ваас... үхэх ял өгсүгэй*), and Shigi Qutuqu's Blue Book (*Хөх дэвтэр*) archival jurisprudence formulas.",
+            "keyPoints": [
+              "obj_c2_243_01_master_great_yasa_jurisprudence"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_243_02_shigi_qutuqu_appointment_reading",
+          "title": "Textual Reading: The Appointment of Shigi Qutuqu as Supreme Judge & Keeper of the Blue Book (§203)",
+          "cyrillicTitle": "Analyze the constitutional inception of the Mongolian written legal tradition, decoding its procedural safeguards and judicial ethics.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 870-word critical text of §203 in the Secret History, where Chinggis Khaan ordains Shigi Qutuqu as supreme judge (*заргач*), instructing him to record trials in the Blue Book (*Хөх дэвтэр*) and decreeing that no successor shall alter what has been recorded in blue ink on white paper.",
+          "communicativeOutcome": "Analyze the constitutional inception of the Mongolian written legal tradition, decoding its procedural safeguards and judicial ethics.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 870-word critical text of §203 in the Secret History, where Chinggis Khaan ordains Shigi Qutuqu as supreme judge (*заргач*), instructing him to record trials in the Blue Book (*Хөх дэвтэр*) and decreeing that no successor shall alter what has been recorded in blue ink on white paper.",
+            "keyPoints": [
+              "obj_c2_243_02_parse_shigi_qutuqu_appointment"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_243_03_constitutional_historians_roundtable_listening",
+          "title": "Acoustic Dissection: Constitutional Historians' Debate on Steppe Common Law vs. Sedentary Statism",
+          "cyrillicTitle": "Process advanced jurisprudence debates in Mongolian, evaluating divergent legal theories on medieval constitutionalism and customary law.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute high-level academic panel at the Constitutional Court of Mongolia (165 wpm) where legal scholars debate whether the Great Yasa functioned as a codified written constitution or a body of unwritten customary steppe norms (*заншлын эрх зүй*).",
+          "communicativeOutcome": "Process advanced jurisprudence debates in Mongolian, evaluating divergent legal theories on medieval constitutionalism and customary law.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic audio of Constitutional Court scholars debating legal legacy of the Great Yasa.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute high-level academic panel at the Constitutional Court of Mongolia (165 wpm) where legal scholars debate whether the Great Yasa functioned as a codified written constitution or a body of unwritten customary steppe norms (*заншлын эрх зүй*).",
+            "keyPoints": [
+              "obj_c2_243_03_comprehend_constitutional_debates"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_243_04_codification_of_modern_customary_statute_writing",
+          "title": "Legislative Writing: Drafting a Contemporary Environmental Protection Statute Anchored in Steppe Law",
+          "cyrillicTitle": "Master legislative drafting in Mongolian, seamlessly fusing ancient customary ecological taboos (*цээр ёс*) with precise modern statutory architecture.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Draft an 850-word modern draft parliamentary bill (*хуулийн төсөл*) incorporating the environmental injunctions of the Great Yasa (prohibiting washing clothes in running water, slaughtering pregnant animals, polluting river sources) into binding contemporary legislation.",
+          "communicativeOutcome": "Master legislative drafting in Mongolian, seamlessly fusing ancient customary ecological taboos (*цээр ёс*) with precise modern statutory architecture.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Draft an 850-word modern draft parliamentary bill (*хуулийн төсөл*) incorporating the environmental injunctions of the Great Yasa (prohibiting washing clothes in running water, slaughtering pregnant animals, polluting river sources) into binding contemporary legislation.",
+            "keyPoints": [
+              "obj_c2_243_04_draft_customary_anchored_statutes"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_243_05_constitutional_court_oral_argumentation_spoken",
+          "title": "Mastery Speaking: Delivering Oral Argument Before the Constitutional Court of Mongolia (Цэц)",
+          "cyrillicTitle": "Demonstrate the absolute zenith of legal advocacy in Mongolian, arguing constitutional doctrine before the supreme judicial body with commanding authority.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 5.0-minute oral argument before the nine Justices of the Constitutional Court of Mongolia (*Үндсэн хуулийн цэцийн их суудлын хуралдаан*), defending the constitutionality of a pastoral land tenure statute by invoking nomadic legal precedent.",
+          "communicativeOutcome": "Demonstrate the absolute zenith of legal advocacy in Mongolian, arguing constitutional doctrine before the supreme judicial body with commanding authority.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of constitutional advocate delivering closing argument before the Constitutional Court.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 5.0-minute oral argument before the nine Justices of the Constitutional Court of Mongolia (*Үндсэн хуулийн цэцийн их суудлын хуралдаан*), defending the constitutionality of a pastoral land tenure statute by invoking nomadic legal precedent.",
+            "keyPoints": [
+              "obj_c2_243_05_deliver_constitutional_court_advocacy"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_244_seamless_register_navigating_steppe",
+      "unitNumber": 244,
+      "title": "Seamless Register Navigating: Steppe Colloquial to Epic",
+      "cyrillicTitle": "Shifting with complete agility across 8 centuries of linguistic registers",
+      "description": "Acquire and apply grammatical morphology (gram_c2_seamless_register_navigating) to fulfill communicative functions in: Seamless Register Navigating: Steppe Colloquial to Epic.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "gram_c2_seamless_register_navigating",
+      "lessons": [
+        {
+          "id": "les_c2_244_01_seamless_register_navigating_intro",
+          "title": "Sociolinguistics: Seamless Register Navigating Across 8 Centuries of Mongolian Language Strata",
+          "cyrillicTitle": "Command the entire 800-year linguistic spectrum of Mongolian, calibrating lexical choices, honorific inflections, and syntactic density instantly to social context.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the mechanisms of multidirectional register switching in educated Mongolian: dynamically toggling between rapid informal Khalkha colloquialism, professional-bureaucratic modern prose, Classical Mongolian written formulas, and Middle Mongolian monumental archaism.",
+          "communicativeOutcome": "Command the entire 800-year linguistic spectrum of Mongolian, calibrating lexical choices, honorific inflections, and syntactic density instantly to social context.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the mechanisms of multidirectional register switching in educated Mongolian: dynamically toggling between rapid informal Khalkha colloquialism, professional-bureaucratic modern prose, Classical Mongolian written formulas, and Middle Mongolian monumental archaism.",
+            "keyPoints": [
+              "obj_c2_244_01_master_omni_register_agility"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_244_02_multi_register_chancellery_reading",
+          "title": "Textual Reading: Multi-Register Analysis of a State Decrees Corpus (1911, 1924, 1992, 2024)",
+          "cyrillicTitle": "Deconstruct modern Mongolian political and institutional prose across four consecutive regimes, tracing lexical transformations and syntactic evolutions.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 880-word comparative dossier comprising four historical state documents: Bogd Khanate royal edict (1911), early socialist constitutional decree (1924), democratic constitution preamble (1992), and a 2024 presidential address, deconstructing the shifting registers.",
+          "communicativeOutcome": "Deconstruct modern Mongolian political and institutional prose across four consecutive regimes, tracing lexical transformations and syntactic evolutions.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 880-word comparative dossier comprising four historical state documents: Bogd Khanate royal edict (1911), early socialist constitutional decree (1924), democratic constitution preamble (1992), and a 2024 presidential address, deconstructing the shifting registers.",
+            "keyPoints": [
+              "obj_c2_244_02_parse_multi_register_state_decrees"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_244_03_diplomatic_crisis_interview_listening",
+          "title": "Acoustic Dissection: Live Diplomatic Press Conference Shifting Under Aggressive Interrogation",
+          "cyrillicTitle": "Process instantaneous real-time register shifts in high-stakes public diplomacy, decoding subtle diplomatic deflection, subtextual firmness, and tactical warmth.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute unedited live audio recording of a veteran Mongolian foreign minister facing aggressive interrogation from international and domestic journalists (175 wpm), analyzing rapid shifts between diplomatic ambiguity, cordial steppe hospitality, and sharp formal pushback.",
+          "communicativeOutcome": "Process instantaneous real-time register shifts in high-stakes public diplomacy, decoding subtle diplomatic deflection, subtextual firmness, and tactical warmth.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic recording of foreign minister navigating provocative questions in live press briefing.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute unedited live audio recording of a veteran Mongolian foreign minister facing aggressive interrogation from international and domestic journalists (175 wpm), analyzing rapid shifts between diplomatic ambiguity, cordial steppe hospitality, and sharp formal pushback.",
+            "keyPoints": [
+              "obj_c2_244_03_comprehend_diplomatic_register_shifts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_244_04_cross_register_polemical_essay_writing",
+          "title": "Stylistic Writing: Authoring a Multi-Register Polemical Essay on Modern Mongolian Identity",
+          "cyrillicTitle": "Demonstrate supreme stylistic dexterity in written Mongolian, harmonizing disparate sociolinguistic registers into a dazzling, unified literary voice.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 850-word master-tier polemical essay intentionally interweaving three linguistic layers: streetwise contemporary Ulaanbaatar slang, rigorous Western academic sociology, and grand Classical Mongolian poetic aphorisms, defending cultural resilience in globalization.",
+          "communicativeOutcome": "Demonstrate supreme stylistic dexterity in written Mongolian, harmonizing disparate sociolinguistic registers into a dazzling, unified literary voice.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 850-word master-tier polemical essay intentionally interweaving three linguistic layers: streetwise contemporary Ulaanbaatar slang, rigorous Western academic sociology, and grand Classical Mongolian poetic aphorisms, defending cultural resilience in globalization.",
+            "keyPoints": [
+              "obj_c2_244_04_author_multi_register_essays"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_244_05_omni_register_live_chameleon_spoken",
+          "title": "Mastery Speaking: The Linguistic Chameleon Challenge — 4 Rapid Interlocutors in 5 Minutes",
+          "cyrillicTitle": "Demonstrate instant, seamless sociolinguistic adaptability, matching the exact phonetics, vocabulary, honorifics, and cultural worldview of 4 completely distinct Mongolian social worlds.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Engage in an unscripted 5.0-minute interactive live oral simulation confronting 4 successive interlocutors with zero pause: an elderly herder inquiring about pasture rights, a young IT founder pitching a fintech venture, an archbishop monk debating Buddhist epistemology, and a foreign ambassador negotiating trade.",
+          "communicativeOutcome": "Demonstrate instant, seamless sociolinguistic adaptability, matching the exact phonetics, vocabulary, honorifics, and cultural worldview of 4 completely distinct Mongolian social worlds.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of C2 master executing instant register shifts in simulated multi-party encounter.",
+          "grammarOverview": {
+            "summary": "Engage in an unscripted 5.0-minute interactive live oral simulation confronting 4 successive interlocutors with zero pause: an elderly herder inquiring about pasture rights, a young IT founder pitching a fintech venture, an archbishop monk debating Buddhist epistemology, and a foreign ambassador negotiating trade.",
+            "keyPoints": [
+              "obj_c2_244_05_execute_linguistic_chameleon_simulation"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_245_classical_inscriptions_the_stele_of",
+      "unitNumber": 245,
+      "title": "Classical Inscriptions: The Stele of Yisüngge (1224)",
+      "cyrillicTitle": "Reading the world's oldest monument in traditional Mongolian script",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Classical Inscriptions: The Stele of Yisüngge (1224).",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "Reading the world's oldest monument in traditional Mongolian script",
+      "lessons": [
+        {
+          "id": "les_c2_245_01_stele_of_yisungge_epigraphic_intro",
+          "title": "Philological Foundations: The Stele of Yisüngge (1224) & Earliest Uighur-Mongolian Inscriptions",
+          "cyrillicTitle": "Decipher and analyze the foundational epigraphic artifact of Mongolian literacy, understanding its historical, archaeological, and paleographic significance.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the world's oldest monument in traditional Mongolian script—the Stele of Yisüngge (Чингисийн чулууны бичиг, 1224)—analyzing its five-line epigraphic inscription, honorific line-spacing, measurement metrics (*алд*), and archery terminology.",
+          "communicativeOutcome": "Decipher and analyze the foundational epigraphic artifact of Mongolian literacy, understanding its historical, archaeological, and paleographic significance.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Introduce the world's oldest monument in traditional Mongolian script—the Stele of Yisüngge (Чингисийн чулууны бичиг, 1224)—analyzing its five-line epigraphic inscription, honorific line-spacing, measurement metrics (*алд*), and archery terminology.",
+            "keyPoints": [
+              "obj_c2_245_01_master_stele_of_yisungge"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_245_02_stele_and_paiza_comparative_reading",
+          "title": "Textual Reading: Monumental Stelae & Imperial Paiza Passports (§1220-§1300 Inscriptions)",
+          "cyrillicTitle": "Deconstruct imperial epigraphy and diplomatic passports across the Mongol Empire, interpreting standard legal formulas with supreme philological accuracy.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an 860-word critical corpus of primary epigraphic inscriptions from the Mongol Empire: the Yisüngge stele, the Möngke Khaan inscription (1257), and three silver/gilt bronze imperial passport tablets (*гэрэгэ / пайз*), comparing formulaic invocations of Eternal Tengri.",
+          "communicativeOutcome": "Deconstruct imperial epigraphy and diplomatic passports across the Mongol Empire, interpreting standard legal formulas with supreme philological accuracy.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an 860-word critical corpus of primary epigraphic inscriptions from the Mongol Empire: the Yisüngge stele, the Möngke Khaan inscription (1257), and three silver/gilt bronze imperial passport tablets (*гэрэгэ / пайз*), comparing formulaic invocations of Eternal Tengri.",
+            "keyPoints": [
+              "obj_c2_245_02_parse_imperial_paiza_inscriptions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_245_03_hermitage_curators_provenance_listening",
+          "title": "Acoustic Dissection: Hermitage Museum Curator & Institute of Archaeology on Returning Steppe Heritage",
+          "cyrillicTitle": "Process sophisticated international museum repatriation and cultural heritage diplomacy audio in Mongolian, analyzing archival legal claims and archaeological provenance.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute archival audio discussion between a State Hermitage Museum curator in Saint Petersburg and the Director of the Institute of Archaeology of the Mongolian Academy of Sciences (165 wpm), analyzing diplomatic and legal claims for repatriating the Stele of Yisüngge.",
+          "communicativeOutcome": "Process sophisticated international museum repatriation and cultural heritage diplomacy audio in Mongolian, analyzing archival legal claims and archaeological provenance.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic recording of archaeological negotiation on returning Mongol Empire stone monuments.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute archival audio discussion between a State Hermitage Museum curator in Saint Petersburg and the Director of the Institute of Archaeology of the Mongolian Academy of Sciences (165 wpm), analyzing diplomatic and legal claims for repatriating the Stele of Yisüngge.",
+            "keyPoints": [
+              "obj_c2_245_03_comprehend_repatriation_diplomacy"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_245_04_unesco_heritage_nomination_writing",
+          "title": "Diplomatic Writing: Authoring a UNESCO Memory of the World Nomination Dossier for 13th-Century Inscriptions",
+          "cyrillicTitle": "Produce international-tier cultural heritage documentation in Mongolian, articulating the global historical significance of steppe literacy with scholarly and diplomatic eloquence.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author an 850-word formal UNESCO Memory of the World nomination dossier in academic Mongolian, establishing the universal outstanding value of the Stele of Yisüngge and the Secret History as foundational landmarks of world nomadic civilization.",
+          "communicativeOutcome": "Produce international-tier cultural heritage documentation in Mongolian, articulating the global historical significance of steppe literacy with scholarly and diplomatic eloquence.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author an 850-word formal UNESCO Memory of the World nomination dossier in academic Mongolian, establishing the universal outstanding value of the Stele of Yisüngge and the Secret History as foundational landmarks of world nomadic civilization.",
+            "keyPoints": [
+              "obj_c2_245_04_author_unesco_nomination_dossiers"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_245_05_unesco_plenary_keynote_defense_spoken",
+          "title": "Diplomatic Speaking: Defending the Steppe Epigraphic Legacy at the UNESCO World Heritage Assembly",
+          "cyrillicTitle": "Command international multilateral diplomatic oratory in Mongolian, projecting supreme cultural authority and intellectual sovereignty on the world stage.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 5.0-minute keynote defense at the UNESCO World Heritage General Assembly in Paris (in elevated diplomatic Mongolian with simultaneous interpretation), defending Mongolia's sovereign right to lead global research on Eurasian nomadic epigraphy.",
+          "communicativeOutcome": "Command international multilateral diplomatic oratory in Mongolian, projecting supreme cultural authority and intellectual sovereignty on the world stage.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of Ambassador of Mongolia addressing UNESCO plenary session.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 5.0-minute keynote defense at the UNESCO World Heritage General Assembly in Paris (in elevated diplomatic Mongolian with simultaneous interpretation), defending Mongolia's sovereign right to lead global research on Eurasian nomadic epigraphy.",
+            "keyPoints": [
+              "obj_c2_245_05_deliver_unesco_plenary_defense"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_c2_246_secret_history_capstone_philologica",
+      "unitNumber": 246,
+      "title": "Secret History Capstone: Philological Textual Commentary",
+      "cyrillicTitle": "Producing an original scholarly commentary on a selected stanza",
+      "description": "Consolidate, integrate, and demonstrate communicative mastery of Secret History Capstone: Philological Textual Commentary through simulated holistic tasks.",
+      "cefrLevel": "C2",
+      "primaryGrammarTopic": "Producing an original scholarly commentary on a selected stanza",
+      "lessons": [
+        {
+          "id": "les_c2_246_01_c2_sec02_capstone_philological_monograph_intro",
+          "title": "Section 02 Capstone Introduction: Synthesizing Classical Philology, Epigraphy & Medieval Steppe Law",
+          "cyrillicTitle": "Establish an integrated theoretical framework unifying 13th-century linguistics, epigraphy, and legal history into a cohesive mastery-tier synthesis.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Synthesize the entire philological, syntactic, and legal architecture of Section 02 (The Secret History of the Mongols, Classical Epic Syntax, Archaic Case Morphology, The Alan Qo'a Parable, The Oath of Anda, The Great Yasa, Multi-Register Agility, and Epigraphic Stelae), outlining the capstone requirements.",
+          "communicativeOutcome": "Establish an integrated theoretical framework unifying 13th-century linguistics, epigraphy, and legal history into a cohesive mastery-tier synthesis.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Synthesize the entire philological, syntactic, and legal architecture of Section 02 (The Secret History of the Mongols, Classical Epic Syntax, Archaic Case Morphology, The Alan Qo'a Parable, The Oath of Anda, The Great Yasa, Multi-Register Agility, and Epigraphic Stelae), outlining the capstone requirements.",
+            "keyPoints": [
+              "obj_c2_246_01_synthesize_c2_sec02_philology"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_246_02_c2_sec02_capstone_untranslated_manuscript_reading",
+          "title": "Capstone Reading: Deciphering an Unedited Middle Mongolian Manuscript Fragment (§153-§155)",
+          "cyrillicTitle": "Demonstrate the apex of philological reading autonomy, transcribing, emending, and interpreting corrupt primary Middle Mongolian texts without modern scholarly translations.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading",
+          "primaryPurpose": "Parse an unedited 920-word Middle Mongolian manuscript fragment (§153-§155, describing the downfall of the Jurkin clan and the trial of Sacha Beki) containing corrupted Ming phonetic characters, archaic case morphology, and lacunae.",
+          "communicativeOutcome": "Demonstrate the apex of philological reading autonomy, transcribing, emending, and interpreting corrupt primary Middle Mongolian texts without modern scholarly translations.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Parse an unedited 920-word Middle Mongolian manuscript fragment (§153-§155, describing the downfall of the Jurkin clan and the trial of Sacha Beki) containing corrupted Ming phonetic characters, archaic case morphology, and lacunae.",
+            "keyPoints": [
+              "obj_c2_246_02_parse_unedited_middle_mongolian_manuscript"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_246_03_c2_sec02_capstone_academician_colloquium_listening",
+          "title": "Capstone Listening: The Academy of Sciences High Colloquium on 13th-Century Textual Transmission",
+          "cyrillicTitle": "Process the fastest, most intellectually demanding academic speech in Mongolian linguistics, navigating competing scholarly citations, philological jargon, and rapid-fire intellectual refutations.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening",
+          "primaryPurpose": "Listen to a 4.5-minute unedited recording of a high colloquium at the Institute of Language and Literature of the Mongolian Academy of Sciences (175 wpm) where 3 world-renowned academicians dispute the date of composition and possible Persian parallel sources (Jami al-Tawarikh).",
+          "communicativeOutcome": "Process the fastest, most intellectually demanding academic speech in Mongolian linguistics, navigating competing scholarly citations, philological jargon, and rapid-fire intellectual refutations.",
+          "audioSuitability": "native_speaker_required",
+          "audioPurpose": "Provide authentic recording of Academy of Sciences high colloquium on Mongol Empire historiography.",
+          "grammarOverview": {
+            "summary": "Listen to a 4.5-minute unedited recording of a high colloquium at the Institute of Language and Literature of the Mongolian Academy of Sciences (175 wpm) where 3 world-renowned academicians dispute the date of composition and possible Persian parallel sources (Jami al-Tawarikh).",
+            "keyPoints": [
+              "obj_c2_246_03_comprehend_academy_high_colloquium"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_246_04_c2_sec02_capstone_critical_commentary_monograph_writing",
+          "title": "Capstone Writing: Authoring a 900-Word Published Philological Textual Commentary & Emendation",
+          "cyrillicTitle": "Produce doctoral-tier philological scholarship in academic Mongolian, establishing a definitive textual commentary that withstands scrutiny from international Mongolists.",
+          "estimatedMinutes": 15,
+          "lessonType": "writing",
+          "primaryPurpose": "Author a 900-word publishable philological textual commentary on a controversial passage of the Secret History (§254, the succession debate between Jochi and Chagatai), providing original transcription, critical apparatus, syntactic tree, and historical-jurisprudential exegesis.",
+          "communicativeOutcome": "Produce doctoral-tier philological scholarship in academic Mongolian, establishing a definitive textual commentary that withstands scrutiny from international Mongolists.",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Author a 900-word publishable philological textual commentary on a controversial passage of the Secret History (§254, the succession debate between Jochi and Chagatai), providing original transcription, critical apparatus, syntactic tree, and historical-jurisprudential exegesis.",
+            "keyPoints": [
+              "obj_c2_246_04_author_capstone_philological_monograph"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_246_05_c2_sec02_capstone_doctoral_dissertation_defense_spoken",
+          "title": "Capstone Speaking: Defending a Doctoral Dissertation on Middle Mongolian Before the State Degree Council",
+          "cyrillicTitle": "Demonstrate supreme academic spoken mastery, defending complex linguistic discoveries with intellectual brilliance, total poise, and authoritative Mongolian terminology.",
+          "estimatedMinutes": 15,
+          "lessonType": "spoken_production",
+          "primaryPurpose": "Deliver an unscripted 5.0-minute defense of an original doctoral dissertation on Middle Mongolian morphosyntax before the State Degree Council (Эрдмийн зэрэг хамгаалуулах зөвлөл), delivering a rigorous presentation and fielding hostile inquisitorial questions from 3 designated academic opponents.",
+          "communicativeOutcome": "Demonstrate supreme academic spoken mastery, defending complex linguistic discoveries with intellectual brilliance, total poise, and authoritative Mongolian terminology.",
+          "audioSuitability": "native_speaker_preferred",
+          "audioPurpose": "Provide benchmark audio of candidate successfully defending Doctor of Science (Sc.D.) dissertation in Mongolian linguistics.",
+          "grammarOverview": {
+            "summary": "Deliver an unscripted 5.0-minute defense of an original doctoral dissertation on Middle Mongolian morphosyntax before the State Degree Council (Эрдмийн зэрэг хамгаалуулах зөвлөл), delivering a rigorous presentation and fielding hostile inquisitorial questions from 3 designated academic opponents.",
+            "keyPoints": [
+              "obj_c2_246_05_defend_doctoral_dissertation_middle_mongolian"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_c2_246_06_c2_sec02_culminating_operational_synthesis",
+          "title": "Section 02 Culminating Operational Synthesis: Full Mastery Verification of Classical Philology & Secret History",
+          "cyrillicTitle": "Lock in total operational mastery of Section 02, confirming readiness to advance to Section 03 (Gnomic Wisdom, Folk Epics, Ceremonial Blessings & Tengrism).",
+          "estimatedMinutes": 15,
+          "lessonType": "review",
+          "primaryPurpose": "Execute a comprehensive operational review of Section 02, verifying absolute native-like mastery across manuscript paleography, medieval epic syntax, archaic case morphology, nomadic jurisprudence, multi-register switching, and primary monument epigraphy.",
+          "communicativeOutcome": "Lock in total operational mastery of Section 02, confirming readiness to advance to Section 03 (Gnomic Wisdom, Folk Epics, Ceremonial Blessings & Tengrism).",
+          "audioSuitability": "none",
+          "audioPurpose": null,
+          "grammarOverview": {
+            "summary": "Execute a comprehensive operational review of Section 02, verifying absolute native-like mastery across manuscript paleography, medieval epic syntax, archaic case morphology, nomadic jurisprudence, multi-register switching, and primary monument epigraphy.",
+            "keyPoints": [
+              "Execute a comprehensive operational review of Section 02, verifying absolute native-like mastery across manuscript paleography, medieval epic syntax, archaic case morphology, nomadic jurisprudence, multi-register switching, and primary monument epigraphy."
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    }
+  ]
+}

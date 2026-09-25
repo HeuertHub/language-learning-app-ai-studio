@@ -1,0 +1,1163 @@
+{
+  "sectionId": "sec_a1_04_food_hospitality_dining_transactions",
+  "sectionNumber": 6,
+  "title": "Food, Hospitality, Dining & Basic Social Exchange",
+  "cyrillicTitle": "Хоол хүнс, зочлох ёсон ба энгийн харилцаа",
+  "cefr": "A1",
+  "theme": "Order meals and beverages, ask about ingredients, settle bills, negotiate grocery purchases, express food likes/dislikes, and follow ger hospitality customs.",
+  "description": "Equip learners to navigate restaurant dining, food shopping, express preferences, make polite requests (-аарай), suggest collaborative actions (-я), and participate respectfully in Mongolian food hospitality.",
+  "unitCount": 9,
+  "lessonCount": 50,
+  "exerciseCount": 0,
+  "units": [
+    {
+      "id": "unit_a1_45_traditional_cuisine_restaurant_orde",
+      "unitNumber": 45,
+      "title": "Traditional Cuisine & Restaurant Ordering",
+      "cyrillicTitle": "Ordering staple dishes (бууз, хуушуур, цуйван)",
+      "description": "Acquire and apply grammatical morphology (gram_a1_noun_phrase_attributive_adjective) to fulfill communicative functions in: Traditional Cuisine & Restaurant Ordering.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_noun_phrase_attributive_adjective",
+      "lessons": [
+        {
+          "id": "les_a1_45_01_mongolian_menu_and_attributive_adjectives",
+          "title": "On the Menu: Buuz, Khuushuur, and Attributive Descriptors",
+          "cyrillicTitle": "Identify traditional dishes on a menu and describe food items using attributive adjectives without case inflection.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce traditional Mongolian restaurant food items (бууз, хуушуур, цуйван, банштай шөл) and attributive adjective placement directly preceding nouns (халуун шөл, амттай хоол, шинэ мах).",
+          "communicativeOutcome": "Identify traditional dishes on a menu and describe food items using attributive adjectives without case inflection.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear pronunciation of initial consonant combinations in dish names (хуушуур, цуйван).",
+          "grammarOverview": {
+            "summary": "Introduce traditional Mongolian restaurant food items (бууз, хуушуур, цуйван, банштай шөл) and attributive adjective placement directly preceding nouns (халуун шөл, амттай хоол, шинэ мах).",
+            "keyPoints": [
+              "obj_a1_45_01_describe_food_attributively"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_45_02_ordering_at_the_counter_avya",
+          "title": "At the Counter: Ordering Portions with 'Авъя' and 'Өгөөч'",
+          "cyrillicTitle": "Order food and beverages confidently at a lunch counter specifying portions.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce standard ordering formulas at fast-casual canteens (цайны газар): 'Би ... авъя' (I'll take...) and '... өгөөч' (please give me...).",
+          "communicativeOutcome": "Order food and beverages confidently at a lunch counter specifying portions.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Natural counter service cadence and polite request intonation.",
+          "grammarOverview": {
+            "summary": "Introduce standard ordering formulas at fast-casual canteens (цайны газар): 'Би ... авъя' (I'll take...) and '... өгөөч' (please give me...).",
+            "keyPoints": [
+              "obj_a1_45_02_order_food_at_counter"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_45_03_restaurant_service_guided_drills",
+          "title": "Guided Practice: Inquiring About Ingredients and Preparation Time",
+          "cyrillicTitle": "Ask servers about ingredients (үхрийн мах, хонины мах) and estimate wait times before placing an order.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate asking questions about food contents (meat type, spiciness) and wait times ('Хэр удаан хүлээх вэ?').",
+          "communicativeOutcome": "Ask servers about ingredients (үхрийн мах, хонины мах) and estimate wait times before placing an order.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic restaurant ambiance with natural server clarifications.",
+          "grammarOverview": {
+            "summary": "Automate asking questions about food contents (meat type, spiciness) and wait times ('Хэр удаан хүлээх вэ?').",
+            "keyPoints": [
+              "obj_a1_45_03_inquire_food_ingredients_and_wait_time"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_45_04_traditional_restaurant_reviews_reading",
+          "title": "Reading Workshop: Local Canteen Reviews and Food Column Snippets",
+          "cyrillicTitle": "Extract food quality ratings, portion sizes, and price-to-value impressions from restaurant reviews.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read online customer reviews and food column snippets praising the best buuz and tsuivan spots in Ulaanbaatar.",
+          "communicativeOutcome": "Extract food quality ratings, portion sizes, and price-to-value impressions from restaurant reviews.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Narration reading customer dining experiences clearly.",
+          "grammarOverview": {
+            "summary": "Read online customer reviews and food column snippets praising the best buuz and tsuivan spots in Ulaanbaatar.",
+            "keyPoints": [
+              "obj_a1_45_04_read_restaurant_reviews"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_45_05_busy_canteen_listening_lab",
+          "title": "Acoustic Lab: Parsing Rapid Canteen Exchanges and Order Calls",
+          "cyrillicTitle": "Accurately identify dish names and order numbers called amidst kitchen clatter and diner chatter.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse rapid verbal exchanges at a bustling lunchtime canteen: numbers called, orders confirmed, and item substitutions.",
+          "communicativeOutcome": "Accurately identify dish names and order numbers called amidst kitchen clatter and diner chatter.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic busy canteen atmosphere with authentic plate clatter and server callouts.",
+          "grammarOverview": {
+            "summary": "Parse rapid verbal exchanges at a bustling lunchtime canteen: numbers called, orders confirmed, and item substitutions.",
+            "keyPoints": [
+              "obj_a1_45_05_parse_canteen_audio"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_45_06_canteen_lunch_dining_synthesis",
+          "title": "Interactive Synthesis: Ordering a Full Lunch at a Traditional Canteen",
+          "cyrillicTitle": "Execute a complete dining outing dialogue from menu selection to food pickup.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate going to a traditional Mongolian canteen with a classmate: discussing the menu, ordering dishes, getting drinks, and finding a table.",
+          "communicativeOutcome": "Execute a complete dining outing dialogue from menu selection to food pickup.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary conversational exchange illustrating natural canteen dining.",
+          "grammarOverview": {
+            "summary": "Simulate going to a traditional Mongolian canteen with a classmate: discussing the menu, ordering dishes, getting drinks, and finding a table.",
+            "keyPoints": [
+              "obj_a1_45_06_execute_canteen_dining"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_46_beverages_tea_traditional_dairy_off",
+      "unitNumber": 46,
+      "title": "Beverages, Tea & Traditional Dairy Offerings",
+      "cyrillicTitle": "Ordering milk tea, black tea, coffee, and dairy snacks",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Beverages, Tea & Traditional Dairy Offerings.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "Ordering milk tea, black tea, coffee, and dairy snacks",
+      "lessons": [
+        {
+          "id": "les_a1_46_01_dairy_products_and_tea_culture",
+          "title": "White Foods: Сүүтэй Цай, Ааруул, and Тараг",
+          "cyrillicTitle": "Identify, name, and describe staple Mongolian dairy foods and tea varieties.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce traditional dairy offerings (цагаан идээ): ааруул (curds), өрөм (clotted cream), тараг (yogurt), аарц (sour curd), and Mongolian salted milk tea (сүүтэй цай).",
+          "communicativeOutcome": "Identify, name, and describe staple Mongolian dairy foods and tea varieties.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Warm cultural tone reading descriptions of nomadic dairy foods.",
+          "grammarOverview": {
+            "summary": "Introduce traditional dairy offerings (цагаан идээ): ааруул (curds), өрөм (clotted cream), тараг (yogurt), аарц (sour curd), and Mongolian salted milk tea (сүүтэй цай).",
+            "keyPoints": [
+              "obj_a1_46_01_identify_dairy_and_tea"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_46_02_beverage_preferences_and_tea_service",
+          "title": "Beverage Options: Цай, Кофе, and Hospitality Offers",
+          "cyrillicTitle": "Offer beverages to guests, ask for preferred drinks, and accept or decline politely.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce modern beverage vocabulary (хар цай 'black tea', ногоон цай 'green tea', кофе, жүүс, хийжүүлсэн ундаа) and polite tea offering phrases ('Та цай уух уу?').",
+          "communicativeOutcome": "Offer beverages to guests, ask for preferred drinks, and accept or decline politely.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Warm welcoming host intonation when offering refreshments.",
+          "grammarOverview": {
+            "summary": "Introduce modern beverage vocabulary (хар цай 'black tea', ногоон цай 'green tea', кофе, жүүс, хийжүүлсэн ундаа) and polite tea offering phrases ('Та цай уух уу?').",
+            "keyPoints": [
+              "obj_a1_46_02_offer_and_request_beverages"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_46_03_dairy_market_stall_reading",
+          "title": "Reading Workshop: Dairy Stalls at Naran Tuul and Bars Market",
+          "cyrillicTitle": "Identify provincial origin, freshness markers, and prices per kilogram from market dairy signs.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read market signage and price placards at open-air food markets advertising artisanal countryside dairy products (Архангайн ааруул, Булганы айраг).",
+          "communicativeOutcome": "Identify provincial origin, freshness markers, and prices per kilogram from market dairy signs.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Narration reading market stall product listings clearly.",
+          "grammarOverview": {
+            "summary": "Read market signage and price placards at open-air food markets advertising artisanal countryside dairy products (Архангайн ааруул, Булганы айраг).",
+            "keyPoints": [
+              "obj_a1_46_03_read_dairy_market_signs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_46_04_tea_table_hospitality_listening_lab",
+          "title": "Acoustic Lab: Parsing Hospitality Offers in a Ger Setting",
+          "cyrillicTitle": "Accurately understand hospitable invitations, tea refills, and food offerings from conversational audio.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse natural spoken audio recorded in a ger or home setting where hosts invite guests to drink tea and sample curds.",
+          "communicativeOutcome": "Accurately understand hospitable invitations, tea refills, and food offerings from conversational audio.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic domestic audio with pouring tea sounds and warm hospitable prosody.",
+          "grammarOverview": {
+            "summary": "Parse natural spoken audio recorded in a ger or home setting where hosts invite guests to drink tea and sample curds.",
+            "keyPoints": [
+              "obj_a1_46_04_parse_hospitality_offers"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_46_05_tea_and_hospitality_synthesis",
+          "title": "Interactive Synthesis: Welcoming a Guest with Tea and White Foods",
+          "cyrillicTitle": "Conduct a fluid, culturally authentic hospitality dialogue demonstrating traditional guest etiquette.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate welcoming a guest into a home or ger: greeting, serving hot milk tea, presenting a plate of aaruul and orom, and engaging in polite small talk.",
+          "communicativeOutcome": "Conduct a fluid, culturally authentic hospitality dialogue demonstrating traditional guest etiquette.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary cultural dialogue illustrating genuine Mongolian hospitality etiquette.",
+          "grammarOverview": {
+            "summary": "Simulate welcoming a guest into a home or ger: greeting, serving hot milk tea, presenting a plate of aaruul and orom, and engaging in polite small talk.",
+            "keyPoints": [
+              "obj_a1_46_05_host_guest_tea_service"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_47_comitative_case_suffixes_",
+      "unitNumber": 47,
+      "title": "Comitative Case: Suffixes -тай/-тэй/-той",
+      "cyrillicTitle": "Expressing accompaniment and essential possession",
+      "description": "Acquire and apply grammatical morphology (gram_a1_case_comitative_accompaniment, gram_a1_case_comitative_possession_predicates) to fulfill communicative functions in: Comitative Case: Suffixes -тай/-тэй/-той.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_case_comitative_accompaniment, gram_a1_case_comitative_possession_predicates",
+      "lessons": [
+        {
+          "id": "les_a1_47_01_comitative_accompaniment",
+          "title": "Doing Things Together: The Comitative Case -тай/-тэй/-той",
+          "cyrillicTitle": "State whom one goes with, studies with, or lives with using the comitative case (e.g. 'Би найзтайгаа хамт явлаа').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the comitative case suffix -тай/-тэй/-той denoting accompaniment ('with someone') and vowel harmony rules governing allomorph selection.",
+          "communicativeOutcome": "State whom one goes with, studies with, or lives with using the comitative case (e.g. 'Би найзтайгаа хамт явлаа').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear vowel diphthong /ai/, /ei/, /oi/ articulation in comitative suffixes.",
+          "grammarOverview": {
+            "summary": "Introduce the comitative case suffix -тай/-тэй/-той denoting accompaniment ('with someone') and vowel harmony rules governing allomorph selection.",
+            "keyPoints": [
+              "obj_a1_47_01_form_comitative_accompaniment"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_47_02_comitative_predicative_possession",
+          "title": "Having and Possessing: Predicates with -тай байна",
+          "cyrillicTitle": "Express possession of tangible objects, family members, pets, and attributes (e.g. 'Би машинтал байна', 'Би ахтай').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the predicative possessive construction: [Noun]-тай байна (to have / possess something) and its negative [Noun]-гүй байна (not to have / lack).",
+          "communicativeOutcome": "Express possession of tangible objects, family members, pets, and attributes (e.g. 'Би машинтал байна', 'Би ахтай').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Natural prosody linking comitative nouns with existential verbs.",
+          "grammarOverview": {
+            "summary": "Introduce the predicative possessive construction: [Noun]-тай байна (to have / possess something) and its negative [Noun]-гүй байна (not to have / lack).",
+            "keyPoints": [
+              "obj_a1_47_02_express_possession_with_comitative"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_47_03_comitative_food_ingredients_and_flavors",
+          "title": "Guided Practice: Food Ingredients with -тай and -гүй",
+          "cyrillicTitle": "Specify exact dish preparations, ingredient inclusions, and dietary omissions when ordering food.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate using -тай (with) and -гүй (without) to specify food ingredients, toppings, and dietary preferences (махтай хуушуур, ногоотой шөл, сонгиногүй).",
+          "communicativeOutcome": "Specify exact dish preparations, ingredient inclusions, and dietary omissions when ordering food.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Natural diner-waiter dialogue clarifying ingredient modifications.",
+          "grammarOverview": {
+            "summary": "Automate using -тай (with) and -гүй (without) to specify food ingredients, toppings, and dietary preferences (махтай хуушуур, ногоотой шөл, сонгиногүй).",
+            "keyPoints": [
+              "obj_a1_47_03_specify_food_ingredients_comitative"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_47_04_social_outing_profiles_reading",
+          "title": "Reading Workshop: Social Outing Profiles and Travel Companions",
+          "cyrillicTitle": "Extract companionship networks, travel destinations, and shared equipment from social travel texts.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read social media travel blurbs, photo captions, and weekend trip blogs describing outings with friends, family, and colleagues.",
+          "communicativeOutcome": "Extract companionship networks, travel destinations, and shared equipment from social travel texts.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Lively friendly narration reading social travel blogs.",
+          "grammarOverview": {
+            "summary": "Read social media travel blurbs, photo captions, and weekend trip blogs describing outings with friends, family, and colleagues.",
+            "keyPoints": [
+              "obj_a1_47_04_read_social_outing_texts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_47_05_companion_inquiries_listening_lab",
+          "title": "Acoustic Lab: Parsing Companionship and Possession in Casual Audio",
+          "cyrillicTitle": "Accurately record companion names and possessed items from fast spoken dialogue.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse rapid verbal discussions where speakers discuss whom they went with and what gear or resources they brought.",
+          "communicativeOutcome": "Accurately record companion names and possessed items from fast spoken dialogue.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic conversational audio featuring varied colloquial pacing.",
+          "grammarOverview": {
+            "summary": "Parse rapid verbal discussions where speakers discuss whom they went with and what gear or resources they brought.",
+            "keyPoints": [
+              "obj_a1_47_05_parse_spoken_companionship"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_47_06_picnic_planning_synthesis",
+          "title": "Interactive Synthesis: Planning a Group Picnic and Supplies",
+          "cyrillicTitle": "Conduct a collaborative social planning dialogue negotiating companions, shared possessions, and food ingredients.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate planning a group weekend picnic with friends: deciding who to invite, who will bring which food/supplies, and checking dietary restrictions.",
+          "communicativeOutcome": "Conduct a collaborative social planning dialogue negotiating companions, shared possessions, and food ingredients.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary conversational exchange illustrating enthusiastic peer picnic planning.",
+          "grammarOverview": {
+            "summary": "Simulate planning a group weekend picnic with friends: deciding who to invite, who will bring which food/supplies, and checking dietary restrictions.",
+            "keyPoints": [
+              "obj_a1_47_06_plan_group_social_event"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_48_volitional_intention_suffixes_",
+      "unitNumber": 48,
+      "title": "Volitional Intention: Suffixes -я/-е/-ё",
+      "cyrillicTitle": "Proposing shared meals and activities ('Цуйван идье!')",
+      "description": "Acquire and apply grammatical morphology (gram_a1_verb_volitional_intention_ya) to fulfill communicative functions in: Volitional Intention: Suffixes -я/-е/-ё.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_verb_volitional_intention_ya",
+      "lessons": [
+        {
+          "id": "les_a1_48_01_volitional_ya_allomorphs",
+          "title": "Let's Do It: The Volitional Mood -я/-е/-ё/-ье",
+          "cyrillicTitle": "Express immediate intention and propose shared collective actions (e.g. 'Явъя!' - Let's go!, 'Хоол идье' - Let's eat).",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the first-person volitional / cohortative suffix -я/-е/-ё/-ье expressing intention ('I will / let me') and collective suggestion ('let's...').",
+          "communicativeOutcome": "Express immediate intention and propose shared collective actions (e.g. 'Явъя!' - Let's go!, 'Хоол идье' - Let's eat).",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Upbeat enthusiastic intonation characteristic of peer suggestions.",
+          "grammarOverview": {
+            "summary": "Introduce the first-person volitional / cohortative suffix -я/-е/-ё/-ье expressing intention ('I will / let me') and collective suggestion ('let's...').",
+            "keyPoints": [
+              "obj_a1_48_01_form_volitional_ya"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_48_02_social_invitations_and_tegye",
+          "title": "Accepting and Declining: Тэгье, За, and Polite Alternatives",
+          "cyrillicTitle": "Enthusiastically accept social invitations or propose polite alternatives without causing offense.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce conventional responses to volitional proposals: 'Тэгье тэгье' (Sure! Let's do that), 'Тэгье л дээ', 'За тэгье', and polite expressions for postponing ('Өөр өдөр тэгэх үү?').",
+          "communicativeOutcome": "Enthusiastically accept social invitations or propose polite alternatives without causing offense.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Warm conversational tone illustrating cheerful social agreement.",
+          "grammarOverview": {
+            "summary": "Introduce conventional responses to volitional proposals: 'Тэгье тэгье' (Sure! Let's do that), 'Тэгье л дээ', 'За тэгье', and polite expressions for postponing ('Өөр өдөр тэгэх үү?').",
+            "keyPoints": [
+              "obj_a1_48_02_respond_to_social_proposals"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_48_03_weekend_outing_proposals_drills",
+          "title": "Guided Practice: Proposing Spontaneous Social Outings",
+          "cyrillicTitle": "Spontaneously propose social activities, reaching mutual agreement on activity, time, and location.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate generating spontaneous suggestions for leisure, dining, study, and sports using volitional verbs.",
+          "communicativeOutcome": "Spontaneously propose social activities, reaching mutual agreement on activity, time, and location.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic peer phone call proposing an afternoon coffee meetup.",
+          "grammarOverview": {
+            "summary": "Automate generating spontaneous suggestions for leisure, dining, study, and sports using volitional verbs.",
+            "keyPoints": [
+              "obj_a1_48_03_propose_spontaneous_activities"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_48_04_campus_event_invitations_reading",
+          "title": "Reading Workshop: Student Union Activity Flyers and Social Calls",
+          "cyrillicTitle": "Understand event calls, meeting points, entry conditions, and activity agendas from student flyers.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read student union bulletin board flyers, social invitations, and event posters calling peers to join campus activities.",
+          "communicativeOutcome": "Understand event calls, meeting points, entry conditions, and activity agendas from student flyers.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Enthusiastic student announcer voice reading campus social notices.",
+          "grammarOverview": {
+            "summary": "Read student union bulletin board flyers, social invitations, and event posters calling peers to join campus activities.",
+            "keyPoints": [
+              "obj_a1_48_04_read_event_calls"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_48_05_invitations_and_plans_listening_lab",
+          "title": "Acoustic Lab: Parsing Casual Invitations and Spontaneous Proposals",
+          "cyrillicTitle": "Accurately record proposed activity, time, and agreed response from spoken social exchanges.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse rapid verbal invitations, peer negotiations, and spontaneous meetup plans in recorded conversational audio.",
+          "communicativeOutcome": "Accurately record proposed activity, time, and agreed response from spoken social exchanges.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic conversational audio featuring varied emotional intonations.",
+          "grammarOverview": {
+            "summary": "Parse rapid verbal invitations, peer negotiations, and spontaneous meetup plans in recorded conversational audio.",
+            "keyPoints": [
+              "obj_a1_48_05_parse_spoken_invitations"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_48_06_social_weekend_planner_synthesis",
+          "title": "Interactive Synthesis: Planning an Entire Saturday Outing",
+          "cyrillicTitle": "Conduct a fluid, unscripted planning conversation using volitional proposals for all phases of a full day out.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate planning a complete Saturday excursion with a friend: deciding on morning hike, lunch spot, afternoon movie, and evening cafe.",
+          "communicativeOutcome": "Conduct a fluid, unscripted planning conversation using volitional proposals for all phases of a full day out.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary conversational exchange illustrating peer planning for a fun weekend.",
+          "grammarOverview": {
+            "summary": "Simulate planning a complete Saturday excursion with a friend: deciding on morning hike, lunch spot, afternoon movie, and evening cafe.",
+            "keyPoints": [
+              "obj_a1_48_06_plan_full_day_social_outing"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_49_polite_request_imperative_suffixes_",
+      "unitNumber": 49,
+      "title": "Polite Request Imperative: Suffixes -аарай",
+      "cyrillicTitle": "Making polite requests and hospitality invitations ('Суугаарай')",
+      "description": "Acquire and apply grammatical morphology (gram_a1_verb_imperative_polite_aarai) to fulfill communicative functions in: Polite Request Imperative: Suffixes -аарай.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_verb_imperative_polite_aarai",
+      "lessons": [
+        {
+          "id": "les_a1_49_01_polite_imperative_aarai_allomorphs",
+          "title": "Courteous Guidance: The Polite Imperative -аарай/-ээрэй/-оорой/-өөрэй",
+          "cyrillicTitle": "Formulate warm, polite requests, reminders, and hospitable directives (e.g. 'Маргааш ирээрэй' - Please come tomorrow; 'Цай уугаарай' - Please drink tea).",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the courteous request / polite imperative suffix -аарай/-ээрэй/-оорой/-өөрэй ('please do...', 'be sure to...') and four-way vowel harmony governing allomorph selection.",
+          "communicativeOutcome": "Formulate warm, polite requests, reminders, and hospitable directives (e.g. 'Маргааш ирээрэй' - Please come tomorrow; 'Цай уугаарай' - Please drink tea).",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Gentle, hospitable intonation typical of Mongolian courteous requests.",
+          "grammarOverview": {
+            "summary": "Introduce the courteous request / polite imperative suffix -аарай/-ээрэй/-оорой/-өөрэй ('please do...', 'be sure to...') and four-way vowel harmony governing allomorph selection.",
+            "keyPoints": [
+              "obj_a1_49_01_form_polite_imperative_aarai"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_49_02_farewell_wishes_and_daily_reminders",
+          "title": "Parting Blessings: Сайн яваарай and Daily Courtesies",
+          "cyrillicTitle": "Deliver customary parting blessings and safety reminders to departing guests, friends, and travelers.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce conventional parting formulas and daily reminders built with -аарай: 'Сайн яваарай' (Have a good journey), 'Сайн суугаарай' (Stay well), 'Дараа уулзаарай', 'Болгоомжтой яваарай' (Travel safely).",
+          "communicativeOutcome": "Deliver customary parting blessings and safety reminders to departing guests, friends, and travelers.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Warm, emotional parting prosody at the conclusion of visits.",
+          "grammarOverview": {
+            "summary": "Introduce conventional parting formulas and daily reminders built with -аарай: 'Сайн яваарай' (Have a good journey), 'Сайн суугаарай' (Stay well), 'Дараа уулзаарай', 'Болгоомжтой яваарай' (Travel safely).",
+            "keyPoints": [
+              "obj_a1_49_02_deliver_parting_blessings"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_49_03_service_requests_and_instructions_drills",
+          "title": "Guided Practice: Courteous Requests in Public and Commercial Services",
+          "cyrillicTitle": "Direct service providers, drivers, and clerks with courteous imperative forms.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate generating polite requests in stores, libraries, offices, and taxis ('Энд зогсоорой', 'Энийг хараарай', 'Түр хүлээгээрэй').",
+          "communicativeOutcome": "Direct service providers, drivers, and clerks with courteous imperative forms.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic urban ambient service audio with clear polite request directives.",
+          "grammarOverview": {
+            "summary": "Automate generating polite requests in stores, libraries, offices, and taxis ('Энд зогсоорой', 'Энийг хараарай', 'Түр хүлээгээрэй').",
+            "keyPoints": [
+              "obj_a1_49_03_request_commercial_services"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_49_04_public_notice_signs_reading",
+          "title": "Reading Workshop: Public Safety and Politeness Notices",
+          "cyrillicTitle": "Interpret official courtesy instructions, queue guidelines, and safety warnings.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read public courtesy signs, safety reminders, and instructional notices in banks, transit centers, and clinics.",
+          "communicativeOutcome": "Interpret official courtesy instructions, queue guidelines, and safety warnings.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear official narration reading public instructional signage.",
+          "grammarOverview": {
+            "summary": "Read public courtesy signs, safety reminders, and instructional notices in banks, transit centers, and clinics.",
+            "keyPoints": [
+              "obj_a1_49_04_read_public_courtesy_signs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_49_05_polite_instructions_listening_lab",
+          "title": "Acoustic Lab: Discerning Polite Reminders vs Direct Commands",
+          "cyrillicTitle": "Differentiate tone and register between curt commands and considerate polite invitations in spoken speech.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Acoustically distinguish between bare command stems (e.g. 'Суу!', 'Ир!') and polite request forms with -аарай/-ээрэй ('Суугаарай', 'Ирээрэй').",
+          "communicativeOutcome": "Differentiate tone and register between curt commands and considerate polite invitations in spoken speech.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Paired voice samples demonstrating stark contrast between abrupt commands and gentle polite requests.",
+          "grammarOverview": {
+            "summary": "Acoustically distinguish between bare command stems (e.g. 'Суу!', 'Ир!') and polite request forms with -аарай/-ээрэй ('Суугаарай', 'Ирээрэй').",
+            "keyPoints": [
+              "obj_a1_49_05_discern_polite_imperative_audio"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_49_06_section_04_mid_checkpoint",
+          "title": "Section 4 Mid-Section Checkpoint: Dining, Social Outings, and Courtesy",
+          "cyrillicTitle": "Demonstrate integrated communicative proficiency across dining, social invitations, companionship, and courteous directives.",
+          "estimatedMinutes": 15,
+          "lessonType": "checkpoint",
+          "primaryPurpose": "Comprehensive diagnostic evaluation assessing cumulative mastery of Section 4 Units 45-49: traditional cuisine ordering, dairy offerings, comitative accompaniment/possession (-тай), volitional intention (-я), and polite requests (-аарай).",
+          "communicativeOutcome": "Demonstrate integrated communicative proficiency across dining, social invitations, companionship, and courteous directives.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Integrated multi-speaker diagnostic assessment audio.",
+          "grammarOverview": {
+            "summary": "Comprehensive diagnostic evaluation assessing cumulative mastery of Section 4 Units 45-49: traditional cuisine ordering, dairy offerings, comitative accompaniment/possession (-тай), volitional intention (-я), and polite requests (-аарай).",
+            "keyPoints": [
+              "obj_a1_49_06_section_04_mid_mastery"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_50_sequential_converb_clause_connector",
+      "unitNumber": 50,
+      "title": "Sequential Converb: Clause Connector -аад",
+      "cyrillicTitle": "Chaining kitchen preparation steps and dining sequences",
+      "description": "Acquire and apply grammatical morphology (gram_a1_converb_sequential_aad) to fulfill communicative functions in: Sequential Converb: Clause Connector -аад.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_converb_sequential_aad",
+      "lessons": [
+        {
+          "id": "les_a1_50_01_sequential_converb_aad_formation",
+          "title": "Chaining Actions in Time: The Sequential Converb -аад/-ээд/-оод/-өөд",
+          "cyrillicTitle": "Connect two chronologically ordered actions into a single coherent clause (e.g. 'Би цай уугаад гарсан' - Having drank tea, I went out).",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the sequential converb suffix -аад/-ээд/-оод/-өөд denoting completed anterior action ('having done X, then Y') and four-way vowel harmony rules.",
+          "communicativeOutcome": "Connect two chronologically ordered actions into a single coherent clause (e.g. 'Би цай уугаад гарсан' - Having drank tea, I went out).",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Natural narrative rhythm connecting two sequential verbal clauses.",
+          "grammarOverview": {
+            "summary": "Introduce the sequential converb suffix -аад/-ээд/-оод/-өөд denoting completed anterior action ('having done X, then Y') and four-way vowel harmony rules.",
+            "keyPoints": [
+              "obj_a1_50_01_form_sequential_converb_aad"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_50_02_kitchen_preparation_sequences",
+          "title": "Kitchen Sequences: Chopping, Boiling, and Steaming with -аад",
+          "cyrillicTitle": "Describe cooking preparation steps in order (e.g. 'Махаа хэрчээд тогоонд хуурна' - Having chopped the meat, stir-fry it in the wok).",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce culinary action verbs (хэрчих 'to slice/chop', чанах 'to boil', хуурах 'to stir-fry', жигнэх 'to steam', зуурах 'to knead') in sequential procedural chains.",
+          "communicativeOutcome": "Describe cooking preparation steps in order (e.g. 'Махаа хэрчээд тогоонд хуурна' - Having chopped the meat, stir-fry it in the wok).",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear instructional cadence describing cooking processes.",
+          "grammarOverview": {
+            "summary": "Introduce culinary action verbs (хэрчих 'to slice/chop', чанах 'to boil', хуурах 'to stir-fry', жигнэх 'to steam', зуурах 'to knead') in sequential procedural chains.",
+            "keyPoints": [
+              "obj_a1_50_02_describe_culinary_steps_aad"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_50_03_dining_routines_and_errands_drills",
+          "title": "Guided Practice: Chaining Daily Errands and Dining Outings",
+          "cyrillicTitle": "Fluently express multi-stop errand plans and activity chains combining sequential converbs with volitional verbs.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate chaining multi-step daily outings, shopping trips, and meals ('Дэлгүүр ороод талх авна', 'Хоол идээд номын сан явъя').",
+          "communicativeOutcome": "Fluently express multi-stop errand plans and activity chains combining sequential converbs with volitional verbs.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic conversational audio coordinating two-part errands.",
+          "grammarOverview": {
+            "summary": "Automate chaining multi-step daily outings, shopping trips, and meals ('Дэлгүүр ороод талх авна', 'Хоол идээд номын сан явъя').",
+            "keyPoints": [
+              "obj_a1_50_03_chain_errands_and_outings"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_50_04_traditional_recipes_reading",
+          "title": "Reading Workshop: Authentic Step-by-Step Recipes for Tsuivan and Buuz",
+          "cyrillicTitle": "Extract ingredient lists, sequential preparation phases, and cooking times from written recipes.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read authentic recipe texts detailing how to prepare traditional homemade tsuivan (fried noodle dish) and buuz (steamed dumplings).",
+          "communicativeOutcome": "Extract ingredient lists, sequential preparation phases, and cooking times from written recipes.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear procedural narration reading step-by-step recipe instructions.",
+          "grammarOverview": {
+            "summary": "Read authentic recipe texts detailing how to prepare traditional homemade tsuivan (fried noodle dish) and buuz (steamed dumplings).",
+            "keyPoints": [
+              "obj_a1_50_04_read_traditional_recipes"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_50_05_sequential_actions_listening_lab",
+          "title": "Acoustic Lab: Parsing Sequential Clauses in Connected Speech",
+          "cyrillicTitle": "Accurately record the chronological order of events described in rapid natural speech.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse rapid spoken narratives where speakers link multiple actions using sequential converb suffixes without pauses.",
+          "communicativeOutcome": "Accurately record the chronological order of events described in rapid natural speech.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Natural connected speech audio featuring fluid converb transitions.",
+          "grammarOverview": {
+            "summary": "Parse rapid spoken narratives where speakers link multiple actions using sequential converb suffixes without pauses.",
+            "keyPoints": [
+              "obj_a1_50_05_parse_sequential_clauses_audio"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_50_06_cooking_and_hosting_masterclass_synthesis",
+          "title": "Interactive Synthesis: Cooking Together and Serving Dinner",
+          "cyrillicTitle": "Conduct a collaborative kitchen cooking dialogue narrating and coordinating sequential preparation steps.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate preparing dinner together with a friend: delegating kitchen tasks, narrating actions as they happen, and serving the finished meal to table.",
+          "communicativeOutcome": "Conduct a collaborative kitchen cooking dialogue narrating and coordinating sequential preparation steps.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary conversational exchange illustrating lively domestic cooking collaboration.",
+          "grammarOverview": {
+            "summary": "Simulate preparing dinner together with a friend: delegating kitchen tasks, narrating actions as they happen, and serving the finished meal to table.",
+            "keyPoints": [
+              "obj_a1_50_06_coordinate_cooking_activity"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_51_settling_the_bill_canteen_transacti",
+      "unitNumber": 51,
+      "title": "Settling the Bill & Canteen Transactions",
+      "cyrillicTitle": "Asking for the check, checking receipts, paying with cash/QPay",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Settling the Bill & Canteen Transactions.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "Asking for the check, checking receipts, paying with cash/QPay",
+      "lessons": [
+        {
+          "id": "les_a1_51_01_asking_for_the_check_and_receipt",
+          "title": "Settling the Tab: Тооцоогоо Хийе and Checking the Bill",
+          "cyrillicTitle": "Ask for the check in restaurants and canteens, verify total sums, and ask for an official receipt (баримт).",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce essential billing vocabulary and counter payment requests: тооцоо 'bill/account', тооцооны хуудас 'receipt/invoice', тооцоо хийх 'to settle bill', нийт дүн 'total amount', and calling the waiter ('Тооцоогоо хийе').",
+          "communicativeOutcome": "Ask for the check in restaurants and canteens, verify total sums, and ask for an official receipt (баримт).",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Courteous customer callout intonation in a dining room.",
+          "grammarOverview": {
+            "summary": "Introduce essential billing vocabulary and counter payment requests: тооцоо 'bill/account', тооцооны хуудас 'receipt/invoice', тооцоо хийх 'to settle bill', нийт дүн 'total amount', and calling the waiter ('Тооцоогоо хийе').",
+            "keyPoints": [
+              "obj_a1_51_01_request_check_and_receipt"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_51_02_payment_methods_cash_card_qpay",
+          "title": "Payment Channels: Бэлнээр, Картаар, and QPay QR Codes",
+          "cyrillicTitle": "State payment method, ask to scan a QR code, and pay using cards or mobile apps.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce payment modalities: бэлнээр 'in cash', картаар 'by card', дансаар 'by bank transfer', QPay-ээр 'via QPay QR code', and cashier inquiries ('Яаж төлөх вэ?').",
+          "communicativeOutcome": "State payment method, ask to scan a QR code, and pay using cards or mobile apps.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Crisp cashier-customer retail transaction audio.",
+          "grammarOverview": {
+            "summary": "Introduce payment modalities: бэлнээр 'in cash', картаар 'by card', дансаар 'by bank transfer', QPay-ээр 'via QPay QR code', and cashier inquiries ('Яаж төлөх вэ?').",
+            "keyPoints": [
+              "obj_a1_51_02_specify_payment_modality"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_51_03_receipts_and_bill_verification_reading",
+          "title": "Reading Workshop: Itemized Receipts and Mobile Payment Confirmations",
+          "cyrillicTitle": "Verify item counts, individual prices, total sums, and tax registration numbers from commercial receipts.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read itemized restaurant check slips, POS receipts with VAT lotto numbers (сугалааны дугаар), and mobile banking payment confirmation screens.",
+          "communicativeOutcome": "Verify item counts, individual prices, total sums, and tax registration numbers from commercial receipts.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Narration reading itemized bill line items clearly.",
+          "grammarOverview": {
+            "summary": "Read itemized restaurant check slips, POS receipts with VAT lotto numbers (сугалааны дугаар), and mobile banking payment confirmation screens.",
+            "keyPoints": [
+              "obj_a1_51_03_read_receipts_and_pos_slips"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_51_04_cashier_exchanges_listening_lab",
+          "title": "Acoustic Lab: Parsing Numbers, Totals, and Change at Checkouts",
+          "cyrillicTitle": "Accurately write down spoken monetary amounts, payment confirmations, and change figures.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse rapid verbal exchanges at cash registers: totals quoted in thousands of tögrög, change given, and electronic payment prompts.",
+          "communicativeOutcome": "Accurately write down spoken monetary amounts, payment confirmations, and change figures.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic supermarket and cafe register ambiance with clear cashier number speech.",
+          "grammarOverview": {
+            "summary": "Parse rapid verbal exchanges at cash registers: totals quoted in thousands of tögrög, change given, and electronic payment prompts.",
+            "keyPoints": [
+              "obj_a1_51_04_parse_cashier_amounts_audio"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_51_05_canteen_settlement_synthesis",
+          "title": "Interactive Synthesis: Settling the Bill at a Busy Restaurant",
+          "cyrillicTitle": "Conduct a fluid, confident billing settlement dialogue at a restaurant or canteen.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate the complete end-of-meal payment process: signaling the waiter, requesting the check, splitting or paying the bill, choosing payment method, and getting the receipt.",
+          "communicativeOutcome": "Conduct a fluid, confident billing settlement dialogue at a restaurant or canteen.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary conversational exchange illustrating polite dining bill settlement.",
+          "grammarOverview": {
+            "summary": "Simulate the complete end-of-meal payment process: signaling the waiter, requesting the check, splitting or paying the bill, choosing payment method, and getting the receipt.",
+            "keyPoints": [
+              "obj_a1_51_05_execute_dining_settlement"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_52_open_market_grocery_shopping_bulk_q",
+      "unitNumber": 52,
+      "title": "Open Market Grocery Shopping & Bulk Quantities",
+      "cyrillicTitle": "Buying meat, vegetables, and flour by weight (кило)",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Open Market Grocery Shopping & Bulk Quantities.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "Buying meat, vegetables, and flour by weight (кило)",
+      "lessons": [
+        {
+          "id": "les_a1_52_01_buying_by_weight_kilo_gram_bulk",
+          "title": "Weights and Quantities: Килограмм, Грамм, and Fresh Produce",
+          "cyrillicTitle": "Purchase meat, root vegetables, and flour specifying exact metric weights and bagged quantities.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce metric weight and bulk quantity units used at open markets: килограмм / кило 'kg', грамм 'g', хагас кило 'half kg', уут 'bag/sack', and fresh produce terms (төмс, лууван, сонгино, байцаа, мах).",
+          "communicativeOutcome": "Purchase meat, root vegetables, and flour specifying exact metric weights and bagged quantities.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Bustling market vendor speech calling out produce weights and prices.",
+          "grammarOverview": {
+            "summary": "Introduce metric weight and bulk quantity units used at open markets: килограмм / кило 'kg', грамм 'g', хагас кило 'half kg', уут 'bag/sack', and fresh produce terms (төмс, лууван, сонгино, байцаа, мах).",
+            "keyPoints": [
+              "obj_a1_52_01_specify_bulk_weights_kilo"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_52_02_asking_prices_per_kilo_and_market_bargaining",
+          "title": "Stall Negotiations: Нэг Кило нь Хэд вэ? and Checking Freshness",
+          "cyrillicTitle": "Ask stall vendors for unit prices per kilo, verify freshness/origin, and politely negotiate minor bulk discounts.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce market price inquiries: 'Нэг кило нь хэд вэ?' (How much is 1 kg?), 'Жоохон хямдруулах уу?' (Can you discount a bit?), and freshness inquiries (шинэ 'fresh', орон нутгийн 'local', Монгол төмс).",
+          "communicativeOutcome": "Ask stall vendors for unit prices per kilo, verify freshness/origin, and politely negotiate minor bulk discounts.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Lively open market ambiance with authentic vendor banter.",
+          "grammarOverview": {
+            "summary": "Introduce market price inquiries: 'Нэг кило нь хэд вэ?' (How much is 1 kg?), 'Жоохон хямдруулах уу?' (Can you discount a bit?), and freshness inquiries (шинэ 'fresh', орон нутгийн 'local', Монгол төмс).",
+            "keyPoints": [
+              "obj_a1_52_02_inquire_market_prices_and_origin"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_52_03_market_placards_and_bulk_signs_reading",
+          "title": "Reading Workshop: Bulk Placards at Bars and Naran Tuul Markets",
+          "cyrillicTitle": "Extract commodity names, bag weights, provincial origin, and bulk discounts from open market signage.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read handwritten cardboard signage, provincial origin banners (Сэлэнгийн төмс, Хөвсгөлийн мах), and sack-weight discount placards at major wholesale open markets.",
+          "communicativeOutcome": "Extract commodity names, bag weights, provincial origin, and bulk discounts from open market signage.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Narration reading open market stall descriptions clearly.",
+          "grammarOverview": {
+            "summary": "Read handwritten cardboard signage, provincial origin banners (Сэлэнгийн төмс, Хөвсгөлийн мах), and sack-weight discount placards at major wholesale open markets.",
+            "keyPoints": [
+              "obj_a1_52_03_read_market_placards"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_52_04_market_chatter_and_scales_listening_lab",
+          "title": "Acoustic Lab: Parsing Weighed Produce Amounts in Open Market Ambience",
+          "cyrillicTitle": "Accurately capture weight amounts, item prices, and vendor confirmations from noisy market audio.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse rapid verbal exchanges at market weighing scales: weights announced, fractional kilos, and total prices quoted over market noise.",
+          "communicativeOutcome": "Accurately capture weight amounts, item prices, and vendor confirmations from noisy market audio.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Atmospheric open-air food market audio with authentic scale weighing sounds.",
+          "grammarOverview": {
+            "summary": "Parse rapid verbal exchanges at market weighing scales: weights announced, fractional kilos, and total prices quoted over market noise.",
+            "keyPoints": [
+              "obj_a1_52_04_parse_market_scale_audio"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_52_05_open_market_grocery_run_synthesis",
+          "title": "Interactive Synthesis: Doing a Weekly Grocery Run at Bars Market",
+          "cyrillicTitle": "Conduct a multi-stall grocery shopping simulation purchasing diverse items by weight with confidence.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate a complete weekly grocery run at Bars Market: visiting vegetable and meat stalls, asking prices, purchasing multiple items by weight, checking freshness, and paying.",
+          "communicativeOutcome": "Conduct a multi-stall grocery shopping simulation purchasing diverse items by weight with confidence.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary conversational exchange illustrating lively market bargaining and purchasing.",
+          "grammarOverview": {
+            "summary": "Simulate a complete weekly grocery run at Bars Market: visiting vegetable and meat stalls, asking prices, purchasing multiple items by weight, checking freshness, and paying.",
+            "keyPoints": [
+              "obj_a1_52_05_execute_market_grocery_run"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_53_hospitality_protocol_receiving_food",
+      "unitNumber": 53,
+      "title": "Hospitality Protocol: Receiving Food with Both Hands",
+      "cyrillicTitle": "Practicing ger dining etiquette, tea receiving, and gratitude",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Hospitality Protocol: Receiving Food with Both Hands.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "Practicing ger dining etiquette, tea receiving, and gratitude",
+      "lessons": [
+        {
+          "id": "les_a1_53_01_receiving_food_with_both_hands_protocol",
+          "title": "Sacred Hands: Receiving Food and Tea with Two Hands (Хоёр Гараараа)",
+          "cyrillicTitle": "Demonstrate verbal and cultural awareness of receiving food, tea, and gifts with both hands or supported elbow.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce core Mongolian hospitality etiquette vocabulary: хоёр гар 'two hands', баруун гар 'right hand', тохой 'elbow', тулах 'to support (elbow)', хүндэтгэх 'to respect', and receiving customs (хоёр гараараа авах 'to take with both hands').",
+          "communicativeOutcome": "Demonstrate verbal and cultural awareness of receiving food, tea, and gifts with both hands or supported elbow.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Dignified, respectful cultural narration describing traditional Mongolian customs.",
+          "grammarOverview": {
+            "summary": "Introduce core Mongolian hospitality etiquette vocabulary: хоёр гар 'two hands', баруун гар 'right hand', тохой 'elbow', тулах 'to support (elbow)', хүндэтгэх 'to respect', and receiving customs (хоёр гараараа авах 'to take with both hands').",
+            "keyPoints": [
+              "obj_a1_53_01_practice_two_handed_hospitality"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_53_02_dining_taboos_and_ger_etiquette",
+          "title": "Ger Manners: Threshold Taboos, Knife Handling, and Stepping Over Food",
+          "cyrillicTitle": "Recognize and state core Mongolian dining taboos and ger rules, warning peers politely when necessary.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce traditional nomadic dining taboos (цээр): босгон дээр гишгэхгүй 'not stepping on threshold', хоол дээгүүр алхахгүй 'not stepping over food', хутганы үзүүр чиглүүлэхгүй 'not pointing knife point at people', and handling bowls by the rim.",
+          "communicativeOutcome": "Recognize and state core Mongolian dining taboos and ger rules, warning peers politely when necessary.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Gentle, instructive guidance explaining traditional nomadic taboos.",
+          "grammarOverview": {
+            "summary": "Introduce traditional nomadic dining taboos (цээр): босгон дээр гишгэхгүй 'not stepping on threshold', хоол дээгүүр алхахгүй 'not stepping over food', хутганы үзүүр чиглүүлэхгүй 'not pointing knife point at people', and handling bowls by the rim.",
+            "keyPoints": [
+              "obj_a1_53_02_identify_ger_dining_taboos"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_53_03_hospitality_guidebooks_and_elder_stories_reading",
+          "title": "Reading Workshop: The Etiquette of the Mongolian Hearth and Table",
+          "cyrillicTitle": "Understand the spiritual and social significance of food offerings, hearth respect, and host-guest reciprocity in Mongolian culture.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read an authentic excerpt from a Mongolian cultural guide or elder's memoir recounting how guests are received with hot tea, curds, and blessed meat.",
+          "communicativeOutcome": "Understand the spiritual and social significance of food offerings, hearth respect, and host-guest reciprocity in Mongolian culture.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Warm storytelling voice evoking traditional countryside hospitality.",
+          "grammarOverview": {
+            "summary": "Read an authentic excerpt from a Mongolian cultural guide or elder's memoir recounting how guests are received with hot tea, curds, and blessed meat.",
+            "keyPoints": [
+              "obj_a1_53_03_read_hospitality_literature"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_53_04_elder_blessings_and_gratitude_listening_lab",
+          "title": "Acoustic Lab: Parsing Elder Blessings and Guest Gratitude Formulas",
+          "cyrillicTitle": "Accurately understand elder blessings and formulate authentic words of thanks when dining in Mongolian homes.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse recorded spoken audio of elders offering food blessings (ерөөл), offering seconds, and guests expressing deep appreciation with traditional formulas.",
+          "communicativeOutcome": "Accurately understand elder blessings and formulate authentic words of thanks when dining in Mongolian homes.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Warm resonant elder Mongolian voices speaking traditional hospitality formulas.",
+          "grammarOverview": {
+            "summary": "Parse recorded spoken audio of elders offering food blessings (ерөөл), offering seconds, and guests expressing deep appreciation with traditional formulas.",
+            "keyPoints": [
+              "obj_a1_53_04_parse_elder_blessings_audio"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_53_05_section_04_capstone_checkpoint",
+          "title": "Section 4 Capstone Checkpoint: Traditional Dining, Commerce, and Hospitality",
+          "cyrillicTitle": "Demonstrate complete communicative and cultural proficiency across all Section 4 dining, market shopping, and hospitality benchmarks.",
+          "estimatedMinutes": 15,
+          "lessonType": "checkpoint",
+          "primaryPurpose": "Comprehensive summative evaluation certifying cumulative mastery of Section 4 Units 45-53: traditional cuisine, dairy offerings, comitative (-тай), volitional (-я), polite imperatives (-аарай), sequential converbs (-аад), restaurant billing, open market grocery shopping, and ger hospitality protocol.",
+          "communicativeOutcome": "Demonstrate complete communicative and cultural proficiency across all Section 4 dining, market shopping, and hospitality benchmarks.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Standardized benchmark assessment recordings with high-fidelity studio acoustic standards.",
+          "grammarOverview": {
+            "summary": "Comprehensive summative evaluation certifying cumulative mastery of Section 4 Units 45-53: traditional cuisine, dairy offerings, comitative (-тай), volitional (-я), polite imperatives (-аарай), sequential converbs (-аад), restaurant billing, open market grocery shopping, and ger hospitality protocol.",
+            "keyPoints": [
+              "obj_a1_53_05_section_04_capstone_mastery"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    }
+  ]
+}

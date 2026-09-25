@@ -28,9 +28,9 @@
           "exerciseId": "ex_pre_a1_01_01_01",
           "sequenceInLesson": 1,
           "exerciseTitle": "Recognizing Shared Cyrillic Capital 'М'",
-          "modality": "ORTHOGRAPHY_RECOGNITION",
+          "modality": "ORTHOGRAPHY_PHONOLOGY",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "REMEMBER_RECOGNIZE",
+          "cognitiveComplexity": "IDENTIFY_RECOGNIZE",
           "skillTargets": [
             "visual_grapheme_recognition",
             "cyrillic_letter_identification"
@@ -104,9 +104,9 @@
           "exerciseId": "ex_pre_a1_01_01_02",
           "sequenceInLesson": 2,
           "exerciseTitle": "Matching Lowercase and Uppercase Shared Consonants",
-          "modality": "ORTHOGRAPHY_RECOGNITION",
+          "modality": "ORTHOGRAPHY_PHONOLOGY",
           "interactionPattern": "PAIR_MATCHING",
-          "cognitiveComplexity": "REMEMBER_RECOGNIZE",
+          "cognitiveComplexity": "IDENTIFY_RECOGNIZE",
           "skillTargets": [
             "grapheme_case_pairing"
           ],
@@ -174,7 +174,10 @@
             "speechRate": 0.8
           },
           "evaluation": {
-            "matchType": "CASE_INSENSITIVE"
+            "matchType": "NORMALIZED_TEXT",
+            "caseSensitive": false,
+            "stripPunctuation": true,
+            "normalizeWhitespace": true
           },
           "lessonId": "les_pre_a1_01_01_shared_consonants_visual",
           "unitId": "unit_pre_a1_01_alphabet_consonants_intro",
@@ -184,9 +187,9 @@
           "exerciseId": "ex_pre_a1_01_01_03",
           "sequenceInLesson": 3,
           "exerciseTitle": "Distinguishing True Consonant 'К' in Loanwords",
-          "modality": "ORTHOGRAPHY_RECOGNITION",
+          "modality": "ORTHOGRAPHY_PHONOLOGY",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "loanword_phonology_recognition"
           ],
@@ -258,9 +261,9 @@
           "exerciseId": "ex_pre_a1_01_01_04",
           "sequenceInLesson": 4,
           "exerciseTitle": "Token Identification: Shared Letters in 'ТАМГА'",
-          "modality": "ORTHOGRAPHY_RECOGNITION",
+          "modality": "ORTHOGRAPHY_PHONOLOGY",
           "interactionPattern": "TOKEN_REARRANGEMENT",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "grapheme_assembly",
             "spelling_decoding"
@@ -315,7 +318,7 @@
           "exerciseId": "ex_pre_a1_01_01_05",
           "sequenceInLesson": 5,
           "exerciseTitle": "Acoustic Consonant Transcription: /t/ and /m/",
-          "modality": "AUDITORY_DISCRIMINATION",
+          "modality": "LISTENING_COMPREHENSION",
           "interactionPattern": "AUDIO_DICTATION",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -350,7 +353,10 @@
             "speechRate": 0.8
           },
           "evaluation": {
-            "matchType": "CASE_INSENSITIVE"
+            "matchType": "NORMALIZED_TEXT",
+            "caseSensitive": false,
+            "stripPunctuation": true,
+            "normalizeWhitespace": true
           },
           "lessonId": "les_pre_a1_01_01_shared_consonants_visual",
           "unitId": "unit_pre_a1_01_alphabet_consonants_intro",
@@ -372,9 +378,9 @@
           "exerciseId": "ex_pre_a1_02_02_01",
           "sequenceInLesson": 1,
           "exerciseTitle": "Auditory Minimal Pair Contrast: О vs Ө",
-          "modality": "AUDITORY_DISCRIMINATION",
+          "modality": "LISTENING_COMPREHENSION",
           "interactionPattern": "AUDIO_COMPREHENSION",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "acoustic_phonetic_discrimination",
             "vowel_backness_auditory"
@@ -432,9 +438,9 @@
           "exerciseId": "ex_pre_a1_02_02_02",
           "sequenceInLesson": 2,
           "exerciseTitle": "Auditory Discrimination: High Back 'У' vs High Front 'Ү'",
-          "modality": "AUDITORY_DISCRIMINATION",
+          "modality": "LISTENING_COMPREHENSION",
           "interactionPattern": "AUDIO_COMPREHENSION",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "high_vowel_discrimination",
             "minimal_pair_decoding"
@@ -493,9 +499,9 @@
           "exerciseId": "ex_pre_a1_02_02_03",
           "sequenceInLesson": 3,
           "exerciseTitle": "Phonetic Categorization: Sorting Spoken Roots by Vowel Backness",
-          "modality": "AUDITORY_DISCRIMINATION",
+          "modality": "LISTENING_COMPREHENSION",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "vowel_resonance_auditory_classification"
           ],
@@ -554,7 +560,7 @@
           "exerciseId": "ex_pre_a1_02_02_04",
           "sequenceInLesson": 4,
           "exerciseTitle": "Minimal Pair Dictation: Өдөр vs Үнэн",
-          "modality": "AUDITORY_DISCRIMINATION",
+          "modality": "LISTENING_COMPREHENSION",
           "interactionPattern": "AUDIO_DICTATION",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -588,7 +594,10 @@
             "speechRate": 0.85
           },
           "evaluation": {
-            "matchType": "CASE_INSENSITIVE"
+            "matchType": "NORMALIZED_TEXT",
+            "caseSensitive": false,
+            "stripPunctuation": true,
+            "normalizeWhitespace": true
           },
           "lessonId": "les_pre_a1_02_02_auditory_discrimination_minimal_pairs",
           "unitId": "unit_pre_a1_02_mongolian_distinct_letters",
@@ -598,7 +607,7 @@
           "exerciseId": "ex_pre_a1_02_02_05",
           "sequenceInLesson": 5,
           "exerciseTitle": "Auditory Identification: Detecting the Odd Vowel Out",
-          "modality": "AUDITORY_DISCRIMINATION",
+          "modality": "LISTENING_COMPREHENSION",
           "interactionPattern": "MULTIPLE_CHOICE",
           "cognitiveComplexity": "ANALYZE_SYNTAX",
           "skillTargets": [
@@ -687,9 +696,9 @@
           "exerciseId": "ex_pre_a1_03_03_01",
           "sequenceInLesson": 1,
           "exerciseTitle": "Categorizing Core Roots: Masculine vs Feminine",
-          "modality": "VOWEL_HARMONY_CLASSIFICATION",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "vowel_harmony_classification",
             "root_analysis"
@@ -752,9 +761,9 @@
           "exerciseId": "ex_pre_a1_03_03_02",
           "sequenceInLesson": 2,
           "exerciseTitle": "Identifying Feminine (Эм) Root Words",
-          "modality": "VOWEL_HARMONY_CLASSIFICATION",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "MULTI_SELECT",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "harmonic_set_identification"
           ],
@@ -830,7 +839,7 @@
           "exerciseId": "ex_pre_a1_03_03_03",
           "sequenceInLesson": 3,
           "exerciseTitle": "Detecting Harmonic Violations in Nonce Words",
-          "modality": "VOWEL_HARMONY_CLASSIFICATION",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "MULTIPLE_CHOICE",
           "cognitiveComplexity": "ANALYZE_SYNTAX",
           "skillTargets": [
@@ -908,7 +917,7 @@
           "exerciseId": "ex_pre_a1_03_03_04",
           "sequenceInLesson": 4,
           "exerciseTitle": "Sorting Monosyllables by Gender Resonance",
-          "modality": "VOWEL_HARMONY_CLASSIFICATION",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "TOKEN_REARRANGEMENT",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -969,9 +978,9 @@
           "exerciseId": "ex_pre_a1_03_03_05",
           "sequenceInLesson": 5,
           "exerciseTitle": "Auditory Identification of Root Gender Harmony",
-          "modality": "VOWEL_HARMONY_CLASSIFICATION",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "AUDIO_COMPREHENSION",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "auditory_harmony_classification"
           ],
@@ -1043,7 +1052,7 @@
           "exerciseId": "ex_a1_16_01_01",
           "sequenceInLesson": 1,
           "exerciseTitle": "Assembling Canonical SOV Word Order",
-          "modality": "SYNTAX_WORD_ORDERING",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "TOKEN_REARRANGEMENT",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -1101,9 +1110,9 @@
           "exerciseId": "ex_a1_16_01_02",
           "sequenceInLesson": 2,
           "exerciseTitle": "Locating the Finite Predicate Slot",
-          "modality": "SYNTAX_WORD_ORDERING",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "predicate_identification",
             "clause_architecture"
@@ -1179,7 +1188,7 @@
           "exerciseId": "ex_a1_16_01_03",
           "sequenceInLesson": 3,
           "exerciseTitle": "Head-Final Modifier Placement (Adjective + Noun)",
-          "modality": "SYNTAX_WORD_ORDERING",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "MULTIPLE_CHOICE",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -1256,7 +1265,7 @@
           "exerciseId": "ex_a1_16_01_04",
           "sequenceInLesson": 4,
           "exerciseTitle": "Assembling Complex Clause with Temporal & Locative Arguments",
-          "modality": "SYNTAX_WORD_ORDERING",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "TOKEN_REARRANGEMENT",
           "cognitiveComplexity": "ANALYZE_SYNTAX",
           "skillTargets": [
@@ -1316,7 +1325,7 @@
           "exerciseId": "ex_a1_16_01_05",
           "sequenceInLesson": 5,
           "exerciseTitle": "Syntax Error Spotting: SVO Transfer Interference",
-          "modality": "SYNTAX_WORD_ORDERING",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "MULTIPLE_CHOICE",
           "cognitiveComplexity": "ANALYZE_SYNTAX",
           "skillTargets": [
@@ -1399,9 +1408,9 @@
           "exerciseId": "ex_a1_16_02_01",
           "sequenceInLesson": 1,
           "exerciseTitle": "Diurnal Greeting Matching: Time of Day to Salutation",
-          "modality": "SALUTATION_REGISTER_MATCH",
+          "modality": "DIALOGUE_INTERACTION",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "REMEMBER_RECOGNIZE",
+          "cognitiveComplexity": "IDENTIFY_RECOGNIZE",
           "skillTargets": [
             "temporal_greeting_selection",
             "social_etiquette"
@@ -1475,9 +1484,9 @@
           "exerciseId": "ex_a1_16_02_02",
           "sequenceInLesson": 2,
           "exerciseTitle": "Formal Reciprocal Greeting Response",
-          "modality": "SALUTATION_REGISTER_MATCH",
+          "modality": "DIALOGUE_INTERACTION",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "reciprocal_greeting_response",
             "polite_register_control"
@@ -1543,7 +1552,7 @@
           "exerciseId": "ex_a1_16_02_03",
           "sequenceInLesson": 3,
           "exerciseTitle": "Cloze Insertion: Evening Salutation",
-          "modality": "SALUTATION_REGISTER_MATCH",
+          "modality": "DIALOGUE_INTERACTION",
           "interactionPattern": "CLOZE_TEXT",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -1578,7 +1587,10 @@
             "speechRate": 0.85
           },
           "evaluation": {
-            "matchType": "CASE_INSENSITIVE"
+            "matchType": "NORMALIZED_TEXT",
+            "caseSensitive": false,
+            "stripPunctuation": true,
+            "normalizeWhitespace": true
           },
           "lessonId": "les_a1_16_02_formal_time_greetings_mori",
           "unitId": "unit_a1_16_standard_salutations_time_of_day_gr",
@@ -1588,9 +1600,9 @@
           "exerciseId": "ex_a1_16_02_04",
           "sequenceInLesson": 4,
           "exerciseTitle": "Acoustic Salutation Decoding in Public Broadcast",
-          "modality": "SALUTATION_REGISTER_MATCH",
+          "modality": "DIALOGUE_INTERACTION",
           "interactionPattern": "AUDIO_COMPREHENSION",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "broadcast_greeting_comprehension",
             "time_inference"
@@ -1657,9 +1669,9 @@
           "exerciseId": "ex_a1_16_02_05",
           "sequenceInLesson": 5,
           "exerciseTitle": "Register Appropriateness: Casual vs Formal Greetings",
-          "modality": "SALUTATION_REGISTER_MATCH",
+          "modality": "DIALOGUE_INTERACTION",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "sociolinguistic_register_selection"
           ],
@@ -1734,7 +1746,7 @@
           "exerciseId": "ex_a1_16_05_01",
           "sequenceInLesson": 1,
           "exerciseTitle": "Reception Roleplay: Turn 1 Welcoming Inquiry",
-          "modality": "DIALOGUE_ROLEPLAY_COMPLETION",
+          "modality": "DIALOGUE_INTERACTION",
           "interactionPattern": "MULTIPLE_CHOICE",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -1803,9 +1815,9 @@
           "exerciseId": "ex_a1_16_05_02",
           "sequenceInLesson": 2,
           "exerciseTitle": "Interpreting Polite Directives: 'Түр хүлээнэ үү'",
-          "modality": "DIALOGUE_ROLEPLAY_COMPLETION",
+          "modality": "DIALOGUE_INTERACTION",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "polite_imperative_comprehension",
             "reception_instructions"
@@ -1872,7 +1884,7 @@
           "exerciseId": "ex_a1_16_05_03",
           "sequenceInLesson": 3,
           "exerciseTitle": "Stating Identity and Company Affiliation",
-          "modality": "DIALOGUE_ROLEPLAY_COMPLETION",
+          "modality": "DIALOGUE_INTERACTION",
           "interactionPattern": "TOKEN_REARRANGEMENT",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -1931,7 +1943,7 @@
           "exerciseId": "ex_a1_16_05_04",
           "sequenceInLesson": 4,
           "exerciseTitle": "Acoustic Dialogue Extraction: Visitor Log Data",
-          "modality": "DIALOGUE_ROLEPLAY_COMPLETION",
+          "modality": "DIALOGUE_INTERACTION",
           "interactionPattern": "AUDIO_COMPREHENSION",
           "cognitiveComplexity": "ANALYZE_SYNTAX",
           "skillTargets": [
@@ -1999,9 +2011,9 @@
           "exerciseId": "ex_a1_16_05_05",
           "sequenceInLesson": 5,
           "exerciseTitle": "Visitor Badge & Access Protocol Response",
-          "modality": "DIALOGUE_ROLEPLAY_COMPLETION",
+          "modality": "DIALOGUE_INTERACTION",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "civic_transaction_protocol",
             "polite_acknowledgment"
@@ -2080,7 +2092,7 @@
           "exerciseId": "ex_a2_64_01_01",
           "sequenceInLesson": 1,
           "exerciseTitle": "Instrumental Case Suffix Selection for Transport",
-          "modality": "CASE_SUFFIX_APPLICATION",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "SUFFIX_ATTACHMENT",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -2124,7 +2136,10 @@
             "speechRate": 0.85
           },
           "evaluation": {
-            "matchType": "CASE_INSENSITIVE"
+            "matchType": "NORMALIZED_TEXT",
+            "caseSensitive": false,
+            "stripPunctuation": true,
+            "normalizeWhitespace": true
           },
           "lessonId": "les_a2_64_01_instrumental_transport_allomorphs",
           "unitId": "unit_a2_64_navigating_ulaanbaatar_bus_routes_d",
@@ -2134,7 +2149,7 @@
           "exerciseId": "ex_a2_64_01_02",
           "sequenceInLesson": 2,
           "exerciseTitle": "Rounded Vowel Harmony in Instrumental: 'Онгоц'",
-          "modality": "CASE_SUFFIX_APPLICATION",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "MULTIPLE_CHOICE",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -2209,9 +2224,9 @@
           "exerciseId": "ex_a2_64_01_03",
           "sequenceInLesson": 3,
           "exerciseTitle": "Foot Transit vs Instrumental Vehicle Contrast",
-          "modality": "CASE_SUFFIX_APPLICATION",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "locomotion_lexical_idiom",
             "case_selection"
@@ -2278,7 +2293,7 @@
           "exerciseId": "ex_a2_64_01_04",
           "sequenceInLesson": 4,
           "exerciseTitle": "Token Assembly: Daily Commute Description",
-          "modality": "CASE_SUFFIX_APPLICATION",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "TOKEN_REARRANGEMENT",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -2339,7 +2354,7 @@
           "exerciseId": "ex_a2_64_01_05",
           "sequenceInLesson": 5,
           "exerciseTitle": "Acoustic Transit Suffix Dictation",
-          "modality": "CASE_SUFFIX_APPLICATION",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "AUDIO_DICTATION",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -2375,7 +2390,10 @@
             "speechRate": 0.85
           },
           "evaluation": {
-            "matchType": "CASE_INSENSITIVE"
+            "matchType": "NORMALIZED_TEXT",
+            "caseSensitive": false,
+            "stripPunctuation": true,
+            "normalizeWhitespace": true
           },
           "lessonId": "les_a2_64_01_instrumental_transport_allomorphs",
           "unitId": "unit_a2_64_navigating_ulaanbaatar_bus_routes_d",
@@ -2397,9 +2415,9 @@
           "exerciseId": "ex_a2_64_04_01",
           "sequenceInLesson": 1,
           "exerciseTitle": "Extracting Operating Hours from Bus Stop Schedule",
-          "modality": "TRANSIT_SCHEDULE_READING",
+          "modality": "READING_COMPREHENSION",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "timetable_decoding",
             "temporal_information_extraction"
@@ -2466,9 +2484,9 @@
           "exerciseId": "ex_a2_64_04_02",
           "sequenceInLesson": 2,
           "exerciseTitle": "Interpreting Bus Stop Headway & Wait Times",
-          "modality": "TRANSIT_SCHEDULE_READING",
+          "modality": "READING_COMPREHENSION",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "headway_comprehension",
             "transit_intervals"
@@ -2534,9 +2552,9 @@
           "exerciseId": "ex_a2_64_04_03",
           "sequenceInLesson": 3,
           "exerciseTitle": "U-Money Electronic Card Notice Deciphering",
-          "modality": "TRANSIT_SCHEDULE_READING",
+          "modality": "READING_COMPREHENSION",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "civic_signage_comprehension",
             "imperative_notice_reading"
@@ -2603,9 +2621,9 @@
           "exerciseId": "ex_a2_64_04_04",
           "sequenceInLesson": 4,
           "exerciseTitle": "Route Orientation: Eastbound vs Westbound Directions",
-          "modality": "TRANSIT_SCHEDULE_READING",
+          "modality": "READING_COMPREHENSION",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "directional_terminology",
             "route_map_navigation"
@@ -2670,7 +2688,7 @@
           "exerciseId": "ex_a2_64_04_05",
           "sequenceInLesson": 5,
           "exerciseTitle": "Transit Disruption Notice Reading Comprehension",
-          "modality": "TRANSIT_SCHEDULE_READING",
+          "modality": "READING_COMPREHENSION",
           "interactionPattern": "MULTIPLE_CHOICE",
           "cognitiveComplexity": "ANALYZE_SYNTAX",
           "skillTargets": [
@@ -2751,9 +2769,9 @@
           "exerciseId": "ex_a2_65_03_01",
           "sequenceInLesson": 1,
           "exerciseTitle": "Acoustic Dissection: Micro-Turn Commands in Cab",
-          "modality": "ACOUSTIC_MICRO_DIRECTION",
+          "modality": "ORTHOGRAPHY_PHONOLOGY",
           "interactionPattern": "AUDIO_COMPREHENSION",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "in_cab_listening_comprehension",
             "spatial_turn_directives"
@@ -2821,9 +2839,9 @@
           "exerciseId": "ex_a2_65_03_02",
           "sequenceInLesson": 2,
           "exerciseTitle": "Stop Command Relative to Traffic Light Threshold",
-          "modality": "ACOUSTIC_MICRO_DIRECTION",
+          "modality": "ORTHOGRAPHY_PHONOLOGY",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "threshold_postposition_comprehension",
             "stopping_instructions"
@@ -2890,7 +2908,7 @@
           "exerciseId": "ex_a2_65_03_03",
           "sequenceInLesson": 3,
           "exerciseTitle": "Token Assembly: Straight Ahead Micro-Direction",
-          "modality": "ACOUSTIC_MICRO_DIRECTION",
+          "modality": "ORTHOGRAPHY_PHONOLOGY",
           "interactionPattern": "TOKEN_REARRANGEMENT",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -2948,9 +2966,9 @@
           "exerciseId": "ex_a2_65_03_04",
           "sequenceInLesson": 4,
           "exerciseTitle": "Fare Negotiation Under Ambient Street Noise",
-          "modality": "ACOUSTIC_MICRO_DIRECTION",
+          "modality": "ORTHOGRAPHY_PHONOLOGY",
           "interactionPattern": "AUDIO_COMPREHENSION",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "street_hail_listening",
             "numeral_fare_comprehension"
@@ -3019,7 +3037,7 @@
           "exerciseId": "ex_a2_65_03_05",
           "sequenceInLesson": 5,
           "exerciseTitle": "Cloze Insertion: Landmark-Relative Stop Instruction",
-          "modality": "ACOUSTIC_MICRO_DIRECTION",
+          "modality": "ORTHOGRAPHY_PHONOLOGY",
           "interactionPattern": "CLOZE_TEXT",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -3054,7 +3072,10 @@
             "speechRate": 0.85
           },
           "evaluation": {
-            "matchType": "CASE_INSENSITIVE"
+            "matchType": "NORMALIZED_TEXT",
+            "caseSensitive": false,
+            "stripPunctuation": true,
+            "normalizeWhitespace": true
           },
           "lessonId": "les_a2_65_03_in_cab_navigation_dialogue",
           "unitId": "unit_a2_65_hailing_street_taxis_giving_micro_d",
@@ -3076,7 +3097,7 @@
           "exerciseId": "ex_b1_112_01_01",
           "sequenceInLesson": 1,
           "exerciseTitle": "Deriving Abstract Noun from Verb Stem: -лга⁴",
-          "modality": "NOMINALIZER_DERIVATION",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "SUFFIX_ATTACHMENT",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -3120,7 +3141,10 @@
             "speechRate": 0.85
           },
           "evaluation": {
-            "matchType": "CASE_INSENSITIVE"
+            "matchType": "NORMALIZED_TEXT",
+            "caseSensitive": false,
+            "stripPunctuation": true,
+            "normalizeWhitespace": true
           },
           "lessonId": "les_b1_112_01_abstract_noun_derivation_intro",
           "unitId": "unit_b1_112_job_searching_cv_preparation_qualif",
@@ -3130,7 +3154,7 @@
           "exerciseId": "ex_b1_112_01_02",
           "sequenceInLesson": 2,
           "exerciseTitle": "Nominalizer -дал⁴ Application to Intransitive Stems",
-          "modality": "NOMINALIZER_DERIVATION",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "MULTIPLE_CHOICE",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -3199,7 +3223,7 @@
           "exerciseId": "ex_b1_112_01_03",
           "sequenceInLesson": 3,
           "exerciseTitle": "Syntactic Substitution: Converting Verb Clauses to Nominal Heads",
-          "modality": "NOMINALIZER_DERIVATION",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "MULTIPLE_CHOICE",
           "cognitiveComplexity": "ANALYZE_SYNTAX",
           "skillTargets": [
@@ -3268,9 +3292,9 @@
           "exerciseId": "ex_b1_112_01_04",
           "sequenceInLesson": 4,
           "exerciseTitle": "Semantic Discrimination: Action Verb vs Abstract Derivative",
-          "modality": "NOMINALIZER_DERIVATION",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "verb_noun_semantic_contrast",
             "contextual_insertion"
@@ -3338,7 +3362,7 @@
           "exerciseId": "ex_b1_112_01_05",
           "sequenceInLesson": 5,
           "exerciseTitle": "Token Assembly: Workplace Policy Statement with Multiple Derived Nominals",
-          "modality": "NOMINALIZER_DERIVATION",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "TOKEN_REARRANGEMENT",
           "cognitiveComplexity": "ANALYZE_SYNTAX",
           "skillTargets": [
@@ -3412,9 +3436,9 @@
           "exerciseId": "ex_b1_112_03_01",
           "sequenceInLesson": 1,
           "exerciseTitle": "Distinguishing 'Мэргэжил' (Profession) vs 'Мэргэшил' (Specialization)",
-          "modality": "COMPETENCY_LEXICON_SELECTION",
+          "modality": "VOCABULARY_ACQUISITION",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "lexical_precision",
             "hr_terminology_differentiation"
@@ -3478,7 +3502,7 @@
           "exerciseId": "ex_b1_112_03_02",
           "sequenceInLesson": 2,
           "exerciseTitle": "HR Collocation Pairing: Verbs to Competency Nouns",
-          "modality": "COMPETENCY_LEXICON_SELECTION",
+          "modality": "VOCABULARY_ACQUISITION",
           "interactionPattern": "MULTIPLE_CHOICE",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -3546,9 +3570,9 @@
           "exerciseId": "ex_b1_112_03_03",
           "sequenceInLesson": 3,
           "exerciseTitle": "Deciphering Job Vacancy Minimum Criteria",
-          "modality": "COMPETENCY_LEXICON_SELECTION",
+          "modality": "VOCABULARY_ACQUISITION",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "job_posting_analysis",
             "qualification_audit"
@@ -3616,9 +3640,9 @@
           "exerciseId": "ex_b1_112_03_04",
           "sequenceInLesson": 4,
           "exerciseTitle": "High-Register Teamwork Descriptor Selection",
-          "modality": "COMPETENCY_LEXICON_SELECTION",
+          "modality": "VOCABULARY_ACQUISITION",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "register_elevation",
             "soft_skills_lexicon"
@@ -3682,7 +3706,7 @@
           "exerciseId": "ex_b1_112_03_05",
           "sequenceInLesson": 5,
           "exerciseTitle": "Cloze Insertion: Professional Analytical Capability",
-          "modality": "COMPETENCY_LEXICON_SELECTION",
+          "modality": "VOCABULARY_ACQUISITION",
           "interactionPattern": "CLOZE_TEXT",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -3717,7 +3741,10 @@
             "speechRate": 0.85
           },
           "evaluation": {
-            "matchType": "CASE_INSENSITIVE"
+            "matchType": "NORMALIZED_TEXT",
+            "caseSensitive": false,
+            "stripPunctuation": true,
+            "normalizeWhitespace": true
           },
           "lessonId": "les_b1_112_03_competency_lexicon_qualifications",
           "unitId": "unit_b1_112_job_searching_cv_preparation_qualif",
@@ -3739,9 +3766,9 @@
           "exerciseId": "ex_b1_112_04_01",
           "sequenceInLesson": 1,
           "exerciseTitle": "Sequencing Standard Mongolian CV Sections",
-          "modality": "PROFESSIONAL_CV_WRITING",
+          "modality": "WRITING_PRODUCTION",
           "interactionPattern": "TOKEN_REARRANGEMENT",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "resume_macrostructure",
             "document_formatting"
@@ -3796,7 +3823,7 @@
           "exerciseId": "ex_b1_112_04_02",
           "sequenceInLesson": 2,
           "exerciseTitle": "Register Elevation in Action Bullet Points",
-          "modality": "PROFESSIONAL_CV_WRITING",
+          "modality": "WRITING_PRODUCTION",
           "interactionPattern": "MULTIPLE_CHOICE",
           "cognitiveComplexity": "ANALYZE_SYNTAX",
           "skillTargets": [
@@ -3862,9 +3889,9 @@
           "exerciseId": "ex_b1_112_04_03",
           "sequenceInLesson": 3,
           "exerciseTitle": "Composing Career Objective Statement (Зорилго)",
-          "modality": "PROFESSIONAL_CV_WRITING",
+          "modality": "WRITING_PRODUCTION",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "CREATE_RHETORIC",
+          "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
           "skillTargets": [
             "career_objective_composition",
             "rhetorical_framing"
@@ -3928,7 +3955,7 @@
           "exerciseId": "ex_b1_112_04_04",
           "sequenceInLesson": 4,
           "exerciseTitle": "Cloze Completion: Educational Degree Qualification Phrase",
-          "modality": "PROFESSIONAL_CV_WRITING",
+          "modality": "WRITING_PRODUCTION",
           "interactionPattern": "CLOZE_TEXT",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -3965,7 +3992,10 @@
             "speechRate": 0.85
           },
           "evaluation": {
-            "matchType": "CASE_INSENSITIVE"
+            "matchType": "NORMALIZED_TEXT",
+            "caseSensitive": false,
+            "stripPunctuation": true,
+            "normalizeWhitespace": true
           },
           "lessonId": "les_b1_112_04_authoring_professional_cv_writing",
           "unitId": "unit_b1_112_job_searching_cv_preparation_qualif",
@@ -3975,9 +4005,9 @@
           "exerciseId": "ex_b1_112_04_05",
           "sequenceInLesson": 5,
           "exerciseTitle": "CV Section Rubric Evaluation",
-          "modality": "PROFESSIONAL_CV_WRITING",
+          "modality": "WRITING_PRODUCTION",
           "interactionPattern": "OPEN_RESPONSE_RUBRIC",
-          "cognitiveComplexity": "CREATE_RHETORIC",
+          "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
           "skillTargets": [
             "cv_self_evaluation",
             "holistic_rubric_grading"
@@ -4053,7 +4083,7 @@
           "exerciseId": "ex_b2_156_01_01",
           "sequenceInLesson": 1,
           "exerciseTitle": "Acoustic Dissection: Identifying Interpellation Thrust",
-          "modality": "PARLIAMENTARY_ACOUSTIC_DISSECTION",
+          "modality": "LISTENING_COMPREHENSION",
           "interactionPattern": "AUDIO_COMPREHENSION",
           "cognitiveComplexity": "ANALYZE_SYNTAX",
           "skillTargets": [
@@ -4123,9 +4153,9 @@
           "exerciseId": "ex_b2_156_01_02",
           "sequenceInLesson": 2,
           "exerciseTitle": "Diplomatic Courtesy vs Underlying Acoustic Tension",
-          "modality": "PARLIAMENTARY_ACOUSTIC_DISSECTION",
+          "modality": "LISTENING_COMPREHENSION",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "EVALUATE_DISCOURSE",
+          "cognitiveComplexity": "EVALUATE_PRAGMATICS",
           "skillTargets": [
             "diplomatic_irony_detection",
             "subtext_comprehension"
@@ -4193,7 +4223,7 @@
           "exerciseId": "ex_b2_156_01_03",
           "sequenceInLesson": 3,
           "exerciseTitle": "Rhetorical Discourse Markers in High-Speed Legislative Debate",
-          "modality": "PARLIAMENTARY_ACOUSTIC_DISSECTION",
+          "modality": "LISTENING_COMPREHENSION",
           "interactionPattern": "MULTIPLE_CHOICE",
           "cognitiveComplexity": "ANALYZE_SYNTAX",
           "skillTargets": [
@@ -4262,7 +4292,7 @@
           "exerciseId": "ex_b2_156_01_04",
           "sequenceInLesson": 4,
           "exerciseTitle": "Token Assembly: Standing Committee Legislative Motion",
-          "modality": "PARLIAMENTARY_ACOUSTIC_DISSECTION",
+          "modality": "LISTENING_COMPREHENSION",
           "interactionPattern": "TOKEN_REARRANGEMENT",
           "cognitiveComplexity": "ANALYZE_SYNTAX",
           "skillTargets": [
@@ -4325,7 +4355,7 @@
           "exerciseId": "ex_b2_156_01_05",
           "sequenceInLesson": 5,
           "exerciseTitle": "Cloze Insertion: Demanding Sanctions and Accountability",
-          "modality": "PARLIAMENTARY_ACOUSTIC_DISSECTION",
+          "modality": "LISTENING_COMPREHENSION",
           "interactionPattern": "CLOZE_TEXT",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -4359,7 +4389,10 @@
             "speechRate": 0.85
           },
           "evaluation": {
-            "matchType": "CASE_INSENSITIVE"
+            "matchType": "NORMALIZED_TEXT",
+            "caseSensitive": false,
+            "stripPunctuation": true,
+            "normalizeWhitespace": true
           },
           "lessonId": "les_b2_156_01_parliamentary_interpellation_listening",
           "unitId": "unit_b2_156_democratic_governance_parliamentary",
@@ -4381,9 +4414,9 @@
           "exerciseId": "ex_b2_156_02_01",
           "sequenceInLesson": 1,
           "exerciseTitle": "Functional Contrast: Thematic 'Бол' vs Adversative 'Харин'",
-          "modality": "TOPIC_CONTRASTIVE_DISCOURSE",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "information_structure_analysis",
             "topic_marker_distinction"
@@ -4450,7 +4483,7 @@
           "exerciseId": "ex_b2_156_02_02",
           "sequenceInLesson": 2,
           "exerciseTitle": "Syntax Insertion: Balancing Economic Policy Antithesis",
-          "modality": "TOPIC_CONTRASTIVE_DISCOURSE",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "MULTIPLE_CHOICE",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -4519,7 +4552,7 @@
           "exerciseId": "ex_b2_156_02_03",
           "sequenceInLesson": 3,
           "exerciseTitle": "Token Assembly: Restructuring Complex Contrastive Clause",
-          "modality": "TOPIC_CONTRASTIVE_DISCOURSE",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "TOKEN_REARRANGEMENT",
           "cognitiveComplexity": "ANALYZE_SYNTAX",
           "skillTargets": [
@@ -4590,7 +4623,7 @@
           "exerciseId": "ex_b2_156_02_04",
           "sequenceInLesson": 4,
           "exerciseTitle": "Discourse Editing: Correcting Inverted Topic Particles",
-          "modality": "TOPIC_CONTRASTIVE_DISCOURSE",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "MULTIPLE_CHOICE",
           "cognitiveComplexity": "ANALYZE_SYNTAX",
           "skillTargets": [
@@ -4658,9 +4691,9 @@
           "exerciseId": "ex_b2_156_02_05",
           "sequenceInLesson": 5,
           "exerciseTitle": "Cloze Nuance: Restricting Conditional vs Topic 'Бол'",
-          "modality": "TOPIC_CONTRASTIVE_DISCOURSE",
+          "modality": "GRAMMAR_PRACTICE",
           "interactionPattern": "CLOZE_TEXT",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "functional_ambiguity_resolution",
             "cloze_insertion"
@@ -4695,7 +4728,10 @@
             "speechRate": 0.85
           },
           "evaluation": {
-            "matchType": "CASE_INSENSITIVE"
+            "matchType": "NORMALIZED_TEXT",
+            "caseSensitive": false,
+            "stripPunctuation": true,
+            "normalizeWhitespace": true
           },
           "lessonId": "les_b2_156_02_topic_vs_contrastive_topic_syntax",
           "unitId": "unit_b2_156_democratic_governance_parliamentary",
@@ -4717,9 +4753,9 @@
           "exerciseId": "ex_b2_166_06_01",
           "sequenceInLesson": 1,
           "exerciseTitle": "Multi-Source Policy Synthesis: Smog Abatement Dossier",
-          "modality": "MUNICIPAL_POLICY_CAPSTONE",
+          "modality": "SYNTHESIS_CAPSTONE",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "EVALUATE_DISCOURSE",
+          "cognitiveComplexity": "EVALUATE_PRAGMATICS",
           "skillTargets": [
             "policy_synthesis",
             "cross_document_evaluation"
@@ -4786,9 +4822,9 @@
           "exerciseId": "ex_b2_166_06_02",
           "sequenceInLesson": 2,
           "exerciseTitle": "Argumentative Counter-Framing in Urban Transit Policy",
-          "modality": "MUNICIPAL_POLICY_CAPSTONE",
+          "modality": "SYNTHESIS_CAPSTONE",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "CREATE_RHETORIC",
+          "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
           "skillTargets": [
             "counterargument_formulation",
             "policy_critique"
@@ -4853,7 +4889,7 @@
           "exerciseId": "ex_b2_166_06_03",
           "sequenceInLesson": 3,
           "exerciseTitle": "Token Assembly: Urban Decentralization Policy Motto",
-          "modality": "MUNICIPAL_POLICY_CAPSTONE",
+          "modality": "SYNTHESIS_CAPSTONE",
           "interactionPattern": "TOKEN_REARRANGEMENT",
           "cognitiveComplexity": "ANALYZE_SYNTAX",
           "skillTargets": [
@@ -4922,7 +4958,7 @@
           "exerciseId": "ex_b2_166_06_04",
           "sequenceInLesson": 4,
           "exerciseTitle": "Cloze Insertion: Public Green Space Mandate",
-          "modality": "MUNICIPAL_POLICY_CAPSTONE",
+          "modality": "SYNTHESIS_CAPSTONE",
           "interactionPattern": "CLOZE_TEXT",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -4957,7 +4993,10 @@
             "speechRate": 0.85
           },
           "evaluation": {
-            "matchType": "CASE_INSENSITIVE"
+            "matchType": "NORMALIZED_TEXT",
+            "caseSensitive": false,
+            "stripPunctuation": true,
+            "normalizeWhitespace": true
           },
           "lessonId": "les_b2_166_06_b2_sec01_culminating_mastery_capstone",
           "unitId": "unit_b2_166_public_policy_capstone_municipal_ur",
@@ -4967,9 +5006,9 @@
           "exerciseId": "ex_b2_166_06_05",
           "sequenceInLesson": 5,
           "exerciseTitle": "Capstone Holistic Policy Briefing Rubric",
-          "modality": "MUNICIPAL_POLICY_CAPSTONE",
+          "modality": "SYNTHESIS_CAPSTONE",
           "interactionPattern": "OPEN_RESPONSE_RUBRIC",
-          "cognitiveComplexity": "CREATE_RHETORIC",
+          "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
           "skillTargets": [
             "capstone_policy_defense",
             "evidence_qualification"
@@ -5045,7 +5084,7 @@
           "exerciseId": "ex_c1_198_01_01",
           "sequenceInLesson": 1,
           "exerciseTitle": "Deconstructing Multi-Tiered Chancellery Participial Embedding",
-          "modality": "CHANCELLERY_SYNTACTIC_PARSING",
+          "modality": "CONSTITUTIONAL_STATUTORY_READING",
           "interactionPattern": "MULTIPLE_CHOICE",
           "cognitiveComplexity": "ANALYZE_SYNTAX",
           "skillTargets": [
@@ -5116,9 +5155,9 @@
           "exerciseId": "ex_c1_198_01_02",
           "sequenceInLesson": 2,
           "exerciseTitle": "Interpreting Archaic Precative Enactment: 'ТОГТООСУГАЙ'",
-          "modality": "CHANCELLERY_SYNTACTIC_PARSING",
+          "modality": "CONSTITUTIONAL_STATUTORY_READING",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "archaic_chancellery_morphology",
             "legal_performatives"
@@ -5186,7 +5225,7 @@
           "exerciseId": "ex_c1_198_01_03",
           "sequenceInLesson": 3,
           "exerciseTitle": "Token Assembly: Canonical Decree Article Architecture",
-          "modality": "CHANCELLERY_SYNTACTIC_PARSING",
+          "modality": "CONSTITUTIONAL_STATUTORY_READING",
           "interactionPattern": "TOKEN_REARRANGEMENT",
           "cognitiveComplexity": "ANALYZE_SYNTAX",
           "skillTargets": [
@@ -5257,7 +5296,7 @@
           "exerciseId": "ex_c1_198_01_04",
           "sequenceInLesson": 4,
           "exerciseTitle": "Cloze Insertion: Chancellery Impersonal Agency Particle",
-          "modality": "CHANCELLERY_SYNTACTIC_PARSING",
+          "modality": "CONSTITUTIONAL_STATUTORY_READING",
           "interactionPattern": "CLOZE_TEXT",
           "cognitiveComplexity": "APPLY_MORPHOLOGY",
           "skillTargets": [
@@ -5295,7 +5334,10 @@
             "speechRate": 0.85
           },
           "evaluation": {
-            "matchType": "CASE_INSENSITIVE"
+            "matchType": "NORMALIZED_TEXT",
+            "caseSensitive": false,
+            "stripPunctuation": true,
+            "normalizeWhitespace": true
           },
           "lessonId": "les_c1_198_01_administrative_chancellery_syntax_intro",
           "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
@@ -5305,9 +5347,9 @@
           "exerciseId": "ex_c1_198_01_05",
           "sequenceInLesson": 5,
           "exerciseTitle": "Ambiguity Resolution in Administrative Compound Modifiers",
-          "modality": "CHANCELLERY_SYNTACTIC_PARSING",
+          "modality": "CONSTITUTIONAL_STATUTORY_READING",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "EVALUATE_DISCOURSE",
+          "cognitiveComplexity": "EVALUATE_PRAGMATICS",
           "skillTargets": [
             "statutory_ambiguity_resolution",
             "legal_interpretation"
@@ -5458,7 +5500,7 @@
           "exerciseTitle": "Distinguishing Legal Terms of Art: Due Process & Inviolability",
           "modality": "CONSTITUTIONAL_STATUTORY_READING",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "jurisprudential_lexicon",
             "term_differentiation"
@@ -5628,7 +5670,10 @@
             "speechRate": 0.85
           },
           "evaluation": {
-            "matchType": "CASE_INSENSITIVE"
+            "matchType": "NORMALIZED_TEXT",
+            "caseSensitive": false,
+            "stripPunctuation": true,
+            "normalizeWhitespace": true
           },
           "lessonId": "les_c1_198_02_constitutional_articles_parsing_reading",
           "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
@@ -5640,7 +5685,7 @@
           "exerciseTitle": "Constitutional Court (Цэц) Petition Interpretation",
           "modality": "CONSTITUTIONAL_STATUTORY_READING",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "EVALUATE_DISCOURSE",
+          "cognitiveComplexity": "EVALUATE_PRAGMATICS",
           "skillTargets": [
             "constitutional_court_discourse",
             "jurisprudential_conflict"
@@ -5777,7 +5822,7 @@
           "exerciseTitle": "High-Register Concessive and Conditional Legal Qualifications",
           "modality": "JURISPRUDENTIAL_LEGAL_COMMENTARY",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "CREATE_RHETORIC",
+          "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
           "skillTargets": [
             "legal_qualification",
             "concessive_syntax"
@@ -5844,7 +5889,7 @@
           "exerciseTitle": "Drafting an Amicus Curiae Legal Argument on Proportionality",
           "modality": "JURISPRUDENTIAL_LEGAL_COMMENTARY",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "CREATE_RHETORIC",
+          "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
           "skillTargets": [
             "proportionality_principle_writing",
             "legal_argumentation"
@@ -5946,7 +5991,10 @@
             "speechRate": 0.85
           },
           "evaluation": {
-            "matchType": "CASE_INSENSITIVE"
+            "matchType": "NORMALIZED_TEXT",
+            "caseSensitive": false,
+            "stripPunctuation": true,
+            "normalizeWhitespace": true
           },
           "lessonId": "les_c1_198_03_sovereign_rights_commentary_writing",
           "unitId": "unit_c1_198_the_1992_democratic_constitution_of",
@@ -5958,7 +6006,7 @@
           "exerciseTitle": "C1 Holistic Legal Commentary Rubric Evaluation",
           "modality": "JURISPRUDENTIAL_LEGAL_COMMENTARY",
           "interactionPattern": "OPEN_RESPONSE_RUBRIC",
-          "cognitiveComplexity": "CREATE_RHETORIC",
+          "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
           "skillTargets": [
             "legal_argument_evaluation",
             "rubric_assessment"
@@ -6109,7 +6157,7 @@
           "exerciseTitle": "Inter-Word Nasal Assimilation and Velar Sandhi",
           "modality": "KHALKHA_PHONOTACTICS_DECODING",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "nasal_assimilation_sandhi",
             "articulatory_phonology"
@@ -6250,7 +6298,7 @@
           "exerciseTitle": "Token Assembly: Rapid Spoken Retort with Emphatic Clitics",
           "modality": "KHALKHA_PHONOTACTICS_DECODING",
           "interactionPattern": "TOKEN_REARRANGEMENT",
-          "cognitiveComplexity": "CREATE_RHETORIC",
+          "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
           "skillTargets": [
             "spoken_pragmatics",
             "vernacular_word_order"
@@ -6349,7 +6397,10 @@
             "speechRate": 1.15
           },
           "evaluation": {
-            "matchType": "CASE_INSENSITIVE"
+            "matchType": "NORMALIZED_TEXT",
+            "caseSensitive": false,
+            "stripPunctuation": true,
+            "normalizeWhitespace": true
           },
           "lessonId": "les_c2_229_01_khalkha_phonotactics_syntax_intro",
           "unitId": "unit_c2_229_rapid_khalkha_spoken_phonotactics_r",
@@ -6443,7 +6494,7 @@
           "exerciseTitle": "Decoding Epistemic Particle 'Байхгүй Юу' in Spontaneous Grievance",
           "modality": "AUTHENTIC_QUARREL_ACOUSTIC_ANALYSIS",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "pragmatic_particle_nuance",
             "conversational_epistemics"
@@ -6511,7 +6562,7 @@
           "exerciseTitle": "Pinpointing Rhetorical De-escalation & Compliance Turning Point",
           "modality": "AUTHENTIC_QUARREL_ACOUSTIC_ANALYSIS",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "EVALUATE_DISCOURSE",
+          "cognitiveComplexity": "EVALUATE_PRAGMATICS",
           "skillTargets": [
             "conflict_resolution_tracking",
             "conversational_turn_taking"
@@ -6581,7 +6632,7 @@
           "exerciseTitle": "Token Assembly: Mock Deference and Sarcastic Retort",
           "modality": "AUTHENTIC_QUARREL_ACOUSTIC_ANALYSIS",
           "interactionPattern": "TOKEN_REARRANGEMENT",
-          "cognitiveComplexity": "CREATE_RHETORIC",
+          "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
           "skillTargets": [
             "sarcasm_detection",
             "ironic_deference"
@@ -6677,7 +6728,10 @@
             "speechRate": 1.1
           },
           "evaluation": {
-            "matchType": "CASE_INSENSITIVE"
+            "matchType": "NORMALIZED_TEXT",
+            "caseSensitive": false,
+            "stripPunctuation": true,
+            "normalizeWhitespace": true
           },
           "lessonId": "les_c2_229_03_rush_hour_traffic_quarrel_listening",
           "unitId": "unit_c2_229_rapid_khalkha_spoken_phonotactics_r",
@@ -6701,7 +6755,7 @@
           "exerciseTitle": "Modernist Satire Dissection: Allegory and Subtext Extraction",
           "modality": "MODERNIST_SATIRE_SYNTHESIS",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "EVALUATE_DISCOURSE",
+          "cognitiveComplexity": "EVALUATE_PRAGMATICS",
           "skillTargets": [
             "literary_subtext_extraction",
             "allegorical_satire_analysis"
@@ -6770,7 +6824,7 @@
           "exerciseTitle": "Interpreting Subverted Pastoral Metaphors in Urban Modernism",
           "modality": "MODERNIST_SATIRE_SYNTHESIS",
           "interactionPattern": "MULTIPLE_CHOICE",
-          "cognitiveComplexity": "UNDERSTAND_DISCRIMINATE",
+          "cognitiveComplexity": "DISCRIMINATE_PHONEMES",
           "skillTargets": [
             "metaphorical_subversion",
             "cultural_inference"
@@ -6839,7 +6893,7 @@
           "exerciseTitle": "Token Assembly: Classical Aphoristic Synthesis on Truth & Power",
           "modality": "MODERNIST_SATIRE_SYNTHESIS",
           "interactionPattern": "TOKEN_REARRANGEMENT",
-          "cognitiveComplexity": "CREATE_RHETORIC",
+          "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
           "skillTargets": [
             "gnomic_wisdom_synthesis",
             "parallel_clause_crafting"
@@ -6941,7 +6995,10 @@
             "speechRate": 0.85
           },
           "evaluation": {
-            "matchType": "CASE_INSENSITIVE"
+            "matchType": "NORMALIZED_TEXT",
+            "caseSensitive": false,
+            "stripPunctuation": true,
+            "normalizeWhitespace": true
           },
           "lessonId": "les_c2_237_06_c2_sec01_culminating_operational_synthesis",
           "unitId": "unit_c2_237_contemporary_literature_capstone_sa",
@@ -6953,7 +7010,7 @@
           "exerciseTitle": "C2 Culminating Literary Critique Defense Rubric",
           "modality": "MODERNIST_SATIRE_SYNTHESIS",
           "interactionPattern": "OPEN_RESPONSE_RUBRIC",
-          "cognitiveComplexity": "CREATE_RHETORIC",
+          "cognitiveComplexity": "SYNTHESIZE_CRITIQUE",
           "skillTargets": [
             "c2_literary_defense",
             "holistic_stylistic_evaluation"

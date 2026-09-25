@@ -1,0 +1,1458 @@
+{
+  "sectionId": "sec_a1_03_daily_routines_motion_temporality",
+  "sectionNumber": 5,
+  "title": "Daily Routines, Movement & Temporal Sequencing",
+  "cyrillicTitle": "Өдөр тутмын хэв маяг, хөдөлгөөн ба цаг хугацаа",
+  "cefr": "A1",
+  "theme": "Discuss daily schedules, wake-up and work times, describe simple commutes, tell time, talk about days of the week, and narrate what happened earlier today.",
+  "description": "Introduce verbal inflections for daily routines, habituality (-даг), witnessed past events (-лаа), motion to and from locations using Ablative and Directive cases, and clock time.",
+  "unitCount": 11,
+  "lessonCount": 63,
+  "exerciseCount": 0,
+  "units": [
+    {
+      "id": "unit_a1_34_telling_clock_time_",
+      "unitNumber": 34,
+      "title": "Telling Clock Time: Цаг, Минут, Хагас",
+      "cyrillicTitle": "Stating precise clock times, schedules, and appointments",
+      "description": "Acquire and apply grammatical morphology (gram_a1_telling_time_clock_calendar) to fulfill communicative functions in: Telling Clock Time: Цаг, Минут, Хагас.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_telling_time_clock_calendar",
+      "lessons": [
+        {
+          "id": "les_a1_34_01_exact_hours_and_half_hours",
+          "title": "On the Hour: Цаг and Хагас Time Expressions",
+          "cyrillicTitle": "Ask for and tell the current time on the hour and half-hour accurately in everyday speech.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce conventions for telling exact hours and half-hours using 'цаг' (o'clock/hour) and 'хагас' (half past).",
+          "communicativeOutcome": "Ask for and tell the current time on the hour and half-hour accurately in everyday speech.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Natural prosodic contour of 'Цаг хэд болж байна вэ?'.",
+          "grammarOverview": {
+            "summary": "Introduce conventions for telling exact hours and half-hours using 'цаг' (o'clock/hour) and 'хагас' (half past).",
+            "keyPoints": [
+              "obj_a1_34_01_tell_hours_and_half_hours"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_34_02_minutes_past_and_to_the_hour",
+          "title": "Precision Minutes: Минут, Өнгөрч, and Дутуу",
+          "cyrillicTitle": "State precise minutes past and to the hour for train departures, appointments, and meeting schedules.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce minute designations with 'өнгөрч байна' (past) and 'дутуу байна' (to/until the next hour).",
+          "communicativeOutcome": "State precise minutes past and to the hour for train departures, appointments, and meeting schedules.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear distinction between 'өнгөрч' and 'дутуу' in rapid speech.",
+          "grammarOverview": {
+            "summary": "Introduce minute designations with 'өнгөрч байна' (past) and 'дутуу байна' (to/until the next hour).",
+            "keyPoints": [
+              "obj_a1_34_02_tell_precise_minutes_past_and_to"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_34_03_time_drills_and_appointment_setting",
+          "title": "Guided Practice: Setting Meeting and Class Times",
+          "cyrillicTitle": "Negotiate and agree upon exact meeting times for study sessions and doctor appointments.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate combining time expressions with postpositional particles, temporal adverbs, and polite scheduling proposals.",
+          "communicativeOutcome": "Negotiate and agree upon exact meeting times for study sessions and doctor appointments.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic conversational rhythm in appointment setting dialogues.",
+          "grammarOverview": {
+            "summary": "Automate combining time expressions with postpositional particles, temporal adverbs, and polite scheduling proposals.",
+            "keyPoints": [
+              "obj_a1_34_03_negotiate_meeting_times"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_34_04_schedule_board_reading",
+          "title": "Reading Workshop: Public Timetables and Station Displays",
+          "cyrillicTitle": "Extract departure times, operating hours, and break intervals from published schedules.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read bus, intercity coach, and train departure boards, doctor consultation schedules, and shop opening hours.",
+          "communicativeOutcome": "Extract departure times, operating hours, and break intervals from published schedules.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Narration modeling station informational announcements.",
+          "grammarOverview": {
+            "summary": "Read bus, intercity coach, and train departure boards, doctor consultation schedules, and shop opening hours.",
+            "keyPoints": [
+              "obj_a1_34_04_read_station_timetables"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_34_05_time_announcements_listening_lab",
+          "title": "Acoustic Lab: Public Transit and Broadcast Time Pings",
+          "cyrillicTitle": "Accurately record announced departure times and schedule changes amidst background echo.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse rapid radio time checks, airport boarding announcements, and station departure pings.",
+          "communicativeOutcome": "Accurately record announced departure times and schedule changes amidst background echo.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic public station chime and PA system audio quality.",
+          "grammarOverview": {
+            "summary": "Parse rapid radio time checks, airport boarding announcements, and station departure pings.",
+            "keyPoints": [
+              "obj_a1_34_05_parse_transit_time_announcements"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_34_06_schedule_synchronization_synthesis",
+          "title": "Interactive Synthesis: Synchronizing Daily Itineraries",
+          "cyrillicTitle": "Conduct a fluid dialogue coordinating multiple time-bound activities throughout a day.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Coordinate a shared travel or study itinerary with a partner, resolving scheduling conflicts and agreeing on pickup times.",
+          "communicativeOutcome": "Conduct a fluid dialogue coordinating multiple time-bound activities throughout a day.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary conversational scheduling exchange between two busy students.",
+          "grammarOverview": {
+            "summary": "Coordinate a shared travel or study itinerary with a partner, resolving scheduling conflicts and agreeing on pickup times.",
+            "keyPoints": [
+              "obj_a1_34_06_coordinate_daily_itinerary"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_35_days_of_the_week_weekly_calendars",
+      "unitNumber": 35,
+      "title": "Days of the Week & Weekly Calendars",
+      "cyrillicTitle": "Planning activities across the seven days of the week",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Days of the Week & Weekly Calendars.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "Planning activities across the seven days of the week",
+      "lessons": [
+        {
+          "id": "les_a1_35_01_weekdays_tibetan_and_numerical",
+          "title": "Naming the Days: Даваа to Ням and Numerical Days",
+          "cyrillicTitle": "State and identify days of the week in both traditional and colloquial numerical counting systems.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce the seven days of the week in standard colloquial usage (даваа, мягмар, лхагва, пүрэв, баасан, бямба, ням) and numerical weekday conventions (нэг дэх өдөр ... долоо дахь өдөр).",
+          "communicativeOutcome": "State and identify days of the week in both traditional and colloquial numerical counting systems.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear pronunciation of initial consonant clusters in weekday loanwords (лхагва, пүрэв, бямба).",
+          "grammarOverview": {
+            "summary": "Introduce the seven days of the week in standard colloquial usage (даваа, мягмар, лхагва, пүрэв, баасан, бямба, ням) and numerical weekday conventions (нэг дэх өдөр ... долоо дахь өдөр).",
+            "keyPoints": [
+              "obj_a1_35_01_identify_weekdays"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_35_02_relative_days_and_weekend_cycles",
+          "title": "Relative Time: Өнөөдөр, Маргааш, and Амралтын Өдөр",
+          "cyrillicTitle": "Discuss upcoming commitments and weekly routine boundaries relative to the present day.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce relative diurnal anchors (өчигдөр, өнөөдөр, маргааш, нөгөөдөр) and distinction between workdays (ажлын өдөр) and weekends (амралтын өдөр).",
+          "communicativeOutcome": "Discuss upcoming commitments and weekly routine boundaries relative to the present day.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Natural prosody linking relative time adverbs with declarative predicates.",
+          "grammarOverview": {
+            "summary": "Introduce relative diurnal anchors (өчигдөр, өнөөдөр, маргааш, нөгөөдөр) and distinction between workdays (ажлын өдөр) and weekends (амралтын өдөр).",
+            "keyPoints": [
+              "obj_a1_35_02_use_relative_day_anchors"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_35_03_weekly_schedule_reading",
+          "title": "Reading Workshop: Academic and Fitness Weekly Schedules",
+          "cyrillicTitle": "Locate specific course lectures, gym classes, and instructor office hours from complex multi-day timetable grids.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read structured weekly timetable grids for university courses, sports clubs, and library study sessions.",
+          "communicativeOutcome": "Locate specific course lectures, gym classes, and instructor office hours from complex multi-day timetable grids.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Informational narration reading scheduled appointments with clear clarity.",
+          "grammarOverview": {
+            "summary": "Read structured weekly timetable grids for university courses, sports clubs, and library study sessions.",
+            "keyPoints": [
+              "obj_a1_35_03_read_weekly_grids"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_35_04_weekly_routine_listening_lab",
+          "title": "Acoustic Lab: Tracking Weekly Commitments in Conversational Audio",
+          "cyrillicTitle": "Accurately record on which days of the week different speakers have classes, work shifts, and appointments.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse spoken descriptions of friends and colleagues explaining their busy weekly schedules.",
+          "communicativeOutcome": "Accurately record on which days of the week different speakers have classes, work shifts, and appointments.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic conversational audio with varied speaker rates and natural day contractions.",
+          "grammarOverview": {
+            "summary": "Parse spoken descriptions of friends and colleagues explaining their busy weekly schedules.",
+            "keyPoints": [
+              "obj_a1_35_04_track_spoken_weekly_commitments"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_35_05_weekly_planner_synthesis",
+          "title": "Interactive Synthesis: Harmonizing Weekly Study and Leisure Plans",
+          "cyrillicTitle": "Negotiate and finalize a mutually agreeable weekly routine accommodating both partners' fixed commitments.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate a collaborative planning session between two friends arranging a weekly routine of gym, study, and social outings.",
+          "communicativeOutcome": "Negotiate and finalize a mutually agreeable weekly routine accommodating both partners' fixed commitments.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary conversational exchange illustrating natural weekly coordination.",
+          "grammarOverview": {
+            "summary": "Simulate a collaborative planning session between two friends arranging a weekly routine of gym, study, and social outings.",
+            "keyPoints": [
+              "obj_a1_35_05_negotiate_weekly_routine"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_36_calendar_dates_months_seasons",
+      "unitNumber": 36,
+      "title": "Calendar Dates, Months & Seasons",
+      "cyrillicTitle": "Stating birthdays, calendar dates, and annual seasons",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Calendar Dates, Months & Seasons.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "Stating birthdays, calendar dates, and annual seasons",
+      "lessons": [
+        {
+          "id": "les_a1_36_01_twelve_months_and_seasons",
+          "title": "Yearly Cycles: The Twelve Months and Four Seasons",
+          "cyrillicTitle": "State the current month, current season, and relate months to seasonal characteristics.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce the numerical month system (нэгдүгээр сар ... арван хоёрдугаар сар) and the four climatic seasons (хавар, зун, намар, өвөл).",
+          "communicativeOutcome": "State the current month, current season, and relate months to seasonal characteristics.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear vowel quality in season names (хавар, намар, өвөл).",
+          "grammarOverview": {
+            "summary": "Introduce the numerical month system (нэгдүгээр сар ... арван хоёрдугаар сар) and the four climatic seasons (хавар, зун, намар, өвөл).",
+            "keyPoints": [
+              "obj_a1_36_01_name_months_and_seasons"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_36_02_calendar_dates_and_birthdays",
+          "title": "Exact Dates: Stating Birthdays and Historic Anniversaries",
+          "cyrillicTitle": "State one's complete birth date and read historical and civic anniversary dates.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce syntax for calendar dates: [Year] он + [Month] сар + [Day] өдөр, and asking/telling birth dates.",
+          "communicativeOutcome": "State one's complete birth date and read historical and civic anniversary dates.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Descending hierarchical intonation in standard date reading (Year -> Month -> Day).",
+          "grammarOverview": {
+            "summary": "Introduce syntax for calendar dates: [Year] он + [Month] сар + [Day] өдөр, and asking/telling birth dates.",
+            "keyPoints": [
+              "obj_a1_36_02_state_calendar_dates_birthdays"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_36_03_national_holidays_reading",
+          "title": "Reading Workshop: Mongolian National Holidays and Festivities",
+          "cyrillicTitle": "Identify key national holidays, their calendar dates, and corresponding cultural customs.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read informative cultural texts describing major national holidays (Цагаан сар, Наадам, Шинэ жил, Эх үрсийн баяр).",
+          "communicativeOutcome": "Identify key national holidays, their calendar dates, and corresponding cultural customs.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Warm festive narration reading cultural holiday descriptions.",
+          "grammarOverview": {
+            "summary": "Read informative cultural texts describing major national holidays (Цагаан сар, Наадам, Шинэ жил, Эх үрсийн баяр).",
+            "keyPoints": [
+              "obj_a1_36_03_read_holiday_descriptions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_36_04_calendar_date_listening_lab",
+          "title": "Acoustic Lab: Transcribing Spoken Dates and Event Deadlines",
+          "cyrillicTitle": "Accurately record multi-part calendar dates from spoken speech without digit or month errors.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse spoken administrative deadline announcements, conference dates, and birth records.",
+          "communicativeOutcome": "Accurately record multi-part calendar dates from spoken speech without digit or month errors.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic administrative broadcast audio with natural rapid date phrasing.",
+          "grammarOverview": {
+            "summary": "Parse spoken administrative deadline announcements, conference dates, and birth records.",
+            "keyPoints": [
+              "obj_a1_36_04_parse_spoken_calendar_dates"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_36_05_annual_event_planning_synthesis",
+          "title": "Interactive Synthesis: Planning an Annual Academic Calendar",
+          "cyrillicTitle": "Negotiate, propose, and finalize annual academic and holiday dates collaboratively.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate an academic committee meeting scheduling semester start dates, exam weeks, and holidays.",
+          "communicativeOutcome": "Negotiate, propose, and finalize annual academic and holiday dates collaboratively.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary professional committee dialogue negotiating annual event dates.",
+          "grammarOverview": {
+            "summary": "Simulate an academic committee meeting scheduling semester start dates, exam weeks, and holidays.",
+            "keyPoints": [
+              "obj_a1_36_05_negotiate_annual_dates"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_37_verbal_dictionary_infinitive_suffix",
+      "unitNumber": 37,
+      "title": "Verbal Dictionary Infinitive: Suffix -х",
+      "cyrillicTitle": "Understanding citation verbs in dictionaries and schedules",
+      "description": "Acquire and apply grammatical morphology (gram_a1_verb_dictionary_infinitive_kh) to fulfill communicative functions in: Verbal Dictionary Infinitive: Suffix -х.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_verb_dictionary_infinitive_kh",
+      "lessons": [
+        {
+          "id": "les_a1_37_01_infinitive_suffix_morphology",
+          "title": "Verb Citation: The -х Infinitive and Dictionary Lookup",
+          "cyrillicTitle": "Identify verb roots, attach the -х suffix adhering to vowel harmony, and recognize citation forms in dictionaries.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the verbal dictionary citation form / future participle suffix -х, vowel harmony rules, and finding verbs in dictionaries.",
+          "communicativeOutcome": "Identify verb roots, attach the -х suffix adhering to vowel harmony, and recognize citation forms in dictionaries.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear phonological articulation of stem vowels preceding final -х.",
+          "grammarOverview": {
+            "summary": "Introduce the verbal dictionary citation form / future participle suffix -х, vowel harmony rules, and finding verbs in dictionaries.",
+            "keyPoints": [
+              "obj_a1_37_01_form_infinitive_kh"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_37_02_infinitive_complementation_duriatai",
+          "title": "Likes and Dislikes: Using -х дуртай and -х дургүй",
+          "cyrillicTitle": "Express personal preferences, hobbies, and disinclinations regarding everyday activities.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce modal adjectives 'дуртай' (likes/fond of) and 'дургүй' (dislikes) taking verbal infinitive complements (-х дуртай).",
+          "communicativeOutcome": "Express personal preferences, hobbies, and disinclinations regarding everyday activities.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Natural conversational prosody expressing enthusiasm vs disinclination.",
+          "grammarOverview": {
+            "summary": "Introduce modal adjectives 'дуртай' (likes/fond of) and 'дургүй' (dislikes) taking verbal infinitive complements (-х дуртай).",
+            "keyPoints": [
+              "obj_a1_37_02_express_likes_dislikes_with_infinitive"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_37_03_hobby_infinitive_practice",
+          "title": "Guided Practice: Interviewing Peers About Leisure Passions",
+          "cyrillicTitle": "Conduct an interactive peer interview finding common recreational interests and shared hobbies.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate question and answer exchanges about hobbies, musical tastes, and recreational sports using -х complements.",
+          "communicativeOutcome": "Conduct an interactive peer interview finding common recreational interests and shared hobbies.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic conversational rhythm in peer hobby interviews.",
+          "grammarOverview": {
+            "summary": "Automate question and answer exchanges about hobbies, musical tastes, and recreational sports using -х complements.",
+            "keyPoints": [
+              "obj_a1_37_03_interview_peer_preferences"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_37_04_hobby_club_posters_reading",
+          "title": "Reading Workshop: University Hobby Club Posters and Announcements",
+          "cyrillicTitle": "Identify club mission statements, activities offered, membership criteria, and meeting venues from promotional posters.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read university extracurricular club posters (hiking, chess, drama, traditional music) listing activities and meeting times.",
+          "communicativeOutcome": "Identify club mission statements, activities offered, membership criteria, and meeting venues from promotional posters.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Narration reading student club mission statements clearly.",
+          "grammarOverview": {
+            "summary": "Read university extracurricular club posters (hiking, chess, drama, traditional music) listing activities and meeting times.",
+            "keyPoints": [
+              "obj_a1_37_04_read_club_posters"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_37_05_leisure_preference_listening_lab",
+          "title": "Acoustic Lab: Detecting Hobby Preferences in Casual Chat",
+          "cyrillicTitle": "Accurately classify multiple speakers' hobby preferences and leisure dislikes from natural audio.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse rapid colloquial conversations where speakers express strong preferences and disinclinations.",
+          "communicativeOutcome": "Accurately classify multiple speakers' hobby preferences and leisure dislikes from natural audio.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic conversational audio featuring varied emotional intonations.",
+          "grammarOverview": {
+            "summary": "Parse rapid colloquial conversations where speakers express strong preferences and disinclinations.",
+            "keyPoints": [
+              "obj_a1_37_05_parse_leisure_preferences_auditorily"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_37_06_weekend_hobby_club_synthesis",
+          "title": "Interactive Synthesis: Establishing a New Campus Club",
+          "cyrillicTitle": "Present and negotiate preferred club activities, agreeing on a weekly schedule using infinitive complements.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Collaborate with peers to establish a new extracurricular club, deciding on activities, meeting days, and club rules.",
+          "communicativeOutcome": "Present and negotiate preferred club activities, agreeing on a weekly schedule using infinitive complements.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary student collaboration dialogue planning a shared hobby activity.",
+          "grammarOverview": {
+            "summary": "Collaborate with peers to establish a new extracurricular club, deciding on activities, meeting days, and club rules.",
+            "keyPoints": [
+              "obj_a1_37_06_collaborate_club_charter"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_38_habitual_present_participle_aspect_",
+      "unitNumber": 38,
+      "title": "Habitual Present Participle: Aspect Suffix -даг",
+      "cyrillicTitle": "Describing daily routines from morning waking to evening rest",
+      "description": "Acquire and apply grammatical morphology (gram_a1_verb_tense_present_habitual_dag) to fulfill communicative functions in: Habitual Present Participle: Aspect Suffix -даг.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_verb_tense_present_habitual_dag",
+      "lessons": [
+        {
+          "id": "les_a1_38_01_habitual_dag_allomorphs",
+          "title": "Daily Regularity: The Habitual Aspect Suffix -даг/-дэг/-дог/-дөг",
+          "cyrillicTitle": "Formulate habitual actions describing what one usually does everyday (e.g. 'Би өглөө 7 цагт босдог').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the habitual present participle suffix -даг/-дэг/-дог/-дөг expressing recurrent, customary daily routines.",
+          "communicativeOutcome": "Formulate habitual actions describing what one usually does everyday (e.g. 'Би өглөө 7 цагт босдог').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear fourfold vowel harmony modeling across all four allomorphs.",
+          "grammarOverview": {
+            "summary": "Introduce the habitual present participle suffix -даг/-дэг/-дог/-дөг expressing recurrent, customary daily routines.",
+            "keyPoints": [
+              "obj_a1_38_01_form_habitual_dag"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_38_02_habitual_frequency_adverbs",
+          "title": "Frequency Markers: Үргэлж, Ихэвчлэн, and Хааяа",
+          "cyrillicTitle": "Qualify how frequently one performs specific activities in daily life.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce frequency adverbs (үргэлж 'always', ихэвчлэн 'usually', хааяа 'sometimes', хэзээ ч 'never') modifying habitual verbs.",
+          "communicativeOutcome": "Qualify how frequently one performs specific activities in daily life.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Natural conversational cadence positioning adverbs before verb phrases.",
+          "grammarOverview": {
+            "summary": "Introduce frequency adverbs (үргэлж 'always', ихэвчлэн 'usually', хааяа 'sometimes', хэзээ ч 'never') modifying habitual verbs.",
+            "keyPoints": [
+              "obj_a1_38_02_use_frequency_adverbs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_38_03_habitual_routine_guided_drills",
+          "title": "Guided Practice: Contrasting My Routine with Roommates",
+          "cyrillicTitle": "Describe and compare morning and evening habits of multiple people using third-person subjects and -даг.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate third-person habitual descriptions, contrasting one's own routine with a roommate's or family member's habits.",
+          "communicativeOutcome": "Describe and compare morning and evening habits of multiple people using third-person subjects and -даг.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Natural dialogue rhythm contrasting personal schedules.",
+          "grammarOverview": {
+            "summary": "Automate third-person habitual descriptions, contrasting one's own routine with a roommate's or family member's habits.",
+            "keyPoints": [
+              "obj_a1_38_03_contrast_multiple_routines"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_38_04_lifestyle_profile_reading",
+          "title": "Reading Workshop: Daily Life of a Herder vs City Resident",
+          "cyrillicTitle": "Understand and extract daily pastoral and urban routines from authentic descriptive profiles.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read comparative cultural texts illustrating the diurnal routine of a rural nomadic herder vs an urban professional in Ulaanbaatar.",
+          "communicativeOutcome": "Understand and extract daily pastoral and urban routines from authentic descriptive profiles.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Warm cultural narrative tone reading lifestyle passages.",
+          "grammarOverview": {
+            "summary": "Read comparative cultural texts illustrating the diurnal routine of a rural nomadic herder vs an urban professional in Ulaanbaatar.",
+            "keyPoints": [
+              "obj_a1_38_04_read_lifestyle_profiles"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_38_05_routine_interviews_listening_lab",
+          "title": "Acoustic Lab: Parsing Daily Routines in Fast Conversational Speech",
+          "cyrillicTitle": "Accurately record waking times, commute methods, meal hours, and study routines from rapid audio.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse rapid verbal descriptions of busy university students and working parents reciting their daily timetables.",
+          "communicativeOutcome": "Accurately record waking times, commute methods, meal hours, and study routines from rapid audio.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic multi-speaker audio with varied pacing and background cafe sounds.",
+          "grammarOverview": {
+            "summary": "Parse rapid verbal descriptions of busy university students and working parents reciting their daily timetables.",
+            "keyPoints": [
+              "obj_a1_38_05_parse_spoken_routines"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_38_06_lifestyle_interview_synthesis",
+          "title": "Interactive Synthesis: Lifestyle and Healthy Habits Exchange",
+          "cyrillicTitle": "Conduct a comprehensive lifestyle interview asking and answering about daily regularity and personal habits.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate a wellness consultation or lifestyle survey where partners interview each other on sleep, diet, exercise, and study habits.",
+          "communicativeOutcome": "Conduct a comprehensive lifestyle interview asking and answering about daily regularity and personal habits.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary conversational exchange illustrating natural peer lifestyle interviewing.",
+          "grammarOverview": {
+            "summary": "Simulate a wellness consultation or lifestyle survey where partners interview each other on sleep, diet, exercise, and study habits.",
+            "keyPoints": [
+              "obj_a1_38_06_conduct_lifestyle_interview"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_39_temporal_dative_locative_times_dead",
+      "unitNumber": 39,
+      "title": "Temporal Dative-Locative: Times & Deadlines",
+      "cyrillicTitle": "Anchoring actions to exact hours, days, and dates",
+      "description": "Acquire and apply grammatical morphology (gram_a1_case_dative_locative_temporal) to fulfill communicative functions in: Temporal Dative-Locative: Times & Deadlines.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_case_dative_locative_temporal",
+      "lessons": [
+        {
+          "id": "les_a1_39_01_temporal_dative_marking",
+          "title": "Time Anchoring: Suffixes -д/-т on Hours, Days, and Years",
+          "cyrillicTitle": "Anchor events to exact hours, days, months, and years using correct dative-locative suffixes (e.g. 'Таван цагт', 'Даваа гаригт').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the temporal application of dative-locative case suffixes (-д/-т) to mark time points, deadlines, and temporal coordinates.",
+          "communicativeOutcome": "Anchor events to exact hours, days, months, and years using correct dative-locative suffixes (e.g. 'Таван цагт', 'Даваа гаригт').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear phonological distinction between spatial and temporal dative phrases.",
+          "grammarOverview": {
+            "summary": "Introduce the temporal application of dative-locative case suffixes (-д/-т) to mark time points, deadlines, and temporal coordinates.",
+            "keyPoints": [
+              "obj_a1_39_01_apply_temporal_dative"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_39_02_deadline_postpositions_hurtel",
+          "title": "Deadlines and Bounds: Хүртэл and Болтол Particles",
+          "cyrillicTitle": "Specify submission deadlines, opening intervals, and completion targets accurately.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce temporal terminating postpositions and particles (хүртэл 'until/up to', дотор 'within', өмнө 'before') with time nouns.",
+          "communicativeOutcome": "Specify submission deadlines, opening intervals, and completion targets accurately.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Firm authoritative instructional intonation on deadline announcements.",
+          "grammarOverview": {
+            "summary": "Introduce temporal terminating postpositions and particles (хүртэл 'until/up to', дотор 'within', өмнө 'before') with time nouns.",
+            "keyPoints": [
+              "obj_a1_39_02_use_temporal_postpositions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_39_03_temporal_scheduling_drills",
+          "title": "Guided Practice: Negotiating Project Timelines and Delivery Dates",
+          "cyrillicTitle": "Negotiate task completion deadlines and milestone check-ins with team members.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate combining temporal datives, duration intervals, and deadline markers in workplace task allocation.",
+          "communicativeOutcome": "Negotiate task completion deadlines and milestone check-ins with team members.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic project meeting audio discussing milestone feasibility.",
+          "grammarOverview": {
+            "summary": "Automate combining temporal datives, duration intervals, and deadline markers in workplace task allocation.",
+            "keyPoints": [
+              "obj_a1_39_03_negotiate_task_deadlines"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_39_04_academic_calendar_deadlines_reading",
+          "title": "Reading Workshop: University Term Deadlines and Exam Notices",
+          "cyrillicTitle": "Extract critical academic deadline dates and avoid administrative penalties from printed university notices.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read official university registrar notices detailing registration cutoffs, tuition deadlines, and final exam time slots.",
+          "communicativeOutcome": "Extract critical academic deadline dates and avoid administrative penalties from printed university notices.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Narration reading administrative university announcements with formal gravitas.",
+          "grammarOverview": {
+            "summary": "Read official university registrar notices detailing registration cutoffs, tuition deadlines, and final exam time slots.",
+            "keyPoints": [
+              "obj_a1_39_04_read_academic_deadlines"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_39_05_deadline_announcements_listening_lab",
+          "title": "Acoustic Lab: Transcribing Spoken Deadlines and Time Boundaries",
+          "cyrillicTitle": "Accurately record spoken deadlines and operating time boundaries without misinterpreting hour limits.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse spoken administrative and broadcast announcements warning of approaching deadlines and service cutoffs.",
+          "communicativeOutcome": "Accurately record spoken deadlines and operating time boundaries without misinterpreting hour limits.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic public broadcast audio with authentic deadline urgency.",
+          "grammarOverview": {
+            "summary": "Parse spoken administrative and broadcast announcements warning of approaching deadlines and service cutoffs.",
+            "keyPoints": [
+              "obj_a1_39_05_parse_spoken_deadlines"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_39_06_mid_section_03_checkpoint",
+          "title": "Milestone Checkpoint: Section 3 Mid-Section Synthesis Audit",
+          "cyrillicTitle": "Demonstrate integrated communicative competence in describing schedules, expressing habits, reading dates, and coordinating time-bound plans.",
+          "estimatedMinutes": 15,
+          "lessonType": "checkpoint",
+          "primaryPurpose": "Formal formative milestone evaluation assessing cumulative mastery of Units 34-39 (clock time, weekdays, dates/seasons, infinitives, habitual aspect, temporal datives).",
+          "communicativeOutcome": "Demonstrate integrated communicative competence in describing schedules, expressing habits, reading dates, and coordinating time-bound plans.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Standardized benchmark listening evaluation recordings with native accent diversity.",
+          "grammarOverview": {
+            "summary": "Formal formative milestone evaluation assessing cumulative mastery of Units 34-39 (clock time, weekdays, dates/seasons, infinitives, habitual aspect, temporal datives).",
+            "keyPoints": [
+              "Formal formative milestone evaluation assessing cumulative mastery of Units 34-39 (clock time, weekdays, dates/seasons, infinitives, habitual aspect, temporal datives)."
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_40_ablative_of_spatial_temporal_origin",
+      "unitNumber": 40,
+      "title": "Ablative of Spatial & Temporal Origin: -аас",
+      "cyrillicTitle": "Specifying departure points, start times, and sources",
+      "description": "Acquire and apply grammatical morphology (gram_a1_case_ablative_origin) to fulfill communicative functions in: Ablative of Spatial & Temporal Origin: -аас.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_case_ablative_origin",
+      "lessons": [
+        {
+          "id": "les_a1_40_01_ablative_spatial_origin",
+          "title": "Starting Points: The Ablative Case -аас/-ээс/-оос/-өөс",
+          "cyrillicTitle": "State spatial origin, city of origin, and departure locations using the ablative case accurately.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the ablative case suffix -аас/-ээс/-оос/-өөс marking point of origin, departure, and source ('from').",
+          "communicativeOutcome": "State spatial origin, city of origin, and departure locations using the ablative case accurately.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear phonological distinction between long vowel /a:s/ ablative and short vowel dative.",
+          "grammarOverview": {
+            "summary": "Introduce the ablative case suffix -аас/-ээс/-оос/-өөс marking point of origin, departure, and source ('from').",
+            "keyPoints": [
+              "obj_a1_40_01_form_ablative_origin"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_40_02_temporal_ablative_ranges",
+          "title": "Time Spans: The [Time]-аас [Time]-хүртэл Construction",
+          "cyrillicTitle": "State operating hours, working intervals, and class durations using the '...-аас ... хүртэл' frame.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the temporal application of the ablative case paired with хүртэл to express time intervals ('from X until Y').",
+          "communicativeOutcome": "State operating hours, working intervals, and class durations using the '...-аас ... хүртэл' frame.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Natural prosodic curve spanning from start point to end boundary.",
+          "grammarOverview": {
+            "summary": "Introduce the temporal application of the ablative case paired with хүртэл to express time intervals ('from X until Y').",
+            "keyPoints": [
+              "obj_a1_40_02_express_time_intervals"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_40_03_travel_origin_destination_drills",
+          "title": "Guided Practice: Journey Itineraries from Origin to Destination",
+          "cyrillicTitle": "Describe complete travel routes specifying departure city, transit stops, and final destination.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate combining ablative origin (-аас) with dative/directive destination (-д / руу) in travel planning.",
+          "communicativeOutcome": "Describe complete travel routes specifying departure city, transit stops, and final destination.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic station departure announcement audio with travel cadence.",
+          "grammarOverview": {
+            "summary": "Automate combining ablative origin (-аас) with dative/directive destination (-д / руу) in travel planning.",
+            "keyPoints": [
+              "obj_a1_40_03_describe_complete_routes"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_40_04_intercity_transport_reading",
+          "title": "Reading Workshop: Intercity Bus and Train Schedules",
+          "cyrillicTitle": "Extract departure times, ticket prices, and destination routes from complex printed transport boards.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read intercity bus terminal departure timetables (Dragon Terminal / Тэнгэр плаза) and passenger route maps.",
+          "communicativeOutcome": "Extract departure times, ticket prices, and destination routes from complex printed transport boards.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Narration reading terminal departure announcements clearly.",
+          "grammarOverview": {
+            "summary": "Read intercity bus terminal departure timetables (Dragon Terminal / Тэнгэр плаза) and passenger route maps.",
+            "keyPoints": [
+              "obj_a1_40_04_read_intercity_schedules"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_40_05_transport_departure_listening_lab",
+          "title": "Acoustic Lab: Parsing Departure Calls and Origin Clarifications",
+          "cyrillicTitle": "Identify which vehicle is boarding, its destination, and platform number despite reverberation.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse rapid PA system broadcasts at intercity bus terminals and railway stations announcing boarding calls.",
+          "communicativeOutcome": "Identify which vehicle is boarding, its destination, and platform number despite reverberation.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic terminal acoustic atmosphere with natural PA chime sound effects.",
+          "grammarOverview": {
+            "summary": "Parse rapid PA system broadcasts at intercity bus terminals and railway stations announcing boarding calls.",
+            "keyPoints": [
+              "obj_a1_40_05_parse_departure_broadcasts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_40_06_travel_booking_synthesis",
+          "title": "Interactive Synthesis: Booking an Intercity Coach Ticket",
+          "cyrillicTitle": "Successfully conduct a transactional ticket counter dialogue purchasing a travel ticket.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate purchasing an intercity bus or train ticket at a ticket window, specifying origin, destination, departure time, and seat preference.",
+          "communicativeOutcome": "Successfully conduct a transactional ticket counter dialogue purchasing a travel ticket.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary ticket booking dialogue between customer and booking clerk.",
+          "grammarOverview": {
+            "summary": "Simulate purchasing an intercity bus or train ticket at a ticket window, specifying origin, destination, departure time, and seat preference.",
+            "keyPoints": [
+              "obj_a1_40_06_book_travel_ticket"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_41_witnessed_past_verbal_tense_suffix_",
+      "unitNumber": 41,
+      "title": "Witnessed Past Verbal Tense: Suffix -лаа",
+      "cyrillicTitle": "Reporting completed actions witnessed firsthand earlier today",
+      "description": "Acquire and apply grammatical morphology (gram_a1_verb_tense_past_witnessed_laa) to fulfill communicative functions in: Witnessed Past Verbal Tense: Suffix -лаа.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_verb_tense_past_witnessed_laa",
+      "lessons": [
+        {
+          "id": "les_a1_41_01_witnessed_past_laa_allomorphs",
+          "title": "Immediate Past: Suffixes -лаа/-лээ/-лоо/-лөө",
+          "cyrillicTitle": "Report recently completed actions and witnessed events (e.g. 'Би ирлээ', 'Цас орлоо').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the witnessed / immediate past tense verbal suffix -лаа/-лээ/-лоо/-лөө expressing completed actions directly witnessed or performed recently by the speaker.",
+          "communicativeOutcome": "Report recently completed actions and witnessed events (e.g. 'Би ирлээ', 'Цас орлоо').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear vowel length articulation in long vowel ending -лаа.",
+          "grammarOverview": {
+            "summary": "Introduce the witnessed / immediate past tense verbal suffix -лаа/-лээ/-лоо/-лөө expressing completed actions directly witnessed or performed recently by the speaker.",
+            "keyPoints": [
+              "obj_a1_41_01_form_witnessed_past_laa"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_41_02_recent_past_reporting",
+          "title": "What Just Happened: Reporting Recent Events with Сая and Түрүүн",
+          "cyrillicTitle": "Explain events that just occurred moments ago in conversation or phone updates.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce immediate temporal adverbs (сая 'just now', түрүүн 'a moment ago') paired with -лаа past tense verbs.",
+          "communicativeOutcome": "Explain events that just occurred moments ago in conversation or phone updates.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Natural conversational prosody combining 'сая' with past verbs.",
+          "grammarOverview": {
+            "summary": "Introduce immediate temporal adverbs (сая 'just now', түрүүн 'a moment ago') paired with -лаа past tense verbs.",
+            "keyPoints": [
+              "obj_a1_41_02_report_recent_events_with_adverbs"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_41_03_past_event_interview_drills",
+          "title": "Guided Practice: Inquiring About Completed Actions and Errands",
+          "cyrillicTitle": "Confirm completion of errands, meals, and study tasks with peers and family members.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate question and answer exchanges about whether tasks have been completed ('Та хоолоо идсэн үү? / Идлээ').",
+          "communicativeOutcome": "Confirm completion of errands, meals, and study tasks with peers and family members.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Natural dialogue rhythm confirming task completion.",
+          "grammarOverview": {
+            "summary": "Automate question and answer exchanges about whether tasks have been completed ('Та хоолоо идсэн үү? / Идлээ').",
+            "keyPoints": [
+              "obj_a1_41_03_confirm_task_completion"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_41_04_personal_diary_entries_reading",
+          "title": "Reading Workshop: Personal Diary Notes and Incident Logs",
+          "cyrillicTitle": "Understand chronological event sequences and personal impressions from personal diary texts.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read handwritten diary notes, field trip logs, and short social journal entries recounting past events.",
+          "communicativeOutcome": "Understand chronological event sequences and personal impressions from personal diary texts.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Warm introspective narration reading diary excerpts.",
+          "grammarOverview": {
+            "summary": "Read handwritten diary notes, field trip logs, and short social journal entries recounting past events.",
+            "keyPoints": [
+              "obj_a1_41_04_read_diary_entries"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_41_05_incident_reporting_listening_lab",
+          "title": "Acoustic Lab: Parsing Eyewitness Accounts and News Flashes",
+          "cyrillicTitle": "Accurately record who arrived, what occurred, and when it happened from spoken eyewitness audio.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse rapid verbal accounts of people describing unexpected events, weather changes, or arrivals.",
+          "communicativeOutcome": "Accurately record who arrived, what occurred, and when it happened from spoken eyewitness audio.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic conversational audio featuring spontaneous emotional inflections.",
+          "grammarOverview": {
+            "summary": "Parse rapid verbal accounts of people describing unexpected events, weather changes, or arrivals.",
+            "keyPoints": [
+              "obj_a1_41_05_parse_eyewitness_accounts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_41_06_weekend_debrief_synthesis",
+          "title": "Interactive Synthesis: Monday Morning Weekend Debrief",
+          "cyrillicTitle": "Conduct a fluid conversation recounting personal weekend activities and inquiring about another's past events.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate a friendly Monday morning debrief between coworkers or classmates sharing what they did over the weekend.",
+          "communicativeOutcome": "Conduct a fluid conversation recounting personal weekend activities and inquiring about another's past events.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary conversational exchange illustrating Monday morning peer small talk.",
+          "grammarOverview": {
+            "summary": "Simulate a friendly Monday morning debrief between coworkers or classmates sharing what they did over the weekend.",
+            "keyPoints": [
+              "obj_a1_41_06_debrief_past_activities"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_42_coordinating_converb_clause_linking",
+      "unitNumber": 42,
+      "title": "Coordinating Converb: Clause Linking with -ж/-ч",
+      "cyrillicTitle": "Connecting sequential actions in a single fluent sentence",
+      "description": "Acquire and apply grammatical morphology (gram_a1_converb_coordinating_j_ch) to fulfill communicative functions in: Coordinating Converb: Clause Linking with -ж/-ч.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "gram_a1_converb_coordinating_j_ch",
+      "lessons": [
+        {
+          "id": "les_a1_42_01_coordinating_converb_morphology",
+          "title": "Action Sequences: The Coordinating Converb -ж / -ч",
+          "cyrillicTitle": "Link two or more actions into a single fluid sentence (e.g. 'Би номын санд сууж, ном уншлаа').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce the coordinating converb suffix -ж (after vowels and sonorants) and -ч (after voiceless consonants) linking actions in sequence or coordination.",
+          "communicativeOutcome": "Link two or more actions into a single fluid sentence (e.g. 'Би номын санд сууж, ном уншлаа').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Clear phonological distinction between -ж and -ч across different stem classes.",
+          "grammarOverview": {
+            "summary": "Introduce the coordinating converb suffix -ж (after vowels and sonorants) and -ч (after voiceless consonants) linking actions in sequence or coordination.",
+            "keyPoints": [
+              "obj_a1_42_01_form_coordinating_converb_j_ch"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_42_02_multiaction_routine_chains",
+          "title": "Chained Sequences: Describing 3-Step Morning Routines",
+          "cyrillicTitle": "Narrate chronological step-by-step sequences seamlessly (e.g. 'Би өглөө босож, нүүрээ угааж, цайгаа уудаг').",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_introduction",
+          "primaryPurpose": "Introduce multi-clause chaining linking 3 sequential actions in chronological order using -ж/-ч.",
+          "communicativeOutcome": "Narrate chronological step-by-step sequences seamlessly (e.g. 'Би өглөө босож, нүүрээ угааж, цайгаа уудаг').",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Flowing prosody across clause boundaries without unnatural pauses.",
+          "grammarOverview": {
+            "summary": "Introduce multi-clause chaining linking 3 sequential actions in chronological order using -ж/-ч.",
+            "keyPoints": [
+              "obj_a1_42_02_chain_multiple_actions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_42_03_recipe_and_task_instructions_drills",
+          "title": "Guided Practice: Step-by-Step Cooking and Office Instructions",
+          "cyrillicTitle": "Explain a multi-step procedure clearly and sequentially to a colleague or friend.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate chaining actions to give clear procedural instructions for making tea, preparing simple food, or operating office gear.",
+          "communicativeOutcome": "Explain a multi-step procedure clearly and sequentially to a colleague or friend.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Clear didactic instructional audio explaining recipe steps.",
+          "grammarOverview": {
+            "summary": "Automate chaining actions to give clear procedural instructions for making tea, preparing simple food, or operating office gear.",
+            "keyPoints": [
+              "obj_a1_42_03_explain_procedural_steps"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_42_04_biographical_narratives_reading",
+          "title": "Reading Workshop: Short Biographical Narratives and Life Journeys",
+          "cyrillicTitle": "Understand biographical milestones and sequential life events linked by converbs in reading texts.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read cohesive biographical paragraphs describing someone's education, move to the city, and current occupation.",
+          "communicativeOutcome": "Understand biographical milestones and sequential life events linked by converbs in reading texts.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Warm narrative storytelling reading personal biographies.",
+          "grammarOverview": {
+            "summary": "Read cohesive biographical paragraphs describing someone's education, move to the city, and current occupation.",
+            "keyPoints": [
+              "obj_a1_42_04_read_biographical_texts"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_42_05_chained_instructions_listening_lab",
+          "title": "Acoustic Lab: Parsing Chained Multi-Step Instructions in Audio",
+          "cyrillicTitle": "Accurately record all required steps from spoken chained instructions without omitting intermediate tasks.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse rapid verbal instructions chaining 2 or 3 actions in everyday workplace and domestic requests.",
+          "communicativeOutcome": "Accurately record all required steps from spoken chained instructions without omitting intermediate tasks.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic fast-paced office and domestic instructional audio.",
+          "grammarOverview": {
+            "summary": "Parse rapid verbal instructions chaining 2 or 3 actions in everyday workplace and domestic requests.",
+            "keyPoints": [
+              "obj_a1_42_05_parse_spoken_chained_instructions"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_42_06_errand_coordination_synthesis",
+          "title": "Interactive Synthesis: Coordinating Errands and Office Tasks",
+          "cyrillicTitle": "Negotiate, sequence, and distribute errands using fluid coordinating converb chains.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate a collaborative workday scenario where two colleagues coordinate who will run which errands and how tasks will be sequenced.",
+          "communicativeOutcome": "Negotiate, sequence, and distribute errands using fluid coordinating converb chains.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary professional collaboration dialogue coordinating daily errands.",
+          "grammarOverview": {
+            "summary": "Simulate a collaborative workday scenario where two colleagues coordinate who will run which errands and how tasks will be sequenced.",
+            "keyPoints": [
+              "obj_a1_42_06_coordinate_errand_chains"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_43_public_transit_commuting_bus_routes",
+      "unitNumber": 43,
+      "title": "Public Transit Commuting: Bus Routes & Stops",
+      "cyrillicTitle": "Taking city buses, checking route numbers, and getting off",
+      "description": "Develop functional communicative autonomy, pragmatic competence, and situational fluency in: Public Transit Commuting: Bus Routes & Stops.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "Taking city buses, checking route numbers, and getting off",
+      "lessons": [
+        {
+          "id": "les_a1_43_01_bus_routes_and_stop_names",
+          "title": "City Transit: Bus Numbers, Stop Names, and U-Money Cards",
+          "cyrillicTitle": "Ask which bus goes to a specific destination and check bus stop names along Peace Avenue and other main thoroughfares.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce public bus commuting vocabulary: автобусны буудал (bus stop), чиглэл (route), картын уншигч (card reader), карт цэнэглэх (top-up card), and landmark-based stop names in Ulaanbaatar.",
+          "communicativeOutcome": "Ask which bus goes to a specific destination and check bus stop names along Peace Avenue and other main thoroughfares.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Realistic automated bus stop announcement voice chime.",
+          "grammarOverview": {
+            "summary": "Introduce public bus commuting vocabulary: автобусны буудал (bus stop), чиглэл (route), картын уншигч (card reader), карт цэнэглэх (top-up card), and landmark-based stop names in Ulaanbaatar.",
+            "keyPoints": [
+              "obj_a1_43_01_identify_bus_routes_and_stops"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_43_02_boarding_and_alighting_etiquette",
+          "title": "Onboard Transit: Суух, Буух, and Polite Crowded Bus Expressions",
+          "cyrillicTitle": "Politely ask fellow passengers if they are disembarking and navigate movement through crowded bus aisles.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce essential phrases for navigating crowded Mongolian buses: 'Та буух уу?' (Are you getting off?), 'Урагшаа шахъя' (Let's move forward), and card tapping feedback sounds.",
+          "communicativeOutcome": "Politely ask fellow passengers if they are disembarking and navigate movement through crowded bus aisles.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Authentic background bus rumble with realistic passenger exchanges.",
+          "grammarOverview": {
+            "summary": "Introduce essential phrases for navigating crowded Mongolian buses: 'Та буух уу?' (Are you getting off?), 'Урагшаа шахъя' (Let's move forward), and card tapping feedback sounds.",
+            "keyPoints": [
+              "obj_a1_43_02_navigate_crowded_bus_discourse"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_43_03_transit_map_reading",
+          "title": "Reading Workshop: Ulaanbaatar Urban Transit Route Maps",
+          "cyrillicTitle": "Plan an urban route identifying where to board, where to transfer, and how many stops to travel.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read city bus route schematics, transit navigation mobile apps (UB Smart Bus), and transfer point maps.",
+          "communicativeOutcome": "Plan an urban route identifying where to board, where to transfer, and how many stops to travel.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Narration reading transit app route instructions clearly.",
+          "grammarOverview": {
+            "summary": "Read city bus route schematics, transit navigation mobile apps (UB Smart Bus), and transfer point maps.",
+            "keyPoints": [
+              "obj_a1_43_03_read_urban_transit_maps"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_43_04_onboard_announcements_listening_lab",
+          "title": "Acoustic Lab: Tracking Onboard Stop Chimes and Audio PAs",
+          "cyrillicTitle": "Recognize the current stop and upcoming stop announcements in noisy moving bus conditions.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse automated onboard audio announcements and driver intercom notifications in transit.",
+          "communicativeOutcome": "Recognize the current stop and upcoming stop announcements in noisy moving bus conditions.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Realistic onboard bus audio with automated voice chime and engine noise.",
+          "grammarOverview": {
+            "summary": "Parse automated onboard audio announcements and driver intercom notifications in transit.",
+            "keyPoints": [
+              "obj_a1_43_04_track_onboard_announcements"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_43_05_transit_commute_navigation_synthesis",
+          "title": "Interactive Synthesis: Navigating a City Commute with a Peer",
+          "cyrillicTitle": "Conduct a fluid commuting dialogue handling all phases of public bus travel with a companion.",
+          "estimatedMinutes": 15,
+          "lessonType": "dialogue_work",
+          "primaryPurpose": "Simulate taking public transit together across town: waiting at a stop, boarding, paying with card, and alighting at the right stop.",
+          "communicativeOutcome": "Conduct a fluid commuting dialogue handling all phases of public bus travel with a companion.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Exemplary conversational exchange illustrating urban transit navigation.",
+          "grammarOverview": {
+            "summary": "Simulate taking public transit together across town: waiting at a stop, boarding, paying with card, and alighting at the right stop.",
+            "keyPoints": [
+              "obj_a1_43_05_execute_city_transit_commute"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    },
+    {
+      "id": "unit_a1_44_workday_schedule_synthesis_chronolo",
+      "unitNumber": 44,
+      "title": "Workday Schedule Synthesis: Chronological Diary",
+      "cyrillicTitle": "Composing full daily logs detailing times, transit, and tasks",
+      "description": "Consolidate, integrate, and demonstrate communicative mastery of Workday Schedule Synthesis: Chronological Diary through simulated holistic tasks.",
+      "cefrLevel": "A1",
+      "primaryGrammarTopic": "Composing full daily logs detailing times, transit, and tasks",
+      "lessons": [
+        {
+          "id": "les_a1_44_01_chronological_diary_composition",
+          "title": "A Day in My Life: Chronological Time Anchors",
+          "cyrillicTitle": "Structure a coherent multi-paragraph chronological account of a full typical workday.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce transitional chronological markers (өглөө эрт 'early morning', үдийн хоолны дараа 'after lunch', оройдоо 'in the evening', эцэст нь 'finally') structuring a full day's narrative.",
+          "communicativeOutcome": "Structure a coherent multi-paragraph chronological account of a full typical workday.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Smooth narrative pacing illustrating paragraph-level transitions.",
+          "grammarOverview": {
+            "summary": "Introduce transitional chronological markers (өглөө эрт 'early morning', үдийн хоолны дараа 'after lunch', оройдоо 'in the evening', эцэст нь 'finally') structuring a full day's narrative.",
+            "keyPoints": [
+              "obj_a1_44_01_structure_chronological_diary"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_44_02_work_study_balance_lexicon",
+          "title": "Balancing Demands: Хичээл, Ажил, and Чөлөөт Цаг",
+          "cyrillicTitle": "Discuss work-life balance, study pressures, and relaxation routines in personal reflections.",
+          "estimatedMinutes": 15,
+          "lessonType": "vocabulary_introduction",
+          "primaryPurpose": "Introduce vocabulary for balancing commitments: чөлөөт цаг (free time), даалгавар (assignment/homework), ядрах (to get tired), амрах (to rest), төлөвлөх (to plan).",
+          "communicativeOutcome": "Discuss work-life balance, study pressures, and relaxation routines in personal reflections.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Warm conversational audio exploring lifestyle reflections.",
+          "grammarOverview": {
+            "summary": "Introduce vocabulary for balancing commitments: чөлөөт цаг (free time), даалгавар (assignment/homework), ядрах (to get tired), амрах (to rest), төлөвлөх (to plan).",
+            "keyPoints": [
+              "obj_a1_44_02_discuss_work_life_balance"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_44_03_diary_writing_workshop",
+          "title": "Guided Practice: Composing an Authentic 60-Word Daily Diary",
+          "cyrillicTitle": "Compose an authentic, well-structured 60-word personal journal entry detailing a full day.",
+          "estimatedMinutes": 15,
+          "lessonType": "grammar_guided_practice",
+          "primaryPurpose": "Automate synthesizing clock times, transit routes, converbial chains, and habitual actions into an authentic written diary entry.",
+          "communicativeOutcome": "Compose an authentic, well-structured 60-word personal journal entry detailing a full day.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Warm teacher guidance audio modeling expressive reading of personal journals.",
+          "grammarOverview": {
+            "summary": "Automate synthesizing clock times, transit routes, converbial chains, and habitual actions into an authentic written diary entry.",
+            "keyPoints": [
+              "obj_a1_44_03_compose_full_day_diary"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_44_04_comparative_diaries_reading",
+          "title": "Reading Workshop: A Day in Ulaanbaatar vs A Day in the Countryside",
+          "cyrillicTitle": "Compare, contrast, and extract detailed diurnal rhythms from parallel authentic Mongolian diary texts.",
+          "estimatedMinutes": 15,
+          "lessonType": "reading_development",
+          "primaryPurpose": "Read authentic parallel diary excerpts contrasting a university student's day in Ulaanbaatar with a young herder's day in Arkhangai province.",
+          "communicativeOutcome": "Compare, contrast, and extract detailed diurnal rhythms from parallel authentic Mongolian diary texts.",
+          "audioSuitability": "standard_speech_synthesis_acceptable",
+          "audioPurpose": "Expressive narration contrasting urban bus sounds with rural pastoral quietude.",
+          "grammarOverview": {
+            "summary": "Read authentic parallel diary excerpts contrasting a university student's day in Ulaanbaatar with a young herder's day in Arkhangai province.",
+            "keyPoints": [
+              "obj_a1_44_04_read_comparative_diaries"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_44_05_chronological_day_listening_lab",
+          "title": "Acoustic Lab: Tracking a Full Day's Timeline from Audio Monologue",
+          "cyrillicTitle": "Accurately reconstruct a speaker's full 24-hour timeline and activity log from continuous speech.",
+          "estimatedMinutes": 15,
+          "lessonType": "listening_development",
+          "primaryPurpose": "Parse an extended 90-second spoken monologue where a speaker narrates their entire day from 6:30 AM to 11:00 PM.",
+          "communicativeOutcome": "Accurately reconstruct a speaker's full 24-hour timeline and activity log from continuous speech.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Authentic native speaker monologue with natural narrative pacing and colloquial fillers.",
+          "grammarOverview": {
+            "summary": "Parse an extended 90-second spoken monologue where a speaker narrates their entire day from 6:30 AM to 11:00 PM.",
+            "keyPoints": [
+              "obj_a1_44_05_track_extended_diurnal_monologue"
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        },
+        {
+          "id": "les_a1_44_06_section_03_capstone_checkpoint",
+          "title": "Culminating Capstone: Section 3 Diurnal Mastery Assessment",
+          "cyrillicTitle": "Demonstrate complete communicative independence in organizing, discussing, and narrating time-bound schedules, personal habits, travel routes, and chronological experiences.",
+          "estimatedMinutes": 15,
+          "lessonType": "checkpoint",
+          "primaryPurpose": "Comprehensive summative evaluation certifying full communicative mastery across all Section 3 competencies (Units 34-44: telling time, weekdays, calendar dates/seasons, infinitives, habitual aspect, temporal datives, ablative origin, witnessed past, coordinating converbs, transit navigation, and daily diary synthesis).",
+          "communicativeOutcome": "Demonstrate complete communicative independence in organizing, discussing, and narrating time-bound schedules, personal habits, travel routes, and chronological experiences.",
+          "audioSuitability": "mongolian_voice_required",
+          "audioPurpose": "Standardized benchmark assessment recordings across diverse real-world audio genres.",
+          "grammarOverview": {
+            "summary": "Comprehensive summative evaluation certifying full communicative mastery across all Section 3 competencies (Units 34-44: telling time, weekdays, calendar dates/seasons, infinitives, habitual aspect, temporal datives, ablative origin, witnessed past, coordinating converbs, transit navigation, and daily diary synthesis).",
+            "keyPoints": [
+              "Comprehensive summative evaluation certifying full communicative mastery across all Section 3 competencies (Units 34-44: telling time, weekdays, calendar dates/seasons, infinitives, habitual aspect, temporal datives, ablative origin, witnessed past, coordinating converbs, transit navigation, and daily diary synthesis)."
+            ],
+            "rules": []
+          },
+          "vocabulary": [],
+          "exercises": [],
+          "exerciseCount": 0
+        }
+      ]
+    }
+  ]
+}

@@ -97,13 +97,26 @@ service cloud.firestore {
       }
     }
 
-    // Public Curriculum Data (Course structure and Lexicon)
+    // Shared Pedagogical Repositories (Curriculum, Lexicon, Exercise Banks, Audio Registry)
+    // Strictly Read-Only for learners/clients; mutations prohibited from client SDKs.
     match /courses/{document=**} {
-      allow read, write: if true;
+      allow read: if true;
+      allow write: if false;
     }
 
     match /lexicon/{document=**} {
-      allow read, write: if true;
+      allow read: if true;
+      allow write: if false;
+    }
+
+    match /exercise_banks/{document=**} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    match /audio_registry/{document=**} {
+      allow read: if true;
+      allow write: if false;
     }
 
   }
