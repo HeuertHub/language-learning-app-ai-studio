@@ -1,0 +1,960 @@
+[
+  {
+    "id": "lex_mn_expr_00001",
+    "expression": "хэллэг_0001",
+    "gloss": "fixed expression #1 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_01_alphabet_consonants_intro",
+    "firstIntroducedLessonId": "les_pre_a1_01_01_shared_consonants_visual",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00004",
+      "lex_mn_lemma_00008"
+    ],
+    "usageNotes": "Introduced in lesson 'Recognizing Shared Cyrillic Consonants: М, Т, К, О, А' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00002",
+    "expression": "хэллэг_0002",
+    "gloss": "fixed expression #2 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_01_alphabet_consonants_intro",
+    "firstIntroducedLessonId": "les_pre_a1_01_02_false_friend_letters",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00007",
+      "lex_mn_lemma_00015"
+    ],
+    "usageNotes": "Introduced in lesson 'Navigating Cyrillic False Friends: В, Н, Р, С, Х' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00003",
+    "expression": "хэллэг_0003",
+    "gloss": "fixed expression #3 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_01_alphabet_consonants_intro",
+    "firstIntroducedLessonId": "les_pre_a1_01_03_simple_syllables_reading",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00010",
+      "lex_mn_lemma_00022"
+    ],
+    "usageNotes": "Introduced in lesson 'Blending Consonants and Vowels into Simple Syllables (CV and CVC)' (Pre-A1) as receptive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00004",
+    "expression": "хэллэг_0004",
+    "gloss": "fixed expression #4 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_02_mongolian_distinct_letters",
+    "firstIntroducedLessonId": "les_pre_a1_02_01_grapheme_recognition_o_u",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00013",
+      "lex_mn_lemma_00029"
+    ],
+    "usageNotes": "Introduced in lesson 'Identifying Distinctive Mongolian Letters Ө and Ү' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00005",
+    "expression": "хэллэг_0005",
+    "gloss": "fixed expression #5 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_02_mongolian_distinct_letters",
+    "firstIntroducedLessonId": "les_pre_a1_02_03_high_frequency_core_roots",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_household_home_environment",
+      "lex_domain_food_beverage_dining"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00016",
+      "lex_mn_lemma_00036"
+    ],
+    "usageNotes": "Introduced in lesson 'Reading High-Frequency Words with Ө and Ү: өдөр, өвөл, үнэн, сүү' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00006",
+    "expression": "хэллэг_0006",
+    "gloss": "fixed expression #6 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_02_mongolian_distinct_letters",
+    "firstIntroducedLessonId": "les_pre_a1_02_03_high_frequency_core_roots",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_household_home_environment",
+      "lex_domain_food_beverage_dining"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00019",
+      "lex_mn_lemma_00043"
+    ],
+    "usageNotes": "Introduced in lesson 'Reading High-Frequency Words with Ө and Ү: өдөр, өвөл, үнэн, сүү' (Pre-A1) as receptive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00007",
+    "expression": "хэллэг_0007",
+    "gloss": "fixed expression #7 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_03_cardinal_short_vowels",
+    "firstIntroducedLessonId": "les_pre_a1_03_01_vowel_heptad_system",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00022",
+      "lex_mn_lemma_00050"
+    ],
+    "usageNotes": "Introduced in lesson 'The Seven Short Vowels of Mongolian: А, Э, И, О, У, Ө, Ү' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00008",
+    "expression": "хэллэг_0008",
+    "gloss": "fixed expression #8 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_03_cardinal_short_vowels",
+    "firstIntroducedLessonId": "les_pre_a1_03_03_vowel_harmony_intro_roots",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_nature_geography_weather",
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00025",
+      "lex_mn_lemma_00057"
+    ],
+    "usageNotes": "Introduced in lesson 'Vowel Resonance in Root Words: Back Roots vs Front Roots' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00009",
+    "expression": "хэллэг_0009",
+    "gloss": "fixed expression #9 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_03_cardinal_short_vowels",
+    "firstIntroducedLessonId": "les_pre_a1_03_03_vowel_harmony_intro_roots",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_nature_geography_weather",
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00028",
+      "lex_mn_lemma_00064"
+    ],
+    "usageNotes": "Introduced in lesson 'Vowel Resonance in Root Words: Back Roots vs Front Roots' (Pre-A1) as receptive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00010",
+    "expression": "хэллэг_0010",
+    "gloss": "fixed expression #10 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_04_consonants_inventory_stops",
+    "firstIntroducedLessonId": "les_pre_a1_04_01_plosives_affricates_inventory",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00031",
+      "lex_mn_lemma_00071"
+    ],
+    "usageNotes": "Introduced in lesson 'Obstruents of Mongolian: Б, П, Д, Т, Г, Ц, Ч, З, Ж' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00011",
+    "expression": "хэллэг_0011",
+    "gloss": "fixed expression #11 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_04_consonants_inventory_stops",
+    "firstIntroducedLessonId": "les_pre_a1_04_03_nasals_liquids_sonorants",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00034",
+      "lex_mn_lemma_00078"
+    ],
+    "usageNotes": "Introduced in lesson 'Sonorant Consonants: М, Н, Л, Р, В, Й' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00012",
+    "expression": "хэллэг_0012",
+    "gloss": "fixed expression #12 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_04_consonants_inventory_stops",
+    "firstIntroducedLessonId": "les_pre_a1_04_03_nasals_liquids_sonorants",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00037",
+      "lex_mn_lemma_00085"
+    ],
+    "usageNotes": "Introduced in lesson 'Sonorant Consonants: М, Н, Л, Р, В, Й' (Pre-A1) as receptive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00013",
+    "expression": "хэллэг_0013",
+    "gloss": "fixed expression #13 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_05_cyrillic_keyboard_mastery",
+    "firstIntroducedLessonId": "les_pre_a1_05_01_keyboard_layout_home_row",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_technology_digital_communication"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00040",
+      "lex_mn_lemma_00092"
+    ],
+    "usageNotes": "Introduced in lesson 'Mongolian Cyrillic Keyboard Layout & The Home Row' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00014",
+    "expression": "хэллэг_0014",
+    "gloss": "fixed expression #14 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_05_cyrillic_keyboard_mastery",
+    "firstIntroducedLessonId": "les_pre_a1_05_02_typing_special_keys_o_u",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_technology_digital_communication"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00043",
+      "lex_mn_lemma_00099"
+    ],
+    "usageNotes": "Introduced in lesson 'Locating Mongolian Specific Keys: Ө and Ү' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00015",
+    "expression": "хэллэг_0015",
+    "gloss": "fixed expression #15 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_05_cyrillic_keyboard_mastery",
+    "firstIntroducedLessonId": "les_pre_a1_05_03_digital_search_input",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_technology_digital_communication",
+      "lex_domain_public_spaces_urban_navigation"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00046",
+      "lex_mn_lemma_00106"
+    ],
+    "usageNotes": "Introduced in lesson 'Typing Search Queries, Names, and Map Destinations' (Pre-A1) as receptive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00016",
+    "expression": "хэллэг_0016",
+    "gloss": "fixed expression #16 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_06_digits_and_classroom_prompts",
+    "firstIntroducedLessonId": "les_pre_a1_06_01_counting_zero_to_five",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00049",
+      "lex_mn_lemma_00113"
+    ],
+    "usageNotes": "Introduced in lesson 'Counting from Zero to Five: тэг, нэг, хоёр, гурав, дөрөв, таван' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00017",
+    "expression": "хэллэг_0017",
+    "gloss": "fixed expression #17 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_06_digits_and_classroom_prompts",
+    "firstIntroducedLessonId": "les_pre_a1_06_02_counting_six_to_ten",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00052",
+      "lex_mn_lemma_00120"
+    ],
+    "usageNotes": "Introduced in lesson 'Counting from Six to Ten: зургаа, долоо, найм, ес, арав' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00018",
+    "expression": "хэллэг_0018",
+    "gloss": "fixed expression #18 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_06_digits_and_classroom_prompts",
+    "firstIntroducedLessonId": "les_pre_a1_06_03_classroom_instructions_listen",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00055",
+      "lex_mn_lemma_00127"
+    ],
+    "usageNotes": "Introduced in lesson 'Understanding Classroom Prompts: Сонсоорой, Хараарай, Уншаарай' (Pre-A1) as receptive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00019",
+    "expression": "хэллэг_0019",
+    "gloss": "fixed expression #19 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_07_personal_names_and_identification",
+    "firstIntroducedLessonId": "les_pre_a1_07_01_spelling_common_mongolian_names",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_personal_information_identity"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00058",
+      "lex_mn_lemma_00134"
+    ],
+    "usageNotes": "Introduced in lesson 'Reading & Spelling Mongolian Given Names: Болд, Бат, Сараа, Энхээ' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00020",
+    "expression": "хэллэг_0020",
+    "gloss": "fixed expression #20 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_07_personal_names_and_identification",
+    "firstIntroducedLessonId": "les_pre_a1_07_02_transliterating_foreign_names",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_personal_information_identity"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00061",
+      "lex_mn_lemma_00141"
+    ],
+    "usageNotes": "Introduced in lesson 'Transliterating Your Own Name into Mongolian Cyrillic' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00021",
+    "expression": "хэллэг_0021",
+    "gloss": "fixed expression #21 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_07_personal_names_and_identification",
+    "firstIntroducedLessonId": "les_pre_a1_07_03_reading_id_cards_registration",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_personal_information_identity",
+      "lex_domain_public_administration_civic_life"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00064",
+      "lex_mn_lemma_00148"
+    ],
+    "usageNotes": "Introduced in lesson 'Decoding Mongolian National ID Cards (Иргэний үнэмлэх) & Badges' (Pre-A1) as receptive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00022",
+    "expression": "хэллэг_0022",
+    "gloss": "fixed expression #22 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_08_vowel_length_pairs",
+    "firstIntroducedLessonId": "les_pre_a1_08_01_orthography_double_vowels",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00067",
+      "lex_mn_lemma_00155"
+    ],
+    "usageNotes": "Introduced in lesson 'Orthography of Long Vowels: Double Letters (аа, ээ, оо, уу, өө, үү, ий)' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00023",
+    "expression": "хэллэг_0023",
+    "gloss": "fixed expression #23 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_08_vowel_length_pairs",
+    "firstIntroducedLessonId": "les_pre_a1_08_03_minimal_pairs_length_semantics",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_food_beverage_dining",
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00070",
+      "lex_mn_lemma_00162"
+    ],
+    "usageNotes": "Introduced in lesson 'Minimal Pair Semantic Shifts: хол vs хоол, шар vs шаар, сүр vs сүүр' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00024",
+    "expression": "хэллэг_0024",
+    "gloss": "fixed expression #24 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_08_vowel_length_pairs",
+    "firstIntroducedLessonId": "les_pre_a1_08_03_minimal_pairs_length_semantics",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_food_beverage_dining",
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00073",
+      "lex_mn_lemma_00169"
+    ],
+    "usageNotes": "Introduced in lesson 'Minimal Pair Semantic Shifts: хол vs хоол, шар vs шаар, сүр vs сүүр' (Pre-A1) as receptive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00025",
+    "expression": "хэллэг_0025",
+    "gloss": "fixed expression #25 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_09_diphthongs_inventory",
+    "firstIntroducedLessonId": "les_pre_a1_09_01_diphthongs_formation_glides",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00076",
+      "lex_mn_lemma_00176"
+    ],
+    "usageNotes": "Introduced in lesson 'Diphthong Sequences with Short 'й': ай, ой, уй, үй, эй' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00026",
+    "expression": "хэллэг_0026",
+    "gloss": "fixed expression #26 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_09_diphthongs_inventory",
+    "firstIntroducedLessonId": "les_pre_a1_09_03_high_frequency_diphthong_vocabulary",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_household_home_environment",
+      "lex_domain_family_kinship_relations"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00079",
+      "lex_mn_lemma_00183"
+    ],
+    "usageNotes": "Introduced in lesson 'Essential Diphthong Vocabulary: цай, ой, нохой, гэр бүл, найз' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00027",
+    "expression": "хэллэг_0027",
+    "gloss": "fixed expression #27 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_09_diphthongs_inventory",
+    "firstIntroducedLessonId": "les_pre_a1_09_03_high_frequency_diphthong_vocabulary",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_household_home_environment",
+      "lex_domain_family_kinship_relations"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00082",
+      "lex_mn_lemma_00190"
+    ],
+    "usageNotes": "Introduced in lesson 'Essential Diphthong Vocabulary: цай, ой, нохой, гэр бүл, найз' (Pre-A1) as receptive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00028",
+    "expression": "хэллэг_0028",
+    "gloss": "fixed expression #28 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_10_masculine_feminine_harmony",
+    "firstIntroducedLessonId": "les_pre_a1_10_01_masculine_back_vowels",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00085",
+      "lex_mn_lemma_00197"
+    ],
+    "usageNotes": "Introduced in lesson 'Masculine Vowel Class (Эр үг): А, О, У, Я, Ё, Ю (back)' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00029",
+    "expression": "хэллэг_0029",
+    "gloss": "fixed expression #29 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_10_masculine_feminine_harmony",
+    "firstIntroducedLessonId": "les_pre_a1_10_02_feminine_front_vowels",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00088",
+      "lex_mn_lemma_00204"
+    ],
+    "usageNotes": "Introduced in lesson 'Feminine Vowel Class (Эм үг): Э, Ө, Ү, Е, Ю (front)' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00030",
+    "expression": "хэллэг_0030",
+    "gloss": "fixed expression #30 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_10_masculine_feminine_harmony",
+    "firstIntroducedLessonId": "les_pre_a1_10_03_neutral_vowel_behavior_i",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00091",
+      "lex_mn_lemma_00211"
+    ],
+    "usageNotes": "Introduced in lesson 'The Neutral Vowel 'И' (Саармаг эгшиг) & Mixed Roots' (Pre-A1) as receptive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00031",
+    "expression": "хэллэг_0031",
+    "gloss": "fixed expression #31 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_11_iotated_vowels_signs",
+    "firstIntroducedLessonId": "les_pre_a1_11_01_iotated_vowels_inventory",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00094",
+      "lex_mn_lemma_00218"
+    ],
+    "usageNotes": "Introduced in lesson 'Iotated Vowels: Я (/ja/), Е (/je/), Ё (/jɔ/), Ю (/jʊ/ & /ju/)' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00032",
+    "expression": "хэллэг_0032",
+    "gloss": "fixed expression #32 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_11_iotated_vowels_signs",
+    "firstIntroducedLessonId": "les_pre_a1_11_02_iotated_vowels_harmony_dual_yu",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00097",
+      "lex_mn_lemma_00225"
+    ],
+    "usageNotes": "Introduced in lesson 'Vowel Harmony of Iotated Letters & The Dual Nature of Ю (back vs front)' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00033",
+    "expression": "хэллэг_0033",
+    "gloss": "fixed expression #33 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_11_iotated_vowels_signs",
+    "firstIntroducedLessonId": "les_pre_a1_11_03_soft_sign_palatalization",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_household_home_environment",
+      "lex_domain_animals_wildlife_nature"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00100",
+      "lex_mn_lemma_00232"
+    ],
+    "usageNotes": "Introduced in lesson 'The Soft Sign (Зөөлний тэмдэг Ь): Palatalization of Preceding Consonants' (Pre-A1) as receptive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00034",
+    "expression": "хэллэг_0034",
+    "gloss": "fixed expression #34 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_12_survival_greetings_farewells",
+    "firstIntroducedLessonId": "les_pre_a1_12_01_syllable_types_cvc_ccvc",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00103",
+      "lex_mn_lemma_00239"
+    ],
+    "usageNotes": "Introduced in lesson 'Mongolian Syllable Canons: V, CV, CVC, and Complex Codas (CVCC)' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00035",
+    "expression": "хэллэг_0035",
+    "gloss": "fixed expression #35 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_12_survival_greetings_farewells",
+    "firstIntroducedLessonId": "les_pre_a1_12_02_first_syllable_stress_rule",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00106",
+      "lex_mn_lemma_00246"
+    ],
+    "usageNotes": "Introduced in lesson 'Initial Syllable Stress & Prominence Hierarchy' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00036",
+    "expression": "хэллэг_0036",
+    "gloss": "fixed expression #36 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_12_survival_greetings_farewells",
+    "firstIntroducedLessonId": "les_pre_a1_12_03_non_initial_vowel_reduction",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00109",
+      "lex_mn_lemma_00253"
+    ],
+    "usageNotes": "Introduced in lesson 'Non-Initial Short Vowel Reduction & Epenthetic Vowels' (Pre-A1) as receptive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00037",
+    "expression": "хэллэг_0037",
+    "gloss": "fixed expression #37 (Pre-A1)",
+    "expressionType": "formulaic_language",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_13_gratitude_apologies_politeness",
+    "firstIntroducedLessonId": "les_pre_a1_13_01_universal_greeting_sain_baina_uu",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_social_interaction_courtesy"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00112",
+      "lex_mn_lemma_00260"
+    ],
+    "usageNotes": "Introduced in lesson 'The Universal Greeting: Сайн байна уу? & Сайн, сайн байна уу?' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00038",
+    "expression": "хэллэг_0038",
+    "gloss": "fixed expression #38 (Pre-A1)",
+    "expressionType": "formulaic_language",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_13_gratitude_apologies_politeness",
+    "firstIntroducedLessonId": "les_pre_a1_13_02_informal_greetings_yu_baina",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_social_interaction_courtesy"
+    ],
+    "register": "informal",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00115",
+      "lex_mn_lemma_00267"
+    ],
+    "usageNotes": "Introduced in lesson 'Informal Greetings Among Peers: Сайн уу?, Юу байна?, Тайван' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00039",
+    "expression": "хэллэг_0039",
+    "gloss": "fixed expression #39 (Pre-A1)",
+    "expressionType": "formulaic_language",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_13_gratitude_apologies_politeness",
+    "firstIntroducedLessonId": "les_pre_a1_13_03_time_based_greetings",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_social_interaction_courtesy",
+      "lex_domain_time_calendar_dates"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00118",
+      "lex_mn_lemma_00274"
+    ],
+    "usageNotes": "Introduced in lesson 'Time-of-Day Greetings: Өглөөний мэнд, Өдрийн мэнд, Оройн мэнд' (Pre-A1) as receptive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00040",
+    "expression": "хэллэг_0040",
+    "gloss": "fixed expression #40 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_14_public_signs_and_notices",
+    "firstIntroducedLessonId": "les_pre_a1_14_01_prohibitions_and_warnings",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_emergency_safety_medical",
+      "lex_domain_public_spaces_urban_navigation"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00121",
+      "lex_mn_lemma_00281"
+    ],
+    "usageNotes": "Introduced in lesson 'Decoding Prohibition & Warning Signs: Хориотой, Анхаар, Зогс' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00041",
+    "expression": "хэллэг_0041",
+    "gloss": "fixed expression #41 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_14_public_signs_and_notices",
+    "firstIntroducedLessonId": "les_pre_a1_14_02_emergency_exits_and_medical",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_emergency_safety_medical",
+      "lex_domain_public_spaces_urban_navigation"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00124",
+      "lex_mn_lemma_00288"
+    ],
+    "usageNotes": "Introduced in lesson 'Navigating Safety Facilities: Гарц, Эмнэлэг, Түргэн тусламж' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00042",
+    "expression": "хэллэг_0042",
+    "gloss": "fixed expression #42 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_14_public_signs_and_notices",
+    "firstIntroducedLessonId": "les_pre_a1_14_03_emergency_telephone_hotlines",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_emergency_safety_medical",
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00127",
+      "lex_mn_lemma_00295"
+    ],
+    "usageNotes": "Introduced in lesson 'Mongolian Emergency Hotlines: 101, 102, 103, 105' (Pre-A1) as receptive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00043",
+    "expression": "хэллэг_0043",
+    "gloss": "fixed expression #43 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+    "firstIntroducedLessonId": "les_pre_a1_15_01_comprehensive_alphabet_audit",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00130",
+      "lex_mn_lemma_00302"
+    ],
+    "usageNotes": "Introduced in lesson 'Systematic Alphabet Audit: Staged Grapheme Decoding & Rapid Identification' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00044",
+    "expression": "хэллэг_0044",
+    "gloss": "fixed expression #44 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+    "firstIntroducedLessonId": "les_pre_a1_15_01_comprehensive_alphabet_audit",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00133",
+      "lex_mn_lemma_00309"
+    ],
+    "usageNotes": "Introduced in lesson 'Systematic Alphabet Audit: Staged Grapheme Decoding & Rapid Identification' (Pre-A1) as receptive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00045",
+    "expression": "хэллэг_0045",
+    "gloss": "fixed expression #45 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+    "firstIntroducedLessonId": "les_pre_a1_15_02_urban_signage_simulation_walkthrough",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_public_spaces_urban_navigation",
+      "lex_domain_shopping_commerce_retail"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00136",
+      "lex_mn_lemma_00316"
+    ],
+    "usageNotes": "Introduced in lesson 'Virtual Walking Tour of Ulaanbaatar: Reading Commercial Signage' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00046",
+    "expression": "хэллэг_0046",
+    "gloss": "fixed expression #46 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+    "firstIntroducedLessonId": "les_pre_a1_15_03_transit_and_receipts_decoding",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_shopping_commerce_retail",
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00139",
+      "lex_mn_lemma_00323"
+    ],
+    "usageNotes": "Introduced in lesson 'Decoding Authentic Ephemera: Bus Cards, Receipts & Price Tags' (Pre-A1) as productive multiword unit.",
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_expr_00047",
+    "expression": "хэллэг_0047",
+    "gloss": "fixed expression #47 (Pre-A1)",
+    "expressionType": "collocation",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+    "firstIntroducedLessonId": "les_pre_a1_15_03_transit_and_receipts_decoding",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_shopping_commerce_retail",
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "neutral",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00142",
+      "lex_mn_lemma_00330"
+    ],
+    "usageNotes": "Introduced in lesson 'Decoding Authentic Ephemera: Bus Cards, Receipts & Price Tags' (Pre-A1) as receptive multiword unit.",
+    "status": "VALIDATED"
+  }
+]

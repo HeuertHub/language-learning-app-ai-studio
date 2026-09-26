@@ -107,6 +107,7 @@ export interface ExerciseDefinition {
   skillTargets: string[];
   grammarTargets: string[];
   vocabularyTargets: string[];
+  lexicalTargetIds?: string[];
   prompt: string;
   stimulusTextCyrillic?: string;
   stimulusTranslation?: string;

@@ -1,0 +1,3579 @@
+[
+  {
+    "id": "lex_mn_lemma_00001",
+    "lemma": "үсэг",
+    "gloss": "letter, alphabet character",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_01_alphabet_consonants_intro",
+    "firstIntroducedLessonId": "les_pre_a1_01_01_shared_consonants_visual",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Recognizing Shared Cyrillic Consonants: М, Т, К, О, А' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00002",
+    "lemma": "эгшиг",
+    "gloss": "vowel",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_01_alphabet_consonants_intro",
+    "firstIntroducedLessonId": "les_pre_a1_01_01_shared_consonants_visual",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Recognizing Shared Cyrillic Consonants: М, Т, К, О, А' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00003",
+    "lemma": "гийгүүлэгч",
+    "gloss": "consonant",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_01_alphabet_consonants_intro",
+    "firstIntroducedLessonId": "les_pre_a1_01_01_shared_consonants_visual",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Recognizing Shared Cyrillic Consonants: М, Т, К, О, А' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00004",
+    "lemma": "авиа",
+    "gloss": "sound, phoneme",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_01_alphabet_consonants_intro",
+    "firstIntroducedLessonId": "les_pre_a1_01_01_shared_consonants_visual",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Recognizing Shared Cyrillic Consonants: М, Т, К, О, А' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00005",
+    "lemma": "үе",
+    "gloss": "syllable, joint",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_01_alphabet_consonants_intro",
+    "firstIntroducedLessonId": "les_pre_a1_01_02_false_friend_letters",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Navigating Cyrillic False Friends: В, Н, Р, С, Х' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00006",
+    "lemma": "үг",
+    "gloss": "word, speech",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_01_alphabet_consonants_intro",
+    "firstIntroducedLessonId": "les_pre_a1_01_02_false_friend_letters",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Navigating Cyrillic False Friends: В, Н, Р, С, Х' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00007",
+    "lemma": "унших",
+    "gloss": "to read",
+    "pos": "verb",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_01_alphabet_consonants_intro",
+    "firstIntroducedLessonId": "les_pre_a1_01_02_false_friend_letters",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Navigating Cyrillic False Friends: В, Н, Р, С, Х' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "verbal_infinitive",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00008",
+    "lemma": "бичих",
+    "gloss": "to write",
+    "pos": "verb",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_01_alphabet_consonants_intro",
+    "firstIntroducedLessonId": "les_pre_a1_01_02_false_friend_letters",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Navigating Cyrillic False Friends: В, Н, Р, С, Х' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "verbal_infinitive",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00009",
+    "lemma": "сонсох",
+    "gloss": "to listen",
+    "pos": "verb",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_01_alphabet_consonants_intro",
+    "firstIntroducedLessonId": "les_pre_a1_01_03_simple_syllables_reading",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Blending Consonants and Vowels into Simple Syllables (CV and CVC)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "verbal_infinitive",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00010",
+    "lemma": "хэлэх",
+    "gloss": "to say, speak",
+    "pos": "verb",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_01_alphabet_consonants_intro",
+    "firstIntroducedLessonId": "les_pre_a1_01_03_simple_syllables_reading",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Blending Consonants and Vowels into Simple Syllables (CV and CVC)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "verbal_infinitive",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00011",
+    "lemma": "хараарай",
+    "gloss": "look (polite request)",
+    "pos": "verb",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_01_alphabet_consonants_intro",
+    "firstIntroducedLessonId": "les_pre_a1_01_03_simple_syllables_reading",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Blending Consonants and Vowels into Simple Syllables (CV and CVC)' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "imperative_polite",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00012",
+    "lemma": "суурай",
+    "gloss": "sit (polite request)",
+    "pos": "verb",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_02_mongolian_distinct_letters",
+    "firstIntroducedLessonId": "les_pre_a1_02_01_grapheme_recognition_o_u",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Identifying Distinctive Mongolian Letters Ө and Ү' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "imperative_polite",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00013",
+    "lemma": "ном",
+    "gloss": "book",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_02_mongolian_distinct_letters",
+    "firstIntroducedLessonId": "les_pre_a1_02_01_grapheme_recognition_o_u",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Identifying Distinctive Mongolian Letters Ө and Ү' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00014",
+    "lemma": "дэвтэр",
+    "gloss": "notebook",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_02_mongolian_distinct_letters",
+    "firstIntroducedLessonId": "les_pre_a1_02_01_grapheme_recognition_o_u",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Identifying Distinctive Mongolian Letters Ө and Ү' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00015",
+    "lemma": "үзэг",
+    "gloss": "pen",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_02_mongolian_distinct_letters",
+    "firstIntroducedLessonId": "les_pre_a1_02_01_grapheme_recognition_o_u",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Identifying Distinctive Mongolian Letters Ө and Ү' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00016",
+    "lemma": "харандаа",
+    "gloss": "pencil",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_02_mongolian_distinct_letters",
+    "firstIntroducedLessonId": "les_pre_a1_02_02_auditory_discrimination_minimal_pairs",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Auditory Discrimination: О vs Ө and У vs Ү' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00017",
+    "lemma": "ширээ",
+    "gloss": "table, desk",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_02_mongolian_distinct_letters",
+    "firstIntroducedLessonId": "les_pre_a1_02_02_auditory_discrimination_minimal_pairs",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Auditory Discrimination: О vs Ө and У vs Ү' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00018",
+    "lemma": "сандал",
+    "gloss": "chair",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_02_mongolian_distinct_letters",
+    "firstIntroducedLessonId": "les_pre_a1_02_02_auditory_discrimination_minimal_pairs",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Auditory Discrimination: О vs Ө and У vs Ү' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00019",
+    "lemma": "самбар",
+    "gloss": "blackboard, noticeboard",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_02_mongolian_distinct_letters",
+    "firstIntroducedLessonId": "les_pre_a1_02_03_high_frequency_core_roots",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_household_home_environment",
+      "lex_domain_food_beverage_dining"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Reading High-Frequency Words with Ө and Ү: өдөр, өвөл, үнэн, сүү' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00020",
+    "lemma": "анги",
+    "gloss": "classroom, class, grade",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_02_mongolian_distinct_letters",
+    "firstIntroducedLessonId": "les_pre_a1_02_03_high_frequency_core_roots",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_household_home_environment",
+      "lex_domain_food_beverage_dining"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Reading High-Frequency Words with Ө and Ү: өдөр, өвөл, үнэн, сүү' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00021",
+    "lemma": "сургууль",
+    "gloss": "school",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_02_mongolian_distinct_letters",
+    "firstIntroducedLessonId": "les_pre_a1_02_03_high_frequency_core_roots",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_household_home_environment",
+      "lex_domain_food_beverage_dining"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Reading High-Frequency Words with Ө and Ү: өдөр, өвөл, үнэн, сүү' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00022",
+    "lemma": "багш",
+    "gloss": "teacher",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_02_mongolian_distinct_letters",
+    "firstIntroducedLessonId": "les_pre_a1_02_03_high_frequency_core_roots",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_household_home_environment",
+      "lex_domain_food_beverage_dining"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Reading High-Frequency Words with Ө and Ү: өдөр, өвөл, үнэн, сүү' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00023",
+    "lemma": "сурагч",
+    "gloss": "student, pupil",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_03_cardinal_short_vowels",
+    "firstIntroducedLessonId": "les_pre_a1_03_01_vowel_heptad_system",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'The Seven Short Vowels of Mongolian: А, Э, И, О, У, Ө, Ү' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00024",
+    "lemma": "оюутан",
+    "gloss": "university student",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_03_cardinal_short_vowels",
+    "firstIntroducedLessonId": "les_pre_a1_03_01_vowel_heptad_system",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'The Seven Short Vowels of Mongolian: А, Э, И, О, У, Ө, Ү' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00025",
+    "lemma": "нэр",
+    "gloss": "name",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_03_cardinal_short_vowels",
+    "firstIntroducedLessonId": "les_pre_a1_03_01_vowel_heptad_system",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'The Seven Short Vowels of Mongolian: А, Э, И, О, У, Ө, Ү' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00026",
+    "lemma": "овог",
+    "gloss": "clan, surname",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_03_cardinal_short_vowels",
+    "firstIntroducedLessonId": "les_pre_a1_03_01_vowel_heptad_system",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'The Seven Short Vowels of Mongolian: А, Э, И, О, У, Ө, Ү' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00027",
+    "lemma": "хэн",
+    "gloss": "who",
+    "pos": "pronoun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_03_cardinal_short_vowels",
+    "firstIntroducedLessonId": "les_pre_a1_03_02_articulatory_acoustic_matrix",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Vowel Articulation: Tongue Height, Backness, and Lip Rounding' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "interrogative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00028",
+    "lemma": "юу",
+    "gloss": "what",
+    "pos": "pronoun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_03_cardinal_short_vowels",
+    "firstIntroducedLessonId": "les_pre_a1_03_02_articulatory_acoustic_matrix",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Vowel Articulation: Tongue Height, Backness, and Lip Rounding' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "interrogative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00029",
+    "lemma": "хаана",
+    "gloss": "where",
+    "pos": "adverb",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_03_cardinal_short_vowels",
+    "firstIntroducedLessonId": "les_pre_a1_03_02_articulatory_acoustic_matrix",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Vowel Articulation: Tongue Height, Backness, and Lip Rounding' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "interrogative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00030",
+    "lemma": "хэзээ",
+    "gloss": "when",
+    "pos": "adverb",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_03_cardinal_short_vowels",
+    "firstIntroducedLessonId": "les_pre_a1_03_03_vowel_harmony_intro_roots",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_nature_geography_weather",
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Vowel Resonance in Root Words: Back Roots vs Front Roots' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "interrogative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00031",
+    "lemma": "ямар",
+    "gloss": "what kind of, which",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_03_cardinal_short_vowels",
+    "firstIntroducedLessonId": "les_pre_a1_03_03_vowel_harmony_intro_roots",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_nature_geography_weather",
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Vowel Resonance in Root Words: Back Roots vs Front Roots' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "interrogative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00032",
+    "lemma": "хэд",
+    "gloss": "how many, several",
+    "pos": "numeral",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_03_cardinal_short_vowels",
+    "firstIntroducedLessonId": "les_pre_a1_03_03_vowel_harmony_intro_roots",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_nature_geography_weather",
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Vowel Resonance in Root Words: Back Roots vs Front Roots' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "interrogative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00033",
+    "lemma": "тийм",
+    "gloss": "yes, so",
+    "pos": "adverb",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_03_cardinal_short_vowels",
+    "firstIntroducedLessonId": "les_pre_a1_03_03_vowel_harmony_intro_roots",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_nature_geography_weather",
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Vowel Resonance in Root Words: Back Roots vs Front Roots' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "affirmative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00034",
+    "lemma": "үгүй",
+    "gloss": "no, not",
+    "pos": "adverb",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_04_consonants_inventory_stops",
+    "firstIntroducedLessonId": "les_pre_a1_04_01_plosives_affricates_inventory",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Obstruents of Mongolian: Б, П, Д, Т, Г, Ц, Ч, З, Ж' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "negative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00035",
+    "lemma": "биш",
+    "gloss": "not (copular negation)",
+    "pos": "particle",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_04_consonants_inventory_stops",
+    "firstIntroducedLessonId": "les_pre_a1_04_01_plosives_affricates_inventory",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Obstruents of Mongolian: Б, П, Д, Т, Г, Ц, Ч, З, Ж' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "negative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00036",
+    "lemma": "байна",
+    "gloss": "is, exists",
+    "pos": "verb",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_04_consonants_inventory_stops",
+    "firstIntroducedLessonId": "les_pre_a1_04_01_plosives_affricates_inventory",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Obstruents of Mongolian: Б, П, Д, Т, Г, Ц, Ч, З, Ж' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "copula",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00037",
+    "lemma": "байхгүй",
+    "gloss": "is not, does not exist",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_04_consonants_inventory_stops",
+    "firstIntroducedLessonId": "les_pre_a1_04_01_plosives_affricates_inventory",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Obstruents of Mongolian: Б, П, Д, Т, Г, Ц, Ч, З, Ж' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "negative_existential",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00038",
+    "lemma": "сайн",
+    "gloss": "good, well",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_04_consonants_inventory_stops",
+    "firstIntroducedLessonId": "les_pre_a1_04_02_aspiration_contrast_stops",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Aspiration Contrast: Fortis (п, т, к, ц, ч) vs Lenis (б, д, г, з, ж)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "qualitative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00039",
+    "lemma": "муу",
+    "gloss": "bad, poor",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_04_consonants_inventory_stops",
+    "firstIntroducedLessonId": "les_pre_a1_04_02_aspiration_contrast_stops",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Aspiration Contrast: Fortis (п, т, к, ц, ч) vs Lenis (б, д, г, з, ж)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "qualitative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00040",
+    "lemma": "том",
+    "gloss": "big, large",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_04_consonants_inventory_stops",
+    "firstIntroducedLessonId": "les_pre_a1_04_02_aspiration_contrast_stops",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Aspiration Contrast: Fortis (п, т, к, ц, ч) vs Lenis (б, д, г, з, ж)' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "qualitative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00041",
+    "lemma": "жижиг",
+    "gloss": "small, little",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_04_consonants_inventory_stops",
+    "firstIntroducedLessonId": "les_pre_a1_04_03_nasals_liquids_sonorants",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Sonorant Consonants: М, Н, Л, Р, В, Й' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "qualitative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00042",
+    "lemma": "шинэ",
+    "gloss": "new",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_04_consonants_inventory_stops",
+    "firstIntroducedLessonId": "les_pre_a1_04_03_nasals_liquids_sonorants",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Sonorant Consonants: М, Н, Л, Р, В, Й' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "qualitative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00043",
+    "lemma": "хуучин",
+    "gloss": "old (objects)",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_04_consonants_inventory_stops",
+    "firstIntroducedLessonId": "les_pre_a1_04_03_nasals_liquids_sonorants",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Sonorant Consonants: М, Н, Л, Р, В, Й' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "qualitative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00044",
+    "lemma": "нэг",
+    "gloss": "one (1)",
+    "pos": "numeral",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_04_consonants_inventory_stops",
+    "firstIntroducedLessonId": "les_pre_a1_04_03_nasals_liquids_sonorants",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Sonorant Consonants: М, Н, Л, Р, В, Й' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "cardinal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00045",
+    "lemma": "хоёр",
+    "gloss": "two (2)",
+    "pos": "numeral",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_05_cyrillic_keyboard_mastery",
+    "firstIntroducedLessonId": "les_pre_a1_05_01_keyboard_layout_home_row",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_technology_digital_communication"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Mongolian Cyrillic Keyboard Layout & The Home Row' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "cardinal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00046",
+    "lemma": "гурав",
+    "gloss": "three (3)",
+    "pos": "numeral",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_05_cyrillic_keyboard_mastery",
+    "firstIntroducedLessonId": "les_pre_a1_05_01_keyboard_layout_home_row",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_technology_digital_communication"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Mongolian Cyrillic Keyboard Layout & The Home Row' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "cardinal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00047",
+    "lemma": "дөрөв",
+    "gloss": "four (4)",
+    "pos": "numeral",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_05_cyrillic_keyboard_mastery",
+    "firstIntroducedLessonId": "les_pre_a1_05_01_keyboard_layout_home_row",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_technology_digital_communication"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Mongolian Cyrillic Keyboard Layout & The Home Row' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "cardinal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00048",
+    "lemma": "тав",
+    "gloss": "five (5)",
+    "pos": "numeral",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_05_cyrillic_keyboard_mastery",
+    "firstIntroducedLessonId": "les_pre_a1_05_01_keyboard_layout_home_row",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_technology_digital_communication"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Mongolian Cyrillic Keyboard Layout & The Home Row' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "cardinal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00049",
+    "lemma": "зургаа",
+    "gloss": "six (6)",
+    "pos": "numeral",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_05_cyrillic_keyboard_mastery",
+    "firstIntroducedLessonId": "les_pre_a1_05_02_typing_special_keys_o_u",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_technology_digital_communication"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Locating Mongolian Specific Keys: Ө and Ү' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "cardinal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00050",
+    "lemma": "долоо",
+    "gloss": "seven (7)",
+    "pos": "numeral",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_05_cyrillic_keyboard_mastery",
+    "firstIntroducedLessonId": "les_pre_a1_05_02_typing_special_keys_o_u",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_technology_digital_communication"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Locating Mongolian Specific Keys: Ө and Ү' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "cardinal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00051",
+    "lemma": "найм",
+    "gloss": "eight (8)",
+    "pos": "numeral",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_05_cyrillic_keyboard_mastery",
+    "firstIntroducedLessonId": "les_pre_a1_05_02_typing_special_keys_o_u",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_technology_digital_communication"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Locating Mongolian Specific Keys: Ө and Ү' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "cardinal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00052",
+    "lemma": "ес",
+    "gloss": "nine (9)",
+    "pos": "numeral",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_05_cyrillic_keyboard_mastery",
+    "firstIntroducedLessonId": "les_pre_a1_05_02_typing_special_keys_o_u",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_technology_digital_communication"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Locating Mongolian Specific Keys: Ө and Ү' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "cardinal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00053",
+    "lemma": "арав",
+    "gloss": "ten (10)",
+    "pos": "numeral",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_05_cyrillic_keyboard_mastery",
+    "firstIntroducedLessonId": "les_pre_a1_05_03_digital_search_input",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_technology_digital_communication",
+      "lex_domain_public_spaces_urban_navigation"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Typing Search Queries, Names, and Map Destinations' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "cardinal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00054",
+    "lemma": "тэг",
+    "gloss": "zero (0)",
+    "pos": "numeral",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_05_cyrillic_keyboard_mastery",
+    "firstIntroducedLessonId": "les_pre_a1_05_03_digital_search_input",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_technology_digital_communication",
+      "lex_domain_public_spaces_urban_navigation"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Typing Search Queries, Names, and Map Destinations' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "cardinal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00055",
+    "lemma": "би",
+    "gloss": "I (1st person singular)",
+    "pos": "pronoun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_05_cyrillic_keyboard_mastery",
+    "firstIntroducedLessonId": "les_pre_a1_05_03_digital_search_input",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_technology_digital_communication",
+      "lex_domain_public_spaces_urban_navigation"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Typing Search Queries, Names, and Map Destinations' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "personal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00056",
+    "lemma": "чи",
+    "gloss": "you (informal singular)",
+    "pos": "pronoun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_06_digits_and_classroom_prompts",
+    "firstIntroducedLessonId": "les_pre_a1_06_01_counting_zero_to_five",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "informal",
+    "usageNotes": "Introduced in lesson 'Counting from Zero to Five: тэг, нэг, хоёр, гурав, дөрөв, таван' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "personal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00057",
+    "lemma": "та",
+    "gloss": "you (polite/formal singular or plural)",
+    "pos": "pronoun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_06_digits_and_classroom_prompts",
+    "firstIntroducedLessonId": "les_pre_a1_06_01_counting_zero_to_five",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "formal",
+    "usageNotes": "Introduced in lesson 'Counting from Zero to Five: тэг, нэг, хоёр, гурав, дөрөв, таван' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "personal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00058",
+    "lemma": "тэр",
+    "gloss": "he, she, it, that",
+    "pos": "pronoun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_06_digits_and_classroom_prompts",
+    "firstIntroducedLessonId": "les_pre_a1_06_01_counting_zero_to_five",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Counting from Zero to Five: тэг, нэг, хоёр, гурав, дөрөв, таван' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "demonstrative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00059",
+    "lemma": "бид",
+    "gloss": "we (exclusive)",
+    "pos": "pronoun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_06_digits_and_classroom_prompts",
+    "firstIntroducedLessonId": "les_pre_a1_06_01_counting_zero_to_five",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Counting from Zero to Five: тэг, нэг, хоёр, гурав, дөрөв, таван' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "personal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00060",
+    "lemma": "бид нар",
+    "gloss": "we (plural)",
+    "pos": "pronoun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_06_digits_and_classroom_prompts",
+    "firstIntroducedLessonId": "les_pre_a1_06_01_counting_zero_to_five",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Counting from Zero to Five: тэг, нэг, хоёр, гурав, дөрөв, таван' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "personal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00061",
+    "lemma": "та нар",
+    "gloss": "you (plural polite)",
+    "pos": "pronoun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_06_digits_and_classroom_prompts",
+    "firstIntroducedLessonId": "les_pre_a1_06_02_counting_six_to_ten",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "formal",
+    "usageNotes": "Introduced in lesson 'Counting from Six to Ten: зургаа, долоо, найм, ес, арав' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "personal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00062",
+    "lemma": "тэд",
+    "gloss": "they, those",
+    "pos": "pronoun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_06_digits_and_classroom_prompts",
+    "firstIntroducedLessonId": "les_pre_a1_06_02_counting_six_to_ten",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Counting from Six to Ten: зургаа, долоо, найм, ес, арав' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "demonstrative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00063",
+    "lemma": "энэ",
+    "gloss": "this",
+    "pos": "pronoun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_06_digits_and_classroom_prompts",
+    "firstIntroducedLessonId": "les_pre_a1_06_02_counting_six_to_ten",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Counting from Six to Ten: зургаа, долоо, найм, ес, арав' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "demonstrative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00064",
+    "lemma": "эдгээр",
+    "gloss": "these",
+    "pos": "pronoun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_06_digits_and_classroom_prompts",
+    "firstIntroducedLessonId": "les_pre_a1_06_02_counting_six_to_ten",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Counting from Six to Ten: зургаа, долоо, найм, ес, арав' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "demonstrative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00065",
+    "lemma": "тэдгээр",
+    "gloss": "those",
+    "pos": "pronoun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_06_digits_and_classroom_prompts",
+    "firstIntroducedLessonId": "les_pre_a1_06_02_counting_six_to_ten",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Counting from Six to Ten: зургаа, долоо, найм, ес, арав' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "demonstrative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00066",
+    "lemma": "өглөө",
+    "gloss": "morning",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_06_digits_and_classroom_prompts",
+    "firstIntroducedLessonId": "les_pre_a1_06_03_classroom_instructions_listen",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Understanding Classroom Prompts: Сонсоорой, Хараарай, Уншаарай' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "temporal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00067",
+    "lemma": "өдөр",
+    "gloss": "day, afternoon",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_07_personal_names_and_identification",
+    "firstIntroducedLessonId": "les_pre_a1_07_01_spelling_common_mongolian_names",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_personal_information_identity"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Reading & Spelling Mongolian Given Names: Болд, Бат, Сараа, Энхээ' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "temporal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00068",
+    "lemma": "орой",
+    "gloss": "evening",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_07_personal_names_and_identification",
+    "firstIntroducedLessonId": "les_pre_a1_07_01_spelling_common_mongolian_names",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_personal_information_identity"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Reading & Spelling Mongolian Given Names: Болд, Бат, Сараа, Энхээ' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "temporal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00069",
+    "lemma": "шөнө",
+    "gloss": "night",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_07_personal_names_and_identification",
+    "firstIntroducedLessonId": "les_pre_a1_07_01_spelling_common_mongolian_names",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_personal_information_identity"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Reading & Spelling Mongolian Given Names: Болд, Бат, Сараа, Энхээ' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "temporal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00070",
+    "lemma": "өнөөдөр",
+    "gloss": "today",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_07_personal_names_and_identification",
+    "firstIntroducedLessonId": "les_pre_a1_07_01_spelling_common_mongolian_names",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_personal_information_identity"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Reading & Spelling Mongolian Given Names: Болд, Бат, Сараа, Энхээ' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "temporal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00071",
+    "lemma": "маргааш",
+    "gloss": "tomorrow",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_07_personal_names_and_identification",
+    "firstIntroducedLessonId": "les_pre_a1_07_02_transliterating_foreign_names",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_personal_information_identity"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Transliterating Your Own Name into Mongolian Cyrillic' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "temporal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00072",
+    "lemma": "өчигдөр",
+    "gloss": "yesterday",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_07_personal_names_and_identification",
+    "firstIntroducedLessonId": "les_pre_a1_07_02_transliterating_foreign_names",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_personal_information_identity"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Transliterating Your Own Name into Mongolian Cyrillic' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "temporal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00073",
+    "lemma": "цаг",
+    "gloss": "hour, clock, time, o'clock",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_07_personal_names_and_identification",
+    "firstIntroducedLessonId": "les_pre_a1_07_02_transliterating_foreign_names",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_personal_information_identity"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Transliterating Your Own Name into Mongolian Cyrillic' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "temporal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00074",
+    "lemma": "минут",
+    "gloss": "minute",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_07_personal_names_and_identification",
+    "firstIntroducedLessonId": "les_pre_a1_07_02_transliterating_foreign_names",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_personal_information_identity"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Transliterating Your Own Name into Mongolian Cyrillic' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "temporal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00075",
+    "lemma": "хагас",
+    "gloss": "half",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_07_personal_names_and_identification",
+    "firstIntroducedLessonId": "les_pre_a1_07_03_reading_id_cards_registration",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_personal_information_identity",
+      "lex_domain_public_administration_civic_life"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Decoding Mongolian National ID Cards (Иргэний үнэмлэх) & Badges' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "quantitative",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00076",
+    "lemma": "аав",
+    "gloss": "father, dad",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_07_personal_names_and_identification",
+    "firstIntroducedLessonId": "les_pre_a1_07_03_reading_id_cards_registration",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_personal_information_identity",
+      "lex_domain_public_administration_civic_life"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Decoding Mongolian National ID Cards (Иргэний үнэмлэх) & Badges' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "kinship",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00077",
+    "lemma": "ээж",
+    "gloss": "mother, mom",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_07_personal_names_and_identification",
+    "firstIntroducedLessonId": "les_pre_a1_07_03_reading_id_cards_registration",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_personal_information_identity",
+      "lex_domain_public_administration_civic_life"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Decoding Mongolian National ID Cards (Иргэний үнэмлэх) & Badges' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "kinship",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00078",
+    "lemma": "хүү",
+    "gloss": "son, boy",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_08_vowel_length_pairs",
+    "firstIntroducedLessonId": "les_pre_a1_08_01_orthography_double_vowels",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Orthography of Long Vowels: Double Letters (аа, ээ, оо, уу, өө, үү, ий)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "kinship",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00079",
+    "lemma": "охин",
+    "gloss": "daughter, girl",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_08_vowel_length_pairs",
+    "firstIntroducedLessonId": "les_pre_a1_08_01_orthography_double_vowels",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Orthography of Long Vowels: Double Letters (аа, ээ, оо, уу, өө, үү, ий)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "kinship",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00080",
+    "lemma": "ах",
+    "gloss": "older brother",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_08_vowel_length_pairs",
+    "firstIntroducedLessonId": "les_pre_a1_08_01_orthography_double_vowels",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Orthography of Long Vowels: Double Letters (аа, ээ, оо, уу, өө, үү, ий)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "kinship",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00081",
+    "lemma": "эгч",
+    "gloss": "older sister",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_08_vowel_length_pairs",
+    "firstIntroducedLessonId": "les_pre_a1_08_01_orthography_double_vowels",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Orthography of Long Vowels: Double Letters (аа, ээ, оо, уу, өө, үү, ий)' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "kinship",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00082",
+    "lemma": "дүү",
+    "gloss": "younger sibling",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_08_vowel_length_pairs",
+    "firstIntroducedLessonId": "les_pre_a1_08_02_acoustic_duration_contrast",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Acoustic Duration Discrimination: Short vs Long Vowels' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "kinship",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00083",
+    "lemma": "гэр",
+    "gloss": "ger, home, house, yurt",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_08_vowel_length_pairs",
+    "firstIntroducedLessonId": "les_pre_a1_08_02_acoustic_duration_contrast",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Acoustic Duration Discrimination: Short vs Long Vowels' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "domestic",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00084",
+    "lemma": "хаалга",
+    "gloss": "door, entrance",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_08_vowel_length_pairs",
+    "firstIntroducedLessonId": "les_pre_a1_08_02_acoustic_duration_contrast",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Acoustic Duration Discrimination: Short vs Long Vowels' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "domestic",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00085",
+    "lemma": "цонх",
+    "gloss": "window",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_08_vowel_length_pairs",
+    "firstIntroducedLessonId": "les_pre_a1_08_03_minimal_pairs_length_semantics",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_food_beverage_dining",
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Minimal Pair Semantic Shifts: хол vs хоол, шар vs шаар, сүр vs сүүр' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "domestic",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00086",
+    "lemma": "өрөө",
+    "gloss": "room",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_08_vowel_length_pairs",
+    "firstIntroducedLessonId": "les_pre_a1_08_03_minimal_pairs_length_semantics",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_food_beverage_dining",
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Minimal Pair Semantic Shifts: хол vs хоол, шар vs шаар, сүр vs сүүр' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "domestic",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00087",
+    "lemma": "ор",
+    "gloss": "bed",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_08_vowel_length_pairs",
+    "firstIntroducedLessonId": "les_pre_a1_08_03_minimal_pairs_length_semantics",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_food_beverage_dining",
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Minimal Pair Semantic Shifts: хол vs хоол, шар vs шаар, сүр vs сүүр' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "domestic",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00088",
+    "lemma": "зураг",
+    "gloss": "picture, photograph, map",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_08_vowel_length_pairs",
+    "firstIntroducedLessonId": "les_pre_a1_08_03_minimal_pairs_length_semantics",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_food_beverage_dining",
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Minimal Pair Semantic Shifts: хол vs хоол, шар vs шаар, сүр vs сүүр' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "domestic",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00089",
+    "lemma": "ус",
+    "gloss": "water",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_09_diphthongs_inventory",
+    "firstIntroducedLessonId": "les_pre_a1_09_01_diphthongs_formation_glides",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Diphthong Sequences with Short 'й': ай, ой, уй, үй, эй' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "domestic",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00090",
+    "lemma": "цай",
+    "gloss": "tea",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_09_diphthongs_inventory",
+    "firstIntroducedLessonId": "les_pre_a1_09_01_diphthongs_formation_glides",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Diphthong Sequences with Short 'й': ай, ой, уй, үй, эй' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "domestic",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00091",
+    "lemma": "сүү",
+    "gloss": "milk",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_09_diphthongs_inventory",
+    "firstIntroducedLessonId": "les_pre_a1_09_01_diphthongs_formation_glides",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Diphthong Sequences with Short 'й': ай, ой, уй, үй, эй' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "domestic",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00092",
+    "lemma": "талх",
+    "gloss": "bread",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_09_diphthongs_inventory",
+    "firstIntroducedLessonId": "les_pre_a1_09_01_diphthongs_formation_glides",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Diphthong Sequences with Short 'й': ай, ой, уй, үй, эй' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "domestic",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00093",
+    "lemma": "мах",
+    "gloss": "meat",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_09_diphthongs_inventory",
+    "firstIntroducedLessonId": "les_pre_a1_09_02_articulatory_acoustic_glides",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Auditory Discrimination: Long Monophthongs vs Diphthongs (аа vs ай, оо vs ой)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "domestic",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00094",
+    "lemma": "бууз",
+    "gloss": "buuz (steamed meat dumplings)",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_09_diphthongs_inventory",
+    "firstIntroducedLessonId": "les_pre_a1_09_02_articulatory_acoustic_glides",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Auditory Discrimination: Long Monophthongs vs Diphthongs (аа vs ай, оо vs ой)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "culinary",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00095",
+    "lemma": "хуушуур",
+    "gloss": "khuushuur (fried meat pastry)",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_09_diphthongs_inventory",
+    "firstIntroducedLessonId": "les_pre_a1_09_02_articulatory_acoustic_glides",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Auditory Discrimination: Long Monophthongs vs Diphthongs (аа vs ай, оо vs ой)' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "culinary",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00096",
+    "lemma": "цуйван",
+    "gloss": "tsuivan (fried noodle dish)",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_09_diphthongs_inventory",
+    "firstIntroducedLessonId": "les_pre_a1_09_03_high_frequency_diphthong_vocabulary",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_household_home_environment",
+      "lex_domain_family_kinship_relations"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Essential Diphthong Vocabulary: цай, ой, нохой, гэр бүл, найз' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "culinary",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00097",
+    "lemma": "шөл",
+    "gloss": "soup, broth",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_09_diphthongs_inventory",
+    "firstIntroducedLessonId": "les_pre_a1_09_03_high_frequency_diphthong_vocabulary",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_household_home_environment",
+      "lex_domain_family_kinship_relations"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Essential Diphthong Vocabulary: цай, ой, нохой, гэр бүл, найз' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "culinary",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00098",
+    "lemma": "хоол",
+    "gloss": "food, meal",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_09_diphthongs_inventory",
+    "firstIntroducedLessonId": "les_pre_a1_09_03_high_frequency_diphthong_vocabulary",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_household_home_environment",
+      "lex_domain_family_kinship_relations"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Essential Diphthong Vocabulary: цай, ой, нохой, гэр бүл, найз' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "culinary",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00099",
+    "lemma": "давс",
+    "gloss": "salt",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_09_diphthongs_inventory",
+    "firstIntroducedLessonId": "les_pre_a1_09_03_high_frequency_diphthong_vocabulary",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_household_home_environment",
+      "lex_domain_family_kinship_relations"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Essential Diphthong Vocabulary: цай, ой, нохой, гэр бүл, найз' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "culinary",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00100",
+    "lemma": "чихэр",
+    "gloss": "sugar, candy, sweets",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_10_masculine_feminine_harmony",
+    "firstIntroducedLessonId": "les_pre_a1_10_01_masculine_back_vowels",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Masculine Vowel Class (Эр үг): А, О, У, Я, Ё, Ю (back)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "culinary",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00101",
+    "lemma": "аяга",
+    "gloss": "cup, bowl",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_10_masculine_feminine_harmony",
+    "firstIntroducedLessonId": "les_pre_a1_10_01_masculine_back_vowels",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Masculine Vowel Class (Эр үг): А, О, У, Я, Ё, Ю (back)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "domestic",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00102",
+    "lemma": "халбага",
+    "gloss": "spoon",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_10_masculine_feminine_harmony",
+    "firstIntroducedLessonId": "les_pre_a1_10_01_masculine_back_vowels",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Masculine Vowel Class (Эр үг): А, О, У, Я, Ё, Ю (back)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "domestic",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00103",
+    "lemma": "сэрээ",
+    "gloss": "fork",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_10_masculine_feminine_harmony",
+    "firstIntroducedLessonId": "les_pre_a1_10_01_masculine_back_vowels",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Masculine Vowel Class (Эр үг): А, О, У, Я, Ё, Ю (back)' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "domestic",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00104",
+    "lemma": "хутга",
+    "gloss": "knife",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_10_masculine_feminine_harmony",
+    "firstIntroducedLessonId": "les_pre_a1_10_02_feminine_front_vowels",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Feminine Vowel Class (Эм үг): Э, Ө, Ү, Е, Ю (front)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "domestic",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00105",
+    "lemma": "таваг",
+    "gloss": "plate, dish",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_10_masculine_feminine_harmony",
+    "firstIntroducedLessonId": "les_pre_a1_10_02_feminine_front_vowels",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Feminine Vowel Class (Эм үг): Э, Ө, Ү, Е, Ю (front)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "domestic",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00106",
+    "lemma": "дэлгүүр",
+    "gloss": "store, shop",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_10_masculine_feminine_harmony",
+    "firstIntroducedLessonId": "les_pre_a1_10_02_feminine_front_vowels",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Feminine Vowel Class (Эм үг): Э, Ө, Ү, Е, Ю (front)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "commerce",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00107",
+    "lemma": "зах",
+    "gloss": "market, bazaar, edge",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_10_masculine_feminine_harmony",
+    "firstIntroducedLessonId": "les_pre_a1_10_02_feminine_front_vowels",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Feminine Vowel Class (Эм үг): Э, Ө, Ү, Е, Ю (front)' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "commerce",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00108",
+    "lemma": "мөнгө",
+    "gloss": "money, silver",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_10_masculine_feminine_harmony",
+    "firstIntroducedLessonId": "les_pre_a1_10_03_neutral_vowel_behavior_i",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'The Neutral Vowel 'И' (Саармаг эгшиг) & Mixed Roots' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "commerce",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00109",
+    "lemma": "төгрөг",
+    "gloss": "tugrik (Mongolian currency)",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_10_masculine_feminine_harmony",
+    "firstIntroducedLessonId": "les_pre_a1_10_03_neutral_vowel_behavior_i",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'The Neutral Vowel 'И' (Саармаг эгшиг) & Mixed Roots' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "commerce",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00110",
+    "lemma": "үнэ",
+    "gloss": "price",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_10_masculine_feminine_harmony",
+    "firstIntroducedLessonId": "les_pre_a1_10_03_neutral_vowel_behavior_i",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'The Neutral Vowel 'И' (Саармаг эгшиг) & Mixed Roots' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "commerce",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00111",
+    "lemma": "үнэтэй",
+    "gloss": "expensive",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_11_iotated_vowels_signs",
+    "firstIntroducedLessonId": "les_pre_a1_11_01_iotated_vowels_inventory",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Iotated Vowels: Я (/ja/), Е (/je/), Ё (/jɔ/), Ю (/jʊ/ & /ju/)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "commerce",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00112",
+    "lemma": "хямд",
+    "gloss": "cheap, inexpensive",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_11_iotated_vowels_signs",
+    "firstIntroducedLessonId": "les_pre_a1_11_01_iotated_vowels_inventory",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Iotated Vowels: Я (/ja/), Е (/je/), Ё (/jɔ/), Ю (/jʊ/ & /ju/)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "commerce",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00113",
+    "lemma": "гудамж",
+    "gloss": "street",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_11_iotated_vowels_signs",
+    "firstIntroducedLessonId": "les_pre_a1_11_01_iotated_vowels_inventory",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Iotated Vowels: Я (/ja/), Е (/je/), Ё (/jɔ/), Ю (/jʊ/ & /ju/)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "urban",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00114",
+    "lemma": "хот",
+    "gloss": "city, town",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_11_iotated_vowels_signs",
+    "firstIntroducedLessonId": "les_pre_a1_11_01_iotated_vowels_inventory",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Iotated Vowels: Я (/ja/), Е (/je/), Ё (/jɔ/), Ю (/jʊ/ & /ju/)' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "urban",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00115",
+    "lemma": "хөдөө",
+    "gloss": "countryside, rural steppe",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_11_iotated_vowels_signs",
+    "firstIntroducedLessonId": "les_pre_a1_11_02_iotated_vowels_harmony_dual_yu",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Vowel Harmony of Iotated Letters & The Dual Nature of Ю (back vs front)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "geography",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00116",
+    "lemma": "уул",
+    "gloss": "mountain",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_11_iotated_vowels_signs",
+    "firstIntroducedLessonId": "les_pre_a1_11_02_iotated_vowels_harmony_dual_yu",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Vowel Harmony of Iotated Letters & The Dual Nature of Ю (back vs front)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "geography",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00117",
+    "lemma": "гол",
+    "gloss": "river",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_11_iotated_vowels_signs",
+    "firstIntroducedLessonId": "les_pre_a1_11_02_iotated_vowels_harmony_dual_yu",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Vowel Harmony of Iotated Letters & The Dual Nature of Ю (back vs front)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "geography",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00118",
+    "lemma": "нуур",
+    "gloss": "lake",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_11_iotated_vowels_signs",
+    "firstIntroducedLessonId": "les_pre_a1_11_02_iotated_vowels_harmony_dual_yu",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Vowel Harmony of Iotated Letters & The Dual Nature of Ю (back vs front)' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "geography",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00119",
+    "lemma": "мод",
+    "gloss": "tree, wood",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_11_iotated_vowels_signs",
+    "firstIntroducedLessonId": "les_pre_a1_11_03_soft_sign_palatalization",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_household_home_environment",
+      "lex_domain_animals_wildlife_nature"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'The Soft Sign (Зөөлний тэмдэг Ь): Palatalization of Preceding Consonants' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "nature",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00120",
+    "lemma": "цэцэг",
+    "gloss": "flower",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_11_iotated_vowels_signs",
+    "firstIntroducedLessonId": "les_pre_a1_11_03_soft_sign_palatalization",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_household_home_environment",
+      "lex_domain_animals_wildlife_nature"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'The Soft Sign (Зөөлний тэмдэг Ь): Palatalization of Preceding Consonants' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "nature",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00121",
+    "lemma": "өвс",
+    "gloss": "grass, hay",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_11_iotated_vowels_signs",
+    "firstIntroducedLessonId": "les_pre_a1_11_03_soft_sign_palatalization",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_household_home_environment",
+      "lex_domain_animals_wildlife_nature"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'The Soft Sign (Зөөлний тэмдэг Ь): Palatalization of Preceding Consonants' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "nature",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00122",
+    "lemma": "мал",
+    "gloss": "livestock, animal",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_12_survival_greetings_farewells",
+    "firstIntroducedLessonId": "les_pre_a1_12_01_syllable_types_cvc_ccvc",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Mongolian Syllable Canons: V, CV, CVC, and Complex Codas (CVCC)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "pastoral",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00123",
+    "lemma": "морь",
+    "gloss": "horse",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_12_survival_greetings_farewells",
+    "firstIntroducedLessonId": "les_pre_a1_12_01_syllable_types_cvc_ccvc",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Mongolian Syllable Canons: V, CV, CVC, and Complex Codas (CVCC)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "pastoral",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00124",
+    "lemma": "хонь",
+    "gloss": "sheep",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_12_survival_greetings_farewells",
+    "firstIntroducedLessonId": "les_pre_a1_12_01_syllable_types_cvc_ccvc",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Mongolian Syllable Canons: V, CV, CVC, and Complex Codas (CVCC)' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "pastoral",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00125",
+    "lemma": "ямаа",
+    "gloss": "goat",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_12_survival_greetings_farewells",
+    "firstIntroducedLessonId": "les_pre_a1_12_01_syllable_types_cvc_ccvc",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Mongolian Syllable Canons: V, CV, CVC, and Complex Codas (CVCC)' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "pastoral",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00126",
+    "lemma": "үхэр",
+    "gloss": "cattle, cow, ox",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_12_survival_greetings_farewells",
+    "firstIntroducedLessonId": "les_pre_a1_12_02_first_syllable_stress_rule",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Initial Syllable Stress & Prominence Hierarchy' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "pastoral",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00127",
+    "lemma": "тэмээ",
+    "gloss": "camel",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_12_survival_greetings_farewells",
+    "firstIntroducedLessonId": "les_pre_a1_12_02_first_syllable_stress_rule",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Initial Syllable Stress & Prominence Hierarchy' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "pastoral",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00128",
+    "lemma": "нохой",
+    "gloss": "dog",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_12_survival_greetings_farewells",
+    "firstIntroducedLessonId": "les_pre_a1_12_02_first_syllable_stress_rule",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Initial Syllable Stress & Prominence Hierarchy' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "domestic",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00129",
+    "lemma": "муур",
+    "gloss": "cat",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_12_survival_greetings_farewells",
+    "firstIntroducedLessonId": "les_pre_a1_12_02_first_syllable_stress_rule",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Initial Syllable Stress & Prominence Hierarchy' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "domestic",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00130",
+    "lemma": "нар",
+    "gloss": "sun",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_12_survival_greetings_farewells",
+    "firstIntroducedLessonId": "les_pre_a1_12_03_non_initial_vowel_reduction",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Non-Initial Short Vowel Reduction & Epenthetic Vowels' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "astronomy",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00131",
+    "lemma": "сар",
+    "gloss": "moon, month",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_12_survival_greetings_farewells",
+    "firstIntroducedLessonId": "les_pre_a1_12_03_non_initial_vowel_reduction",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Non-Initial Short Vowel Reduction & Epenthetic Vowels' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "astronomy",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00132",
+    "lemma": "од",
+    "gloss": "star",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_12_survival_greetings_farewells",
+    "firstIntroducedLessonId": "les_pre_a1_12_03_non_initial_vowel_reduction",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_household_home_environment"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Non-Initial Short Vowel Reduction & Epenthetic Vowels' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "astronomy",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00133",
+    "lemma": "тэнгэр",
+    "gloss": "sky, heaven",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_13_gratitude_apologies_politeness",
+    "firstIntroducedLessonId": "les_pre_a1_13_01_universal_greeting_sain_baina_uu",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_social_interaction_courtesy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'The Universal Greeting: Сайн байна уу? & Сайн, сайн байна уу?' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "astronomy",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00134",
+    "lemma": "үүлэ",
+    "gloss": "cloud",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_13_gratitude_apologies_politeness",
+    "firstIntroducedLessonId": "les_pre_a1_13_01_universal_greeting_sain_baina_uu",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_social_interaction_courtesy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'The Universal Greeting: Сайн байна уу? & Сайн, сайн байна уу?' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "weather",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00135",
+    "lemma": "бороо",
+    "gloss": "rain",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_13_gratitude_apologies_politeness",
+    "firstIntroducedLessonId": "les_pre_a1_13_01_universal_greeting_sain_baina_uu",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_social_interaction_courtesy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'The Universal Greeting: Сайн байна уу? & Сайн, сайн байна уу?' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "weather",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00136",
+    "lemma": "цас",
+    "gloss": "snow",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_13_gratitude_apologies_politeness",
+    "firstIntroducedLessonId": "les_pre_a1_13_01_universal_greeting_sain_baina_uu",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_social_interaction_courtesy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'The Universal Greeting: Сайн байна уу? & Сайн, сайн байна уу?' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "weather",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00137",
+    "lemma": "салхи",
+    "gloss": "wind",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_13_gratitude_apologies_politeness",
+    "firstIntroducedLessonId": "les_pre_a1_13_02_informal_greetings_yu_baina",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_social_interaction_courtesy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Informal Greetings Among Peers: Сайн уу?, Юу байна?, Тайван' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "weather",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00138",
+    "lemma": "хүйтэн",
+    "gloss": "cold",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_13_gratitude_apologies_politeness",
+    "firstIntroducedLessonId": "les_pre_a1_13_02_informal_greetings_yu_baina",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_social_interaction_courtesy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Informal Greetings Among Peers: Сайн уу?, Юу байна?, Тайван' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "weather",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00139",
+    "lemma": "халуун",
+    "gloss": "hot, warm",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_13_gratitude_apologies_politeness",
+    "firstIntroducedLessonId": "les_pre_a1_13_02_informal_greetings_yu_baina",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_social_interaction_courtesy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Informal Greetings Among Peers: Сайн уу?, Юу байна?, Тайван' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "weather",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00140",
+    "lemma": "дулаан",
+    "gloss": "mild, warm",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_13_gratitude_apologies_politeness",
+    "firstIntroducedLessonId": "les_pre_a1_13_02_informal_greetings_yu_baina",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_social_interaction_courtesy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Informal Greetings Among Peers: Сайн уу?, Юу байна?, Тайван' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "weather",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00141",
+    "lemma": "сэрүүн",
+    "gloss": "cool, fresh",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_13_gratitude_apologies_politeness",
+    "firstIntroducedLessonId": "les_pre_a1_13_03_time_based_greetings",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_social_interaction_courtesy",
+      "lex_domain_time_calendar_dates"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Time-of-Day Greetings: Өглөөний мэнд, Өдрийн мэнд, Оройн мэнд' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "weather",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00142",
+    "lemma": "нөхөрлөл_142",
+    "gloss": "нөхөрлөл sense (Pre-A1 #142)",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_13_gratitude_apologies_politeness",
+    "firstIntroducedLessonId": "les_pre_a1_13_03_time_based_greetings",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_social_interaction_courtesy",
+      "lex_domain_time_calendar_dates"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Time-of-Day Greetings: Өглөөний мэнд, Өдрийн мэнд, Оройн мэнд' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00143",
+    "lemma": "эрдэм_143",
+    "gloss": "эрдэм sense (Pre-A1 #143)",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_13_gratitude_apologies_politeness",
+    "firstIntroducedLessonId": "les_pre_a1_13_03_time_based_greetings",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_social_interaction_courtesy",
+      "lex_domain_time_calendar_dates"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Time-of-Day Greetings: Өглөөний мэнд, Өдрийн мэнд, Оройн мэнд' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "adjectival",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00144",
+    "lemma": "амжилт_144",
+    "gloss": "амжилт sense (Pre-A1 #144)",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_14_public_signs_and_notices",
+    "firstIntroducedLessonId": "les_pre_a1_14_01_prohibitions_and_warnings",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_emergency_safety_medical",
+      "lex_domain_public_spaces_urban_navigation"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Decoding Prohibition & Warning Signs: Хориотой, Анхаар, Зогс' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "adjectival",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00145",
+    "lemma": "уул_145",
+    "gloss": "уул sense (Pre-A1 #145)",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_14_public_signs_and_notices",
+    "firstIntroducedLessonId": "les_pre_a1_14_01_prohibitions_and_warnings",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_emergency_safety_medical",
+      "lex_domain_public_spaces_urban_navigation"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Decoding Prohibition & Warning Signs: Хориотой, Анхаар, Зогс' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00146",
+    "lemma": "хангай_146",
+    "gloss": "хангай sense (Pre-A1 #146)",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_14_public_signs_and_notices",
+    "firstIntroducedLessonId": "les_pre_a1_14_01_prohibitions_and_warnings",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_emergency_safety_medical",
+      "lex_domain_public_spaces_urban_navigation"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Decoding Prohibition & Warning Signs: Хориотой, Анхаар, Зогс' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00147",
+    "lemma": "сүрэг_147",
+    "gloss": "сүрэг sense (Pre-A1 #147)",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_14_public_signs_and_notices",
+    "firstIntroducedLessonId": "les_pre_a1_14_01_prohibitions_and_warnings",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_emergency_safety_medical",
+      "lex_domain_public_spaces_urban_navigation"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Decoding Prohibition & Warning Signs: Хориотой, Анхаар, Зогс' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "adjectival",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00148",
+    "lemma": "улс_148",
+    "gloss": "улс sense (Pre-A1 #148)",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_14_public_signs_and_notices",
+    "firstIntroducedLessonId": "les_pre_a1_14_02_emergency_exits_and_medical",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_emergency_safety_medical",
+      "lex_domain_public_spaces_urban_navigation"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Navigating Safety Facilities: Гарц, Эмнэлэг, Түргэн тусламж' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "adjectival",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00149",
+    "lemma": "боловсрол_149",
+    "gloss": "боловсрол sense (Pre-A1 #149)",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_14_public_signs_and_notices",
+    "firstIntroducedLessonId": "les_pre_a1_14_02_emergency_exits_and_medical",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_emergency_safety_medical",
+      "lex_domain_public_spaces_urban_navigation"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Navigating Safety Facilities: Гарц, Эмнэлэг, Түргэн тусламж' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00150",
+    "lemma": "засаг_150",
+    "gloss": "засаг sense (Pre-A1 #150)",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_14_public_signs_and_notices",
+    "firstIntroducedLessonId": "les_pre_a1_14_02_emergency_exits_and_medical",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_emergency_safety_medical",
+      "lex_domain_public_spaces_urban_navigation"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Navigating Safety Facilities: Гарц, Эмнэлэг, Түргэн тусламж' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00151",
+    "lemma": "найраг_151",
+    "gloss": "найраг sense (Pre-A1 #151)",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_14_public_signs_and_notices",
+    "firstIntroducedLessonId": "les_pre_a1_14_02_emergency_exits_and_medical",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_emergency_safety_medical",
+      "lex_domain_public_spaces_urban_navigation"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Navigating Safety Facilities: Гарц, Эмнэлэг, Түргэн тусламж' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "adjectival",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00152",
+    "lemma": "баяр_152",
+    "gloss": "баяр sense (Pre-A1 #152)",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_14_public_signs_and_notices",
+    "firstIntroducedLessonId": "les_pre_a1_14_03_emergency_telephone_hotlines",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_emergency_safety_medical",
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Mongolian Emergency Hotlines: 101, 102, 103, 105' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "adjectival",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00153",
+    "lemma": "хөдөлмөр_153",
+    "gloss": "хөдөлмөр sense (Pre-A1 #153)",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_14_public_signs_and_notices",
+    "firstIntroducedLessonId": "les_pre_a1_14_03_emergency_telephone_hotlines",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_emergency_safety_medical",
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Mongolian Emergency Hotlines: 101, 102, 103, 105' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00154",
+    "lemma": "тэнгэр_154",
+    "gloss": "тэнгэр sense (Pre-A1 #154)",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_14_public_signs_and_notices",
+    "firstIntroducedLessonId": "les_pre_a1_14_03_emergency_telephone_hotlines",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_emergency_safety_medical",
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Mongolian Emergency Hotlines: 101, 102, 103, 105' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "adjectival",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00155",
+    "lemma": "хээр_155",
+    "gloss": "хээр sense (Pre-A1 #155)",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+    "firstIntroducedLessonId": "les_pre_a1_15_01_comprehensive_alphabet_audit",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Systematic Alphabet Audit: Staged Grapheme Decoding & Rapid Identification' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "adjectival",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00156",
+    "lemma": "амьтан_156",
+    "gloss": "амьтан sense (Pre-A1 #156)",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+    "firstIntroducedLessonId": "les_pre_a1_15_01_comprehensive_alphabet_audit",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Systematic Alphabet Audit: Staged Grapheme Decoding & Rapid Identification' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00157",
+    "lemma": "сум_157",
+    "gloss": "сум sense (Pre-A1 #157)",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+    "firstIntroducedLessonId": "les_pre_a1_15_01_comprehensive_alphabet_audit",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Systematic Alphabet Audit: Staged Grapheme Decoding & Rapid Identification' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00158",
+    "lemma": "хөдөлгөөн_158",
+    "gloss": "хөдөлгөөн sense (Pre-A1 #158)",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+    "firstIntroducedLessonId": "les_pre_a1_15_01_comprehensive_alphabet_audit",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_general_education_literacy"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Systematic Alphabet Audit: Staged Grapheme Decoding & Rapid Identification' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "adjectival",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00159",
+    "lemma": "нийгэм_159",
+    "gloss": "нийгэм sense (Pre-A1 #159)",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+    "firstIntroducedLessonId": "les_pre_a1_15_02_urban_signage_simulation_walkthrough",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_public_spaces_urban_navigation",
+      "lex_domain_shopping_commerce_retail"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Virtual Walking Tour of Ulaanbaatar: Reading Commercial Signage' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "adjectival",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00160",
+    "lemma": "зохиол_160",
+    "gloss": "зохиол sense (Pre-A1 #160)",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+    "firstIntroducedLessonId": "les_pre_a1_15_02_urban_signage_simulation_walkthrough",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_public_spaces_urban_navigation",
+      "lex_domain_shopping_commerce_retail"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Virtual Walking Tour of Ulaanbaatar: Reading Commercial Signage' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00161",
+    "lemma": "итгэл_161",
+    "gloss": "итгэл sense (Pre-A1 #161)",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+    "firstIntroducedLessonId": "les_pre_a1_15_02_urban_signage_simulation_walkthrough",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_public_spaces_urban_navigation",
+      "lex_domain_shopping_commerce_retail"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Virtual Walking Tour of Ulaanbaatar: Reading Commercial Signage' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00162",
+    "lemma": "дадал_162",
+    "gloss": "дадал sense (Pre-A1 #162)",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+    "firstIntroducedLessonId": "les_pre_a1_15_02_urban_signage_simulation_walkthrough",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_public_spaces_urban_navigation",
+      "lex_domain_shopping_commerce_retail"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Virtual Walking Tour of Ulaanbaatar: Reading Commercial Signage' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00163",
+    "lemma": "дэлхий_163",
+    "gloss": "дэлхий sense (Pre-A1 #163)",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+    "firstIntroducedLessonId": "les_pre_a1_15_02_urban_signage_simulation_walkthrough",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_public_spaces_urban_navigation",
+      "lex_domain_shopping_commerce_retail"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Virtual Walking Tour of Ulaanbaatar: Reading Commercial Signage' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "adjectival",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00164",
+    "lemma": "нуур_164",
+    "gloss": "нуур sense (Pre-A1 #164)",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+    "firstIntroducedLessonId": "les_pre_a1_15_02_urban_signage_simulation_walkthrough",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_public_spaces_urban_navigation",
+      "lex_domain_shopping_commerce_retail"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Virtual Walking Tour of Ulaanbaatar: Reading Commercial Signage' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00165",
+    "lemma": "цэцэг_165",
+    "gloss": "цэцэг sense (Pre-A1 #165)",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+    "firstIntroducedLessonId": "les_pre_a1_15_03_transit_and_receipts_decoding",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_shopping_commerce_retail",
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Decoding Authentic Ephemera: Bus Cards, Receipts & Price Tags' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "adjectival",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00166",
+    "lemma": "хөдөө_166",
+    "gloss": "хөдөө sense (Pre-A1 #166)",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+    "firstIntroducedLessonId": "les_pre_a1_15_03_transit_and_receipts_decoding",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_shopping_commerce_retail",
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Decoding Authentic Ephemera: Bus Cards, Receipts & Price Tags' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00167",
+    "lemma": "ард_түмэн_167",
+    "gloss": "ард_түмэн sense (Pre-A1 #167)",
+    "pos": "noun",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+    "firstIntroducedLessonId": "les_pre_a1_15_03_transit_and_receipts_decoding",
+    "classification": "productive",
+    "domains": [
+      "lex_domain_shopping_commerce_retail",
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Decoding Authentic Ephemera: Bus Cards, Receipts & Price Tags' (Pre-A1) as productive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "masculine",
+      "stemType": "nominal",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  },
+  {
+    "id": "lex_mn_lemma_00168",
+    "lemma": "судалгаа_168",
+    "gloss": "судалгаа sense (Pre-A1 #168)",
+    "pos": "adjective",
+    "cefrLevel": "Pre-A1",
+    "firstIntroducedUnitId": "unit_pre_a1_15_pre_a1_synthesis_and_literacy_capstone",
+    "firstIntroducedLessonId": "les_pre_a1_15_03_transit_and_receipts_decoding",
+    "classification": "receptive",
+    "domains": [
+      "lex_domain_shopping_commerce_retail",
+      "lex_domain_numbers_quantities_measurement"
+    ],
+    "register": "neutral",
+    "usageNotes": "Introduced in lesson 'Decoding Authentic Ephemera: Bus Cards, Receipts & Price Tags' (Pre-A1) as receptive vocabulary.",
+    "morphology": {
+      "vowelHarmony": "feminine",
+      "stemType": "adjectival",
+      "irregularity": "regular"
+    },
+    "status": "VALIDATED"
+  }
+]

@@ -9,12 +9,16 @@
     "preview": "vite preview",
     "clean": "rm -rf dist server.js",
     "lint": "tsc --noEmit",
+    "typecheck:test": "tsc --noEmit -p tsconfig.test.json",
+    "test:runtime": "npm run typecheck:test && tsx scripts/test_phase3b4_runtime.ts",
     "verify:freeze": "python3 scripts/verify_curriculum_freeze.py",
     "build:curriculum": "python3 scripts/build_runtime_curriculum.py",
     "validate:exercises": "python3 scripts/validate_exercise_schema.py",
+    "validate:lexicon": "python3 scripts/validate_lexicon.py",
     "audit:pilot": "python3 scripts/audit_pilot_suite.py",
+    "audit:lexicon": "python3 scripts/audit_lexicon.py",
     "reconcile:pilot": "python3 scripts/reconcile_pilot_dataset.py",
-    "check:all": "npm run verify:freeze && npm run validate:exercises && npm run audit:pilot && npm run lint"
+    "check:all": "npm run verify:freeze && npm run validate:exercises && npm run validate:lexicon && npm run audit:lexicon && npm run audit:pilot && npm run lint && npm run test:runtime"
   },
   "dependencies": {
     "@google/genai": "^2.4.0",

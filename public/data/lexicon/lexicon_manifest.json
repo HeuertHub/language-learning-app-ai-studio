@@ -1,0 +1,82 @@
+{
+  "manifestVersion": "1.0.0",
+  "generatedAt": "2026-09-26T17:15:59.594958+00:00",
+  "phase": "3C.0",
+  "summary": {
+    "totalCoreLemmas": 9441,
+    "totalProductiveLemmas": 5329,
+    "totalReceptiveLemmas": 4112,
+    "totalExpressions": 2692,
+    "totalProductiveExpressions": 1622,
+    "totalReceptiveExpressions": 1070,
+    "lessonsReconciled": 1257,
+    "reconciliationRate": 1.0,
+    "levels": [
+      "Pre-A1",
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ]
+  },
+  "byLevel": {
+    "Pre-A1": {
+      "lemmas": 168,
+      "productiveLemmas": 122,
+      "receptiveLemmas": 46,
+      "expressions": 47,
+      "productiveExpressions": 31,
+      "receptiveExpressions": 16
+    },
+    "A1": {
+      "lemmas": 1115,
+      "productiveLemmas": 822,
+      "receptiveLemmas": 293,
+      "expressions": 300,
+      "productiveExpressions": 200,
+      "receptiveExpressions": 100
+    },
+    "A2": {
+      "lemmas": 1459,
+      "productiveLemmas": 987,
+      "receptiveLemmas": 472,
+      "expressions": 404,
+      "productiveExpressions": 255,
+      "receptiveExpressions": 149
+    },
+    "B1": {
+      "lemmas": 1580,
+      "productiveLemmas": 934,
+      "receptiveLemmas": 646,
+      "expressions": 448,
+      "productiveExpressions": 270,
+      "receptiveExpressions": 178
+    },
+    "B2": {
+      "lemmas": 1988,
+      "productiveLemmas": 1068,
+      "receptiveLemmas": 920,
+      "expressions": 566,
+      "productiveExpressions": 348,
+      "receptiveExpressions": 218
+    },
+    "C1": {
+      "lemmas": 1572,
+      "productiveLemmas": 734,
+      "receptiveLemmas": 838,
+      "expressions": 449,
+      "productiveExpressions": 257,
+      "receptiveExpressions": 192
+    },
+    "C2": {
+      "lemmas": 1559,
+      "productiveLemmas": 662,
+      "receptiveLemmas": 897,
+      "expressions": 478,
+      "productiveExpressions": 261,
+      "receptiveExpressions": 217
+    }
+  }
+}
