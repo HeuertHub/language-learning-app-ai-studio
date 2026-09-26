@@ -58,20 +58,20 @@ def get_pre_a1_exercises():
                     "exerciseId": "ex_pre_a1_01_01_02",
                     "sequenceInLesson": 2,
                     "exerciseTitle": "Matching Lowercase and Uppercase Shared Consonants",
-                    "modality": "ORTHOGRAPHY_RECOGNITION",
+                    "modality": "ORTHOGRAPHY_PHONOLOGY",
                     "interactionPattern": "PAIR_MATCHING",
-                    "cognitiveComplexity": "REMEMBER_RECOGNIZE",
+                    "cognitiveComplexity": "IDENTIFY_RECOGNIZE",
                     "skillTargets": ["grapheme_case_pairing"],
                     "grammarTargets": [],
                     "vocabularyTargets": ["Т", "т", "К", "к", "О", "о", "А", "а"],
                     "prompt": "Pair each uppercase Cyrillic letter with its exact lowercase partner for the shared letters Т, К, О, А.",
                     "stimulusTextCyrillic": "Т, К, О, А",
                     "hint": "Cyrillic lowercase letters generally mirror their uppercase shapes in reduced height.",
-                    "options": [
-                        {"id": "pair_t", "text": "Т -> т", "cyrillic": "Т - т", "isCorrect": True, "explanation": "Т matches lowercase т."},
-                        {"id": "pair_k", "text": "К -> к", "cyrillic": "К - к", "isCorrect": True, "explanation": "К matches lowercase к."},
-                        {"id": "pair_o", "text": "О -> о", "cyrillic": "О - о", "isCorrect": True, "explanation": "О matches lowercase о."},
-                        {"id": "pair_a", "text": "А -> а", "cyrillic": "А - а", "isCorrect": True, "explanation": "А matches lowercase а."}
+                    "matchingPairs": [
+                        {"id": "pair_t", "left": "Т", "right": "т"},
+                        {"id": "pair_k", "left": "К", "right": "к"},
+                        {"id": "pair_o", "left": "О", "right": "о"},
+                        {"id": "pair_a", "left": "А", "right": "а"}
                     ],
                     "correctAnswer": "Т-т, К-к, О-о, А-а",
                     "acceptableAlternatives": ["Т:т, К:к, О:о, А:а", "Т-т К-к О-о А-а"],
@@ -90,7 +90,7 @@ def get_pre_a1_exercises():
                         "speechRate": 0.8
                     },
                     "evaluation": {
-                        "matchType": "CASE_INSENSITIVE"
+                        "matchType": "EXACT"
                     }
                 },
                 {

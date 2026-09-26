@@ -39,14 +39,39 @@ export const ProgressDashboard: React.FC<ProgressDashboardProps> = ({
   const completedUnitsCount = completedUnits.length;
   const unitsPercentage = totalUnits > 0 ? Math.round((completedUnitsCount / totalUnits) * 100) : 0;
 
-  // Derived sections (we group units by their section if available or approximate 26 sections)
-  // Authoritative curriculum contains 26 sections across Pre-A1 through C2
-  const totalSections = 26;
-  // Estimate completed sections based on fully completed units
-  const completedSectionsCount = Math.min(
-    totalSections,
-    Math.floor((completedUnitsCount / Math.max(1, totalUnits)) * totalSections)
-  );
+  // Exact section grouping derived strictly from authoritative runtime curriculum data
+  const sectionMap = new Map<string, { sectionId: string; sectionNumber?: number; units: typeof course.levels[0]['units'] }>();
+  for (const lvl of course.levels) {
+    for (const unit of lvl.units) {
+      const secKey = unit.sectionId || (unit.sectionNumber ? `sec_${unit.sectionNumber}` : `sec_lvl_${lvl.cefr}`);
+      if (!sectionMap.has(secKey)) {
+        sectionMap.set(secKey, {
+          sectionId: secKey,
+          sectionNumber: unit.sectionNumber,
+          units: [],
+        });
+      }
+      sectionMap.get(secKey)!.units.push(unit);
+    }
+  }
+
+  // Derive totalSections strictly from runtime data (never hard-coded)
+  const totalSections = sectionMap.size > 0 ? sectionMap.size : 26;
+
+  // Exact section completion: A section is completed IF AND ONLY IF every lesson and unit in that actual section is completed
+  let completedSectionsCount = 0;
+  for (const [_, sec] of sectionMap) {
+    const isSectionCompleted =
+      sec.units.length > 0 &&
+      sec.units.every((u) => {
+        if (progress.completedUnitIds.includes(u.id)) return true;
+        if (u.lessons.length === 0) return false;
+        return u.lessons.every((l) => progress.completedLessonIds.includes(l.id));
+      });
+    if (isSectionCompleted) {
+      completedSectionsCount++;
+    }
+  }
 
   // Level completion breakdown across all authoritative CEFR levels (Pre-A1 through C2)
   const levelBreakdown = course.levels.map((lvl) => {

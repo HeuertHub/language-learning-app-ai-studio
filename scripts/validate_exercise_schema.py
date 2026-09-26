@@ -133,7 +133,7 @@ def validate_exercise(ex, lesson_id):
                 errors.append("SET_EQUALITY exercise must have at least one option marked isCorrect=True")
 
     # Pattern-specific payload validation
-    if pattern in ['MULTIPLE_CHOICE', 'MULTI_SELECT', 'PAIR_MATCHING', 'AUDIO_COMPREHENSION']:
+    if pattern in ['MULTIPLE_CHOICE', 'MULTI_SELECT', 'AUDIO_COMPREHENSION']:
         options = ex.get('options')
         if not options or not isinstance(options, list) or len(options) < 2:
             errors.append(f"Pattern {pattern} requires 'options' list with at least 2 options")
@@ -145,6 +145,19 @@ def validate_exercise(ex, lesson_id):
                     errors.append(f"Option index {opt_idx} has empty 'text'")
                 if not isinstance(opt.get('isCorrect'), bool):
                     errors.append(f"Option index {opt_idx} 'isCorrect' must be boolean")
+
+    if pattern == 'PAIR_MATCHING':
+        pairs = ex.get('matchingPairs')
+        if not pairs or not isinstance(pairs, list) or len(pairs) < 2:
+            errors.append("PAIR_MATCHING requires 'matchingPairs' list with at least 2 pairs")
+        else:
+            for p_idx, pair in enumerate(pairs):
+                if not pair.get('id'):
+                    errors.append(f"Pair index {p_idx} missing 'id'")
+                if not pair.get('left') or len(str(pair.get('left')).strip()) == 0:
+                    errors.append(f"Pair index {p_idx} missing 'left'")
+                if not pair.get('right') or len(str(pair.get('right')).strip()) == 0:
+                    errors.append(f"Pair index {p_idx} missing 'right'")
 
     if pattern == 'SUFFIX_ATTACHMENT':
         if not ex.get('baseWord'):

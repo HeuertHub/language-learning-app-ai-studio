@@ -13,6 +13,8 @@
     {
       "id": "unit_pre_a1_01_alphabet_consonants_intro",
       "unitNumber": 1,
+      "sectionId": "sec_pre_a1_01_cyrillic_graphemes_vowels",
+      "sectionNumber": 1,
       "title": "Cyrillic Script Recognition & Shared Consonants",
       "cyrillicTitle": "Deciphering Cyrillic letters and recognizing global cognates",
       "description": "Master orthographic recognition, acoustic discrimination, and precise oral articulation for: Cyrillic Script Recognition & Shared Consonants.",
@@ -138,34 +140,26 @@
               "prompt": "Pair each uppercase Cyrillic letter with its exact lowercase partner for the shared letters Т, К, О, А.",
               "stimulusTextCyrillic": "Т, К, О, А",
               "hint": "Cyrillic lowercase letters generally mirror their uppercase shapes in reduced height.",
-              "options": [
+              "matchingPairs": [
                 {
                   "id": "pair_t",
-                  "text": "Т -> т",
-                  "cyrillic": "Т - т",
-                  "isCorrect": true,
-                  "explanation": "Т matches lowercase т."
+                  "left": "Т",
+                  "right": "т"
                 },
                 {
                   "id": "pair_k",
-                  "text": "К -> к",
-                  "cyrillic": "К - к",
-                  "isCorrect": true,
-                  "explanation": "К matches lowercase к."
+                  "left": "К",
+                  "right": "к"
                 },
                 {
                   "id": "pair_o",
-                  "text": "О -> о",
-                  "cyrillic": "О - о",
-                  "isCorrect": true,
-                  "explanation": "О matches lowercase о."
+                  "left": "О",
+                  "right": "о"
                 },
                 {
                   "id": "pair_a",
-                  "text": "А -> а",
-                  "cyrillic": "А - а",
-                  "isCorrect": true,
-                  "explanation": "А matches lowercase а."
+                  "left": "А",
+                  "right": "а"
                 }
               ],
               "correctAnswer": "Т-т, К-к, О-о, А-а",
@@ -188,10 +182,7 @@
                 "speechRate": 0.8
               },
               "evaluation": {
-                "matchType": "NORMALIZED_TEXT",
-                "caseSensitive": false,
-                "stripPunctuation": true,
-                "normalizeWhitespace": true
+                "matchType": "EXACT"
               },
               "lessonId": "les_pre_a1_01_01_shared_consonants_visual",
               "unitId": "unit_pre_a1_01_alphabet_consonants_intro",
@@ -447,6 +438,8 @@
     {
       "id": "unit_pre_a1_02_mongolian_distinct_letters",
       "unitNumber": 2,
+      "sectionId": "sec_pre_a1_01_cyrillic_graphemes_vowels",
+      "sectionNumber": 1,
       "title": "Mongolian-Specific Letters: Ө and Ү",
       "cyrillicTitle": "Sounding out distinctly Mongolian words and place names",
       "description": "Master orthographic recognition, acoustic discrimination, and precise oral articulation for: Mongolian-Specific Letters: Ө and Ү.",
@@ -849,6 +842,8 @@
     {
       "id": "unit_pre_a1_03_cardinal_short_vowels",
       "unitNumber": 3,
+      "sectionId": "sec_pre_a1_01_cyrillic_graphemes_vowels",
+      "sectionNumber": 1,
       "title": "The Seven Cardinal Short Vowels",
       "cyrillicTitle": "Reading simple core roots and recognizing vowel resonance",
       "description": "Master orthographic recognition, acoustic discrimination, and precise oral articulation for: The Seven Cardinal Short Vowels.",
@@ -1310,6 +1305,8 @@
     {
       "id": "unit_pre_a1_04_consonants_inventory_stops",
       "unitNumber": 4,
+      "sectionId": "sec_pre_a1_01_cyrillic_graphemes_vowels",
+      "sectionNumber": 1,
       "title": "Consonant Inventory: Obstruents & Sonorants",
       "cyrillicTitle": "Sounding out basic nominal stems and public street signs",
       "description": "Master orthographic recognition, acoustic discrimination, and precise oral articulation for: Consonant Inventory: Obstruents & Sonorants.",
@@ -1426,6 +1423,8 @@
     {
       "id": "unit_pre_a1_05_cyrillic_keyboard_mastery",
       "unitNumber": 5,
+      "sectionId": "sec_pre_a1_01_cyrillic_graphemes_vowels",
+      "sectionNumber": 1,
       "title": "Cyrillic Keyboard Mastery & Digital Input",
       "cyrillicTitle": "Typing Mongolian words, searching terms, and inputting numbers",
       "description": "Master orthographic recognition, acoustic discrimination, and precise oral articulation for: Cyrillic Keyboard Mastery & Digital Input.",
@@ -1521,6 +1520,8 @@
     {
       "id": "unit_pre_a1_06_digits_and_classroom_prompts",
       "unitNumber": 6,
+      "sectionId": "sec_pre_a1_01_cyrillic_graphemes_vowels",
+      "sectionNumber": 1,
       "title": "Digits 0–10 & Basic Classroom Commands",
       "cyrillicTitle": "Following teacher instructions, counting, and reading numbers",
       "description": "Master orthographic recognition, acoustic discrimination, and precise oral articulation for: Digits 0–10 & Basic Classroom Commands.",
@@ -1637,6 +1638,8 @@
     {
       "id": "unit_pre_a1_07_personal_names_and_identification",
       "unitNumber": 7,
+      "sectionId": "sec_pre_a1_01_cyrillic_graphemes_vowels",
+      "sectionNumber": 1,
       "title": "Spelling Personal Names & ID Cards",
       "cyrillicTitle": "Introducing one's name and reading Mongolian names",
       "description": "Master orthographic recognition, acoustic discrimination, and precise oral articulation for: Spelling Personal Names & ID Cards.",

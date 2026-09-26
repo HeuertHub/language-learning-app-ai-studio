@@ -264,6 +264,8 @@ def main():
             unit_obj = {
                 'id': uid,
                 'unitNumber': global_unit_seq,
+                'sectionId': sec_id,
+                'sectionNumber': sec_num,
                 'title': u_title,
                 'cyrillicTitle': u_theme,
                 'description': u_desc,
@@ -314,7 +316,42 @@ def main():
         }
         section_summaries.append(summary)
 
-    # 6. Write curriculum manifest
+    # 6. Derive authoritative grammar reference from frozen 256 units
+    derived_grammar_reference = []
+    for lvl in CEFR_ORDER:
+        u_list = [u for u in all_units_by_id.values() if u.get('cefrLevel') == lvl]
+        u_list = sorted(u_list, key=lambda x: x.get('sequencePosition', 0))
+        for u in u_list:
+            uid = u.get('unitId', '')
+            u_title = u.get('title', '')
+            seq = u.get('sequencePosition', 0)
+            for g_concept in u.get('grammarIntroduced', []):
+                concept_clean = g_concept.strip()
+                if not concept_clean:
+                    continue
+                rule_id = f"rule_{uid}_{len(derived_grammar_reference)+1}"
+                derived_grammar_reference.append({
+                    'id': rule_id,
+                    'title': concept_clean,
+                    'cyrillicTitle': concept_clean,
+                    'summary': f"Grammar concept introduced in Unit {seq}: {u_title} ({lvl}).",
+                    'formula': '',
+                    'explanation': f"Authoritative curriculum grammar target assigned in frozen blueprint {uid}. Comprehensive linguistic monograph is in content realization pipeline.",
+                    'examples': [],
+                    'unitId': uid,
+                    'unitTitle': u_title,
+                    'cefrLevel': lvl,
+                    'realizationStatus': 'concept_frozen_in_curriculum'
+                })
+
+    grammar_ref_path = os.path.join(output_dir, 'grammar_reference.json')
+    with open(grammar_ref_path, 'w', encoding='utf-8') as f:
+        json.dump(derived_grammar_reference, f, ensure_ascii=False, indent=2)
+    print(f"✓ Generated authoritative grammar reference at {grammar_ref_path} ({len(derived_grammar_reference)} concepts across 256 units)")
+
+    # 7. Write curriculum manifest (omits guessed totalVocabularyItems; derives exact productive lemma target)
+    total_target_productive_lemmas = sum(l.get('newProductiveLemmaTarget', 0) for l in all_lessons_by_id.values())
+
     manifest_data = {
         'courseId': 'mongolian-comprehensive',
         'name': 'Comprehensive Mongolian (Pre-A1 - C2)',
@@ -326,7 +363,7 @@ def main():
         'totalUnits': global_unit_seq,
         'totalLessons': total_lessons,
         'totalExercises': total_pilot_exercises,
-        'totalVocabularyItems': 4800,
+        'totalTargetProductiveLemmas': total_target_productive_lemmas,
         'sections': section_summaries
     }
 
@@ -334,12 +371,12 @@ def main():
     with open(manifest_output_path, 'w', encoding='utf-8') as f:
         json.dump(manifest_data, f, ensure_ascii=False, indent=2)
 
-    # 7. Write pilot exercises index
+    # 8. Write pilot exercises index
     pilot_exercises_output_path = os.path.join(output_dir, 'pilot_exercises.json')
     with open(pilot_exercises_output_path, 'w', encoding='utf-8') as f:
         json.dump(pilot_exercises_by_lesson, f, ensure_ascii=False, indent=2)
 
-    # 8. Write full course bundle
+    # 9. Write full course bundle
     for lvl in CEFR_ORDER:
         full_course_levels.append(levels_dict[lvl])
 
@@ -352,7 +389,7 @@ def main():
         'cefrRange': 'Pre-A1 - C2',
         'totalLevels': len(full_course_levels),
         'levels': full_course_levels,
-        'masterGrammarReference': []
+        'masterGrammarReference': derived_grammar_reference
     }
 
     course_full_path = os.path.join(output_dir, 'course_full.json')

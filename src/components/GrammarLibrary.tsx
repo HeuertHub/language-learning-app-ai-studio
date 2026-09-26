@@ -124,74 +124,101 @@ export const GrammarLibrary: React.FC<GrammarLibraryProps> = ({ rules, audioSpee
       {/* Subtab 1: Core Principles & Rules */}
       {activeSubTab === 'rules' && (
         <div className="space-y-6">
-          {filteredRules.map((rule) => (
-            <div
-              key={rule.id}
-              className="bg-white border border-stone-200 rounded-xl p-6 shadow-2xs space-y-4"
-            >
-              <div className="border-b border-stone-100 pb-3">
-                <div className="flex items-center justify-between">
-                  <h2 className="text-lg font-serif font-bold text-stone-900">
-                    {rule.title}
-                  </h2>
-                  <span className="font-serif italic text-stone-500 text-sm">
-                    {rule.cyrillicTitle}
-                  </span>
-                </div>
-                <p className="text-xs text-stone-600 mt-1">
-                  {rule.summary}
-                </p>
-              </div>
-
-              {rule.formula && (
-                <div className="bg-stone-50 border border-stone-200 rounded-lg p-3 text-xs font-mono text-stone-800">
-                  <span className="font-bold text-stone-500 uppercase mr-2 text-[10px]">Formula:</span>
-                  <span>{rule.formula}</span>
-                </div>
-              )}
-
-              <p className="text-xs sm:text-sm text-stone-700 leading-relaxed">
-                {rule.explanation}
+          <div className="p-4 bg-stone-50 border border-stone-200 rounded-xl text-xs text-stone-700 flex items-start gap-3">
+            <BookOpen className="w-5 h-5 text-stone-800 shrink-0 mt-0.5" />
+            <div className="space-y-1">
+              <span className="font-semibold text-stone-900 block">
+                Authoritative 256-Unit Curriculum Grammar Architecture ({rules.length} Concepts):
+              </span>
+              <p className="text-stone-600 leading-relaxed">
+                Indexed directly from the frozen CEFR unit blueprints. Comprehensive pedagogical monographs and expanded inflectional paradigms are progressively fulfilled across content stages.
               </p>
-
-              {rule.examples.length > 0 && (
-                <div className="space-y-2 pt-2">
-                  <div className="text-[11px] font-mono uppercase tracking-wider text-stone-500 font-semibold">
-                    Illustrative Morphological Examples:
-                  </div>
-                  <div className="space-y-2">
-                    {rule.examples.map((ex, idx) => (
-                      <div
-                        key={idx}
-                        className="bg-stone-50/60 border border-stone-200 rounded-lg p-3 text-xs flex items-start justify-between gap-3"
-                      >
-                        <div className="space-y-0.5">
-                          <div className="font-serif font-bold text-stone-900 text-sm">
-                            {ex.cyrillic}
-                          </div>
-                          <div className="text-stone-700">
-                            {ex.english}
-                          </div>
-                          <div className="text-stone-500 text-[11px] font-mono">
-                            {ex.breakdown}
-                          </div>
-                        </div>
-
-                        <button
-                          type="button"
-                          onClick={() => playMongolianAudio(ex.cyrillic, audioSpeed)}
-                          className="p-1.5 rounded-md hover:bg-stone-200 text-stone-700 transition-colors shrink-0"
-                          title="Speak phrase"
-                        >
-                          <Volume2 className="w-4 h-4" />
-                        </button>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              )}
             </div>
-          ))}
+          </div>
+
+          {filteredRules.length === 0 ? (
+            <div className="p-8 text-center bg-white border border-stone-200 rounded-xl text-stone-500 text-xs">
+              No grammatical concepts found matching &ldquo;{searchTerm}&rdquo;.
+            </div>
+          ) : (
+            filteredRules.map((rule) => (
+              <div
+                key={rule.id}
+                className="bg-white border border-stone-200 rounded-xl p-6 shadow-2xs space-y-4"
+              >
+                <div className="border-b border-stone-100 pb-3">
+                  <div className="flex flex-wrap items-center justify-between gap-2">
+                    <div className="flex items-center gap-2">
+                      {rule.cefrLevel && (
+                        <span className="px-1.5 py-0.5 rounded bg-stone-100 font-mono font-bold text-[10px] text-stone-700">
+                          {rule.cefrLevel}
+                        </span>
+                      )}
+                      <h2 className="text-lg font-serif font-bold text-stone-900">
+                        {rule.title}
+                      </h2>
+                    </div>
+                    {rule.unitTitle && (
+                      <span className="font-mono text-stone-500 text-xs">
+                        {rule.unitTitle}
+                      </span>
+                    )}
+                  </div>
+                  <p className="text-xs text-stone-600 mt-1">
+                    {rule.summary}
+                  </p>
+                </div>
+
+                {rule.formula && (
+                  <div className="bg-stone-50 border border-stone-200 rounded-lg p-3 text-xs font-mono text-stone-800">
+                    <span className="font-bold text-stone-500 uppercase mr-2 text-[10px]">Formula:</span>
+                    <span>{rule.formula}</span>
+                  </div>
+                )}
+
+                <p className="text-xs sm:text-sm text-stone-700 leading-relaxed">
+                  {rule.explanation}
+                </p>
+
+                {rule.examples && rule.examples.length > 0 && (
+                  <div className="space-y-2 pt-2">
+                    <div className="text-[11px] font-mono uppercase tracking-wider text-stone-500 font-semibold">
+                      Illustrative Morphological Examples:
+                    </div>
+                    <div className="space-y-2">
+                      {rule.examples.map((ex, idx) => (
+                        <div
+                          key={idx}
+                          className="bg-stone-50/60 border border-stone-200 rounded-lg p-3 text-xs flex items-start justify-between gap-3"
+                        >
+                          <div className="space-y-0.5">
+                            <div className="font-serif font-bold text-stone-900 text-sm">
+                              {ex.cyrillic}
+                            </div>
+                            <div className="text-stone-700">
+                              {ex.english}
+                            </div>
+                            <div className="text-stone-500 text-[11px] font-mono">
+                              {ex.breakdown}
+                            </div>
+                          </div>
+
+                          <button
+                            type="button"
+                            onClick={() => playMongolianAudio(ex.cyrillic, audioSpeed)}
+                            className="p-1.5 rounded-md hover:bg-stone-200 text-stone-700 transition-colors shrink-0"
+                            title="Speak phrase"
+                          >
+                            <Volume2 className="w-4 h-4" />
+                          </button>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+              </div>
+            ))
+          )}
         </div>
       )}
 

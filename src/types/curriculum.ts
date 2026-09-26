@@ -64,6 +64,10 @@ export interface GrammarRule {
   }[];
   explanation: string;
   exceptions?: string[];
+  unitId?: string;
+  unitTitle?: string;
+  cefrLevel?: string;
+  realizationStatus?: string;
 }
 
 export interface Lesson {
@@ -88,6 +92,8 @@ export interface Lesson {
 export interface Unit {
   id: string;
   unitNumber: number;
+  sectionId?: string;
+  sectionNumber?: number;
   title: string;
   cyrillicTitle: string;
   description: string;

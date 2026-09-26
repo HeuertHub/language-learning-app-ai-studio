@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import type { Lesson, Unit, LevelCurriculum, Exercise } from '../types/curriculum';
 import type { ExerciseDefinition, InteractionPattern } from '../types/exerciseEngine';
-import { playMongolianAudio, getAudioSystemStatus } from '../utils/audio';
+import { playMongolianAudio, getAudioSystemStatus, checkExerciseAudioAvailability } from '../utils/audio';
 import {
   evaluateExerciseSubmission,
   type EvaluationOutcome,
@@ -24,6 +24,9 @@ import {
   FileText,
   VolumeX,
   Check,
+  Link2,
+  Unlink,
+  X,
 } from 'lucide-react';
 
 interface LessonViewProps {
@@ -198,21 +201,24 @@ export const LessonView: React.FC<LessonViewProps> = ({
       setBuiltSentenceTokens([]);
     }
 
-    // Auto-play audio if applicable
+    // Auto-play audio ONLY if audio is genuinely available (never auto-play when audio is unavailable or unsupported)
     const audioText = currentExercise.audio?.speechSynthesisText;
     if (
       (currentExercise.interactionPattern === 'AUDIO_DICTATION' ||
         currentExercise.interactionPattern === 'AUDIO_COMPREHENSION') &&
       audioText
     ) {
-      playMongolianAudio(
-        audioText,
-        audioSpeed,
-        () => setIsPlayingAudio(true),
-        () => setIsPlayingAudio(false)
-      );
+      const assessment = checkExerciseAudioAvailability(currentExercise, lesson);
+      if (assessment.isAvailable) {
+        playMongolianAudio(
+          audioText,
+          audioSpeed,
+          () => setIsPlayingAudio(true),
+          () => setIsPlayingAudio(false)
+        );
+      }
     }
-  }, [currentExerciseIndex, currentExercise, phase, audioSpeed]);
+  }, [currentExerciseIndex, currentExercise, phase, audioSpeed, lesson]);
 
   const handlePlayAudio = (text: string, customSpeed?: number) => {
     playMongolianAudio(
@@ -261,7 +267,8 @@ export const LessonView: React.FC<LessonViewProps> = ({
     setIsAnswerSubmitted(true);
     setAttemptCount((prev) => prev + 1);
 
-    if (outcome.isCorrect) {
+    // Per Phase 3B.4: Qualitative rubric submissions must NOT increment objective correctness counts
+    if (outcome.isCorrect && !outcome.isRubricQualitative) {
       setCorrectCount((prev) => prev + 1);
     }
   };
@@ -273,11 +280,12 @@ export const LessonView: React.FC<LessonViewProps> = ({
       // Completed all exercises in this lesson
       const elapsedMinutes = Math.max(1, Math.round((Date.now() - sessionStartTime) / 60000));
       setPhase('completed');
+      const finalExerciseCorrect = evaluationOutcome?.isCorrect && !evaluationOutcome?.isRubricQualitative ? 1 : 0;
       onCompleteLesson({
         lessonId: lesson.id,
         unitId: unit.id,
         exercisesAttempted: attemptCount + 1,
-        exercisesCorrect: correctCount + (evaluationOutcome?.isCorrect ? 1 : 0),
+        exercisesCorrect: correctCount + finalExerciseCorrect,
         minutesSpent: elapsedMinutes,
         vocabMasteredCount: lesson.vocabulary.length,
       });
@@ -544,30 +552,48 @@ export const LessonView: React.FC<LessonViewProps> = ({
         </div>
 
         {/* Audio Player Controls */}
-        {audioText && (
-          <div className="flex items-center gap-3 p-3 bg-stone-50 rounded-lg border border-stone-200">
-            <button
-              type="button"
-              onClick={() => handlePlayAudio(audioText, audioSpeed)}
-              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-md bg-stone-900 text-stone-100 hover:bg-stone-800 text-xs font-medium transition-colors"
-            >
-              <Volume2 className="w-4 h-4" />
-              <span>Listen</span>
-            </button>
-            <button
-              type="button"
-              onClick={() => handlePlayAudio(audioText, 0.75)}
-              className="inline-flex items-center gap-1 px-2.5 py-1.5 rounded-md bg-white border border-stone-300 text-stone-700 hover:bg-stone-100 text-xs font-mono font-medium transition-colors"
-            >
-              <span>0.75x Slow</span>
-            </button>
-            <div className="text-[11px] text-stone-500 ml-auto truncate">
-              {currentExercise.audio?.ipaTranscription && (
-                <span className="font-mono text-stone-600">[{currentExercise.audio.ipaTranscription}]</span>
-              )}
+        {audioText && (() => {
+          const audioAssessment = checkExerciseAudioAvailability(currentExercise, lesson);
+          if (!audioAssessment.isAvailable) {
+            return (
+              <div className="flex items-center gap-2.5 p-3 bg-amber-50/60 border border-amber-200 rounded-lg text-xs text-amber-950">
+                <VolumeX className="w-4 h-4 text-amber-700 shrink-0" />
+                <span className="font-medium">
+                  {audioAssessment.statusMessage || 'Appropriate Mongolian audio unavailable (native recording pending)'}
+                </span>
+                <div className="text-[11px] text-stone-500 ml-auto truncate">
+                  {currentExercise.audio?.ipaTranscription && (
+                    <span className="font-mono text-stone-600">[{currentExercise.audio.ipaTranscription}]</span>
+                  )}
+                </div>
+              </div>
+            );
+          }
+          return (
+            <div className="flex items-center gap-3 p-3 bg-stone-50 rounded-lg border border-stone-200">
+              <button
+                type="button"
+                onClick={() => handlePlayAudio(audioText, audioSpeed)}
+                className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-md bg-stone-900 text-stone-100 hover:bg-stone-800 text-xs font-medium transition-colors"
+              >
+                <Volume2 className="w-4 h-4" />
+                <span>Listen</span>
+              </button>
+              <button
+                type="button"
+                onClick={() => handlePlayAudio(audioText, 0.75)}
+                className="inline-flex items-center gap-1 px-2.5 py-1.5 rounded-md bg-white border border-stone-300 text-stone-700 hover:bg-stone-100 text-xs font-mono font-medium transition-colors"
+              >
+                <span>0.75x Slow</span>
+              </button>
+              <div className="text-[11px] text-stone-500 ml-auto truncate">
+                {currentExercise.audio?.ipaTranscription && (
+                  <span className="font-mono text-stone-600">[{currentExercise.audio.ipaTranscription}]</span>
+                )}
+              </div>
             </div>
-          </div>
-        )}
+          );
+        })()}
 
         {/* ========================================================================= */}
         {/* INTERACTION PATTERN RENDERERS */}
@@ -664,32 +690,169 @@ export const LessonView: React.FC<LessonViewProps> = ({
           </div>
         )}
 
-        {/* 3. PAIR_MATCHING */}
-        {pattern === 'PAIR_MATCHING' && currentExercise.options && (
-          <div className="space-y-4">
-            <p className="text-xs text-stone-500 italic">
-              Verify matching Cyrillic grapheme pairs:
-            </p>
-            <div className="grid grid-cols-2 gap-3">
-              {currentExercise.options.map((opt) => {
-                const isSelected = selectedOptionId === opt.id;
-                return (
-                  <button
-                    key={opt.id}
-                    type="button"
-                    disabled={isAnswerSubmitted}
-                    onClick={() => setSelectedOptionId(opt.id)}
-                    className={`p-4 rounded-lg border text-center transition-all ${
-                      isSelected
-                        ? 'border-stone-900 bg-stone-100 font-bold'
-                        : 'border-stone-200 bg-white hover:bg-stone-50'
-                    }`}
-                  >
-                    <span className="text-lg font-serif">{opt.text}</span>
-                  </button>
-                );
-              })}
+        {/* 3. PAIR_MATCHING (Genuine Multi-Pair Construction) */}
+        {pattern === 'PAIR_MATCHING' && (
+          <div className="space-y-6">
+            <div className="flex items-center justify-between text-xs text-stone-500 pb-1 border-b border-stone-100">
+              <span className="italic">
+                Select an item on the left, then tap its matching partner on the right:
+              </span>
+              <span className="font-mono font-medium text-stone-700">
+                Matched: {Object.keys(matchedPairs).length} / {(currentExercise.matchingPairs || []).length}
+              </span>
             </div>
+
+            {currentExercise.matchingPairs && currentExercise.matchingPairs.length > 0 ? (
+              <div className="space-y-5">
+                {/* Two-Column Matching Columns */}
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                  {/* Left-Side Column */}
+                  <div className="space-y-2">
+                    <span className="text-xs font-mono font-semibold uppercase text-stone-500 block mb-1">
+                      Column A (Select Source):
+                    </span>
+                    <div className="space-y-2">
+                      {currentExercise.matchingPairs.map((pair) => {
+                        const isSelectedLeft = selectedPairLeft === pair.left;
+                        const pairedRight = matchedPairs[pair.left];
+                        const isPaired = !!pairedRight;
+
+                        let cardStyle = 'border-stone-200 bg-white hover:border-stone-400 text-stone-900';
+                        if (isSelectedLeft) {
+                          cardStyle = 'border-stone-900 bg-stone-900 text-stone-100 ring-2 ring-stone-900 shadow-xs';
+                        } else if (isPaired) {
+                          cardStyle = 'border-stone-400 bg-stone-50 text-stone-900 font-medium';
+                        }
+
+                        return (
+                          <button
+                            key={pair.id || pair.left}
+                            type="button"
+                            disabled={isAnswerSubmitted}
+                            onClick={() => {
+                              if (isAnswerSubmitted) return;
+                              setSelectedPairLeft(isSelectedLeft ? null : pair.left);
+                            }}
+                            className={`w-full p-3.5 rounded-lg border text-left transition-all flex items-center justify-between ${cardStyle}`}
+                          >
+                            <span className="text-base font-serif font-bold">{pair.left}</span>
+                            {isPaired && (
+                              <span className="inline-flex items-center gap-1 text-xs font-mono px-2 py-0.5 rounded bg-stone-200 text-stone-800">
+                                <span>↔</span>
+                                <span>{pairedRight}</span>
+                              </span>
+                            )}
+                          </button>
+                        );
+                      })}
+                    </div>
+                  </div>
+
+                  {/* Right-Side Column (Shuffled/Inverted order to prevent trivial adjacency) */}
+                  <div className="space-y-2">
+                    <span className="text-xs font-mono font-semibold uppercase text-stone-500 block mb-1">
+                      Column B (Select Target):
+                    </span>
+                    <div className="space-y-2">
+                      {[...currentExercise.matchingPairs]
+                        .reverse()
+                        .map((pair) => {
+                          const targetRight = pair.right;
+                          // Find if any left item is currently paired to this right item
+                          const pairedLeft = Object.keys(matchedPairs).find(
+                            (k) => matchedPairs[k] === targetRight
+                          );
+                          const isPaired = !!pairedLeft;
+
+                          return (
+                            <button
+                              key={`right_${pair.id || targetRight}`}
+                              type="button"
+                              disabled={isAnswerSubmitted}
+                              onClick={() => {
+                                if (isAnswerSubmitted) return;
+                                if (!selectedPairLeft) return;
+                                // Pair selectedLeft with this targetRight
+                                setMatchedPairs((prev) => ({
+                                  ...prev,
+                                  [selectedPairLeft]: targetRight,
+                                }));
+                                setSelectedPairLeft(null);
+                              }}
+                              className={`w-full p-3.5 rounded-lg border text-left transition-all flex items-center justify-between ${
+                                isPaired
+                                  ? 'border-stone-400 bg-stone-100 text-stone-900 font-medium'
+                                  : selectedPairLeft
+                                  ? 'border-stone-300 bg-white hover:border-stone-900 hover:bg-stone-50 cursor-pointer'
+                                  : 'border-stone-200 bg-white text-stone-700 opacity-90'
+                              }`}
+                            >
+                              <span className="text-base font-serif font-bold">{targetRight}</span>
+                              {isPaired && (
+                                <span className="inline-flex items-center gap-1 text-xs font-mono px-2 py-0.5 rounded bg-stone-200 text-stone-800">
+                                  <span>{pairedLeft}</span>
+                                  <span>↔</span>
+                                </span>
+                              )}
+                            </button>
+                          );
+                        })}
+                    </div>
+                  </div>
+                </div>
+
+                {/* Constructed Pairs Workspace */}
+                <div className="pt-2">
+                  <div className="text-xs font-mono text-stone-500 uppercase tracking-wider mb-2 flex items-center justify-between">
+                    <span>Constructed Grapheme Pairs:</span>
+                    {Object.keys(matchedPairs).length > 0 && !isAnswerSubmitted && (
+                      <button
+                        type="button"
+                        onClick={() => setMatchedPairs({})}
+                        className="text-[11px] text-stone-500 hover:text-red-700 transition-colors"
+                      >
+                        Reset All Pairs
+                      </button>
+                    )}
+                  </div>
+
+                  {Object.keys(matchedPairs).length === 0 ? (
+                    <div className="p-3.5 rounded-lg border border-dashed border-stone-300 text-xs text-stone-400 italic text-center">
+                      No pairs constructed yet. Tap an item in Column A, then tap its corresponding item in Column B.
+                    </div>
+                  ) : (
+                    <div className="flex flex-wrap gap-2.5">
+                      {Object.entries(matchedPairs).map(([left, right]) => (
+                        <div
+                          key={left}
+                          className="inline-flex items-center gap-2 px-3 py-1.5 rounded-md bg-stone-100 border border-stone-300 text-stone-900 text-xs font-mono"
+                        >
+                          <span className="font-serif font-bold text-sm">{left}</span>
+                          <span className="text-stone-400">↔</span>
+                          <span className="font-serif font-bold text-sm">{right}</span>
+                          {!isAnswerSubmitted && (
+                            <button
+                              type="button"
+                              onClick={() => {
+                                setMatchedPairs((prev) => {
+                                  const updated = { ...prev };
+                                  delete updated[left];
+                                  return updated;
+                                });
+                              }}
+                              className="text-stone-400 hover:text-red-600 transition-colors ml-1 p-0.5"
+                              title="Unlink pair"
+                            >
+                              <X className="w-3.5 h-3.5" />
+                            </button>
+                          )}
+                        </div>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              </div>
+            ) : null}
           </div>
         )}
 
@@ -863,20 +1026,28 @@ export const LessonView: React.FC<LessonViewProps> = ({
         {isAnswerSubmitted && evaluationOutcome && (
           <div
             className={`p-5 rounded-lg border space-y-4 animate-in fade-in duration-200 ${
-              evaluationOutcome.isCorrect
+              evaluationOutcome.isRubricQualitative
+                ? 'bg-stone-50 border-stone-300 text-stone-900'
+                : evaluationOutcome.isCorrect
                 ? 'bg-emerald-50/70 border-emerald-200 text-emerald-950'
                 : 'bg-red-50/70 border-red-200 text-red-950'
             }`}
           >
             <div className="flex items-start gap-3">
-              {evaluationOutcome.isCorrect ? (
+              {evaluationOutcome.isRubricQualitative ? (
+                <FileText className="w-5 h-5 text-stone-700 shrink-0 mt-0.5" />
+              ) : evaluationOutcome.isCorrect ? (
                 <CheckCircle2 className="w-5 h-5 text-emerald-700 shrink-0 mt-0.5" />
               ) : (
                 <AlertCircle className="w-5 h-5 text-red-700 shrink-0 mt-0.5" />
               )}
               <div className="space-y-1 flex-1">
                 <div className="font-semibold text-sm">
-                  {evaluationOutcome.isCorrect ? 'Correct Analysis' : 'Correction Required'}
+                  {evaluationOutcome.isRubricQualitative
+                    ? 'Response Submitted — Review Against Rubric'
+                    : evaluationOutcome.isCorrect
+                    ? 'Correct Analysis'
+                    : 'Correction Required'}
                 </div>
                 <p className="text-xs sm:text-sm leading-relaxed">
                   {evaluationOutcome.feedbackMessage}
@@ -884,10 +1055,34 @@ export const LessonView: React.FC<LessonViewProps> = ({
               </div>
             </div>
 
+            {/* Pair Matching Detailed Breakdown if applicable */}
+            {pattern === 'PAIR_MATCHING' && evaluationOutcome.details?.pairs && (
+              <div className="pt-3 border-t border-stone-200/80 space-y-2">
+                <div className="text-xs font-mono font-semibold uppercase tracking-wider text-stone-700">
+                  Pairing Validation Details:
+                </div>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs">
+                  {(evaluationOutcome.details.pairs as Array<{ left: string; expectedRight: string; userRight: string; isMatch: boolean }>).map((p, idx) => (
+                    <div
+                      key={idx}
+                      className={`p-2 rounded border flex items-center justify-between ${
+                        p.isMatch ? 'bg-emerald-50 border-emerald-200 text-emerald-900' : 'bg-red-50 border-red-200 text-red-900'
+                      }`}
+                    >
+                      <span className="font-serif font-bold">{p.left} ↔ {p.userRight || '(None)'}</span>
+                      <span className="text-[11px] font-mono">
+                        {p.isMatch ? '✓ Correct' : `✗ Expected: ${p.expectedRight}`}
+                      </span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
             {/* Qualitative Rubric Reflection Checklist */}
             {evaluationOutcome.isRubricQualitative && evaluationOutcome.rubricCriteria && (
-              <div className="mt-4 pt-4 border-t border-emerald-200/80 space-y-3">
-                <div className="text-xs font-mono font-bold uppercase tracking-wider text-emerald-900">
+              <div className="mt-4 pt-4 border-t border-stone-200 space-y-3">
+                <div className="text-xs font-mono font-bold uppercase tracking-wider text-stone-800">
                   Learner Qualitative Self-Reflection Checklist:
                 </div>
                 <div className="space-y-2">
@@ -897,7 +1092,7 @@ export const LessonView: React.FC<LessonViewProps> = ({
                     return (
                       <label
                         key={idx}
-                        className="flex items-start gap-2.5 text-xs text-emerald-950 cursor-pointer"
+                        className="flex items-start gap-2.5 text-xs text-stone-800 cursor-pointer"
                       >
                         <input
                           type="checkbox"
@@ -905,7 +1100,7 @@ export const LessonView: React.FC<LessonViewProps> = ({
                           onChange={(e) =>
                             setRubricSelfChecks((prev) => ({ ...prev, [cKey]: e.target.checked }))
                           }
-                          className="rounded border-emerald-300 text-emerald-700 focus:ring-emerald-600 mt-0.5"
+                          className="rounded border-stone-300 text-stone-900 focus:ring-stone-600 mt-0.5"
                         />
                         <span>
                           <strong>{c.criterion || `Criterion ${idx + 1}`}</strong> ({c.points} pts): {c.description}

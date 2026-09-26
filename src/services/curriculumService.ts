@@ -7,7 +7,6 @@ import type {
   GrammarRule,
 } from '../types/curriculum';
 import type { ExerciseDefinition } from '../types/exerciseEngine';
-import { MASTER_GRAMMAR_RULES } from '../data/mongolianCurriculum';
 
 export interface SectionSummary {
   sectionId: string;
@@ -36,7 +35,8 @@ export interface CurriculumManifest {
   totalUnits: number;
   totalLessons: number;
   totalExercises: number;
-  totalVocabularyItems: number;
+  totalVocabularyItems?: number;
+  totalTargetProductiveLemmas?: number;
   sections: SectionSummary[];
 }
 
@@ -116,7 +116,8 @@ class CurriculumService {
       if (fullRes.ok) {
         const data: LanguageCourse = await fullRes.json();
         if (data && data.levels && data.levels.length > 0) {
-          data.masterGrammarReference = MASTER_GRAMMAR_RULES;
+          // Authoritative masterGrammarReference derived strictly from frozen curriculum
+          data.masterGrammarReference = data.masterGrammarReference || [];
           this.fullCourse = data;
           return this.fullCourse;
         }
@@ -204,6 +205,17 @@ class CurriculumService {
       };
     });
 
+    // Load authoritative derived grammar concepts
+    let grammarRules: GrammarRule[] = [];
+    try {
+      const gRes = await fetch('/data/grammar_reference.json');
+      if (gRes.ok) {
+        grammarRules = await gRes.json();
+      }
+    } catch {
+      grammarRules = [];
+    }
+
     this.fullCourse = {
       id: manifest.courseId,
       name: manifest.name,
@@ -213,10 +225,22 @@ class CurriculumService {
       cefrRange: 'Pre-A1 - C2',
       totalLevels: levels.length,
       levels,
-      masterGrammarReference: MASTER_GRAMMAR_RULES,
+      masterGrammarReference: grammarRules,
     };
 
     return this.fullCourse;
+  }
+
+  async getGrammarReference(): Promise<GrammarRule[]> {
+    try {
+      const res = await fetch('/data/grammar_reference.json');
+      if (res.ok) {
+        return await res.json();
+      }
+      return [];
+    } catch {
+      return [];
+    }
   }
 }
 

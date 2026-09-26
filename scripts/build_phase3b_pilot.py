@@ -99,6 +99,14 @@ def validate_exercise(ex, lesson_meta):
     if eval_rules.get('matchType') == 'RUBRIC_CRITERIA':
         if not eval_rules.get('rubricCriteria') or len(eval_rules.get('rubricCriteria')) < 2:
             errors.append(f"Exercise {ex.get('exerciseId')} with matchType RUBRIC_CRITERIA missing rubricCriteria")
+    if ex.get('interactionPattern') == 'PAIR_MATCHING':
+        pairs = ex.get('matchingPairs')
+        if not pairs or not isinstance(pairs, list) or len(pairs) < 2:
+            errors.append(f"Exercise {ex.get('exerciseId')} with PAIR_MATCHING must define at least 2 matchingPairs")
+        else:
+            for p in pairs:
+                if not p.get('left') or not p.get('right'):
+                    errors.append(f"Exercise {ex.get('exerciseId')} matchingPair missing left or right: {p}")
 
     return errors
 

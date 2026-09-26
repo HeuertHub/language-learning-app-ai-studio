@@ -104,6 +104,11 @@ service cloud.firestore {
       allow write: if false;
     }
 
+    match /curriculum/{document=**} {
+      allow read: if true;
+      allow write: if false;
+    }
+
     match /lexicon/{document=**} {
       allow read: if true;
       allow write: if false;

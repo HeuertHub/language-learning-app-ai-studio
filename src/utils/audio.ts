@@ -80,6 +80,29 @@ export function playAcousticFallback(text: string, rate: number = 1.0) {
   osc2.stop(now + duration);
 }
 
+/**
+ * Checks whether text is an isolated vowel or phoneme (1-2 characters, or IPA transcription).
+ * Web Audio formant synthesis is pedagogically valid ONLY for isolated phonemes, never words or sentences.
+ */
+export function isIsolatedPhoneme(text: string): boolean {
+  if (!text) return false;
+  const clean = text.trim();
+
+  // Handle single letters or comma-separated isolated letters (e.g. "Т, К, О, А" or "А")
+  const parts = clean.split(/[,\s]+/).filter(Boolean);
+  if (parts.length > 0 && parts.every((p) => p.length <= 2)) {
+    // Isolated letter tokens
+    return true;
+  }
+
+  // Bracketed or slashed single IPA phonemes e.g. [œ], /a/, [t]
+  if (/^(\/|\[)[a-zA-Z\u0400-\u04FFœʏɔʊɛiː\s,]+(\/|\])$/.test(clean) && clean.length <= 8) {
+    return true;
+  }
+
+  return clean.length <= 2;
+}
+
 export interface AudioSystemStatus {
   hasMongolianVoice: boolean;
   voiceName: string | null;
@@ -107,18 +130,109 @@ export function getAudioSystemStatus(): AudioSystemStatus {
   };
 }
 
+export interface ExerciseAudioAssessment {
+  isAvailable: boolean;
+  isFormantFallback: boolean;
+  requiresNativeAsset: boolean;
+  statusMessage?: string;
+}
+
+/**
+ * Assesses whether audio is genuinely available for an exercise and lesson context.
+ * Strictly respects:
+ * - Foreign-language TTS prohibition (never uses RU/UK/BG/etc.)
+ * - Lesson audioSuitability / native-speaker-required metadata
+ * - Web Audio formant synthesis restricted strictly to isolated vowels/phonemes
+ */
+export function checkExerciseAudioAvailability(
+  exercise: {
+    audio?: {
+      requiresAudio?: boolean;
+      speechSynthesisText?: string;
+      ipaTranscription?: string;
+      nativeAudioUrl?: string;
+    };
+    modality?: string;
+    interactionPattern?: string;
+  },
+  lesson?: {
+    audioSuitability?: string;
+  }
+): ExerciseAudioAssessment {
+  const requiresAudio = !!exercise.audio?.requiresAudio;
+  const speechText = exercise.audio?.speechSynthesisText || '';
+  const nativeUrl = exercise.audio?.nativeAudioUrl;
+  const isNativeRequired =
+    lesson?.audioSuitability === 'native_speaker_required' ||
+    lesson?.audioSuitability === 'authentic_source_required';
+
+  // If a native audio recording asset is present, audio is available
+  if (nativeUrl) {
+    return {
+      isAvailable: true,
+      isFormantFallback: false,
+      requiresNativeAsset: false,
+      statusMessage: 'Authentic native audio recording available',
+    };
+  }
+
+  // If lesson metadata specifies native-speaker-required and no native asset exists:
+  if (isNativeRequired) {
+    return {
+      isAvailable: false,
+      isFormantFallback: false,
+      requiresNativeAsset: true,
+      statusMessage: 'Appropriate Mongolian audio unavailable (native recording required by curriculum)',
+    };
+  }
+
+  const status = getAudioSystemStatus();
+
+  // If an authentic Mongolian TTS voice exists in browser
+  if (status.hasMongolianVoice) {
+    return {
+      isAvailable: true,
+      isFormantFallback: false,
+      requiresNativeAsset: false,
+      statusMessage: 'Authentic Mongolian speech synthesis active',
+    };
+  }
+
+  // If no Mongolian voice exists:
+  // ONLY isolated vowels/phonemes may use Web Audio formant synthesizer
+  if (speechText && isIsolatedPhoneme(speechText)) {
+    return {
+      isAvailable: true,
+      isFormantFallback: true,
+      requiresNativeAsset: false,
+      statusMessage: 'Acoustic formant tone available for isolated phoneme',
+    };
+  }
+
+  // For words, sentences, dialogue, dictation, listening comprehension:
+  // Formant synthesizer MUST NOT substitute for Mongolian speech!
+  return {
+    isAvailable: false,
+    isFormantFallback: false,
+    requiresNativeAsset: true,
+    statusMessage: 'Appropriate Mongolian audio unavailable (native recording pending)',
+  };
+}
+
 /**
  * Speaks a Mongolian phrase or word using Web Speech Synthesis.
  * Enforces Audio Safety:
  * - Strictly searches only for authentic Mongolian voices ('mn-*' or 'Mongolian').
  * - Under NO circumstances will it use Russian, Ukrainian, Bulgarian, or other foreign voices.
- * - When no Mongolian voice is present, safely delegates to Web Audio acoustic formant synthesis.
+ * - Restricts acoustic formant fallback ONLY to isolated vowels/phonemes.
+ * - If text is a word/sentence and no Mongolian voice is present, safely aborts and invokes onUnavailable.
  */
 export function playMongolianAudio(
   text: string,
   rate: number = 1.0,
   onStart?: () => void,
-  onEnd?: () => void
+  onEnd?: () => void,
+  onUnavailable?: () => void
 ): void {
   if (typeof window === 'undefined') return;
 
@@ -126,7 +240,7 @@ export function playMongolianAudio(
     window.speechSynthesis.cancel(); // cancel any active speech
 
     const voices = window.speechSynthesis.getVoices();
-    // Strictly Mongolian-capable voices only
+    // Strictly Mongolian-capable voices only (NEVER RU/UK/BG)
     const mnVoice = voices.find(
       (v) => v.lang.startsWith('mn') || v.lang.toLowerCase().includes('mongol')
     );
@@ -143,7 +257,11 @@ export function playMongolianAudio(
         if (onEnd) onEnd();
       };
       utterance.onerror = () => {
-        playAcousticFallback(text, rate);
+        if (isIsolatedPhoneme(text)) {
+          playAcousticFallback(text, rate);
+        } else if (onUnavailable) {
+          onUnavailable();
+        }
         if (onEnd) onEnd();
       };
 
@@ -158,10 +276,22 @@ export function playMongolianAudio(
     }
   }
 
-  // Safe Fallback: Acoustic formant synthesis (Zero foreign language voice intrusion)
-  playAcousticFallback(text, rate);
-  if (onStart) onStart();
-  setTimeout(() => {
-    if (onEnd) onEnd();
-  }, 600);
+  // No authentic Mongolian voice found:
+  // ONLY isolated vowels/phonemes may use acoustic formant synthesis
+  if (isIsolatedPhoneme(text)) {
+    playAcousticFallback(text, rate);
+    if (onStart) onStart();
+    setTimeout(() => {
+      if (onEnd) onEnd();
+    }, 600);
+    return;
+  }
+
+  // Words, sentences, dialogues: DO NOT pretend formant tone is Mongolian speech!
+  if (onUnavailable) {
+    onUnavailable();
+  }
+  if (onEnd) {
+    onEnd();
+  }
 }

@@ -14,7 +14,15 @@
  * - Zero duplicate evaluation engines
  */
 
-import type { ExerciseDefinition, MatchType } from '../types/exerciseEngine';
+import type {
+  ExerciseDefinition,
+  MatchType,
+  SubmissionPayload,
+  EvaluationOutcome,
+  RubricCriterionItem,
+} from '../types/exerciseEngine';
+
+export type { SubmissionPayload, EvaluationOutcome, RubricCriterionItem };
 
 export interface EvaluationTextOptions {
   stripPunctuation?: boolean;
@@ -166,32 +174,6 @@ export function evaluateTokenOrder(
   };
 }
 
-export interface RubricCriterionItem {
-  criterionId?: string;
-  criterion?: string;
-  description: string;
-  points: number;
-}
-
-export interface EvaluationOutcome {
-  isCorrect: boolean;
-  score: number; // 0 to 1
-  feedbackMessage: string;
-  isCompleted?: boolean;
-  isRubricQualitative?: boolean;
-  rubricCriteria?: RubricCriterionItem[];
-  details?: Record<string, any>;
-}
-
-export interface SubmissionPayload {
-  selectedOptionId?: string;
-  selectedOptionIds?: string[];
-  textInput?: string;
-  arrangedTokens?: string[];
-  selectedSuffix?: string;
-  matchedPairs?: Record<string, string>;
-}
-
 /**
  * Evaluates learner submission against an ExerciseDefinition with full safeguards and contract adherence.
  */
@@ -292,13 +274,13 @@ export function evaluateExerciseSubmission(
     const criteria = exercise.evaluation?.rubricCriteria || [];
 
     return {
-      isCorrect: isCompleted,
+      isCorrect: false, // Per Phase 3B.4: substantive response may be completed, but MUST NOT be marked isCorrect: true
       isCompleted,
-      score: isCompleted ? 1.0 : 0.0,
+      score: 0.0, // Objective correctness score must not be fabricated for unevaluated qualitative response
       isRubricQualitative: true,
       rubricCriteria: criteria,
       feedbackMessage: isCompleted
-        ? exercise.learnerFeedback.onSuccess
+        ? 'Response Submitted — Review Against Rubric'
         : 'Please enter a substantive analytical response before submitting for rubric evaluation.',
       details: {
         characterCount: trimmed.length,
@@ -308,13 +290,80 @@ export function evaluateExerciseSubmission(
     };
   }
 
-  // 5. Text Entry / Normalized / Case-Insensitive / Exact Match
+  // 5. Genuine Pair Matching Pattern
+  if (pattern === 'PAIR_MATCHING') {
+    const requiredPairs = exercise.matchingPairs || [];
+    if (requiredPairs.length === 0) {
+      return {
+        isCorrect: false,
+        score: 0.0,
+        feedbackMessage: 'Malformed exercise: no matching pairs defined.',
+      };
+    }
+
+    const userPairs = submission.matchedPairs || {};
+    const userMatchedKeys = Object.keys(userPairs).filter((k) => !!userPairs[k]);
+
+    // Incomplete check: learner must construct all required pairs
+    if (userMatchedKeys.length < requiredPairs.length) {
+      return {
+        isCorrect: false,
+        score: requiredPairs.length > 0 ? userMatchedKeys.length / requiredPairs.length : 0.0,
+        feedbackMessage: `Incomplete: You have constructed ${userMatchedKeys.length} of ${requiredPairs.length} required pairs.`,
+        details: {
+          matchedCount: userMatchedKeys.length,
+          requiredCount: requiredPairs.length,
+          status: 'INCOMPLETE',
+        },
+      };
+    }
+
+    // Verify every required pair
+    const pairResults: { left: string; expectedRight: string; userRight: string; isMatch: boolean }[] = [];
+    let correctMatches = 0;
+
+    for (const p of requiredPairs) {
+      const userVal = userPairs[p.left] ?? userPairs[p.id];
+      const isMatch = !!userVal && (
+        normalizeEvaluationText(userVal, { stripPunctuation: true, caseSensitive: false }) ===
+        normalizeEvaluationText(p.right, { stripPunctuation: true, caseSensitive: false })
+      );
+
+      if (isMatch) correctMatches++;
+      pairResults.push({
+        left: p.left,
+        expectedRight: p.right,
+        userRight: userVal || '',
+        isMatch,
+      });
+    }
+
+    const isFullyCorrect = correctMatches === requiredPairs.length && userMatchedKeys.length === requiredPairs.length;
+
+    return {
+      isCorrect: isFullyCorrect,
+      score: requiredPairs.length > 0 ? correctMatches / requiredPairs.length : 0.0,
+      feedbackMessage: isFullyCorrect
+        ? exercise.learnerFeedback.onSuccess
+        : exercise.learnerFeedback.onFailure,
+      details: {
+        correctCount: correctMatches,
+        requiredCount: requiredPairs.length,
+        pairs: pairResults,
+      },
+    };
+  }
+
+  // 6. Text Entry / Normalized / Case-Insensitive / Exact Match
   if (
-    matchType === 'NORMALIZED_TEXT' ||
-    matchType === 'CASE_INSENSITIVE' ||
-    matchType === 'EXACT' ||
     pattern === 'CLOZE_TEXT' ||
-    pattern === 'AUDIO_DICTATION'
+    pattern === 'AUDIO_DICTATION' ||
+    (submission.textInput !== undefined &&
+      pattern !== 'MULTIPLE_CHOICE' &&
+      pattern !== 'AUDIO_COMPREHENSION' &&
+      (matchType === 'NORMALIZED_TEXT' ||
+        matchType === 'CASE_INSENSITIVE' ||
+        matchType === 'EXACT'))
   ) {
     const evalRule = exercise.evaluation || { matchType: 'NORMALIZED_TEXT' };
     const caseSensitive = evalRule.caseSensitive === true;
@@ -368,7 +417,7 @@ export function evaluateExerciseSubmission(
     };
   }
 
-  // 6. Default Option Selection (Multiple Choice, Pair Matching, Audio Comprehension)
+  // 7. Default Option Selection (Multiple Choice, Audio Comprehension)
   const chosen = exercise.options?.find((o) => o.id === submission.selectedOptionId);
   const isCorrect = !!chosen?.isCorrect;
 

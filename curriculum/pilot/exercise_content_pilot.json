@@ -1,6 +1,6 @@
 {
   "manifestVersion": "1.0.0",
-  "generatedAt": "2026-09-25T23:07:23.324606Z",
+  "generatedAt": "2026-09-25T23:57:37.737274Z",
   "phase": "3B",
   "totalLessons": 21,
   "totalExercises": 105,
@@ -124,34 +124,26 @@
           "prompt": "Pair each uppercase Cyrillic letter with its exact lowercase partner for the shared letters Т, К, О, А.",
           "stimulusTextCyrillic": "Т, К, О, А",
           "hint": "Cyrillic lowercase letters generally mirror their uppercase shapes in reduced height.",
-          "options": [
+          "matchingPairs": [
             {
               "id": "pair_t",
-              "text": "Т -> т",
-              "cyrillic": "Т - т",
-              "isCorrect": true,
-              "explanation": "Т matches lowercase т."
+              "left": "Т",
+              "right": "т"
             },
             {
               "id": "pair_k",
-              "text": "К -> к",
-              "cyrillic": "К - к",
-              "isCorrect": true,
-              "explanation": "К matches lowercase к."
+              "left": "К",
+              "right": "к"
             },
             {
               "id": "pair_o",
-              "text": "О -> о",
-              "cyrillic": "О - о",
-              "isCorrect": true,
-              "explanation": "О matches lowercase о."
+              "left": "О",
+              "right": "о"
             },
             {
               "id": "pair_a",
-              "text": "А -> а",
-              "cyrillic": "А - а",
-              "isCorrect": true,
-              "explanation": "А matches lowercase а."
+              "left": "А",
+              "right": "а"
             }
           ],
           "correctAnswer": "Т-т, К-к, О-о, А-а",
@@ -174,10 +166,7 @@
             "speechRate": 0.8
           },
           "evaluation": {
-            "matchType": "NORMALIZED_TEXT",
-            "caseSensitive": false,
-            "stripPunctuation": true,
-            "normalizeWhitespace": true
+            "matchType": "EXACT"
           },
           "lessonId": "les_pre_a1_01_01_shared_consonants_visual",
           "unitId": "unit_pre_a1_01_alphabet_consonants_intro",

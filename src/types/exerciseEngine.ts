@@ -65,6 +65,14 @@ export interface EvaluationRule {
   }[];
 }
 
+export interface MatchingPair {
+  id: string;
+  left: string;
+  right: string;
+  leftLabel?: string;
+  rightLabel?: string;
+}
+
 export interface ExerciseOption {
   id: string;
   text: string;
@@ -106,6 +114,7 @@ export interface ExerciseDefinition {
   options?: ExerciseOption[];
   wordTokens?: string[];
   correctTokenOrder?: string[];
+  matchingPairs?: MatchingPair[];
   baseWord?: string;
   suffixOptions?: string[];
   correctSuffix?: string;
@@ -120,6 +129,32 @@ export interface ExerciseDefinition {
   lessonId: string;
   unitId: string;
   cefrLevel: CEFRLevel;
+}
+
+export interface RubricCriterionItem {
+  criterionId?: string;
+  criterion?: string;
+  description: string;
+  points: number;
+}
+
+export interface SubmissionPayload {
+  selectedOptionId?: string;
+  selectedOptionIds?: string[];
+  textInput?: string;
+  arrangedTokens?: string[];
+  selectedSuffix?: string;
+  matchedPairs?: Record<string, string>;
+}
+
+export interface EvaluationOutcome {
+  isCorrect: boolean;
+  score: number; // 0 to 1
+  feedbackMessage: string;
+  isCompleted?: boolean;
+  isRubricQualitative?: boolean;
+  rubricCriteria?: RubricCriterionItem[];
+  details?: Record<string, any>;
 }
 
 export interface LessonExerciseBundle {
