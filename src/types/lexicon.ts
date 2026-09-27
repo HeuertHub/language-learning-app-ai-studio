@@ -32,6 +32,16 @@ export type ExpressionType =
   | 'pragmatic_routine'
   | 'institutional_terminology';
 
+export interface VerificationDimensions {
+  orthographicForm: boolean;
+  lexicalExistence: boolean;
+  englishGloss: boolean;
+  partOfSpeech: boolean;
+  register: boolean;
+  expressionNaturalness?: boolean;
+  lessonSuitability: boolean;
+}
+
 export interface LexiconSourceProvenance {
   sourceType:
     | 'STANDARD_DICTIONARY'
@@ -39,13 +49,28 @@ export interface LexiconSourceProvenance {
     | 'CONTEMPORARY_CORPUS'
     | 'EDUCATIONAL_STANDARDS'
     | 'CURRICULUM_BLUEPRINT';
+  sourceName: string;
   sourceReference: string;
+  searchedHeadword: string;
+  sourceLocator?: string;
+  verificationResult: 'VERIFIED' | 'UNVERIFIED' | 'PARTIALLY_VERIFIED';
+  verifiedDimensions: VerificationDimensions;
   sourceNotes?: string;
   verificationMethod:
     | 'LEXICOGRAPHIC_CROSS_CHECK'
     | 'CORPUS_ATTESTATION'
-    | 'CURRICULUM_BLUEPRINT_AUDIT';
+    | 'CURRICULUM_BLUEPRINT_AUDIT'
+    | 'MANUAL_EXPERT_REVIEW';
   verifiedAt?: string;
+}
+
+export interface ExpressionConstituent {
+  token: string;
+  rootLemma: string;
+  resolvedLemmaId?: string;
+  inflectionalSuffixes?: string[];
+  isUnresolved?: boolean;
+  notes?: string;
 }
 
 export interface LexicalLemmaMorphology {
@@ -84,6 +109,7 @@ export interface LexicalExpression {
   domains: string[];
   register: LexicalRegister;
   constituentLemmaIds: string[];
+  constituentBreakdown?: ExpressionConstituent[];
   usageNotes?: string;
   status: LexicalLifecycleStatus;
   provenance?: LexiconSourceProvenance;

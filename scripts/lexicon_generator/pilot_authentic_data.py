@@ -198,7 +198,7 @@ PILOT_LEMMAS = [
     ("эр", "man, male, masculine", "noun", "neutral", "masculine", "nominal", "STANDARD", "Gender and vowel class marker.", 1),
     ("хүн", "person, human being", "noun", "neutral", "feminine", "nominal", "STANDARD", "Universal personhood noun.", 1),
     ("эрэгтэй", "male, man", "noun", "neutral", "feminine", "nominal", "STANDARD", "Gender descriptor noun.", 1),
-    ("насанд хүрэгч", "adult, grown-up", "noun", "neutral", "feminine", "nominal", "STANDARD", "Age demographic designation.", 1),
+    ("настан", "senior, elder, aged person", "noun", "neutral", "masculine", "nominal", "STANDARD", "Age demographic designation.", 1),
 
     # --- Unit 10: les_pre_a1_10_02 (PL: 3, RL: 1)
     ("эм", "female, woman; medicine", "noun", "neutral", "feminine", "nominal", "STANDARD", "Gender and pharmaceutical noun.", 1),
@@ -287,8 +287,8 @@ PILOT_LEMMAS = [
 
     # --- Unit 15: les_pre_a1_15_02 (PL: 4, RL: 2)
     ("дэлгүүр", "store, shop", "noun", "neutral", "feminine", "nominal", "STANDARD", "Commercial retail establishment.", 1),
-    ("эмийн сан", "pharmacy, apothecary", "noun", "neutral", "feminine", "nominal", "STANDARD", "Medical dispensary compound.", 1),
-    ("зоогийн газар", "restaurant, eatery", "noun", "neutral", "masculine", "nominal", "STANDARD", "Dining establishment compound.", 1),
+    ("хүнс", "food, groceries, provisions", "noun", "neutral", "masculine", "nominal", "STANDARD", "Food and grocery store signage term.", 1),
+    ("зоог", "meal, food, refreshments", "noun", "neutral", "masculine", "nominal", "STANDARD", "Dining and culinary noun.", 1),
     ("буудал", "station, stop; hotel", "noun", "neutral", "masculine", "nominal", "STANDARD", "Transit stop and lodging noun.", 1),
     ("банк", "bank", "noun", "neutral", "masculine", "nominal", "STANDARD", "Financial institution loanword.", 1),
     ("шуудан", "post, mail; post office", "noun", "neutral", "masculine", "nominal", "STANDARD", "Postal service noun.", 1),
@@ -304,7 +304,7 @@ PILOT_LEMMAS = [
     # =========================================================================
     # --- Unit 16: les_a1_16_01 (PL: 5, RL: 2)
     ("өгүүлбэр", "sentence, clause", "noun", "neutral", "feminine", "nominal", "STANDARD", "Linguistic syntactic unit.", 1),
-    ("эзэн бие", "grammatical subject; owner", "noun", "neutral", "feminine", "nominal", "STANDARD", "Linguistic syntactic role.", 1),
+    ("эзэн", "grammatical subject; master, owner", "noun", "neutral", "masculine", "nominal", "STANDARD", "Linguistic syntactic role.", 1),
     ("тусагдахуун", "grammatical object", "noun", "neutral", "masculine", "nominal", "STANDARD", "Linguistic syntactic role.", 1),
     ("өгүүлэхүүн", "grammatical predicate", "noun", "neutral", "feminine", "nominal", "STANDARD", "Linguistic syntactic role.", 1),
     ("дараалал", "order, sequence, succession", "noun", "neutral", "masculine", "nominal", "STANDARD", "Sequential structural arrangement.", 1),
@@ -316,7 +316,7 @@ PILOT_LEMMAS = [
     ("хүргэх", "to deliver, convey; extend greetings", "verb", "neutral", "feminine", "verbal", "STANDARD", "Delivery and greeting transmission verb.", 1),
     ("хүндэтгэх", "to respect, honor", "verb", "formal", "feminine", "verbal", "STANDARD", "Politeness and reverence verb.", 1),
     ("эрхэм", "esteemed, honorable, dear", "adjective", "formal", "feminine", "adjectival", "STANDARD", "Honorific address adjective.", 1),
-    ("өдөр тутмын", "daily, routine, everyday", "adjective", "neutral", "feminine", "adjectival", "STANDARD", "Habitual frequency adjective.", 1),
+    ("мэндчилгээ", "greeting, felicitation, salutation", "noun", "formal", "feminine", "nominal", "STANDARD", "Formal salutation noun.", 1),
     ("ёслох", "to perform ceremony; salute", "verb", "formal", "masculine", "verbal", "STANDARD", "Ceremonial conduct verb.", 1),
     ("хариу", "answer, reply, response", "noun", "neutral", "masculine", "nominal", "STANDARD", "Communicative response noun.", 1),
 
@@ -330,7 +330,7 @@ PILOT_LEMMAS = [
     # --- Unit 16: les_a1_16_04 (PL: 3, RL: 1)
     ("хуваарь", "schedule, timetable", "noun", "neutral", "masculine", "nominal", "STANDARD", "Temporal organization timetable.", 1),
     ("уулзалт", "meeting, appointment, encounter", "noun", "neutral", "masculine", "nominal", "STANDARD", "Social and professional rendezvous.", 1),
-    ("цаг хугацаа", "time, duration, era", "noun", "neutral", "masculine", "nominal", "STANDARD", "Temporal continuum compound.", 1),
+    ("хугацаа", "period, duration, time term", "noun", "neutral", "masculine", "nominal", "STANDARD", "Temporal duration noun.", 1),
     ("төлөвлөгөө", "plan, agenda, scheme", "noun", "neutral", "feminine", "nominal", "STANDARD", "Strategic schedule noun.", 1),
 
     # --- Unit 17: les_a1_17_01 (PL: 5, RL: 2)
@@ -340,20 +340,20 @@ PILOT_LEMMAS = [
     ("тэр", "he, she, it, that", "pronoun", "neutral", "feminine", "nominal", "GRAMMAR", "Third person pronoun and distal deictic.", 1),
     ("бид", "we, us", "pronoun", "neutral", "feminine", "nominal", "GRAMMAR", "First person plural pronoun.", 1),
     ("тэд", "they, them", "pronoun", "neutral", "feminine", "nominal", "GRAMMAR", "Third person plural pronoun.", 1),
-    ("төлөөний үг", "pronoun", "noun", "neutral", "feminine", "nominal", "STANDARD", "Grammatical part-of-speech term.", 1),
+    ("өөрөө", "oneself, self", "pronoun", "neutral", "feminine", "nominal", "GRAMMAR", "Third person reflexive/intensive pronoun completing personal pronominal system.", 1),
 
     # --- Unit 17: les_a1_17_02 (PL: 5, RL: 2)
     ("харилцах", "to communicate, converse, interact", "verb", "neutral", "masculine", "verbal", "STANDARD", "Interpersonal interaction verb.", 1),
     ("хүндлэл", "respect, honor, reverence", "noun", "formal", "feminine", "nominal", "STANDARD", "Attitude of societal courtesy.", 1),
-    ("үе тэнгийн", "peer, same-age, contemporary", "adjective", "informal", "feminine", "adjectival", "STANDARD", "Social peer cohort adjective.", 1),
+    ("чацуу", "equal in age, peer, contemporary", "adjective", "informal", "masculine", "adjectival", "STANDARD", "Social peer age-mate adjective permitting informal address.", 1),
     ("ахмад", "elder, senior, veteran", "adjective", "formal", "masculine", "adjectival", "STANDARD", "Seniority honorific adjective/noun.", 1),
     ("залуу", "young; youth, young person", "adjective", "neutral", "masculine", "adjectival", "STANDARD", "Youth demographic adjective.", 1),
     ("харьцаа", "relationship, ratio, attitude", "noun", "neutral", "masculine", "nominal", "STANDARD", "Interpersonal and relational noun.", 1),
-    ("ёс зүй", "ethics, protocol, etiquette", "noun", "formal", "masculine", "nominal", "STANDARD", "Moral and behavioral code compound.", 1),
+    ("журам", "rule, protocol, code of conduct, etiquette", "noun", "formal", "masculine", "nominal", "STANDARD", "Behavioral code and etiquette regulation noun.", 1),
 
     # --- Unit 17: les_a1_17_03 (PL: 4, RL: 1)
     ("нар", "plural collective marker", "particle", "neutral", "masculine", "nominal", "GRAMMAR", "Collective plural suffix for humans (distinct sense from sun).", 2),
-    ("хамт олон", "community, team, staff, collective", "noun", "neutral", "masculine", "nominal", "STANDARD", "Workplace and social group compound.", 1),
+    ("бүлэг", "group, team, collective, cohort", "noun", "neutral", "feminine", "nominal", "STANDARD", "Workplace and social group noun.", 1),
     ("бүгд", "all, everyone, entire", "pronoun", "neutral", "feminine", "nominal", "STANDARD", "Universal quantifier pronoun.", 1),
     ("анги", "class, grade, department", "noun", "neutral", "masculine", "nominal", "STANDARD", "Classroom and classification unit.", 1),
     ("хамтрагч", "partner, collaborator, associate", "noun", "neutral", "masculine", "nominal", "STANDARD", "Professional colleague noun.", 1),
@@ -403,7 +403,7 @@ PILOT_LEMMAS = [
     ("үү", "polar interrogative particle (front)", "particle", "neutral", "feminine", "nominal", "GRAMMAR", "Harmonizing polar question marker after front consonants.", 1),
     ("асуулт", "question, inquiry", "noun", "neutral", "masculine", "nominal", "STANDARD", "Interrogative utterance noun.", 1),
     ("асуух", "to ask, question, inquire", "verb", "neutral", "masculine", "verbal", "STANDARD", "Interrogative action verb.", 1),
-    ("лавлах үг", "inquiry phrase, interrogative word", "noun", "neutral", "masculine", "nominal", "STANDARD", "Interrogative syntactic term.", 1),
+    ("тодруулах", "to clarify, verify, specify", "verb", "neutral", "masculine", "verbal", "STANDARD", "Clarification action verb for polar inquiry.", 1),
     ("эргэлзээ", "doubt, uncertainty, hesitation", "noun", "neutral", "feminine", "nominal", "STANDARD", "Epistemic uncertainty noun.", 1),
     ("хариулах", "to answer, reply", "verb", "neutral", "masculine", "verbal", "STANDARD", "Interrogative reply action verb.", 1),
 
@@ -427,11 +427,11 @@ PILOT_LEMMAS = [
     ("лавтай", "certain, sure, definitely", "adjective", "neutral", "masculine", "adjectival", "STANDARD", "Epistemic certainty adjective/adverb.", 1),
     ("нотолгоо", "proof, evidence, verification", "noun", "neutral", "masculine", "nominal", "STANDARD", "Epistemic verification noun.", 1),
     ("лавлагаа", "inquiry, reference, certificate", "noun", "neutral", "masculine", "nominal", "STANDARD", "Official document confirmation.", 1),
-    ("үнэмлэх бичиг", "credential, identification paper", "noun", "formal", "feminine", "nominal", "STANDARD", "Official documentation certificate.", 1),
+    ("үнэмлэх", "identity card, credential, certificate", "noun", "formal", "feminine", "nominal", "STANDARD", "Official documentation credential noun.", 1),
 
     # --- Unit 20: les_a1_20_01 (PL: 5, RL: 2)
     ("энэ", "this; now", "pronoun", "neutral", "feminine", "nominal", "GRAMMAR", "Proximal demonstrative pronoun.", 1),
-    ("тэр", "that; he, she", "pronoun", "neutral", "feminine", "nominal", "GRAMMAR", "Distal demonstrative pronoun.", 2),
+    ("тийшээ", "thither, in that direction, towards there", "adverb", "neutral", "feminine", "adverbial", "GRAMMAR", "Distal directional deictic adverb contrasting with proximal deixis.", 1),
     ("энд", "here, in this place", "adverb", "neutral", "feminine", "nominal", "GRAMMAR", "Proximal spatial deictic adverb.", 1),
     ("тэнд", "there, in that place", "adverb", "neutral", "feminine", "nominal", "GRAMMAR", "Distal spatial deictic adverb.", 1),
     ("ойрхон", "close, nearby", "adverb", "neutral", "masculine", "adjectival", "STANDARD", "Proximity spatial modifier.", 1),
@@ -443,7 +443,7 @@ PILOT_LEMMAS = [
     ("тэдгээр", "those (plural distal)", "pronoun", "neutral", "feminine", "nominal", "GRAMMAR", "Plural distal demonstrative pronoun.", 1),
     ("зүйл", "item, thing, article, kind", "noun", "neutral", "feminine", "nominal", "STANDARD", "Concrete/abstract entity category noun.", 1),
     ("бараа", "goods, merchandise, products", "noun", "neutral", "masculine", "nominal", "STANDARD", "Commercial goods noun.", 1),
-    ("эд зүйлс", "belongings, articles, physical objects", "noun", "neutral", "feminine", "nominal", "STANDARD", "Tangible belongings compound.", 1),
+    ("эд", "goods, articles, possessions, material objects", "noun", "neutral", "feminine", "nominal", "STANDARD", "Physical goods, possessions, and material articles.", 1),
     ("өмч", "property, possession, asset", "noun", "neutral", "feminine", "nominal", "STANDARD", "Ownership legal asset noun.", 1),
     ("хэрэгсэл", "supplies, tools, apparatus", "noun", "neutral", "feminine", "nominal", "STANDARD", "Instrumental equipment noun.", 1),
 

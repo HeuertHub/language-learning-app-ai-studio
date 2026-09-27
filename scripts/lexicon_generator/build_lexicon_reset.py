@@ -73,11 +73,15 @@ def main():
     if root_dir not in sys.path:
         sys.path.insert(0, root_dir)
 
-    from scripts.lexicon_generator.pre_a1_pilot import PRE_A1_LESSON_LEMMAS, PRE_A1_LESSON_EXPRESSIONS
-    from scripts.lexicon_generator.a1_pilot import A1_PILOT_LESSON_LEMMAS, A1_PILOT_LESSON_EXPRESSIONS
+    from scripts.lexicon_generator.pilot_authentic_data import PILOT_LEMMAS, PILOT_EXPRESSIONS
+    from scripts.lexicon_generator.pilot_provenance_data import (
+        get_lemma_provenance_and_status,
+        get_expression_provenance_and_status
+    )
+    from scripts.lexicon_generator.pilot_constituent_data import CONSTITUENT_ANALYSIS
 
     print("=" * 80)
-    print("PHASE 3C.0R LEXICON INTEGRITY RESET & AUTHENTICITY PILOT BUILDER")
+    print("PHASE 3C.0R.1 EVIDENCE-BACKED AUTHORITATIVE LEXICON BUILDER")
     print("=" * 80)
 
     lessons = load_frozen_lessons(root_dir)
@@ -177,68 +181,37 @@ def main():
 
     # 2. Realize Pilot Lemmas
     realized_lemmas = []
-    seen_cyrillic_senses = defaultdict(int)
+    pilot_lemma_idx = 0
 
     for slot in lemma_slots:
         if slot['is_pilot']:
             lid = slot['firstIntroducedLessonId']
-            role = slot['role']
-            idx = slot['pilot_idx']
+            cyr_lemma, gloss, pos, reg, v_harmony, s_type, prov_type, usage_notes, sense_idx = PILOT_LEMMAS[pilot_lemma_idx]
+            prov, st = get_lemma_provenance_and_status(pilot_lemma_idx, cyr_lemma, pos, lid)
 
-            if slot['cefrLevel'] == 'Pre-A1':
-                pool = PRE_A1_LESSON_LEMMAS.get(lid, {}).get(role, [])
-            else:
-                pool = A1_PILOT_LESSON_LEMMAS.get(lid, {}).get(role, [])
-
-            if idx < len(pool):
-                lemma_text, gloss, pos, v_harmony, s_type, usage_notes = pool[idx]
-                seen_cyrillic_senses[lemma_text] += 1
-                sense_idx = seen_cyrillic_senses[lemma_text]
-
-                # Select provenance
-                if any(w in lid for w in ['alphabet', 'vowel', 'consonant', 'syllable', 'orthography', 'diphthong', 'harmony', 'stress']):
-                    prov = ORTHOGRAPHY_PROVENANCE
-                elif any(w in lid for w in ['transit', 'receipts', 'signage', 'emergency', 'hotlines']):
-                    prov = CIVIC_PROVENANCE
-                else:
-                    prov = STANDARD_PROVENANCE
-
-                record = {
-                    "id": slot['id'],
-                    "lemma": lemma_text,
-                    "gloss": gloss,
-                    "pos": pos,
-                    "cefrLevel": slot['cefrLevel'],
-                    "firstIntroducedUnitId": slot['firstIntroducedUnitId'],
-                    "firstIntroducedLessonId": lid,
-                    "classification": slot['classification'],
-                    "domains": slot['domains'],
-                    "register": "neutral" if pos != "interjection" else "formal",
-                    "usageNotes": usage_notes,
-                    "morphology": {
-                        "vowelHarmony": v_harmony,
-                        "stemType": s_type,
-                        "irregularity": "regular"
-                    },
-                    "senseIndex": sense_idx,
-                    "status": "LINGUISTICALLY_REVIEWED",
-                    "provenance": prov
-                }
-                pilot_lemma_lookup_by_text[lemma_text] = slot['id']
-            else:
-                record = {
-                    "id": slot['id'],
-                    "lemma": "",
-                    "gloss": "",
-                    "pos": "",
-                    "cefrLevel": slot['cefrLevel'],
-                    "firstIntroducedUnitId": slot['firstIntroducedUnitId'],
-                    "firstIntroducedLessonId": lid,
-                    "classification": slot['classification'],
-                    "domains": slot['domains'],
-                    "register": "neutral",
-                    "status": "UNREALIZED"
-                }
+            record = {
+                "id": slot['id'],
+                "lemma": cyr_lemma,
+                "gloss": gloss,
+                "pos": pos,
+                "cefrLevel": slot['cefrLevel'],
+                "firstIntroducedUnitId": slot['firstIntroducedUnitId'],
+                "firstIntroducedLessonId": lid,
+                "classification": slot['classification'],
+                "domains": slot['domains'],
+                "register": reg,
+                "usageNotes": usage_notes,
+                "morphology": {
+                    "vowelHarmony": v_harmony,
+                    "stemType": s_type,
+                    "irregularity": "regular"
+                },
+                "senseIndex": sense_idx,
+                "status": st,
+                "provenance": prov
+            }
+            pilot_lemma_lookup_by_text[cyr_lemma] = slot['id']
+            pilot_lemma_idx += 1
         else:
             record = {
                 "id": slot['id'],
@@ -257,63 +230,35 @@ def main():
 
     # 3. Realize Pilot Expressions
     realized_expressions = []
+    pilot_expr_idx = 0
+
     for slot in expr_slots:
         if slot['is_pilot']:
             lid = slot['firstIntroducedLessonId']
-            role = slot['role']
-            idx = slot['pilot_idx']
+            cyr_expr, gloss, exp_type, reg, constituent_indices, usage_notes = PILOT_EXPRESSIONS[pilot_expr_idx]
+            prov, st = get_expression_provenance_and_status(pilot_expr_idx, cyr_expr, exp_type, lid)
 
-            if slot['cefrLevel'] == 'Pre-A1':
-                pool = PRE_A1_LESSON_EXPRESSIONS.get(lid, {}).get(role, [])
-            else:
-                pool = A1_PILOT_LESSON_EXPRESSIONS.get(lid, {}).get(role, [])
+            # Map constituent words to genuine pilot lemma IDs from semantic analysis
+            analysis = CONSTITUENT_ANALYSIS.get(pilot_expr_idx, [])
+            constituent_ids = [c['resolvedLemmaId'] for c in analysis if c.get('resolvedLemmaId')]
 
-            if idx < len(pool):
-                expr_text, gloss, exp_type, constituent_words, usage_notes = pool[idx]
-
-                # Map constituent words to genuine pilot lemma IDs
-                constituent_ids = []
-                for cw in constituent_words:
-                    if cw in pilot_lemma_lookup_by_text:
-                        constituent_ids.append(pilot_lemma_lookup_by_text[cw])
-
-                # Select provenance
-                if any(w in lid for w in ['alphabet', 'signage', 'prohibition', 'transit']):
-                    prov = CIVIC_PROVENANCE if 'transit' in lid or 'signage' in lid else ORTHOGRAPHY_PROVENANCE
-                else:
-                    prov = STANDARD_PROVENANCE
-
-                record = {
-                    "id": slot['id'],
-                    "expression": expr_text,
-                    "gloss": gloss,
-                    "expressionType": exp_type,
-                    "cefrLevel": slot['cefrLevel'],
-                    "firstIntroducedUnitId": slot['firstIntroducedUnitId'],
-                    "firstIntroducedLessonId": lid,
-                    "classification": slot['classification'],
-                    "domains": slot['domains'],
-                    "register": "neutral" if "formal" not in usage_notes.lower() else "formal",
-                    "constituentLemmaIds": constituent_ids,
-                    "usageNotes": usage_notes,
-                    "status": "LINGUISTICALLY_REVIEWED",
-                    "provenance": prov
-                }
-            else:
-                record = {
-                    "id": slot['id'],
-                    "expression": "",
-                    "gloss": "",
-                    "expressionType": "collocation",
-                    "cefrLevel": slot['cefrLevel'],
-                    "firstIntroducedUnitId": slot['firstIntroducedUnitId'],
-                    "firstIntroducedLessonId": lid,
-                    "classification": slot['classification'],
-                    "domains": slot['domains'],
-                    "register": "neutral",
-                    "constituentLemmaIds": [],
-                    "status": "UNREALIZED"
-                }
+            record = {
+                "id": slot['id'],
+                "expression": cyr_expr,
+                "gloss": gloss,
+                "expressionType": exp_type,
+                "cefrLevel": slot['cefrLevel'],
+                "firstIntroducedUnitId": slot['firstIntroducedUnitId'],
+                "firstIntroducedLessonId": lid,
+                "classification": slot['classification'],
+                "domains": slot['domains'],
+                "register": reg,
+                "constituentLemmaIds": constituent_ids,
+                "usageNotes": usage_notes,
+                "status": st,
+                "provenance": prov
+            }
+            pilot_expr_idx += 1
         else:
             record = {
                 "id": slot['id'],
@@ -350,15 +295,29 @@ def main():
         }
 
     # Summary counts
-    total_realized_lemmas = sum(1 for x in realized_lemmas if x['status'] in ['LINGUISTICALLY_REVIEWED', 'SOURCE_VERIFIED'])
+    total_realized_lemmas = sum(1 for x in realized_lemmas if x['status'] in ['LINGUISTICALLY_REVIEWED', 'SOURCE_VERIFIED', 'DRAFT_UNVERIFIED'])
     total_unrealized_lemmas = sum(1 for x in realized_lemmas if x['status'] == 'UNREALIZED')
-    total_realized_exprs = sum(1 for x in realized_expressions if x['status'] in ['LINGUISTICALLY_REVIEWED', 'SOURCE_VERIFIED'])
+    total_realized_exprs = sum(1 for x in realized_expressions if x['status'] in ['LINGUISTICALLY_REVIEWED', 'SOURCE_VERIFIED', 'DRAFT_UNVERIFIED'])
     total_unrealized_exprs = sum(1 for x in realized_expressions if x['status'] == 'UNREALIZED')
+
+    sv_lemmas = sum(1 for x in realized_lemmas if x['status'] == 'SOURCE_VERIFIED')
+    lr_lemmas = sum(1 for x in realized_lemmas if x['status'] == 'LINGUISTICALLY_REVIEWED')
+    du_lemmas = sum(1 for x in realized_lemmas if x['status'] == 'DRAFT_UNVERIFIED')
+
+    sv_exprs = sum(1 for x in realized_expressions if x['status'] == 'SOURCE_VERIFIED')
+    lr_exprs = sum(1 for x in realized_expressions if x['status'] == 'LINGUISTICALLY_REVIEWED')
+    du_exprs = sum(1 for x in realized_expressions if x['status'] == 'DRAFT_UNVERIFIED')
 
     print(f"\nRealization Summary:")
     print(f"  • Realized Lemmas:   {total_realized_lemmas} (Pre-A1: 168, A1 Units 16-20: 118)")
+    print(f"    - SOURCE_VERIFIED:         {sv_lemmas}")
+    print(f"    - LINGUISTICALLY_REVIEWED: {lr_lemmas}")
+    print(f"    - DRAFT_UNVERIFIED:        {du_lemmas}")
     print(f"  • Unrealized Lemmas: {total_unrealized_lemmas}")
     print(f"  • Realized Exprs:    {total_realized_exprs} (Pre-A1: 47, A1 Units 16-20: 30)")
+    print(f"    - SOURCE_VERIFIED:         {sv_exprs}")
+    print(f"    - LINGUISTICALLY_REVIEWED: {lr_exprs}")
+    print(f"    - DRAFT_UNVERIFIED:        {du_exprs}")
     print(f"  • Unrealized Exprs:  {total_unrealized_exprs}")
 
     assert total_realized_lemmas == 286
@@ -432,8 +391,14 @@ def main():
                 "expressions": len(exprs_by_level[lvl]),
                 "productiveExpressions": sum(1 for x in exprs_by_level[lvl] if x['classification'] == 'productive'),
                 "receptiveExpressions": sum(1 for x in exprs_by_level[lvl] if x['classification'] == 'receptive'),
-                "realizedLemmas": sum(1 for x in lemmas_by_level[lvl] if x['status'] in ['LINGUISTICALLY_REVIEWED', 'SOURCE_VERIFIED']),
-                "realizedExpressions": sum(1 for x in exprs_by_level[lvl] if x['status'] in ['LINGUISTICALLY_REVIEWED', 'SOURCE_VERIFIED']),
+                "realizedLemmas": sum(1 for x in lemmas_by_level[lvl] if x['status'] in ['LINGUISTICALLY_REVIEWED', 'SOURCE_VERIFIED', 'DRAFT_UNVERIFIED']),
+                "realizedExpressions": sum(1 for x in exprs_by_level[lvl] if x['status'] in ['LINGUISTICALLY_REVIEWED', 'SOURCE_VERIFIED', 'DRAFT_UNVERIFIED']),
+                "sourceVerifiedLemmas": sum(1 for x in lemmas_by_level[lvl] if x['status'] == 'SOURCE_VERIFIED'),
+                "linguisticallyReviewedLemmas": sum(1 for x in lemmas_by_level[lvl] if x['status'] == 'LINGUISTICALLY_REVIEWED'),
+                "draftUnverifiedLemmas": sum(1 for x in lemmas_by_level[lvl] if x['status'] == 'DRAFT_UNVERIFIED'),
+                "sourceVerifiedExpressions": sum(1 for x in exprs_by_level[lvl] if x['status'] == 'SOURCE_VERIFIED'),
+                "linguisticallyReviewedExpressions": sum(1 for x in exprs_by_level[lvl] if x['status'] == 'LINGUISTICALLY_REVIEWED'),
+                "draftUnverifiedExpressions": sum(1 for x in exprs_by_level[lvl] if x['status'] == 'DRAFT_UNVERIFIED'),
                 "unrealizedLemmas": sum(1 for x in lemmas_by_level[lvl] if x['status'] == 'UNREALIZED'),
                 "unrealizedExpressions": sum(1 for x in exprs_by_level[lvl] if x['status'] == 'UNREALIZED')
             }

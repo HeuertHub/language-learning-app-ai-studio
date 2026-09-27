@@ -30,6 +30,8 @@ from collections import Counter
 
 def validate_lexicon():
     root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    if root_dir not in sys.path:
+        sys.path.insert(0, root_dir)
     print("=" * 80)
     print("PHASE 3C.0R DUAL-GATE LEXICON VALIDATION SYSTEM")
     print("=" * 80)
@@ -208,10 +210,14 @@ def validate_lexicon():
             authenticity_errors.append(f"PLACEHOLDER_INVALID record {lid} exposed as candidate learner data")
 
         # Check for placeholder patterns in realized content
-        if status in ['SOURCE_VERIFIED', 'LINGUISTICALLY_REVIEWED']:
+        if status in ['SOURCE_VERIFIED', 'LINGUISTICALLY_REVIEWED', 'DRAFT_UNVERIFIED']:
             realized_lemma_count += 1
             if not lemma_text or not gloss:
                 authenticity_errors.append(f"Realized lemma {lid} is missing lemma text or gloss")
+
+            # Category purity: single lexical headword (no spaces in lemma text)
+            if ' ' in lemma_text:
+                authenticity_errors.append(f"Multiword lemma violation: {lid} contains space '{lemma_text}'")
 
             for pat in REJECT_PATTERNS:
                 if pat.search(lemma_text):
@@ -228,6 +234,8 @@ def validate_lexicon():
             # Unrealized slot must have empty learner-facing strings
             if lemma_text != "" or gloss != "":
                 authenticity_errors.append(f"Unrealized lemma slot {lid} contains non-empty text: '{lemma_text}'")
+
+    from scripts.lexicon_generator.pilot_constituent_data import CONSTITUENT_ANALYSIS
 
     for e in all_exprs:
         eid = e['id']
@@ -247,7 +255,7 @@ def validate_lexicon():
         if status == 'PLACEHOLDER_INVALID':
             authenticity_errors.append(f"PLACEHOLDER_INVALID expression {eid} exposed as candidate learner data")
 
-        if status in ['SOURCE_VERIFIED', 'LINGUISTICALLY_REVIEWED']:
+        if status in ['SOURCE_VERIFIED', 'LINGUISTICALLY_REVIEWED', 'DRAFT_UNVERIFIED']:
             realized_expr_count += 1
             if not expr_text or not gloss:
                 authenticity_errors.append(f"Realized expression {eid} is missing expression text or gloss")
@@ -263,7 +271,11 @@ def validate_lexicon():
             if not prov or not prov.get('sourceType') or not prov.get('sourceReference') or not prov.get('verificationMethod'):
                 missing_provenance_count += 1
 
-            # Semantic constituent link validation
+            # Semantic constituent link validation via morphological analysis
+            expr_idx = int(eid.split('_')[-1]) - 1
+            analysis = CONSTITUENT_ANALYSIS.get(expr_idx, [])
+            valid_cids_for_expr = set(c['resolvedLemmaId'] for c in analysis if c.get('resolvedLemmaId'))
+
             for cid in c_ids:
                 if cid not in lemma_dict:
                     constituent_link_violations.append((eid, cid, "constituent_lemma_not_found"))
@@ -271,6 +283,8 @@ def validate_lexicon():
                     c_lem = lemma_dict[cid].get('lemma', '')
                     if not c_lem:
                         constituent_link_violations.append((eid, cid, "constituent_lemma_unrealized"))
+                    elif cid not in valid_cids_for_expr:
+                        constituent_link_violations.append((eid, cid, f"unjustified_constituent_link: {c_lem} not in analyzed constituents of {expr_text}"))
         elif status == 'UNREALIZED':
             unrealized_expr_count += 1
             if expr_text != "" or gloss != "":
