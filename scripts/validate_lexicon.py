@@ -333,7 +333,7 @@ def validate_lexicon():
     print("\n" + "=" * 80)
     if not structural_errors and not authenticity_errors:
         print("✓ DUAL-GATE VERIFICATION COMPLETED CLEANLY: STRUCTURAL PASS & AUTHENTICITY PASS.")
-        print("  (Pre-A1 and A1 First 5 Units Pilot Fully Realized with Authentic Modern Mongolian).")
+        print(f"  (Pre-A1 and A1 Units 16–25 Fully Realized with Authentic Modern Mongolian: {realized_lemma_count} Lemmas, {realized_expr_count} Expressions).")
         print("=" * 80)
         sys.exit(0)
     else:

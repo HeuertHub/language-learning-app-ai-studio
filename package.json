@@ -17,8 +17,9 @@
     "validate:lexicon": "python3 scripts/validate_lexicon.py",
     "audit:pilot": "python3 scripts/audit_pilot_suite.py",
     "audit:lexicon": "python3 scripts/audit_lexicon.py",
+    "report:validate": "python3 scripts/generate_and_validate_report.py",
     "reconcile:pilot": "python3 scripts/reconcile_pilot_dataset.py",
-    "check:all": "npm run verify:freeze && npm run validate:exercises && npm run validate:lexicon && npm run audit:lexicon && npm run audit:pilot && npm run lint && npm run test:runtime"
+    "check:all": "npm run verify:freeze && npm run validate:exercises && npm run validate:lexicon && npm run audit:lexicon && npm run report:validate && npm run audit:pilot && npm run lint && npm run test:runtime"
   },
   "dependencies": {
     "@google/genai": "^2.4.0",

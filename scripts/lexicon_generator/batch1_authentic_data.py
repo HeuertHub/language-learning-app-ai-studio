@@ -140,7 +140,7 @@ BATCH1_LEMMAS = [
     ("хомс", "scarce, meager, lacking, insufficient", "adjective", "formal", "masculine", "adjectival", "STANDARD", "Evaluative adjective denoting resource scarcity or shortage.", 1),
 
     # les_a1_24_03_polar_inquiries_existence (P: 4, R: 1) -> 5 lemmas
-    ("байгаа", "existing, present, available, situated", "adjective", "neutral", "masculine", "adjectival", "STANDARD", "Imperfective participial form grammaticalized as availability predicate.", 1),
+    ("бэлэн", "ready, prepared, available, on hand", "adjective", "neutral", "masculine", "adjectival", "STANDARD", "Readiness and immediate availability predicate in polar inquiries; e.g. өрөө бэлэн, бэлэн байна.", 1),
     ("чөлөөтэй", "free, vacant, unoccupied, unconstrained", "adjective", "neutral", "feminine", "adjectival", "STANDARD", "Attribute for vacant hotel rooms, open seats, or free schedules.", 1),
     ("зав", "free time, spare time, leisure", "noun", "neutral", "masculine", "nominal", "STANDARD", "Temporal availability noun used in personal schedule inquiries.", 1),
     ("боломж", "possibility, opportunity, feasibility, availability", "noun", "neutral", "masculine", "nominal", "STANDARD", "Abstract noun denoting situational feasibility or option.", 1),
@@ -242,7 +242,7 @@ BATCH1_EXPRESSIONS = [
     # les_a1_24_02 (P: 1, R: 0)
     ("энд алга", "is not here, missing here, there is none here", "collocation", "informal", ["энд", "алга"], "Immediate deictic negative statement noting local absence."),
     # les_a1_24_03 (P: 1, R: 1)
-    ("байгаа юу", "is there any? do you have? is it available?", "formulaic_language", "neutral", ["байгаа", "юу"], "Conversational inquiry checking resource or room availability."),
+    ("байгаа юу", "is there any? do you have? is it available?", "formulaic_language", "neutral", ["байх", "юу"], "Conversational inquiry checking resource or room availability."),
     ("сул өрөө", "vacant room, available room, free room", "collocation", "neutral", ["сул", "өрөө"], "Hospitality terminology denoting unoccupied guest accommodation."),
     # les_a1_24_04 (P: 1, R: 0)
     ("монгол гэр", "Mongolian ger, yurt, traditional felt dwelling", "collocation", "neutral", ["монгол", "гэр"], "Canonical cultural collocation for the traditional nomadic felt architecture."),

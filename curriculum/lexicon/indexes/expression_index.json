@@ -4013,6 +4013,7 @@
     ],
     "register": "neutral",
     "constituentLemmaIds": [
+      "lex_mn_lemma_00372",
       "lex_mn_lemma_00134"
     ],
     "usageNotes": "Predicate formula confirming readiness of amenities, food, or service.",
@@ -4092,7 +4093,7 @@
     ],
     "register": "neutral",
     "constituentLemmaIds": [
-      "lex_mn_lemma_00372",
+      "lex_mn_lemma_00134",
       "lex_mn_lemma_00139"
     ],
     "usageNotes": "Conversational inquiry checking resource or room availability.",

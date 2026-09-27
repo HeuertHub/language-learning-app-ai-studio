@@ -131,7 +131,7 @@ BATCH1_CONSTITUENT_ANALYSIS = {
     ],
     # 22: бэлэн байна (lex_mn_expr_00100)
     22: [
-        {"token": "бэлэн", "rootLemma": "бэлэн", "pos": "adjective", "resolvedLemmaId": None, "isUnresolved": True, "unresolvedRoot": "бэлэн", "gloss": "ready, prepared, available"},
+        {"token": "бэлэн", "rootLemma": "бэлэн", "pos": "adjective", "resolvedLemmaId": "lex_mn_lemma_00372", "isUnresolved": False, "gloss": "ready, prepared, available"},
         {"token": "байна", "rootLemma": "байх", "pos": "verb", "resolvedLemmaId": "lex_mn_lemma_00134", "isUnresolved": False, "gloss": "is, exists"}
     ],
     # 23: энд алга (lex_mn_expr_00101)
@@ -141,7 +141,7 @@ BATCH1_CONSTITUENT_ANALYSIS = {
     ],
     # 24: байгаа юу (lex_mn_expr_00102)
     24: [
-        {"token": "байгаа", "rootLemma": "байгаа", "pos": "adjective", "resolvedLemmaId": "lex_mn_lemma_00372", "isUnresolved": False, "gloss": "existing, available"},
+        {"token": "байгаа", "rootLemma": "байх", "pos": "verb", "resolvedLemmaId": "lex_mn_lemma_00134", "isUnresolved": False, "gloss": "to be, exist (imperfective participle -aa)"},
         {"token": "юу", "rootLemma": "юу", "pos": "pronoun", "resolvedLemmaId": "lex_mn_lemma_00139", "isUnresolved": False, "gloss": "interrogative availability particle"}
     ],
     # 25: сул өрөө (lex_mn_expr_00103)
