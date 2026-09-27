@@ -1,7 +1,7 @@
 {
-  "manifestVersion": "1.0.0",
-  "generatedAt": "2026-09-26T17:15:59.594958+00:00",
-  "phase": "3C.0",
+  "manifestVersion": "3.0.0-phase3c.0r",
+  "generatedAt": "2026-09-27T22:34:38.102462+00:00",
+  "phase": "3C.0R Lexicon Integrity Reset & Authenticity Pilot",
   "summary": {
     "totalCoreLemmas": 9441,
     "totalProductiveLemmas": 5329,
@@ -9,6 +9,10 @@
     "totalExpressions": 2692,
     "totalProductiveExpressions": 1622,
     "totalReceptiveExpressions": 1070,
+    "realizedLemmasCount": 286,
+    "realizedExpressionsCount": 77,
+    "unrealizedLemmasCount": 9155,
+    "unrealizedExpressionsCount": 2615,
     "lessonsReconciled": 1257,
     "reconciliationRate": 1.0,
     "levels": [
@@ -28,7 +32,11 @@
       "receptiveLemmas": 46,
       "expressions": 47,
       "productiveExpressions": 31,
-      "receptiveExpressions": 16
+      "receptiveExpressions": 16,
+      "realizedLemmas": 168,
+      "realizedExpressions": 47,
+      "unrealizedLemmas": 0,
+      "unrealizedExpressions": 0
     },
     "A1": {
       "lemmas": 1115,
@@ -36,7 +44,11 @@
       "receptiveLemmas": 293,
       "expressions": 300,
       "productiveExpressions": 200,
-      "receptiveExpressions": 100
+      "receptiveExpressions": 100,
+      "realizedLemmas": 118,
+      "realizedExpressions": 30,
+      "unrealizedLemmas": 997,
+      "unrealizedExpressions": 270
     },
     "A2": {
       "lemmas": 1459,
@@ -44,7 +56,11 @@
       "receptiveLemmas": 472,
       "expressions": 404,
       "productiveExpressions": 255,
-      "receptiveExpressions": 149
+      "receptiveExpressions": 149,
+      "realizedLemmas": 0,
+      "realizedExpressions": 0,
+      "unrealizedLemmas": 1459,
+      "unrealizedExpressions": 404
     },
     "B1": {
       "lemmas": 1580,
@@ -52,7 +68,11 @@
       "receptiveLemmas": 646,
       "expressions": 448,
       "productiveExpressions": 270,
-      "receptiveExpressions": 178
+      "receptiveExpressions": 178,
+      "realizedLemmas": 0,
+      "realizedExpressions": 0,
+      "unrealizedLemmas": 1580,
+      "unrealizedExpressions": 448
     },
     "B2": {
       "lemmas": 1988,
@@ -60,7 +80,11 @@
       "receptiveLemmas": 920,
       "expressions": 566,
       "productiveExpressions": 348,
-      "receptiveExpressions": 218
+      "receptiveExpressions": 218,
+      "realizedLemmas": 0,
+      "realizedExpressions": 0,
+      "unrealizedLemmas": 1988,
+      "unrealizedExpressions": 566
     },
     "C1": {
       "lemmas": 1572,
@@ -68,7 +92,11 @@
       "receptiveLemmas": 838,
       "expressions": 449,
       "productiveExpressions": 257,
-      "receptiveExpressions": 192
+      "receptiveExpressions": 192,
+      "realizedLemmas": 0,
+      "realizedExpressions": 0,
+      "unrealizedLemmas": 1572,
+      "unrealizedExpressions": 449
     },
     "C2": {
       "lemmas": 1559,
@@ -76,7 +104,25 @@
       "receptiveLemmas": 897,
       "expressions": 478,
       "productiveExpressions": 261,
-      "receptiveExpressions": 217
+      "receptiveExpressions": 217,
+      "realizedLemmas": 0,
+      "realizedExpressions": 0,
+      "unrealizedLemmas": 1559,
+      "unrealizedExpressions": 478
+    }
+  },
+  "pilotScope": {
+    "preA1": {
+      "units": 15,
+      "lessons": 73,
+      "realizedLemmas": 168,
+      "realizedExpressions": 47
+    },
+    "a1PilotUnits": {
+      "units": 5,
+      "lessons": 30,
+      "realizedLemmas": 118,
+      "realizedExpressions": 30
     }
   }
 }

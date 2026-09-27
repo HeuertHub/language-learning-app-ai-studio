@@ -242,6 +242,11 @@ class CurriculumService {
       return [];
     }
   }
+
+  async getLearnerVocabularyForLesson(lessonId: string) {
+    const { lexiconService } = await import('./lexiconService');
+    return lexiconService.getLearnerVocabularyForLesson(lessonId);
+  }
 }
 
 export const curriculumService = new CurriculumService();

@@ -1,24 +1,41 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Phase 3C.0 Authoritative Comprehensive Lexicon Pipeline
-Generates:
-  - 9,441 unique core lemmas across Pre-A1 to C2
-  - 2,692 unique expressions across Pre-A1 to C2
-  - Exact reconciliation with every lesson's budget
-  - Stable IDs: lex_mn_lemma_00001..09441 and lex_mn_expr_00001..02692
-  - Cross-course duplicate detection and linguistic quality audit
-  - Generates modular files in curriculum/lexicon/
-  - Generates compiled runtime assets in public/data/lexicon/
+Phase 3C.0R Authoritative Lexicon Pipeline & Authenticity Pilot Builder
+
+Builds the entire downstream lexical system:
+- Exactly 9,441 unique stable lemma IDs (lex_mn_lemma_00001 .. 09441)
+- Exactly 2,692 unique stable expression IDs (lex_mn_expr_00001 .. 02692)
+- Exact reconciliation across all 1,257 frozen lessons and 256 units
+- Realizes authentic Modern Mongolian pilot scope:
+    • Pre-A1: 168 lemmas, 47 expressions (all 15 units, 73 lessons)
+    • A1 Pilot: 118 lemmas, 30 expressions (first 5 units, 30 lessons)
+    Total Pilot: 286 realized lemmas, 77 realized expressions
+- Marks all 9,155 non-pilot lemmas and 2,615 non-pilot expressions as UNREALIZED
+- Zero placeholder strings (no үг_#####, хэллэг_####, хөгжил_170, sense templates)
+- Real semantic constituentLemmaIds for authentic expressions
+- Full lexicographic provenance metadata
+- Writes modular files to curriculum/lexicon/ and public/data/lexicon/
 """
 
 import json
 import os
 import sys
 import re
-import hashlib
-from collections import defaultdict
 from datetime import datetime, timezone
+from collections import defaultdict
+
+root_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+if root_dir not in sys.path:
+    sys.path.insert(0, root_dir)
+
+from scripts.lexicon_generator.pilot_authentic_data import (
+    PILOT_LEMMAS,
+    PILOT_EXPRESSIONS,
+    STANDARD_PROVENANCE,
+    GRAMMAR_PROVENANCE,
+    CORPUS_PROVENANCE
+)
 
 LEVEL_ORDER = [
     ('preA1', 'Pre-A1'),
@@ -30,54 +47,12 @@ LEVEL_ORDER = [
     ('c2_complete', 'C2')
 ]
 
-# Morphological inflections and parts of speech
-PARTS_OF_SPEECH = ['noun', 'verb', 'adjective', 'adverb', 'pronoun', 'numeral', 'postposition', 'particle', 'conjunction', 'interjection']
-
-def get_register_for_lesson(cefr_level, lesson_title, lesson_type):
-    t = lesson_title.lower()
-    if cefr_level in ['C1', 'C2']:
-        if any(w in t for w in ['constitution', 'statute', 'decree', 'court', 'jurisprudence', 'chancellery', 'legal', 'засаг', 'хууль']):
-            return 'legal'
-        if any(w in t for w in ['secret history', 'epic', 'archaic', 'yasa', 'jussive', 'inscriptions', 'blessings', 'тууль']):
-            return 'archaic' if 'archaic' in t or 'secret history' in t else 'literary'
-        if any(w in t for w in ['street dialogue', 'quarrel', 'slang', 'colloquial', 'rapid', 'phonotactics', 'ярианы']):
-            return 'colloquial'
-        if any(w in t for w in ['academic', 'methodology', 'macroeconomic', 'monetary', 'peer review', 'судалгаа']):
-            return 'academic'
-        if any(w in t for w in ['diplomatic', 'ambassadorial', 'honorific', 'хүндэтгэл']):
-            return 'administrative'
-        return 'literary' if cefr_level == 'C2' else 'formal'
-    elif cefr_level == 'B2':
-        if any(w in t for w in ['parliament', 'policy', 'advocacy', 'debate', 'contract', 'бодлого']):
-            return 'administrative'
-        if any(w in t for w in ['academic', 'symposium', 'research', 'scientific', 'шинжлэх ухаан']):
-            return 'academic'
-        if any(w in t for w in ['morin khuur', 'song', 'performing arts', 'уртын дуу']):
-            return 'literary'
-        return 'formal'
-    elif cefr_level == 'B1':
-        if any(w in t for w in ['workplace', 'email', 'job', 'interview', 'formal', 'ажил']):
-            return 'formal'
-        return 'neutral'
-    else:
-        if 'informal' in t or 'peer' in t:
-            return 'informal'
-        if 'formal' in t or 'polite' in t or 'хүндэтгэл' in t:
-            return 'formal'
-        return 'neutral'
-
-def normalize_cyrillic(text):
-    return re.sub(r'[\s\-_]+', ' ', text.strip().lower())
-
 def run_lexicon_build():
-    root_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-    if root_dir not in sys.path:
-        sys.path.insert(0, root_dir)
     print("=" * 80)
-    print("PHASE 3C.0 AUTHORITATIVE REALIZED LEXICON GENERATION ENGINE")
+    print("PHASE 3C.0R AUTHORITATIVE LEXICON PIPELINE & AUTHENTICITY PILOT BUILDER")
     print("=" * 80)
-    
-    # 1. Load all 1,257 lessons
+
+    # 1. Load all 1,257 lessons from frozen blueprints
     all_lessons = []
     lessons_by_level = defaultdict(list)
     for file_key, lvl_name in LEVEL_ORDER:
@@ -86,157 +61,164 @@ def run_lexicon_build():
             data = json.load(fp)
             all_lessons.extend(data)
             lessons_by_level[lvl_name].extend(data)
-            
-    print(f"Loaded {len(all_lessons)} frozen lessons across 7 CEFR levels.")
-    
-    total_target_p_lem = sum(l.get('newProductiveLemmaTarget', 0) for l in all_lessons)
-    total_target_r_lem = sum(l.get('newReceptiveLemmaTarget', 0) for l in all_lessons)
-    total_target_p_exp = sum(l.get('newProductiveExpressionTarget', 0) for l in all_lessons)
-    total_target_r_exp = sum(l.get('newReceptiveExpressionTarget', 0) for l in all_lessons)
-    
-    assert total_target_p_lem == 5329
-    assert total_target_r_lem == 4112
-    assert total_target_p_exp == 1622
-    assert total_target_r_exp == 1070
-    print("✓ Lesson allocation targets verified mathematically (5,329 PL, 4,112 RL, 1,622 PE, 1,070 RE).\n")
 
-    # 2. Load authentic seed word pools and curated entries
-    # Build deterministic vocabulary generation
+    print(f"Loaded {len(all_lessons)} frozen lessons across 7 CEFR levels.")
+
+    # 2. Identify A1 pilot unit IDs (first 5 units)
+    a1_units_path = os.path.join(root_dir, 'curriculum', 'blueprint', 'units', 'a1.json')
+    with open(a1_units_path, 'r', encoding='utf-8') as fp:
+        a1_units = json.load(fp)
+    a1_pilot_unit_ids = set(u['unitId'] for u in a1_units[:5])
+    print(f"Identified {len(a1_pilot_unit_ids)} A1 pilot units (units 16 to 20).")
+
+    # 3. Create stable lexical slots matching exact lesson budgets
     lemma_registry = []
     expression_registry = []
-    lemma_by_id = {}
-    expression_by_id = {}
-    seen_lemmas = set()
-    seen_expressions = set()
-    
     lesson_lexicon_map = {}
-    
+
     lemma_counter = 0
     expr_counter = 0
-    
-    # Pre-compiled high-quality thematic word lists
-    # Each lesson receives its exact quota of first-introduced lemmas and expressions
-    # derived deterministically from lesson title, primary purpose, communicative outcome,
-    # and pedagogical domain.
-    
-    print("Synthesizing authoritative lexical entries across all 1,257 lessons...")
-    
+
+    pilot_lemma_idx = 0
+    pilot_expr_idx = 0
+
     for l in all_lessons:
         lid = l['lessonId']
         uid = l['unitId']
         lvl = l['cefrLevel']
         title = l.get('title', '')
-        ltype = l.get('lessonType', '')
-        purpose = l.get('primaryPurpose', '')
-        outcome = l.get('communicativeOutcome', '')
         domains = l.get('lexicalDomains', [])
         primary_domain = domains[0] if domains else 'lex_domain_general'
-        reg = get_register_for_lesson(lvl, title, ltype)
-        
+
+        is_pilot_lesson = (lvl == 'Pre-A1') or (uid in a1_pilot_unit_ids)
+
         req_p_lem = l.get('newProductiveLemmaTarget', 0)
         req_r_lem = l.get('newReceptiveLemmaTarget', 0)
         req_p_exp = l.get('newProductiveExpressionTarget', 0)
         req_r_exp = l.get('newReceptiveExpressionTarget', 0)
-        
+
         assigned_p_lemmas = []
         assigned_r_lemmas = []
         assigned_p_exprs = []
         assigned_r_exprs = []
-        
-        # Helper to generate unique Cyrillic lemma
-        def make_unique_lemma(role, idx):
-            nonlocal lemma_counter
+
+        def build_lemma(classification):
+            nonlocal lemma_counter, pilot_lemma_idx
             lemma_counter += 1
             lemma_id = f"lex_mn_lemma_{lemma_counter:05d}"
-            
-            # Deterministic word formation
-            # Use Cyrillic text tokens from lesson context
-            clean_lid = lid.replace('les_', '').replace('_', ' ')
-            cyr_token = f"{lvl.lower()}_{lemma_counter}"
-            
-            # Meaningful gloss and POS
-            pos = 'noun'
-            if 'verb' in title.lower() or 'converb' in title.lower() or 'syntax' in title.lower():
-                pos = 'verb' if idx % 2 == 1 else 'noun'
-            elif 'case' in title.lower() or 'suffix' in title.lower():
-                pos = 'noun' if idx % 3 != 0 else 'adjective'
+
+            if is_pilot_lesson:
+                if pilot_lemma_idx >= len(PILOT_LEMMAS):
+                    raise ValueError(f"Exceeded pilot lemmas at index {pilot_lemma_idx}")
+                (c_lemma, c_gloss, c_pos, c_reg, c_harmony, c_stem, c_prov, c_notes, c_sense) = PILOT_LEMMAS[pilot_lemma_idx]
+                pilot_lemma_idx += 1
+
+                prov = STANDARD_PROVENANCE.copy()
+                if c_prov == "GRAMMAR":
+                    prov = GRAMMAR_PROVENANCE.copy()
+                elif c_prov == "CORPUS":
+                    prov = CORPUS_PROVENANCE.copy()
+
+                entry = {
+                    "id": lemma_id,
+                    "lemma": c_lemma,
+                    "gloss": c_gloss,
+                    "pos": c_pos,
+                    "cefrLevel": lvl,
+                    "firstIntroducedUnitId": uid,
+                    "firstIntroducedLessonId": lid,
+                    "classification": classification,
+                    "domains": domains if domains else [primary_domain],
+                    "register": c_reg,
+                    "usageNotes": c_notes,
+                    "morphology": {
+                        "vowelHarmony": c_harmony,
+                        "stemType": c_stem,
+                        "irregularity": "regular"
+                    },
+                    "senseIndex": c_sense,
+                    "status": "LINGUISTICALLY_REVIEWED",
+                    "provenance": prov
+                }
             else:
-                pos = 'noun' if idx % 4 != 0 else 'adjective'
-                
-            entry = {
-                "id": lemma_id,
-                "lemma": "", # populated below
-                "gloss": "",
-                "pos": pos,
-                "cefrLevel": lvl,
-                "firstIntroducedUnitId": uid,
-                "firstIntroducedLessonId": lid,
-                "classification": role,
-                "domains": domains if domains else [primary_domain],
-                "register": reg,
-                "usageNotes": f"Introduced in lesson '{title}' ({lvl}) as {role} vocabulary.",
-                "morphology": {
-                    "vowelHarmony": "masculine" if (lemma_counter % 2 == 1) else "feminine",
-                    "stemType": "nominal" if pos == "noun" else ("verbal" if pos == "verb" else "adjectival"),
-                    "irregularity": "regular"
-                },
-                "status": "VALIDATED"
-            }
+                # Non-pilot slot outside authenticity pilot scope
+                entry = {
+                    "id": lemma_id,
+                    "lemma": "",
+                    "gloss": "",
+                    "pos": "",
+                    "cefrLevel": lvl,
+                    "firstIntroducedUnitId": uid,
+                    "firstIntroducedLessonId": lid,
+                    "classification": classification,
+                    "domains": domains if domains else [primary_domain],
+                    "register": "neutral",
+                    "status": "UNREALIZED"
+                }
             return entry
 
-        def make_unique_expr(role, idx):
-            nonlocal expr_counter
+        def build_expr(classification):
+            nonlocal expr_counter, pilot_expr_idx
             expr_counter += 1
             expr_id = f"lex_mn_expr_{expr_counter:05d}"
-            
-            expr_type = "collocation"
-            if 'greeting' in title.lower() or 'politeness' in title.lower() or 'courtesy' in title.lower():
-                expr_type = "formulaic_language"
-            elif 'idiom' in title.lower() or 'metaphor' in title.lower() or 'satire' in title.lower():
-                expr_type = "idiomatic_expression"
-            elif 'statutory' in title.lower() or 'constitution' in title.lower() or 'parliament' in title.lower():
-                expr_type = "institutional_terminology"
-            elif 'converb' in title.lower() or 'discourse' in title.lower():
-                expr_type = "discourse_formula"
-                
-            entry = {
-                "id": expr_id,
-                "expression": "", # populated below
-                "gloss": "",
-                "expressionType": expr_type,
-                "cefrLevel": lvl,
-                "firstIntroducedUnitId": uid,
-                "firstIntroducedLessonId": lid,
-                "classification": role,
-                "domains": domains if domains else [primary_domain],
-                "register": reg,
-                "constituentLemmaIds": [],
-                "usageNotes": f"Introduced in lesson '{title}' ({lvl}) as {role} multiword unit.",
-                "status": "VALIDATED"
-            }
+
+            if is_pilot_lesson:
+                if pilot_expr_idx >= len(PILOT_EXPRESSIONS):
+                    raise ValueError(f"Exceeded pilot expressions at index {pilot_expr_idx}")
+                (c_expr, c_gloss, c_type, c_reg, c_indices, c_notes) = PILOT_EXPRESSIONS[pilot_expr_idx]
+                pilot_expr_idx += 1
+
+                # Resolve genuine constituent lemma IDs
+                constituent_ids = [f"lex_mn_lemma_{ci+1:05d}" for ci in c_indices]
+
+                entry = {
+                    "id": expr_id,
+                    "expression": c_expr,
+                    "gloss": c_gloss,
+                    "expressionType": c_type,
+                    "cefrLevel": lvl,
+                    "firstIntroducedUnitId": uid,
+                    "firstIntroducedLessonId": lid,
+                    "classification": classification,
+                    "domains": domains if domains else [primary_domain],
+                    "register": c_reg,
+                    "constituentLemmaIds": constituent_ids,
+                    "usageNotes": c_notes,
+                    "status": "LINGUISTICALLY_REVIEWED",
+                    "provenance": STANDARD_PROVENANCE.copy()
+                }
+            else:
+                # Non-pilot slot outside authenticity pilot scope
+                entry = {
+                    "id": expr_id,
+                    "expression": "",
+                    "gloss": "",
+                    "expressionType": "collocation",
+                    "cefrLevel": lvl,
+                    "firstIntroducedUnitId": uid,
+                    "firstIntroducedLessonId": lid,
+                    "classification": classification,
+                    "domains": domains if domains else [primary_domain],
+                    "register": "neutral",
+                    "constituentLemmaIds": [],
+                    "status": "UNREALIZED"
+                }
             return entry
 
-        # Allocate Productive Lemmas
-        for i in range(req_p_lem):
-            assigned_p_lemmas.append(make_unique_lemma("productive", i))
-            
-        # Allocate Receptive Lemmas
-        for i in range(req_r_lem):
-            assigned_r_lemmas.append(make_unique_lemma("receptive", i))
-            
-        # Allocate Productive Expressions
-        for i in range(req_p_exp):
-            assigned_p_exprs.append(make_unique_expr("productive", i))
-            
-        # Allocate Receptive Expressions
-        for i in range(req_r_exp):
-            assigned_r_exprs.append(make_unique_expr("receptive", i))
-            
+        for _ in range(req_p_lem):
+            assigned_p_lemmas.append(build_lemma("productive"))
+        for _ in range(req_r_lem):
+            assigned_r_lemmas.append(build_lemma("receptive"))
+        for _ in range(req_p_exp):
+            assigned_p_exprs.append(build_expr("productive"))
+        for _ in range(req_r_exp):
+            assigned_r_exprs.append(build_expr("receptive"))
+
         lemma_registry.extend(assigned_p_lemmas)
         lemma_registry.extend(assigned_r_lemmas)
         expression_registry.extend(assigned_p_exprs)
         expression_registry.extend(assigned_r_exprs)
-        
+
         lesson_lexicon_map[lid] = {
             "lessonId": lid,
             "unitId": uid,
@@ -247,255 +229,141 @@ def run_lexicon_build():
             "receptiveExpressionIds": [x["id"] for x in assigned_r_exprs],
             "previousVocabularyReused": l.get("previousVocabularyReused", [])
         }
-        
-    print(f"Total lemmas generated: {len(lemma_registry)}")
-    print(f"Total expressions generated: {len(expression_registry)}")
-    
+
+    print(f"Total lemmas processed: {len(lemma_registry)} (Pilot realized: {pilot_lemma_idx}, Unrealized: {len(lemma_registry) - pilot_lemma_idx})")
+    print(f"Total expressions processed: {len(expression_registry)} (Pilot realized: {pilot_expr_idx}, Unrealized: {len(expression_registry) - pilot_expr_idx})")
+
     assert len(lemma_registry) == 9441
     assert len(expression_registry) == 2692
-    
-    # 3. Populate genuine Mongolian Cyrillic forms and natural glosses
-    # Using authentic linguistic roots and word compounding to ensure 100% natural,
-    # non-duplicate Modern Mongolian Cyrillic forms
-    
-    # Curated word banks by domain
-    from scripts.lexicon_generator.vocab_seed import CORE_VOCABULARY
-    from scripts.lexicon_generator.pre_a1_vocab import PRE_A1_VOCAB
-    from scripts.lexicon_generator.stems_data import NOUN_STEMS
-    
-    # Generate realistic, authentic vocabulary
-    # Combine root dictionaries and derivational morphology
-    print("Assigning authentic Cyrillic forms and English glosses...")
-    
-    # Ensure zero duplicates
-    used_lemmas = set()
-    used_exprs = set()
-    
-    # Generate realistic Mongolian Cyrillic stems
-    MONGOLIAN_STEMS = [
-        # Nouns (living, concrete, abstract)
-        ("авдар", "chest, trunk"), ("ажиллагаа", "operation, functioning"), ("аян", "expedition, journey"),
-        ("бааз", "base, depot"), ("багаж", "tool, instrument"), ("байр", "apartment, location"),
-        ("бичиг", "script, writing, document"), ("бодол", "thought, contemplation"), ("булаг", "spring, source"),
-        ("гал", "fire, flame"), ("газар", "land, place, ground"), ("дайсан", "enemy, adversary"),
-        ("дархан", "blacksmith, craftsman, sacred"), ("дэлхий", "world, globe"), ("жаргал", "happiness, bliss"),
-        ("зориг", "courage, will"), ("зун", "summer"), ("зүүд", "dream, slumber"),
-        ("ирээдүй", "future"), ("итгэл", "trust, belief, confidence"), ("мөрөөдөл", "dream, aspiration"),
-        ("найдвар", "hope, reliance"), ("намрын", "autumnal"), ("намар", "autumn, fall"),
-        ("нөхөрлөл", "friendship, fellowship"), ("нууц", "secret, mystery"), ("орон", "country, place, space"),
-        ("өвөл", "winter"), ("өглөө", "morning"), ("өдөр", "day, afternoon"),
-        ("орой", "evening, summit"), ("сэтгэл", "soul, heart, psyche"), ("тал", "steppe, plain, side"),
-        ("түүх", "history, chronicle"), ("ухаан", "mind, intellect, wisdom"), ("хавар", "spring season"),
-        ("хайр", "love, affection"), ("хүсэл", "desire, wish"), ("хүч", "strength, power, force"),
-        ("цаг", "time, clock, hour"), ("цэнгэл", "joy, delight"), ("чанга", "loud, tight, strict"),
-        ("шударга", "honest, just, fair"), ("эр зориг", "bravery, fortitude"), ("эрх чөлөө", "freedom, liberty"),
-        ("баялаг", "wealth, natural resource"), ("хөгжил", "development, progress"), ("мэдлэг", "knowledge, learning"),
-        ("чадвар", "ability, skill, competence"), ("боловсрол", "education"), ("шинжлэх ухаан", "science"),
-        ("зан заншил", "custom, tradition"), ("өв соёл", "cultural heritage"), ("төрт ёс", "statehood tradition"),
-        ("тусгаар тогтнол", "independence, sovereignty"), ("эх орон", "motherland, homeland"),
-        ("эх хэл", "mother tongue, native language"), ("байгаль орчин", "natural environment"),
-        ("ан амьтан", "wild fauna, wildlife"), ("ургамал", "flora, vegetation, plant"),
-        ("ус цаг уур", "hydrometeorology"), ("хөрс шороо", "soil, earth, terrain"),
-        ("хөдөө аж ахуй", "agriculture, farming"), ("мал аж ахуй", "pastoral livestock farming"),
-        ("үйлдвэрлэл", "production, manufacture"), ("үйлчилгээ", "service, hospitality"),
-        ("худалдаа", "trade, commerce"), ("санхүү", "finance, treasury"),
-        ("эдийн засаг", "economy, economics"), ("төсөв", "budget, public expenditure"),
-        ("татвар", "tax, taxation, levy"), ("хөрөнгө оруулалт", "capital investment"),
-        ("тээвэр зуучлал", "freight forwarding, transport logistics"), ("харилцаа холбоо", "telecommunications"),
-        ("мэдээлэл технологи", "information technology"), ("сүлжээ", "network, web"),
-        ("аюулгүй байдал", "security, safety"), ("эрүүл мэнд", "health, healthcare"),
-        ("хөдөлмөр эрхлэлт", "employment, labor force"), ("хууль сахиулах", "law enforcement"),
-        ("шүүх эрх мэдэл", "judicial power, judiciary"), ("парламентын засаглал", "parliamentary governance"),
-    ]
-    
-    # Assemble comprehensive dictionary of unique lemmas
-    base_lexicon = []
-    for cyr, en in MONGOLIAN_STEMS:
-        if ' ' not in cyr:
-            base_lexicon.append((cyr, en, "noun", "neutral"))
+    assert pilot_lemma_idx == 286
+    assert pilot_expr_idx == 77
 
-    # Rich prefix/root generator to yield 9,441 pristine unique lemmas
-    # Using authentic Mongolian morphological affixes (-л, -лт, -лага, -дал, -уур, -гч, -ч, -лал, -мал, -тай, -лаг, -гчин, -вч, -хүй, -вар)
-    vowels_back = ['а', 'о', 'у']
-    vowels_front = ['э', 'ө', 'ү']
-    
     # 4. Write modular files to curriculum/lexicon/
-    lexicon_dir = os.path.join(root_dir, 'curriculum', 'lexicon')
-    os.makedirs(os.path.join(lexicon_dir, 'lemmas'), exist_ok=True)
-    os.makedirs(os.path.join(lexicon_dir, 'expressions'), exist_ok=True)
-    os.makedirs(os.path.join(lexicon_dir, 'indexes'), exist_ok=True)
-    
-    # Build actual pristine records
-    # Generate unique Cyrillic forms
-    all_lemmas = []
-    lemma_index = {}
-    
-    # We populate each of the 9,441 lemma records
-    for idx, lem in enumerate(lemma_registry):
-        lem_num = idx + 1
-        pos = lem['pos']
-        lvl = lem['cefrLevel']
-        lid = lem['firstIntroducedLessonId']
-        uid = lem['firstIntroducedUnitId']
-        
-        # Deterministic authentic Mongolian lemma formation
-        cyr_lemma = f"үг_{lem_num:05d}"
-        gloss = f"lexical item {lem_num}"
-        
-        # High quality names for earlier and key vocabulary
-        if lem_num <= len(PRE_A1_VOCAB):
-            c_text, c_gloss, c_pos, c_reg, c_morph = PRE_A1_VOCAB[lem_num - 1]
-            cyr_lemma = c_text
-            gloss = c_gloss
-            pos = c_pos
-            lem['register'] = c_reg
-            lem['morphology']['stemType'] = c_morph
-        else:
-            # Deterministic, natural Mongolian root expansion
-            # Suffixes: -лт, -лага, -дал, -уур, -ч, -лал, -мал, -аа, -х
-            stems = [
-                "амьдрал", "хөдөлгөөн", "хөгжил", "боловсрол", "соёл", "шинжлэх", "судалгаа", "түүх",
-                "нийгэм", "төр", "засаг", "хууль", "эрх", "хэл", "утга", "зохиол", "яруу", "найраг",
-                "найрамдал", "нөхөрлөл", "сэтгэл", "зориг", "итгэл", "найдвар", "баяр", "баясгалан",
-                "эрдэм", "мэдлэг", "чадвар", "дадал", "ажил", "хөдөлмөр", "бүтээл", "амжилт", "ялалт",
-                "байгаль", "дэлхий", "орчлон", "тэнгэр", "газар", "уул", "ус", "гол", "нуур", "тал",
-                "хээр", "говь", "хангай", "ой", "мод", "цэцэг", "ургамал", "амьтан", "мал", "сүрэг",
-                "гэр", "хот", "хөдөө", "аймаг", "сум", "баг", "улс", "эх орон", "үндэстэн", "ард түмэн"
-            ]
-            base_stem = stems[(lem_num * 7) % len(stems)].replace(' ', '_')
-            cyr_lemma = f"{base_stem}_{lem_num}"
-            gloss = f"{base_stem} sense ({lvl} #{lem_num})"
+    curriculum_lex_dir = os.path.join(root_dir, 'curriculum', 'lexicon')
+    lemmas_dir = os.path.join(curriculum_lex_dir, 'lemmas')
+    exprs_dir = os.path.join(curriculum_lex_dir, 'expressions')
+    indexes_dir = os.path.join(curriculum_lex_dir, 'indexes')
 
-        lem['lemma'] = cyr_lemma
-        lem['gloss'] = gloss
-        lem['pos'] = pos
-        all_lemmas.append(lem)
-        lemma_index[lem['id']] = {
-            "id": lem['id'],
-            "lemma": cyr_lemma,
-            "gloss": gloss,
-            "pos": pos,
-            "cefrLevel": lvl,
-            "lessonId": lid,
-            "unitId": uid,
-            "classification": lem['classification']
-        }
-        
-    # Populate each of the 2,692 expression records
-    all_expressions = []
-    expr_index = {}
-    for idx, exp in enumerate(expression_registry):
-        exp_num = idx + 1
-        lvl = exp['cefrLevel']
-        lid = exp['firstIntroducedLessonId']
-        uid = exp['firstIntroducedUnitId']
-        
-        # Constituent lemmas
-        lem1 = f"lex_mn_lemma_{((exp_num * 3) % 9441) + 1:05d}"
-        lem2 = f"lex_mn_lemma_{((exp_num * 7) % 9441) + 1:05d}"
-        
-        cyr_expr = f"хэллэг_{exp_num:04d}"
-        gloss = f"fixed expression #{exp_num} ({lvl})"
-        
-        exp['expression'] = cyr_expr
-        exp['gloss'] = gloss
-        exp['constituentLemmaIds'] = [lem1, lem2]
-        
-        all_expressions.append(exp)
-        expr_index[exp['id']] = {
-            "id": exp['id'],
-            "expression": cyr_expr,
-            "gloss": gloss,
-            "expressionType": exp['expressionType'],
-            "cefrLevel": lvl,
-            "lessonId": lid,
-            "unitId": uid,
-            "classification": exp['classification'],
-            "constituentLemmaIds": [lem1, lem2]
-        }
+    os.makedirs(lemmas_dir, exist_ok=True)
+    os.makedirs(exprs_dir, exist_ok=True)
+    os.makedirs(indexes_dir, exist_ok=True)
 
-    # Partition by CEFR level
+    # By level partition
+    level_key_map = {
+        'Pre-A1': 'preA1',
+        'A1': 'a1_complete',
+        'A2': 'a2_complete',
+        'B1': 'b1_complete',
+        'B2': 'b2_complete',
+        'C1': 'c1_complete',
+        'C2': 'c2_complete'
+    }
+
     lemmas_by_level = defaultdict(list)
     exprs_by_level = defaultdict(list)
-    for lem in all_lemmas:
-        lemmas_by_level[lem['cefrLevel']].append(lem)
-    for exp in all_expressions:
-        exprs_by_level[exp['cefrLevel']].append(exp)
-        
-    # Write modular source files
-    for file_key, lvl_name in LEVEL_ORDER:
-        lem_file = os.path.join(lexicon_dir, 'lemmas', f"lemmas_{file_key}.json")
+
+    for l in lemma_registry:
+        lemmas_by_level[l['cefrLevel']].append(l)
+    for e in expression_registry:
+        exprs_by_level[e['cefrLevel']].append(e)
+
+    for lvl, fkey in level_key_map.items():
+        lem_file = os.path.join(lemmas_dir, f"lemmas_{fkey}.json")
         with open(lem_file, 'w', encoding='utf-8') as fp:
-            json.dump(lemmas_by_level[lvl_name], fp, ensure_ascii=False, indent=2)
-            
-        exp_file = os.path.join(lexicon_dir, 'expressions', f"expressions_{file_key}.json")
+            json.dump(lemmas_by_level[lvl], fp, ensure_ascii=False, indent=2)
+
+        exp_file = os.path.join(exprs_dir, f"expressions_{fkey}.json")
         with open(exp_file, 'w', encoding='utf-8') as fp:
-            json.dump(exprs_by_level[lvl_name], fp, ensure_ascii=False, indent=2)
-            
-        print(f"  • {lvl_name}: {len(lemmas_by_level[lvl_name])} lemmas, {len(exprs_by_level[lvl_name])} expressions written to source.")
+            json.dump(exprs_by_level[lvl], fp, ensure_ascii=False, indent=2)
 
-    # Write indexes
-    with open(os.path.join(lexicon_dir, 'indexes', 'lemma_index.json'), 'w', encoding='utf-8') as fp:
-        json.dump(lemma_index, fp, ensure_ascii=False, indent=2)
-    with open(os.path.join(lexicon_dir, 'indexes', 'expression_index.json'), 'w', encoding='utf-8') as fp:
-        json.dump(expr_index, fp, ensure_ascii=False, indent=2)
-    with open(os.path.join(lexicon_dir, 'indexes', 'lesson_lexicon_map.json'), 'w', encoding='utf-8') as fp:
+    # Save indexes
+    lemma_index = {l['id']: l for l in lemma_registry}
+    expr_index = {e['id']: e for e in expression_registry}
+
+    with open(os.path.join(indexes_dir, 'lesson_lexicon_map.json'), 'w', encoding='utf-8') as fp:
         json.dump(lesson_lexicon_map, fp, ensure_ascii=False, indent=2)
-        
-    print(f"✓ Source indexes written in {os.path.join(lexicon_dir, 'indexes')}.")
+    with open(os.path.join(indexes_dir, 'lemma_index.json'), 'w', encoding='utf-8') as fp:
+        json.dump(lemma_index, fp, ensure_ascii=False, indent=2)
+    with open(os.path.join(indexes_dir, 'expression_index.json'), 'w', encoding='utf-8') as fp:
+        json.dump(expr_index, fp, ensure_ascii=False, indent=2)
 
-    # 5. Compile into runtime assets in public/data/lexicon/
-    runtime_dir = os.path.join(root_dir, 'public', 'data', 'lexicon')
-    os.makedirs(runtime_dir, exist_ok=True)
-    
-    # Manifest
-    manifest_data = {
-        "manifestVersion": "1.0.0",
+    print("✓ Modular curriculum/lexicon/ files written successfully.")
+
+    # 5. Compile runtime assets in public/data/lexicon/
+    runtime_lex_dir = os.path.join(root_dir, 'public', 'data', 'lexicon')
+    os.makedirs(runtime_lex_dir, exist_ok=True)
+
+    with open(os.path.join(runtime_lex_dir, 'lemmas_bundle.json'), 'w', encoding='utf-8') as fp:
+        json.dump(lemma_registry, fp, ensure_ascii=False, indent=2)
+    with open(os.path.join(runtime_lex_dir, 'expressions_bundle.json'), 'w', encoding='utf-8') as fp:
+        json.dump(expression_registry, fp, ensure_ascii=False, indent=2)
+    with open(os.path.join(runtime_lex_dir, 'lesson_lexicon_lookup.json'), 'w', encoding='utf-8') as fp:
+        json.dump(lesson_lexicon_map, fp, ensure_ascii=False, indent=2)
+
+    # Build manifest
+    by_level_stats = {}
+    for lvl in ['Pre-A1', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2']:
+        l_list = lemmas_by_level[lvl]
+        e_list = exprs_by_level[lvl]
+        r_lem = sum(1 for x in l_list if x['status'] != 'UNREALIZED')
+        u_lem = sum(1 for x in l_list if x['status'] == 'UNREALIZED')
+        r_exp = sum(1 for x in e_list if x['status'] != 'UNREALIZED')
+        u_exp = sum(1 for x in e_list if x['status'] == 'UNREALIZED')
+        by_level_stats[lvl] = {
+            "lemmas": len(l_list),
+            "productiveLemmas": sum(1 for x in l_list if x['classification'] == 'productive'),
+            "receptiveLemmas": sum(1 for x in l_list if x['classification'] == 'receptive'),
+            "expressions": len(e_list),
+            "productiveExpressions": sum(1 for x in e_list if x['classification'] == 'productive'),
+            "receptiveExpressions": sum(1 for x in e_list if x['classification'] == 'receptive'),
+            "realizedLemmas": r_lem,
+            "realizedExpressions": r_exp,
+            "unrealizedLemmas": u_lem,
+            "unrealizedExpressions": u_exp
+        }
+
+    manifest = {
+        "manifestVersion": "3.0.0-phase3c.0r",
         "generatedAt": datetime.now(timezone.utc).isoformat(),
-        "phase": "3C.0",
+        "phase": "3C.0R Lexicon Integrity Reset & Authenticity Pilot",
         "summary": {
-            "totalCoreLemmas": len(all_lemmas),
-            "totalProductiveLemmas": sum(1 for x in all_lemmas if x['classification'] == 'productive'),
-            "totalReceptiveLemmas": sum(1 for x in all_lemmas if x['classification'] == 'receptive'),
-            "totalExpressions": len(all_expressions),
-            "totalProductiveExpressions": sum(1 for x in all_expressions if x['classification'] == 'productive'),
-            "totalReceptiveExpressions": sum(1 for x in all_expressions if x['classification'] == 'receptive'),
-            "lessonsReconciled": len(lesson_lexicon_map),
+            "totalCoreLemmas": 9441,
+            "totalProductiveLemmas": sum(1 for x in lemma_registry if x['classification'] == 'productive'),
+            "totalReceptiveLemmas": sum(1 for x in lemma_registry if x['classification'] == 'receptive'),
+            "totalExpressions": 2692,
+            "totalProductiveExpressions": sum(1 for x in expression_registry if x['classification'] == 'productive'),
+            "totalReceptiveExpressions": sum(1 for x in expression_registry if x['classification'] == 'receptive'),
+            "realizedLemmasCount": 286,
+            "realizedExpressionsCount": 77,
+            "unrealizedLemmasCount": 9155,
+            "unrealizedExpressionsCount": 2615,
+            "lessonsReconciled": 1257,
             "reconciliationRate": 1.0,
-            "levels": [lvl for _, lvl in LEVEL_ORDER]
+            "levels": ['Pre-A1', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2']
         },
-        "byLevel": {
-            lvl: {
-                "lemmas": len(lemmas_by_level[lvl]),
-                "productiveLemmas": sum(1 for x in lemmas_by_level[lvl] if x['classification'] == 'productive'),
-                "receptiveLemmas": sum(1 for x in lemmas_by_level[lvl] if x['classification'] == 'receptive'),
-                "expressions": len(exprs_by_level[lvl]),
-                "productiveExpressions": sum(1 for x in exprs_by_level[lvl] if x['classification'] == 'productive'),
-                "receptiveExpressions": sum(1 for x in exprs_by_level[lvl] if x['classification'] == 'receptive'),
+        "byLevel": by_level_stats,
+        "pilotScope": {
+            "preA1": {
+                "units": 15,
+                "lessons": 73,
+                "realizedLemmas": 168,
+                "realizedExpressions": 47
+            },
+            "a1PilotUnits": {
+                "units": 5,
+                "lessons": 30,
+                "realizedLemmas": 118,
+                "realizedExpressions": 30
             }
-            for _, lvl in LEVEL_ORDER
         }
     }
-    
-    with open(os.path.join(runtime_dir, 'lexicon_manifest.json'), 'w', encoding='utf-8') as fp:
-        json.dump(manifest_data, fp, ensure_ascii=False, indent=2)
-        
-    with open(os.path.join(runtime_dir, 'lemmas_bundle.json'), 'w', encoding='utf-8') as fp:
-        json.dump(all_lemmas, fp, ensure_ascii=False)
-        
-    with open(os.path.join(runtime_dir, 'expressions_bundle.json'), 'w', encoding='utf-8') as fp:
-        json.dump(all_expressions, fp, ensure_ascii=False)
-        
-    with open(os.path.join(runtime_dir, 'lesson_lexicon_lookup.json'), 'w', encoding='utf-8') as fp:
-        json.dump(lesson_lexicon_map, fp, ensure_ascii=False)
-        
-    print(f"\n✓ Runtime assets compiled into {runtime_dir}:")
-    print(f"  • lexicon_manifest.json: {os.path.getsize(os.path.join(runtime_dir, 'lexicon_manifest.json')) / 1024:.1f} KB")
-    print(f"  • lemmas_bundle.json: {os.path.getsize(os.path.join(runtime_dir, 'lemmas_bundle.json')) / 1024:.1f} KB")
-    print(f"  • expressions_bundle.json: {os.path.getsize(os.path.join(runtime_dir, 'expressions_bundle.json')) / 1024:.1f} KB")
-    print(f"  • lesson_lexicon_lookup.json: {os.path.getsize(os.path.join(runtime_dir, 'lesson_lexicon_lookup.json')) / 1024:.1f} KB")
+
+    with open(os.path.join(runtime_lex_dir, 'lexicon_manifest.json'), 'w', encoding='utf-8') as fp:
+        json.dump(manifest, fp, ensure_ascii=False, indent=2)
+
+    print("✓ Runtime public/data/lexicon/ assets compiled successfully.")
     print("=" * 80)
-    print("LEXICON REALIZATION ENGINE EXECUTION COMPLETED SUCCESSFULLY.")
+    print("PHASE 3C.0R LEXICON RESET & AUTHENTICITY PILOT BUILD COMPLETE.")
     print("=" * 80)
 
 if __name__ == '__main__':
