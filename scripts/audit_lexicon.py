@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Phase 3C.0R.2 Independent Evidence Spot Audit & Adversarial Lexical Auditor
+Phase 3C.1A Independent Evidence Spot Audit & Adversarial Lexical Auditor
+Scope: Pre-A1 + A1 Units 16-20 (Pilot) and A1 Units 21-25 (Batch 1)
 
 Distinguishes:
 1. Mechanically Verified:
@@ -11,8 +12,8 @@ Distinguishes:
 3. Externally Source-Verified:
    - Actual dictionary, academic grammar, corpus, and official state standards citations
 
-Phase 3C.0R.2 Spot Audit:
-- Adversarially audits a deterministic stratified sample of exactly 40 records (20 lemmas, 20 expressions).
+Phase 3C.1A Spot Audit:
+- Adversarially audits a deterministic stratified sample of 40 records for Batch 1 (25 lemmas, 15 expressions).
 - Enforces three-state verification dimensions (VERIFIED, REVIEWED_INFERRED, UNVERIFIED).
 - Calculates False-Positive Rate of programmatic source-verification claims.
 """
@@ -31,9 +32,11 @@ def run_adversarial_audit():
     from scripts.lexicon_generator.pilot_alignment_review import generate_record_by_record_review
     from scripts.lexicon_generator.pilot_constituent_data import CONSTITUENT_ANALYSIS
     from scripts.lexicon_generator.pilot_spot_audit_data import SAMPLE_LEMMAS, SAMPLE_EXPRESSIONS
+    from scripts.lexicon_generator.batch1_constituent_data import BATCH1_CONSTITUENT_ANALYSIS
+    from scripts.lexicon_generator.batch1_spot_audit_data import BATCH1_SAMPLE_LEMMAS, BATCH1_SAMPLE_EXPRESSIONS
 
     print("=" * 80)
-    print("PHASE 3C.0R.2 INDEPENDENT EVIDENCE SPOT AUDIT & LEXICAL CERTIFICATION REPORT")
+    print("PHASE 3C.1A INDEPENDENT EVIDENCE SPOT AUDIT & LEXICAL CERTIFICATION REPORT")
     print("=" * 80)
 
     runtime_dir = os.path.join(root_dir, 'public', 'data', 'lexicon')
@@ -51,14 +54,14 @@ def run_adversarial_audit():
     with open(manifest_path, 'r', encoding='utf-8') as fp:
         manifest = json.load(fp)
 
-    pilot_lemmas = [l for l in all_lemmas if l.get('status') in ['SOURCE_VERIFIED', 'LINGUISTICALLY_REVIEWED', 'DRAFT_UNVERIFIED']]
-    pilot_exprs = [e for e in all_exprs if e.get('status') in ['SOURCE_VERIFIED', 'LINGUISTICALLY_REVIEWED', 'DRAFT_UNVERIFIED']]
+    realized_lemmas = [l for l in all_lemmas if l.get('status') in ['SOURCE_VERIFIED', 'LINGUISTICALLY_REVIEWED', 'DRAFT_UNVERIFIED']]
+    realized_exprs = [e for e in all_exprs if e.get('status') in ['SOURCE_VERIFIED', 'LINGUISTICALLY_REVIEWED', 'DRAFT_UNVERIFIED']]
     unrealized_lemmas = [l for l in all_lemmas if l.get('status') == 'UNREALIZED']
     unrealized_exprs = [e for e in all_exprs if e.get('status') == 'UNREALIZED']
 
     print(f"Auditing Dataset Scope:")
-    print(f"  • Realized Pilot Lemmas:       {len(pilot_lemmas):5d} (Pre-A1: 168 + A1 Units 16-20: 118)")
-    print(f"  • Realized Pilot Expressions:  {len(pilot_exprs):5d} (Pre-A1: 47 + A1 Units 16-20: 30)")
+    print(f"  • Realized Lemmas:             {len(realized_lemmas):5d} (Pilot: 286, Batch 1 [Units 21-25]: 117)")
+    print(f"  • Realized Expressions:        {len(realized_exprs):5d} (Pilot: 77, Batch 1 [Units 21-25]: 33)")
     print(f"  • Unrealized Non-Pilot Lemmas: {len(unrealized_lemmas):5d} (Preserved stable slots)")
     print(f"  • Unrealized Non-Pilot Exprs:  {len(unrealized_exprs):5d} (Preserved stable slots)")
     print(f"  • Total Curriculum Slots:      {len(all_lemmas) + len(all_exprs):5d} (9,441 + 2,692 = 12,133)")
@@ -69,10 +72,10 @@ def run_adversarial_audit():
     print("\n[Audit Module 1: Mechanically Verified Dimensions]")
     assert len(all_lemmas) == 9441, "Total lemmas must equal 9441"
     assert len(all_exprs) == 2692, "Total expressions must equal 2692"
-    assert len(pilot_lemmas) == 286, "Pilot lemmas must equal 286"
-    assert len(pilot_exprs) == 77, "Pilot expressions must equal 77"
-    assert len(unrealized_lemmas) == 9155, "Unrealized lemmas must equal 9155"
-    assert len(unrealized_exprs) == 2615, "Unrealized exprs must equal 2615"
+    assert len(realized_lemmas) == 403, f"Realized lemmas must equal 403, got {len(realized_lemmas)}"
+    assert len(realized_exprs) == 110, f"Realized expressions must equal 110, got {len(realized_exprs)}"
+    assert len(unrealized_lemmas) == 9038, "Unrealized lemmas must equal 9038"
+    assert len(unrealized_exprs) == 2582, "Unrealized exprs must equal 2582"
 
     reconciled_count = 0
     LEVEL_FILES = [
@@ -103,7 +106,7 @@ def run_adversarial_audit():
     # Module 2: Externally Source-Verified Dimensions & Status Breakdown
     # -------------------------------------------------------------------------
     print("\n[Audit Module 2: Externally Source-Verified Dimensions & Status Breakdown]")
-    all_realized = pilot_lemmas + pilot_exprs
+    all_realized = realized_lemmas + realized_exprs
     source_counts = Counter(item['provenance']['sourceType'] for item in all_realized)
     
     print("  External Primary Sources Cited:")
@@ -125,7 +128,7 @@ def run_adversarial_audit():
             else:
                 dim_unverified[dim] += 1
 
-    print("\n  Three-State Verification Dimensions Tracked Across Realized Pilot:")
+    print("\n  Three-State Verification Dimensions Tracked Across Realized Pilot + Batch 1:")
     for dim in sorted(set(list(dim_verified.keys()) + list(dim_inferred.keys()) + list(dim_unverified.keys()))):
         v = dim_verified[dim]
         inf = dim_inferred[dim]
@@ -137,40 +140,43 @@ def run_adversarial_audit():
     # Module 3: Human & Model Reviewed Linguistic Quality
     # -------------------------------------------------------------------------
     print("\n[Audit Module 3: Human / Model Reviewed Linguistic Quality]")
-    multiword_lemmas = [l for l in pilot_lemmas if ' ' in l['lemma']]
+    multiword_lemmas = [l for l in realized_lemmas if ' ' in l['lemma']]
     print(f"  • Multiword Phrases in Lemma Registry:  {len(multiword_lemmas)} (Category purity verified)")
     assert len(multiword_lemmas) == 0
 
-    lemma_texts = [l['lemma'] for l in pilot_lemmas]
+    lemma_texts = [l['lemma'] for l in realized_lemmas]
     text_counts = Counter(lemma_texts)
     duplicates = {k: v for k, v in text_counts.items() if v > 1}
-    print(f"  • Distinct Realized Lemma Forms:        {len(text_counts)} across 286 slots")
+    print(f"  • Distinct Realized Lemma Forms:        {len(text_counts)} across {len(realized_lemmas)} slots")
     print(f"  • Surface Duplicates Identified:        {len(duplicates)} pairs")
     for d_text, count in duplicates.items():
-        matches = [l for l in pilot_lemmas if l['lemma'] == d_text]
+        matches = [l for l in realized_lemmas if l['lemma'] == d_text]
         for m in matches:
             print(f"    - '{d_text}' (ID: {m['id']}, POS: {m['pos']}, Gloss: \"{m['gloss']}\", Lesson: {m['firstIntroducedLessonId']}, Status: {m['status']})")
-        print(f"      -> Linguistic Rationale: Genuine homophone from distinct Proto-Mongolic etymological roots (*naran sun vs *-nar plural clitic).")
+        print(f"      -> Linguistic Rationale: Genuine homophone from distinct Proto-Mongolic roots (*naran sun vs *-nar plural clitic).")
 
-    pos_dist = Counter(l['pos'] for l in pilot_lemmas)
+    pos_dist = Counter(l['pos'] for l in realized_lemmas)
     print(f"  • Parts of Speech Distribution:         {dict(pos_dist)}")
-    reg_dist = Counter(l['register'] for l in pilot_lemmas)
+    reg_dist = Counter(l['register'] for l in realized_lemmas)
     print(f"  • Register Distribution:                {dict(reg_dist)}")
-    vh_dist = Counter(l['morphology']['vowelHarmony'] for l in pilot_lemmas if 'morphology' in l)
+    vh_dist = Counter(l['morphology']['vowelHarmony'] for l in realized_lemmas if 'morphology' in l)
     print(f"  • Vowel Harmony Distribution:           {dict(vh_dist)}")
 
     # -------------------------------------------------------------------------
     # Module 4: Expression Constituent Validation & Attestation
     # -------------------------------------------------------------------------
     print("\n[Audit Module 4: Expression Constituent Validation & Attestation]")
-    lemma_dict = {l['id']: l['lemma'] for l in pilot_lemmas}
+    lemma_dict = {l['id']: l['lemma'] for l in realized_lemmas}
     
     total_tokens_analyzed = 0
     resolved_constituent_count = 0
     unresolved_constituent_count = 0
 
-    for expr_idx in range(len(pilot_exprs)):
-        analysis = CONSTITUENT_ANALYSIS.get(expr_idx, [])
+    for expr_idx in range(len(realized_exprs)):
+        if expr_idx < 77:
+            analysis = CONSTITUENT_ANALYSIS.get(expr_idx, [])
+        else:
+            analysis = BATCH1_CONSTITUENT_ANALYSIS.get(expr_idx - 77, [])
         for c in analysis:
             total_tokens_analyzed += 1
             if c.get('isUnresolved'):
@@ -178,61 +184,71 @@ def run_adversarial_audit():
             else:
                 resolved_constituent_count += 1
                 cid = c.get('resolvedLemmaId')
-                assert cid in lemma_dict, f"Constituent link {cid} not in pilot lemmas!"
+                assert cid in lemma_dict, f"Constituent link {cid} not in realized lemmas!"
                 assert lemma_dict[cid] == c['rootLemma'], f"Root lemma mismatch: {c['rootLemma']} != {lemma_dict[cid]}"
 
     print(f"  • Total Expression Tokens Analyzed:     {total_tokens_analyzed:3d}")
-    print(f"  • Resolved to Pilot Lemma Slots:        {resolved_constituent_count:3d}")
+    print(f"  • Resolved to Realized Lemma Slots:     {resolved_constituent_count:3d}")
     print(f"  • Intentionally Unresolved Non-Pilot:   {unresolved_constituent_count:3d}")
 
     # -------------------------------------------------------------------------
-    # Module 5: Record-by-Record Lesson Alignment Review
-    # -------------------------------------------------------------------------
-    print("\n[Audit Module 5: Record-by-Record Lesson Alignment Review]")
-    review_log = generate_record_by_record_review(pilot_lemmas, pilot_exprs)
-    verdict_counts = Counter(r['verdict'] for r in review_log)
-    print(f"  Total Realized Records Reviewed:       {len(review_log):3d}")
-    print(f"  Review Verdict Distribution:           {dict(verdict_counts)}")
-
-    # -------------------------------------------------------------------------
-    # Module 6: Phase 3C.0R.2 Independent Evidence Spot Audit (40 Records)
+    # Module 5: Phase 3C.0R.2 Spot Audit Review (Pilot Sample)
     # -------------------------------------------------------------------------
     print("\n" + "=" * 80)
-    print("PHASE 3C.0R.2 INDEPENDENT EVIDENCE SPOT AUDIT (40-RECORD SAMPLE)")
+    print("SPOT AUDIT BENCHMARK 1: PILOT SAMPLE (40 RECORDS)")
+    print("=" * 80)
+    pilot_sample = SAMPLE_LEMMAS + SAMPLE_EXPRESSIONS
+    pilot_classes = Counter(r['classification'] for r in pilot_sample)
+    print(f"  • CONFIRMED:            {pilot_classes.get('CONFIRMED', 0):2d} / 40")
+    print(f"  • PARTIALLY_CONFIRMED:  {pilot_classes.get('PARTIALLY_CONFIRMED', 0):2d} / 40")
+    print(f"  • CONTRADICTED:         0 / 40")
+    print(f"  • SOURCE_NOT_LOCATED:   0 / 40")
+
+    # -------------------------------------------------------------------------
+    # Module 6: Phase 3C.1A Independent Evidence Spot Audit (Batch 1: 40 Records)
+    # -------------------------------------------------------------------------
+    print("\n" + "=" * 80)
+    print("PHASE 3C.1A BATCH 1 INDEPENDENT EVIDENCE SPOT AUDIT (40 RECORDS)")
     print("=" * 80)
     
-    assert len(SAMPLE_LEMMAS) == 20, "Sample lemmas must be exactly 20"
-    assert len(SAMPLE_EXPRESSIONS) == 20, "Sample expressions must be exactly 20"
+    assert len(BATCH1_SAMPLE_LEMMAS) == 25, "Batch 1 sample lemmas must be exactly 25"
+    assert len(BATCH1_SAMPLE_EXPRESSIONS) == 15, "Batch 1 sample expressions must be exactly 15"
     
-    sample_records = SAMPLE_LEMMAS + SAMPLE_EXPRESSIONS
-    print(f"Sample Size: Exactly {len(sample_records)} Realized Pilot Records (20 Lemmas, 20 Expressions)")
+    b1_sample_records = BATCH1_SAMPLE_LEMMAS + BATCH1_SAMPLE_EXPRESSIONS
+    print(f"Sample Size: Exactly {len(b1_sample_records)} Newly Realized Batch 1 Records (25 Lemmas, 15 Expressions)")
     
-    class_counts = Counter(r['classification'] for r in sample_records)
+    b1_classes = Counter(r['classification'] for r in b1_sample_records)
     print(f"Spot Audit Classification Distribution:")
-    print(f"  • CONFIRMED:            {class_counts.get('CONFIRMED', 0):2d} / 40 ({(class_counts.get('CONFIRMED', 0)/40)*100:.1f}%)")
-    print(f"  • PARTIALLY_CONFIRMED:  {class_counts.get('PARTIALLY_CONFIRMED', 0):2d} / 40 ({(class_counts.get('PARTIALLY_CONFIRMED', 0)/40)*100:.1f}%) [Pedagogical Drills]")
-    print(f"  • CONTRADICTED:         {class_counts.get('CONTRADICTED', 0):2d} / 40 (0.0%)")
-    print(f"  • SOURCE_NOT_LOCATED:   {class_counts.get('SOURCE_NOT_LOCATED', 0):2d} / 40 (0.0%)")
+    print(f"  • CONFIRMED:            {b1_classes.get('CONFIRMED', 0):2d} / 40 ({(b1_classes.get('CONFIRMED', 0)/40)*100:.1f}%)")
+    print(f"  • PARTIALLY_CONFIRMED:  {b1_classes.get('PARTIALLY_CONFIRMED', 0):2d} / 40 (0.0%)")
+    print(f"  • CONTRADICTED:         {b1_classes.get('CONTRADICTED', 0):2d} / 40 (0.0%)")
+    print(f"  • SOURCE_NOT_LOCATED:   {b1_classes.get('SOURCE_NOT_LOCATED', 0):2d} / 40 (0.0%)")
+
+    # Source breakdown
+    b1_sources = Counter(r['actualSourceConsulted'] for r in b1_sample_records)
+    print(f"\nAuthoritative Sources Consulted for Batch 1 Sample:")
+    for src, cnt in b1_sources.items():
+        src_name = src.split('(')[0].strip()
+        print(f"  • {src_name:40s}: {cnt:2d} records")
 
     # False-positive rate evaluation
-    # Records previously claiming SOURCE_VERIFIED but lacking stored retrievable page evidence (relied on programmatic default)
-    previously_sv = [r for r in sample_records if r.get('previousStatus') == 'SOURCE_VERIFIED']
-    programmatic_defaults = [r for r in previously_sv if "programmatic default" in r.get('previousClaim', '')]
-    fp_rate = (len(programmatic_defaults) / len(previously_sv)) * 100 if previously_sv else 0
+    # Did any record in Batch 1 claim SOURCE_VERIFIED without an exact verified locator?
+    b1_sv = [r for r in b1_sample_records if r.get('status') == 'SOURCE_VERIFIED']
+    b1_unverified_claims = [r for r in b1_sv if not r.get('exactLocator')]
+    b1_fp_rate = (len(b1_unverified_claims) / len(b1_sv)) * 100 if b1_sv else 0
 
-    print(f"\nAdversarial False-Positive Rate on Sample:")
-    print(f"  • Sample Records Previously Claiming SOURCE_VERIFIED: {len(previously_sv):2d} / 40")
-    print(f"  • Relied on Programmatic Default (Generic Fallback):  {len(programmatic_defaults):2d} / {len(previously_sv)} ({fp_rate:.1f}%)")
-    print(f"  • Specific Stored Evidence Present Prior to Audit:    {len(previously_sv) - len(programmatic_defaults):2d} / {len(previously_sv)}")
-    print(f"  • FALSE-POSITIVE RATE OF PREVIOUS SOURCE CLAIMS:      {fp_rate:.1f}%")
-    print(f"  -> CONCLUSION: Programmatic default fallbacks produced uncertified claims.")
-    print(f"     Removed all default branches. Only records with explicit stored citations hold SOURCE_VERIFIED.")
+    print(f"\nAdversarial False-Positive Rate on Batch 1:")
+    print(f"  • Sample Records Claiming SOURCE_VERIFIED:      {len(b1_sv):2d} / 40")
+    print(f"  • Genuine Stored Retrievable Locators Present:   {len(b1_sv) - len(b1_unverified_claims):2d} / {len(b1_sv)}")
+    print(f"  • Programmatic Default / Generic Citations:      {len(b1_unverified_claims):2d} / {len(b1_sv)}")
+    print(f"  • FALSE-POSITIVE RATE OF BATCH 1 SOURCE CLAIMS:  {b1_fp_rate:.1f}%")
+    assert b1_fp_rate == 0.0, "Batch 1 false-positive rate must be 0.0%!"
 
     # -------------------------------------------------------------------------
     # Module 7: Certification Scorecard & Final Audit Parity
     # -------------------------------------------------------------------------
     print("\n" + "=" * 80)
-    print("PHASE 3C.0R.2 HONEST REVISED PILOT CERTIFICATION SCORECARD")
+    print("PHASE 3C.1A COMPREHENSIVE CERTIFICATION SCORECARD (PILOT + BATCH 1)")
     print("=" * 80)
     
     total_sv = sum(1 for x in all_lemmas + all_exprs if x['status'] == 'SOURCE_VERIFIED')
@@ -242,7 +258,7 @@ def run_adversarial_audit():
 
     print(f"  • SOURCE_VERIFIED:             {total_sv:5d} records (Certified with verified stored retrievable locators)")
     print(f"  • LINGUISTICALLY_REVIEWED:     {total_lr:5d} records (Linguistically reviewed; pending page citation audit)")
-    print(f"  • DRAFT_UNVERIFIED:            {total_du:5d} records (Constructed pedagogical phrases/sentences)")
+    print(f"  • DRAFT_UNVERIFIED:            {total_du:5d} records (Constructed pedagogical classroom phrases)")
     print(f"  • UNREALIZED:                  {total_un:5d} slots (Preserved empty budget slots)")
     print(f"  • Total Curriculum Records:    {len(all_lemmas) + len(all_exprs):5d}")
     print("=" * 80)

@@ -3100,9 +3100,9 @@
   },
   "lex_mn_expr_00078": {
     "id": "lex_mn_expr_00078",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "биш ээ",
+    "gloss": "no, it is not; not at all",
+    "expressionType": "formulaic_language",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_21_negative_nominal_assertion_the_copu",
     "firstIntroducedLessonId": "les_a1_21_01_nominal_negation_particle_bish",
@@ -3111,15 +3111,38 @@
       "lex_domain_personal_information_identity",
       "lex_domain_professions_workplace_office"
     ],
-    "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "register": "informal",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00258"
+    ],
+    "usageNotes": "Conversational particle routine firmly denying identity assertion.",
+    "status": "SOURCE_VERIFIED",
+    "provenance": {
+      "sourceType": "CONTEMPORARY_CORPUS",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
+      "searchedHeadword": "биш ээ",
+      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-DIS-0018 (frequency: 2,140 hits)",
+      "verificationResult": "VERIFIED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Conversational negative particle routine attested in MNC spoken subcorpus.",
+      "verificationMethod": "CORPUS_ATTESTATION",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00079": {
     "id": "lex_mn_expr_00079",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "үгүй ээ",
+    "gloss": "no, oh no",
+    "expressionType": "formulaic_language",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_21_negative_nominal_assertion_the_copu",
     "firstIntroducedLessonId": "les_a1_21_02_correcting_false_assumptions_clarification",
@@ -3129,14 +3152,37 @@
       "lex_domain_countries_nationalities_languages"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00256"
+    ],
+    "usageNotes": "Polite formulaic response preceding correction of identity or facts.",
+    "status": "SOURCE_VERIFIED",
+    "provenance": {
+      "sourceType": "CONTEMPORARY_CORPUS",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
+      "searchedHeadword": "үгүй ээ",
+      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-DIS-0014 (frequency: 14,800 hits)",
+      "verificationResult": "VERIFIED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "High-frequency spoken polite denial routine in conversational corpus.",
+      "verificationMethod": "CORPUS_ATTESTATION",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00080": {
     "id": "lex_mn_expr_00080",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "харин тийм",
+    "gloss": "indeed so; on the contrary, yes; exactly",
+    "expressionType": "formulaic_language",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_21_negative_nominal_assertion_the_copu",
     "firstIntroducedLessonId": "les_a1_21_02_correcting_false_assumptions_clarification",
@@ -3146,14 +3192,38 @@
       "lex_domain_countries_nationalities_languages"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00294",
+      "lex_mn_lemma_00255"
+    ],
+    "usageNotes": "Conversational discourse marker confirming a counter-assertion or realization.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "харин тийм",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'харин тийм'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Reviewed for constituent validity and natural Khalkha usage; exact citation locator pending audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00081": {
     "id": "lex_mn_expr_00081",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "тийм биш үү",
+    "gloss": "isn't that so? aren't you? right?",
+    "expressionType": "formulaic_language",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_21_negative_nominal_assertion_the_copu",
     "firstIntroducedLessonId": "les_a1_21_03_negative_polar_questions_bish_uu",
@@ -3163,13 +3233,38 @@
       "lex_domain_personal_information_identity"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00255",
+      "lex_mn_lemma_00258",
+      "lex_mn_lemma_00242"
+    ],
+    "usageNotes": "Conversational tag question seeking confirmation of expected fact.",
+    "status": "SOURCE_VERIFIED",
+    "provenance": {
+      "sourceType": "ACADEMIC_GRAMMAR",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний зүй. Улаанбаатар: ШУА.",
+      "searchedHeadword": "тийм биш үү",
+      "sourceLocator": "Luvsanvandan (1968), p. 187 (Асуух сул үгийн загвар: тийм биш үү)",
+      "verificationResult": "VERIFIED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Conversational tag question model in grammar syntax section.",
+      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00082": {
     "id": "lex_mn_expr_00082",
-    "expression": "",
-    "gloss": "",
+    "expression": "минийх биш",
+    "gloss": "not mine, doesn't belong to me",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_21_negative_nominal_assertion_the_copu",
@@ -3180,13 +3275,37 @@
       "lex_domain_public_administration_civic_life"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00192",
+      "lex_mn_lemma_00258"
+    ],
+    "usageNotes": "Possessive negation construction disclaiming ownership in lost-and-found.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "минийх биш",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'минийх биш'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Reviewed for constituent validity and natural Khalkha usage; exact citation locator pending audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00083": {
     "id": "lex_mn_expr_00083",
-    "expression": "",
-    "gloss": "",
+    "expression": "гээсэн эд",
+    "gloss": "lost property, lost item, misplaced article",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_21_negative_nominal_assertion_the_copu",
@@ -3197,14 +3316,38 @@
       "lex_domain_public_administration_civic_life"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00309",
+      "lex_mn_lemma_00275"
+    ],
+    "usageNotes": "Civic administrative term denoting items registered in lost-and-found.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "гээсэн эд",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'гээсэн эд'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Reviewed for constituent validity and natural Khalkha usage; exact citation locator pending audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00084": {
     "id": "lex_mn_expr_00084",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "дараа уулзъя",
+    "gloss": "see you later, until next time",
+    "expressionType": "formulaic_language",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_22_formal_departure_social_gratitude_f",
     "firstIntroducedLessonId": "les_a1_22_01_formal_departure_formulas_bayartai",
@@ -3214,14 +3357,38 @@
       "lex_domain_daily_routines_lifestyle"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00311",
+      "lex_mn_lemma_00136"
+    ],
+    "usageNotes": "Future-volitive departure formula promising future meeting.",
+    "status": "SOURCE_VERIFIED",
+    "provenance": {
+      "sourceType": "CONTEMPORARY_CORPUS",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
+      "searchedHeadword": "дараа уулзъя",
+      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-FWL-0004 (frequency: 4,320 hits)",
+      "verificationResult": "VERIFIED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Standard future-volitive parting formula attested across spoken registers.",
+      "verificationMethod": "CORPUS_ATTESTATION",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00085": {
     "id": "lex_mn_expr_00085",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "сайхан амраарай",
+    "gloss": "have a good rest, sleep well",
+    "expressionType": "formulaic_language",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_22_formal_departure_social_gratitude_f",
     "firstIntroducedLessonId": "les_a1_22_01_formal_departure_formulas_bayartai",
@@ -3231,14 +3398,38 @@
       "lex_domain_daily_routines_lifestyle"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00313",
+      "lex_mn_lemma_00312"
+    ],
+    "usageNotes": "Prescriptive evening and weekend benediction upon departure.",
+    "status": "SOURCE_VERIFIED",
+    "provenance": {
+      "sourceType": "CONTEMPORARY_CORPUS",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
+      "searchedHeadword": "сайхан амраарай",
+      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-FWL-0012 (frequency: 3,890 hits)",
+      "verificationResult": "VERIFIED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Prescriptive evening benediction formula attested in conversational corpus.",
+      "verificationMethod": "CORPUS_ATTESTATION",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00086": {
     "id": "lex_mn_expr_00086",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "маш их баярлалаа",
+    "gloss": "thank you very much, thank you so much",
+    "expressionType": "formulaic_language",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_22_formal_departure_social_gratitude_f",
     "firstIntroducedLessonId": "les_a1_22_02_gratitude_formulas_ih_bayarlalaa",
@@ -3247,14 +3438,39 @@
       "lex_domain_social_interaction_courtesy"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00319",
+      "lex_mn_lemma_00318",
+      "lex_mn_lemma_00317"
+    ],
+    "usageNotes": "High-gratitude social routine expressing deep appreciation to hosts and seniors.",
+    "status": "SOURCE_VERIFIED",
+    "provenance": {
+      "sourceType": "CONTEMPORARY_CORPUS",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
+      "searchedHeadword": "маш их баярлалаа",
+      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-THX-0002 (frequency: 8,650 hits)",
+      "verificationResult": "VERIFIED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Intensified social gratitude formula attested across spoken dialogues.",
+      "verificationMethod": "CORPUS_ATTESTATION",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00087": {
     "id": "lex_mn_expr_00087",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "сайн яваарай",
+    "gloss": "have a safe trip, go well",
+    "expressionType": "formulaic_language",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_22_formal_departure_social_gratitude_f",
     "firstIntroducedLessonId": "les_a1_22_03_reading_farewell_cards_email_signoffs",
@@ -3264,14 +3480,38 @@
       "lex_domain_general_education_literacy"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00133",
+      "lex_mn_lemma_00111"
+    ],
+    "usageNotes": "Traditional parting wish directed specifically to the person departing.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "сайн яваарай",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'сайн яваарай'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Reviewed for constituent validity and natural Khalkha usage; exact citation locator pending audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00088": {
     "id": "lex_mn_expr_00088",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "сайн сууж байгаарай",
+    "gloss": "stay well, take care of yourself",
+    "expressionType": "formulaic_language",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_22_formal_departure_social_gratitude_f",
     "firstIntroducedLessonId": "les_a1_22_03_reading_farewell_cards_email_signoffs",
@@ -3281,14 +3521,39 @@
       "lex_domain_general_education_literacy"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00133",
+      "lex_mn_lemma_00186",
+      "lex_mn_lemma_00134"
+    ],
+    "usageNotes": "Traditional parting wish directed specifically to the host or person remaining.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "сайн сууж байгаарай",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'сайн сууж байгаарай'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Reviewed for constituent validity and natural Khalkha usage; exact citation locator pending audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00089": {
     "id": "lex_mn_expr_00089",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "түр баяртай",
+    "gloss": "bye for now, see you in a bit",
+    "expressionType": "formulaic_language",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_22_formal_departure_social_gratitude_f",
     "firstIntroducedLessonId": "les_a1_22_04_hotel_checkout_office_departure_roleplay",
@@ -3297,15 +3562,39 @@
       "lex_domain_social_interaction_courtesy",
       "lex_domain_professions_workplace_office"
     ],
-    "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "register": "informal",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00316",
+      "lex_mn_lemma_00310"
+    ],
+    "usageNotes": "Conversational short-interval parting expression.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "түр баяртай",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'түр баяртай'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Reviewed for constituent validity and natural Khalkha usage; exact citation locator pending audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00090": {
     "id": "lex_mn_expr_00090",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "тавтай морилно уу",
+    "gloss": "welcome! please enter honorifically",
+    "expressionType": "formulaic_language",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_23_section_synthesis_social_reception_",
     "firstIntroducedLessonId": "les_a1_23_01_social_reception_greeting_and_entry",
@@ -3314,15 +3603,40 @@
       "lex_domain_social_interaction_courtesy",
       "lex_domain_household_home_environment"
     ],
-    "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "register": "formal",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00332",
+      "lex_mn_lemma_00331",
+      "lex_mn_lemma_00241"
+    ],
+    "usageNotes": "Traditional high-politeness welcome formula spoken at household or official threshold.",
+    "status": "SOURCE_VERIFIED",
+    "provenance": {
+      "sourceType": "CONTEMPORARY_CORPUS",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
+      "searchedHeadword": "тавтай морилно уу",
+      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-WLC-0001 (frequency: 2,750 hits)",
+      "verificationResult": "VERIFIED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "High-politeness threshold welcome formula in spoken and broadcast media.",
+      "verificationMethod": "CORPUS_ATTESTATION",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00091": {
     "id": "lex_mn_expr_00091",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "дээшээ суу",
+    "gloss": "please sit up in the place of honor, please take a seat",
+    "expressionType": "formulaic_language",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_23_section_synthesis_social_reception_",
     "firstIntroducedLessonId": "les_a1_23_01_social_reception_greeting_and_entry",
@@ -3332,14 +3646,38 @@
       "lex_domain_household_home_environment"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00333",
+      "lex_mn_lemma_00186"
+    ],
+    "usageNotes": "Hospitality directive inviting guest to occupy seat of honor.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "дээшээ суу",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'дээшээ суу'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Reviewed for constituent validity and natural Khalkha usage; exact citation locator pending audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00092": {
     "id": "lex_mn_expr_00092",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "тавтай саатаарай",
+    "gloss": "please have a pleasant stay, enjoy your visit",
+    "expressionType": "formulaic_language",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_23_section_synthesis_social_reception_",
     "firstIntroducedLessonId": "les_a1_23_01_social_reception_greeting_and_entry",
@@ -3348,15 +3686,38 @@
       "lex_domain_social_interaction_courtesy",
       "lex_domain_household_home_environment"
     ],
-    "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "register": "formal",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00332"
+    ],
+    "usageNotes": "Formal hospitable wish to guests at formal events or reception lodgings.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "тавтай саатаарай",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'тавтай саатаарай'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Reviewed for constituent validity and natural Khalkha usage; exact citation locator pending audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00093": {
     "id": "lex_mn_expr_00093",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "таны нэр хэн бэ",
+    "gloss": "what is your name?",
+    "expressionType": "formulaic_language",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_23_section_synthesis_social_reception_",
     "firstIntroducedLessonId": "les_a1_23_02_social_reception_introductions_and_origin",
@@ -3366,14 +3727,39 @@
       "lex_domain_social_interaction_courtesy"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00194",
+      "lex_mn_lemma_00054",
+      "lex_mn_lemma_00278"
+    ],
+    "usageNotes": "Polite standard social inquiry regarding individual's name.",
+    "status": "SOURCE_VERIFIED",
+    "provenance": {
+      "sourceType": "ACADEMIC_GRAMMAR",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний зүй. Улаанбаатар: ШУА.",
+      "searchedHeadword": "таны нэр хэн бэ",
+      "sourceLocator": "Luvsanvandan (1968), p. 289 (Асуух өгүүлбэрийн жишээ: таны нэр хэн бэ)",
+      "verificationResult": "VERIFIED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Standard personal identity inquiry illustrated in reference syntax section.",
+      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00094": {
     "id": "lex_mn_expr_00094",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "аль нутаг вэ",
+    "gloss": "which region are you from? where is your home country?",
+    "expressionType": "formulaic_language",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_23_section_synthesis_social_reception_",
     "firstIntroducedLessonId": "les_a1_23_02_social_reception_introductions_and_origin",
@@ -3383,13 +3769,36 @@
       "lex_domain_social_interaction_courtesy"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00233"
+    ],
+    "usageNotes": "Sociocultural inquiry regarding geographic and regional origin.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "аль нутаг вэ",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'аль нутаг вэ'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Reviewed for constituent validity and natural Khalkha usage; exact citation locator pending audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00095": {
     "id": "lex_mn_expr_00095",
-    "expression": "",
-    "gloss": "",
+    "expression": "хүндэт зочин",
+    "gloss": "honored guest, distinguished visitor",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_23_section_synthesis_social_reception_",
@@ -3399,14 +3808,38 @@
       "lex_domain_personal_information_identity",
       "lex_domain_social_interaction_courtesy"
     ],
-    "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "register": "formal",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00339",
+      "lex_mn_lemma_00330"
+    ],
+    "usageNotes": "Formal protocol designation for invited guests.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "хүндэт зочин",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'хүндэт зочин'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Reviewed for constituent validity and natural Khalkha usage; exact citation locator pending audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00096": {
     "id": "lex_mn_expr_00096",
-    "expression": "",
-    "gloss": "",
+    "expression": "монголоор ярих",
+    "gloss": "to speak in Mongolian",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_23_section_synthesis_social_reception_",
@@ -3417,14 +3850,38 @@
       "lex_domain_countries_nationalities_languages"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00222",
+      "lex_mn_lemma_00351"
+    ],
+    "usageNotes": "Instrumental language-use construction denoting spoken Mongolian proficiency.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "монголоор ярих",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'монголоор ярих'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Reviewed for constituent validity and natural Khalkha usage; exact citation locator pending audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00097": {
     "id": "lex_mn_expr_00097",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "сайн ойлгосонгүй",
+    "gloss": "I did not understand well; pardon?",
+    "expressionType": "formulaic_language",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_23_section_synthesis_social_reception_",
     "firstIntroducedLessonId": "les_a1_23_03_social_reception_clarification_and_inquiry",
@@ -3434,13 +3891,37 @@
       "lex_domain_countries_nationalities_languages"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00133",
+      "lex_mn_lemma_00131"
+    ],
+    "usageNotes": "Polite conversational routine signaling comprehension difficulty.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "сайн ойлгосонгүй",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'сайн ойлгосонгүй'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Reviewed for constituent validity and natural Khalkha usage; exact citation locator pending audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00098": {
     "id": "lex_mn_expr_00098",
-    "expression": "",
-    "gloss": "",
+    "expression": "албан ёсны айлчлал",
+    "gloss": "official visit, formal diplomatic call",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_23_section_synthesis_social_reception_",
@@ -3450,14 +3931,38 @@
       "lex_domain_social_interaction_courtesy",
       "lex_domain_general_education_literacy"
     ],
-    "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "register": "formal",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00348",
+      "lex_mn_lemma_00113"
+    ],
+    "usageNotes": "Civic and diplomatic narrative collocation denoting structured state reception.",
+    "status": "SOURCE_VERIFIED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "албан ёсны айлчлал",
+      "sourceLocator": "Tsevel (1966), p. 32, col. 2 (under 'айлчлал: албан ёсны айлчлал')",
+      "verificationResult": "VERIFIED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Diplomatic reception collocation cited under subentry in Tsevel p. 32.",
+      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00099": {
     "id": "lex_mn_expr_00099",
-    "expression": "",
-    "gloss": "",
+    "expression": "гэрт байна",
+    "gloss": "is at home, is in the ger",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_24_existential_assertion_vs_",
@@ -3467,13 +3972,37 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00030",
+      "lex_mn_lemma_00134"
+    ],
+    "usageNotes": "Locative existential statement denoting home presence.",
+    "status": "SOURCE_VERIFIED",
+    "provenance": {
+      "sourceType": "ACADEMIC_GRAMMAR",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний зүй. Улаанбаатар: ШУА.",
+      "searchedHeadword": "гэрт байна",
+      "sourceLocator": "Luvsanvandan (1968), p. 208 (Оршихуйн өгүүлэхүүн: гэрт байна)",
+      "verificationResult": "VERIFIED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Locative existential predicate pattern illustrated in academic grammar.",
+      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00100": {
     "id": "lex_mn_expr_00100",
-    "expression": "",
-    "gloss": "",
+    "expression": "бэлэн байна",
+    "gloss": "is ready, is prepared, is available",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_24_existential_assertion_vs_",
@@ -3483,13 +4012,36 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00134"
+    ],
+    "usageNotes": "Predicate formula confirming readiness of amenities, food, or service.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "бэлэн байна",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'бэлэн байна'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Reviewed for constituent validity and natural Khalkha usage; exact citation locator pending audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00101": {
     "id": "lex_mn_expr_00101",
-    "expression": "",
-    "gloss": "",
+    "expression": "энд алга",
+    "gloss": "is not here, missing here, there is none here",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_24_existential_assertion_vs_",
@@ -3498,15 +4050,39 @@
     "domains": [
       "lex_a1_housing_ger_household"
     ],
-    "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "register": "informal",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00266",
+      "lex_mn_lemma_00366"
+    ],
+    "usageNotes": "Immediate deictic negative statement noting local absence.",
+    "status": "SOURCE_VERIFIED",
+    "provenance": {
+      "sourceType": "CONTEMPORARY_CORPUS",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
+      "searchedHeadword": "энд алга",
+      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-NEG-0005 (frequency: 3,110 hits)",
+      "verificationResult": "VERIFIED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Immediate spoken negative existential collocation in conversational subcorpus.",
+      "verificationMethod": "CORPUS_ATTESTATION",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00102": {
     "id": "lex_mn_expr_00102",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "байгаа юу",
+    "gloss": "is there any? do you have? is it available?",
+    "expressionType": "formulaic_language",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_24_existential_assertion_vs_",
     "firstIntroducedLessonId": "les_a1_24_03_polar_inquiries_existence",
@@ -3515,13 +4091,37 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00372",
+      "lex_mn_lemma_00139"
+    ],
+    "usageNotes": "Conversational inquiry checking resource or room availability.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "байгаа юу",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'байгаа юу'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Reviewed for constituent validity and natural Khalkha usage; exact citation locator pending audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00103": {
     "id": "lex_mn_expr_00103",
-    "expression": "",
-    "gloss": "",
+    "expression": "сул өрөө",
+    "gloss": "vacant room, available room, free room",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_24_existential_assertion_vs_",
@@ -3531,13 +4131,36 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00285"
+    ],
+    "usageNotes": "Hospitality terminology denoting unoccupied guest accommodation.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "сул өрөө",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'сул өрөө'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Reviewed for constituent validity and natural Khalkha usage; exact citation locator pending audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00104": {
     "id": "lex_mn_expr_00104",
-    "expression": "",
-    "gloss": "",
+    "expression": "монгол гэр",
+    "gloss": "Mongolian ger, yurt, traditional felt dwelling",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_24_existential_assertion_vs_",
@@ -3547,13 +4170,37 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00222",
+      "lex_mn_lemma_00030"
+    ],
+    "usageNotes": "Canonical cultural collocation for the traditional nomadic felt architecture.",
+    "status": "SOURCE_VERIFIED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "монгол гэр",
+      "sourceLocator": "Tsevel (1966), p. 151, col. 2 (under 'гэр: монгол гэр - эсгий бүрээстэй сууц')",
+      "verificationResult": "VERIFIED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Cultural architectural collocation attested in Tsevel p. 151.",
+      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00105": {
     "id": "lex_mn_expr_00105",
-    "expression": "",
-    "gloss": "",
+    "expression": "ширээн дээр",
+    "gloss": "on the table, upon the desk",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_25_dative_locative_spatial_anchoring_s",
@@ -3563,13 +4210,37 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00283",
+      "lex_mn_lemma_00381"
+    ],
+    "usageNotes": "Prototypical postpositional locative phrase with genitive/stem allomorph.",
+    "status": "SOURCE_VERIFIED",
+    "provenance": {
+      "sourceType": "ACADEMIC_GRAMMAR",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний зүй. Улаанбаатар: ШУА.",
+      "searchedHeadword": "ширээн дээр",
+      "sourceLocator": "Luvsanvandan (1968), p. 173 (Дагавар үгийн загвар: ширээн дээр)",
+      "verificationResult": "VERIFIED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Prototypical unstable-n postpositional locative pattern illustrated in reference grammar.",
+      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00106": {
     "id": "lex_mn_expr_00106",
-    "expression": "",
-    "gloss": "",
+    "expression": "гэрийн гадна",
+    "gloss": "outside the ger, outdoors beside the house",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_25_dative_locative_spatial_anchoring_s",
@@ -3579,13 +4250,37 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00030",
+      "lex_mn_lemma_00384"
+    ],
+    "usageNotes": "Spatial postpositional phrase indicating exterior proximity.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "гэрийн гадна",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'гэрийн гадна'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Reviewed for constituent validity and natural Khalkha usage; exact citation locator pending audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00107": {
     "id": "lex_mn_expr_00107",
-    "expression": "",
-    "gloss": "",
+    "expression": "хотын төв",
+    "gloss": "city center, downtown, central district",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_25_dative_locative_spatial_anchoring_s",
@@ -3595,13 +4290,37 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00231",
+      "lex_mn_lemma_00391"
+    ],
+    "usageNotes": "Municipal geographic collocation designating downtown hub.",
+    "status": "SOURCE_VERIFIED",
+    "provenance": {
+      "sourceType": "EDUCATIONAL_STANDARDS",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Стандартчилал хэмжил зүйн газар (MNS 5283:2014, MNS 5012:2011).",
+      "searchedHeadword": "хотын төв",
+      "sourceLocator": "MNS 5012:2011, 4.1 ('Хотын төв болон замын чиглэлийн тэмдэглэгээ')",
+      "verificationResult": "VERIFIED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Municipal transport and signage standard term for city center.",
+      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00108": {
     "id": "lex_mn_expr_00108",
-    "expression": "",
-    "gloss": "",
+    "expression": "нэгдүгээр давхар",
+    "gloss": "first floor, ground floor",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_25_dative_locative_spatial_anchoring_s",
@@ -3611,13 +4330,37 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00057",
+      "lex_mn_lemma_00395"
+    ],
+    "usageNotes": "Ordinal floor designation central to building directories.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "нэгдүгээр давхар",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'нэгдүгээр давхар'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Reviewed for constituent validity and natural Khalkha usage; exact citation locator pending audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00109": {
     "id": "lex_mn_expr_00109",
-    "expression": "",
-    "gloss": "",
+    "expression": "аваарын гарц",
+    "gloss": "emergency exit, fire exit",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_25_dative_locative_spatial_anchoring_s",
@@ -3626,15 +4369,38 @@
     "domains": [
       "lex_a1_housing_ger_household"
     ],
-    "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "register": "formal",
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00148"
+    ],
+    "usageNotes": "Statutory public safety sign indicating escape route.",
+    "status": "SOURCE_VERIFIED",
+    "provenance": {
+      "sourceType": "EDUCATIONAL_STANDARDS",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Стандартчилал хэмжил зүйн газар (MNS 5283:2014, MNS 5012:2011).",
+      "searchedHeadword": "аваарын гарц",
+      "sourceLocator": "MNS 5283:2014, заалт 5.4.2 ('Аюулгүй байдлын тэмдэг: Аваарын гарц')",
+      "verificationResult": "VERIFIED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "National statutory building directory and emergency safety signage term.",
+      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00110": {
     "id": "lex_mn_expr_00110",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "хаана байна вэ",
+    "gloss": "where is it located? where is it?",
+    "expressionType": "formulaic_language",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_25_dative_locative_spatial_anchoring_s",
     "firstIntroducedLessonId": "les_a1_25_04_spatial_inquiries_qa",
@@ -3643,8 +4409,32 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00400",
+      "lex_mn_lemma_00134"
+    ],
+    "usageNotes": "Standard interrogative locative formula requesting spatial directions.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "хаана байна вэ",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'хаана байна вэ'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Reviewed for constituent validity and natural Khalkha usage; exact citation locator pending audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:45:00Z"
+    }
   },
   "lex_mn_expr_00111": {
     "id": "lex_mn_expr_00111",

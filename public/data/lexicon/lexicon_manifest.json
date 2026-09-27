@@ -1,7 +1,7 @@
 {
-  "manifestVersion": "1.0.0-reset",
-  "generatedAt": "2026-09-27T23:30:17.730604+00:00",
-  "phase": "3C.0R",
+  "manifestVersion": "1.1.0-batch1",
+  "generatedAt": "2026-09-27T23:42:50.185983+00:00",
+  "phase": "3C.1A",
   "summary": {
     "totalCoreLemmas": 9441,
     "totalProductiveLemmas": 5329,
@@ -9,10 +9,10 @@
     "totalExpressions": 2692,
     "totalProductiveExpressions": 1622,
     "totalReceptiveExpressions": 1070,
-    "realizedLemmasCount": 286,
-    "realizedExpressionsCount": 77,
-    "unrealizedLemmasCount": 9155,
-    "unrealizedExpressionsCount": 2615,
+    "realizedLemmasCount": 403,
+    "realizedExpressionsCount": 110,
+    "unrealizedLemmasCount": 9038,
+    "unrealizedExpressionsCount": 2582,
     "lessonsReconciled": 1257,
     "reconciliationRate": 1.0,
     "levels": [
@@ -51,16 +51,16 @@
       "expressions": 300,
       "productiveExpressions": 200,
       "receptiveExpressions": 100,
-      "realizedLemmas": 118,
-      "realizedExpressions": 30,
-      "sourceVerifiedLemmas": 9,
-      "linguisticallyReviewedLemmas": 109,
+      "realizedLemmas": 235,
+      "realizedExpressions": 63,
+      "sourceVerifiedLemmas": 34,
+      "linguisticallyReviewedLemmas": 201,
       "draftUnverifiedLemmas": 0,
-      "sourceVerifiedExpressions": 6,
-      "linguisticallyReviewedExpressions": 21,
+      "sourceVerifiedExpressions": 21,
+      "linguisticallyReviewedExpressions": 39,
       "draftUnverifiedExpressions": 3,
-      "unrealizedLemmas": 997,
-      "unrealizedExpressions": 270
+      "unrealizedLemmas": 880,
+      "unrealizedExpressions": 237
     },
     "A2": {
       "lemmas": 1459,
@@ -153,7 +153,7 @@
       "unrealizedExpressions": 478
     }
   },
-  "pilotScope": {
+  "realizedScope": {
     "preA1": {
       "units": 15,
       "lessons": 73,
@@ -165,6 +165,12 @@
       "lessons": 30,
       "realizedLemmas": 118,
       "realizedExpressions": 30
+    },
+    "a1Batch1Units": {
+      "units": 5,
+      "lessons": 29,
+      "realizedLemmas": 117,
+      "realizedExpressions": 33
     }
   }
 }

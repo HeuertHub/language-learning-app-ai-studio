@@ -236,6 +236,7 @@ def validate_lexicon():
                 authenticity_errors.append(f"Unrealized lemma slot {lid} contains non-empty text: '{lemma_text}'")
 
     from scripts.lexicon_generator.pilot_constituent_data import CONSTITUENT_ANALYSIS
+    from scripts.lexicon_generator.batch1_constituent_data import BATCH1_CONSTITUENT_ANALYSIS
 
     for e in all_exprs:
         eid = e['id']
@@ -273,7 +274,10 @@ def validate_lexicon():
 
             # Semantic constituent link validation via morphological analysis
             expr_idx = int(eid.split('_')[-1]) - 1
-            analysis = CONSTITUENT_ANALYSIS.get(expr_idx, [])
+            if expr_idx < 77:
+                analysis = CONSTITUENT_ANALYSIS.get(expr_idx, [])
+            else:
+                analysis = BATCH1_CONSTITUENT_ANALYSIS.get(expr_idx - 77, [])
             valid_cids_for_expr = set(c['resolvedLemmaId'] for c in analysis if c.get('resolvedLemmaId'))
 
             for cid in c_ids:
@@ -290,23 +294,23 @@ def validate_lexicon():
             if expr_text != "" or gloss != "":
                 authenticity_errors.append(f"Unrealized expression slot {eid} contains non-empty text: '{expr_text}'")
 
-    print(f"  • Realized Pilot Lemmas:       {realized_lemma_count:5d} / 286 target (100.0%)")
-    print(f"  • Realized Pilot Expressions:  {realized_expr_count:5d} / 77 target (100.0%)")
-    print(f"  • Unrealized Non-Pilot Lemmas: {unrealized_lemma_count:5d} / 9155 target (100.0%)")
-    print(f"  • Unrealized Non-Pilot Exprs:  {unrealized_expr_count:5d} / 2615 target (100.0%)")
-    print(f"  • Placeholder Violations:      {len(placeholder_violations):5d} (Zero permitted)")
-    print(f"  • False VALIDATED Statuses:    {false_validated_count:5d} (Zero permitted)")
-    print(f"  • Missing Provenance Records:  {missing_provenance_count:5d} (Zero permitted for pilot)")
-    print(f"  • Constituent Link Violations: {len(constituent_link_violations):5d} (Zero permitted)")
+    print(f"  • Realized Lemmas (Pilot + Batch 1):   {realized_lemma_count:5d} / 403 target (100.0%)")
+    print(f"  • Realized Exprs (Pilot + Batch 1):    {realized_expr_count:5d} / 110 target (100.0%)")
+    print(f"  • Unrealized Remaining Lemmas:         {unrealized_lemma_count:5d} / 9038 target (100.0%)")
+    print(f"  • Unrealized Remaining Exprs:          {unrealized_expr_count:5d} / 2582 target (100.0%)")
+    print(f"  • Placeholder Violations:              {len(placeholder_violations):5d} (Zero permitted)")
+    print(f"  • False VALIDATED Statuses:            {false_validated_count:5d} (Zero permitted)")
+    print(f"  • Missing Provenance Records:          {missing_provenance_count:5d} (Zero permitted)")
+    print(f"  • Constituent Link Violations:         {len(constituent_link_violations):5d} (Zero permitted)")
 
-    if realized_lemma_count != 286:
-        authenticity_errors.append(f"Realized pilot lemma count mismatch: {realized_lemma_count} != 286")
-    if realized_expr_count != 77:
-        authenticity_errors.append(f"Realized pilot expression count mismatch: {realized_expr_count} != 77")
-    if unrealized_lemma_count != 9155:
-        authenticity_errors.append(f"Unrealized non-pilot lemma count mismatch: {unrealized_lemma_count} != 9155")
-    if unrealized_expr_count != 2615:
-        authenticity_errors.append(f"Unrealized non-pilot expression count mismatch: {unrealized_expr_count} != 2615")
+    if realized_lemma_count != 403:
+        authenticity_errors.append(f"Realized lemma count mismatch: {realized_lemma_count} != 403")
+    if realized_expr_count != 110:
+        authenticity_errors.append(f"Realized expression count mismatch: {realized_expr_count} != 110")
+    if unrealized_lemma_count != 9038:
+        authenticity_errors.append(f"Unrealized lemma count mismatch: {unrealized_lemma_count} != 9038")
+    if unrealized_expr_count != 2582:
+        authenticity_errors.append(f"Unrealized expression count mismatch: {unrealized_expr_count} != 2582")
     if placeholder_violations:
         authenticity_errors.append(f"Found {len(placeholder_violations)} placeholder pattern violations")
     if false_validated_count:

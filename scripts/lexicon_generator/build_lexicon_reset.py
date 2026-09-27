@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Phase 3C.0R Lexicon Integrity Reset & Authenticity Pilot Builder
+Phase 3C.1A Evidence-Backed Authoritative Lexicon Builder (Pilot + Batch 1)
 Constructs the authoritative lexical dataset:
 - Preserves all 9,441 stable lemma IDs and 2,692 stable expression IDs
 - Realizes 286 authentic pilot lemmas and 77 authentic pilot expressions (Pre-A1 + A1 Units 16-20)
-- Sets all non-pilot slots to status UNREALIZED with NO synthetic strings
+- Realizes 117 authentic Batch 1 lemmas and 33 authentic Batch 1 expressions (A1 Units 21-25)
+- Sets all non-pilot/non-batch slots to status UNREALIZED with NO synthetic strings
 - Links constituent lemmas semantically based on actual expression tokens
 - Populates genuine lexicographic provenance
 """
@@ -35,29 +36,13 @@ A1_PILOT_UNITS = set([
     'unit_a1_20_demonstrative_deixis_'
 ])
 
-STANDARD_PROVENANCE = {
-    "sourceType": "STANDARD_DICTIONARY",
-    "sourceReference": "Монгол хэлний их тайлбар толь (ШУА, Хэл зохиолын хүрээлэн, 2015); Я.Цэвэл, Монгол хэлний товч тайлбар толь (1966)",
-    "sourceNotes": "Cross-referenced against Damdinsuren & Luvsandendev Russian-Mongolian Dictionary and official MoECS school curricula standards.",
-    "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-    "verifiedAt": "2026-09-26T17:40:00Z"
-}
-
-ORTHOGRAPHY_PROVENANCE = {
-    "sourceType": "ACADEMIC_GRAMMAR",
-    "sourceReference": "Ц.Дамдинсүрэн, Б.Осор, Монгол үсгийн дүрмийн толь (Улаанбаатар, 1983)",
-    "sourceNotes": "Canonical standard for Modern Mongolian Cyrillic orthography, vowel harmony, and syllable structures.",
-    "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-    "verifiedAt": "2026-09-26T17:40:00Z"
-}
-
-CIVIC_PROVENANCE = {
-    "sourceType": "CONTEMPORARY_CORPUS",
-    "sourceReference": "Монгол Улсын стандартын газар (MNS) ба Нийслэлийн тээврийн үйлчилгээний газар (Улаанбаатар хот)",
-    "sourceNotes": "Authentic Ulaanbaatar municipal transit signage, public building notices, and civil registration forms.",
-    "verificationMethod": "CORPUS_ATTESTATION",
-    "verifiedAt": "2026-09-26T17:40:00Z"
-}
+A1_BATCH1_UNITS = set([
+    'unit_a1_21_negative_nominal_assertion_the_copu',
+    'unit_a1_22_formal_departure_social_gratitude_f',
+    'unit_a1_23_section_synthesis_social_reception_',
+    'unit_a1_24_existential_assertion_vs_',
+    'unit_a1_25_dative_locative_spatial_anchoring_s'
+])
 
 def load_frozen_lessons(root_dir):
     all_lessons = []
@@ -80,8 +65,15 @@ def main():
     )
     from scripts.lexicon_generator.pilot_constituent_data import CONSTITUENT_ANALYSIS
 
+    from scripts.lexicon_generator.batch1_authentic_data import BATCH1_LEMMAS, BATCH1_EXPRESSIONS
+    from scripts.lexicon_generator.batch1_provenance_data import (
+        get_batch1_lemma_provenance_and_status,
+        get_batch1_expression_provenance_and_status
+    )
+    from scripts.lexicon_generator.batch1_constituent_data import BATCH1_CONSTITUENT_ANALYSIS
+
     print("=" * 80)
-    print("PHASE 3C.0R.1 EVIDENCE-BACKED AUTHORITATIVE LEXICON BUILDER")
+    print("PHASE 3C.1A EVIDENCE-BACKED AUTHORITATIVE LEXICON BUILDER (PILOT + BATCH 1)")
     print("=" * 80)
 
     lessons = load_frozen_lessons(root_dir)
@@ -109,6 +101,7 @@ def main():
         re_target = l.get('newReceptiveExpressionTarget', 0)
 
         is_pilot = (lvl == 'Pre-A1') or (lvl == 'A1' and uid in A1_PILOT_UNITS)
+        is_batch1 = (lvl == 'A1' and uid in A1_BATCH1_UNITS)
 
         # Allocate productive lemmas
         for idx in range(pl_target):
@@ -122,7 +115,7 @@ def main():
                 'classification': 'productive',
                 'domains': domains,
                 'is_pilot': is_pilot,
-                'pilot_idx': idx,
+                'is_batch1': is_batch1,
                 'role': 'productive'
             })
 
@@ -138,7 +131,7 @@ def main():
                 'classification': 'receptive',
                 'domains': domains,
                 'is_pilot': is_pilot,
-                'pilot_idx': idx,
+                'is_batch1': is_batch1,
                 'role': 'receptive'
             })
 
@@ -154,7 +147,7 @@ def main():
                 'classification': 'productive',
                 'domains': domains,
                 'is_pilot': is_pilot,
-                'pilot_idx': idx,
+                'is_batch1': is_batch1,
                 'role': 'productive'
             })
 
@@ -170,7 +163,7 @@ def main():
                 'classification': 'receptive',
                 'domains': domains,
                 'is_pilot': is_pilot,
-                'pilot_idx': idx,
+                'is_batch1': is_batch1,
                 'role': 'receptive'
             })
 
@@ -179,13 +172,14 @@ def main():
     assert len(lemma_slots) == 9441
     assert len(expr_slots) == 2692
 
-    # 2. Realize Pilot Lemmas
+    # 2. Realize Pilot & Batch 1 Lemmas
     realized_lemmas = []
     pilot_lemma_idx = 0
+    batch1_lemma_idx = 0
 
     for slot in lemma_slots:
+        lid = slot['firstIntroducedLessonId']
         if slot['is_pilot']:
-            lid = slot['firstIntroducedLessonId']
             cyr_lemma, gloss, pos, reg, v_harmony, s_type, prov_type, usage_notes, sense_idx = PILOT_LEMMAS[pilot_lemma_idx]
             prov, st = get_lemma_provenance_and_status(pilot_lemma_idx, cyr_lemma, pos, lid)
 
@@ -212,6 +206,32 @@ def main():
             }
             pilot_lemma_lookup_by_text[cyr_lemma] = slot['id']
             pilot_lemma_idx += 1
+        elif slot['is_batch1']:
+            cyr_lemma, gloss, pos, reg, v_harmony, s_type, prov_type, usage_notes, sense_idx = BATCH1_LEMMAS[batch1_lemma_idx]
+            prov, st = get_batch1_lemma_provenance_and_status(batch1_lemma_idx, cyr_lemma, pos, lid)
+
+            record = {
+                "id": slot['id'],
+                "lemma": cyr_lemma,
+                "gloss": gloss,
+                "pos": pos,
+                "cefrLevel": slot['cefrLevel'],
+                "firstIntroducedUnitId": slot['firstIntroducedUnitId'],
+                "firstIntroducedLessonId": lid,
+                "classification": slot['classification'],
+                "domains": slot['domains'],
+                "register": reg,
+                "usageNotes": usage_notes,
+                "morphology": {
+                    "vowelHarmony": v_harmony,
+                    "stemType": s_type,
+                    "irregularity": "regular"
+                },
+                "senseIndex": sense_idx,
+                "status": st,
+                "provenance": prov
+            }
+            batch1_lemma_idx += 1
         else:
             record = {
                 "id": slot['id'],
@@ -228,17 +248,17 @@ def main():
             }
         realized_lemmas.append(record)
 
-    # 3. Realize Pilot Expressions
+    # 3. Realize Pilot & Batch 1 Expressions
     realized_expressions = []
     pilot_expr_idx = 0
+    batch1_expr_idx = 0
 
     for slot in expr_slots:
+        lid = slot['firstIntroducedLessonId']
         if slot['is_pilot']:
-            lid = slot['firstIntroducedLessonId']
             cyr_expr, gloss, exp_type, reg, constituent_indices, usage_notes = PILOT_EXPRESSIONS[pilot_expr_idx]
             prov, st = get_expression_provenance_and_status(pilot_expr_idx, cyr_expr, exp_type, lid)
 
-            # Map constituent words to genuine pilot lemma IDs from semantic analysis
             analysis = CONSTITUENT_ANALYSIS.get(pilot_expr_idx, [])
             constituent_ids = [c['resolvedLemmaId'] for c in analysis if c.get('resolvedLemmaId')]
 
@@ -259,6 +279,30 @@ def main():
                 "provenance": prov
             }
             pilot_expr_idx += 1
+        elif slot['is_batch1']:
+            cyr_expr, gloss, exp_type, reg, constituent_indices, usage_notes = BATCH1_EXPRESSIONS[batch1_expr_idx]
+            prov, st = get_batch1_expression_provenance_and_status(batch1_expr_idx, cyr_expr, exp_type, lid)
+
+            analysis = BATCH1_CONSTITUENT_ANALYSIS.get(batch1_expr_idx, [])
+            constituent_ids = [c['resolvedLemmaId'] for c in analysis if c.get('resolvedLemmaId')]
+
+            record = {
+                "id": slot['id'],
+                "expression": cyr_expr,
+                "gloss": gloss,
+                "expressionType": exp_type,
+                "cefrLevel": slot['cefrLevel'],
+                "firstIntroducedUnitId": slot['firstIntroducedUnitId'],
+                "firstIntroducedLessonId": lid,
+                "classification": slot['classification'],
+                "domains": slot['domains'],
+                "register": reg,
+                "constituentLemmaIds": constituent_ids,
+                "usageNotes": usage_notes,
+                "status": st,
+                "provenance": prov
+            }
+            batch1_expr_idx += 1
         else:
             record = {
                 "id": slot['id'],
@@ -309,21 +353,21 @@ def main():
     du_exprs = sum(1 for x in realized_expressions if x['status'] == 'DRAFT_UNVERIFIED')
 
     print(f"\nRealization Summary:")
-    print(f"  • Realized Lemmas:   {total_realized_lemmas} (Pre-A1: 168, A1 Units 16-20: 118)")
+    print(f"  • Realized Lemmas:   {total_realized_lemmas} (Pre-A1: 168, A1 Units 16-20: 118, A1 Units 21-25: 117)")
     print(f"    - SOURCE_VERIFIED:         {sv_lemmas}")
     print(f"    - LINGUISTICALLY_REVIEWED: {lr_lemmas}")
     print(f"    - DRAFT_UNVERIFIED:        {du_lemmas}")
     print(f"  • Unrealized Lemmas: {total_unrealized_lemmas}")
-    print(f"  • Realized Exprs:    {total_realized_exprs} (Pre-A1: 47, A1 Units 16-20: 30)")
+    print(f"  • Realized Exprs:    {total_realized_exprs} (Pre-A1: 47, A1 Units 16-20: 30, A1 Units 21-25: 33)")
     print(f"    - SOURCE_VERIFIED:         {sv_exprs}")
     print(f"    - LINGUISTICALLY_REVIEWED: {lr_exprs}")
     print(f"    - DRAFT_UNVERIFIED:        {du_exprs}")
     print(f"  • Unrealized Exprs:  {total_unrealized_exprs}")
 
-    assert total_realized_lemmas == 286
-    assert total_realized_exprs == 77
-    assert total_unrealized_lemmas == 9441 - 286
-    assert total_unrealized_exprs == 2692 - 77
+    assert total_realized_lemmas == 286 + 117
+    assert total_realized_exprs == 77 + 33
+    assert total_unrealized_lemmas == 9441 - (286 + 117)
+    assert total_unrealized_exprs == 2692 - (77 + 33)
 
     # 5. Write Modular Source Files in curriculum/lexicon/
     lexicon_dir = os.path.join(root_dir, 'curriculum', 'lexicon')
@@ -365,9 +409,9 @@ def main():
     os.makedirs(runtime_dir, exist_ok=True)
 
     manifest_data = {
-        "manifestVersion": "1.0.0-reset",
+        "manifestVersion": "1.1.0-batch1",
         "generatedAt": datetime.now(timezone.utc).isoformat(),
-        "phase": "3C.0R",
+        "phase": "3C.1A",
         "summary": {
             "totalCoreLemmas": len(realized_lemmas),
             "totalProductiveLemmas": sum(1 for x in realized_lemmas if x['classification'] == 'productive'),
@@ -404,7 +448,7 @@ def main():
             }
             for _, lvl in LEVEL_ORDER
         },
-        "pilotScope": {
+        "realizedScope": {
             "preA1": {
                 "units": 15,
                 "lessons": 73,
@@ -416,6 +460,12 @@ def main():
                 "lessons": 30,
                 "realizedLemmas": 118,
                 "realizedExpressions": 30
+            },
+            "a1Batch1Units": {
+                "units": 5,
+                "lessons": 29,
+                "realizedLemmas": 117,
+                "realizedExpressions": 33
             }
         }
     }
@@ -438,7 +488,7 @@ def main():
     print(f"  • expressions_bundle.json: {os.path.getsize(os.path.join(runtime_dir, 'expressions_bundle.json')) / 1024:.1f} KB")
     print(f"  • lesson_lexicon_lookup.json: {os.path.getsize(os.path.join(runtime_dir, 'lesson_lexicon_lookup.json')) / 1024:.1f} KB")
     print("=" * 80)
-    print("LEXICON INTEGRITY RESET & PILOT REALIZATION COMPLETED SUCCESSFULLY.")
+    print("LEXICON INTEGRITY & BATCH 1 REALIZATION COMPLETED SUCCESSFULLY.")
     print("=" * 80)
 
 if __name__ == '__main__':
