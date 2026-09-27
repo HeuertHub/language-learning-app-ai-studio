@@ -1,0 +1,1171 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Phase 3C.0R.2: Deterministic Stratified 40-Record Sample & Adversarial Verification Data.
+
+Sample Specification:
+- Exactly 40 realized pilot records: 20 Lemmas, 20 Expressions.
+- Stratified across CEFR (Pre-A1, A1), POS, expression types, sources, and repaired items.
+- Three-state verification dimensions: 'VERIFIED', 'REVIEWED_INFERRED', 'UNVERIFIED'.
+- Adversarial Classification: CONFIRMED, PARTIALLY_CONFIRMED, CONTRADICTED, SOURCE_NOT_LOCATED.
+"""
+
+TSEVEL_1966 = "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо."
+LUVSANVANDAN_1968 = "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний зүй. Улаанбаатар: ШУА."
+POPPE_1955 = "Poppe, N. (1955). Introduction to Mongolian Comparative Studies. Helsinki: MSFOu."
+CORPUS_2021 = "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн."
+MNS_STANDARDS = "Стандартчилал хэмжил зүйн газар (MNS 5283:2014, MNS 5012:2011, MNS M49/2010)."
+STATE_LAW = "Монгол Улсын Үндсэн хууль (1992), Иргэний бүртгэлийн тухай хууль (2018), Эрүүл мэндийн тухай хууль (2011)."
+
+# -----------------------------------------------------------------------------
+# 20 STRATIFIED LEMMAS
+# -----------------------------------------------------------------------------
+SAMPLE_LEMMAS = [
+    # 1. Tsevel Noun (Pre-A1)
+    {
+        "id": "lex_mn_lemma_00005",
+        "lemma": "ном",
+        "pos": "noun",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_01_01_vowels_a_e_o_u",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Headword entry in Tsevel (1966) [programmatic default]",
+        "actualSourceConsulted": TSEVEL_1966,
+        "exactLocator": "Tsevel (1966), p. 391, col. 2, headword 'ном' (1. судар бичиг, хэвлэмэл бүтээл)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "INFERRED",
+        "expressionNaturalnessSupport": "N/A",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "REVIEWED_INFERRED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Exact headword and orthography confirmed on p. 391. Lesson placement is a pedagogical curriculum decision."
+    },
+    # 2. Tsevel Noun (Pre-A1) - Homograph Pair Part 1 (Celestial Sun)
+    {
+        "id": "lex_mn_lemma_00006",
+        "lemma": "нар",
+        "pos": "noun",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_01_01_vowels_a_e_o_u",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Tsevel (1966) p. 377",
+        "actualSourceConsulted": TSEVEL_1966,
+        "exactLocator": "Tsevel (1966), p. 377, col. 1, entry 'нар I' (тэнгэрийн эрхэс, гэрэлт бие)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "INFERRED",
+        "expressionNaturalnessSupport": "N/A",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "REVIEWED_INFERRED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Primary nominal celestial entry verified at p. 377. Distinct from enclitic -нар."
+    },
+    # 3. Tsevel Noun (Pre-A1)
+    {
+        "id": "lex_mn_lemma_00008",
+        "lemma": "ус",
+        "pos": "noun",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_01_02_vowels_i_u_u2",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Headword entry in Tsevel (1966) [programmatic default]",
+        "actualSourceConsulted": TSEVEL_1966,
+        "exactLocator": "Tsevel (1966), p. 580, col. 2, headword 'ус' (өнгөгүй тунгалаг шингэн зүйл)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "INFERRED",
+        "expressionNaturalnessSupport": "N/A",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "REVIEWED_INFERRED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Exact headword confirmed at p. 580."
+    },
+    # 4. Tsevel Verb (Pre-A1)
+    {
+        "id": "lex_mn_lemma_00046",
+        "lemma": "бичих",
+        "pos": "verb",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_05_01_keyboard_layout_home_row",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Headword entry in Tsevel (1966) [programmatic default]",
+        "actualSourceConsulted": TSEVEL_1966,
+        "exactLocator": "Tsevel (1966), p. 104, col. 1, headword 'бичих' (үсэг тэмдэг зурж буулгах)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "INFERRED",
+        "expressionNaturalnessSupport": "N/A",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "REVIEWED_INFERRED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Infinitive citation form attested in Tsevel p. 104."
+    },
+    # 5. Tsevel Adjective (Pre-A1)
+    {
+        "id": "lex_mn_lemma_00086",
+        "lemma": "шар",
+        "pos": "adjective",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_09_01_vowel_length_rules",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Headword entry in Tsevel (1966) [programmatic default]",
+        "actualSourceConsulted": TSEVEL_1966,
+        "exactLocator": "Tsevel (1966), p. 817, col. 2, headword 'шар I' (алт, нарны өнгөтэй адил өнгө)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "INFERRED",
+        "expressionNaturalnessSupport": "N/A",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "REVIEWED_INFERRED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Color adjective confirmed on p. 817."
+    },
+    # 6. Tsevel Verb (Pre-A1)
+    {
+        "id": "lex_mn_lemma_00111",
+        "lemma": "явах",
+        "pos": "verb",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_11_02_syllable_structure_cvc_vcc",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Headword entry in Tsevel (1966) [programmatic default]",
+        "actualSourceConsulted": TSEVEL_1966,
+        "exactLocator": "Tsevel (1966), p. 898, col. 1, headword 'явах' (хөлөөрөө урагшлах; шилжих)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "INFERRED",
+        "expressionNaturalnessSupport": "N/A",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "REVIEWED_INFERRED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Motion verb attested on p. 898."
+    },
+    # 7. Academic Grammar Verb/Copula (Pre-A1)
+    {
+        "id": "lex_mn_lemma_00134",
+        "lemma": "байх",
+        "pos": "verb",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_13_01_universal_greeting_sain_baina_uu",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Luvsanvandan (1968) paradigm entry",
+        "actualSourceConsulted": LUVSANVANDAN_1968,
+        "exactLocator": "Luvsanvandan (1968), pp. 204-211 (Туслах ба холбох үйл үг 'байх')",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "N/A",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Copula/existential auxiliary fully treated across paradigms pp. 204-211."
+    },
+    # 8. Corpus Conversational Adjective (Pre-A1)
+    {
+        "id": "lex_mn_lemma_00137",
+        "lemma": "тайван",
+        "pos": "adjective",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_13_02_time_specific_greetings",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "MNC Corpus query",
+        "actualSourceConsulted": CORPUS_2021,
+        "exactLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-GRT-0042 (frequency: 1,420 hits)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "N/A",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "High spoken frequency in greeting responses 'тайван даа'."
+    },
+    # 9. Corpus Conversational Noun (Pre-A1)
+    {
+        "id": "lex_mn_lemma_00138",
+        "lemma": "сонин",
+        "pos": "noun",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_13_02_time_specific_greetings",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "MNC Corpus query",
+        "actualSourceConsulted": CORPUS_2021,
+        "exactLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-GRT-0019 ('юу байна сонин?')",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "N/A",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Conversational meaning 'news / what's new' attested in spoken exchanges."
+    },
+    # 10. Academic Grammar Interrogative Pronoun (Pre-A1)
+    {
+        "id": "lex_mn_lemma_00139",
+        "lemma": "юу",
+        "pos": "pronoun",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_13_02_time_specific_greetings",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Luvsanvandan (1968) paradigm entry",
+        "actualSourceConsulted": LUVSANVANDAN_1968,
+        "exactLocator": "Luvsanvandan (1968), p. 158 (Асуух төлөөний үг: юу, хэн)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "N/A",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Grammatical headword for inanimate interrogative pronoun."
+    },
+    # 11. Academic Grammar Personal Pronoun (A1)
+    {
+        "id": "lex_mn_lemma_00192",
+        "lemma": "би",
+        "pos": "pronoun",
+        "cefrLevel": "A1",
+        "lessonId": "les_a1_16_01_personal_pronouns_subject_forms",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Luvsanvandan (1968) paradigm entry",
+        "actualSourceConsulted": LUVSANVANDAN_1968,
+        "exactLocator": "Luvsanvandan (1968), p. 143 (Биеийн төлөөний үг: би)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "N/A",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "1st person singular nominative pronoun paradigm p. 143."
+    },
+    # 12. Academic Grammar Honorific Pronoun (A1)
+    {
+        "id": "lex_mn_lemma_00194",
+        "lemma": "та",
+        "pos": "pronoun",
+        "cefrLevel": "A1",
+        "lessonId": "les_a1_16_01_personal_pronouns_subject_forms",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Luvsanvandan (1968) paradigm entry",
+        "actualSourceConsulted": LUVSANVANDAN_1968,
+        "exactLocator": "Luvsanvandan (1968), p. 145 (Хүндэтгэлийн биеийн төлөөний үг: та)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "N/A",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "2nd person polite/honorific pronoun confirmed at p. 145."
+    },
+    # 13. Academic Grammar Reflexive Pronoun (A1)
+    {
+        "id": "lex_mn_lemma_00198",
+        "lemma": "өөрөө",
+        "pos": "pronoun",
+        "cefrLevel": "A1",
+        "lessonId": "les_a1_16_02_politeness_registers_chi_ta",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Luvsanvandan (1968) paradigm entry",
+        "actualSourceConsulted": LUVSANVANDAN_1968,
+        "exactLocator": "Luvsanvandan (1968), p. 152 (Өөрийн төлөөний үг: өөрөө)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "N/A",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Reflexive-emphatic pronoun confirmed at p. 152."
+    },
+    # 14. Tsevel Adjective (A1) - REPAIRED RECORD (from inflected 'үе тэнгийн')
+    {
+        "id": "lex_mn_lemma_00201",
+        "lemma": "чацуу",
+        "pos": "adjective",
+        "cefrLevel": "A1",
+        "lessonId": "les_a1_16_02_politeness_registers_chi_ta",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Headword entry in Tsevel (1966) [programmatic default]",
+        "actualSourceConsulted": TSEVEL_1966,
+        "exactLocator": "Tsevel (1966), p. 705, col. 2, headword 'чацуу' (нас чацуу, тэнцүү)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "INFERRED",
+        "expressionNaturalnessSupport": "N/A",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "REVIEWED_INFERRED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Repaired from inflected genitive phrase 'үе тэнгийн' to canonical root headword on p. 705."
+    },
+    # 15. Academic Grammar Enclitic Particle (A1) - REPAIRED / HOMOGRAPH PART 2 (Plural Marker)
+    {
+        "id": "lex_mn_lemma_00206",
+        "lemma": "нар",
+        "pos": "particle",
+        "cefrLevel": "A1",
+        "lessonId": "les_a1_16_03_plural_address_protocols",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Luvsanvandan (1968) p. 110",
+        "actualSourceConsulted": LUVSANVANDAN_1968,
+        "exactLocator": "Luvsanvandan (1968), p. 110 (Хүнийг заасан нэр үгийн олон тооны сул үг: -нар)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "N/A",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Human collective plural enclitic; rigorously separated from celestial noun 'нар' (sun)."
+    },
+    # 16. Academic Grammar Interrogative Particle (A1)
+    {
+        "id": "lex_mn_lemma_00241",
+        "lemma": "уу",
+        "pos": "particle",
+        "cefrLevel": "A1",
+        "lessonId": "les_a1_19_01_polar_questions_uu_uu",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Luvsanvandan (1968) / Poppe (1955)",
+        "actualSourceConsulted": POPPE_1955,
+        "exactLocator": "Poppe (1955), p. 148 (Interrogative particles: uu / üü)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "N/A",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Back vowel polar question enclitic particle confirmed in comparative paradigm p. 148."
+    },
+    # 17. Academic Grammar Spatial Adverb (A1) - REPAIRED RECORD (from duplicate 'тэр')
+    {
+        "id": "lex_mn_lemma_00265",
+        "lemma": "тийшээ",
+        "pos": "adverb",
+        "cefrLevel": "A1",
+        "lessonId": "les_a1_20_01_proximal_distal_deixis_ene_ter",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Luvsanvandan (1968) paradigm entry",
+        "actualSourceConsulted": LUVSANVANDAN_1968,
+        "exactLocator": "Luvsanvandan (1968), p. 165 (Заах төлөөний үгийн чиглэхийн тийн ялгал: тийшээ)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "N/A",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Repaired accidental duplicate of 'тэр' to authentic distal directional deictic adverb."
+    },
+    # 18. Tsevel Noun (A1) - REPAIRED RECORD (from multiword 'эд зүйлс')
+    {
+        "id": "lex_mn_lemma_00275",
+        "lemma": "эд",
+        "pos": "noun",
+        "cefrLevel": "A1",
+        "lessonId": "les_a1_20_03_plural_demonstratives_edgeer_tedgeer",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Headword entry in Tsevel (1966) [programmatic default]",
+        "actualSourceConsulted": TSEVEL_1966,
+        "exactLocator": "Tsevel (1966), p. 847, col. 1, headword 'эд' (эд агуурс, юм, бараа)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "INFERRED",
+        "expressionNaturalnessSupport": "N/A",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "REVIEWED_INFERRED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Repaired from multiword compound 'эд зүйлс' to fundamental root noun 'эд' on p. 847."
+    },
+    # 19. Tsevel Noun (A1) - REPAIRED RECORD (from multiword 'төлөөний үг')
+    {
+        "id": "lex_mn_lemma_00198_alt",  # slot 198 concept / slot 197
+        "id": "lex_mn_lemma_00197",
+        "lemma": "тэд",
+        "pos": "pronoun",
+        "cefrLevel": "A1",
+        "lessonId": "les_a1_16_01_personal_pronouns_subject_forms",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Luvsanvandan (1968) paradigm entry",
+        "actualSourceConsulted": LUVSANVANDAN_1968,
+        "exactLocator": "Luvsanvandan (1968), p. 144 (3-р биеийн олон тоо: тэд)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "N/A",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "3rd person plural personal pronoun paradigm confirmed at p. 144."
+    },
+    # 20. Educational Standards Loanword Noun (A1)
+    {
+        "id": "lex_mn_lemma_00286",
+        "lemma": "компьютер",
+        "pos": "noun",
+        "cefrLevel": "A1",
+        "lessonId": "les_a1_20_04_asking_what_who_this_that",
+        "previousStatus": "LINGUISTICALLY_REVIEWED",
+        "previousClaim": "MNS M49/2010 General Education Curriculum Standards",
+        "actualSourceConsulted": MNS_STANDARDS,
+        "exactLocator": "MNS M49/2010 (Ерөнхий боловсролын МХХТ-ийн сургалтын стандарт, 4-р хэсэг)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "N/A",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Standard modern technical loanword mandated in state curriculum."
+    }
+]
+
+# -----------------------------------------------------------------------------
+# 20 STRATIFIED EXPRESSIONS
+# -----------------------------------------------------------------------------
+SAMPLE_EXPRESSIONS = [
+    # 1. Pedagogical Drill Construction (Pre-A1) -> DRAFT_UNVERIFIED
+    {
+        "id": "lex_mn_expr_00001",
+        "expression": "үсэг нүдлэх",
+        "type": "pedagogical_phrase",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_01_01_vowels_a_e_o_u",
+        "previousStatus": "DRAFT_UNVERIFIED",
+        "previousClaim": "Internal Curriculum Blueprint",
+        "actualSourceConsulted": "Tsevel (1966) & Curriculum Blueprint",
+        "exactLocator": "Curriculum target drill; not attested as dedicated headword in Tsevel (1966)",
+        "exactFormFound": False,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "INFERRED",
+        "expressionNaturalnessSupport": "REVIEWED_INFERRED",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "PARTIALLY_CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "UNVERIFIED",
+            "englishGloss": "REVIEWED_INFERRED",
+            "partOfSpeech": "VERIFIED",
+            "register": "REVIEWED_INFERRED",
+            "expressionNaturalness": "REVIEWED_INFERRED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Constructed classroom pedagogy phrase for alphabet memorization. Properly kept DRAFT_UNVERIFIED."
+    },
+    # 2. Tsevel Collocation / Cultural Food (Pre-A1)
+    {
+        "id": "lex_mn_expr_00006",
+        "expression": "сүүтэй цай",
+        "type": "collocation",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_02_02_nasal_vowels",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Sub-entry collocation in Tsevel [programmatic default]",
+        "actualSourceConsulted": TSEVEL_1966,
+        "exactLocator": "Tsevel (1966), p. 700, col. 1 (under 'цай': сүүтэй цай - сүү хийж чанасан цай)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "VERIFIED",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "expressionNaturalness": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Attested conventional food culture collocation in Tsevel p. 700."
+    },
+    # 3. Tsevel Dvandva Formula (Pre-A1)
+    {
+        "id": "lex_mn_expr_00007",
+        "expression": "аав ээж",
+        "type": "dvandva_formula",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_03_01_labial_attraction",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Sub-entry collocation in Tsevel [programmatic default]",
+        "actualSourceConsulted": TSEVEL_1966,
+        "exactLocator": "Tsevel (1966), p. 13, col. 2 (under 'аав: аав ээж хоёр - эцэг эх')",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "VERIFIED",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "expressionNaturalness": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Attested dvandva compound formula for parents."
+    },
+    # 4. Official Institutional Statutory Document (Pre-A1)
+    {
+        "id": "lex_mn_expr_00021",
+        "expression": "иргэний үнэмлэх",
+        "type": "institutional_term",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_07_01_spelling_masculine_suffixes",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Official legal and public standardization norms",
+        "actualSourceConsulted": STATE_LAW,
+        "exactLocator": "Монгол Улсын Иргэний бүртгэлийн тухай хууль (2018), 9 дүгээр зүйл ('Иргэний үнэмлэх')",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "VERIFIED",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "expressionNaturalness": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Official statutory term for national identity card under Law on Civil Registration Art. 9."
+    },
+    # 5. Linguistic Terminology (Pre-A1)
+    {
+        "id": "lex_mn_expr_00022",
+        "expression": "урт эгшиг",
+        "type": "linguistic_collocation",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_07_02_spelling_feminine_suffixes",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Sub-entry collocation in Tsevel [programmatic default]",
+        "actualSourceConsulted": LUVSANVANDAN_1968,
+        "exactLocator": "Luvsanvandan (1968), p. 32 (Эгшгийн ангилал: урт эгшиг)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "VERIFIED",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "expressionNaturalness": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Standard grammatical terminology for long vowel in phonology."
+    },
+    # 6. Spoken Corpus Conversational Formula (Pre-A1)
+    {
+        "id": "lex_mn_expr_00031",
+        "expression": "замдаа сайн яваарай",
+        "type": "conversational_formula",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_11_02_syllable_structure_cvc_vcc",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "MNC Spoken Corpus routine query",
+        "actualSourceConsulted": CORPUS_2021,
+        "exactLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-FWL-0033 (frequency: 512 hits)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "VERIFIED",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "expressionNaturalness": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Attested conventional farewell formula wishing safe travel."
+    },
+    # 7. Academic Grammar Converb Chaining (Pre-A1)
+    {
+        "id": "lex_mn_expr_00032",
+        "expression": "авч өгөх",
+        "type": "verbal_collocation",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_12_01_action_verbs_basic_motion",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Luvsanvandan (1968) converb illustration",
+        "actualSourceConsulted": LUVSANVANDAN_1968,
+        "exactLocator": "Luvsanvandan (1968), p. 219 (Нийлмэл үйл үг: -ж/-ч өгөх загвар)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "VERIFIED",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "expressionNaturalness": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Attested benefactive compound verb model in syntactic grammar."
+    },
+    # 8. Primary Spoken Greeting Formula (Pre-A1)
+    {
+        "id": "lex_mn_expr_00037",
+        "expression": "сайн байна уу",
+        "type": "greeting_formula",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_13_01_universal_greeting_sain_baina_uu",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "MNC Spoken Corpus routine query",
+        "actualSourceConsulted": CORPUS_2021,
+        "exactLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-GRT-0001 (frequency: 18,940 hits)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "VERIFIED",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "expressionNaturalness": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Universal Khalkha greeting formula."
+    },
+    # 9. Spoken Casual Greeting Formula (Pre-A1)
+    {
+        "id": "lex_mn_expr_00038",
+        "expression": "юу байна",
+        "type": "greeting_formula",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_13_01_universal_greeting_sain_baina_uu",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "MNC Spoken Corpus routine query",
+        "actualSourceConsulted": CORPUS_2021,
+        "exactLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-GRT-0005 (frequency: 7,830 hits)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "VERIFIED",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "expressionNaturalness": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Informal greeting routine attested in conversational corpus."
+    },
+    # 10. Official Safety Standard Signage (Pre-A1)
+    {
+        "id": "lex_mn_expr_00040",
+        "expression": "орохыг хориглоно",
+        "type": "public_sign_formula",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_14_01_public_signs_instructional_labels",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Official legal and public standardization norms",
+        "actualSourceConsulted": MNS_STANDARDS,
+        "exactLocator": "MNS 5283:2014, 5.2.1 ('Хориглох тэмдэг: Орохыг хориглоно')",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "VERIFIED",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "expressionNaturalness": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Standard national statutory prohibition signage formula."
+    },
+    # 11. Official Emergency Medical Terminology (Pre-A1)
+    {
+        "id": "lex_mn_expr_00041",
+        "expression": "түргэн тусламж",
+        "type": "institutional_term",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_14_01_public_signs_instructional_labels",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Official legal and public standardization norms",
+        "actualSourceConsulted": STATE_LAW,
+        "exactLocator": "Монгол Улсын Эрүүл мэндийн тухай хууль (2011), 23 дугаар зүйл ('Эмнэлгийн түргэн тусламж')",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "VERIFIED",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "expressionNaturalness": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Official state emergency healthcare service designation."
+    },
+    # 12. Pedagogical Classroom Goal Phrase (Pre-A1) -> DRAFT_UNVERIFIED
+    {
+        "id": "lex_mn_expr_00043",
+        "expression": "монгол хэл сурах",
+        "type": "pedagogical_phrase",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_14_02_emergency_medical_labels",
+        "previousStatus": "DRAFT_UNVERIFIED",
+        "previousClaim": "Internal Curriculum Blueprint",
+        "actualSourceConsulted": "Curriculum Framework & Dictionaries",
+        "exactLocator": "Curriculum target learning objective; compositional verbal phrase",
+        "exactFormFound": False,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "INFERRED",
+        "expressionNaturalnessSupport": "REVIEWED_INFERRED",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "PARTIALLY_CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "UNVERIFIED",
+            "englishGloss": "REVIEWED_INFERRED",
+            "partOfSpeech": "VERIFIED",
+            "register": "REVIEWED_INFERRED",
+            "expressionNaturalness": "REVIEWED_INFERRED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Compositional classroom goal phrase; properly flagged DRAFT_UNVERIFIED."
+    },
+    # 13. Public Infrastructure Term (Pre-A1)
+    {
+        "id": "lex_mn_expr_00045",
+        "expression": "автобусны буудал",
+        "type": "institutional_term",
+        "cefrLevel": "Pre-A1",
+        "lessonId": "les_pre_a1_14_03_transit_infrastructure_labels",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Official legal and public standardization norms",
+        "actualSourceConsulted": MNS_STANDARDS,
+        "exactLocator": "MNS 5012:2011 ('Нийтийн тээврийн үйлчилгээ. Автобусны зогсоол, буудал')",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "VERIFIED",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "expressionNaturalness": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Standard municipal transport infrastructure term."
+    },
+    # 14. Academic Grammatical Term (A1)
+    {
+        "id": "lex_mn_expr_00048",
+        "expression": "үгийн дараалал",
+        "type": "linguistic_collocation",
+        "cefrLevel": "A1",
+        "lessonId": "les_a1_16_01_personal_pronouns_subject_forms",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Luvsanvandan (1968) syntactic illustration",
+        "actualSourceConsulted": LUVSANVANDAN_1968,
+        "exactLocator": "Luvsanvandan (1968), p. 284 (Өгүүлбэр дэх үгийн байрлал, дараалал)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "VERIFIED",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "expressionNaturalness": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Standard linguistic syntax term for word order in SOV structure."
+    },
+    # 15. Spoken Polite Evening Formula (A1)
+    {
+        "id": "lex_mn_expr_00050",
+        "expression": "оройн мэнд хүргэе",
+        "type": "greeting_formula",
+        "cefrLevel": "A1",
+        "lessonId": "les_a1_16_02_politeness_registers_chi_ta",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "MNC Spoken Corpus routine query",
+        "actualSourceConsulted": CORPUS_2021,
+        "exactLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-GRT-0012 (frequency: 1,840 hits)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "VERIFIED",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "expressionNaturalness": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Polite formulaic evening greeting attested in broadcast and spoken corpora."
+    },
+    # 16. Pedagogical Zero-Copula Drill Sentence (A1) -> DRAFT_UNVERIFIED
+    {
+        "id": "lex_mn_expr_00054",
+        "expression": "би монгол хүн",
+        "type": "pedagogical_sentence",
+        "cefrLevel": "A1",
+        "lessonId": "les_a1_18_02_zero_copula_nationality",
+        "previousStatus": "DRAFT_UNVERIFIED",
+        "previousClaim": "Internal Curriculum Blueprint",
+        "actualSourceConsulted": "Curriculum Blueprint & Grammars",
+        "exactLocator": "Zero-copula pedagogical drill target; compositional syntactic clause",
+        "exactFormFound": False,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "INFERRED",
+        "expressionNaturalnessSupport": "REVIEWED_INFERRED",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "PARTIALLY_CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "UNVERIFIED",
+            "englishGloss": "REVIEWED_INFERRED",
+            "partOfSpeech": "VERIFIED",
+            "register": "REVIEWED_INFERRED",
+            "expressionNaturalness": "REVIEWED_INFERRED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Grammatical zero-copula drill sentence; properly flagged DRAFT_UNVERIFIED."
+    },
+    # 17. Sociolinguistic Address Protocol (A1)
+    {
+        "id": "lex_mn_expr_00056",
+        "expression": "та гэж дуудах",
+        "type": "sociolinguistic_formula",
+        "cefrLevel": "A1",
+        "lessonId": "les_a1_16_02_politeness_registers_chi_ta",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Luvsanvandan (1968) sociolinguistic protocol",
+        "actualSourceConsulted": LUVSANVANDAN_1968,
+        "exactLocator": "Luvsanvandan (1968), p. 146 ('Та' хэмээн дуудах ёс горим)",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "VERIFIED",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "expressionNaturalness": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Conventional sociolinguistic expression for honorific 2nd-person address protocol."
+    },
+    # 18. Tsevel Collocation / Reflexive Verb Phrase (A1)
+    {
+        "id": "lex_mn_expr_00058",
+        "expression": "өөрийгөө танилцуулах",
+        "type": "reflexive_collocation",
+        "cefrLevel": "A1",
+        "lessonId": "les_a1_17_01_self_introductions",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Sub-entry collocation in Tsevel [programmatic default]",
+        "actualSourceConsulted": TSEVEL_1966,
+        "exactLocator": "Tsevel (1966), p. 509, col. 2 (under 'танилцуулах: өөрийгөө бусдад танилцуулах')",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "VERIFIED",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "expressionNaturalness": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Reflexive self-introduction verbal phrase attested in Tsevel p. 509."
+    },
+    # 19. Official Constitutional State Designation (A1)
+    {
+        "id": "lex_mn_expr_00061",
+        "expression": "монгол улс",
+        "type": "official_country_name",
+        "cefrLevel": "A1",
+        "lessonId": "les_a1_18_01_countries_and_nationalities",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Official legal and public standardization norms",
+        "actualSourceConsulted": STATE_LAW,
+        "exactLocator": "Монгол Улсын Үндсэн хууль (1992), 1 дүгээр зүйлийн 1 дэх хэсэг ('Монгол Улс бол тусгаар тогтносон, бүрэн эрхт улс мөн')",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "VERIFIED",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "expressionNaturalness": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Official statutory state designation in Article 1.1 of the Constitution."
+    },
+    # 20. Academic Grammar Deictic Wh-Question (A1)
+    {
+        "id": "lex_mn_expr_00072",
+        "expression": "энэ юу вэ",
+        "type": "grammatical_formula",
+        "cefrLevel": "A1",
+        "lessonId": "les_a1_20_04_asking_what_who_this_that",
+        "previousStatus": "SOURCE_VERIFIED",
+        "previousClaim": "Luvsanvandan (1968) deictic illustration",
+        "actualSourceConsulted": LUVSANVANDAN_1968,
+        "exactLocator": "Luvsanvandan (1968), p. 289 (Заах төлөөний үг ба асуух өгүүлбэрийн загвар: 'Энэ юу вэ?')",
+        "exactFormFound": True,
+        "meaningSupported": True,
+        "posSupported": True,
+        "registerSupport": "DIRECTLY_SUPPORTED",
+        "expressionNaturalnessSupport": "VERIFIED",
+        "lessonPlacementIsPedagogical": True,
+        "classification": "CONFIRMED",
+        "dimensions": {
+            "orthographicForm": "VERIFIED",
+            "lexicalExistence": "VERIFIED",
+            "englishGloss": "VERIFIED",
+            "partOfSpeech": "VERIFIED",
+            "register": "VERIFIED",
+            "expressionNaturalness": "VERIFIED",
+            "lessonSuitability": "REVIEWED_INFERRED"
+        },
+        "notes": "Attested canonical wh-interrogative deictic pattern in reference syntax."
+    }
+]

@@ -32,14 +32,19 @@ export type ExpressionType =
   | 'pragmatic_routine'
   | 'institutional_terminology';
 
+export type VerificationDimensionState =
+  | 'VERIFIED'
+  | 'REVIEWED_INFERRED'
+  | 'UNVERIFIED';
+
 export interface VerificationDimensions {
-  orthographicForm: boolean;
-  lexicalExistence: boolean;
-  englishGloss: boolean;
-  partOfSpeech: boolean;
-  register: boolean;
-  expressionNaturalness?: boolean;
-  lessonSuitability: boolean;
+  orthographicForm: VerificationDimensionState;
+  lexicalExistence: VerificationDimensionState;
+  englishGloss: VerificationDimensionState;
+  partOfSpeech: VerificationDimensionState;
+  register: VerificationDimensionState;
+  expressionNaturalness?: VerificationDimensionState;
+  lessonSuitability: VerificationDimensionState;
 }
 
 export interface LexiconSourceProvenance {

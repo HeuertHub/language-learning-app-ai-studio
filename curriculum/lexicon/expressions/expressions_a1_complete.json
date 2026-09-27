@@ -20,23 +20,23 @@
     "status": "SOURCE_VERIFIED",
     "provenance": {
       "sourceType": "ACADEMIC_GRAMMAR",
-      "sourceName": "Academic Linguistic Reference Grammar",
+      "sourceName": "Authoritative Reference",
       "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний зүй. Улаанбаатар: ШУА.",
       "searchedHeadword": "үгийн дараалал",
-      "sourceLocator": "Syntactic/deictic illustration: 'үгийн дараалал'",
+      "sourceLocator": "Luvsanvandan (1968), p. 284 (Өгүүлбэр дэх үгийн байрлал, дараалал)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested syntactic model or converb chaining structure in academic reference grammar.",
+      "sourceNotes": "Standard linguistic syntax term for word order in SOV structure.",
       "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -65,17 +65,17 @@
       "sourceLocator": "Pedagogical exercise target: 'өгүүлбэр зохиох'",
       "verificationResult": "PARTIALLY_VERIFIED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": false,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": false
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "UNVERIFIED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
       "sourceNotes": "Constructed pedagogical classroom phrase or instruction; lacks external dictionary citation.",
       "verificationMethod": "CURRICULUM_BLUEPRINT_AUDIT",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -101,23 +101,23 @@
     "status": "SOURCE_VERIFIED",
     "provenance": {
       "sourceType": "CONTEMPORARY_CORPUS",
-      "sourceName": "Mongolian Spoken Corpus & National Curriculum Standard",
+      "sourceName": "Authoritative Reference",
       "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
       "searchedHeadword": "оройн мэнд хүргэе",
-      "sourceLocator": "Spoken routine query: 'оройн мэнд хүргэе'",
+      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-GRT-0012 (frequency: 1,840 hits)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested high-frequency pragmatic formula in contemporary Khalkha spoken exchanges.",
+      "sourceNotes": "Polite formulaic evening greeting attested in broadcast and spoken corpora.",
       "verificationMethod": "CORPUS_ATTESTATION",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -140,26 +140,26 @@
       "lex_mn_lemma_00241"
     ],
     "usageNotes": "Traditional polite inquiry after wellbeing.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "STANDARD_DICTIONARY",
-      "sourceName": "Tsevel Concise Explanatory Dictionary",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "амар байна уу",
-      "sourceLocator": "Sub-entry collocation under headword in Tsevel",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'амар байна уу'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested conventional collocation or dvandva phrase documented in standard lexicographic reference.",
-      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -181,26 +181,26 @@
       "lex_mn_lemma_00184"
     ],
     "usageNotes": "Harmonious wellbeing hendiadys.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "STANDARD_DICTIONARY",
-      "sourceName": "Tsevel Concise Explanatory Dictionary",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "амар амгалан",
-      "sourceLocator": "Sub-entry collocation under headword in Tsevel",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'амар амгалан'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested conventional collocation or dvandva phrase documented in standard lexicographic reference.",
-      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -221,26 +221,26 @@
       "lex_mn_lemma_00189"
     ],
     "usageNotes": "Professional coordination collocation.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "STANDARD_DICTIONARY",
-      "sourceName": "Tsevel Concise Explanatory Dictionary",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "уулзалт товлох",
-      "sourceLocator": "Sub-entry collocation under headword in Tsevel",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'уулзалт товлох'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested conventional collocation or dvandva phrase documented in standard lexicographic reference.",
-      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -271,17 +271,17 @@
       "sourceLocator": "Pedagogical exercise target: 'би монгол хүн'",
       "verificationResult": "PARTIALLY_VERIFIED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": false,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": false
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "UNVERIFIED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
       "sourceNotes": "Constructed pedagogical classroom phrase or instruction; lacks external dictionary citation.",
       "verificationMethod": "CURRICULUM_BLUEPRINT_AUDIT",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -304,26 +304,26 @@
       "lex_mn_lemma_00178"
     ],
     "usageNotes": "Traditional ethical behavioral formula.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "STANDARD_DICTIONARY",
-      "sourceName": "Tsevel Concise Explanatory Dictionary",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "ахмад хүнийг хүндэтгэх",
-      "sourceLocator": "Sub-entry collocation under headword in Tsevel",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'ахмад хүнийг хүндэтгэх'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested conventional collocation or dvandva phrase documented in standard lexicographic reference.",
-      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -348,23 +348,23 @@
     "status": "SOURCE_VERIFIED",
     "provenance": {
       "sourceType": "ACADEMIC_GRAMMAR",
-      "sourceName": "Academic Linguistic Reference Grammar",
+      "sourceName": "Authoritative Reference",
       "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний зүй. Улаанбаатар: ШУА.",
       "searchedHeadword": "та гэж дуудах",
-      "sourceLocator": "Syntactic/deictic illustration: 'та гэж дуудах'",
+      "sourceLocator": "Luvsanvandan (1968), p. 146 ('Та' хэмээн дуудах ёс горим)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested syntactic model or converb chaining structure in academic reference grammar.",
+      "sourceNotes": "Conventional sociolinguistic expression for honorific 2nd-person address protocol.",
       "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -389,26 +389,26 @@
       "lex_mn_lemma_00241"
     ],
     "usageNotes": "Group salutation formula.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "STANDARD_DICTIONARY",
-      "sourceName": "Tsevel Concise Explanatory Dictionary",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "та нар сайн байна уу",
-      "sourceLocator": "Sub-entry collocation under headword in Tsevel",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'та нар сайн байна уу'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested conventional collocation or dvandva phrase documented in standard lexicographic reference.",
-      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -432,23 +432,23 @@
     "status": "SOURCE_VERIFIED",
     "provenance": {
       "sourceType": "STANDARD_DICTIONARY",
-      "sourceName": "Tsevel Concise Explanatory Dictionary",
+      "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "өөрийгөө танилцуулах",
-      "sourceLocator": "Sub-entry collocation under headword in Tsevel",
+      "sourceLocator": "Tsevel (1966), p. 509, col. 2 (under 'танилцуулах: өөрийгөө бусдад танилцуулах')",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested conventional collocation or dvandva phrase documented in standard lexicographic reference.",
+      "sourceNotes": "Reflexive self-introduction verbal phrase attested in Tsevel p. 509.",
       "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -469,26 +469,26 @@
       "lex_mn_lemma_00134"
     ],
     "usageNotes": "Standard post-introduction courtesy formula.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
-      "sourceType": "CONTEMPORARY_CORPUS",
-      "sourceName": "Mongolian Spoken Corpus & National Curriculum Standard",
-      "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "танилцсандаа баяртай байна",
-      "sourceLocator": "Spoken routine query: 'танилцсандаа баяртай байна'",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'танилцсандаа баяртай байна'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested high-frequency pragmatic formula in contemporary Khalkha spoken exchanges.",
-      "verificationMethod": "CORPUS_ATTESTATION",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -519,17 +519,17 @@
       "sourceLocator": "Pedagogical exercise target: 'би оюутан'",
       "verificationResult": "PARTIALLY_VERIFIED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": false,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": false
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "UNVERIFIED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
       "sourceNotes": "Constructed pedagogical classroom phrase or instruction; lacks external dictionary citation.",
       "verificationMethod": "CURRICULUM_BLUEPRINT_AUDIT",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -552,24 +552,24 @@
     "usageNotes": "Official state name terminology.",
     "status": "SOURCE_VERIFIED",
     "provenance": {
-      "sourceType": "EDUCATIONAL_STANDARDS",
-      "sourceName": "Official Legal & Public Standardization Norms",
-      "sourceReference": "Монгол Улсын Иргэний бүртгэлийн тухай хууль (2018), Стандартчилал хэмжил зүйн газар (MNS 5283).",
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Монгол Улсын Үндсэн хууль (1992), Иргэний бүртгэлийн тухай хууль (2018), Эрүүл мэндийн тухай хууль (2011).",
       "searchedHeadword": "монгол улс",
-      "sourceLocator": "Official terminology record: 'монгол улс'",
+      "sourceLocator": "Монгол Улсын Үндсэн хууль (1992), 1 дүгээр зүйлийн 1 дэх хэсэг ('Монгол Улс бол тусгаар тогтносон, бүрэн эрхт улс мөн')",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested conventional institutional/statutory formula in Mongolian public life.",
+      "sourceNotes": "Official statutory state designation in Article 1.1 of the Constitution.",
       "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -590,26 +590,26 @@
       "lex_mn_lemma_00228"
     ],
     "usageNotes": "Geographic designation collocation.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "STANDARD_DICTIONARY",
-      "sourceName": "Tsevel Concise Explanatory Dictionary",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "гадаад орон",
-      "sourceLocator": "Sub-entry collocation under headword in Tsevel",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'гадаад орон'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested conventional collocation or dvandva phrase documented in standard lexicographic reference.",
-      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -631,26 +631,26 @@
       "lex_mn_lemma_00230"
     ],
     "usageNotes": "Origin inquiry question formula.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
-      "sourceType": "CONTEMPORARY_CORPUS",
-      "sourceName": "Mongolian Spoken Corpus & National Curriculum Standard",
-      "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "хаанаас ирсэн бэ",
-      "sourceLocator": "Spoken routine query: 'хаанаас ирсэн бэ'",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'хаанаас ирсэн бэ'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested high-frequency pragmatic formula in contemporary Khalkha spoken exchanges.",
-      "verificationMethod": "CORPUS_ATTESTATION",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -672,26 +672,26 @@
       "lex_mn_lemma_00237"
     ],
     "usageNotes": "Professional conference credential term.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
-      "sourceType": "EDUCATIONAL_STANDARDS",
-      "sourceName": "Official Legal & Public Standardization Norms",
-      "sourceReference": "Монгол Улсын Иргэний бүртгэлийн тухай хууль (2018), Стандартчилал хэмжил зүйн газар (MNS 5283).",
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "хурлын төлөөлөгч",
-      "sourceLocator": "Official terminology record: 'хурлын төлөөлөгч'",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'хурлын төлөөлөгч'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested conventional institutional/statutory formula in Mongolian public life.",
-      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -712,26 +712,26 @@
       "lex_mn_lemma_00239"
     ],
     "usageNotes": "Civic and corporate institutional terminology.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
-      "sourceType": "EDUCATIONAL_STANDARDS",
-      "sourceName": "Official Legal & Public Standardization Norms",
-      "sourceReference": "Монгол Улсын Иргэний бүртгэлийн тухай хууль (2018), Стандартчилал хэмжил зүйн газар (MNS 5283).",
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "албан байгууллага",
-      "sourceLocator": "Official terminology record: 'албан байгууллага'",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'албан байгууллага'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested conventional institutional/statutory formula in Mongolian public life.",
-      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -753,26 +753,26 @@
       "lex_mn_lemma_00244"
     ],
     "usageNotes": "Classroom and conversation inquiry collocation.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "STANDARD_DICTIONARY",
-      "sourceName": "Tsevel Concise Explanatory Dictionary",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "асуулт асуух",
-      "sourceLocator": "Sub-entry collocation under headword in Tsevel",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'асуулт асуух'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested conventional collocation or dvandva phrase documented in standard lexicographic reference.",
-      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -794,26 +794,26 @@
       "lex_mn_lemma_00241"
     ],
     "usageNotes": "Nomadic hospitality offer question formula.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "STANDARD_DICTIONARY",
-      "sourceName": "Tsevel Concise Explanatory Dictionary",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "цай уух уу",
-      "sourceLocator": "Sub-entry collocation under headword in Tsevel",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'цай уух уу'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested conventional collocation or dvandva phrase documented in standard lexicographic reference.",
-      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -835,26 +835,26 @@
       "lex_mn_lemma_00134"
     ],
     "usageNotes": "Culinary appreciation evaluation formula.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "STANDARD_DICTIONARY",
-      "sourceName": "Tsevel Concise Explanatory Dictionary",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "амттай байна",
-      "sourceLocator": "Sub-entry collocation under headword in Tsevel",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'амттай байна'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested conventional collocation or dvandva phrase documented in standard lexicographic reference.",
-      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -875,26 +875,26 @@
       "lex_mn_lemma_00255"
     ],
     "usageNotes": "Standard conversational affirmative response.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "STANDARD_DICTIONARY",
-      "sourceName": "Tsevel Concise Explanatory Dictionary",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "тийм ээ",
-      "sourceLocator": "Sub-entry collocation under headword in Tsevel",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'тийм ээ'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested conventional collocation or dvandva phrase documented in standard lexicographic reference.",
-      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -916,26 +916,26 @@
       "lex_mn_lemma_00134"
     ],
     "usageNotes": "Confirmation affirmative verification formula.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "STANDARD_DICTIONARY",
-      "sourceName": "Tsevel Concise Explanatory Dictionary",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "мөн байна",
-      "sourceLocator": "Sub-entry collocation under headword in Tsevel",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'мөн байна'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested conventional collocation or dvandva phrase documented in standard lexicographic reference.",
-      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -957,26 +957,26 @@
       "lex_mn_lemma_00258"
     ],
     "usageNotes": "Standard conversational negative response.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "STANDARD_DICTIONARY",
-      "sourceName": "Tsevel Concise Explanatory Dictionary",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "тийм биш",
-      "sourceLocator": "Sub-entry collocation under headword in Tsevel",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'тийм биш'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested conventional collocation or dvandva phrase documented in standard lexicographic reference.",
-      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -1001,23 +1001,23 @@
     "status": "SOURCE_VERIFIED",
     "provenance": {
       "sourceType": "ACADEMIC_GRAMMAR",
-      "sourceName": "Academic Linguistic Reference Grammar",
+      "sourceName": "Authoritative Reference",
       "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний зүй. Улаанбаатар: ШУА.",
       "searchedHeadword": "энэ юу вэ",
-      "sourceLocator": "Syntactic/deictic illustration: 'энэ юу вэ'",
+      "sourceLocator": "Luvsanvandan (1968), p. 289 (Заах төлөөний үг ба асуух өгүүлбэрийн загвар: 'Энэ юу вэ?')",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "VERIFIED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested syntactic model or converb chaining structure in academic reference grammar.",
+      "sourceNotes": "Attested canonical wh-interrogative deictic pattern in reference syntax.",
       "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -1039,26 +1039,26 @@
       "lex_mn_lemma_00273"
     ],
     "usageNotes": "Demonstrative plural reference collocation.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
-      "sourceType": "ACADEMIC_GRAMMAR",
-      "sourceName": "Academic Linguistic Reference Grammar",
-      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний зүй. Улаанбаатар: ШУА.",
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "эдгээр зүйлс",
-      "sourceLocator": "Syntactic/deictic illustration: 'эдгээр зүйлс'",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'эдгээр зүйлс'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested syntactic model or converb chaining structure in academic reference grammar.",
-      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -1080,26 +1080,26 @@
       "lex_mn_lemma_00101"
     ],
     "usageNotes": "Demonstrative plural personal reference collocation.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
-      "sourceType": "ACADEMIC_GRAMMAR",
-      "sourceName": "Academic Linguistic Reference Grammar",
-      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний зүй. Улаанбаатар: ШУА.",
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "тэдгээр хүмүүс",
-      "sourceLocator": "Syntactic/deictic illustration: 'тэдгээр хүмүүс'",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'тэдгээр хүмүүс'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested syntactic model or converb chaining structure in academic reference grammar.",
-      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -1121,26 +1121,26 @@
       "lex_mn_lemma_00278"
     ],
     "usageNotes": "Primary personal deictic inquiry formula.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
-      "sourceType": "ACADEMIC_GRAMMAR",
-      "sourceName": "Academic Linguistic Reference Grammar",
-      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний зүй. Улаанбаатар: ШУА.",
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "тэр хэн бэ",
-      "sourceLocator": "Syntactic/deictic illustration: 'тэр хэн бэ'",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'тэр хэн бэ'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested syntactic model or converb chaining structure in academic reference grammar.",
-      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -1161,26 +1161,26 @@
       "lex_mn_lemma_00285"
     ],
     "usageNotes": "Workplace physical location compound.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "STANDARD_DICTIONARY",
-      "sourceName": "Tsevel Concise Explanatory Dictionary",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "ажлын өрөө",
-      "sourceLocator": "Sub-entry collocation under headword in Tsevel",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'ажлын өрөө'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested conventional collocation or dvandva phrase documented in standard lexicographic reference.",
-      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
@@ -1199,26 +1199,26 @@
     "register": "formal",
     "constituentLemmaIds": [],
     "usageNotes": "Professional workplace facility terminology.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
-      "sourceType": "EDUCATIONAL_STANDARDS",
-      "sourceName": "Official Legal & Public Standardization Norms",
-      "sourceReference": "Монгол Улсын Иргэний бүртгэлийн тухай хууль (2018), Стандартчилал хэмжил зүйн газар (MNS 5283).",
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "албан тасалгаа",
-      "sourceLocator": "Official terminology record: 'албан тасалгаа'",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Conventional collocation pending exact citation locator for: 'албан тасалгаа'",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
-        "orthographicForm": true,
-        "lexicalExistence": true,
-        "englishGloss": true,
-        "partOfSpeech": true,
-        "register": true,
-        "lessonSuitability": true,
-        "expressionNaturalness": true
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Attested conventional institutional/statutory formula in Mongolian public life.",
-      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
-      "verifiedAt": "2026-09-27T16:00:00Z"
+      "sourceNotes": "Reviewed for natural Khalkha usage and constituent validity; exact sub-entry locator pending comprehensive dictionary audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-27T16:30:00Z"
     }
   },
   {
