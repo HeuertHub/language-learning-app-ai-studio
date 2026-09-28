@@ -55,18 +55,18 @@ BATCH2_CONSTITUENT_ANALYSIS = {
     ],
     # 8: хорин тав (lex_mn_expr_00119)
     8: [
-        {"token": "хорин", "rootLemma": "хорин", "pos": "numeral", "resolvedLemmaId": "lex_mn_lemma_00428", "isUnresolved": False, "gloss": "twenty"},
+        {"token": "хорин", "rootLemma": "хорь", "pos": "numeral", "resolvedLemmaId": "lex_mn_lemma_00427", "isUnresolved": False, "gloss": "twenty"},
         {"token": "тав", "rootLemma": "тав", "pos": "numeral", "resolvedLemmaId": "lex_mn_lemma_00062", "isUnresolved": False, "gloss": "five"}
     ],
     # 9: хэдэн настай вэ (lex_mn_expr_00120)
     9: [
-        {"token": "хэдэн", "rootLemma": "хэдэн", "pos": "numeral", "resolvedLemmaId": "lex_mn_lemma_00442", "isUnresolved": False, "gloss": "how many"},
+        {"token": "хэдэн", "rootLemma": "хэд", "pos": "numeral", "resolvedLemmaId": "lex_mn_lemma_00441", "isUnresolved": False, "gloss": "how many"},
         {"token": "настай", "rootLemma": "нас", "pos": "noun", "resolvedLemmaId": "lex_mn_lemma_00076", "isUnresolved": False, "gloss": "age"},
         {"token": "вэ", "rootLemma": "вэ", "pos": "particle", "resolvedLemmaId": "lex_mn_lemma_00405", "isUnresolved": False, "gloss": "question particle"}
     ],
     # 10: хэдэн төгрөг вэ (lex_mn_expr_00121)
     10: [
-        {"token": "хэдэн", "rootLemma": "хэдэн", "pos": "numeral", "resolvedLemmaId": "lex_mn_lemma_00442", "isUnresolved": False, "gloss": "how many"},
+        {"token": "хэдэн", "rootLemma": "хэд", "pos": "numeral", "resolvedLemmaId": "lex_mn_lemma_00441", "isUnresolved": False, "gloss": "how many"},
         {"token": "төгрөг", "rootLemma": "төгрөг", "pos": "noun", "resolvedLemmaId": "lex_mn_lemma_00166", "isUnresolved": False, "gloss": "tugrik"},
         {"token": "вэ", "rootLemma": "вэ", "pos": "particle", "resolvedLemmaId": "lex_mn_lemma_00405", "isUnresolved": False, "gloss": "question particle"}
     ],
@@ -158,7 +158,7 @@ BATCH2_CONSTITUENT_ANALYSIS = {
     ],
     # 28: мөнгө төлөх (lex_mn_expr_00139)
     28: [
-        {"token": "мөнгө", "rootLemma": "мөнгө", "pos": "noun", "resolvedLemmaId": None, "isUnresolved": True, "unresolvedRoot": "мөнгө", "gloss": "money"},
+        {"token": "мөнгө", "rootLemma": "мөнгө", "pos": "noun", "resolvedLemmaId": "lex_mn_lemma_00442", "isUnresolved": False, "gloss": "money"},
         {"token": "төлөх", "rootLemma": "төлөх", "pos": "verb", "resolvedLemmaId": "lex_mn_lemma_00508", "isUnresolved": False, "gloss": "to pay"}
     ],
     # 29: захиалга өгөх (lex_mn_expr_00140)

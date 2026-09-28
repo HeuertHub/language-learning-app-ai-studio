@@ -323,6 +323,15 @@ def validate_lexicon():
     if constituent_link_violations:
         authenticity_errors.append(f"Found {len(constituent_link_violations)} constituent link violations")
 
+    # Headword Purity and Morphological Duplication Validation (Batch 2 Gate)
+    from scripts.lexicon_generator.headword_purity_validator import audit_batch2_headwords
+    purity_table, purity_failures = audit_batch2_headwords()
+    if purity_failures:
+        for f in purity_failures:
+            authenticity_errors.append(f"Headword purity failure: {f['id']} '{f['surface']}' is a morphological form of '{f['underlying_lexeme']}' ({f['relationship_type']})")
+
+    print(f"  • Headword Purity Violations:                     {len(purity_failures)} (Zero permitted)")
+
     if not authenticity_errors:
         print("  ✓ GATE 2 RESULT: AUTHENTICITY PASS")
     else:
@@ -336,7 +345,7 @@ def validate_lexicon():
     print("\n" + "=" * 80)
     if not structural_errors and not authenticity_errors:
         print("✓ DUAL-GATE VERIFICATION COMPLETED CLEANLY: STRUCTURAL PASS & AUTHENTICITY PASS.")
-        print(f"  (Pre-A1 and A1 Units 16–25 Fully Realized with Authentic Modern Mongolian: {realized_lemma_count} Lemmas, {realized_expr_count} Expressions).")
+        print(f"  (Pre-A1 and A1 Units 16–30 Fully Realized with Authentic Modern Mongolian: {realized_lemma_count} Lemmas, {realized_expr_count} Expressions).")
         print("=" * 80)
         sys.exit(0)
     else:

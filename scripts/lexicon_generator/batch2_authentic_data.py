@@ -24,20 +24,20 @@ BATCH2_LEMMAS = [
     ("хаагуур", "which way, through where, along where", "adverb", "neutral", "masculine", "invariable", "STANDARD", "Spatial trajectory interrogative asking about route or path.", 1),
     ("яагаад", "why, for what reason", "adverb", "neutral", "masculine", "invariable", "STANDARD", "Causal interrogative asking for reason, explanation, or cause.", 1),
     ("яах", "to do what, how to act", "verb", "neutral", "masculine", "verbal", "STANDARD", "Interrogative verbal pro-form asking about action or procedure.", 1),
-    ("хэдийд", "at what time, whenabouts", "adverb", "neutral", "feminine", "invariable", "STANDARD", "Temporal locative interrogative asking for specific time interval.", 1),
+    ("хааш", "whither, where to, in which direction", "adverb", "neutral", "masculine", "invariable", "STANDARD", "Directional interrogative adverb asking about orientation or destination of motion.", 1),
 
     # les_a1_26_02_interrogative_pronoun_inventory (P: 5, R: 2) -> 7 lemmas
     ("аль", "which, which one", "pronoun", "neutral", "feminine", "nominal", "STANDARD", "Selective interrogative pronoun asking to choose among alternatives.", 1),
     ("ямар", "what kind, what sort, which", "pronoun", "neutral", "masculine", "nominal", "STANDARD", "Qualitative interrogative pronoun asking about attributes, nature, or species.", 1),
     ("яаж", "how, in what manner", "adverb", "neutral", "masculine", "invariable", "STANDARD", "Modal manner adverb interrogative asking about mechanism or method.", 1),
-    ("хэний", "whose", "pronoun", "neutral", "feminine", "nominal", "STANDARD", "Genitive possessive form of interrogative pronoun хэн.", 1),
-    ("юуны", "of what, what kind of", "pronoun", "neutral", "masculine", "nominal", "STANDARD", "Genitive form of interrogative pronoun юу.", 1),
-    ("хэдий", "how much, how many", "pronoun", "neutral", "feminine", "nominal", "STANDARD", "Quantitative interrogative asking about amount, extent, or degree.", 1),
-    ("хэдээр", "at what price, by how much", "adverb", "neutral", "feminine", "invariable", "STANDARD", "Instrumental quantifier asking for unit cost or rate of exchange.", 1),
+    ("хаанахь", "originating from where, belonging to which place", "pronoun", "neutral", "masculine", "nominal", "STANDARD", "Civic interrogative pronoun inquiring about geographical or jurisdictional provenance.", 1),
+    ("ястан", "ethnicity, national subgroup", "noun", "neutral", "masculine", "nominal", "STANDARD", "Civic classification noun denoting nationality or ethnic sub-affiliation in personal profiles.", 1),
+    ("хэдий", "how much, how many", "pronoun", "neutral", "feminine", "nominal", "STANDARD", "Quantitative interrogative asking about amount, extent, or degree; inflects to temporal locative хэдийд (at what time, whenabouts).", 1),
+    ("хэрхэн", "how, in what manner, by what means", "adverb", "neutral", "feminine", "invariable", "STANDARD", "Procedural interrogative adverb asking about manner, mechanism, or operational approach.", 1),
 
     # les_a1_26_03_inquiry_clarification_drills (P: 4, R: 1) -> 5 lemmas
     ("ойлгомжтой", "clear, intelligible, understandable", "adjective", "neutral", "masculine", "adjectival", "STANDARD", "Evaluative predicate confirming comprehension of an explanation.", 1),
-    ("лавлан", "inquiringly, specifically, verifyingly", "adverb", "neutral", "masculine", "invariable", "STANDARD", "Modal adverb expressing careful verification or clarification.", 1),
+    ("магадлах", "to verify, confirm, ascertain factual accuracy", "verb", "neutral", "masculine", "verbal", "STANDARD", "Action verb for verifying information, checking facts, and confirming accuracy in inquiries.", 1),
     ("асуулга", "questionnaire, survey, interrogation form", "noun", "neutral", "masculine", "nominal", "STANDARD", "Institutional noun denoting structured civic or academic inquiry form.", 1),
     ("тодруулга", "clarification, specification, elucidation", "noun", "neutral", "masculine", "nominal", "STANDARD", "Noun denoting the act or result of making a factual point clear.", 1),
     ("тодорхой", "definite, clear, specific, distinct", "adjective", "neutral", "masculine", "adjectival", "STANDARD", "Qualitative adjective expressing clear, unambiguous facts.", 1),
@@ -52,8 +52,8 @@ BATCH2_LEMMAS = [
     # UNIT 27: Cardinal Numbers Counting Up to 100 (Lessons 27_01 - 27_04) - 23 lemmas
     # -------------------------------------------------------------------------
     # les_a1_27_01_cardinal_numerals_1_to_20 (P: 5, R: 2) -> 7 lemmas
-    ("хорь", "twenty, 20", "numeral", "neutral", "masculine", "nominal", "STANDARD", "Cardinal numeral designating the base decade twenty.", 1),
-    ("хорин", "twenty (attributive/stem form)", "numeral", "neutral", "masculine", "nominal", "STANDARD", "Attributive stem form of twenty used before modified nouns or units.", 1),
+    ("хорь", "twenty, 20", "numeral", "neutral", "masculine", "nominal", "STANDARD", "Cardinal numeral designating the base decade twenty; has attributive unstable-n stem form хорин used before modified nouns and unit classifiers.", 1),
+    ("сондгой", "odd (number), uneven, unpaired", "adjective", "neutral", "masculine", "adjectival", "STANDARD", "Mathematical and counting descriptor for odd, non-divisible numbers, paired with тэгш.", 1),
     ("тоолох", "to count, reckon, calculate", "verb", "neutral", "masculine", "verbal", "STANDARD", "Action verb for counting objects, items, or inventory stock.", 1),
     ("ширхэг", "piece, unit, item classifier", "noun", "neutral", "feminine", "nominal", "STANDARD", "Universal counting classifier for discrete manufactured items.", 1),
     ("нийлбэр", "sum, total, aggregate", "noun", "neutral", "feminine", "nominal", "STANDARD", "Mathematical and financial aggregate of added numbers.", 1),
@@ -70,8 +70,8 @@ BATCH2_LEMMAS = [
     ("ная", "eighty, 80", "numeral", "neutral", "masculine", "nominal", "STANDARD", "Cardinal decade numeral eighty.", 1),
 
     # les_a1_27_03_inquiries_with_hed (P: 4, R: 1) -> 5 lemmas
-    ("хэд", "how many (bare quantity/price), what number", "numeral", "neutral", "feminine", "nominal", "STANDARD", "Interrogative cardinal numeral asking for number or quantity.", 1),
-    ("хэдэн", "how many (attributive), several", "numeral", "neutral", "feminine", "nominal", "STANDARD", "Attributive interrogative numeral modifying count nouns.", 1),
+    ("хэд", "how many (bare quantity/price), what number", "numeral", "neutral", "feminine", "nominal", "STANDARD", "Interrogative cardinal numeral asking for quantity; has attributive unstable-n stem form хэдэн (how many, several) and instrumental case form хэдээр (at what price, by how much).", 1),
+    ("мөнгө", "money, currency, coin, cash", "noun", "neutral", "feminine", "nominal", "STANDARD", "Core monetary noun denoting currency, coins, and transaction sums in price inquiries.", 1),
     ("ер", "ninety, 90", "numeral", "neutral", "feminine", "nominal", "STANDARD", "Cardinal decade numeral ninety.", 1),
     ("хичнээн", "how much, how many, so much", "adverb", "neutral", "feminine", "invariable", "STANDARD", "Intensive quantitative interrogative asking about amount.", 1),
     ("орчим", "approximately, around, about", "postposition", "neutral", "masculine", "invariable", "STANDARD", "Approximative postposition following numerical expressions.", 1),

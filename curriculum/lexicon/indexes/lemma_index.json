@@ -16987,8 +16987,8 @@
   },
   "lex_mn_lemma_00410": {
     "id": "lex_mn_lemma_00410",
-    "lemma": "хэдийд",
-    "gloss": "at what time, whenabouts",
+    "lemma": "хааш",
+    "gloss": "whither, where to, in which direction",
     "pos": "adverb",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_26_content_question_particles_and_",
@@ -16998,9 +16998,9 @@
       "lex_a1_personal_identity_civics"
     ],
     "register": "neutral",
-    "usageNotes": "Temporal locative interrogative asking for specific time interval.",
+    "usageNotes": "Directional interrogative adverb asking about orientation or destination of motion.",
     "morphology": {
-      "vowelHarmony": "feminine",
+      "vowelHarmony": "masculine",
       "stemType": "invariable",
       "irregularity": "regular"
     },
@@ -17010,8 +17010,8 @@
       "sourceType": "STANDARD_DICTIONARY",
       "sourceName": "Tsevel Concise Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
-      "searchedHeadword": "хэдийд",
-      "sourceLocator": "Standard lexicographical citation pending page audit for: 'хэдийд'",
+      "searchedHeadword": "хааш",
+      "sourceLocator": "Standard lexicographical citation pending page audit for: 'хааш'",
       "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -17151,8 +17151,8 @@
   },
   "lex_mn_lemma_00414": {
     "id": "lex_mn_lemma_00414",
-    "lemma": "хэний",
-    "gloss": "whose",
+    "lemma": "хаанахь",
+    "gloss": "originating from where, belonging to which place",
     "pos": "pronoun",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_26_content_question_particles_and_",
@@ -17162,9 +17162,9 @@
       "lex_a1_personal_identity_civics"
     ],
     "register": "neutral",
-    "usageNotes": "Genitive possessive form of interrogative pronoun хэн.",
+    "usageNotes": "Civic interrogative pronoun inquiring about geographical or jurisdictional provenance.",
     "morphology": {
-      "vowelHarmony": "feminine",
+      "vowelHarmony": "masculine",
       "stemType": "nominal",
       "irregularity": "regular"
     },
@@ -17174,8 +17174,8 @@
       "sourceType": "STANDARD_DICTIONARY",
       "sourceName": "Tsevel Concise Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
-      "searchedHeadword": "хэний",
-      "sourceLocator": "Standard lexicographical citation pending page audit for: 'хэний'",
+      "searchedHeadword": "хаанахь",
+      "sourceLocator": "Standard lexicographical citation pending page audit for: 'хаанахь'",
       "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -17192,9 +17192,9 @@
   },
   "lex_mn_lemma_00415": {
     "id": "lex_mn_lemma_00415",
-    "lemma": "юуны",
-    "gloss": "of what, what kind of",
-    "pos": "pronoun",
+    "lemma": "ястан",
+    "gloss": "ethnicity, national subgroup",
+    "pos": "noun",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_26_content_question_particles_and_",
     "firstIntroducedLessonId": "les_a1_26_02_interrogative_pronoun_inventory",
@@ -17203,7 +17203,7 @@
       "lex_a1_personal_identity_civics"
     ],
     "register": "neutral",
-    "usageNotes": "Genitive form of interrogative pronoun юу.",
+    "usageNotes": "Civic classification noun denoting nationality or ethnic sub-affiliation in personal profiles.",
     "morphology": {
       "vowelHarmony": "masculine",
       "stemType": "nominal",
@@ -17215,8 +17215,8 @@
       "sourceType": "STANDARD_DICTIONARY",
       "sourceName": "Tsevel Concise Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
-      "searchedHeadword": "юуны",
-      "sourceLocator": "Standard lexicographical citation pending page audit for: 'юуны'",
+      "searchedHeadword": "ястан",
+      "sourceLocator": "Standard lexicographical citation pending page audit for: 'ястан'",
       "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -17244,7 +17244,7 @@
       "lex_a1_personal_identity_civics"
     ],
     "register": "neutral",
-    "usageNotes": "Quantitative interrogative asking about amount, extent, or degree.",
+    "usageNotes": "Quantitative interrogative asking about amount, extent, or degree; inflects to temporal locative хэдийд (at what time, whenabouts).",
     "morphology": {
       "vowelHarmony": "feminine",
       "stemType": "nominal",
@@ -17274,8 +17274,8 @@
   },
   "lex_mn_lemma_00417": {
     "id": "lex_mn_lemma_00417",
-    "lemma": "хэдээр",
-    "gloss": "at what price, by how much",
+    "lemma": "хэрхэн",
+    "gloss": "how, in what manner, by what means",
     "pos": "adverb",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_26_content_question_particles_and_",
@@ -17285,7 +17285,7 @@
       "lex_a1_personal_identity_civics"
     ],
     "register": "neutral",
-    "usageNotes": "Instrumental quantifier asking for unit cost or rate of exchange.",
+    "usageNotes": "Procedural interrogative adverb asking about manner, mechanism, or operational approach.",
     "morphology": {
       "vowelHarmony": "feminine",
       "stemType": "invariable",
@@ -17297,8 +17297,8 @@
       "sourceType": "STANDARD_DICTIONARY",
       "sourceName": "Tsevel Concise Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
-      "searchedHeadword": "хэдээр",
-      "sourceLocator": "Standard lexicographical citation pending page audit for: 'хэдээр'",
+      "searchedHeadword": "хэрхэн",
+      "sourceLocator": "Standard lexicographical citation pending page audit for: 'хэрхэн'",
       "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -17356,9 +17356,9 @@
   },
   "lex_mn_lemma_00419": {
     "id": "lex_mn_lemma_00419",
-    "lemma": "лавлан",
-    "gloss": "inquiringly, specifically, verifyingly",
-    "pos": "adverb",
+    "lemma": "магадлах",
+    "gloss": "to verify, confirm, ascertain factual accuracy",
+    "pos": "verb",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_26_content_question_particles_and_",
     "firstIntroducedLessonId": "les_a1_26_03_inquiry_clarification_drills",
@@ -17367,10 +17367,10 @@
       "lex_a1_personal_identity_civics"
     ],
     "register": "neutral",
-    "usageNotes": "Modal adverb expressing careful verification or clarification.",
+    "usageNotes": "Action verb for verifying information, checking facts, and confirming accuracy in inquiries.",
     "morphology": {
       "vowelHarmony": "masculine",
-      "stemType": "invariable",
+      "stemType": "verbal",
       "irregularity": "regular"
     },
     "senseIndex": 1,
@@ -17379,8 +17379,8 @@
       "sourceType": "STANDARD_DICTIONARY",
       "sourceName": "Tsevel Concise Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
-      "searchedHeadword": "лавлан",
-      "sourceLocator": "Standard lexicographical citation pending page audit for: 'лавлан'",
+      "searchedHeadword": "магадлах",
+      "sourceLocator": "Standard lexicographical citation pending page audit for: 'магадлах'",
       "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -17695,7 +17695,7 @@
       "lex_a1_numbers_time_calendar"
     ],
     "register": "neutral",
-    "usageNotes": "Cardinal numeral designating the base decade twenty.",
+    "usageNotes": "Cardinal numeral designating the base decade twenty; has attributive unstable-n stem form хорин used before modified nouns and unit classifiers.",
     "morphology": {
       "vowelHarmony": "masculine",
       "stemType": "nominal",
@@ -17725,9 +17725,9 @@
   },
   "lex_mn_lemma_00428": {
     "id": "lex_mn_lemma_00428",
-    "lemma": "хорин",
-    "gloss": "twenty (attributive/stem form)",
-    "pos": "numeral",
+    "lemma": "сондгой",
+    "gloss": "odd (number), uneven, unpaired",
+    "pos": "adjective",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_27_cardinal_numbers_counting_up_to_one",
     "firstIntroducedLessonId": "les_a1_27_01_cardinal_numerals_1_to_20",
@@ -17736,10 +17736,10 @@
       "lex_a1_numbers_time_calendar"
     ],
     "register": "neutral",
-    "usageNotes": "Attributive stem form of twenty used before modified nouns or units.",
+    "usageNotes": "Mathematical and counting descriptor for odd, non-divisible numbers, paired with тэгш.",
     "morphology": {
       "vowelHarmony": "masculine",
-      "stemType": "nominal",
+      "stemType": "adjectival",
       "irregularity": "regular"
     },
     "senseIndex": 1,
@@ -17748,8 +17748,8 @@
       "sourceType": "STANDARD_DICTIONARY",
       "sourceName": "Tsevel Concise Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
-      "searchedHeadword": "хорин",
-      "sourceLocator": "Standard lexicographical citation pending page audit for: 'хорин'",
+      "searchedHeadword": "сондгой",
+      "sourceLocator": "Standard lexicographical citation pending page audit for: 'сондгой'",
       "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -18269,7 +18269,7 @@
       "lex_a1_numbers_time_calendar"
     ],
     "register": "neutral",
-    "usageNotes": "Interrogative cardinal numeral asking for number or quantity.",
+    "usageNotes": "Interrogative cardinal numeral asking for quantity; has attributive unstable-n stem form хэдэн (how many, several) and instrumental case form хэдээр (at what price, by how much).",
     "morphology": {
       "vowelHarmony": "feminine",
       "stemType": "nominal",
@@ -18299,9 +18299,9 @@
   },
   "lex_mn_lemma_00442": {
     "id": "lex_mn_lemma_00442",
-    "lemma": "хэдэн",
-    "gloss": "how many (attributive), several",
-    "pos": "numeral",
+    "lemma": "мөнгө",
+    "gloss": "money, currency, coin, cash",
+    "pos": "noun",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_27_cardinal_numbers_counting_up_to_one",
     "firstIntroducedLessonId": "les_a1_27_03_inquiries_with_hed",
@@ -18310,7 +18310,7 @@
       "lex_a1_numbers_time_calendar"
     ],
     "register": "neutral",
-    "usageNotes": "Attributive interrogative numeral modifying count nouns.",
+    "usageNotes": "Core monetary noun denoting currency, coins, and transaction sums in price inquiries.",
     "morphology": {
       "vowelHarmony": "feminine",
       "stemType": "nominal",
@@ -18322,8 +18322,8 @@
       "sourceType": "STANDARD_DICTIONARY",
       "sourceName": "Tsevel Concise Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
-      "searchedHeadword": "хэдэн",
-      "sourceLocator": "Standard lexicographical citation pending page audit for: 'хэдэн'",
+      "searchedHeadword": "мөнгө",
+      "sourceLocator": "Standard lexicographical citation pending page audit for: 'мөнгө'",
       "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
