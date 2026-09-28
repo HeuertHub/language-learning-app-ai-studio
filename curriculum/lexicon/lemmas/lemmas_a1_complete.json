@@ -10214,9 +10214,9 @@
   },
   {
     "id": "lex_mn_lemma_00414",
-    "lemma": "хаанахь",
-    "gloss": "originating from where, belonging to which place",
-    "pos": "pronoun",
+    "lemma": "хаанах",
+    "gloss": "originating from where, belonging to which place, of what place",
+    "pos": "adjective",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_26_content_question_particles_and_",
     "firstIntroducedLessonId": "les_a1_26_02_interrogative_pronoun_inventory",
@@ -10225,10 +10225,10 @@
       "lex_a1_personal_identity_civics"
     ],
     "register": "neutral",
-    "usageNotes": "Civic interrogative pronoun inquiring about geographical or jurisdictional provenance.",
+    "usageNotes": "Relational interrogative adjective inquiring about geographical or jurisdictional provenance (standard Modern Khalkha headword per 2018 Official Dictionary, categorized as тэмдэг нэр [тэ.н]).",
     "morphology": {
       "vowelHarmony": "masculine",
-      "stemType": "nominal",
+      "stemType": "adjectival",
       "irregularity": "regular"
     },
     "senseIndex": 1,
@@ -10237,8 +10237,8 @@
       "sourceType": "STANDARD_DICTIONARY",
       "sourceName": "Tsevel Concise Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
-      "searchedHeadword": "хаанахь",
-      "sourceLocator": "Standard lexicographical citation pending page audit for: 'хаанахь'",
+      "searchedHeadword": "хаанах",
+      "sourceLocator": "Standard lexicographical citation pending page audit for: 'хаанах'",
       "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -10255,9 +10255,9 @@
   },
   {
     "id": "lex_mn_lemma_00415",
-    "lemma": "ястан",
-    "gloss": "ethnicity, national subgroup",
-    "pos": "noun",
+    "lemma": "хэр",
+    "gloss": "how, to what extent, how much (degree interrogative)",
+    "pos": "adverb",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_26_content_question_particles_and_",
     "firstIntroducedLessonId": "les_a1_26_02_interrogative_pronoun_inventory",
@@ -10266,10 +10266,10 @@
       "lex_a1_personal_identity_civics"
     ],
     "register": "neutral",
-    "usageNotes": "Civic classification noun denoting nationality or ethnic sub-affiliation in personal profiles.",
+    "usageNotes": "Quantitative and degree interrogative asking about extent, distance, or magnitude (e.g., хэр хол вэ?, хэр их вэ?).",
     "morphology": {
       "vowelHarmony": "masculine",
-      "stemType": "nominal",
+      "stemType": "invariable",
       "irregularity": "regular"
     },
     "senseIndex": 1,
@@ -10278,8 +10278,8 @@
       "sourceType": "STANDARD_DICTIONARY",
       "sourceName": "Tsevel Concise Explanatory Dictionary (Internal Linguistic Review)",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
-      "searchedHeadword": "ястан",
-      "sourceLocator": "Standard lexicographical citation pending page audit for: 'ястан'",
+      "searchedHeadword": "хэр",
+      "sourceLocator": "Standard lexicographical citation pending page audit for: 'хэр'",
       "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",

@@ -323,14 +323,18 @@ def validate_lexicon():
     if constituent_link_violations:
         authenticity_errors.append(f"Found {len(constituent_link_violations)} constituent link violations")
 
-    # Headword Purity and Morphological Duplication Validation (Batch 2 Gate)
+    # Headword Purity and Morphological Duplication Validation (Batch 2 Gate - Fail-Closed)
     from scripts.lexicon_generator.headword_purity_validator import audit_batch2_headwords
-    purity_table, purity_failures = audit_batch2_headwords()
+    purity_table, purity_failures, purity_counts = audit_batch2_headwords()
     if purity_failures:
         for f in purity_failures:
-            authenticity_errors.append(f"Headword purity failure: {f['id']} '{f['surface']}' is a morphological form of '{f['underlying_lexeme']}' ({f['relationship_type']})")
+            authenticity_errors.append(f"Headword purity failure: {f['id']} '{f['surface']}' -> {f['decision']} ({f.get('audit_evidence', '')})")
 
     print(f"  • Headword Purity Violations:                     {len(purity_failures)} (Zero permitted)")
+    print(f"    - Authoritative Confirmed:                     {purity_counts['AUTHORITATIVE_HEADWORD_CONFIRMED']} / 112")
+    print(f"    - Manually Reviewed Distinct Headwords:        {purity_counts['MANUALLY_REVIEWED_DISTINCT_HEADWORD']} / 112")
+    print(f"    - Morphological Form Failures:                 {purity_counts['MORPHOLOGICAL_FORM_NOT_LEMMA']} (Target: 0)")
+    print(f"    - Needs Manual Review:                         {purity_counts['NEEDS_MANUAL_REVIEW']} (Target: 0)")
 
     if not authenticity_errors:
         print("  ✓ GATE 2 RESULT: AUTHENTICITY PASS")

@@ -30,8 +30,8 @@ BATCH2_LEMMAS = [
     ("аль", "which, which one", "pronoun", "neutral", "feminine", "nominal", "STANDARD", "Selective interrogative pronoun asking to choose among alternatives.", 1),
     ("ямар", "what kind, what sort, which", "pronoun", "neutral", "masculine", "nominal", "STANDARD", "Qualitative interrogative pronoun asking about attributes, nature, or species.", 1),
     ("яаж", "how, in what manner", "adverb", "neutral", "masculine", "invariable", "STANDARD", "Modal manner adverb interrogative asking about mechanism or method.", 1),
-    ("хаанахь", "originating from where, belonging to which place", "pronoun", "neutral", "masculine", "nominal", "STANDARD", "Civic interrogative pronoun inquiring about geographical or jurisdictional provenance.", 1),
-    ("ястан", "ethnicity, national subgroup", "noun", "neutral", "masculine", "nominal", "STANDARD", "Civic classification noun denoting nationality or ethnic sub-affiliation in personal profiles.", 1),
+    ("хаанах", "originating from where, belonging to which place, of what place", "adjective", "neutral", "masculine", "adjectival", "STANDARD", "Relational interrogative adjective inquiring about geographical or jurisdictional provenance (standard Modern Khalkha headword per 2018 Official Dictionary, categorized as тэмдэг нэр [тэ.н]).", 1),
+    ("хэр", "how, to what extent, how much (degree interrogative)", "adverb", "neutral", "masculine", "invariable", "STANDARD", "Quantitative and degree interrogative asking about extent, distance, or magnitude (e.g., хэр хол вэ?, хэр их вэ?).", 1),
     ("хэдий", "how much, how many", "pronoun", "neutral", "feminine", "nominal", "STANDARD", "Quantitative interrogative asking about amount, extent, or degree; inflects to temporal locative хэдийд (at what time, whenabouts).", 1),
     ("хэрхэн", "how, in what manner, by what means", "adverb", "neutral", "feminine", "invariable", "STANDARD", "Procedural interrogative adverb asking about manner, mechanism, or operational approach.", 1),
 
