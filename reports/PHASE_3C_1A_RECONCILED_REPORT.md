@@ -18,11 +18,11 @@ Every figure, unit title, lesson allocation, lexical record, and locator is prog
 | Metric | Pilot Baseline | Batch 1 (Units 21–25) | Cumulative Realized | Remaining Unrealized | Total Curriculum Capacity | Parity |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Core Lemmas** | 286 | **+117** | **403** | 9038 | 9441 | **100.0%** |
-| • Productive Lemmas | 200 | +78 | 278 | 5051 | 5,329 | 100.0% |
-| • Receptive Lemmas | 86 | +39 | 125 | 3987 | 4,112 | 100.0% |
+| • Productive Lemmas | 200 | +78 | 278 | 5,051 | 5,329 | 100.0% |
+| • Receptive Lemmas | 86 | +39 | 125 | 3,987 | 4,112 | 100.0% |
 | **Multiword Expressions** | 77 | **+33** | **110** | 2582 | 2692 | **100.0%** |
-| • Productive Expressions | 53 | +22 | 75 | 1547 | 1,622 | 100.0% |
-| • Receptive Expressions | 24 | +11 | 35 | 1035 | 1,070 | 100.0% |
+| • Productive Expressions | 53 | +22 | 75 | 1,547 | 1,622 | 100.0% |
+| • Receptive Expressions | 24 | +11 | 35 | 1,035 | 1,070 | 100.0% |
 | **Total Slots** | **363** | **+150** | **513** | **11620** | **12133** | **100.0%** |
 | **Lessons Reconciled** | 1,257 | — | 1,257 | — | 1,257 | **100.0%** |
 

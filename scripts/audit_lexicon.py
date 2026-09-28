@@ -34,9 +34,11 @@ def run_adversarial_audit():
     from scripts.lexicon_generator.pilot_spot_audit_data import SAMPLE_LEMMAS, SAMPLE_EXPRESSIONS
     from scripts.lexicon_generator.batch1_constituent_data import BATCH1_CONSTITUENT_ANALYSIS
     from scripts.lexicon_generator.batch1_spot_audit_data import BATCH1_SAMPLE_LEMMAS, BATCH1_SAMPLE_EXPRESSIONS
+    from scripts.lexicon_generator.batch2_constituent_data import BATCH2_CONSTITUENT_ANALYSIS
+    from scripts.lexicon_generator.batch2_spot_audit_data import BATCH2_SAMPLE_LEMMAS, BATCH2_SAMPLE_EXPRESSIONS
 
     print("=" * 80)
-    print("PHASE 3C.1A INDEPENDENT EVIDENCE SPOT AUDIT & LEXICAL CERTIFICATION REPORT")
+    print("PHASE 3C.1B INDEPENDENT EVIDENCE SPOT AUDIT & LEXICAL CERTIFICATION REPORT")
     print("=" * 80)
 
     runtime_dir = os.path.join(root_dir, 'public', 'data', 'lexicon')
@@ -60,10 +62,10 @@ def run_adversarial_audit():
     unrealized_exprs = [e for e in all_exprs if e.get('status') == 'UNREALIZED']
 
     print(f"Auditing Dataset Scope:")
-    print(f"  • Realized Lemmas:             {len(realized_lemmas):5d} (Pilot: 286, Batch 1 [Units 21-25]: 117)")
-    print(f"  • Realized Expressions:        {len(realized_exprs):5d} (Pilot: 77, Batch 1 [Units 21-25]: 33)")
-    print(f"  • Unrealized Non-Pilot Lemmas: {len(unrealized_lemmas):5d} (Preserved stable slots)")
-    print(f"  • Unrealized Non-Pilot Exprs:  {len(unrealized_exprs):5d} (Preserved stable slots)")
+    print(f"  • Realized Lemmas:             {len(realized_lemmas):5d} (Pilot: 286, Batch 1: 117, Batch 2: 112)")
+    print(f"  • Realized Expressions:        {len(realized_exprs):5d} (Pilot: 77, Batch 1: 33, Batch 2: 30)")
+    print(f"  • Unrealized Non-Batch Lemmas: {len(unrealized_lemmas):5d} (Preserved stable slots)")
+    print(f"  • Unrealized Non-Batch Exprs:  {len(unrealized_exprs):5d} (Preserved stable slots)")
     print(f"  • Total Curriculum Slots:      {len(all_lemmas) + len(all_exprs):5d} (9,441 + 2,692 = 12,133)")
 
     # -------------------------------------------------------------------------
@@ -72,10 +74,10 @@ def run_adversarial_audit():
     print("\n[Audit Module 1: Mechanically Verified Dimensions]")
     assert len(all_lemmas) == 9441, "Total lemmas must equal 9441"
     assert len(all_exprs) == 2692, "Total expressions must equal 2692"
-    assert len(realized_lemmas) == 403, f"Realized lemmas must equal 403, got {len(realized_lemmas)}"
-    assert len(realized_exprs) == 110, f"Realized expressions must equal 110, got {len(realized_exprs)}"
-    assert len(unrealized_lemmas) == 9038, "Unrealized lemmas must equal 9038"
-    assert len(unrealized_exprs) == 2582, "Unrealized exprs must equal 2582"
+    assert len(realized_lemmas) == 515, f"Realized lemmas must equal 515, got {len(realized_lemmas)}"
+    assert len(realized_exprs) == 140, f"Realized expressions must equal 140, got {len(realized_exprs)}"
+    assert len(unrealized_lemmas) == 8926, "Unrealized lemmas must equal 8926"
+    assert len(unrealized_exprs) == 2552, "Unrealized exprs must equal 2552"
 
     reconciled_count = 0
     LEVEL_FILES = [
@@ -175,8 +177,10 @@ def run_adversarial_audit():
     for expr_idx in range(len(realized_exprs)):
         if expr_idx < 77:
             analysis = CONSTITUENT_ANALYSIS.get(expr_idx, [])
-        else:
+        elif expr_idx < 110:
             analysis = BATCH1_CONSTITUENT_ANALYSIS.get(expr_idx - 77, [])
+        else:
+            analysis = BATCH2_CONSTITUENT_ANALYSIS.get(expr_idx - 110, [])
         for c in analysis:
             total_tokens_analyzed += 1
             if c.get('isUnresolved'):
@@ -249,10 +253,50 @@ def run_adversarial_audit():
     assert active_fp_rate == 0.0, "Active Batch 1 false-positive rate must be 0.0%!"
 
     # -------------------------------------------------------------------------
-    # Module 7: Certification Scorecard & Final Audit Parity
+    # Module 7: Phase 3C.1B Independent Evidence Spot Audit (Batch 2: 40 Records)
     # -------------------------------------------------------------------------
     print("\n" + "=" * 80)
-    print("PHASE 3C.1A COMPREHENSIVE CERTIFICATION SCORECARD (PILOT + BATCH 1)")
+    print("PHASE 3C.1B BATCH 2 INDEPENDENT EVIDENCE SPOT AUDIT (40 RECORDS)")
+    print("=" * 80)
+    
+    assert len(BATCH2_SAMPLE_LEMMAS) == 25, "Batch 2 sample lemmas must be exactly 25"
+    assert len(BATCH2_SAMPLE_EXPRESSIONS) == 15, "Batch 2 sample expressions must be exactly 15"
+    
+    b2_sample_records = BATCH2_SAMPLE_LEMMAS + BATCH2_SAMPLE_EXPRESSIONS
+    print(f"Sample Size: Exactly {len(b2_sample_records)} Newly Realized Batch 2 Records (25 Lemmas, 15 Expressions)")
+    
+    b2_classes = Counter(r['classification'] for r in b2_sample_records)
+    print(f"Spot Audit Classification Distribution:")
+    print(f"  • CONFIRMED:            {b2_classes.get('CONFIRMED', 0):2d} / 40 ({(b2_classes.get('CONFIRMED', 0)/40)*100:.1f}%)")
+    print(f"  • PARTIALLY_CONFIRMED:  {b2_classes.get('PARTIALLY_CONFIRMED', 0):2d} / 40 ({(b2_classes.get('PARTIALLY_CONFIRMED', 0)/40)*100:.1f}%)")
+    print(f"  • CONTRADICTED:         {b2_classes.get('CONTRADICTED', 0):2d} / 40 ({(b2_classes.get('CONTRADICTED', 0)/40)*100:.1f}%)")
+    print(f"  • SOURCE_NOT_LOCATED:   {b2_classes.get('SOURCE_NOT_LOCATED', 0):2d} / 40 ({(b2_classes.get('SOURCE_NOT_LOCATED', 0)/40)*100:.1f}%)")
+
+    # Source breakdown
+    b2_sources = Counter(r['actualSourceConsulted'] for r in b2_sample_records)
+    print(f"\nAuthoritative Sources Consulted for Batch 2 Sample:")
+    for src, cnt in b2_sources.items():
+        src_name = src.split('(')[0].strip()
+        print(f"  • {src_name:40s}: {cnt:2d} records")
+
+    # False-positive rate evaluation
+    b2_sv = [r for r in b2_sample_records if r.get('status') == 'SOURCE_VERIFIED']
+    b2_unverified_claims = [r for r in b2_sv if r.get('classification') != 'CONFIRMED']
+    b2_active_fp_rate = (len(b2_unverified_claims) / len(b2_sv)) * 100 if b2_sv else 0
+
+    print(f"\nAdversarial Spot Audit Metrics on Batch 2:")
+    print(f"  • Sample Size:                                   {len(b2_sample_records):2d} records")
+    print(f"  • Active SOURCE_VERIFIED (Inspected & Confirmed):{len(b2_sv):2d} records")
+    print(f"  • LINGUISTICALLY_REVIEWED (Source Not Located):  {len(b2_sample_records) - len(b2_sv):2d} records")
+    print(f"  • Active Unverified Claims:                      {len(b2_unverified_claims):2d} / {len(b2_sv)}")
+    print(f"  • ACTIVE FALSE-POSITIVE RATE OF SOURCE CLAIMS:   {b2_active_fp_rate:.1f}%")
+    assert b2_active_fp_rate == 0.0, "Active Batch 2 false-positive rate must be 0.0%!"
+
+    # -------------------------------------------------------------------------
+    # Module 8: Comprehensive Certification Scorecard (Pilot + Batch 1 + Batch 2)
+    # -------------------------------------------------------------------------
+    print("\n" + "=" * 80)
+    print("PHASE 3C.1B COMPREHENSIVE CERTIFICATION SCORECARD (PILOT + BATCH 1 + BATCH 2)")
     print("=" * 80)
     
     total_sv = sum(1 for x in all_lemmas + all_exprs if x['status'] == 'SOURCE_VERIFIED')

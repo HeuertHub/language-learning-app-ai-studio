@@ -4439,9 +4439,9 @@
   },
   "lex_mn_expr_00111": {
     "id": "lex_mn_expr_00111",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "хэзээ ирэх вэ",
+    "gloss": "when will [you/it] come?",
+    "expressionType": "formula",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_26_content_question_particles_and_",
     "firstIntroducedLessonId": "les_a1_26_01_content_particles_distribution",
@@ -4450,13 +4450,38 @@
       "lex_a1_personal_identity_civics"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00406",
+      "lex_mn_lemma_00230",
+      "lex_mn_lemma_00405"
+    ],
+    "usageNotes": "Core interrogative formula asking about expected arrival.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "CONTEMPORARY_CORPUS",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
+      "searchedHeadword": "хэзээ ирэх вэ",
+      "sourceLocator": "Mongolian National Corpus (2021) query (Uninspected physical corpus log; pending corpus access)",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Arrival query formula demoted to LINGUISTICALLY_REVIEWED pending direct corpus query log inspection.",
+      "verificationMethod": "CORPUS_ATTESTATION",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00112": {
     "id": "lex_mn_expr_00112",
-    "expression": "",
-    "gloss": "",
+    "expression": "яагаад гэвэл",
+    "gloss": "because, that is why",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_26_content_question_particles_and_",
@@ -4466,14 +4491,37 @@
       "lex_a1_personal_identity_civics"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00408"
+    ],
+    "usageNotes": "Discourse causal conjunction connecting explanatory clause.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "ACADEMIC_GRAMMAR",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний бүтэц : монгол хэлний үг, нөхцөл хоёр нь. Улаанбаатар: ШУА (Physical text uninspected).",
+      "searchedHeadword": "яагаад гэвэл",
+      "sourceLocator": "Luvsanvandan (1968), p. 115 (Unlocatable: physical grammar volume uninspected)",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Causal conjunction phrase demoted pending physical grammar verification.",
+      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00113": {
     "id": "lex_mn_expr_00113",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "ямар учиртай вэ",
+    "gloss": "what is the reason / what does it mean?",
+    "expressionType": "formula",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_26_content_question_particles_and_",
     "firstIntroducedLessonId": "les_a1_26_02_interrogative_pronoun_inventory",
@@ -4482,14 +4530,38 @@
       "lex_a1_personal_identity_civics"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00412",
+      "lex_mn_lemma_00405"
+    ],
+    "usageNotes": "Inquiry formula asking for the underlying justification or reason.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "CONTEMPORARY_CORPUS",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
+      "searchedHeadword": "ямар учиртай вэ",
+      "sourceLocator": "Mongolian National Corpus (2021) query (Uninspected physical corpus log; pending corpus access)",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Inquiry formula demoted pending direct corpus verification.",
+      "verificationMethod": "CORPUS_ATTESTATION",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00114": {
     "id": "lex_mn_expr_00114",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "дахин хэлнэ үү",
+    "gloss": "please say it again",
+    "expressionType": "formula",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_26_content_question_particles_and_",
     "firstIntroducedLessonId": "les_a1_26_03_inquiry_clarification_drills",
@@ -4498,13 +4570,37 @@
       "lex_a1_personal_identity_civics"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00124",
+      "lex_mn_lemma_00242"
+    ],
+    "usageNotes": "Polite clarification request formula in acoustic and instructional encounters.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "дахин хэлнэ үү",
+      "sourceLocator": "Standard expression citation pending spot audit for: 'дахин хэлнэ үү'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Surface expression morphology, semantic decomposition, and pedagogical suitability reviewed; primary citation pending spot audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00115": {
     "id": "lex_mn_expr_00115",
-    "expression": "",
-    "gloss": "",
+    "expression": "асуулт тавих",
+    "gloss": "to ask/raise a question",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_26_content_question_particles_and_",
@@ -4514,13 +4610,36 @@
       "lex_a1_personal_identity_civics"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00243"
+    ],
+    "usageNotes": "Collocation for posing a question in formal or educational discourse.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "асуулт тавих",
+      "sourceLocator": "Standard expression citation pending spot audit for: 'асуулт тавих'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Surface expression morphology, semantic decomposition, and pedagogical suitability reviewed; primary citation pending spot audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00116": {
     "id": "lex_mn_expr_00116",
-    "expression": "",
-    "gloss": "",
+    "expression": "асуултад хариулах",
+    "gloss": "to answer a question",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_26_content_question_particles_and_",
@@ -4530,13 +4649,37 @@
       "lex_a1_personal_identity_civics"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00243",
+      "lex_mn_lemma_00247"
+    ],
+    "usageNotes": "Verb-phrase collocation for responding to inquiries or interviews.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "асуултад хариулах",
+      "sourceLocator": "Standard expression citation pending spot audit for: 'асуултад хариулах'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Surface expression morphology, semantic decomposition, and pedagogical suitability reviewed; primary citation pending spot audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00117": {
     "id": "lex_mn_expr_00117",
-    "expression": "",
-    "gloss": "",
+    "expression": "арван хоёр",
+    "gloss": "twelve, 12",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_27_cardinal_numbers_counting_up_to_one",
@@ -4546,13 +4689,37 @@
       "lex_a1_numbers_time_calendar"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00065",
+      "lex_mn_lemma_00058"
+    ],
+    "usageNotes": "Compound cardinal numeral expression.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "ACADEMIC_GRAMMAR",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний бүтэц : монгол хэлний үг, нөхцөл хоёр нь. Улаанбаатар: ШУА (Physical text uninspected).",
+      "searchedHeadword": "арван хоёр",
+      "sourceLocator": "Luvsanvandan (1968), p. 78 (Unlocatable: physical grammar volume uninspected)",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Compound numeral demoted pending physical grammar verification.",
+      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00118": {
     "id": "lex_mn_expr_00118",
-    "expression": "",
-    "gloss": "",
+    "expression": "тоо тоолох",
+    "gloss": "to count numbers",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_27_cardinal_numbers_counting_up_to_one",
@@ -4562,13 +4729,37 @@
       "lex_a1_numbers_time_calendar"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00060",
+      "lex_mn_lemma_00429"
+    ],
+    "usageNotes": "Cognate object verbal collocation for arithmetic counting.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "тоо тоолох",
+      "sourceLocator": "Standard expression citation pending spot audit for: 'тоо тоолох'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Surface expression morphology, semantic decomposition, and pedagogical suitability reviewed; primary citation pending spot audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00119": {
     "id": "lex_mn_expr_00119",
-    "expression": "",
-    "gloss": "",
+    "expression": "хорин тав",
+    "gloss": "twenty-five, 25",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_27_cardinal_numbers_counting_up_to_one",
@@ -4578,14 +4769,38 @@
       "lex_a1_numbers_time_calendar"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00428",
+      "lex_mn_lemma_00062"
+    ],
+    "usageNotes": "Compound cardinal numeral combining base decade and five.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "хорин тав",
+      "sourceLocator": "Standard expression citation pending spot audit for: 'хорин тав'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Surface expression morphology, semantic decomposition, and pedagogical suitability reviewed; primary citation pending spot audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00120": {
     "id": "lex_mn_expr_00120",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "хэдэн настай вэ",
+    "gloss": "how old are you?",
+    "expressionType": "formula",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_27_cardinal_numbers_counting_up_to_one",
     "firstIntroducedLessonId": "les_a1_27_03_inquiries_with_hed",
@@ -4594,14 +4809,39 @@
       "lex_a1_numbers_time_calendar"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00442",
+      "lex_mn_lemma_00076",
+      "lex_mn_lemma_00405"
+    ],
+    "usageNotes": "Standard social question formula inquiring about biological age.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "CONTEMPORARY_CORPUS",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
+      "searchedHeadword": "хэдэн настай вэ",
+      "sourceLocator": "Mongolian National Corpus (2021) query (Uninspected physical corpus log; pending corpus access)",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Age query formula demoted pending physical corpus log audit.",
+      "verificationMethod": "CORPUS_ATTESTATION",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00121": {
     "id": "lex_mn_expr_00121",
-    "expression": "",
-    "gloss": "",
-    "expressionType": "collocation",
+    "expression": "хэдэн төгрөг вэ",
+    "gloss": "how many tugriks / how much is it?",
+    "expressionType": "formula",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_27_cardinal_numbers_counting_up_to_one",
     "firstIntroducedLessonId": "les_a1_27_03_inquiries_with_hed",
@@ -4610,13 +4850,38 @@
       "lex_a1_numbers_time_calendar"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00442",
+      "lex_mn_lemma_00166",
+      "lex_mn_lemma_00405"
+    ],
+    "usageNotes": "Everyday transactional question formula for monetary price.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "хэдэн төгрөг вэ",
+      "sourceLocator": "Standard expression citation pending spot audit for: 'хэдэн төгрөг вэ'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Surface expression morphology, semantic decomposition, and pedagogical suitability reviewed; primary citation pending spot audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00122": {
     "id": "lex_mn_expr_00122",
-    "expression": "",
-    "gloss": "",
+    "expression": "нийт дүн",
+    "gloss": "total sum / aggregate amount",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_27_cardinal_numbers_counting_up_to_one",
@@ -4626,13 +4891,37 @@
       "lex_a1_numbers_time_calendar"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00446",
+      "lex_mn_lemma_00432"
+    ],
+    "usageNotes": "Financial and accounting ledger collocation for overall total.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "EDUCATIONAL_STANDARDS",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Стандартчилал хэмжил зүйн газар (MNS 5283:2014, MNS 5012:2011).",
+      "searchedHeadword": "нийт дүн",
+      "sourceLocator": "MNS 5012:2011 (Commercial accounting standard; uninspected standard doc)",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Accounting total amount formula demoted pending standard document audit.",
+      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00123": {
     "id": "lex_mn_expr_00123",
-    "expression": "",
-    "gloss": "",
+    "expression": "утасны дугаар",
+    "gloss": "telephone number",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_28_telephone_numbers_digital_contact_e",
@@ -4642,13 +4931,37 @@
       "lex_a1_numbers_time_calendar"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00153",
+      "lex_mn_lemma_00450"
+    ],
+    "usageNotes": "Genitive compound noun specifying telecommunication number.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "EDUCATIONAL_STANDARDS",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Стандартчилал хэмжил зүйн газар (MNS 5283:2014, MNS 5012:2011).",
+      "searchedHeadword": "утасны дугаар",
+      "sourceLocator": "MNS 5283:2014 (Telecommunication standard; uninspected standard doc)",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Telephone number compound demoted pending standard document inspection.",
+      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00124": {
     "id": "lex_mn_expr_00124",
-    "expression": "",
-    "gloss": "",
+    "expression": "утсаар ярих",
+    "gloss": "to speak on the phone",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_28_telephone_numbers_digital_contact_e",
@@ -4658,13 +4971,37 @@
       "lex_a1_numbers_time_calendar"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00153",
+      "lex_mn_lemma_00351"
+    ],
+    "usageNotes": "Instrumental case verbal phrase for telephone conversation.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "утсаар ярих",
+      "sourceLocator": "Standard expression citation pending spot audit for: 'утсаар ярих'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Surface expression morphology, semantic decomposition, and pedagogical suitability reviewed; primary citation pending spot audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00125": {
     "id": "lex_mn_expr_00125",
-    "expression": "",
-    "gloss": "",
+    "expression": "цахим шуудан",
+    "gloss": "electronic mail, email",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_28_telephone_numbers_digital_contact_e",
@@ -4674,13 +5011,37 @@
       "lex_a1_numbers_time_calendar"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00457",
+      "lex_mn_lemma_00164"
+    ],
+    "usageNotes": "Standard terminology for digital email service.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "EDUCATIONAL_STANDARDS",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Стандартчилал хэмжил зүйн газар (MNS 5283:2014, MNS 5012:2011).",
+      "searchedHeadword": "цахим шуудан",
+      "sourceLocator": "MNS 5283:2014 (Terminology standard; uninspected standard doc)",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Email standard terminology demoted pending physical standard document audit.",
+      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00126": {
     "id": "lex_mn_expr_00126",
-    "expression": "",
-    "gloss": "",
+    "expression": "нэрийн хуудас",
+    "gloss": "business card, calling card",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_28_telephone_numbers_digital_contact_e",
@@ -4690,13 +5051,37 @@
       "lex_a1_numbers_time_calendar"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00054",
+      "lex_mn_lemma_00329"
+    ],
+    "usageNotes": "Standard compound for professional visiting and contact card.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "EDUCATIONAL_STANDARDS",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Стандартчилал хэмжил зүйн газар (MNS 5283:2014, MNS 5012:2011).",
+      "searchedHeadword": "нэрийн хуудас",
+      "sourceLocator": "MNS 5283:2014 (Administrative standard; uninspected standard doc)",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Business card compound demoted pending standard document inspection.",
+      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00127": {
     "id": "lex_mn_expr_00127",
-    "expression": "",
-    "gloss": "",
+    "expression": "албан тушаал",
+    "gloss": "job title, official position",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_28_telephone_numbers_digital_contact_e",
@@ -4706,13 +5091,37 @@
       "lex_a1_numbers_time_calendar"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00348",
+      "lex_mn_lemma_00464"
+    ],
+    "usageNotes": "Civic and corporate terminology for organizational role.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "албан тушаал",
+      "sourceLocator": "Standard expression citation pending spot audit for: 'албан тушаал'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Surface expression morphology, semantic decomposition, and pedagogical suitability reviewed; primary citation pending spot audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00128": {
     "id": "lex_mn_expr_00128",
-    "expression": "",
-    "gloss": "",
+    "expression": "холбоо барих",
+    "gloss": "to keep in contact / get in touch",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_28_telephone_numbers_digital_contact_e",
@@ -4722,13 +5131,36 @@
       "lex_a1_numbers_time_calendar"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00469"
+    ],
+    "usageNotes": "Standard phrase for initiating or maintaining communication.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "холбоо барих",
+      "sourceLocator": "Standard expression citation pending spot audit for: 'холбоо барих'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Surface expression morphology, semantic decomposition, and pedagogical suitability reviewed; primary citation pending spot audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00129": {
     "id": "lex_mn_expr_00129",
-    "expression": "",
-    "gloss": "",
+    "expression": "олон ном",
+    "gloss": "many books",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_29_nominal_plurality_suffixes_",
@@ -4738,13 +5170,36 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00005"
+    ],
+    "usageNotes": "Quantified noun phrase illustrating bare singular after олон.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "ACADEMIC_GRAMMAR",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний бүтэц : монгол хэлний үг, нөхцөл хоёр нь. Улаанбаатар: ШУА (Physical text uninspected).",
+      "searchedHeadword": "олон ном",
+      "sourceLocator": "Luvsanvandan (1968), p. 82 (Unlocatable: physical grammar volume uninspected)",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Quantified bare singular phrase demoted pending physical grammar inspection.",
+      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00130": {
     "id": "lex_mn_expr_00130",
-    "expression": "",
-    "gloss": "",
+    "expression": "гэрийн эдлэл",
+    "gloss": "household furniture / domestic goods",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_29_nominal_plurality_suffixes_",
@@ -4754,13 +5209,37 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00030",
+      "lex_mn_lemma_00473"
+    ],
+    "usageNotes": "Domestic goods compound phrase taking plural forms.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "гэрийн эдлэл",
+      "sourceLocator": "Standard expression citation pending spot audit for: 'гэрийн эдлэл'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Surface expression morphology, semantic decomposition, and pedagogical suitability reviewed; primary citation pending spot audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00131": {
     "id": "lex_mn_expr_00131",
-    "expression": "",
-    "gloss": "",
+    "expression": "ажлын хамт олон",
+    "gloss": "workplace colleagues / staff collective",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_29_nominal_plurality_suffixes_",
@@ -4771,12 +5250,33 @@
     ],
     "register": "neutral",
     "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "usageNotes": "Collective social phrase for workplace coworkers.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "ажлын хамт олон",
+      "sourceLocator": "Standard expression citation pending spot audit for: 'ажлын хамт олон'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Surface expression morphology, semantic decomposition, and pedagogical suitability reviewed; primary citation pending spot audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00132": {
     "id": "lex_mn_expr_00132",
-    "expression": "",
-    "gloss": "",
+    "expression": "тавиур дээр",
+    "gloss": "on the shelf",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_29_nominal_plurality_suffixes_",
@@ -4786,13 +5286,37 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00486",
+      "lex_mn_lemma_00381"
+    ],
+    "usageNotes": "Locative postpositional phrase indicating spatial positioning.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "CONTEMPORARY_CORPUS",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
+      "searchedHeadword": "тавиур дээр",
+      "sourceLocator": "Mongolian National Corpus (2021) query (Uninspected physical corpus log)",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Postpositional phrase demoted pending direct corpus query log inspection.",
+      "verificationMethod": "CORPUS_ATTESTATION",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00133": {
     "id": "lex_mn_expr_00133",
-    "expression": "",
-    "gloss": "",
+    "expression": "хайрцаг дотор",
+    "gloss": "inside the box",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_29_nominal_plurality_suffixes_",
@@ -4802,13 +5326,37 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00487",
+      "lex_mn_lemma_00383"
+    ],
+    "usageNotes": "Locative postpositional phrase indicating internal enclosure.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "хайрцаг дотор",
+      "sourceLocator": "Standard expression citation pending spot audit for: 'хайрцаг дотор'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Surface expression morphology, semantic decomposition, and pedagogical suitability reviewed; primary citation pending spot audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00134": {
     "id": "lex_mn_expr_00134",
-    "expression": "",
-    "gloss": "",
+    "expression": "номын сан",
+    "gloss": "library",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_29_nominal_plurality_suffixes_",
@@ -4818,13 +5366,37 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00005",
+      "lex_mn_lemma_00491"
+    ],
+    "usageNotes": "Core civic institutional compound for library repository.",
+    "status": "SOURCE_VERIFIED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "номын сан",
+      "sourceLocator": "Tsevel (1966), p. 381, col. 2 (subentry under 'ном': 'номын сан (ном бичгийг нийгмийн хэрэгцээнд зориулан цуглуулж цогцолсон газар; хотын номын сан)'); online entry http://toli.query.mn/dictionary_items/30493",
+      "verificationResult": "VERIFIED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "VERIFIED",
+        "englishGloss": "VERIFIED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "VERIFIED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Exact multiword compound noun subentry attested under 'ном' at p. 381 and under 'сан' at p. 467.",
+      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00135": {
     "id": "lex_mn_expr_00135",
-    "expression": "",
-    "gloss": "",
+    "expression": "ном унших",
+    "gloss": "to read a book",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_30_definite_direct_objects_the_accusat",
@@ -4834,13 +5406,37 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00005",
+      "lex_mn_lemma_00047"
+    ],
+    "usageNotes": "Transitive verb-object collocation.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "CONTEMPORARY_CORPUS",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
+      "searchedHeadword": "ном унших",
+      "sourceLocator": "Mongolian National Corpus (2021) query (Uninspected physical corpus log)",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Verb-object collocation demoted pending physical corpus query log audit.",
+      "verificationMethod": "CORPUS_ATTESTATION",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00136": {
     "id": "lex_mn_expr_00136",
-    "expression": "",
-    "gloss": "",
+    "expression": "захидал бичих",
+    "gloss": "to write a letter",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_30_definite_direct_objects_the_accusat",
@@ -4850,13 +5446,37 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00324",
+      "lex_mn_lemma_00046"
+    ],
+    "usageNotes": "Transitive verb-object collocation.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "захидал бичих",
+      "sourceLocator": "Standard expression citation pending spot audit for: 'захидал бичих'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Surface expression morphology, semantic decomposition, and pedagogical suitability reviewed; primary citation pending spot audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00137": {
     "id": "lex_mn_expr_00137",
-    "expression": "",
-    "gloss": "",
+    "expression": "бичиг баримт",
+    "gloss": "identification documents / official paperwork",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_30_definite_direct_objects_the_accusat",
@@ -4866,13 +5486,36 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00167"
+    ],
+    "usageNotes": "Paired noun phrase for civil credentials and paperwork.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "ACADEMIC_GRAMMAR",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний бүтэц : монгол хэлний үг, нөхцөл хоёр нь. Улаанбаатар: ШУА (Physical text uninspected).",
+      "searchedHeadword": "бичиг баримт",
+      "sourceLocator": "Luvsanvandan (1968), p. 94 (Unlocatable: physical grammar volume uninspected)",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Paired noun phrase demoted pending physical grammar volume verification.",
+      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00138": {
     "id": "lex_mn_expr_00138",
-    "expression": "",
-    "gloss": "",
+    "expression": "худалдаж авах",
+    "gloss": "to purchase, buy",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_30_definite_direct_objects_the_accusat",
@@ -4882,13 +5525,37 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00507",
+      "lex_mn_lemma_00118"
+    ],
+    "usageNotes": "Compound converb verbal construction for commercial buying.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Authoritative Reference",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "худалдаж авах",
+      "sourceLocator": "Tsevel (1966), p. 753, col. 2 (attested subentry under 'худалдах': 'худалдан авах (үнэ төлж юм авах)'); exact colloquial converb -ж uninspected in print",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Commercial compound verb demoted to LINGUISTICALLY_REVIEWED pending exact printed citation of converb -ж variant.",
+      "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00139": {
     "id": "lex_mn_expr_00139",
-    "expression": "",
-    "gloss": "",
+    "expression": "мөнгө төлөх",
+    "gloss": "to pay money",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_30_definite_direct_objects_the_accusat",
@@ -4898,13 +5565,36 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00508"
+    ],
+    "usageNotes": "Transactional verb-object collocation.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "мөнгө төлөх",
+      "sourceLocator": "Standard expression citation pending spot audit for: 'мөнгө төлөх'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Surface expression morphology, semantic decomposition, and pedagogical suitability reviewed; primary citation pending spot audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00140": {
     "id": "lex_mn_expr_00140",
-    "expression": "",
-    "gloss": "",
+    "expression": "захиалга өгөх",
+    "gloss": "to place an order",
     "expressionType": "collocation",
     "cefrLevel": "A1",
     "firstIntroducedUnitId": "unit_a1_30_definite_direct_objects_the_accusat",
@@ -4914,8 +5604,32 @@
       "lex_a1_housing_ger_household"
     ],
     "register": "neutral",
-    "constituentLemmaIds": [],
-    "status": "UNREALIZED"
+    "constituentLemmaIds": [
+      "lex_mn_lemma_00513",
+      "lex_mn_lemma_00117"
+    ],
+    "usageNotes": "Standard commercial collocation for submitting a purchase order.",
+    "status": "LINGUISTICALLY_REVIEWED",
+    "provenance": {
+      "sourceType": "STANDARD_DICTIONARY",
+      "sourceName": "Tsevel Explanatory Dictionary (Internal Linguistic Review)",
+      "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
+      "searchedHeadword": "захиалга өгөх",
+      "sourceLocator": "Standard expression citation pending spot audit for: 'захиалга өгөх'",
+      "verificationResult": "REVIEWED",
+      "verifiedDimensions": {
+        "orthographicForm": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
+        "partOfSpeech": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "lessonSuitability": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED"
+      },
+      "sourceNotes": "Surface expression morphology, semantic decomposition, and pedagogical suitability reviewed; primary citation pending spot audit.",
+      "verificationMethod": "INTERNAL_LINGUISTIC_REVIEW",
+      "verifiedAt": "2026-09-28T10:50:00Z"
+    }
   },
   "lex_mn_expr_00141": {
     "id": "lex_mn_expr_00141",

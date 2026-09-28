@@ -44,6 +44,14 @@ A1_BATCH1_UNITS = set([
     'unit_a1_25_dative_locative_spatial_anchoring_s'
 ])
 
+A1_BATCH2_UNITS = set([
+    'unit_a1_26_content_question_particles_and_',
+    'unit_a1_27_cardinal_numbers_counting_up_to_one',
+    'unit_a1_28_telephone_numbers_digital_contact_e',
+    'unit_a1_29_nominal_plurality_suffixes_',
+    'unit_a1_30_definite_direct_objects_the_accusat'
+])
+
 def load_frozen_lessons(root_dir):
     all_lessons = []
     for file_key, lvl_name in LEVEL_ORDER:
@@ -72,8 +80,15 @@ def main():
     )
     from scripts.lexicon_generator.batch1_constituent_data import BATCH1_CONSTITUENT_ANALYSIS
 
+    from scripts.lexicon_generator.batch2_authentic_data import BATCH2_LEMMAS, BATCH2_EXPRESSIONS
+    from scripts.lexicon_generator.batch2_provenance_data import (
+        get_batch2_lemma_provenance_and_status,
+        get_batch2_expression_provenance_and_status
+    )
+    from scripts.lexicon_generator.batch2_constituent_data import BATCH2_CONSTITUENT_ANALYSIS
+
     print("=" * 80)
-    print("PHASE 3C.1A EVIDENCE-BACKED AUTHORITATIVE LEXICON BUILDER (PILOT + BATCH 1)")
+    print("PHASE 3C.1B EVIDENCE-BACKED AUTHORITATIVE LEXICON BUILDER (PILOT + BATCH 1 + BATCH 2)")
     print("=" * 80)
 
     lessons = load_frozen_lessons(root_dir)
@@ -102,6 +117,7 @@ def main():
 
         is_pilot = (lvl == 'Pre-A1') or (lvl == 'A1' and uid in A1_PILOT_UNITS)
         is_batch1 = (lvl == 'A1' and uid in A1_BATCH1_UNITS)
+        is_batch2 = (lvl == 'A1' and uid in A1_BATCH2_UNITS)
 
         # Allocate productive lemmas
         for idx in range(pl_target):
@@ -116,6 +132,7 @@ def main():
                 'domains': domains,
                 'is_pilot': is_pilot,
                 'is_batch1': is_batch1,
+                'is_batch2': is_batch2,
                 'role': 'productive'
             })
 
@@ -132,6 +149,7 @@ def main():
                 'domains': domains,
                 'is_pilot': is_pilot,
                 'is_batch1': is_batch1,
+                'is_batch2': is_batch2,
                 'role': 'receptive'
             })
 
@@ -148,6 +166,7 @@ def main():
                 'domains': domains,
                 'is_pilot': is_pilot,
                 'is_batch1': is_batch1,
+                'is_batch2': is_batch2,
                 'role': 'productive'
             })
 
@@ -164,6 +183,7 @@ def main():
                 'domains': domains,
                 'is_pilot': is_pilot,
                 'is_batch1': is_batch1,
+                'is_batch2': is_batch2,
                 'role': 'receptive'
             })
 
@@ -172,10 +192,11 @@ def main():
     assert len(lemma_slots) == 9441
     assert len(expr_slots) == 2692
 
-    # 2. Realize Pilot & Batch 1 Lemmas
+    # 2. Realize Pilot, Batch 1 & Batch 2 Lemmas
     realized_lemmas = []
     pilot_lemma_idx = 0
     batch1_lemma_idx = 0
+    batch2_lemma_idx = 0
 
     for slot in lemma_slots:
         lid = slot['firstIntroducedLessonId']
@@ -232,6 +253,32 @@ def main():
                 "provenance": prov
             }
             batch1_lemma_idx += 1
+        elif slot['is_batch2']:
+            cyr_lemma, gloss, pos, reg, v_harmony, s_type, prov_type, usage_notes, sense_idx = BATCH2_LEMMAS[batch2_lemma_idx]
+            prov, st = get_batch2_lemma_provenance_and_status(batch2_lemma_idx, cyr_lemma, pos, lid)
+
+            record = {
+                "id": slot['id'],
+                "lemma": cyr_lemma,
+                "gloss": gloss,
+                "pos": pos,
+                "cefrLevel": slot['cefrLevel'],
+                "firstIntroducedUnitId": slot['firstIntroducedUnitId'],
+                "firstIntroducedLessonId": lid,
+                "classification": slot['classification'],
+                "domains": slot['domains'],
+                "register": reg,
+                "usageNotes": usage_notes,
+                "morphology": {
+                    "vowelHarmony": v_harmony,
+                    "stemType": s_type,
+                    "irregularity": "regular"
+                },
+                "senseIndex": sense_idx,
+                "status": st,
+                "provenance": prov
+            }
+            batch2_lemma_idx += 1
         else:
             record = {
                 "id": slot['id'],
@@ -248,10 +295,11 @@ def main():
             }
         realized_lemmas.append(record)
 
-    # 3. Realize Pilot & Batch 1 Expressions
+    # 3. Realize Pilot, Batch 1 & Batch 2 Expressions
     realized_expressions = []
     pilot_expr_idx = 0
     batch1_expr_idx = 0
+    batch2_expr_idx = 0
 
     for slot in expr_slots:
         lid = slot['firstIntroducedLessonId']
@@ -303,6 +351,30 @@ def main():
                 "provenance": prov
             }
             batch1_expr_idx += 1
+        elif slot['is_batch2']:
+            cyr_expr, gloss, exp_type, reg, constituent_indices, usage_notes = BATCH2_EXPRESSIONS[batch2_expr_idx]
+            prov, st = get_batch2_expression_provenance_and_status(batch2_expr_idx, cyr_expr, exp_type, lid)
+
+            analysis = BATCH2_CONSTITUENT_ANALYSIS.get(batch2_expr_idx, [])
+            constituent_ids = [c['resolvedLemmaId'] for c in analysis if c.get('resolvedLemmaId')]
+
+            record = {
+                "id": slot['id'],
+                "expression": cyr_expr,
+                "gloss": gloss,
+                "expressionType": exp_type,
+                "cefrLevel": slot['cefrLevel'],
+                "firstIntroducedUnitId": slot['firstIntroducedUnitId'],
+                "firstIntroducedLessonId": lid,
+                "classification": slot['classification'],
+                "domains": slot['domains'],
+                "register": reg,
+                "constituentLemmaIds": constituent_ids,
+                "usageNotes": usage_notes,
+                "status": st,
+                "provenance": prov
+            }
+            batch2_expr_idx += 1
         else:
             record = {
                 "id": slot['id'],
@@ -353,21 +425,21 @@ def main():
     du_exprs = sum(1 for x in realized_expressions if x['status'] == 'DRAFT_UNVERIFIED')
 
     print(f"\nRealization Summary:")
-    print(f"  • Realized Lemmas:   {total_realized_lemmas} (Pre-A1: 168, A1 Units 16-20: 118, A1 Units 21-25: 117)")
+    print(f"  • Realized Lemmas:   {total_realized_lemmas} (Pre-A1: 168, A1 Units 16-20: 118, A1 Units 21-25: 117, A1 Units 26-30: 112)")
     print(f"    - SOURCE_VERIFIED:         {sv_lemmas}")
     print(f"    - LINGUISTICALLY_REVIEWED: {lr_lemmas}")
     print(f"    - DRAFT_UNVERIFIED:        {du_lemmas}")
     print(f"  • Unrealized Lemmas: {total_unrealized_lemmas}")
-    print(f"  • Realized Exprs:    {total_realized_exprs} (Pre-A1: 47, A1 Units 16-20: 30, A1 Units 21-25: 33)")
+    print(f"  • Realized Exprs:    {total_realized_exprs} (Pre-A1: 47, A1 Units 16-20: 30, A1 Units 21-25: 33, A1 Units 26-30: 30)")
     print(f"    - SOURCE_VERIFIED:         {sv_exprs}")
     print(f"    - LINGUISTICALLY_REVIEWED: {lr_exprs}")
     print(f"    - DRAFT_UNVERIFIED:        {du_exprs}")
     print(f"  • Unrealized Exprs:  {total_unrealized_exprs}")
 
-    assert total_realized_lemmas == 286 + 117
-    assert total_realized_exprs == 77 + 33
-    assert total_unrealized_lemmas == 9441 - (286 + 117)
-    assert total_unrealized_exprs == 2692 - (77 + 33)
+    assert total_realized_lemmas == 286 + 117 + 112
+    assert total_realized_exprs == 77 + 33 + 30
+    assert total_unrealized_lemmas == 9441 - (286 + 117 + 112)
+    assert total_unrealized_exprs == 2692 - (77 + 33 + 30)
 
     # 5. Write Modular Source Files in curriculum/lexicon/
     lexicon_dir = os.path.join(root_dir, 'curriculum', 'lexicon')
@@ -409,9 +481,9 @@ def main():
     os.makedirs(runtime_dir, exist_ok=True)
 
     manifest_data = {
-        "manifestVersion": "1.1.0-batch1",
+        "manifestVersion": "1.2.0-batch2",
         "generatedAt": datetime.now(timezone.utc).isoformat(),
-        "phase": "3C.1A",
+        "phase": "3C.1B",
         "summary": {
             "totalCoreLemmas": len(realized_lemmas),
             "totalProductiveLemmas": sum(1 for x in realized_lemmas if x['classification'] == 'productive'),
@@ -466,6 +538,12 @@ def main():
                 "lessons": 29,
                 "realizedLemmas": 117,
                 "realizedExpressions": 33
+            },
+            "a1Batch2Units": {
+                "units": 5,
+                "lessons": 29,
+                "realizedLemmas": 112,
+                "realizedExpressions": 30
             }
         }
     }

@@ -237,6 +237,7 @@ def validate_lexicon():
 
     from scripts.lexicon_generator.pilot_constituent_data import CONSTITUENT_ANALYSIS
     from scripts.lexicon_generator.batch1_constituent_data import BATCH1_CONSTITUENT_ANALYSIS
+    from scripts.lexicon_generator.batch2_constituent_data import BATCH2_CONSTITUENT_ANALYSIS
 
     for e in all_exprs:
         eid = e['id']
@@ -276,8 +277,10 @@ def validate_lexicon():
             expr_idx = int(eid.split('_')[-1]) - 1
             if expr_idx < 77:
                 analysis = CONSTITUENT_ANALYSIS.get(expr_idx, [])
-            else:
+            elif expr_idx < 110:
                 analysis = BATCH1_CONSTITUENT_ANALYSIS.get(expr_idx - 77, [])
+            else:
+                analysis = BATCH2_CONSTITUENT_ANALYSIS.get(expr_idx - 110, [])
             valid_cids_for_expr = set(c['resolvedLemmaId'] for c in analysis if c.get('resolvedLemmaId'))
 
             for cid in c_ids:
@@ -294,23 +297,23 @@ def validate_lexicon():
             if expr_text != "" or gloss != "":
                 authenticity_errors.append(f"Unrealized expression slot {eid} contains non-empty text: '{expr_text}'")
 
-    print(f"  • Realized Lemmas (Pilot + Batch 1):   {realized_lemma_count:5d} / 403 target (100.0%)")
-    print(f"  • Realized Exprs (Pilot + Batch 1):    {realized_expr_count:5d} / 110 target (100.0%)")
-    print(f"  • Unrealized Remaining Lemmas:         {unrealized_lemma_count:5d} / 9038 target (100.0%)")
-    print(f"  • Unrealized Remaining Exprs:          {unrealized_expr_count:5d} / 2582 target (100.0%)")
-    print(f"  • Placeholder Violations:              {len(placeholder_violations):5d} (Zero permitted)")
-    print(f"  • False VALIDATED Statuses:            {false_validated_count:5d} (Zero permitted)")
-    print(f"  • Missing Provenance Records:          {missing_provenance_count:5d} (Zero permitted)")
-    print(f"  • Constituent Link Violations:         {len(constituent_link_violations):5d} (Zero permitted)")
+    print(f"  • Realized Lemmas (Pilot + Batch 1 + Batch 2): {realized_lemma_count:5d} / 515 target (100.0%)")
+    print(f"  • Realized Exprs (Pilot + Batch 1 + Batch 2):  {realized_expr_count:5d} / 140 target (100.0%)")
+    print(f"  • Unrealized Remaining Lemmas:                 {unrealized_lemma_count:5d} / 8926 target (100.0%)")
+    print(f"  • Unrealized Remaining Exprs:                  {unrealized_expr_count:5d} / 2552 target (100.0%)")
+    print(f"  • Placeholder Violations:                      {len(placeholder_violations):5d} (Zero permitted)")
+    print(f"  • False VALIDATED Statuses:                    {false_validated_count:5d} (Zero permitted)")
+    print(f"  • Missing Provenance Records:                  {missing_provenance_count:5d} (Zero permitted)")
+    print(f"  • Constituent Link Violations:                 {len(constituent_link_violations):5d} (Zero permitted)")
 
-    if realized_lemma_count != 403:
-        authenticity_errors.append(f"Realized lemma count mismatch: {realized_lemma_count} != 403")
-    if realized_expr_count != 110:
-        authenticity_errors.append(f"Realized expression count mismatch: {realized_expr_count} != 110")
-    if unrealized_lemma_count != 9038:
-        authenticity_errors.append(f"Unrealized lemma count mismatch: {unrealized_lemma_count} != 9038")
-    if unrealized_expr_count != 2582:
-        authenticity_errors.append(f"Unrealized expression count mismatch: {unrealized_expr_count} != 2582")
+    if realized_lemma_count != 515:
+        authenticity_errors.append(f"Realized lemma count mismatch: {realized_lemma_count} != 515")
+    if realized_expr_count != 140:
+        authenticity_errors.append(f"Realized expression count mismatch: {realized_expr_count} != 140")
+    if unrealized_lemma_count != 8926:
+        authenticity_errors.append(f"Unrealized lemma count mismatch: {unrealized_lemma_count} != 8926")
+    if unrealized_expr_count != 2552:
+        authenticity_errors.append(f"Unrealized expression count mismatch: {unrealized_expr_count} != 2552")
     if placeholder_violations:
         authenticity_errors.append(f"Found {len(placeholder_violations)} placeholder pattern violations")
     if false_validated_count:

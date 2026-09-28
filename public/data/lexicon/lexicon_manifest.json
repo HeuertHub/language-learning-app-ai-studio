@@ -1,7 +1,7 @@
 {
-  "manifestVersion": "1.1.0-batch1",
-  "generatedAt": "2026-09-28T01:00:22.952540+00:00",
-  "phase": "3C.1A",
+  "manifestVersion": "1.2.0-batch2",
+  "generatedAt": "2026-09-28T11:01:04.933987+00:00",
+  "phase": "3C.1B",
   "summary": {
     "totalCoreLemmas": 9441,
     "totalProductiveLemmas": 5329,
@@ -9,10 +9,10 @@
     "totalExpressions": 2692,
     "totalProductiveExpressions": 1622,
     "totalReceptiveExpressions": 1070,
-    "realizedLemmasCount": 403,
-    "realizedExpressionsCount": 110,
-    "unrealizedLemmasCount": 9038,
-    "unrealizedExpressionsCount": 2582,
+    "realizedLemmasCount": 515,
+    "realizedExpressionsCount": 140,
+    "unrealizedLemmasCount": 8926,
+    "unrealizedExpressionsCount": 2552,
     "lessonsReconciled": 1257,
     "reconciliationRate": 1.0,
     "levels": [
@@ -51,16 +51,16 @@
       "expressions": 300,
       "productiveExpressions": 200,
       "receptiveExpressions": 100,
-      "realizedLemmas": 235,
-      "realizedExpressions": 63,
-      "sourceVerifiedLemmas": 30,
-      "linguisticallyReviewedLemmas": 205,
+      "realizedLemmas": 347,
+      "realizedExpressions": 93,
+      "sourceVerifiedLemmas": 52,
+      "linguisticallyReviewedLemmas": 295,
       "draftUnverifiedLemmas": 0,
-      "sourceVerifiedExpressions": 7,
-      "linguisticallyReviewedExpressions": 53,
+      "sourceVerifiedExpressions": 8,
+      "linguisticallyReviewedExpressions": 82,
       "draftUnverifiedExpressions": 3,
-      "unrealizedLemmas": 880,
-      "unrealizedExpressions": 237
+      "unrealizedLemmas": 768,
+      "unrealizedExpressions": 207
     },
     "A2": {
       "lemmas": 1459,
@@ -171,6 +171,12 @@
       "lessons": 29,
       "realizedLemmas": 117,
       "realizedExpressions": 33
+    },
+    "a1Batch2Units": {
+      "units": 5,
+      "lessons": 29,
+      "realizedLemmas": 112,
+      "realizedExpressions": 30
     }
   }
 }
