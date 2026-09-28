@@ -1,6 +1,6 @@
 {
   "manifestVersion": "1.1.0-batch1",
-  "generatedAt": "2026-09-28T00:44:55.223050+00:00",
+  "generatedAt": "2026-09-28T01:00:22.952540+00:00",
   "phase": "3C.1A",
   "summary": {
     "totalCoreLemmas": 9441,
@@ -53,11 +53,11 @@
       "receptiveExpressions": 100,
       "realizedLemmas": 235,
       "realizedExpressions": 63,
-      "sourceVerifiedLemmas": 31,
-      "linguisticallyReviewedLemmas": 204,
+      "sourceVerifiedLemmas": 30,
+      "linguisticallyReviewedLemmas": 205,
       "draftUnverifiedLemmas": 0,
-      "sourceVerifiedExpressions": 8,
-      "linguisticallyReviewedExpressions": 52,
+      "sourceVerifiedExpressions": 7,
+      "linguisticallyReviewedExpressions": 53,
       "draftUnverifiedExpressions": 3,
       "unrealizedLemmas": 880,
       "unrealizedExpressions": 237

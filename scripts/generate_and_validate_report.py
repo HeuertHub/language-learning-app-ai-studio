@@ -123,7 +123,7 @@ def generate_and_validate_report():
     b1_sv_ids = set([l['id'] for l in u21_25_lemmas if l['status'] == 'SOURCE_VERIFIED'] + [e['id'] for e in u21_25_exprs if e['status'] == 'SOURCE_VERIFIED'])
     expected_sv_ids = set([r['id'] for r in joined_sample_rows if r['status'] == 'SOURCE_VERIFIED'])
     
-    assert len(b1_sv_ids) == 24, f"Expected exactly 24 SOURCE_VERIFIED records in Batch 1, got {len(b1_sv_ids)}"
+    assert len(b1_sv_ids) == 22, f"Expected exactly 22 SOURCE_VERIFIED records in Batch 1, got {len(b1_sv_ids)}"
     assert b1_sv_ids == expected_sv_ids, "Batch 1 SOURCE_VERIFIED IDs do not strictly match confirmed sample IDs!"
     
     unsampled_lemmas = [l for l in u21_25_lemmas if l['id'] not in sample_id_set]
@@ -133,9 +133,9 @@ def generate_and_validate_report():
     assert all(e['status'] == 'LINGUISTICALLY_REVIEWED' for e in unsampled_exprs), "Unsampled Batch 1 expr has improper status!"
     
     b1_lr_count = sum(1 for l in u21_25_lemmas if l['status'] == 'LINGUISTICALLY_REVIEWED') + sum(1 for e in u21_25_exprs if e['status'] == 'LINGUISTICALLY_REVIEWED')
-    assert b1_lr_count == 126, f"Expected 126 LINGUISTICALLY_REVIEWED records in Batch 1, got {b1_lr_count}"
-    print(f"  ✓ Exactly 24 records are SOURCE_VERIFIED (21 lemmas + 2 expressions in Tsevel 1966; 1 lemma in 2020 State Law).")
-    print(f"  ✓ Exactly 126 records are LINGUISTICALLY_REVIEWED (110 unsampled + 16 sample records demoted upon audit).")
+    assert b1_lr_count == 128, f"Expected 128 LINGUISTICALLY_REVIEWED records in Batch 1, got {b1_lr_count}"
+    print(f"  ✓ Exactly 22 records are SOURCE_VERIFIED (20 lemmas + 1 expression in Tsevel 1966; 1 lemma in 2020 State Law).")
+    print(f"  ✓ Exactly 128 records are LINGUISTICALLY_REVIEWED (110 unsampled + 18 sample records demoted upon audit).")
 
     # Check 3: Unit Titles and Lesson Blueprint Alignment
     print("\n[Step 3: Verifying Unit Titles & Lesson Hierarchy for Units 21–25]")
@@ -217,13 +217,13 @@ def generate_and_validate_report():
     total_du = sum(1 for x in global_records if x['status'] == 'DRAFT_UNVERIFIED')
     total_un = sum(1 for x in global_records if x['status'] == 'UNREALIZED')
     
-    assert total_sv == 59, f"Expected 59 SOURCE_VERIFIED records, got {total_sv}"
-    assert total_lr == 440, f"Expected 440 LINGUISTICALLY_REVIEWED records, got {total_lr}"
+    assert total_sv == 57, f"Expected 57 SOURCE_VERIFIED records, got {total_sv}"
+    assert total_lr == 442, f"Expected 442 LINGUISTICALLY_REVIEWED records, got {total_lr}"
     assert total_du == 14, f"Expected 14 DRAFT_UNVERIFIED records, got {total_du}"
     assert total_un == 11620, f"Expected 11620 UNREALIZED records, got {total_un}"
 
-    report_lines.append(f"- **`SOURCE_VERIFIED`**: **{total_sv} records** (Pilot: 35 + Batch 1: 24; verified with authentic external physical/official locators in Tsevel 1966 and statutory law).")
-    report_lines.append(f"- **`LINGUISTICALLY_REVIEWED`**: **{total_lr} records** (Pilot: 314 + Batch 1: 126; internal linguistic review complete; pending page spot audit or demoted due to unverified external citations).")
+    report_lines.append(f"- **`SOURCE_VERIFIED`**: **{total_sv} records** (Pilot: 35 + Batch 1: 22; verified with authentic external physical/official locators in Tsevel 1966 and statutory law).")
+    report_lines.append(f"- **`LINGUISTICALLY_REVIEWED`**: **{total_lr} records** (Pilot: 314 + Batch 1: 128; internal linguistic review complete; pending page spot audit or demoted due to unverified external citations).")
     report_lines.append(f"- **`DRAFT_UNVERIFIED`**: **{total_du} records** (Pilot: 14 + Batch 1: 0; constructed pedagogical classroom routines).")
     report_lines.append(f"- **`UNREALIZED`**: **{total_un} slots** (Clean empty slots preserved with stable UUID-safe IDs).")
     report_lines.append("")
@@ -260,10 +260,10 @@ def generate_and_validate_report():
     report_lines.append("")
     report_lines.append("### Adversarial Sample Verification Metrics")
     report_lines.append("- Sample Size: **40 records** (25 Lemmas, 15 Expressions across Units 21–25).")
-    report_lines.append(f"- `CONFIRMED`: **{sample_classes['CONFIRMED']} / 40 (60.0%)** (21 Lemmas and 2 Expressions in Tsevel 1966; 1 Lemma in Law of Administrative Units 2020).")
+    report_lines.append(f"- `CONFIRMED`: **{sample_classes['CONFIRMED']} / 40 (55.0%)** (20 Lemmas and 1 Expression in Tsevel 1966; 1 Lemma in Law of Administrative Units 2020).")
     report_lines.append(f"- `PARTIALLY_CONFIRMED`: **{sample_classes.get('PARTIALLY_CONFIRMED', 0)} / 40 (0.0%)**")
     report_lines.append(f"- `CONTRADICTED`: **{sample_classes['CONTRADICTED']} / 40 (5.0%)** (`хотын төв` [MNS 5012:2011] and `аваарын гарц` [MNS 5283:2014]; MNS 5012:2011 concerns public passenger transport services and MNS 5283:2014 concerns street, road, and immovable property address signage, neither of which establishes general lexical collocation usage).")
-    report_lines.append(f"- `SOURCE_NOT_LOCATED`: **{sample_classes['SOURCE_NOT_LOCATED']} / 40 (35.0%)** (7 MNC expressions citing non-retrievable spoken subcorpus IDs + 7 Luvsanvandan records with source-identity conflation between Luvsanvandan 1968 [191 pp.] and 1966 multi-author grammar [344 pp.] where physical inspection is unavailable).")
+    report_lines.append(f"- `SOURCE_NOT_LOCATED`: **{sample_classes['SOURCE_NOT_LOCATED']} / 40 (40.0%)** (7 MNC expressions citing non-retrievable spoken subcorpus IDs + 7 Luvsanvandan records with source-identity conflation + 1 lemma 'баяртай' lacking independent headword + 1 expression 'албан ёсны айлчлал' not attested as exact collocation subentry in Tsevel 1966).")
     report_lines.append(f"- **Initial Programmatic Claim False-Positive Rate**: **{initial_fp_rate:.1f}%** ({unconfirmed_sample_count} of 40 sample records claimed SOURCE_VERIFIED without retrievable external evidence).")
     report_lines.append(f"- **Remediation Action**: All {unconfirmed_sample_count} unconfirmed claims were demoted from `SOURCE_VERIFIED` to `LINGUISTICALLY_REVIEWED` with full provenance disclosure.")
     report_lines.append(f"- **Post-Remediation Active False-Positive Rate**: **0.0%** (all {sample_classes['CONFIRMED']} active `SOURCE_VERIFIED` records hold independently confirmed locators).")

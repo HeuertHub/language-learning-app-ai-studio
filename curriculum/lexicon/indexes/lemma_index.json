@@ -11905,7 +11905,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "сувилагч",
-      "sourceLocator": "Tsevel (1966), p. 496, col. 2, headword 'сувилагч' (өвчтөнийг асарч сувилах хүн)",
+      "sourceLocator": "Tsevel (1966), p. 496, col. 2, headword 'сувилагч' (өвчтөнийг арчлан сувилах; online entry http://toli.query.mn/dictionary_items/26123)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -11989,7 +11989,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "дарга",
-      "sourceLocator": "Tsevel (1966), p. 177, col. 1, headword 'дарга' (албан байгууллага, хамт олныг удирдах хүн)",
+      "sourceLocator": "Tsevel (1966), p. 177, col. 1, headword 'дарга i' (тэргүүлэх, удирдах хүн; online entry http://toli.query.mn/dictionary_items/12878)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -12367,7 +12367,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "буруу",
-      "sourceLocator": "Tsevel (1966), p. 115, col. 2, headword 'буруу' (зөв биш, ташаа)",
+      "sourceLocator": "Tsevel (1966), p. 115, col. 2, headword 'буруу' (зөв биш, ташаа; online entry http://toli.query.mn/dictionary_items/6643)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -12703,7 +12703,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "цүнх",
-      "sourceLocator": "Tsevel (1966), p. 810, col. 1, headword 'цүнх' (юм агуулах сав)",
+      "sourceLocator": "Tsevel (1966), p. 810, col. 1, headword 'цүнх' (юм хум агуулах бяцхан сав; online entry http://toli.query.mn/dictionary_items/26593)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -12865,23 +12865,23 @@
       "irregularity": "regular"
     },
     "senseIndex": 1,
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "STANDARD_DICTIONARY",
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "баяртай",
-      "sourceLocator": "Tsevel (1966), p. 89, col. 2, entry 'баяртай' (салах ёслолын үг)",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Tsevel (1966), p. 177, col. 2 (attested in example under 'дараа': 'дараа баяртай!')",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
-        "lexicalExistence": "VERIFIED",
-        "englishGloss": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
         "partOfSpeech": "VERIFIED",
         "register": "VERIFIED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Parting formula headword attested in Tsevel p. 89.",
+      "sourceNotes": "Parting interjection formula attested as conversational token in example sentence under 'дараа' (p. 177) but not as an independent headword in Tsevel (1966). Demoted to LINGUISTICALLY_REVIEWED per Phase 3C.1A-R4 gate.",
       "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }
@@ -12913,7 +12913,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "дараа",
-      "sourceLocator": "Tsevel (1966), p. 177, col. 2, headword 'дараа' (удаахь, хойч үе)",
+      "sourceLocator": "Tsevel (1966), p. 177, col. 2, headword 'дараа i' (хожим сүүлд; online entry http://toli.query.mn/dictionary_items/10096)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -12955,7 +12955,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "амрах",
-      "sourceLocator": "Tsevel (1966), p. 43, col. 1, headword 'амрах' (алжаал тайлах)",
+      "sourceLocator": "Tsevel (1966), p. 43, col. 1, headword 'амрах' (биеийн хүчийг сэргээх; online entry http://toli.query.mn/dictionary_items/2453)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -13164,7 +13164,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "баярлах",
-      "sourceLocator": "Tsevel (1966), p. 89, col. 1, headword 'баярлах' (баяр болох, талархах)",
+      "sourceLocator": "Tsevel (1966), p. 89, col. 1, headword 'баярлах' (баяр төрөх баясах; online entry http://toli.query.mn/dictionary_items/4743)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -13205,7 +13205,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "их",
-      "sourceLocator": "Tsevel (1966), p. 278, col. 2, headword 'их' (үлэмж, олон, асар)",
+      "sourceLocator": "Tsevel (1966), p. 278, col. 2, headword 'их' (хэмжээгээр үлэмж; online entry http://toli.query.mn/dictionary_items/22100)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -13704,7 +13704,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "зочин",
-      "sourceLocator": "Tsevel (1966), p. 248, col. 1, headword 'зочин' (айлчилж ирсэн хүн)",
+      "sourceLocator": "Tsevel (1966), p. 248, col. 1, headword 'зочин' (гаднаас ирсэн хүн; online entry http://toli.query.mn/dictionary_items/17421)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -13746,7 +13746,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "морилох",
-      "sourceLocator": "Tsevel (1966), p. 357, col. 2, headword 'морилох' (хүндэтгэлээр ирэх, одох)",
+      "sourceLocator": "Tsevel (1966), p. 357, col. 2, headword 'морилох' (явахын хүндэтгэл; online entry http://toli.query.mn/dictionary_items/5874)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -14124,7 +14124,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Монгол Улсын засаг захиргаа, нутаг дэвсгэрийн нэгж, түүний удирдлагын тухай хууль (2020).",
       "searchedHeadword": "сум",
-      "sourceLocator": "Монгол Улсын засаг захиргаа, нутаг дэвсгэрийн нэгж, түүний удирдлагын тухай хууль (2020), 4 дүгээр зүйл ('Сум')",
+      "sourceLocator": "Монгол Улсын засаг захиргаа, нутаг дэвсгэрийн нэгж, түүний удирдлагын тухай хууль (2020), 7 дугаар зүйл ('Сум'); see also Tsevel (1966), p. 497, col. 2 (http://toli.query.mn/dictionary_items/26136)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -14134,7 +14134,7 @@
         "register": "VERIFIED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Statutory territorial administrative division verified under Law on Administrative Units Art. 4.",
+      "sourceNotes": "Statutory territorial administrative division verified under Law on Administrative Units Art. 7 ('Сум') defining soum as basic administrative unit; headword also attested in Tsevel (1966) p. 497 (item 26136).",
       "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }
@@ -14544,7 +14544,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "хэл",
-      "sourceLocator": "Tsevel (1966), p. 776, col. 1, headword 'хэл' (хүний харилцах хэрэглүүр)",
+      "sourceLocator": "Tsevel (1966), p. 776, col. 1, headword 'хэл ii' (харилцааны хэрэглүүр; online entry http://toli.query.mn/dictionary_items/20729)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -14586,7 +14586,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "ярих",
-      "sourceLocator": "Tsevel (1966), p. 898, col. 2, headword 'ярих' (үг хэлэх, хөөрөлдөх)",
+      "sourceLocator": "Tsevel (1966), p. 898, col. 2, headword 'ярих' (хүний хоорондоо хэлэлцэх; online entry http://toli.query.mn/dictionary_items/1866)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -14879,7 +14879,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "ор",
-      "sourceLocator": "Tsevel (1966), p. 417, col. 1, headword 'ор I' (унтаж амрах тавилга)",
+      "sourceLocator": "Tsevel (1966), p. 417, col. 1, headword 'ор, орон i' (хэвтэж унтах хогшил; online entry http://toli.query.mn/dictionary_items/12340)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -15002,7 +15002,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "тооно",
-      "sourceLocator": "Tsevel (1966), p. 538, col. 1, headword 'тооно' (гэрийн оройн цагариг мод)",
+      "sourceLocator": "Tsevel (1966), p. 538, col. 1, headword 'тооно i' (гэрийн цагариг мод; online entry http://toli.query.mn/dictionary_items/15827)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -15166,7 +15166,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "байхгүй",
-      "sourceLocator": "Tsevel (1966), p. 74, col. 2, headword 'байхгүй' (үгүй, алга)",
+      "sourceLocator": "Tsevel (1966), p. 74, col. 2, headword 'байхгүй' (үгүй, эзгүй, алга; online entry http://toli.query.mn/dictionary_items/31418)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -15207,7 +15207,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "алга",
-      "sourceLocator": "Tsevel (1966), p. 37, col. 1, entry 'алга II' (байхгүй, үгүй)",
+      "sourceLocator": "Tsevel (1966), p. 37, col. 1, headword 'алга ii' (үгүй, үгүй болох; online entry http://toli.query.mn/dictionary_items/599)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -15658,7 +15658,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "эсгий",
-      "sourceLocator": "Tsevel (1966), p. 876, col. 2, headword 'эсгий' (хонины ноосоор хийсэн эд)",
+      "sourceLocator": "Tsevel (1966), p. 876, col. 2, headword 'эсгий' (малын үс ноосоор хийсэн эд; online entry http://toli.query.mn/dictionary_items/3084)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -15986,7 +15986,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "байшин",
-      "sourceLocator": "Tsevel (1966), p. 74, col. 2, headword 'байшин' (сууцны барилга)",
+      "sourceLocator": "Tsevel (1966), p. 74, col. 2, headword 'байшин' (хүн суух барилга; online entry http://toli.query.mn/dictionary_items/31434)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -16109,7 +16109,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "гудамж",
-      "sourceLocator": "Tsevel (1966), p. 154, col. 2, headword 'гудамж' (хот суурины зам чөлөө)",
+      "sourceLocator": "Tsevel (1966), p. 154, col. 2, headword 'гудамж' (эгнэсэн хашаа байшингийн завсрын чөлөө; online entry http://toli.query.mn/dictionary_items/10155)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -16396,7 +16396,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "давхар",
-      "sourceLocator": "Tsevel (1966), p. 169, col. 1, headword 'давхар' (байшингийн үе)",
+      "sourceLocator": "Tsevel (1966), p. 169, col. 1, headword 'давхар' (давхар байшин, дан биш; online entry http://toli.query.mn/dictionary_items/11026)",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",

@@ -3937,24 +3937,24 @@
       "lex_mn_lemma_00113"
     ],
     "usageNotes": "Civic and diplomatic narrative collocation denoting structured state reception.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "STANDARD_DICTIONARY",
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "албан ёсны айлчлал",
-      "sourceLocator": "Tsevel (1966), p. 32, col. 2 (under 'айлчлал: албан ёсны айлчлал')",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Tsevel (1966), p. 32 (under 'айлчлал') & p. 31 (under 'алба(н)') - collocation not attested as subentry",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
-        "lexicalExistence": "VERIFIED",
-        "englishGloss": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
         "partOfSpeech": "VERIFIED",
         "register": "VERIFIED",
-        "expressionNaturalness": "VERIFIED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Diplomatic reception collocation cited under subentry in Tsevel p. 32.",
+      "sourceNotes": "Multiword collocation reconstructible from constituents 'алба(н)' and 'айлчлал', but exact multiword phrase 'албан ёсны айлчлал' is not attested as a subentry in Tsevel (1966). Demoted to LINGUISTICALLY_REVIEWED per Phase 3C.1A-R4 rule 6.",
       "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }
@@ -4182,7 +4182,7 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо.",
       "searchedHeadword": "монгол гэр",
-      "sourceLocator": "Tsevel (1966), p. 151, col. 2 (under 'гэр: монгол гэр - эсгий бүрээстэй сууц')",
+      "sourceLocator": "Tsevel (1966), p. 151, col. 2 (subentry under 'гэр': 'монгол гэр'); online entry http://toli.query.mn/dictionary_items/14421",
       "verificationResult": "VERIFIED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
@@ -4193,7 +4193,7 @@
         "expressionNaturalness": "VERIFIED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Cultural architectural collocation attested in Tsevel p. 151.",
+      "sourceNotes": "Cultural architectural collocation verified as explicit subentry under 'гэр' in Tsevel (1966) p. 151; online entry 14421.",
       "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }
