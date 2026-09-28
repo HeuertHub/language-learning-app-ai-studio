@@ -220,9 +220,9 @@ def run_adversarial_audit():
     b1_classes = Counter(r['classification'] for r in b1_sample_records)
     print(f"Spot Audit Classification Distribution:")
     print(f"  • CONFIRMED:            {b1_classes.get('CONFIRMED', 0):2d} / 40 ({(b1_classes.get('CONFIRMED', 0)/40)*100:.1f}%)")
-    print(f"  • PARTIALLY_CONFIRMED:  {b1_classes.get('PARTIALLY_CONFIRMED', 0):2d} / 40 (0.0%)")
-    print(f"  • CONTRADICTED:         {b1_classes.get('CONTRADICTED', 0):2d} / 40 (0.0%)")
-    print(f"  • SOURCE_NOT_LOCATED:   {b1_classes.get('SOURCE_NOT_LOCATED', 0):2d} / 40 (0.0%)")
+    print(f"  • PARTIALLY_CONFIRMED:  {b1_classes.get('PARTIALLY_CONFIRMED', 0):2d} / 40 ({(b1_classes.get('PARTIALLY_CONFIRMED', 0)/40)*100:.1f}%)")
+    print(f"  • CONTRADICTED:         {b1_classes.get('CONTRADICTED', 0):2d} / 40 ({(b1_classes.get('CONTRADICTED', 0)/40)*100:.1f}%)")
+    print(f"  • SOURCE_NOT_LOCATED:   {b1_classes.get('SOURCE_NOT_LOCATED', 0):2d} / 40 ({(b1_classes.get('SOURCE_NOT_LOCATED', 0)/40)*100:.1f}%)")
 
     # Source breakdown
     b1_sources = Counter(r['actualSourceConsulted'] for r in b1_sample_records)
@@ -232,17 +232,21 @@ def run_adversarial_audit():
         print(f"  • {src_name:40s}: {cnt:2d} records")
 
     # False-positive rate evaluation
-    # Did any record in Batch 1 claim SOURCE_VERIFIED without an exact verified locator?
+    unconfirmed_initial = [r for r in b1_sample_records if r.get('classification') in ['SOURCE_NOT_LOCATED', 'CONTRADICTED']]
+    initial_fp_rate = (len(unconfirmed_initial) / len(b1_sample_records)) * 100
+    
     b1_sv = [r for r in b1_sample_records if r.get('status') == 'SOURCE_VERIFIED']
-    b1_unverified_claims = [r for r in b1_sv if not r.get('exactLocator')]
-    b1_fp_rate = (len(b1_unverified_claims) / len(b1_sv)) * 100 if b1_sv else 0
+    b1_unverified_claims = [r for r in b1_sv if r.get('classification') != 'CONFIRMED']
+    active_fp_rate = (len(b1_unverified_claims) / len(b1_sv)) * 100 if b1_sv else 0
 
-    print(f"\nAdversarial False-Positive Rate on Batch 1:")
-    print(f"  • Sample Records Claiming SOURCE_VERIFIED:      {len(b1_sv):2d} / 40")
-    print(f"  • Genuine Stored Retrievable Locators Present:   {len(b1_sv) - len(b1_unverified_claims):2d} / {len(b1_sv)}")
-    print(f"  • Programmatic Default / Generic Citations:      {len(b1_unverified_claims):2d} / {len(b1_sv)}")
-    print(f"  • FALSE-POSITIVE RATE OF BATCH 1 SOURCE CLAIMS:  {b1_fp_rate:.1f}%")
-    assert b1_fp_rate == 0.0, "Batch 1 false-positive rate must be 0.0%!"
+    print(f"\nAdversarial Spot Audit Metrics on Batch 1:")
+    print(f"  • Initial Sample Size:                           {len(b1_sample_records):2d} records")
+    print(f"  • Unconfirmed / Contradicted Initial Claims:     {len(unconfirmed_initial):2d} / {len(b1_sample_records)} ({initial_fp_rate:.1f}%)")
+    print(f"  • Demoted to LINGUISTICALLY_REVIEWED:            {len(unconfirmed_initial):2d} records")
+    print(f"  • Active Post-Remediation SOURCE_VERIFIED:       {len(b1_sv):2d} records")
+    print(f"  • Active Unverified Claims:                      {len(b1_unverified_claims):2d} / {len(b1_sv)}")
+    print(f"  • ACTIVE FALSE-POSITIVE RATE OF SOURCE CLAIMS:   {active_fp_rate:.1f}%")
+    assert active_fp_rate == 0.0, "Active Batch 1 false-positive rate must be 0.0%!"
 
     # -------------------------------------------------------------------------
     # Module 7: Certification Scorecard & Final Audit Parity

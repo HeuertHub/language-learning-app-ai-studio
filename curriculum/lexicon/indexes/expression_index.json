@@ -3116,24 +3116,24 @@
       "lex_mn_lemma_00258"
     ],
     "usageNotes": "Conversational particle routine firmly denying identity assertion.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "CONTEMPORARY_CORPUS",
       "sourceName": "Authoritative Reference",
       "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
       "searchedHeadword": "биш ээ",
-      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-DIS-0018 (frequency: 2,140 hits)",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-DIS-0018 (Unverified: MNC published corpus does not include spoken subcorpus; locator not retrievable)",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
-        "lexicalExistence": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
         "englishGloss": "VERIFIED",
         "partOfSpeech": "VERIFIED",
-        "register": "VERIFIED",
-        "expressionNaturalness": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Conversational negative particle routine attested in MNC spoken subcorpus.",
+      "sourceNotes": "Claimed MNC spoken subcorpus locator not externally retrievable. MNC published corpus does not contain spoken subcorpus. Demoted to LINGUISTICALLY_REVIEWED based on internal linguistic review.",
       "verificationMethod": "CORPUS_ATTESTATION",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }
@@ -3156,24 +3156,24 @@
       "lex_mn_lemma_00256"
     ],
     "usageNotes": "Polite formulaic response preceding correction of identity or facts.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "CONTEMPORARY_CORPUS",
       "sourceName": "Authoritative Reference",
       "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
       "searchedHeadword": "үгүй ээ",
-      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-DIS-0014 (frequency: 14,800 hits)",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-DIS-0014 (Unverified: MNC published corpus does not include spoken subcorpus; locator not retrievable)",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
-        "lexicalExistence": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
         "englishGloss": "VERIFIED",
         "partOfSpeech": "VERIFIED",
-        "register": "VERIFIED",
-        "expressionNaturalness": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "High-frequency spoken polite denial routine in conversational corpus.",
+      "sourceNotes": "Claimed MNC spoken subcorpus locator not externally retrievable. Demoted to LINGUISTICALLY_REVIEWED.",
       "verificationMethod": "CORPUS_ATTESTATION",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }
@@ -3362,24 +3362,24 @@
       "lex_mn_lemma_00136"
     ],
     "usageNotes": "Future-volitive departure formula promising future meeting.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "CONTEMPORARY_CORPUS",
       "sourceName": "Authoritative Reference",
       "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
       "searchedHeadword": "дараа уулзъя",
-      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-FWL-0004 (frequency: 4,320 hits)",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-FWL-0004 (Unverified: MNC published corpus does not include spoken subcorpus; locator not retrievable)",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
-        "lexicalExistence": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
         "englishGloss": "VERIFIED",
         "partOfSpeech": "VERIFIED",
-        "register": "VERIFIED",
-        "expressionNaturalness": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Standard future-volitive parting formula attested across spoken registers.",
+      "sourceNotes": "Claimed MNC spoken subcorpus locator not externally retrievable. Demoted to LINGUISTICALLY_REVIEWED.",
       "verificationMethod": "CORPUS_ATTESTATION",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }
@@ -3403,24 +3403,24 @@
       "lex_mn_lemma_00312"
     ],
     "usageNotes": "Prescriptive evening and weekend benediction upon departure.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "CONTEMPORARY_CORPUS",
       "sourceName": "Authoritative Reference",
       "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
       "searchedHeadword": "сайхан амраарай",
-      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-FWL-0012 (frequency: 3,890 hits)",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-FWL-0012 (Unverified: MNC published corpus does not include spoken subcorpus; locator not retrievable)",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
-        "lexicalExistence": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
         "englishGloss": "VERIFIED",
         "partOfSpeech": "VERIFIED",
-        "register": "VERIFIED",
-        "expressionNaturalness": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Prescriptive evening benediction formula attested in conversational corpus.",
+      "sourceNotes": "Claimed MNC spoken subcorpus locator not externally retrievable. Demoted to LINGUISTICALLY_REVIEWED.",
       "verificationMethod": "CORPUS_ATTESTATION",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }
@@ -3444,24 +3444,24 @@
       "lex_mn_lemma_00317"
     ],
     "usageNotes": "High-gratitude social routine expressing deep appreciation to hosts and seniors.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "CONTEMPORARY_CORPUS",
       "sourceName": "Authoritative Reference",
       "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
       "searchedHeadword": "маш их баярлалаа",
-      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-THX-0002 (frequency: 8,650 hits)",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-THX-0002 (Unverified: MNC published corpus does not include spoken subcorpus; locator not retrievable)",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
-        "lexicalExistence": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
         "englishGloss": "VERIFIED",
         "partOfSpeech": "VERIFIED",
-        "register": "VERIFIED",
-        "expressionNaturalness": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Intensified social gratitude formula attested across spoken dialogues.",
+      "sourceNotes": "Claimed MNC spoken subcorpus locator not externally retrievable. Demoted to LINGUISTICALLY_REVIEWED.",
       "verificationMethod": "CORPUS_ATTESTATION",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }
@@ -3610,24 +3610,24 @@
       "lex_mn_lemma_00241"
     ],
     "usageNotes": "Traditional high-politeness welcome formula spoken at household or official threshold.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "CONTEMPORARY_CORPUS",
       "sourceName": "Authoritative Reference",
       "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
       "searchedHeadword": "тавтай морилно уу",
-      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-WLC-0001 (frequency: 2,750 hits)",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-WLC-0001 (Unverified: MNC published corpus does not include spoken subcorpus; locator not retrievable)",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
-        "lexicalExistence": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
         "englishGloss": "VERIFIED",
         "partOfSpeech": "VERIFIED",
-        "register": "VERIFIED",
-        "expressionNaturalness": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "High-politeness threshold welcome formula in spoken and broadcast media.",
+      "sourceNotes": "Claimed MNC spoken subcorpus locator not externally retrievable. Demoted to LINGUISTICALLY_REVIEWED.",
       "verificationMethod": "CORPUS_ATTESTATION",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }
@@ -4057,24 +4057,24 @@
       "lex_mn_lemma_00366"
     ],
     "usageNotes": "Immediate deictic negative statement noting local absence.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "CONTEMPORARY_CORPUS",
       "sourceName": "Authoritative Reference",
       "sourceReference": "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн.",
       "searchedHeadword": "энд алга",
-      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-NEG-0005 (frequency: 3,110 hits)",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "MNC (2021), Spoken Subcorpus ID: MNC-SPK-NEG-0005 (Unverified: MNC published corpus does not include spoken subcorpus; locator not retrievable)",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
-        "lexicalExistence": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
         "englishGloss": "VERIFIED",
         "partOfSpeech": "VERIFIED",
-        "register": "VERIFIED",
-        "expressionNaturalness": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Immediate spoken negative existential collocation in conversational subcorpus.",
+      "sourceNotes": "Claimed MNC spoken subcorpus locator not externally retrievable. Demoted to LINGUISTICALLY_REVIEWED.",
       "verificationMethod": "CORPUS_ATTESTATION",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }
@@ -4296,24 +4296,24 @@
       "lex_mn_lemma_00391"
     ],
     "usageNotes": "Municipal geographic collocation designating downtown hub.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "EDUCATIONAL_STANDARDS",
       "sourceName": "Authoritative Reference",
       "sourceReference": "Стандартчилал хэмжил зүйн газар (MNS 5283:2014, MNS 5012:2011).",
       "searchedHeadword": "хотын төв",
-      "sourceLocator": "MNS 5012:2011, 4.1 ('Хотын төв болон замын чиглэлийн тэмдэглэгээ')",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "MNS 5012:2011, 4.1 (Contradicted: standard covers public transport terminology; does not contain quoted signage statement)",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
-        "lexicalExistence": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
         "englishGloss": "VERIFIED",
         "partOfSpeech": "VERIFIED",
-        "register": "VERIFIED",
-        "expressionNaturalness": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Municipal transport and signage standard term for city center.",
+      "sourceNotes": "Cited MNS 5012:2011 §4.1 is contradicted upon external inspection (defines public transport terminology, not city center signage). Demoted to LINGUISTICALLY_REVIEWED.",
       "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }
@@ -4375,24 +4375,24 @@
       "lex_mn_lemma_00148"
     ],
     "usageNotes": "Statutory public safety sign indicating escape route.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "EDUCATIONAL_STANDARDS",
       "sourceName": "Authoritative Reference",
       "sourceReference": "Стандартчилал хэмжил зүйн газар (MNS 5283:2014, MNS 5012:2011).",
       "searchedHeadword": "аваарын гарц",
-      "sourceLocator": "MNS 5283:2014, заалт 5.4.2 ('Аюулгүй байдлын тэмдэг: Аваарын гарц')",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "MNS 5283:2014, заалт 5.4.2 (Contradicted: standard covers street/road address signage, not emergency exit safety signs)",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
-        "lexicalExistence": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
         "englishGloss": "VERIFIED",
         "partOfSpeech": "VERIFIED",
-        "register": "VERIFIED",
-        "expressionNaturalness": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "National statutory building directory and emergency safety signage term.",
+      "sourceNotes": "Cited MNS 5283:2014 clause 5.4.2 is contradicted upon external inspection (standard scope is real property address signage). Demoted to LINGUISTICALLY_REVIEWED.",
       "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }

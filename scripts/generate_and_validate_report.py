@@ -15,6 +15,7 @@ import json
 import os
 import sys
 import re
+from collections import Counter
 from datetime import datetime, timezone
 
 def generate_and_validate_report():
@@ -62,12 +63,10 @@ def generate_and_validate_report():
         assert sl['lemma'] == cl['lemma'], f"Lemma text mismatch on {lid}: {sl['lemma']} != {cl['lemma']}"
         assert sl['lessonId'] == cl['firstIntroducedLessonId'], f"Lesson ID mismatch on {lid}: {sl['lessonId']} != {cl['firstIntroducedLessonId']}"
         assert sl['status'] == cl['status'], f"Status mismatch on {lid}: {sl['status']} != {cl['status']}"
-        assert cl['status'] == 'SOURCE_VERIFIED', f"Status on {lid} must be SOURCE_VERIFIED, got {cl['status']}"
         assert sl['pos'] == cl['pos'], f"POS mismatch on {lid}: {sl['pos']} != {cl['pos']}"
         
         c_loc = cl.get('provenance', {}).get('sourceLocator', '')
         assert sl['exactLocator'] == c_loc, f"Locator mismatch on {lid}: {sl['exactLocator']} != {c_loc}"
-        assert sl['classification'] == 'CONFIRMED', f"Classification on {lid} must be CONFIRMED"
         
         joined_sample_rows.append({
             "id": lid,
@@ -93,12 +92,10 @@ def generate_and_validate_report():
         assert se['expression'] == ce['expression'], f"Expression text mismatch on {eid}: {se['expression']} != {ce['expression']}"
         assert se['lessonId'] == ce['firstIntroducedLessonId'], f"Lesson ID mismatch on {eid}: {se['lessonId']} != {ce['firstIntroducedLessonId']}"
         assert se['status'] == ce['status'], f"Status mismatch on {eid}: {se['status']} != {ce['status']}"
-        assert ce['status'] == 'SOURCE_VERIFIED', f"Status on {eid} must be SOURCE_VERIFIED, got {ce['status']}"
         assert se['type'] == ce['expressionType'], f"Type mismatch on {eid}: {se['type']} != {ce['expressionType']}"
         
         c_loc = ce.get('provenance', {}).get('sourceLocator', '')
         assert se['exactLocator'] == c_loc, f"Locator mismatch on {eid}: {se['exactLocator']} != {c_loc}"
-        assert se['classification'] == 'CONFIRMED', f"Classification on {eid} must be CONFIRMED"
         
         joined_sample_rows.append({
             "id": eid,
@@ -124,17 +121,21 @@ def generate_and_validate_report():
     
     sample_id_set = set(r['id'] for r in joined_sample_rows)
     b1_sv_ids = set([l['id'] for l in u21_25_lemmas if l['status'] == 'SOURCE_VERIFIED'] + [e['id'] for e in u21_25_exprs if e['status'] == 'SOURCE_VERIFIED'])
+    expected_sv_ids = set([r['id'] for r in joined_sample_rows if r['status'] == 'SOURCE_VERIFIED'])
     
-    assert len(b1_sv_ids) == 40, f"Expected exactly 40 SOURCE_VERIFIED records in Batch 1, got {len(b1_sv_ids)}"
-    assert b1_sv_ids == sample_id_set, "Batch 1 SOURCE_VERIFIED IDs do not strictly match sample IDs!"
+    assert len(b1_sv_ids) == 31, f"Expected exactly 31 SOURCE_VERIFIED records in Batch 1, got {len(b1_sv_ids)}"
+    assert b1_sv_ids == expected_sv_ids, "Batch 1 SOURCE_VERIFIED IDs do not strictly match confirmed sample IDs!"
     
     unsampled_lemmas = [l for l in u21_25_lemmas if l['id'] not in sample_id_set]
     unsampled_exprs = [e for e in u21_25_exprs if e['id'] not in sample_id_set]
     
     assert all(l['status'] == 'LINGUISTICALLY_REVIEWED' for l in unsampled_lemmas), "Unsampled Batch 1 lemma has improper status!"
     assert all(e['status'] == 'LINGUISTICALLY_REVIEWED' for e in unsampled_exprs), "Unsampled Batch 1 expr has improper status!"
-    print(f"  ✓ Exactly 40 records are SOURCE_VERIFIED (strictly equal to the 40 sample IDs).")
-    print(f"  ✓ Exactly 110 unsampled records remain LINGUISTICALLY_REVIEWED.")
+    
+    b1_lr_count = sum(1 for l in u21_25_lemmas if l['status'] == 'LINGUISTICALLY_REVIEWED') + sum(1 for e in u21_25_exprs if e['status'] == 'LINGUISTICALLY_REVIEWED')
+    assert b1_lr_count == 119, f"Expected 119 LINGUISTICALLY_REVIEWED records in Batch 1, got {b1_lr_count}"
+    print(f"  ✓ Exactly 31 records are SOURCE_VERIFIED (25 lemmas + 6 expressions with confirmed external citations).")
+    print(f"  ✓ Exactly 119 records are LINGUISTICALLY_REVIEWED (110 unsampled + 9 sample expressions demoted upon audit).")
 
     # Check 3: Unit Titles and Lesson Blueprint Alignment
     print("\n[Step 3: Verifying Unit Titles & Lesson Hierarchy for Units 21–25]")
@@ -212,17 +213,18 @@ def generate_and_validate_report():
     global_records = list(global_lemmas.values()) + list(global_exprs.values())
 
     total_sv = sum(1 for x in global_records if x['status'] == 'SOURCE_VERIFIED')
+    total_sv = sum(1 for x in global_records if x['status'] == 'SOURCE_VERIFIED')
     total_lr = sum(1 for x in global_records if x['status'] == 'LINGUISTICALLY_REVIEWED')
     total_du = sum(1 for x in global_records if x['status'] == 'DRAFT_UNVERIFIED')
     total_un = sum(1 for x in global_records if x['status'] == 'UNREALIZED')
     
-    assert total_sv == 75, f"Expected 75 SOURCE_VERIFIED records, got {total_sv}"
-    assert total_lr == 424, f"Expected 424 LINGUISTICALLY_REVIEWED records, got {total_lr}"
+    assert total_sv == 66, f"Expected 66 SOURCE_VERIFIED records, got {total_sv}"
+    assert total_lr == 433, f"Expected 433 LINGUISTICALLY_REVIEWED records, got {total_lr}"
     assert total_du == 14, f"Expected 14 DRAFT_UNVERIFIED records, got {total_du}"
     assert total_un == 11620, f"Expected 11620 UNREALIZED records, got {total_un}"
 
-    report_lines.append(f"- **`SOURCE_VERIFIED`**: **{total_sv} records** (Pilot: 35 + Batch 1: 40; verified with stored physical/retrievable locators).")
-    report_lines.append(f"- **`LINGUISTICALLY_REVIEWED`**: **{total_lr} records** (Pilot: 314 + Batch 1: 110; internal linguistic review complete; pending page spot audit).")
+    report_lines.append(f"- **`SOURCE_VERIFIED`**: **{total_sv} records** (Pilot: 35 + Batch 1: 31; verified with authentic external physical/official locators).")
+    report_lines.append(f"- **`LINGUISTICALLY_REVIEWED`**: **{total_lr} records** (Pilot: 314 + Batch 1: 119; internal linguistic review complete; pending page spot audit or demoted due to unverified external citations).")
     report_lines.append(f"- **`DRAFT_UNVERIFIED`**: **{total_du} records** (Pilot: 14 + Batch 1: 0; constructed pedagogical classroom routines).")
     report_lines.append(f"- **`UNREALIZED`**: **{total_un} slots** (Clean empty slots preserved with stable UUID-safe IDs).")
     report_lines.append("")
@@ -253,14 +255,17 @@ def generate_and_validate_report():
             f"| `{row['id']}` | **{row['form']}** | {row['type']} | {row['pos_or_type']} | {row['gloss']} | `{row['lessonId']}` | `{row['status']}` | {row['exactLocator']} | **{row['classification']}** |"
         )
         
+    sample_classes = Counter(r['classification'] for r in joined_sample_rows)
     report_lines.append("")
     report_lines.append("### Adversarial Sample Verification Metrics")
     report_lines.append("- Sample Size: **40 records** (25 Lemmas, 15 Expressions across Units 21–25).")
-    report_lines.append("- `CONFIRMED`: **40 / 40 (100.0%)**")
-    report_lines.append("- `PARTIALLY_CONFIRMED`: **0 / 40 (0.0%)**")
-    report_lines.append("- `CONTRADICTED`: **0 / 40 (0.0%)**")
-    report_lines.append("- `SOURCE_NOT_LOCATED`: **0 / 40 (0.0%)**")
-    report_lines.append("- **False-Positive Rate of Batch 1 Source Claims**: **0.0%** (all 40 claiming `SOURCE_VERIFIED` possess confirmed physical locators; zero generic fallbacks).")
+    report_lines.append(f"- `CONFIRMED`: **{sample_classes['CONFIRMED']} / 40 (77.5%)** (25 Lemmas, 6 Expressions with verified dictionary, grammar, or law citations).")
+    report_lines.append(f"- `PARTIALLY_CONFIRMED`: **{sample_classes.get('PARTIALLY_CONFIRMED', 0)} / 40 (0.0%)**")
+    report_lines.append(f"- `CONTRADICTED`: **{sample_classes['CONTRADICTED']} / 40 (5.0%)** (`хотын төв` [MNS 5012:2011] and `аваарын гарц` [MNS 5283:2014]; national standards govern transport routes/structural steel, not general lexical collocations).")
+    report_lines.append(f"- `SOURCE_NOT_LOCATED`: **{sample_classes['SOURCE_NOT_LOCATED']} / 40 (17.5%)** (Claimed MNC spoken subcorpus IDs unretrievable; MNC published corpus lacks a spoken subcorpus).")
+    report_lines.append(f"- **Initial Programmatic Claim False-Positive Rate**: **22.5%** (9 of 40 sample records claimed SOURCE_VERIFIED without retrievable external evidence).")
+    report_lines.append("- **Remediation Action**: All 9 unconfirmed claims were demoted from `SOURCE_VERIFIED` to `LINGUISTICALLY_REVIEWED` with full provenance disclosure.")
+    report_lines.append("- **Post-Remediation Active False-Positive Rate**: **0.0%** (all 31 active `SOURCE_VERIFIED` records hold independently confirmed locators).")
     report_lines.append("")
     report_lines.append("---")
     report_lines.append("")
@@ -336,6 +341,39 @@ def generate_and_validate_report():
     for st in stale_themes:
         assert st not in full_report_text.lower(), f"Found stale curriculum theme '{st}' in report text!"
         
+    # 5d. Deterministic comparison ensuring report inventory exactly matches generated lesson lookup
+    print("  • Verifying that report inventory exactly matches lesson_lexicon_lookup.json...")
+    lesson_header_pattern = re.compile(
+        r'#### `(les_[^`]+)`:[^\n]*\n'
+        r'- \*\*Productive Lemmas \(\d+\)\*\*: ([^\n]+)\n'
+        r'- \*\*Receptive Lemmas \(\d+\)\*\*: ([^\n]+)\n'
+        r'- \*\*Productive Expressions \(\d+\)\*\*: ([^\n]+)\n'
+        r'- \*\*Receptive Expressions \(\d+\)\*\*: ([^\n]+)'
+    )
+    matches = lesson_header_pattern.findall(full_report_text)
+    total_u21_25_lessons = sum(len(lessons_by_unit[u]) for u in range(21, 26))
+    assert len(matches) == total_u21_25_lessons, f"Expected {total_u21_25_lessons} lessons across Units 21-25 in report, got {len(matches)}"
+    
+    for lid, p_lem_str, r_lem_str, p_exp_str, r_exp_str in matches:
+        assert lid in lesson_lookup, f"Lesson {lid} in report not found in lesson_lookup!"
+        entry = lesson_lookup[lid]
+        
+        expected_p_lem = [committed_lemmas[i]['lemma'] for i in entry.get('productiveLemmaIds', []) if i in committed_lemmas]
+        expected_r_lem = [committed_lemmas[i]['lemma'] for i in entry.get('receptiveLemmaIds', []) if i in committed_lemmas]
+        expected_p_exp = [committed_exprs[i]['expression'] for i in entry.get('productiveExpressionIds', []) if i in committed_exprs]
+        expected_r_exp = [committed_exprs[i]['expression'] for i in entry.get('receptiveExpressionIds', []) if i in committed_exprs]
+        
+        actual_p_lem = [w.strip() for w in p_lem_str.split(',') if w.strip() and w.strip() != '—']
+        actual_r_lem = [w.strip() for w in r_lem_str.split(',') if w.strip() and w.strip() != '—']
+        actual_p_exp = [w.strip() for w in p_exp_str.split(',') if w.strip() and w.strip() != '—']
+        actual_r_exp = [w.strip() for w in r_exp_str.split(',') if w.strip() and w.strip() != '—']
+        
+        assert actual_p_lem == expected_p_lem, f"Productive lemma mismatch in report for {lid}: {actual_p_lem} != {expected_p_lem}"
+        assert actual_r_lem == expected_r_lem, f"Receptive lemma mismatch in report for {lid}: {actual_r_lem} != {expected_r_lem}"
+        assert actual_p_exp == expected_p_exp, f"Productive expression mismatch in report for {lid}: {actual_p_exp} != {expected_p_exp}"
+        assert actual_r_exp == expected_r_exp, f"Receptive expression mismatch in report for {lid}: {actual_r_exp} != {expected_r_exp}"
+
+    print(f"  ✓ Deterministic lesson inventory verified across all {len(matches)} lessons (100.0% parity with lookup).")
     print("  ✓ Adversarial report-integrity validation passed with 0 violations.")
     print("\n" + "=" * 80)
     print("✓ REPORT INTEGRITY & RECONCILIATION GATE: PASS")

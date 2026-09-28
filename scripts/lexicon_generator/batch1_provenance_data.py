@@ -96,12 +96,12 @@ def get_batch1_expression_provenance_and_status(index, cyr_expr, exp_type, lesso
             "sourceReference": rec["actualSourceConsulted"],
             "searchedHeadword": cyr_expr,
             "sourceLocator": rec["exactLocator"],
-            "verificationResult": "VERIFIED",
+            "verificationResult": "VERIFIED" if rec["status"] == "SOURCE_VERIFIED" else "REVIEWED",
             "verifiedDimensions": rec["dimensions"],
             "sourceNotes": rec["notes"],
             "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK" if src_type != "CONTEMPORARY_CORPUS" else "CORPUS_ATTESTATION",
             "verifiedAt": "2026-09-27T16:45:00Z"
-        }, "SOURCE_VERIFIED"
+        }, rec["status"]
 
     # Non-audited expressions: strictly LINGUISTICALLY_REVIEWED
     dims = make_dimensions("VERIFIED", "REVIEWED_INFERRED", "REVIEWED_INFERRED", "VERIFIED", "REVIEWED_INFERRED", "REVIEWED_INFERRED", "REVIEWED_INFERRED")
