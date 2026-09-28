@@ -5256,23 +5256,23 @@
       "irregularity": "regular"
     },
     "senseIndex": 1,
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "ACADEMIC_GRAMMAR",
       "sourceName": "Authoritative Reference",
-      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний зүй. Улаанбаатар: ШУА.",
+      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний бүтэц : монгол хэлний үг, нөхцөл хоёр нь. Улаанбаатар: ШУА / Luvsanvandan ed. (1966) Орчин цагийн монгол хэл зүй. Улаанбаатар: УХХЭХ (Conflated citation; physical text uninspected).",
       "searchedHeadword": "харин",
-      "sourceLocator": "Luvsanvandan (1968), p. 254 (Эсрэгцүүлэн холбох холбоос: харин)",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Luvsanvandan (1968), p. 254 (Unlocatable: p. 254 exceeds 191 pp. 1968 volume; physical 1966 344 pp. volume uninspected)",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
-        "lexicalExistence": "VERIFIED",
-        "englishGloss": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
         "partOfSpeech": "VERIFIED",
-        "register": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Adversative coordinating conjunction paradigm confirmed at p. 254.",
+      "sourceNotes": "Source identity conflation between Luvsanvandan 1968 (191 pp.) and 1966 multi-author grammar (344 pp.). Page 254 does not exist in 1968 volume. Demoted to LINGUISTICALLY_REVIEWED.",
       "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }
@@ -8879,23 +8879,23 @@
       "irregularity": "regular"
     },
     "senseIndex": 1,
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "ACADEMIC_GRAMMAR",
       "sourceName": "Authoritative Reference",
-      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний зүй. Улаанбаатар: ШУА.",
+      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний бүтэц : монгол хэлний үг, нөхцөл хоёр нь. Улаанбаатар: ШУА / Luvsanvandan ed. (1966) Орчин цагийн монгол хэл зүй. Улаанбаатар: УХХЭХ (Conflated citation; physical text uninspected).",
       "searchedHeadword": "дээр",
-      "sourceLocator": "Luvsanvandan (1968), p. 172 (Орон зайн дагавар үг: дээр)",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Luvsanvandan (1968), p. 172 (Unconfirmed: bibliographic conflation between 1968 191 pp. volume and 1966 grammar; physical text uninspected)",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
-        "lexicalExistence": "VERIFIED",
-        "englishGloss": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
         "partOfSpeech": "VERIFIED",
-        "register": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Spatial postposition paradigm verified at p. 172.",
+      "sourceNotes": "Conflated citation between Luvsanvandan 1968 and 1966 grammar; physical copy uninspected in environment. Demoted to LINGUISTICALLY_REVIEWED.",
       "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }
@@ -9658,23 +9658,23 @@
       "irregularity": "regular"
     },
     "senseIndex": 1,
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "ACADEMIC_GRAMMAR",
       "sourceName": "Authoritative Reference",
-      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний зүй. Улаанбаатар: ШУА.",
+      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний бүтэц : монгол хэлний үг, нөхцөл хоёр нь. Улаанбаатар: ШУА / Luvsanvandan ed. (1966) Орчин цагийн монгол хэл зүй. Улаанбаатар: УХХЭХ (Conflated citation; physical text uninspected).",
       "searchedHeadword": "хаана",
-      "sourceLocator": "Luvsanvandan (1968), p. 160 (Асуух төлөөний үг: хаана)",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Luvsanvandan (1968), p. 160 (Unconfirmed: bibliographic conflation between 1968 191 pp. volume and 1966 grammar; physical text uninspected)",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
-        "lexicalExistence": "VERIFIED",
-        "englishGloss": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
         "partOfSpeech": "VERIFIED",
-        "register": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Interrogative locative pronoun paradigm verified at p. 160.",
+      "sourceNotes": "Conflated citation between Luvsanvandan 1968 and 1966 grammar; physical copy uninspected in environment. Demoted to LINGUISTICALLY_REVIEWED.",
       "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }

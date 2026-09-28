@@ -3127,7 +3127,7 @@
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
         "lexicalExistence": "REVIEWED_INFERRED",
-        "englishGloss": "VERIFIED",
+        "englishGloss": "REVIEWED_INFERRED",
         "partOfSpeech": "VERIFIED",
         "register": "REVIEWED_INFERRED",
         "expressionNaturalness": "REVIEWED_INFERRED",
@@ -3167,7 +3167,7 @@
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
         "lexicalExistence": "REVIEWED_INFERRED",
-        "englishGloss": "VERIFIED",
+        "englishGloss": "REVIEWED_INFERRED",
         "partOfSpeech": "VERIFIED",
         "register": "REVIEWED_INFERRED",
         "expressionNaturalness": "REVIEWED_INFERRED",
@@ -3239,24 +3239,24 @@
       "lex_mn_lemma_00242"
     ],
     "usageNotes": "Conversational tag question seeking confirmation of expected fact.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "ACADEMIC_GRAMMAR",
       "sourceName": "Authoritative Reference",
-      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний зүй. Улаанбаатар: ШУА.",
+      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний бүтэц : монгол хэлний үг, нөхцөл хоёр нь. Улаанбаатар: ШУА / Luvsanvandan ed. (1966) Орчин цагийн монгол хэл зүй. Улаанбаатар: УХХЭХ (Conflated citation; physical text uninspected).",
       "searchedHeadword": "тийм биш үү",
-      "sourceLocator": "Luvsanvandan (1968), p. 187 (Асуух сул үгийн загвар: тийм биш үү)",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Luvsanvandan (1968), p. 187 (Unconfirmed: bibliographic conflation between 1968 and 1966 grammar; physical copy uninspected)",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
-        "lexicalExistence": "VERIFIED",
-        "englishGloss": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
         "partOfSpeech": "VERIFIED",
-        "register": "VERIFIED",
-        "expressionNaturalness": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Conversational tag question model in grammar syntax section.",
+      "sourceNotes": "Conflated citation between Luvsanvandan 1968 and 1966 grammar; physical copy uninspected. Demoted to LINGUISTICALLY_REVIEWED.",
       "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }
@@ -3373,7 +3373,7 @@
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
         "lexicalExistence": "REVIEWED_INFERRED",
-        "englishGloss": "VERIFIED",
+        "englishGloss": "REVIEWED_INFERRED",
         "partOfSpeech": "VERIFIED",
         "register": "REVIEWED_INFERRED",
         "expressionNaturalness": "REVIEWED_INFERRED",
@@ -3414,7 +3414,7 @@
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
         "lexicalExistence": "REVIEWED_INFERRED",
-        "englishGloss": "VERIFIED",
+        "englishGloss": "REVIEWED_INFERRED",
         "partOfSpeech": "VERIFIED",
         "register": "REVIEWED_INFERRED",
         "expressionNaturalness": "REVIEWED_INFERRED",
@@ -3455,7 +3455,7 @@
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
         "lexicalExistence": "REVIEWED_INFERRED",
-        "englishGloss": "VERIFIED",
+        "englishGloss": "REVIEWED_INFERRED",
         "partOfSpeech": "VERIFIED",
         "register": "REVIEWED_INFERRED",
         "expressionNaturalness": "REVIEWED_INFERRED",
@@ -3621,7 +3621,7 @@
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
         "lexicalExistence": "REVIEWED_INFERRED",
-        "englishGloss": "VERIFIED",
+        "englishGloss": "REVIEWED_INFERRED",
         "partOfSpeech": "VERIFIED",
         "register": "REVIEWED_INFERRED",
         "expressionNaturalness": "REVIEWED_INFERRED",
@@ -3733,24 +3733,24 @@
       "lex_mn_lemma_00278"
     ],
     "usageNotes": "Polite standard social inquiry regarding individual's name.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "ACADEMIC_GRAMMAR",
       "sourceName": "Authoritative Reference",
-      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний зүй. Улаанбаатар: ШУА.",
+      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний бүтэц : монгол хэлний үг, нөхцөл хоёр нь. Улаанбаатар: ШУА / Luvsanvandan ed. (1966) Орчин цагийн монгол хэл зүй. Улаанбаатар: УХХЭХ (Conflated citation; physical text uninspected).",
       "searchedHeadword": "таны нэр хэн бэ",
-      "sourceLocator": "Luvsanvandan (1968), p. 289 (Асуух өгүүлбэрийн жишээ: таны нэр хэн бэ)",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Luvsanvandan (1968), p. 289 (Unlocatable: p. 289 exceeds 191 pp. 1968 volume; physical 1966 volume uninspected)",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
-        "lexicalExistence": "VERIFIED",
-        "englishGloss": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
         "partOfSpeech": "VERIFIED",
-        "register": "VERIFIED",
-        "expressionNaturalness": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Standard personal identity inquiry illustrated in reference syntax section.",
+      "sourceNotes": "Source identity conflation between Luvsanvandan 1968 (191 pp.) and 1966 grammar (344 pp.). Page 289 exceeds 1968 volume. Demoted to LINGUISTICALLY_REVIEWED.",
       "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }
@@ -3977,24 +3977,24 @@
       "lex_mn_lemma_00134"
     ],
     "usageNotes": "Locative existential statement denoting home presence.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "ACADEMIC_GRAMMAR",
       "sourceName": "Authoritative Reference",
-      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний зүй. Улаанбаатар: ШУА.",
+      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний бүтэц : монгол хэлний үг, нөхцөл хоёр нь. Улаанбаатар: ШУА / Luvsanvandan ed. (1966) Орчин цагийн монгол хэл зүй. Улаанбаатар: УХХЭХ (Conflated citation; physical text uninspected).",
       "searchedHeadword": "гэрт байна",
-      "sourceLocator": "Luvsanvandan (1968), p. 208 (Оршихуйн өгүүлэхүүн: гэрт байна)",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Luvsanvandan (1968), p. 208 (Unlocatable: p. 208 exceeds 191 pp. 1968 volume; physical 1966 volume uninspected)",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
-        "lexicalExistence": "VERIFIED",
-        "englishGloss": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
         "partOfSpeech": "VERIFIED",
-        "register": "VERIFIED",
-        "expressionNaturalness": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Locative existential predicate pattern illustrated in academic grammar.",
+      "sourceNotes": "Source identity conflation between Luvsanvandan 1968 (191 pp.) and 1966 grammar (344 pp.). Page 208 exceeds 1968 volume. Demoted to LINGUISTICALLY_REVIEWED.",
       "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }
@@ -4068,7 +4068,7 @@
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
         "lexicalExistence": "REVIEWED_INFERRED",
-        "englishGloss": "VERIFIED",
+        "englishGloss": "REVIEWED_INFERRED",
         "partOfSpeech": "VERIFIED",
         "register": "REVIEWED_INFERRED",
         "expressionNaturalness": "REVIEWED_INFERRED",
@@ -4216,24 +4216,24 @@
       "lex_mn_lemma_00381"
     ],
     "usageNotes": "Prototypical postpositional locative phrase with genitive/stem allomorph.",
-    "status": "SOURCE_VERIFIED",
+    "status": "LINGUISTICALLY_REVIEWED",
     "provenance": {
       "sourceType": "ACADEMIC_GRAMMAR",
       "sourceName": "Authoritative Reference",
-      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний зүй. Улаанбаатар: ШУА.",
+      "sourceReference": "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний бүтэц : монгол хэлний үг, нөхцөл хоёр нь. Улаанбаатар: ШУА / Luvsanvandan ed. (1966) Орчин цагийн монгол хэл зүй. Улаанбаатар: УХХЭХ (Conflated citation; physical text uninspected).",
       "searchedHeadword": "ширээн дээр",
-      "sourceLocator": "Luvsanvandan (1968), p. 173 (Дагавар үгийн загвар: ширээн дээр)",
-      "verificationResult": "VERIFIED",
+      "sourceLocator": "Luvsanvandan (1968), p. 173 (Unconfirmed: bibliographic conflation between 1968 and 1966 grammar; physical copy uninspected)",
+      "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
-        "lexicalExistence": "VERIFIED",
-        "englishGloss": "VERIFIED",
+        "lexicalExistence": "REVIEWED_INFERRED",
+        "englishGloss": "REVIEWED_INFERRED",
         "partOfSpeech": "VERIFIED",
-        "register": "VERIFIED",
-        "expressionNaturalness": "VERIFIED",
+        "register": "REVIEWED_INFERRED",
+        "expressionNaturalness": "REVIEWED_INFERRED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Prototypical unstable-n postpositional locative pattern illustrated in reference grammar.",
+      "sourceNotes": "Conflated citation between Luvsanvandan 1968 and 1966 grammar; physical copy uninspected. Demoted to LINGUISTICALLY_REVIEWED.",
       "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }
@@ -4302,18 +4302,18 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Стандартчилал хэмжил зүйн газар (MNS 5283:2014, MNS 5012:2011).",
       "searchedHeadword": "хотын төв",
-      "sourceLocator": "MNS 5012:2011, 4.1 (Contradicted: standard covers public transport terminology; does not contain quoted signage statement)",
+      "sourceLocator": "MNS 5012:2011, 4.1 (Contradicted: standard concerns 'Нийтийн зорчигч тээврийн үйлчилгээ. Ангилал ба үйлчилгээнд тавих ерөнхий шаардлага'; does not establish the collocation 'хотын төв')",
       "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
         "lexicalExistence": "REVIEWED_INFERRED",
-        "englishGloss": "VERIFIED",
+        "englishGloss": "REVIEWED_INFERRED",
         "partOfSpeech": "VERIFIED",
         "register": "REVIEWED_INFERRED",
         "expressionNaturalness": "REVIEWED_INFERRED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Cited MNS 5012:2011 §4.1 is contradicted upon external inspection (defines public transport terminology, not city center signage). Demoted to LINGUISTICALLY_REVIEWED.",
+      "sourceNotes": "Cited MNS 5012:2011 §4.1 concerns public passenger transport services and classification, not linguistic lexical definitions. Demoted to LINGUISTICALLY_REVIEWED.",
       "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }
@@ -4381,18 +4381,18 @@
       "sourceName": "Authoritative Reference",
       "sourceReference": "Стандартчилал хэмжил зүйн газар (MNS 5283:2014, MNS 5012:2011).",
       "searchedHeadword": "аваарын гарц",
-      "sourceLocator": "MNS 5283:2014, заалт 5.4.2 (Contradicted: standard covers street/road address signage, not emergency exit safety signs)",
+      "sourceLocator": "MNS 5283:2014, заалт 5.4.2 (Contradicted: standard concerns general requirements for address signage for streets, roads, squares, and immovable property; does not establish emergency exit 'аваарын гарц')",
       "verificationResult": "REVIEWED",
       "verifiedDimensions": {
         "orthographicForm": "VERIFIED",
         "lexicalExistence": "REVIEWED_INFERRED",
-        "englishGloss": "VERIFIED",
+        "englishGloss": "REVIEWED_INFERRED",
         "partOfSpeech": "VERIFIED",
         "register": "REVIEWED_INFERRED",
         "expressionNaturalness": "REVIEWED_INFERRED",
         "lessonSuitability": "REVIEWED_INFERRED"
       },
-      "sourceNotes": "Cited MNS 5283:2014 clause 5.4.2 is contradicted upon external inspection (standard scope is real property address signage). Demoted to LINGUISTICALLY_REVIEWED.",
+      "sourceNotes": "Cited MNS 5283:2014 clause 5.4.2 concerns address signage standards for streets, roads, and property, not emergency exit phrasing. Demoted to LINGUISTICALLY_REVIEWED.",
       "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK",
       "verifiedAt": "2026-09-27T16:45:00Z"
     }

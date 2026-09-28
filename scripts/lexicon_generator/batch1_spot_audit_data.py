@@ -12,7 +12,7 @@ Sample Specification:
 """
 
 TSEVEL_1966 = "Tsevel, Ya. (1966). Монгол хэлний товч тайлбар толь. Улаанбаатар: Улсын хэвлэлийн хэрэг эрхлэх хороо."
-LUVSANVANDAN_1968 = "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний зүй. Улаанбаатар: ШУА."
+LUVSANVANDAN_1968 = "Luvsanvandan, Sh. (1968). Орчин цагийн монгол хэлний бүтэц : монгол хэлний үг, нөхцөл хоёр нь. Улаанбаатар: ШУА / Luvsanvandan ed. (1966) Орчин цагийн монгол хэл зүй. Улаанбаатар: УХХЭХ (Conflated citation; physical text uninspected)."
 CORPUS_2021 = "Монгол хэлний үндэсний корпус (2021). ШУА-ийн Хэл зохиолын хүрээлэн."
 MNS_STANDARDS = "Стандартчилал хэмжил зүйн газар (MNS 5283:2014, MNS 5012:2011)."
 STATE_LAW = "Монгол Улсын засаг захиргаа, нутаг дэвсгэрийн нэгж, түүний удирдлагын тухай хууль (2020)."
@@ -86,27 +86,27 @@ BATCH1_SAMPLE_LEMMAS = [
         "pos": "conjunction",
         "cefrLevel": "A1",
         "lessonId": "les_a1_21_02_correcting_false_assumptions_clarification",
-        "status": "SOURCE_VERIFIED",
+        "status": "LINGUISTICALLY_REVIEWED",
         "sourceClaimed": "Academic Reference Grammar",
         "actualSourceConsulted": LUVSANVANDAN_1968,
-        "exactLocator": "Luvsanvandan (1968), p. 254 (Эсрэгцүүлэн холбох холбоос: харин)",
-        "exactFormFound": True,
+        "exactLocator": "Luvsanvandan (1968), p. 254 (Unlocatable: p. 254 exceeds 191 pp. 1968 volume; physical 1966 344 pp. volume uninspected)",
+        "exactFormFound": False,
         "meaningSupported": True,
         "posSupported": True,
-        "registerSupport": "DIRECTLY_SUPPORTED",
+        "registerSupport": "INFERRED",
         "categoryCorrectness": True,
         "duplicateStatus": "UNIQUE",
         "lessonAlignmentVerdict": "ACCEPT",
-        "classification": "CONFIRMED",
+        "classification": "SOURCE_NOT_LOCATED",
         "dimensions": {
             "orthographicForm": "VERIFIED",
-            "lexicalExistence": "VERIFIED",
-            "englishGloss": "VERIFIED",
+            "lexicalExistence": "REVIEWED_INFERRED",
+            "englishGloss": "REVIEWED_INFERRED",
             "partOfSpeech": "VERIFIED",
-            "register": "VERIFIED",
+            "register": "REVIEWED_INFERRED",
             "lessonSuitability": "REVIEWED_INFERRED"
         },
-        "notes": "Adversative coordinating conjunction paradigm confirmed at p. 254."
+        "notes": "Source identity conflation between Luvsanvandan 1968 (191 pp.) and 1966 multi-author grammar (344 pp.). Page 254 does not exist in 1968 volume. Demoted to LINGUISTICALLY_REVIEWED."
     },
     # 4. 21_02: буруу (lex_mn_lemma_00298)
     {
@@ -624,27 +624,27 @@ BATCH1_SAMPLE_LEMMAS = [
         "pos": "postposition",
         "cefrLevel": "A1",
         "lessonId": "les_a1_25_01_dative_locative_allomorphs",
-        "status": "SOURCE_VERIFIED",
+        "status": "LINGUISTICALLY_REVIEWED",
         "sourceClaimed": "Academic Reference Grammar",
         "actualSourceConsulted": LUVSANVANDAN_1968,
-        "exactLocator": "Luvsanvandan (1968), p. 172 (Орон зайн дагавар үг: дээр)",
-        "exactFormFound": True,
+        "exactLocator": "Luvsanvandan (1968), p. 172 (Unconfirmed: bibliographic conflation between 1968 191 pp. volume and 1966 grammar; physical text uninspected)",
+        "exactFormFound": False,
         "meaningSupported": True,
         "posSupported": True,
-        "registerSupport": "DIRECTLY_SUPPORTED",
+        "registerSupport": "INFERRED",
         "categoryCorrectness": True,
         "duplicateStatus": "UNIQUE",
         "lessonAlignmentVerdict": "ACCEPT",
-        "classification": "CONFIRMED",
+        "classification": "SOURCE_NOT_LOCATED",
         "dimensions": {
             "orthographicForm": "VERIFIED",
-            "lexicalExistence": "VERIFIED",
-            "englishGloss": "VERIFIED",
+            "lexicalExistence": "REVIEWED_INFERRED",
+            "englishGloss": "REVIEWED_INFERRED",
             "partOfSpeech": "VERIFIED",
-            "register": "VERIFIED",
+            "register": "REVIEWED_INFERRED",
             "lessonSuitability": "REVIEWED_INFERRED"
         },
-        "notes": "Spatial postposition paradigm verified at p. 172."
+        "notes": "Conflated citation between Luvsanvandan 1968 and 1966 grammar; physical copy uninspected in environment. Demoted to LINGUISTICALLY_REVIEWED."
     },
     # 22. 25_01: байшин (lex_mn_lemma_00385)
     {
@@ -740,27 +740,27 @@ BATCH1_SAMPLE_LEMMAS = [
         "pos": "pronoun",
         "cefrLevel": "A1",
         "lessonId": "les_a1_25_04_spatial_inquiries_qa",
-        "status": "SOURCE_VERIFIED",
+        "status": "LINGUISTICALLY_REVIEWED",
         "sourceClaimed": "Academic Reference Grammar",
         "actualSourceConsulted": LUVSANVANDAN_1968,
-        "exactLocator": "Luvsanvandan (1968), p. 160 (Асуух төлөөний үг: хаана)",
-        "exactFormFound": True,
+        "exactLocator": "Luvsanvandan (1968), p. 160 (Unconfirmed: bibliographic conflation between 1968 191 pp. volume and 1966 grammar; physical text uninspected)",
+        "exactFormFound": False,
         "meaningSupported": True,
         "posSupported": True,
-        "registerSupport": "DIRECTLY_SUPPORTED",
+        "registerSupport": "INFERRED",
         "categoryCorrectness": True,
         "duplicateStatus": "UNIQUE",
         "lessonAlignmentVerdict": "ACCEPT",
-        "classification": "CONFIRMED",
+        "classification": "SOURCE_NOT_LOCATED",
         "dimensions": {
             "orthographicForm": "VERIFIED",
-            "lexicalExistence": "VERIFIED",
-            "englishGloss": "VERIFIED",
+            "lexicalExistence": "REVIEWED_INFERRED",
+            "englishGloss": "REVIEWED_INFERRED",
             "partOfSpeech": "VERIFIED",
-            "register": "VERIFIED",
+            "register": "REVIEWED_INFERRED",
             "lessonSuitability": "REVIEWED_INFERRED"
         },
-        "notes": "Interrogative locative pronoun paradigm verified at p. 160."
+        "notes": "Conflated citation between Luvsanvandan 1968 and 1966 grammar; physical copy uninspected in environment. Demoted to LINGUISTICALLY_REVIEWED."
     }
 ]
 
@@ -790,7 +790,7 @@ BATCH1_SAMPLE_EXPRESSIONS = [
         "dimensions": {
             "orthographicForm": "VERIFIED",
             "lexicalExistence": "REVIEWED_INFERRED",
-            "englishGloss": "VERIFIED",
+            "englishGloss": "REVIEWED_INFERRED",
             "partOfSpeech": "VERIFIED",
             "register": "REVIEWED_INFERRED",
             "expressionNaturalness": "REVIEWED_INFERRED",
@@ -820,7 +820,7 @@ BATCH1_SAMPLE_EXPRESSIONS = [
         "dimensions": {
             "orthographicForm": "VERIFIED",
             "lexicalExistence": "REVIEWED_INFERRED",
-            "englishGloss": "VERIFIED",
+            "englishGloss": "REVIEWED_INFERRED",
             "partOfSpeech": "VERIFIED",
             "register": "REVIEWED_INFERRED",
             "expressionNaturalness": "REVIEWED_INFERRED",
@@ -835,28 +835,28 @@ BATCH1_SAMPLE_EXPRESSIONS = [
         "type": "formulaic_language",
         "cefrLevel": "A1",
         "lessonId": "les_a1_21_03_negative_polar_questions_bish_uu",
-        "status": "SOURCE_VERIFIED",
+        "status": "LINGUISTICALLY_REVIEWED",
         "sourceClaimed": "Academic Reference Grammar & Spoken Corpus",
         "actualSourceConsulted": LUVSANVANDAN_1968,
-        "exactLocator": "Luvsanvandan (1968), p. 187 (Асуух сул үгийн загвар: тийм биш үү)",
-        "exactFormFound": True,
+        "exactLocator": "Luvsanvandan (1968), p. 187 (Unconfirmed: bibliographic conflation between 1968 and 1966 grammar; physical copy uninspected)",
+        "exactFormFound": False,
         "meaningSupported": True,
         "posSupported": True,
-        "registerSupport": "DIRECTLY_SUPPORTED",
+        "registerSupport": "INFERRED",
         "categoryCorrectness": True,
         "duplicateStatus": "UNIQUE",
         "lessonAlignmentVerdict": "ACCEPT",
-        "classification": "CONFIRMED",
+        "classification": "SOURCE_NOT_LOCATED",
         "dimensions": {
             "orthographicForm": "VERIFIED",
-            "lexicalExistence": "VERIFIED",
-            "englishGloss": "VERIFIED",
+            "lexicalExistence": "REVIEWED_INFERRED",
+            "englishGloss": "REVIEWED_INFERRED",
             "partOfSpeech": "VERIFIED",
-            "register": "VERIFIED",
-            "expressionNaturalness": "VERIFIED",
+            "register": "REVIEWED_INFERRED",
+            "expressionNaturalness": "REVIEWED_INFERRED",
             "lessonSuitability": "REVIEWED_INFERRED"
         },
-        "notes": "Conversational tag question model in grammar syntax section."
+        "notes": "Conflated citation between Luvsanvandan 1968 and 1966 grammar; physical copy uninspected. Demoted to LINGUISTICALLY_REVIEWED."
     },
 
     # -------------------------------------------------------------------------
@@ -884,7 +884,7 @@ BATCH1_SAMPLE_EXPRESSIONS = [
         "dimensions": {
             "orthographicForm": "VERIFIED",
             "lexicalExistence": "REVIEWED_INFERRED",
-            "englishGloss": "VERIFIED",
+            "englishGloss": "REVIEWED_INFERRED",
             "partOfSpeech": "VERIFIED",
             "register": "REVIEWED_INFERRED",
             "expressionNaturalness": "REVIEWED_INFERRED",
@@ -914,7 +914,7 @@ BATCH1_SAMPLE_EXPRESSIONS = [
         "dimensions": {
             "orthographicForm": "VERIFIED",
             "lexicalExistence": "REVIEWED_INFERRED",
-            "englishGloss": "VERIFIED",
+            "englishGloss": "REVIEWED_INFERRED",
             "partOfSpeech": "VERIFIED",
             "register": "REVIEWED_INFERRED",
             "expressionNaturalness": "REVIEWED_INFERRED",
@@ -944,7 +944,7 @@ BATCH1_SAMPLE_EXPRESSIONS = [
         "dimensions": {
             "orthographicForm": "VERIFIED",
             "lexicalExistence": "REVIEWED_INFERRED",
-            "englishGloss": "VERIFIED",
+            "englishGloss": "REVIEWED_INFERRED",
             "partOfSpeech": "VERIFIED",
             "register": "REVIEWED_INFERRED",
             "expressionNaturalness": "REVIEWED_INFERRED",
@@ -978,7 +978,7 @@ BATCH1_SAMPLE_EXPRESSIONS = [
         "dimensions": {
             "orthographicForm": "VERIFIED",
             "lexicalExistence": "REVIEWED_INFERRED",
-            "englishGloss": "VERIFIED",
+            "englishGloss": "REVIEWED_INFERRED",
             "partOfSpeech": "VERIFIED",
             "register": "REVIEWED_INFERRED",
             "expressionNaturalness": "REVIEWED_INFERRED",
@@ -993,28 +993,28 @@ BATCH1_SAMPLE_EXPRESSIONS = [
         "type": "formulaic_language",
         "cefrLevel": "A1",
         "lessonId": "les_a1_23_02_social_reception_introductions_and_origin",
-        "status": "SOURCE_VERIFIED",
+        "status": "LINGUISTICALLY_REVIEWED",
         "sourceClaimed": "Academic Reference Grammar",
         "actualSourceConsulted": LUVSANVANDAN_1968,
-        "exactLocator": "Luvsanvandan (1968), p. 289 (Асуух өгүүлбэрийн жишээ: таны нэр хэн бэ)",
-        "exactFormFound": True,
+        "exactLocator": "Luvsanvandan (1968), p. 289 (Unlocatable: p. 289 exceeds 191 pp. 1968 volume; physical 1966 volume uninspected)",
+        "exactFormFound": False,
         "meaningSupported": True,
         "posSupported": True,
-        "registerSupport": "DIRECTLY_SUPPORTED",
+        "registerSupport": "INFERRED",
         "categoryCorrectness": True,
         "duplicateStatus": "UNIQUE",
         "lessonAlignmentVerdict": "ACCEPT",
-        "classification": "CONFIRMED",
+        "classification": "SOURCE_NOT_LOCATED",
         "dimensions": {
             "orthographicForm": "VERIFIED",
-            "lexicalExistence": "VERIFIED",
-            "englishGloss": "VERIFIED",
+            "lexicalExistence": "REVIEWED_INFERRED",
+            "englishGloss": "REVIEWED_INFERRED",
             "partOfSpeech": "VERIFIED",
-            "register": "VERIFIED",
-            "expressionNaturalness": "VERIFIED",
+            "register": "REVIEWED_INFERRED",
+            "expressionNaturalness": "REVIEWED_INFERRED",
             "lessonSuitability": "REVIEWED_INFERRED"
         },
-        "notes": "Standard personal identity inquiry illustrated in reference syntax section."
+        "notes": "Source identity conflation between Luvsanvandan 1968 (191 pp.) and 1966 grammar (344 pp.). Page 289 exceeds 1968 volume. Demoted to LINGUISTICALLY_REVIEWED."
     },
     # 9. 23_04: албан ёсны айлчлал (lex_mn_expr_00098)
     {
@@ -1057,28 +1057,28 @@ BATCH1_SAMPLE_EXPRESSIONS = [
         "type": "collocation",
         "cefrLevel": "A1",
         "lessonId": "les_a1_24_01_existential_assertion_baina",
-        "status": "SOURCE_VERIFIED",
+        "status": "LINGUISTICALLY_REVIEWED",
         "sourceClaimed": "Academic Reference Grammar",
         "actualSourceConsulted": LUVSANVANDAN_1968,
-        "exactLocator": "Luvsanvandan (1968), p. 208 (Оршихуйн өгүүлэхүүн: гэрт байна)",
-        "exactFormFound": True,
+        "exactLocator": "Luvsanvandan (1968), p. 208 (Unlocatable: p. 208 exceeds 191 pp. 1968 volume; physical 1966 volume uninspected)",
+        "exactFormFound": False,
         "meaningSupported": True,
         "posSupported": True,
-        "registerSupport": "DIRECTLY_SUPPORTED",
+        "registerSupport": "INFERRED",
         "categoryCorrectness": True,
         "duplicateStatus": "UNIQUE",
         "lessonAlignmentVerdict": "ACCEPT",
-        "classification": "CONFIRMED",
+        "classification": "SOURCE_NOT_LOCATED",
         "dimensions": {
             "orthographicForm": "VERIFIED",
-            "lexicalExistence": "VERIFIED",
-            "englishGloss": "VERIFIED",
+            "lexicalExistence": "REVIEWED_INFERRED",
+            "englishGloss": "REVIEWED_INFERRED",
             "partOfSpeech": "VERIFIED",
-            "register": "VERIFIED",
-            "expressionNaturalness": "VERIFIED",
+            "register": "REVIEWED_INFERRED",
+            "expressionNaturalness": "REVIEWED_INFERRED",
             "lessonSuitability": "REVIEWED_INFERRED"
         },
-        "notes": "Locative existential predicate pattern illustrated in academic grammar."
+        "notes": "Source identity conflation between Luvsanvandan 1968 (191 pp.) and 1966 grammar (344 pp.). Page 208 exceeds 1968 volume. Demoted to LINGUISTICALLY_REVIEWED."
     },
     # 11. 24_02: энд алга (lex_mn_expr_00101)
     {
@@ -1102,7 +1102,7 @@ BATCH1_SAMPLE_EXPRESSIONS = [
         "dimensions": {
             "orthographicForm": "VERIFIED",
             "lexicalExistence": "REVIEWED_INFERRED",
-            "englishGloss": "VERIFIED",
+            "englishGloss": "REVIEWED_INFERRED",
             "partOfSpeech": "VERIFIED",
             "register": "REVIEWED_INFERRED",
             "expressionNaturalness": "REVIEWED_INFERRED",
@@ -1151,28 +1151,28 @@ BATCH1_SAMPLE_EXPRESSIONS = [
         "type": "collocation",
         "cefrLevel": "A1",
         "lessonId": "les_a1_25_01_dative_locative_allomorphs",
-        "status": "SOURCE_VERIFIED",
+        "status": "LINGUISTICALLY_REVIEWED",
         "sourceClaimed": "Academic Reference Grammar",
         "actualSourceConsulted": LUVSANVANDAN_1968,
-        "exactLocator": "Luvsanvandan (1968), p. 173 (Дагавар үгийн загвар: ширээн дээр)",
-        "exactFormFound": True,
+        "exactLocator": "Luvsanvandan (1968), p. 173 (Unconfirmed: bibliographic conflation between 1968 and 1966 grammar; physical copy uninspected)",
+        "exactFormFound": False,
         "meaningSupported": True,
         "posSupported": True,
-        "registerSupport": "DIRECTLY_SUPPORTED",
+        "registerSupport": "INFERRED",
         "categoryCorrectness": True,
         "duplicateStatus": "UNIQUE",
         "lessonAlignmentVerdict": "ACCEPT",
-        "classification": "CONFIRMED",
+        "classification": "SOURCE_NOT_LOCATED",
         "dimensions": {
             "orthographicForm": "VERIFIED",
-            "lexicalExistence": "VERIFIED",
-            "englishGloss": "VERIFIED",
+            "lexicalExistence": "REVIEWED_INFERRED",
+            "englishGloss": "REVIEWED_INFERRED",
             "partOfSpeech": "VERIFIED",
-            "register": "VERIFIED",
-            "expressionNaturalness": "VERIFIED",
+            "register": "REVIEWED_INFERRED",
+            "expressionNaturalness": "REVIEWED_INFERRED",
             "lessonSuitability": "REVIEWED_INFERRED"
         },
-        "notes": "Prototypical unstable-n postpositional locative pattern illustrated in reference grammar."
+        "notes": "Conflated citation between Luvsanvandan 1968 and 1966 grammar; physical copy uninspected. Demoted to LINGUISTICALLY_REVIEWED."
     },
     # 14. 25_02: хотын төв (lex_mn_expr_00107)
     {
@@ -1184,7 +1184,7 @@ BATCH1_SAMPLE_EXPRESSIONS = [
         "status": "LINGUISTICALLY_REVIEWED",
         "sourceClaimed": "Municipal Standards & Dictionary",
         "actualSourceConsulted": MNS_STANDARDS,
-        "exactLocator": "MNS 5012:2011, 4.1 (Contradicted: standard covers public transport terminology; does not contain quoted signage statement)",
+        "exactLocator": "MNS 5012:2011, 4.1 (Contradicted: standard concerns 'Нийтийн зорчигч тээврийн үйлчилгээ. Ангилал ба үйлчилгээнд тавих ерөнхий шаардлага'; does not establish the collocation 'хотын төв')",
         "exactFormFound": False,
         "meaningSupported": True,
         "posSupported": True,
@@ -1196,13 +1196,13 @@ BATCH1_SAMPLE_EXPRESSIONS = [
         "dimensions": {
             "orthographicForm": "VERIFIED",
             "lexicalExistence": "REVIEWED_INFERRED",
-            "englishGloss": "VERIFIED",
+            "englishGloss": "REVIEWED_INFERRED",
             "partOfSpeech": "VERIFIED",
             "register": "REVIEWED_INFERRED",
             "expressionNaturalness": "REVIEWED_INFERRED",
             "lessonSuitability": "REVIEWED_INFERRED"
         },
-        "notes": "Cited MNS 5012:2011 §4.1 is contradicted upon external inspection (defines public transport terminology, not city center signage). Demoted to LINGUISTICALLY_REVIEWED."
+        "notes": "Cited MNS 5012:2011 §4.1 concerns public passenger transport services and classification, not linguistic lexical definitions. Demoted to LINGUISTICALLY_REVIEWED."
     },
     # 15. 25_03: аваарын гарц (lex_mn_expr_00109)
     {
@@ -1214,7 +1214,7 @@ BATCH1_SAMPLE_EXPRESSIONS = [
         "status": "LINGUISTICALLY_REVIEWED",
         "sourceClaimed": "Public Safety Standards",
         "actualSourceConsulted": MNS_STANDARDS,
-        "exactLocator": "MNS 5283:2014, заалт 5.4.2 (Contradicted: standard covers street/road address signage, not emergency exit safety signs)",
+        "exactLocator": "MNS 5283:2014, заалт 5.4.2 (Contradicted: standard concerns general requirements for address signage for streets, roads, squares, and immovable property; does not establish emergency exit 'аваарын гарц')",
         "exactFormFound": False,
         "meaningSupported": True,
         "posSupported": True,
@@ -1226,12 +1226,12 @@ BATCH1_SAMPLE_EXPRESSIONS = [
         "dimensions": {
             "orthographicForm": "VERIFIED",
             "lexicalExistence": "REVIEWED_INFERRED",
-            "englishGloss": "VERIFIED",
+            "englishGloss": "REVIEWED_INFERRED",
             "partOfSpeech": "VERIFIED",
             "register": "REVIEWED_INFERRED",
             "expressionNaturalness": "REVIEWED_INFERRED",
             "lessonSuitability": "REVIEWED_INFERRED"
         },
-        "notes": "Cited MNS 5283:2014 clause 5.4.2 is contradicted upon external inspection (standard scope is real property address signage). Demoted to LINGUISTICALLY_REVIEWED."
+        "notes": "Cited MNS 5283:2014 clause 5.4.2 concerns address signage standards for streets, roads, and property, not emergency exit phrasing. Demoted to LINGUISTICALLY_REVIEWED."
     }
 ]

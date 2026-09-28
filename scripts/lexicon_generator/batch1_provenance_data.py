@@ -54,12 +54,12 @@ def get_batch1_lemma_provenance_and_status(index, cyr_lemma, pos, lesson_id):
             "sourceReference": rec["actualSourceConsulted"],
             "searchedHeadword": cyr_lemma,
             "sourceLocator": rec["exactLocator"],
-            "verificationResult": "VERIFIED",
+            "verificationResult": "VERIFIED" if rec["status"] == "SOURCE_VERIFIED" else "REVIEWED",
             "verifiedDimensions": rec["dimensions"],
             "sourceNotes": rec["notes"],
             "verificationMethod": "LEXICOGRAPHIC_CROSS_CHECK" if src_type != "CONTEMPORARY_CORPUS" else "CORPUS_ATTESTATION",
             "verifiedAt": "2026-09-27T16:45:00Z"
-        }, "SOURCE_VERIFIED"
+        }, rec["status"]
 
     # Non-audited records: strictly LINGUISTICALLY_REVIEWED with pending page locator
     dims = make_dimensions("VERIFIED", "REVIEWED_INFERRED", "REVIEWED_INFERRED", "VERIFIED", "REVIEWED_INFERRED", None, "REVIEWED_INFERRED")
